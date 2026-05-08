@@ -1,0 +1,1305 @@
+{
+  "album_id": "housing",
+  "pictures": [
+    {
+      "id": "housing_000",
+      "title": "居住建筑 - 图片1",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第1张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_000.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_000_0",
+        "housing_000_1",
+        "housing_000_2",
+        "housing_000_3",
+        "housing_000_4",
+        "housing_000_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "housing_001",
+      "title": "居住建筑 - 图片2",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第2张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_001.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_001_0",
+        "housing_001_1",
+        "housing_001_2",
+        "housing_001_3",
+        "housing_001_4",
+        "housing_001_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "housing_002",
+      "title": "居住建筑 - 图片3",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第3张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_002.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_002_0",
+        "housing_002_1",
+        "housing_002_2",
+        "housing_002_3",
+        "housing_002_4",
+        "housing_002_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "housing_003",
+      "title": "居住建筑 - 图片4",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第4张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_003.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_003_0",
+        "housing_003_1",
+        "housing_003_2",
+        "housing_003_3",
+        "housing_003_4",
+        "housing_003_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "housing_004",
+      "title": "居住建筑 - 图片5",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第5张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_004.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_004_0",
+        "housing_004_1",
+        "housing_004_2",
+        "housing_004_3",
+        "housing_004_4",
+        "housing_004_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "housing_005",
+      "title": "居住建筑 - 图片6",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第6张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_005.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_005_0",
+        "housing_005_1",
+        "housing_005_2",
+        "housing_005_3",
+        "housing_005_4",
+        "housing_005_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "housing_006",
+      "title": "居住建筑 - 图片7",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第7张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_006.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_006_0",
+        "housing_006_1",
+        "housing_006_2",
+        "housing_006_3",
+        "housing_006_4",
+        "housing_006_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "housing_007",
+      "title": "居住建筑 - 图片8",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第8张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_007.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_007_0",
+        "housing_007_1",
+        "housing_007_2",
+        "housing_007_3",
+        "housing_007_4",
+        "housing_007_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "housing_008",
+      "title": "居住建筑 - 图片9",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第9张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_008.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_008_0",
+        "housing_008_1",
+        "housing_008_2",
+        "housing_008_3",
+        "housing_008_4",
+        "housing_008_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "housing_009",
+      "title": "居住建筑 - 图片10",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第10张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_009.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_009_0",
+        "housing_009_1",
+        "housing_009_2",
+        "housing_009_3",
+        "housing_009_4",
+        "housing_009_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "housing_010",
+      "title": "居住建筑 - 图片11",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第11张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_010.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_010_0",
+        "housing_010_1",
+        "housing_010_2",
+        "housing_010_3",
+        "housing_010_4",
+        "housing_010_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "housing_011",
+      "title": "居住建筑 - 图片12",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第12张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_011.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_011_0",
+        "housing_011_1",
+        "housing_011_2",
+        "housing_011_3",
+        "housing_011_4",
+        "housing_011_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "housing_012",
+      "title": "居住建筑 - 图片13",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第13张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_012.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_012_0",
+        "housing_012_1",
+        "housing_012_2",
+        "housing_012_3",
+        "housing_012_4",
+        "housing_012_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "housing_013",
+      "title": "居住建筑 - 图片14",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第14张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_013.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_013_0",
+        "housing_013_1",
+        "housing_013_2",
+        "housing_013_3",
+        "housing_013_4",
+        "housing_013_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "housing_014",
+      "title": "居住建筑 - 图片15",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第15张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_014.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_014_0",
+        "housing_014_1",
+        "housing_014_2",
+        "housing_014_3",
+        "housing_014_4",
+        "housing_014_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "housing_015",
+      "title": "居住建筑 - 图片16",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第16张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_015.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_015_0",
+        "housing_015_1",
+        "housing_015_2",
+        "housing_015_3",
+        "housing_015_4",
+        "housing_015_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "housing_016",
+      "title": "居住建筑 - 图片17",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第17张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_016.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_016_0",
+        "housing_016_1",
+        "housing_016_2",
+        "housing_016_3",
+        "housing_016_4",
+        "housing_016_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "housing_017",
+      "title": "居住建筑 - 图片18",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第18张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_017.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_017_0",
+        "housing_017_1",
+        "housing_017_2",
+        "housing_017_3",
+        "housing_017_4",
+        "housing_017_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "housing_018",
+      "title": "居住建筑 - 图片19",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第19张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_018.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_018_0",
+        "housing_018_1",
+        "housing_018_2",
+        "housing_018_3",
+        "housing_018_4",
+        "housing_018_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "housing_019",
+      "title": "居住建筑 - 图片20",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第20张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_019.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_019_0",
+        "housing_019_1",
+        "housing_019_2",
+        "housing_019_3",
+        "housing_019_4",
+        "housing_019_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "housing_020",
+      "title": "居住建筑 - 图片21",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第21张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_020.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_020_0",
+        "housing_020_1",
+        "housing_020_2",
+        "housing_020_3",
+        "housing_020_4",
+        "housing_020_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "housing_021",
+      "title": "居住建筑 - 图片22",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第22张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_021.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_021_0",
+        "housing_021_1",
+        "housing_021_2",
+        "housing_021_3",
+        "housing_021_4",
+        "housing_021_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "housing_022",
+      "title": "居住建筑 - 图片23",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第23张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_022.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_022_0",
+        "housing_022_1",
+        "housing_022_2",
+        "housing_022_3",
+        "housing_022_4",
+        "housing_022_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "housing_023",
+      "title": "居住建筑 - 图片24",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第24张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_023.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_023_0",
+        "housing_023_1",
+        "housing_023_2",
+        "housing_023_3",
+        "housing_023_4",
+        "housing_023_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "housing_024",
+      "title": "居住建筑 - 图片25",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第25张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_024.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_024_0",
+        "housing_024_1",
+        "housing_024_2",
+        "housing_024_3",
+        "housing_024_4",
+        "housing_024_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "housing_025",
+      "title": "居住建筑 - 图片26",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第26张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_025.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_025_0",
+        "housing_025_1",
+        "housing_025_2",
+        "housing_025_3",
+        "housing_025_4",
+        "housing_025_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "housing_026",
+      "title": "居住建筑 - 图片27",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第27张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_026.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_026_0",
+        "housing_026_1",
+        "housing_026_2",
+        "housing_026_3",
+        "housing_026_4",
+        "housing_026_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "housing_027",
+      "title": "居住建筑 - 图片28",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第28张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_027.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_027_0",
+        "housing_027_1",
+        "housing_027_2",
+        "housing_027_3",
+        "housing_027_4",
+        "housing_027_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "housing_028",
+      "title": "居住建筑 - 图片29",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第29张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_028.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_028_0",
+        "housing_028_1",
+        "housing_028_2",
+        "housing_028_3",
+        "housing_028_4",
+        "housing_028_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "housing_029",
+      "title": "居住建筑 - 图片30",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第30张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_029.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_029_0",
+        "housing_029_1",
+        "housing_029_2",
+        "housing_029_3",
+        "housing_029_4",
+        "housing_029_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "housing_030",
+      "title": "居住建筑 - 图片31",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第31张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_030.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_030_0",
+        "housing_030_1",
+        "housing_030_2",
+        "housing_030_3",
+        "housing_030_4",
+        "housing_030_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "housing_031",
+      "title": "居住建筑 - 图片32",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第32张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_031.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_031_0",
+        "housing_031_1",
+        "housing_031_2",
+        "housing_031_3",
+        "housing_031_4",
+        "housing_031_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "housing_032",
+      "title": "居住建筑 - 图片33",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第33张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_032.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_032_0",
+        "housing_032_1",
+        "housing_032_2",
+        "housing_032_3",
+        "housing_032_4",
+        "housing_032_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "housing_033",
+      "title": "居住建筑 - 图片34",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第34张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_033.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_033_0",
+        "housing_033_1",
+        "housing_033_2",
+        "housing_033_3",
+        "housing_033_4",
+        "housing_033_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "housing_034",
+      "title": "居住建筑 - 图片35",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第35张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_034.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_034_0",
+        "housing_034_1",
+        "housing_034_2",
+        "housing_034_3",
+        "housing_034_4",
+        "housing_034_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "housing_035",
+      "title": "居住建筑 - 图片36",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第36张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_035.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_035_0",
+        "housing_035_1",
+        "housing_035_2",
+        "housing_035_3",
+        "housing_035_4",
+        "housing_035_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "housing_036",
+      "title": "居住建筑 - 图片37",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第37张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_036.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_036_0",
+        "housing_036_1",
+        "housing_036_2",
+        "housing_036_3",
+        "housing_036_4",
+        "housing_036_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "housing_037",
+      "title": "居住建筑 - 图片38",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第38张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_037.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_037_0",
+        "housing_037_1",
+        "housing_037_2",
+        "housing_037_3",
+        "housing_037_4",
+        "housing_037_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "housing_038",
+      "title": "居住建筑 - 图片39",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第39张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_038.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_038_0",
+        "housing_038_1",
+        "housing_038_2",
+        "housing_038_3",
+        "housing_038_4",
+        "housing_038_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "housing_039",
+      "title": "居住建筑 - 图片40",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第40张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_039.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_039_0",
+        "housing_039_1",
+        "housing_039_2",
+        "housing_039_3",
+        "housing_039_4",
+        "housing_039_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "housing_040",
+      "title": "居住建筑 - 图片41",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第41张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_040.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_040_0",
+        "housing_040_1",
+        "housing_040_2",
+        "housing_040_3",
+        "housing_040_4",
+        "housing_040_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "housing_041",
+      "title": "居住建筑 - 图片42",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第42张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_041.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_041_0",
+        "housing_041_1",
+        "housing_041_2",
+        "housing_041_3",
+        "housing_041_4",
+        "housing_041_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "housing_042",
+      "title": "居住建筑 - 图片43",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第43张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_042.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_042_0",
+        "housing_042_1",
+        "housing_042_2",
+        "housing_042_3",
+        "housing_042_4",
+        "housing_042_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "housing_043",
+      "title": "居住建筑 - 图片44",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第44张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_043.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_043_0",
+        "housing_043_1",
+        "housing_043_2",
+        "housing_043_3",
+        "housing_043_4",
+        "housing_043_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "housing_044",
+      "title": "居住建筑 - 图片45",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第45张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_044.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_044_0",
+        "housing_044_1",
+        "housing_044_2",
+        "housing_044_3",
+        "housing_044_4",
+        "housing_044_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "housing_045",
+      "title": "居住建筑 - 图片46",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第46张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_045.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_045_0",
+        "housing_045_1",
+        "housing_045_2",
+        "housing_045_3",
+        "housing_045_4",
+        "housing_045_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "housing_046",
+      "title": "居住建筑 - 图片47",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第47张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_046.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_046_0",
+        "housing_046_1",
+        "housing_046_2",
+        "housing_046_3",
+        "housing_046_4",
+        "housing_046_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "housing_047",
+      "title": "居住建筑 - 图片48",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第48张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_047.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_047_0",
+        "housing_047_1",
+        "housing_047_2",
+        "housing_047_3",
+        "housing_047_4",
+        "housing_047_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "housing_048",
+      "title": "居住建筑 - 图片49",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第49张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_048.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_048_0",
+        "housing_048_1",
+        "housing_048_2",
+        "housing_048_3",
+        "housing_048_4",
+        "housing_048_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "housing_049",
+      "title": "居住建筑 - 图片50",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第50张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_049.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_049_0",
+        "housing_049_1",
+        "housing_049_2",
+        "housing_049_3",
+        "housing_049_4",
+        "housing_049_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "housing_050",
+      "title": "居住建筑 - 图片51",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第51张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_050.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_050_0",
+        "housing_050_1",
+        "housing_050_2",
+        "housing_050_3",
+        "housing_050_4",
+        "housing_050_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "housing_051",
+      "title": "居住建筑 - 图片52",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第52张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_051.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_051_0",
+        "housing_051_1",
+        "housing_051_2",
+        "housing_051_3",
+        "housing_051_4",
+        "housing_051_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "housing_052",
+      "title": "居住建筑 - 图片53",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第53张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_052.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_052_0",
+        "housing_052_1",
+        "housing_052_2",
+        "housing_052_3",
+        "housing_052_4",
+        "housing_052_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "housing_053",
+      "title": "居住建筑 - 图片54",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第54张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_053.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_053_0",
+        "housing_053_1",
+        "housing_053_2",
+        "housing_053_3",
+        "housing_053_4",
+        "housing_053_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "housing_054",
+      "title": "居住建筑 - 图片55",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第55张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_054.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_054_0",
+        "housing_054_1",
+        "housing_054_2",
+        "housing_054_3",
+        "housing_054_4",
+        "housing_054_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "housing_055",
+      "title": "居住建筑 - 图片56",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第56张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_055.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_055_0",
+        "housing_055_1",
+        "housing_055_2",
+        "housing_055_3",
+        "housing_055_4",
+        "housing_055_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "housing_056",
+      "title": "居住建筑 - 图片57",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第57张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_056.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_056_0",
+        "housing_056_1",
+        "housing_056_2",
+        "housing_056_3",
+        "housing_056_4",
+        "housing_056_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "housing_057",
+      "title": "居住建筑 - 图片58",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第58张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_057.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_057_0",
+        "housing_057_1",
+        "housing_057_2",
+        "housing_057_3",
+        "housing_057_4",
+        "housing_057_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "housing_058",
+      "title": "居住建筑 - 图片59",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第59张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_058.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_058_0",
+        "housing_058_1",
+        "housing_058_2",
+        "housing_058_3",
+        "housing_058_4",
+        "housing_058_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "housing_059",
+      "title": "居住建筑 - 图片60",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第60张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_059.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_059_0",
+        "housing_059_1",
+        "housing_059_2",
+        "housing_059_3",
+        "housing_059_4",
+        "housing_059_5"
+      ],
+      "order": 59
+    },
+    {
+      "id": "housing_060",
+      "title": "居住建筑 - 图片61",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第61张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_060.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_060_0",
+        "housing_060_1",
+        "housing_060_2",
+        "housing_060_3",
+        "housing_060_4",
+        "housing_060_5"
+      ],
+      "order": 60
+    },
+    {
+      "id": "housing_061",
+      "title": "居住建筑 - 图片62",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第62张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_061.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_061_0",
+        "housing_061_1",
+        "housing_061_2",
+        "housing_061_3",
+        "housing_061_4",
+        "housing_061_5"
+      ],
+      "order": 61
+    },
+    {
+      "id": "housing_062",
+      "title": "居住建筑 - 图片63",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第63张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_062.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_062_0",
+        "housing_062_1",
+        "housing_062_2",
+        "housing_062_3",
+        "housing_062_4",
+        "housing_062_5"
+      ],
+      "order": 62
+    },
+    {
+      "id": "housing_063",
+      "title": "居住建筑 - 图片64",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第64张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_063.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_063_0",
+        "housing_063_1",
+        "housing_063_2",
+        "housing_063_3",
+        "housing_063_4",
+        "housing_063_5"
+      ],
+      "order": 63
+    },
+    {
+      "id": "housing_064",
+      "title": "居住建筑 - 图片65",
+      "summary": "居住建筑相关图片",
+      "full_text": "这是居住建筑中的第65张图片。",
+      "image": "res://assets/images/illustrations/housing/housing_064.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "housing_064_0",
+        "housing_064_1",
+        "housing_064_2",
+        "housing_064_3",
+        "housing_064_4",
+        "housing_064_5"
+      ],
+      "order": 64
+    }
+  ]
+}

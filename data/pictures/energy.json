@@ -1,0 +1,1305 @@
+{
+  "album_id": "energy",
+  "pictures": [
+    {
+      "id": "energy_000",
+      "title": "能源 - 图片1",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第1张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_000.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_000_0",
+        "energy_000_1",
+        "energy_000_2",
+        "energy_000_3",
+        "energy_000_4",
+        "energy_000_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "energy_001",
+      "title": "能源 - 图片2",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第2张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_001.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_001_0",
+        "energy_001_1",
+        "energy_001_2",
+        "energy_001_3",
+        "energy_001_4",
+        "energy_001_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "energy_002",
+      "title": "能源 - 图片3",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第3张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_002.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_002_0",
+        "energy_002_1",
+        "energy_002_2",
+        "energy_002_3",
+        "energy_002_4",
+        "energy_002_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "energy_003",
+      "title": "能源 - 图片4",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第4张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_003.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_003_0",
+        "energy_003_1",
+        "energy_003_2",
+        "energy_003_3",
+        "energy_003_4",
+        "energy_003_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "energy_004",
+      "title": "能源 - 图片5",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第5张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_004.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_004_0",
+        "energy_004_1",
+        "energy_004_2",
+        "energy_004_3",
+        "energy_004_4",
+        "energy_004_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "energy_005",
+      "title": "能源 - 图片6",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第6张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_005.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_005_0",
+        "energy_005_1",
+        "energy_005_2",
+        "energy_005_3",
+        "energy_005_4",
+        "energy_005_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "energy_006",
+      "title": "能源 - 图片7",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第7张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_006.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_006_0",
+        "energy_006_1",
+        "energy_006_2",
+        "energy_006_3",
+        "energy_006_4",
+        "energy_006_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "energy_007",
+      "title": "能源 - 图片8",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第8张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_007.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_007_0",
+        "energy_007_1",
+        "energy_007_2",
+        "energy_007_3",
+        "energy_007_4",
+        "energy_007_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "energy_008",
+      "title": "能源 - 图片9",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第9张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_008.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_008_0",
+        "energy_008_1",
+        "energy_008_2",
+        "energy_008_3",
+        "energy_008_4",
+        "energy_008_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "energy_009",
+      "title": "能源 - 图片10",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第10张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_009.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_009_0",
+        "energy_009_1",
+        "energy_009_2",
+        "energy_009_3",
+        "energy_009_4",
+        "energy_009_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "energy_010",
+      "title": "能源 - 图片11",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第11张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_010.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_010_0",
+        "energy_010_1",
+        "energy_010_2",
+        "energy_010_3",
+        "energy_010_4",
+        "energy_010_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "energy_011",
+      "title": "能源 - 图片12",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第12张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_011.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_011_0",
+        "energy_011_1",
+        "energy_011_2",
+        "energy_011_3",
+        "energy_011_4",
+        "energy_011_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "energy_012",
+      "title": "能源 - 图片13",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第13张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_012.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_012_0",
+        "energy_012_1",
+        "energy_012_2",
+        "energy_012_3",
+        "energy_012_4",
+        "energy_012_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "energy_013",
+      "title": "能源 - 图片14",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第14张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_013.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_013_0",
+        "energy_013_1",
+        "energy_013_2",
+        "energy_013_3",
+        "energy_013_4",
+        "energy_013_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "energy_014",
+      "title": "能源 - 图片15",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第15张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_014.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_014_0",
+        "energy_014_1",
+        "energy_014_2",
+        "energy_014_3",
+        "energy_014_4",
+        "energy_014_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "energy_015",
+      "title": "能源 - 图片16",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第16张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_015.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_015_0",
+        "energy_015_1",
+        "energy_015_2",
+        "energy_015_3",
+        "energy_015_4",
+        "energy_015_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "energy_016",
+      "title": "能源 - 图片17",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第17张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_016.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_016_0",
+        "energy_016_1",
+        "energy_016_2",
+        "energy_016_3",
+        "energy_016_4",
+        "energy_016_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "energy_017",
+      "title": "能源 - 图片18",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第18张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_017.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_017_0",
+        "energy_017_1",
+        "energy_017_2",
+        "energy_017_3",
+        "energy_017_4",
+        "energy_017_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "energy_018",
+      "title": "能源 - 图片19",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第19张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_018.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_018_0",
+        "energy_018_1",
+        "energy_018_2",
+        "energy_018_3",
+        "energy_018_4",
+        "energy_018_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "energy_019",
+      "title": "能源 - 图片20",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第20张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_019.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_019_0",
+        "energy_019_1",
+        "energy_019_2",
+        "energy_019_3",
+        "energy_019_4",
+        "energy_019_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "energy_020",
+      "title": "能源 - 图片21",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第21张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_020.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_020_0",
+        "energy_020_1",
+        "energy_020_2",
+        "energy_020_3",
+        "energy_020_4",
+        "energy_020_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "energy_021",
+      "title": "能源 - 图片22",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第22张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_021.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_021_0",
+        "energy_021_1",
+        "energy_021_2",
+        "energy_021_3",
+        "energy_021_4",
+        "energy_021_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "energy_022",
+      "title": "能源 - 图片23",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第23张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_022.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_022_0",
+        "energy_022_1",
+        "energy_022_2",
+        "energy_022_3",
+        "energy_022_4",
+        "energy_022_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "energy_023",
+      "title": "能源 - 图片24",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第24张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_023.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_023_0",
+        "energy_023_1",
+        "energy_023_2",
+        "energy_023_3",
+        "energy_023_4",
+        "energy_023_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "energy_024",
+      "title": "能源 - 图片25",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第25张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_024.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_024_0",
+        "energy_024_1",
+        "energy_024_2",
+        "energy_024_3",
+        "energy_024_4",
+        "energy_024_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "energy_025",
+      "title": "能源 - 图片26",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第26张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_025.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_025_0",
+        "energy_025_1",
+        "energy_025_2",
+        "energy_025_3",
+        "energy_025_4",
+        "energy_025_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "energy_026",
+      "title": "能源 - 图片27",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第27张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_026.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_026_0",
+        "energy_026_1",
+        "energy_026_2",
+        "energy_026_3",
+        "energy_026_4",
+        "energy_026_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "energy_027",
+      "title": "能源 - 图片28",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第28张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_027.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_027_0",
+        "energy_027_1",
+        "energy_027_2",
+        "energy_027_3",
+        "energy_027_4",
+        "energy_027_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "energy_028",
+      "title": "能源 - 图片29",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第29张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_028.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_028_0",
+        "energy_028_1",
+        "energy_028_2",
+        "energy_028_3",
+        "energy_028_4",
+        "energy_028_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "energy_029",
+      "title": "能源 - 图片30",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第30张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_029.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_029_0",
+        "energy_029_1",
+        "energy_029_2",
+        "energy_029_3",
+        "energy_029_4",
+        "energy_029_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "energy_030",
+      "title": "能源 - 图片31",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第31张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_030.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_030_0",
+        "energy_030_1",
+        "energy_030_2",
+        "energy_030_3",
+        "energy_030_4",
+        "energy_030_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "energy_031",
+      "title": "能源 - 图片32",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第32张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_031.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_031_0",
+        "energy_031_1",
+        "energy_031_2",
+        "energy_031_3",
+        "energy_031_4",
+        "energy_031_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "energy_032",
+      "title": "能源 - 图片33",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第33张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_032.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_032_0",
+        "energy_032_1",
+        "energy_032_2",
+        "energy_032_3",
+        "energy_032_4",
+        "energy_032_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "energy_033",
+      "title": "能源 - 图片34",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第34张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_033.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_033_0",
+        "energy_033_1",
+        "energy_033_2",
+        "energy_033_3",
+        "energy_033_4",
+        "energy_033_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "energy_034",
+      "title": "能源 - 图片35",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第35张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_034.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_034_0",
+        "energy_034_1",
+        "energy_034_2",
+        "energy_034_3",
+        "energy_034_4",
+        "energy_034_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "energy_035",
+      "title": "能源 - 图片36",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第36张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_035.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_035_0",
+        "energy_035_1",
+        "energy_035_2",
+        "energy_035_3",
+        "energy_035_4",
+        "energy_035_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "energy_036",
+      "title": "能源 - 图片37",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第37张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_036.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_036_0",
+        "energy_036_1",
+        "energy_036_2",
+        "energy_036_3",
+        "energy_036_4",
+        "energy_036_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "energy_037",
+      "title": "能源 - 图片38",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第38张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_037.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_037_0",
+        "energy_037_1",
+        "energy_037_2",
+        "energy_037_3",
+        "energy_037_4",
+        "energy_037_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "energy_038",
+      "title": "能源 - 图片39",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第39张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_038.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_038_0",
+        "energy_038_1",
+        "energy_038_2",
+        "energy_038_3",
+        "energy_038_4",
+        "energy_038_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "energy_039",
+      "title": "能源 - 图片40",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第40张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_039.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_039_0",
+        "energy_039_1",
+        "energy_039_2",
+        "energy_039_3",
+        "energy_039_4",
+        "energy_039_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "energy_040",
+      "title": "能源 - 图片41",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第41张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_040.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_040_0",
+        "energy_040_1",
+        "energy_040_2",
+        "energy_040_3",
+        "energy_040_4",
+        "energy_040_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "energy_041",
+      "title": "能源 - 图片42",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第42张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_041.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_041_0",
+        "energy_041_1",
+        "energy_041_2",
+        "energy_041_3",
+        "energy_041_4",
+        "energy_041_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "energy_042",
+      "title": "能源 - 图片43",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第43张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_042.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_042_0",
+        "energy_042_1",
+        "energy_042_2",
+        "energy_042_3",
+        "energy_042_4",
+        "energy_042_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "energy_043",
+      "title": "能源 - 图片44",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第44张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_043.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_043_0",
+        "energy_043_1",
+        "energy_043_2",
+        "energy_043_3",
+        "energy_043_4",
+        "energy_043_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "energy_044",
+      "title": "能源 - 图片45",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第45张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_044.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_044_0",
+        "energy_044_1",
+        "energy_044_2",
+        "energy_044_3",
+        "energy_044_4",
+        "energy_044_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "energy_045",
+      "title": "能源 - 图片46",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第46张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_045.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_045_0",
+        "energy_045_1",
+        "energy_045_2",
+        "energy_045_3",
+        "energy_045_4",
+        "energy_045_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "energy_046",
+      "title": "能源 - 图片47",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第47张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_046.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_046_0",
+        "energy_046_1",
+        "energy_046_2",
+        "energy_046_3",
+        "energy_046_4",
+        "energy_046_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "energy_047",
+      "title": "能源 - 图片48",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第48张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_047.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_047_0",
+        "energy_047_1",
+        "energy_047_2",
+        "energy_047_3",
+        "energy_047_4",
+        "energy_047_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "energy_048",
+      "title": "能源 - 图片49",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第49张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_048.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_048_0",
+        "energy_048_1",
+        "energy_048_2",
+        "energy_048_3",
+        "energy_048_4",
+        "energy_048_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "energy_049",
+      "title": "能源 - 图片50",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第50张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_049.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_049_0",
+        "energy_049_1",
+        "energy_049_2",
+        "energy_049_3",
+        "energy_049_4",
+        "energy_049_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "energy_050",
+      "title": "能源 - 图片51",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第51张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_050.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_050_0",
+        "energy_050_1",
+        "energy_050_2",
+        "energy_050_3",
+        "energy_050_4",
+        "energy_050_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "energy_051",
+      "title": "能源 - 图片52",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第52张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_051.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_051_0",
+        "energy_051_1",
+        "energy_051_2",
+        "energy_051_3",
+        "energy_051_4",
+        "energy_051_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "energy_052",
+      "title": "能源 - 图片53",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第53张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_052.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_052_0",
+        "energy_052_1",
+        "energy_052_2",
+        "energy_052_3",
+        "energy_052_4",
+        "energy_052_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "energy_053",
+      "title": "能源 - 图片54",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第54张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_053.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_053_0",
+        "energy_053_1",
+        "energy_053_2",
+        "energy_053_3",
+        "energy_053_4",
+        "energy_053_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "energy_054",
+      "title": "能源 - 图片55",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第55张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_054.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_054_0",
+        "energy_054_1",
+        "energy_054_2",
+        "energy_054_3",
+        "energy_054_4",
+        "energy_054_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "energy_055",
+      "title": "能源 - 图片56",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第56张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_055.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_055_0",
+        "energy_055_1",
+        "energy_055_2",
+        "energy_055_3",
+        "energy_055_4",
+        "energy_055_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "energy_056",
+      "title": "能源 - 图片57",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第57张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_056.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_056_0",
+        "energy_056_1",
+        "energy_056_2",
+        "energy_056_3",
+        "energy_056_4",
+        "energy_056_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "energy_057",
+      "title": "能源 - 图片58",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第58张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_057.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_057_0",
+        "energy_057_1",
+        "energy_057_2",
+        "energy_057_3",
+        "energy_057_4",
+        "energy_057_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "energy_058",
+      "title": "能源 - 图片59",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第59张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_058.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_058_0",
+        "energy_058_1",
+        "energy_058_2",
+        "energy_058_3",
+        "energy_058_4",
+        "energy_058_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "energy_059",
+      "title": "能源 - 图片60",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第60张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_059.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_059_0",
+        "energy_059_1",
+        "energy_059_2",
+        "energy_059_3",
+        "energy_059_4",
+        "energy_059_5"
+      ],
+      "order": 59
+    },
+    {
+      "id": "energy_060",
+      "title": "能源 - 图片61",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第61张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_060.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_060_0",
+        "energy_060_1",
+        "energy_060_2",
+        "energy_060_3",
+        "energy_060_4",
+        "energy_060_5"
+      ],
+      "order": 60
+    },
+    {
+      "id": "energy_061",
+      "title": "能源 - 图片62",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第62张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_061.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_061_0",
+        "energy_061_1",
+        "energy_061_2",
+        "energy_061_3",
+        "energy_061_4",
+        "energy_061_5"
+      ],
+      "order": 61
+    },
+    {
+      "id": "energy_062",
+      "title": "能源 - 图片63",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第63张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_062.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_062_0",
+        "energy_062_1",
+        "energy_062_2",
+        "energy_062_3",
+        "energy_062_4",
+        "energy_062_5"
+      ],
+      "order": 62
+    },
+    {
+      "id": "energy_063",
+      "title": "能源 - 图片64",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第64张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_063.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_063_0",
+        "energy_063_1",
+        "energy_063_2",
+        "energy_063_3",
+        "energy_063_4",
+        "energy_063_5"
+      ],
+      "order": 63
+    },
+    {
+      "id": "energy_064",
+      "title": "能源 - 图片65",
+      "summary": "能源相关图片",
+      "full_text": "这是能源中的第65张图片。",
+      "image": "res://assets/images/illustrations/energy/energy_064.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "energy_064_0",
+        "energy_064_1",
+        "energy_064_2",
+        "energy_064_3",
+        "energy_064_4",
+        "energy_064_5"
+      ],
+      "order": 64
+    }
+  ]
+}

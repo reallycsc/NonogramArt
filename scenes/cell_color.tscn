@@ -1,0 +1,81 @@
+[gd_scene format=3 uid="uid://dlknejxnmr5dn"]
+
+[ext_resource type="Script" uid="uid://c3wa57magmgpp" path="res://scripts/nonogram/cell_color.gd" id="1_7vmoe"]
+[ext_resource type="Texture2D" uid="uid://lxoobf2gx70r" path="res://assets/images/ui/nonogram/cell_color_crossed.png" id="2_nwdwy"]
+[ext_resource type="Texture2D" uid="uid://bjrvwdcfb5q2f" path="res://assets/images/ui/nonogram/cell_color_crossed_finished.png" id="3_nwdwy"]
+[ext_resource type="Texture2D" uid="uid://bh6c5pe0xnrof" path="res://assets/images/ui/nonogram/cell_hover_frame.png" id="4_jyt3n"]
+
+[node name="Cell" type="Control" unique_id=665222225]
+layout_mode = 3
+anchors_preset = 0
+mouse_filter = 1
+script = ExtResource("1_7vmoe")
+
+[node name="ColorRectFrame" type="ColorRect" parent="." unique_id=1034111902]
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 32.0
+mouse_filter = 1
+color = Color(0.7490196, 0.68235296, 0.57254905, 1)
+
+[node name="ColorRectWhite" type="ColorRect" parent="ColorRectFrame" unique_id=1042075723]
+layout_mode = 0
+offset_left = 1.0
+offset_top = 1.0
+offset_right = 31.0
+offset_bottom = 31.0
+mouse_filter = 2
+color = Color(0.9882353, 0.96862745, 0.89411765, 1)
+
+[node name="ColorRect" type="ColorRect" parent="ColorRectFrame/ColorRectWhite" unique_id=76693501]
+layout_mode = 1
+offset_left = 2.0
+offset_top = 2.0
+offset_right = 28.0
+offset_bottom = 28.0
+pivot_offset = Vector2(14, 14)
+mouse_filter = 2
+
+[node name="ColorRectRed" type="ColorRect" parent="ColorRectFrame" unique_id=473191521]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 0
+offset_left = 1.0
+offset_top = 1.0
+offset_right = 31.0
+offset_bottom = 31.0
+mouse_filter = 2
+color = Color(1, 0, 0, 1)
+
+[node name="CellCrossSprite" type="Sprite2D" parent="." unique_id=1421756251]
+position = Vector2(16, 16)
+texture = ExtResource("2_nwdwy")
+
+[node name="CellCrossFinishedSprite" type="Sprite2D" parent="." unique_id=1112342851]
+visible = false
+position = Vector2(16, 16)
+texture = ExtResource("3_nwdwy")
+
+[node name="CellErrorSprite" type="Sprite2D" parent="." unique_id=1694568263]
+visible = false
+modulate = Color(1, 0, 0, 1)
+position = Vector2(26, 26)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("2_nwdwy")
+
+[node name="HoverRect" type="ColorRect" parent="." unique_id=185770274]
+visible = false
+layout_mode = 0
+offset_right = 32.0
+offset_bottom = 32.0
+mouse_filter = 2
+color = Color(0.4, 1, 1, 0.09803922)
+
+[node name="HoverFrameSprite" type="Sprite2D" parent="." unique_id=65647193]
+visible = false
+z_index = 1
+position = Vector2(-2, -2)
+texture = ExtResource("4_jyt3n")
+centered = false
+
+[connection signal="mouse_entered" from="ColorRectFrame" to="." method="_on_cell_mouse_entered"]
+[connection signal="mouse_exited" from="ColorRectFrame" to="." method="_on_cell_mouse_exited"]

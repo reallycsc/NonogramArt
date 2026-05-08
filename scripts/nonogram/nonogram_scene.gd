@@ -1,0 +1,475 @@
+extends Control
+
+# 节点引用
+@onready var game_board: Control = $GameBoard
+@onready var cell_container: Control = $GameBoard/CellContainer
+@onready var finish_button: TextureButton = $CanvasLayer/FinishNode/FinishButton
+
+@onready var hp_node: HBoxContainer = $CanvasLayer/HpNode
+
+@onready var finish_node: Control = $CanvasLayer/FinishNode
+@onready var finish_particles: CPUParticles2D = $CanvasLayer/FinishNode/FinishParticles
+@onready var finish_rect: TextureRect = $CanvasLayer/FinishNode/FinishTextureRect
+@onready var finish_audio_player: AudioStreamPlayer2D = $CanvasLayer/FinishNode/FinishAudioPlayer
+
+@onready var tips_node: Control = $CanvasLayer/TipsNode
+@onready var tips_node2: Control = $CanvasLayer/TipsNode2
+
+@onready var camera: Camera2D = $NonogramCamera
+@onready var click_audio_player: AudioStreamPlayer2D = $ClickAudioPlayer
+@onready var click_cross_audio_player: AudioStreamPlayer2D = $ClickCrossAudioPlayer
+
+# 预制场景
+var cell_scene: PackedScene = preload("res://scenes/cell_color.tscn")
+var rowHint_scene: PackedScene = preload("res://scenes/row_hint.tscn")
+var colHint_scene: PackedScene = preload("res://scenes/col_hint.tscn")
+
+var cell_size:Vector2 = Vector2(32,32)
+var cell_start_position = Vector2(0,0) # 格子在cellContainer中的起始位置
+var board_size:Vector2 = Vector2.ZERO
+
+var cells: Array[CellColor] = []
+var rowHints: Array[RowHint] = []       # 行提示
+var colHints: Array[ColHint] = []       # 行提示
+var frames: Node2D
+
+var is_dragging : bool = false
+var last_cell_index: Vector2i = Vector2i(-1, -1)
+var start_cell_index: Vector2i = Vector2i(-1, -1)
+var is_row_dragging:bool = false
+var is_col_dragging:bool = false
+var button_index:int = MOUSE_BUTTON_LEFT
+var cell_state_pair:Vector2i = Vector2i(-1, -1)
+var grid_size:Vector2i = Vector2i.ZERO
+var is_locked:bool = false
+var is_replay: bool = false
+
+var _album_id: String = ""
+var _picture_id: String = ""
+
+func _ready():
+	# 连接信号
+	GameManager.nonogram_cell_updated.connect(_on_cell_updated)
+	GameManager.nonogram_cell_finished.connect(_on_cell_finished)
+	GameManager.nonogram_rowHint_is_only_one_pattern.connect(_on_rowHint_is_only_one_pattern)
+	GameManager.nonogram_rowHint_deducible.connect(_on_rowHint_deducible)
+	GameManager.nonogram_rowHint_finished.connect(_on_rowHint_finished)
+	GameManager.nonogram_rowHint_error.connect(_on_rowHint_error)
+	GameManager.nonogram_colHint_is_only_one_pattern.connect(_on_colHint_is_only_one_pattern)
+	GameManager.nonogram_colHint_deducible.connect(_on_colHint_deducible)
+	GameManager.nonogram_colHint_finished.connect(_on_colHint_finished)
+	GameManager.nonogram_colHint_error.connect(_on_colHint_error)
+	GameManager.nonogram_game_completed.connect(_on_game_completed)
+	GameManager.nonogram_life_updated.connect(_on_life_updated)
+	GameManager.nonogram_game_over.connect(_on_game_over)
+	GameManager.language_changed.connect(_on_language_changed)
+	
+	if not NonogramManager.setup_game():
+		printerr("数织关卡初始化失败")
+		return
+	grid_size = NonogramManager.grid_size
+	# 清空现有格子
+	for child in cell_container.get_children():
+		child.queue_free()
+	_album_id = GameManager.pending_album_id
+	_picture_id = GameManager.pending_picture_id
+	GameManager.pending_album_id = ""
+	GameManager.pending_picture_id = ""
+	
+	setup_hints()
+	setup_grid()
+	setup_frame_and_dividers()
+	setup_board_size_and_position()
+	setup_tips()
+	setup_camera()
+	NonogramManager.check_and_update_after_ready()
+	
+# 设置提示数字
+func setup_hints():
+	rowHints.clear()
+	colHints.clear()
+	# 设置行提示
+	var max_width = 0
+	for x in range(grid_size.x):
+		var row_hint = rowHint_scene.instantiate()
+		cell_container.add_child(row_hint)
+		rowHints.append(row_hint)
+		var width = row_hint.setup(NonogramManager.get_row_hints(x), x)
+		max_width = max(max_width, width)
+	for row in rowHints:
+		row.update_width(max_width)
+	# 设置列提示
+	var max_height = 0
+	for y in range(grid_size.y):
+		var col_hint = colHint_scene.instantiate()
+		cell_container.add_child(col_hint)
+		colHints.append(col_hint)
+		var height = col_hint.setup(NonogramManager.get_col_hints(y), y)
+		max_height = max(max_height, height)
+	for col in colHints:
+		col.update_height(max_height)
+	# 设置行列提示的位置
+	cell_start_position = Vector2(max_width, max_height)
+	for x in range(grid_size.x):
+		rowHints[x].position = Vector2(0,cell_start_position.y+cell_size.y*x)
+	for y in range(grid_size.y):
+		colHints[y].position = Vector2(cell_start_position.x+cell_size.x*y,0)
+		
+# 设置游戏网格
+func setup_grid():
+	# 创建新格子
+	for x in range(grid_size.x):
+		for y in range(grid_size.y):
+			var cell = cell_scene.instantiate()
+			cell_container.add_child(cell)
+			cells.append(cell)
+			cell.setup(x, y, NonogramManager.get_color_by_index(x,y))
+			cell.position = cell_start_position+Vector2(y, x)*cell_size
+			cell.cell_hover_updated.connect(_on_cell_hover_updated)
+	# 计算棋盘大小
+	board_size = cell_start_position + cell_size*Vector2(grid_size.y,grid_size.x)
+	
+func setup_frame_and_dividers():
+	frames = Node2D.new()
+	cell_container.add_child(frames)
+	
+	var block_size = 5
+	var line_width = 4
+	var line_color = Color("886254")
+	# 外框线
+	var frame_left = ColorRect.new()
+	frame_left.color = line_color
+	frame_left.size = Vector2(line_width, grid_size.x * cell_size.x+line_width*2-2)
+	frame_left.position = cell_start_position - Vector2(line_width-1,line_width-1)
+	frames.add_child(frame_left)
+	var frame_right = ColorRect.new()
+	frame_right.color = line_color
+	frame_right.size = Vector2(line_width, grid_size.x * cell_size.x+line_width*2-2)
+	frame_right.position = Vector2(board_size.x-1,cell_start_position.y-line_width+1)
+	frames.add_child(frame_right)
+	var frame_top = ColorRect.new()
+	frame_top.color = line_color
+	frame_top.size = Vector2(grid_size.y * cell_size.y+line_width*2-2, line_width)
+	frame_top.position = cell_start_position - Vector2(line_width-1,line_width-1)
+	frames.add_child(frame_top)
+	var frame_bottom = ColorRect.new()
+	frame_bottom.color = line_color
+	frame_bottom.size = Vector2(grid_size.y * cell_size.y+line_width*2-2, line_width)
+	frame_bottom.position = Vector2(cell_start_position.x-line_width+1,board_size.y-1)
+	frames.add_child(frame_bottom)
+	# 中间分割线
+	for y in range(1, floor(grid_size.y/block_size)):
+		var line = ColorRect.new()
+		line.color = line_color
+		line.size = Vector2(line_width, grid_size.x * cell_size.x+line_width)
+		line.position = cell_start_position + Vector2(block_size * y * cell_size.x, 0)-Vector2(line_width,line_width)/2
+		frames.add_child(line)
+	for x in range(1, floor(grid_size.x/block_size)):
+		var line = ColorRect.new()
+		line.color = line_color
+		line.size = Vector2(grid_size.y * cell_size.y+line_width, line_width)
+		line.position = cell_start_position + Vector2(0, block_size * x * cell_size.x)-Vector2(line_width,line_width)/2
+		frames.add_child(line)
+			
+# 缩放整体大小并设置棋盘居中
+func setup_board_size_and_position():
+	var screen_size = get_viewport_rect().size
+	var max_grid_size = max(grid_size.x, grid_size.y)
+	var scale_vector
+	if max_grid_size <= 10:
+		scale_vector = screen_size / board_size * 0.65
+	else:
+		scale_vector = screen_size / board_size * 0.7
+	var new_scale = Vector2.ONE * min(scale_vector.x, scale_vector.y)
+	game_board.scale = new_scale
+	board_size = board_size * new_scale
+	game_board.position = (screen_size-board_size)/2
+	game_board.position.clamp(Vector2.ZERO, screen_size)
+	
+# 设置相机
+func setup_camera():
+	camera.make_current()
+	camera.min_zoom = 1
+	camera.max_zoom = 1.5
+
+func setup_tips():
+	match GameManager.current_language:
+		GameManager.Language.CHINESE:
+			$CanvasLayer/TipsNode/Mask.size.x = 168
+			$CanvasLayer/TipsNode2/Mask.size.x = 200
+		_:
+			$CanvasLayer/TipsNode/Mask.size.x = 260
+			$CanvasLayer/TipsNode2/Mask.size.x = 300
+
+func show_ui():
+	$CanvasLayer.show()
+	
+# 格子更新回调
+func _on_cell_updated(x: int, y: int, state: int):
+	var cell_index = x * grid_size.y + y
+	if cell_index < cells.size():
+		var cell = cells[cell_index]
+		cell.update_appearance(state)
+
+# 格子完成回调
+func _on_cell_finished(x: int, y: int, is_error: bool = false):
+	var cell_index = x * grid_size.y + y
+	if cell_index < cells.size():
+		var cell = cells[cell_index]
+		cell.finish(is_error)
+		if is_error:
+			cell.update_appearance(NonogramManager.finish_cell_for_error(x, y))
+
+# 行提示只有1种模式回调
+func  _on_rowHint_is_only_one_pattern(index: int):
+	if index < rowHints.size():
+		rowHints[index].update_only_one_pattern()
+		
+# 行提示可推理回调
+func _on_rowHint_deducible(index: int, is_deducible: bool):
+	if index < rowHints.size():
+		rowHints[index].update_deducible(is_deducible)
+		
+# 行提示完成回调
+func _on_rowHint_finished(index: int):
+	if index < rowHints.size():
+		rowHints[index].finish()
+		
+# 行提示错误回调
+func _on_rowHint_error(index: int, is_error: bool):
+	if index < rowHints.size():
+		rowHints[index].update_error(is_error)
+
+# 列提示只有1种模式回调
+func  _on_colHint_is_only_one_pattern(index: int):
+	if index < colHints.size():
+		colHints[index].update_only_one_pattern()
+		
+# 列提示可推理回调
+func _on_colHint_deducible(index: int, is_deducible: bool):
+	if index < colHints.size():
+		colHints[index].update_deducible(is_deducible)
+		
+# 列提示完成回调
+func _on_colHint_finished(index: int):
+	if index < colHints.size():
+		colHints[index].finish()
+
+# 列提示错误回调
+func _on_colHint_error(index: int, is_error: bool):
+	if index < colHints.size():
+		colHints[index].update_error(is_error)
+
+# 游戏完成回调
+func _on_game_completed():
+	tips_node.hide()
+	tips_node2.hide()
+	hp_node.hide()
+	is_locked = true
+	# 相机复位动画
+	if camera.zoom != Vector2.ONE:
+		var tween_camera = create_tween()
+		AnimationManager.register_tween(tween_camera)
+		tween_camera.tween_property(camera, "zoom", Vector2.ONE, 0.5)
+	# 播放恭喜完成的文字动画
+	finish_node.show()
+	finish_rect.scale = Vector2(0.8,0.8)
+	finish_particles.restart()
+	finish_audio_player.play()
+	var tween = create_tween()
+	tween.set_parallel(true)
+	AnimationManager.register_tween(tween)
+	tween.tween_property(finish_rect, "scale", Vector2(1.1,1.1), 0.5).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
+	# 同时提示栏和格子淡出
+	for x in range(grid_size.x):
+		tween.tween_property(rowHints[x], "modulate:a", 0, 0.5)
+	for y in range(grid_size.y):
+		tween.tween_property(colHints[y], "modulate:a", 0, 0.5)
+	tween.tween_property(frames, "modulate:a", 0, 0.5)
+	tween.finished.connect(_play_finish_animation1)
+
+func _play_finish_animation1():
+	var tween = create_tween()
+	AnimationManager.register_tween(tween)
+	# 棋盘移动到居中为止
+	var position_new = cell_container.position - cell_start_position/2
+	tween.parallel().tween_property(cell_container, "position", position_new, 0.5)
+	tween.finished.connect(func():
+		finish_button.show()
+	)
+
+# 格子悬浮回调
+func _on_cell_hover_updated(x: int, y: int, is_hover: bool):
+	if is_locked:
+		return
+	rowHints[x].update_hover(is_hover)
+	colHints[y].update_hover(is_hover)
+	for y1 in range(grid_size.y):
+		cells[x * grid_size.y + y1].update_hover(is_hover)
+	for x1 in range(grid_size.x):
+		cells[x1 * grid_size.y + y].update_hover(is_hover)
+
+func _on_back_button_pressed() -> void:
+	GameManager.pending_album_id = _album_id
+	GameManager.pending_picture_id = _picture_id
+	get_tree().change_scene_to_file("res://scenes/album_detail.tscn")
+	
+func _on_restart_button_pressed() -> void:
+	get_tree().change_scene_to_file("res://scenes/nonogram_scene.tscn")
+	
+func _on_finish_button_pressed() -> void:
+	GameManager.pending_album_id = _album_id
+	GameManager.pending_picture_id = _picture_id
+	get_tree().change_scene_to_file("res://scenes/album_detail.tscn")
+
+func _on_finish_button_test_pressed() -> void:
+	$CanvasLayer/FinishButtonTest.hide()
+	_on_game_completed()
+
+# 输入处理
+func _unhandled_input(event: InputEvent) -> void:
+	if is_locked:
+		return
+	# 鼠标拖动	
+	if event is InputEventMouseMotion and is_dragging:
+		# 只处理和初始格子相同行或相同列的格子
+		var cell_index = get_cell_at_position(camera.get_global_mouse_position())
+		if is_valid_cell_position(cell_index)  and not is_cell_finished(cell_index) and cell_index != last_cell_index:
+			if not is_row_dragging and not is_col_dragging:
+				if cell_index.x != start_cell_index.x:
+					is_row_dragging = true
+				elif cell_index.y != start_cell_index.y:
+					is_col_dragging = true
+			var is_error = false
+			if is_row_dragging:
+				if last_cell_index.x < cell_index.x:
+					for i in range(last_cell_index.x, cell_index.x+1):
+						NonogramManager.on_cell_dragging(i, start_cell_index.y, button_index, cell_state_pair)
+						is_error = NonogramManager.check_and_handle_error(i, start_cell_index.y, cell_state_pair.y)
+						if is_error:
+							_on_cell_finished(i, start_cell_index.y, is_error)
+							break
+				elif last_cell_index.x > cell_index.x:
+					for i in range(cell_index.x, last_cell_index.x):
+						NonogramManager.on_cell_dragging(i, start_cell_index.y, button_index, cell_state_pair)
+						is_error = NonogramManager.check_and_handle_error(i, start_cell_index.y, cell_state_pair.y)
+						if is_error:
+							_on_cell_finished(i, start_cell_index.y, is_error)
+							break
+			elif is_col_dragging:
+				if last_cell_index.y < cell_index.y:
+					for i in range(last_cell_index.y, cell_index.y+1):
+						NonogramManager.on_cell_dragging(start_cell_index.x, i, button_index, cell_state_pair)
+						is_error = NonogramManager.check_and_handle_error(start_cell_index.x, i, cell_state_pair.y)
+						if is_error:
+							_on_cell_finished(start_cell_index.x, i, is_error)
+							break
+				elif last_cell_index.y > cell_index.y:
+					for i in range(cell_index.y, last_cell_index.y):
+						NonogramManager.on_cell_dragging(start_cell_index.x, i, button_index, cell_state_pair)
+						is_error = NonogramManager.check_and_handle_error(start_cell_index.x, i, cell_state_pair.y)
+						if is_error:
+							_on_cell_finished(start_cell_index.x, i, is_error)
+							break
+			last_cell_index = cell_index
+			if is_error:
+				is_dragging = false
+			else:
+				if button_index == MOUSE_BUTTON_LEFT:
+					click_audio_player.play()
+				elif button_index == MOUSE_BUTTON_RIGHT:
+					click_cross_audio_player.play()
+		get_viewport().set_input_as_handled()
+	# 鼠标点击
+	elif event is InputEventMouseButton:
+		if event.pressed:
+			var cell_index = get_cell_at_position(camera.get_global_mouse_position())
+			if is_valid_cell_position(cell_index) and not is_cell_finished(cell_index):
+				cell_state_pair = NonogramManager.on_cell_clicked(cell_index.x, cell_index.y, event.button_index)
+				# 检查错误填充
+				var is_error = NonogramManager.check_and_handle_error(cell_index.x, cell_index.y, cell_state_pair.y)
+				if is_error:
+					_on_cell_finished(cell_index.x, cell_index.y, is_error)
+				else: 
+					is_dragging = true
+					start_cell_index = cell_index
+					last_cell_index = cell_index
+					button_index = event.button_index
+					if button_index == MOUSE_BUTTON_LEFT:
+						click_audio_player.play()
+					elif button_index == MOUSE_BUTTON_RIGHT:
+						click_cross_audio_player.play()
+		else:
+			cell_state_pair = Vector2i(-1, -1)
+			is_dragging = false
+			is_row_dragging = false
+			is_col_dragging = false
+			start_cell_index = Vector2i(-1, -1)
+			last_cell_index = Vector2i(-1, -1)
+			button_index = MOUSE_BUTTON_NONE
+		get_viewport().set_input_as_handled()
+
+# 根据位置找到格子编号
+func get_cell_at_position(canvas_pos: Vector2) -> Vector2i:
+	var local_pos: Vector2 = canvas_pos-game_board.position-cell_start_position*game_board.scale
+	var index = local_pos / (cell_size*game_board.scale)
+	var cell_index = Vector2(index.y, index.x)
+	cell_index.clamp(Vector2.ZERO, grid_size-Vector2i.ONE)
+	return cell_index
+	
+# 检查格子坐标是否有效
+func is_valid_cell_position(cell_index: Vector2i) -> bool:
+	return (cell_index.x >= 0 and cell_index.y >= 0 and cell_index.x < grid_size.x and cell_index.y < grid_size.y)
+
+# 检查格子是否已结束
+func is_cell_finished(cell_index: Vector2i) -> bool:
+	var index = cell_index.x * grid_size.y + cell_index.y
+	if index < cells.size():
+		var cell = cells[index]
+		return cell.is_finished
+	return false
+
+# 生命值更新回调
+func _on_life_updated(life: int, x: int = 0, y: int = 0):
+	var cell_index = x * grid_size.y + y
+	if cell_index < cells.size():
+		var cell = cells[cell_index]
+		cell.life_change()
+	# 计算生命值变化
+	var change = life - hp_node.current_hp
+	hp_node.hp_change(change)
+	# 触发相机震动效果
+	camera.shake()
+
+# 游戏结束回调
+func _on_game_over():
+	# 显示游戏结束信息
+	print("游戏结束！生命值耗尽")
+	## 这里可以添加游戏结束的UI显示
+	#gameover_popup_canvas_layer.show()
+	#gameover_panel.scale = Vector2(0.9, 0.9)
+	#var tween = create_tween()
+	#tween.tween_property(gameover_panel, "scale", Vector2.ONE, 0.1)
+	#tween.finished.connect(func():
+		#get_tree().paused = true
+	#)
+	## 例如显示重新开始按钮等
+
+func _on_language_changed(language: int) -> void:
+	setup_tips()
+	
+func _exit_tree() -> void:
+	GameManager.nonogram_cell_updated.disconnect(_on_cell_updated)
+	GameManager.nonogram_cell_finished.disconnect(_on_cell_finished)
+	GameManager.nonogram_rowHint_is_only_one_pattern.disconnect(_on_rowHint_is_only_one_pattern)
+	GameManager.nonogram_rowHint_deducible.disconnect(_on_rowHint_deducible)
+	GameManager.nonogram_rowHint_finished.disconnect(_on_rowHint_finished)
+	GameManager.nonogram_rowHint_error.disconnect(_on_rowHint_error)
+	GameManager.nonogram_colHint_is_only_one_pattern.disconnect(_on_colHint_is_only_one_pattern)
+	GameManager.nonogram_colHint_deducible.disconnect(_on_colHint_deducible)
+	GameManager.nonogram_colHint_finished.disconnect(_on_colHint_finished)
+	GameManager.nonogram_colHint_error.disconnect(_on_colHint_error)
+	GameManager.nonogram_game_completed.disconnect(_on_game_completed)
+	GameManager.nonogram_life_updated.disconnect(_on_life_updated)
+	GameManager.nonogram_game_over.disconnect(_on_game_over)
+	GameManager.language_changed.disconnect(_on_language_changed)

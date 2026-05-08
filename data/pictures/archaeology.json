@@ -1,0 +1,1605 @@
+{
+  "album_id": "archaeology",
+  "pictures": [
+    {
+      "id": "archaeology_000",
+      "title": "考古发现与发掘 - 图片1",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第1张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_000.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_000_0",
+        "archaeology_000_1",
+        "archaeology_000_2",
+        "archaeology_000_3",
+        "archaeology_000_4",
+        "archaeology_000_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "archaeology_001",
+      "title": "考古发现与发掘 - 图片2",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第2张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_001.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_001_0",
+        "archaeology_001_1",
+        "archaeology_001_2",
+        "archaeology_001_3",
+        "archaeology_001_4",
+        "archaeology_001_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "archaeology_002",
+      "title": "考古发现与发掘 - 图片3",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第3张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_002.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_002_0",
+        "archaeology_002_1",
+        "archaeology_002_2",
+        "archaeology_002_3",
+        "archaeology_002_4",
+        "archaeology_002_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "archaeology_003",
+      "title": "考古发现与发掘 - 图片4",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第4张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_003.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_003_0",
+        "archaeology_003_1",
+        "archaeology_003_2",
+        "archaeology_003_3",
+        "archaeology_003_4",
+        "archaeology_003_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "archaeology_004",
+      "title": "考古发现与发掘 - 图片5",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第5张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_004.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_004_0",
+        "archaeology_004_1",
+        "archaeology_004_2",
+        "archaeology_004_3",
+        "archaeology_004_4",
+        "archaeology_004_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "archaeology_005",
+      "title": "考古发现与发掘 - 图片6",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第6张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_005.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_005_0",
+        "archaeology_005_1",
+        "archaeology_005_2",
+        "archaeology_005_3",
+        "archaeology_005_4",
+        "archaeology_005_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "archaeology_006",
+      "title": "考古发现与发掘 - 图片7",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第7张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_006.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_006_0",
+        "archaeology_006_1",
+        "archaeology_006_2",
+        "archaeology_006_3",
+        "archaeology_006_4",
+        "archaeology_006_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "archaeology_007",
+      "title": "考古发现与发掘 - 图片8",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第8张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_007.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_007_0",
+        "archaeology_007_1",
+        "archaeology_007_2",
+        "archaeology_007_3",
+        "archaeology_007_4",
+        "archaeology_007_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "archaeology_008",
+      "title": "考古发现与发掘 - 图片9",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第9张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_008.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_008_0",
+        "archaeology_008_1",
+        "archaeology_008_2",
+        "archaeology_008_3",
+        "archaeology_008_4",
+        "archaeology_008_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "archaeology_009",
+      "title": "考古发现与发掘 - 图片10",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第10张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_009.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_009_0",
+        "archaeology_009_1",
+        "archaeology_009_2",
+        "archaeology_009_3",
+        "archaeology_009_4",
+        "archaeology_009_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "archaeology_010",
+      "title": "考古发现与发掘 - 图片11",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第11张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_010.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_010_0",
+        "archaeology_010_1",
+        "archaeology_010_2",
+        "archaeology_010_3",
+        "archaeology_010_4",
+        "archaeology_010_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "archaeology_011",
+      "title": "考古发现与发掘 - 图片12",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第12张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_011.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_011_0",
+        "archaeology_011_1",
+        "archaeology_011_2",
+        "archaeology_011_3",
+        "archaeology_011_4",
+        "archaeology_011_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "archaeology_012",
+      "title": "考古发现与发掘 - 图片13",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第13张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_012.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_012_0",
+        "archaeology_012_1",
+        "archaeology_012_2",
+        "archaeology_012_3",
+        "archaeology_012_4",
+        "archaeology_012_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "archaeology_013",
+      "title": "考古发现与发掘 - 图片14",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第14张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_013.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_013_0",
+        "archaeology_013_1",
+        "archaeology_013_2",
+        "archaeology_013_3",
+        "archaeology_013_4",
+        "archaeology_013_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "archaeology_014",
+      "title": "考古发现与发掘 - 图片15",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第15张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_014.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_014_0",
+        "archaeology_014_1",
+        "archaeology_014_2",
+        "archaeology_014_3",
+        "archaeology_014_4",
+        "archaeology_014_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "archaeology_015",
+      "title": "考古发现与发掘 - 图片16",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第16张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_015.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_015_0",
+        "archaeology_015_1",
+        "archaeology_015_2",
+        "archaeology_015_3",
+        "archaeology_015_4",
+        "archaeology_015_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "archaeology_016",
+      "title": "考古发现与发掘 - 图片17",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第17张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_016.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_016_0",
+        "archaeology_016_1",
+        "archaeology_016_2",
+        "archaeology_016_3",
+        "archaeology_016_4",
+        "archaeology_016_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "archaeology_017",
+      "title": "考古发现与发掘 - 图片18",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第18张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_017.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_017_0",
+        "archaeology_017_1",
+        "archaeology_017_2",
+        "archaeology_017_3",
+        "archaeology_017_4",
+        "archaeology_017_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "archaeology_018",
+      "title": "考古发现与发掘 - 图片19",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第19张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_018.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_018_0",
+        "archaeology_018_1",
+        "archaeology_018_2",
+        "archaeology_018_3",
+        "archaeology_018_4",
+        "archaeology_018_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "archaeology_019",
+      "title": "考古发现与发掘 - 图片20",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第20张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_019.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_019_0",
+        "archaeology_019_1",
+        "archaeology_019_2",
+        "archaeology_019_3",
+        "archaeology_019_4",
+        "archaeology_019_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "archaeology_020",
+      "title": "考古发现与发掘 - 图片21",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第21张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_020.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_020_0",
+        "archaeology_020_1",
+        "archaeology_020_2",
+        "archaeology_020_3",
+        "archaeology_020_4",
+        "archaeology_020_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "archaeology_021",
+      "title": "考古发现与发掘 - 图片22",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第22张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_021.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_021_0",
+        "archaeology_021_1",
+        "archaeology_021_2",
+        "archaeology_021_3",
+        "archaeology_021_4",
+        "archaeology_021_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "archaeology_022",
+      "title": "考古发现与发掘 - 图片23",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第23张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_022.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_022_0",
+        "archaeology_022_1",
+        "archaeology_022_2",
+        "archaeology_022_3",
+        "archaeology_022_4",
+        "archaeology_022_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "archaeology_023",
+      "title": "考古发现与发掘 - 图片24",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第24张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_023.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_023_0",
+        "archaeology_023_1",
+        "archaeology_023_2",
+        "archaeology_023_3",
+        "archaeology_023_4",
+        "archaeology_023_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "archaeology_024",
+      "title": "考古发现与发掘 - 图片25",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第25张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_024.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_024_0",
+        "archaeology_024_1",
+        "archaeology_024_2",
+        "archaeology_024_3",
+        "archaeology_024_4",
+        "archaeology_024_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "archaeology_025",
+      "title": "考古发现与发掘 - 图片26",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第26张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_025.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_025_0",
+        "archaeology_025_1",
+        "archaeology_025_2",
+        "archaeology_025_3",
+        "archaeology_025_4",
+        "archaeology_025_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "archaeology_026",
+      "title": "考古发现与发掘 - 图片27",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第27张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_026.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_026_0",
+        "archaeology_026_1",
+        "archaeology_026_2",
+        "archaeology_026_3",
+        "archaeology_026_4",
+        "archaeology_026_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "archaeology_027",
+      "title": "考古发现与发掘 - 图片28",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第28张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_027.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_027_0",
+        "archaeology_027_1",
+        "archaeology_027_2",
+        "archaeology_027_3",
+        "archaeology_027_4",
+        "archaeology_027_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "archaeology_028",
+      "title": "考古发现与发掘 - 图片29",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第29张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_028.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_028_0",
+        "archaeology_028_1",
+        "archaeology_028_2",
+        "archaeology_028_3",
+        "archaeology_028_4",
+        "archaeology_028_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "archaeology_029",
+      "title": "考古发现与发掘 - 图片30",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第30张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_029.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_029_0",
+        "archaeology_029_1",
+        "archaeology_029_2",
+        "archaeology_029_3",
+        "archaeology_029_4",
+        "archaeology_029_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "archaeology_030",
+      "title": "考古发现与发掘 - 图片31",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第31张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_030.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_030_0",
+        "archaeology_030_1",
+        "archaeology_030_2",
+        "archaeology_030_3",
+        "archaeology_030_4",
+        "archaeology_030_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "archaeology_031",
+      "title": "考古发现与发掘 - 图片32",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第32张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_031.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_031_0",
+        "archaeology_031_1",
+        "archaeology_031_2",
+        "archaeology_031_3",
+        "archaeology_031_4",
+        "archaeology_031_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "archaeology_032",
+      "title": "考古发现与发掘 - 图片33",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第33张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_032.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_032_0",
+        "archaeology_032_1",
+        "archaeology_032_2",
+        "archaeology_032_3",
+        "archaeology_032_4",
+        "archaeology_032_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "archaeology_033",
+      "title": "考古发现与发掘 - 图片34",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第34张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_033.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_033_0",
+        "archaeology_033_1",
+        "archaeology_033_2",
+        "archaeology_033_3",
+        "archaeology_033_4",
+        "archaeology_033_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "archaeology_034",
+      "title": "考古发现与发掘 - 图片35",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第35张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_034.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_034_0",
+        "archaeology_034_1",
+        "archaeology_034_2",
+        "archaeology_034_3",
+        "archaeology_034_4",
+        "archaeology_034_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "archaeology_035",
+      "title": "考古发现与发掘 - 图片36",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第36张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_035.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_035_0",
+        "archaeology_035_1",
+        "archaeology_035_2",
+        "archaeology_035_3",
+        "archaeology_035_4",
+        "archaeology_035_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "archaeology_036",
+      "title": "考古发现与发掘 - 图片37",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第37张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_036.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_036_0",
+        "archaeology_036_1",
+        "archaeology_036_2",
+        "archaeology_036_3",
+        "archaeology_036_4",
+        "archaeology_036_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "archaeology_037",
+      "title": "考古发现与发掘 - 图片38",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第38张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_037.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_037_0",
+        "archaeology_037_1",
+        "archaeology_037_2",
+        "archaeology_037_3",
+        "archaeology_037_4",
+        "archaeology_037_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "archaeology_038",
+      "title": "考古发现与发掘 - 图片39",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第39张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_038.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_038_0",
+        "archaeology_038_1",
+        "archaeology_038_2",
+        "archaeology_038_3",
+        "archaeology_038_4",
+        "archaeology_038_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "archaeology_039",
+      "title": "考古发现与发掘 - 图片40",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第40张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_039.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_039_0",
+        "archaeology_039_1",
+        "archaeology_039_2",
+        "archaeology_039_3",
+        "archaeology_039_4",
+        "archaeology_039_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "archaeology_040",
+      "title": "考古发现与发掘 - 图片41",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第41张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_040.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_040_0",
+        "archaeology_040_1",
+        "archaeology_040_2",
+        "archaeology_040_3",
+        "archaeology_040_4",
+        "archaeology_040_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "archaeology_041",
+      "title": "考古发现与发掘 - 图片42",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第42张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_041.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_041_0",
+        "archaeology_041_1",
+        "archaeology_041_2",
+        "archaeology_041_3",
+        "archaeology_041_4",
+        "archaeology_041_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "archaeology_042",
+      "title": "考古发现与发掘 - 图片43",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第43张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_042.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_042_0",
+        "archaeology_042_1",
+        "archaeology_042_2",
+        "archaeology_042_3",
+        "archaeology_042_4",
+        "archaeology_042_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "archaeology_043",
+      "title": "考古发现与发掘 - 图片44",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第44张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_043.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_043_0",
+        "archaeology_043_1",
+        "archaeology_043_2",
+        "archaeology_043_3",
+        "archaeology_043_4",
+        "archaeology_043_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "archaeology_044",
+      "title": "考古发现与发掘 - 图片45",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第45张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_044.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_044_0",
+        "archaeology_044_1",
+        "archaeology_044_2",
+        "archaeology_044_3",
+        "archaeology_044_4",
+        "archaeology_044_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "archaeology_045",
+      "title": "考古发现与发掘 - 图片46",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第46张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_045.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_045_0",
+        "archaeology_045_1",
+        "archaeology_045_2",
+        "archaeology_045_3",
+        "archaeology_045_4",
+        "archaeology_045_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "archaeology_046",
+      "title": "考古发现与发掘 - 图片47",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第47张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_046.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_046_0",
+        "archaeology_046_1",
+        "archaeology_046_2",
+        "archaeology_046_3",
+        "archaeology_046_4",
+        "archaeology_046_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "archaeology_047",
+      "title": "考古发现与发掘 - 图片48",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第48张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_047.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_047_0",
+        "archaeology_047_1",
+        "archaeology_047_2",
+        "archaeology_047_3",
+        "archaeology_047_4",
+        "archaeology_047_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "archaeology_048",
+      "title": "考古发现与发掘 - 图片49",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第49张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_048.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_048_0",
+        "archaeology_048_1",
+        "archaeology_048_2",
+        "archaeology_048_3",
+        "archaeology_048_4",
+        "archaeology_048_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "archaeology_049",
+      "title": "考古发现与发掘 - 图片50",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第50张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_049.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_049_0",
+        "archaeology_049_1",
+        "archaeology_049_2",
+        "archaeology_049_3",
+        "archaeology_049_4",
+        "archaeology_049_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "archaeology_050",
+      "title": "考古发现与发掘 - 图片51",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第51张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_050.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_050_0",
+        "archaeology_050_1",
+        "archaeology_050_2",
+        "archaeology_050_3",
+        "archaeology_050_4",
+        "archaeology_050_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "archaeology_051",
+      "title": "考古发现与发掘 - 图片52",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第52张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_051.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_051_0",
+        "archaeology_051_1",
+        "archaeology_051_2",
+        "archaeology_051_3",
+        "archaeology_051_4",
+        "archaeology_051_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "archaeology_052",
+      "title": "考古发现与发掘 - 图片53",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第53张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_052.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_052_0",
+        "archaeology_052_1",
+        "archaeology_052_2",
+        "archaeology_052_3",
+        "archaeology_052_4",
+        "archaeology_052_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "archaeology_053",
+      "title": "考古发现与发掘 - 图片54",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第54张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_053.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_053_0",
+        "archaeology_053_1",
+        "archaeology_053_2",
+        "archaeology_053_3",
+        "archaeology_053_4",
+        "archaeology_053_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "archaeology_054",
+      "title": "考古发现与发掘 - 图片55",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第55张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_054.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_054_0",
+        "archaeology_054_1",
+        "archaeology_054_2",
+        "archaeology_054_3",
+        "archaeology_054_4",
+        "archaeology_054_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "archaeology_055",
+      "title": "考古发现与发掘 - 图片56",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第56张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_055.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_055_0",
+        "archaeology_055_1",
+        "archaeology_055_2",
+        "archaeology_055_3",
+        "archaeology_055_4",
+        "archaeology_055_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "archaeology_056",
+      "title": "考古发现与发掘 - 图片57",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第57张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_056.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_056_0",
+        "archaeology_056_1",
+        "archaeology_056_2",
+        "archaeology_056_3",
+        "archaeology_056_4",
+        "archaeology_056_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "archaeology_057",
+      "title": "考古发现与发掘 - 图片58",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第58张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_057.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_057_0",
+        "archaeology_057_1",
+        "archaeology_057_2",
+        "archaeology_057_3",
+        "archaeology_057_4",
+        "archaeology_057_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "archaeology_058",
+      "title": "考古发现与发掘 - 图片59",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第59张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_058.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_058_0",
+        "archaeology_058_1",
+        "archaeology_058_2",
+        "archaeology_058_3",
+        "archaeology_058_4",
+        "archaeology_058_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "archaeology_059",
+      "title": "考古发现与发掘 - 图片60",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第60张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_059.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_059_0",
+        "archaeology_059_1",
+        "archaeology_059_2",
+        "archaeology_059_3",
+        "archaeology_059_4",
+        "archaeology_059_5"
+      ],
+      "order": 59
+    },
+    {
+      "id": "archaeology_060",
+      "title": "考古发现与发掘 - 图片61",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第61张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_060.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_060_0",
+        "archaeology_060_1",
+        "archaeology_060_2",
+        "archaeology_060_3",
+        "archaeology_060_4",
+        "archaeology_060_5"
+      ],
+      "order": 60
+    },
+    {
+      "id": "archaeology_061",
+      "title": "考古发现与发掘 - 图片62",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第62张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_061.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_061_0",
+        "archaeology_061_1",
+        "archaeology_061_2",
+        "archaeology_061_3",
+        "archaeology_061_4",
+        "archaeology_061_5"
+      ],
+      "order": 61
+    },
+    {
+      "id": "archaeology_062",
+      "title": "考古发现与发掘 - 图片63",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第63张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_062.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_062_0",
+        "archaeology_062_1",
+        "archaeology_062_2",
+        "archaeology_062_3",
+        "archaeology_062_4",
+        "archaeology_062_5"
+      ],
+      "order": 62
+    },
+    {
+      "id": "archaeology_063",
+      "title": "考古发现与发掘 - 图片64",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第64张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_063.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_063_0",
+        "archaeology_063_1",
+        "archaeology_063_2",
+        "archaeology_063_3",
+        "archaeology_063_4",
+        "archaeology_063_5"
+      ],
+      "order": 63
+    },
+    {
+      "id": "archaeology_064",
+      "title": "考古发现与发掘 - 图片65",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第65张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_064.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_064_0",
+        "archaeology_064_1",
+        "archaeology_064_2",
+        "archaeology_064_3",
+        "archaeology_064_4",
+        "archaeology_064_5"
+      ],
+      "order": 64
+    },
+    {
+      "id": "archaeology_065",
+      "title": "考古发现与发掘 - 图片66",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第66张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_065.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_065_0",
+        "archaeology_065_1",
+        "archaeology_065_2",
+        "archaeology_065_3",
+        "archaeology_065_4",
+        "archaeology_065_5"
+      ],
+      "order": 65
+    },
+    {
+      "id": "archaeology_066",
+      "title": "考古发现与发掘 - 图片67",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第67张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_066.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_066_0",
+        "archaeology_066_1",
+        "archaeology_066_2",
+        "archaeology_066_3",
+        "archaeology_066_4",
+        "archaeology_066_5"
+      ],
+      "order": 66
+    },
+    {
+      "id": "archaeology_067",
+      "title": "考古发现与发掘 - 图片68",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第68张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_067.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_067_0",
+        "archaeology_067_1",
+        "archaeology_067_2",
+        "archaeology_067_3",
+        "archaeology_067_4",
+        "archaeology_067_5"
+      ],
+      "order": 67
+    },
+    {
+      "id": "archaeology_068",
+      "title": "考古发现与发掘 - 图片69",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第69张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_068.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_068_0",
+        "archaeology_068_1",
+        "archaeology_068_2",
+        "archaeology_068_3",
+        "archaeology_068_4",
+        "archaeology_068_5"
+      ],
+      "order": 68
+    },
+    {
+      "id": "archaeology_069",
+      "title": "考古发现与发掘 - 图片70",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第70张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_069.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_069_0",
+        "archaeology_069_1",
+        "archaeology_069_2",
+        "archaeology_069_3",
+        "archaeology_069_4",
+        "archaeology_069_5"
+      ],
+      "order": 69
+    },
+    {
+      "id": "archaeology_070",
+      "title": "考古发现与发掘 - 图片71",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第71张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_070.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_070_0",
+        "archaeology_070_1",
+        "archaeology_070_2",
+        "archaeology_070_3",
+        "archaeology_070_4",
+        "archaeology_070_5"
+      ],
+      "order": 70
+    },
+    {
+      "id": "archaeology_071",
+      "title": "考古发现与发掘 - 图片72",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第72张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_071.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_071_0",
+        "archaeology_071_1",
+        "archaeology_071_2",
+        "archaeology_071_3",
+        "archaeology_071_4",
+        "archaeology_071_5"
+      ],
+      "order": 71
+    },
+    {
+      "id": "archaeology_072",
+      "title": "考古发现与发掘 - 图片73",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第73张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_072.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_072_0",
+        "archaeology_072_1",
+        "archaeology_072_2",
+        "archaeology_072_3",
+        "archaeology_072_4",
+        "archaeology_072_5"
+      ],
+      "order": 72
+    },
+    {
+      "id": "archaeology_073",
+      "title": "考古发现与发掘 - 图片74",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第74张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_073.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_073_0",
+        "archaeology_073_1",
+        "archaeology_073_2",
+        "archaeology_073_3",
+        "archaeology_073_4",
+        "archaeology_073_5"
+      ],
+      "order": 73
+    },
+    {
+      "id": "archaeology_074",
+      "title": "考古发现与发掘 - 图片75",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第75张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_074.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_074_0",
+        "archaeology_074_1",
+        "archaeology_074_2",
+        "archaeology_074_3",
+        "archaeology_074_4",
+        "archaeology_074_5"
+      ],
+      "order": 74
+    },
+    {
+      "id": "archaeology_075",
+      "title": "考古发现与发掘 - 图片76",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第76张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_075.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_075_0",
+        "archaeology_075_1",
+        "archaeology_075_2",
+        "archaeology_075_3",
+        "archaeology_075_4",
+        "archaeology_075_5"
+      ],
+      "order": 75
+    },
+    {
+      "id": "archaeology_076",
+      "title": "考古发现与发掘 - 图片77",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第77张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_076.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_076_0",
+        "archaeology_076_1",
+        "archaeology_076_2",
+        "archaeology_076_3",
+        "archaeology_076_4",
+        "archaeology_076_5"
+      ],
+      "order": 76
+    },
+    {
+      "id": "archaeology_077",
+      "title": "考古发现与发掘 - 图片78",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第78张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_077.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_077_0",
+        "archaeology_077_1",
+        "archaeology_077_2",
+        "archaeology_077_3",
+        "archaeology_077_4",
+        "archaeology_077_5"
+      ],
+      "order": 77
+    },
+    {
+      "id": "archaeology_078",
+      "title": "考古发现与发掘 - 图片79",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第79张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_078.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_078_0",
+        "archaeology_078_1",
+        "archaeology_078_2",
+        "archaeology_078_3",
+        "archaeology_078_4",
+        "archaeology_078_5"
+      ],
+      "order": 78
+    },
+    {
+      "id": "archaeology_079",
+      "title": "考古发现与发掘 - 图片80",
+      "summary": "考古发现与发掘相关图片",
+      "full_text": "这是考古发现与发掘中的第80张图片。",
+      "image": "res://assets/images/illustrations/archaeology/archaeology_079.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "archaeology_079_0",
+        "archaeology_079_1",
+        "archaeology_079_2",
+        "archaeology_079_3",
+        "archaeology_079_4",
+        "archaeology_079_5"
+      ],
+      "order": 79
+    }
+  ]
+}

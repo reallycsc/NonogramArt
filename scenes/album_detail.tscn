@@ -1,0 +1,145 @@
+[gd_scene format=3 uid="uid://sv1ob3phc8b3"]
+
+[ext_resource type="Script" uid="uid://c26wdap6g8hji" path="res://scripts/ui/album_detail.gd" id="1_wuixv"]
+[ext_resource type="Texture2D" uid="uid://syvftdoxg22e" path="res://assets/images/ui/album/album_bg.jpg" id="2_gd1ga"]
+[ext_resource type="Texture2D" uid="uid://bb0swdnygkro7" path="res://assets/images/ui/back_button.png" id="2_sifvh"]
+[ext_resource type="Texture2D" uid="uid://dl21gtkbq8vbh" path="res://assets/images/ui/back_button_pressed.png" id="3_56mfb"]
+[ext_resource type="Texture2D" uid="uid://b0i3m271x717t" path="res://assets/images/ui/back_button_hover.png" id="4_f6elx"]
+[ext_resource type="Texture2D" uid="uid://qttbva5lu8fo" path="res://assets/images/ui/album/pageup_btn.png" id="6_gd1ga"]
+[ext_resource type="Texture2D" uid="uid://4hx23m1omxhh" path="res://assets/images/ui/album/pageup_btn_pressed.png" id="7_5olgg"]
+[ext_resource type="Texture2D" uid="uid://bpe45ftt6cbil" path="res://assets/images/ui/album/pageup_btn_hover.png" id="8_p5f60"]
+[ext_resource type="Texture2D" uid="uid://bpfpag0k83nyq" path="res://assets/images/ui/album/pagedown_btn.png" id="9_vk71n"]
+[ext_resource type="Texture2D" uid="uid://thxds0n7t1v8" path="res://assets/images/ui/album/pagedown_btn_pressed.png" id="10_diffj"]
+[ext_resource type="Texture2D" uid="uid://c8j02m71nrg2v" path="res://assets/images/ui/album/pagedown_btn_hover.png" id="11_w05x7"]
+[ext_resource type="Texture2D" uid="uid://dcasia28k6lo6" path="res://assets/images/ui/main/main_setting_btn.png" id="12_vk71n"]
+[ext_resource type="Texture2D" uid="uid://dpl27cfsl1lob" path="res://assets/images/ui/main/main_setting_btn_pressed.png" id="13_diffj"]
+[ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="14_w05x7"]
+
+[node name="AlbumDetail" type="Control" unique_id=838641819]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_wuixv")
+
+[node name="Background" type="TextureRect" parent="." unique_id=2003451688]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_gd1ga")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=253889765]
+custom_minimum_size = Vector2(480, 320)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -240.0
+offset_top = -350.0
+offset_right = 240.0
+offset_bottom = 430.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 20
+
+[node name="IllustrationArea" type="Control" parent="VBoxContainer" unique_id=108689090]
+clip_contents = true
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="AlbumText" type="Label" parent="VBoxContainer" unique_id=1221459780]
+custom_minimum_size = Vector2(0, 200)
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0.44313726, 0.26666668, 0.11372549, 1)
+theme_override_font_sizes/font_size = 28
+text = "图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍"
+autowrap_mode = 3
+
+[node name="PageNumLabel" type="Label" parent="." unique_id=2040866462]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -27.0
+offset_top = -201.0
+offset_right = 27.0
+offset_bottom = -173.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_colors/font_color = Color(0.49803922, 0.33333334, 0.15686275, 1)
+theme_override_font_sizes/font_size = 18
+text = "999/999"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1672208898]
+
+[node name="BackButton" type="TextureButton" parent="CanvasLayer" unique_id=339821207]
+custom_minimum_size = Vector2(0, 48)
+offset_left = 20.0
+offset_top = 40.0
+offset_right = 122.0
+offset_bottom = 144.0
+texture_normal = ExtResource("2_sifvh")
+texture_pressed = ExtResource("3_56mfb")
+texture_hover = ExtResource("4_f6elx")
+
+[node name="LeftButton" type="TextureButton" parent="CanvasLayer" unique_id=2014256429]
+custom_minimum_size = Vector2(0, 48)
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -250.0
+offset_top = -160.0
+offset_right = -24.0
+offset_bottom = -65.0
+grow_horizontal = 2
+grow_vertical = 0
+texture_normal = ExtResource("6_gd1ga")
+texture_pressed = ExtResource("7_5olgg")
+texture_hover = ExtResource("8_p5f60")
+
+[node name="RightButton" type="TextureButton" parent="CanvasLayer" unique_id=1858827941]
+custom_minimum_size = Vector2(0, 48)
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = 23.0
+offset_top = -160.0
+offset_right = 250.0
+offset_bottom = -65.0
+grow_horizontal = 2
+grow_vertical = 0
+texture_normal = ExtResource("9_vk71n")
+texture_pressed = ExtResource("10_diffj")
+texture_hover = ExtResource("11_w05x7")
+
+[node name="SettingsButton" type="TextureButton" parent="CanvasLayer" unique_id=1492513499]
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -120.0
+offset_top = 40.0
+offset_right = 42.0
+offset_bottom = 203.0
+grow_horizontal = 0
+scale = Vector2(0.6, 0.6)
+texture_normal = ExtResource("12_vk71n")
+texture_pressed = ExtResource("13_diffj")
+texture_hover = ExtResource("14_w05x7")
+
+[connection signal="pressed" from="CanvasLayer/BackButton" to="." method="_on_back_pressed"]

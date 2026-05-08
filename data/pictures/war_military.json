@@ -1,0 +1,2005 @@
+{
+  "album_id": "war_military",
+  "pictures": [
+    {
+      "id": "war_military_000",
+      "title": "战争与军事史 - 图片1",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第1张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_000.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_000_0",
+        "war_military_000_1",
+        "war_military_000_2",
+        "war_military_000_3",
+        "war_military_000_4",
+        "war_military_000_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "war_military_001",
+      "title": "战争与军事史 - 图片2",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第2张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_001.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_001_0",
+        "war_military_001_1",
+        "war_military_001_2",
+        "war_military_001_3",
+        "war_military_001_4",
+        "war_military_001_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "war_military_002",
+      "title": "战争与军事史 - 图片3",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第3张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_002.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_002_0",
+        "war_military_002_1",
+        "war_military_002_2",
+        "war_military_002_3",
+        "war_military_002_4",
+        "war_military_002_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "war_military_003",
+      "title": "战争与军事史 - 图片4",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第4张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_003.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_003_0",
+        "war_military_003_1",
+        "war_military_003_2",
+        "war_military_003_3",
+        "war_military_003_4",
+        "war_military_003_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "war_military_004",
+      "title": "战争与军事史 - 图片5",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第5张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_004.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_004_0",
+        "war_military_004_1",
+        "war_military_004_2",
+        "war_military_004_3",
+        "war_military_004_4",
+        "war_military_004_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "war_military_005",
+      "title": "战争与军事史 - 图片6",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第6张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_005.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_005_0",
+        "war_military_005_1",
+        "war_military_005_2",
+        "war_military_005_3",
+        "war_military_005_4",
+        "war_military_005_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "war_military_006",
+      "title": "战争与军事史 - 图片7",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第7张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_006.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_006_0",
+        "war_military_006_1",
+        "war_military_006_2",
+        "war_military_006_3",
+        "war_military_006_4",
+        "war_military_006_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "war_military_007",
+      "title": "战争与军事史 - 图片8",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第8张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_007.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_007_0",
+        "war_military_007_1",
+        "war_military_007_2",
+        "war_military_007_3",
+        "war_military_007_4",
+        "war_military_007_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "war_military_008",
+      "title": "战争与军事史 - 图片9",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第9张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_008.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_008_0",
+        "war_military_008_1",
+        "war_military_008_2",
+        "war_military_008_3",
+        "war_military_008_4",
+        "war_military_008_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "war_military_009",
+      "title": "战争与军事史 - 图片10",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第10张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_009.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_009_0",
+        "war_military_009_1",
+        "war_military_009_2",
+        "war_military_009_3",
+        "war_military_009_4",
+        "war_military_009_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "war_military_010",
+      "title": "战争与军事史 - 图片11",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第11张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_010.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_010_0",
+        "war_military_010_1",
+        "war_military_010_2",
+        "war_military_010_3",
+        "war_military_010_4",
+        "war_military_010_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "war_military_011",
+      "title": "战争与军事史 - 图片12",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第12张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_011.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_011_0",
+        "war_military_011_1",
+        "war_military_011_2",
+        "war_military_011_3",
+        "war_military_011_4",
+        "war_military_011_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "war_military_012",
+      "title": "战争与军事史 - 图片13",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第13张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_012.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_012_0",
+        "war_military_012_1",
+        "war_military_012_2",
+        "war_military_012_3",
+        "war_military_012_4",
+        "war_military_012_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "war_military_013",
+      "title": "战争与军事史 - 图片14",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第14张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_013.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_013_0",
+        "war_military_013_1",
+        "war_military_013_2",
+        "war_military_013_3",
+        "war_military_013_4",
+        "war_military_013_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "war_military_014",
+      "title": "战争与军事史 - 图片15",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第15张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_014.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_014_0",
+        "war_military_014_1",
+        "war_military_014_2",
+        "war_military_014_3",
+        "war_military_014_4",
+        "war_military_014_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "war_military_015",
+      "title": "战争与军事史 - 图片16",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第16张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_015.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_015_0",
+        "war_military_015_1",
+        "war_military_015_2",
+        "war_military_015_3",
+        "war_military_015_4",
+        "war_military_015_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "war_military_016",
+      "title": "战争与军事史 - 图片17",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第17张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_016.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_016_0",
+        "war_military_016_1",
+        "war_military_016_2",
+        "war_military_016_3",
+        "war_military_016_4",
+        "war_military_016_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "war_military_017",
+      "title": "战争与军事史 - 图片18",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第18张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_017.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_017_0",
+        "war_military_017_1",
+        "war_military_017_2",
+        "war_military_017_3",
+        "war_military_017_4",
+        "war_military_017_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "war_military_018",
+      "title": "战争与军事史 - 图片19",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第19张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_018.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_018_0",
+        "war_military_018_1",
+        "war_military_018_2",
+        "war_military_018_3",
+        "war_military_018_4",
+        "war_military_018_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "war_military_019",
+      "title": "战争与军事史 - 图片20",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第20张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_019.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_019_0",
+        "war_military_019_1",
+        "war_military_019_2",
+        "war_military_019_3",
+        "war_military_019_4",
+        "war_military_019_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "war_military_020",
+      "title": "战争与军事史 - 图片21",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第21张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_020.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_020_0",
+        "war_military_020_1",
+        "war_military_020_2",
+        "war_military_020_3",
+        "war_military_020_4",
+        "war_military_020_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "war_military_021",
+      "title": "战争与军事史 - 图片22",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第22张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_021.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_021_0",
+        "war_military_021_1",
+        "war_military_021_2",
+        "war_military_021_3",
+        "war_military_021_4",
+        "war_military_021_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "war_military_022",
+      "title": "战争与军事史 - 图片23",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第23张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_022.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_022_0",
+        "war_military_022_1",
+        "war_military_022_2",
+        "war_military_022_3",
+        "war_military_022_4",
+        "war_military_022_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "war_military_023",
+      "title": "战争与军事史 - 图片24",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第24张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_023.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_023_0",
+        "war_military_023_1",
+        "war_military_023_2",
+        "war_military_023_3",
+        "war_military_023_4",
+        "war_military_023_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "war_military_024",
+      "title": "战争与军事史 - 图片25",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第25张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_024.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_024_0",
+        "war_military_024_1",
+        "war_military_024_2",
+        "war_military_024_3",
+        "war_military_024_4",
+        "war_military_024_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "war_military_025",
+      "title": "战争与军事史 - 图片26",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第26张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_025.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_025_0",
+        "war_military_025_1",
+        "war_military_025_2",
+        "war_military_025_3",
+        "war_military_025_4",
+        "war_military_025_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "war_military_026",
+      "title": "战争与军事史 - 图片27",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第27张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_026.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_026_0",
+        "war_military_026_1",
+        "war_military_026_2",
+        "war_military_026_3",
+        "war_military_026_4",
+        "war_military_026_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "war_military_027",
+      "title": "战争与军事史 - 图片28",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第28张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_027.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_027_0",
+        "war_military_027_1",
+        "war_military_027_2",
+        "war_military_027_3",
+        "war_military_027_4",
+        "war_military_027_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "war_military_028",
+      "title": "战争与军事史 - 图片29",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第29张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_028.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_028_0",
+        "war_military_028_1",
+        "war_military_028_2",
+        "war_military_028_3",
+        "war_military_028_4",
+        "war_military_028_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "war_military_029",
+      "title": "战争与军事史 - 图片30",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第30张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_029.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_029_0",
+        "war_military_029_1",
+        "war_military_029_2",
+        "war_military_029_3",
+        "war_military_029_4",
+        "war_military_029_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "war_military_030",
+      "title": "战争与军事史 - 图片31",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第31张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_030.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_030_0",
+        "war_military_030_1",
+        "war_military_030_2",
+        "war_military_030_3",
+        "war_military_030_4",
+        "war_military_030_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "war_military_031",
+      "title": "战争与军事史 - 图片32",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第32张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_031.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_031_0",
+        "war_military_031_1",
+        "war_military_031_2",
+        "war_military_031_3",
+        "war_military_031_4",
+        "war_military_031_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "war_military_032",
+      "title": "战争与军事史 - 图片33",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第33张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_032.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_032_0",
+        "war_military_032_1",
+        "war_military_032_2",
+        "war_military_032_3",
+        "war_military_032_4",
+        "war_military_032_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "war_military_033",
+      "title": "战争与军事史 - 图片34",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第34张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_033.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_033_0",
+        "war_military_033_1",
+        "war_military_033_2",
+        "war_military_033_3",
+        "war_military_033_4",
+        "war_military_033_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "war_military_034",
+      "title": "战争与军事史 - 图片35",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第35张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_034.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_034_0",
+        "war_military_034_1",
+        "war_military_034_2",
+        "war_military_034_3",
+        "war_military_034_4",
+        "war_military_034_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "war_military_035",
+      "title": "战争与军事史 - 图片36",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第36张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_035.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_035_0",
+        "war_military_035_1",
+        "war_military_035_2",
+        "war_military_035_3",
+        "war_military_035_4",
+        "war_military_035_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "war_military_036",
+      "title": "战争与军事史 - 图片37",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第37张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_036.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_036_0",
+        "war_military_036_1",
+        "war_military_036_2",
+        "war_military_036_3",
+        "war_military_036_4",
+        "war_military_036_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "war_military_037",
+      "title": "战争与军事史 - 图片38",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第38张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_037.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_037_0",
+        "war_military_037_1",
+        "war_military_037_2",
+        "war_military_037_3",
+        "war_military_037_4",
+        "war_military_037_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "war_military_038",
+      "title": "战争与军事史 - 图片39",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第39张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_038.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_038_0",
+        "war_military_038_1",
+        "war_military_038_2",
+        "war_military_038_3",
+        "war_military_038_4",
+        "war_military_038_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "war_military_039",
+      "title": "战争与军事史 - 图片40",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第40张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_039.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_039_0",
+        "war_military_039_1",
+        "war_military_039_2",
+        "war_military_039_3",
+        "war_military_039_4",
+        "war_military_039_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "war_military_040",
+      "title": "战争与军事史 - 图片41",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第41张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_040.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_040_0",
+        "war_military_040_1",
+        "war_military_040_2",
+        "war_military_040_3",
+        "war_military_040_4",
+        "war_military_040_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "war_military_041",
+      "title": "战争与军事史 - 图片42",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第42张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_041.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_041_0",
+        "war_military_041_1",
+        "war_military_041_2",
+        "war_military_041_3",
+        "war_military_041_4",
+        "war_military_041_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "war_military_042",
+      "title": "战争与军事史 - 图片43",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第43张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_042.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_042_0",
+        "war_military_042_1",
+        "war_military_042_2",
+        "war_military_042_3",
+        "war_military_042_4",
+        "war_military_042_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "war_military_043",
+      "title": "战争与军事史 - 图片44",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第44张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_043.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_043_0",
+        "war_military_043_1",
+        "war_military_043_2",
+        "war_military_043_3",
+        "war_military_043_4",
+        "war_military_043_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "war_military_044",
+      "title": "战争与军事史 - 图片45",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第45张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_044.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_044_0",
+        "war_military_044_1",
+        "war_military_044_2",
+        "war_military_044_3",
+        "war_military_044_4",
+        "war_military_044_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "war_military_045",
+      "title": "战争与军事史 - 图片46",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第46张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_045.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_045_0",
+        "war_military_045_1",
+        "war_military_045_2",
+        "war_military_045_3",
+        "war_military_045_4",
+        "war_military_045_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "war_military_046",
+      "title": "战争与军事史 - 图片47",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第47张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_046.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_046_0",
+        "war_military_046_1",
+        "war_military_046_2",
+        "war_military_046_3",
+        "war_military_046_4",
+        "war_military_046_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "war_military_047",
+      "title": "战争与军事史 - 图片48",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第48张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_047.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_047_0",
+        "war_military_047_1",
+        "war_military_047_2",
+        "war_military_047_3",
+        "war_military_047_4",
+        "war_military_047_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "war_military_048",
+      "title": "战争与军事史 - 图片49",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第49张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_048.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_048_0",
+        "war_military_048_1",
+        "war_military_048_2",
+        "war_military_048_3",
+        "war_military_048_4",
+        "war_military_048_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "war_military_049",
+      "title": "战争与军事史 - 图片50",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第50张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_049.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_049_0",
+        "war_military_049_1",
+        "war_military_049_2",
+        "war_military_049_3",
+        "war_military_049_4",
+        "war_military_049_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "war_military_050",
+      "title": "战争与军事史 - 图片51",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第51张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_050.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_050_0",
+        "war_military_050_1",
+        "war_military_050_2",
+        "war_military_050_3",
+        "war_military_050_4",
+        "war_military_050_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "war_military_051",
+      "title": "战争与军事史 - 图片52",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第52张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_051.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_051_0",
+        "war_military_051_1",
+        "war_military_051_2",
+        "war_military_051_3",
+        "war_military_051_4",
+        "war_military_051_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "war_military_052",
+      "title": "战争与军事史 - 图片53",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第53张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_052.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_052_0",
+        "war_military_052_1",
+        "war_military_052_2",
+        "war_military_052_3",
+        "war_military_052_4",
+        "war_military_052_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "war_military_053",
+      "title": "战争与军事史 - 图片54",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第54张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_053.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_053_0",
+        "war_military_053_1",
+        "war_military_053_2",
+        "war_military_053_3",
+        "war_military_053_4",
+        "war_military_053_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "war_military_054",
+      "title": "战争与军事史 - 图片55",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第55张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_054.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_054_0",
+        "war_military_054_1",
+        "war_military_054_2",
+        "war_military_054_3",
+        "war_military_054_4",
+        "war_military_054_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "war_military_055",
+      "title": "战争与军事史 - 图片56",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第56张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_055.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_055_0",
+        "war_military_055_1",
+        "war_military_055_2",
+        "war_military_055_3",
+        "war_military_055_4",
+        "war_military_055_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "war_military_056",
+      "title": "战争与军事史 - 图片57",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第57张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_056.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_056_0",
+        "war_military_056_1",
+        "war_military_056_2",
+        "war_military_056_3",
+        "war_military_056_4",
+        "war_military_056_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "war_military_057",
+      "title": "战争与军事史 - 图片58",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第58张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_057.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_057_0",
+        "war_military_057_1",
+        "war_military_057_2",
+        "war_military_057_3",
+        "war_military_057_4",
+        "war_military_057_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "war_military_058",
+      "title": "战争与军事史 - 图片59",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第59张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_058.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_058_0",
+        "war_military_058_1",
+        "war_military_058_2",
+        "war_military_058_3",
+        "war_military_058_4",
+        "war_military_058_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "war_military_059",
+      "title": "战争与军事史 - 图片60",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第60张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_059.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_059_0",
+        "war_military_059_1",
+        "war_military_059_2",
+        "war_military_059_3",
+        "war_military_059_4",
+        "war_military_059_5"
+      ],
+      "order": 59
+    },
+    {
+      "id": "war_military_060",
+      "title": "战争与军事史 - 图片61",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第61张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_060.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_060_0",
+        "war_military_060_1",
+        "war_military_060_2",
+        "war_military_060_3",
+        "war_military_060_4",
+        "war_military_060_5"
+      ],
+      "order": 60
+    },
+    {
+      "id": "war_military_061",
+      "title": "战争与军事史 - 图片62",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第62张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_061.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_061_0",
+        "war_military_061_1",
+        "war_military_061_2",
+        "war_military_061_3",
+        "war_military_061_4",
+        "war_military_061_5"
+      ],
+      "order": 61
+    },
+    {
+      "id": "war_military_062",
+      "title": "战争与军事史 - 图片63",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第63张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_062.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_062_0",
+        "war_military_062_1",
+        "war_military_062_2",
+        "war_military_062_3",
+        "war_military_062_4",
+        "war_military_062_5"
+      ],
+      "order": 62
+    },
+    {
+      "id": "war_military_063",
+      "title": "战争与军事史 - 图片64",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第64张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_063.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_063_0",
+        "war_military_063_1",
+        "war_military_063_2",
+        "war_military_063_3",
+        "war_military_063_4",
+        "war_military_063_5"
+      ],
+      "order": 63
+    },
+    {
+      "id": "war_military_064",
+      "title": "战争与军事史 - 图片65",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第65张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_064.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_064_0",
+        "war_military_064_1",
+        "war_military_064_2",
+        "war_military_064_3",
+        "war_military_064_4",
+        "war_military_064_5"
+      ],
+      "order": 64
+    },
+    {
+      "id": "war_military_065",
+      "title": "战争与军事史 - 图片66",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第66张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_065.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_065_0",
+        "war_military_065_1",
+        "war_military_065_2",
+        "war_military_065_3",
+        "war_military_065_4",
+        "war_military_065_5"
+      ],
+      "order": 65
+    },
+    {
+      "id": "war_military_066",
+      "title": "战争与军事史 - 图片67",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第67张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_066.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_066_0",
+        "war_military_066_1",
+        "war_military_066_2",
+        "war_military_066_3",
+        "war_military_066_4",
+        "war_military_066_5"
+      ],
+      "order": 66
+    },
+    {
+      "id": "war_military_067",
+      "title": "战争与军事史 - 图片68",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第68张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_067.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_067_0",
+        "war_military_067_1",
+        "war_military_067_2",
+        "war_military_067_3",
+        "war_military_067_4",
+        "war_military_067_5"
+      ],
+      "order": 67
+    },
+    {
+      "id": "war_military_068",
+      "title": "战争与军事史 - 图片69",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第69张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_068.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_068_0",
+        "war_military_068_1",
+        "war_military_068_2",
+        "war_military_068_3",
+        "war_military_068_4",
+        "war_military_068_5"
+      ],
+      "order": 68
+    },
+    {
+      "id": "war_military_069",
+      "title": "战争与军事史 - 图片70",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第70张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_069.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_069_0",
+        "war_military_069_1",
+        "war_military_069_2",
+        "war_military_069_3",
+        "war_military_069_4",
+        "war_military_069_5"
+      ],
+      "order": 69
+    },
+    {
+      "id": "war_military_070",
+      "title": "战争与军事史 - 图片71",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第71张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_070.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_070_0",
+        "war_military_070_1",
+        "war_military_070_2",
+        "war_military_070_3",
+        "war_military_070_4",
+        "war_military_070_5"
+      ],
+      "order": 70
+    },
+    {
+      "id": "war_military_071",
+      "title": "战争与军事史 - 图片72",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第72张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_071.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_071_0",
+        "war_military_071_1",
+        "war_military_071_2",
+        "war_military_071_3",
+        "war_military_071_4",
+        "war_military_071_5"
+      ],
+      "order": 71
+    },
+    {
+      "id": "war_military_072",
+      "title": "战争与军事史 - 图片73",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第73张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_072.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_072_0",
+        "war_military_072_1",
+        "war_military_072_2",
+        "war_military_072_3",
+        "war_military_072_4",
+        "war_military_072_5"
+      ],
+      "order": 72
+    },
+    {
+      "id": "war_military_073",
+      "title": "战争与军事史 - 图片74",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第74张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_073.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_073_0",
+        "war_military_073_1",
+        "war_military_073_2",
+        "war_military_073_3",
+        "war_military_073_4",
+        "war_military_073_5"
+      ],
+      "order": 73
+    },
+    {
+      "id": "war_military_074",
+      "title": "战争与军事史 - 图片75",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第75张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_074.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_074_0",
+        "war_military_074_1",
+        "war_military_074_2",
+        "war_military_074_3",
+        "war_military_074_4",
+        "war_military_074_5"
+      ],
+      "order": 74
+    },
+    {
+      "id": "war_military_075",
+      "title": "战争与军事史 - 图片76",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第76张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_075.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_075_0",
+        "war_military_075_1",
+        "war_military_075_2",
+        "war_military_075_3",
+        "war_military_075_4",
+        "war_military_075_5"
+      ],
+      "order": 75
+    },
+    {
+      "id": "war_military_076",
+      "title": "战争与军事史 - 图片77",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第77张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_076.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_076_0",
+        "war_military_076_1",
+        "war_military_076_2",
+        "war_military_076_3",
+        "war_military_076_4",
+        "war_military_076_5"
+      ],
+      "order": 76
+    },
+    {
+      "id": "war_military_077",
+      "title": "战争与军事史 - 图片78",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第78张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_077.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_077_0",
+        "war_military_077_1",
+        "war_military_077_2",
+        "war_military_077_3",
+        "war_military_077_4",
+        "war_military_077_5"
+      ],
+      "order": 77
+    },
+    {
+      "id": "war_military_078",
+      "title": "战争与军事史 - 图片79",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第79张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_078.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_078_0",
+        "war_military_078_1",
+        "war_military_078_2",
+        "war_military_078_3",
+        "war_military_078_4",
+        "war_military_078_5"
+      ],
+      "order": 78
+    },
+    {
+      "id": "war_military_079",
+      "title": "战争与军事史 - 图片80",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第80张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_079.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_079_0",
+        "war_military_079_1",
+        "war_military_079_2",
+        "war_military_079_3",
+        "war_military_079_4",
+        "war_military_079_5"
+      ],
+      "order": 79
+    },
+    {
+      "id": "war_military_080",
+      "title": "战争与军事史 - 图片81",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第81张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_080.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_080_0",
+        "war_military_080_1",
+        "war_military_080_2",
+        "war_military_080_3",
+        "war_military_080_4",
+        "war_military_080_5"
+      ],
+      "order": 80
+    },
+    {
+      "id": "war_military_081",
+      "title": "战争与军事史 - 图片82",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第82张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_081.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_081_0",
+        "war_military_081_1",
+        "war_military_081_2",
+        "war_military_081_3",
+        "war_military_081_4",
+        "war_military_081_5"
+      ],
+      "order": 81
+    },
+    {
+      "id": "war_military_082",
+      "title": "战争与军事史 - 图片83",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第83张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_082.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_082_0",
+        "war_military_082_1",
+        "war_military_082_2",
+        "war_military_082_3",
+        "war_military_082_4",
+        "war_military_082_5"
+      ],
+      "order": 82
+    },
+    {
+      "id": "war_military_083",
+      "title": "战争与军事史 - 图片84",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第84张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_083.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_083_0",
+        "war_military_083_1",
+        "war_military_083_2",
+        "war_military_083_3",
+        "war_military_083_4",
+        "war_military_083_5"
+      ],
+      "order": 83
+    },
+    {
+      "id": "war_military_084",
+      "title": "战争与军事史 - 图片85",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第85张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_084.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_084_0",
+        "war_military_084_1",
+        "war_military_084_2",
+        "war_military_084_3",
+        "war_military_084_4",
+        "war_military_084_5"
+      ],
+      "order": 84
+    },
+    {
+      "id": "war_military_085",
+      "title": "战争与军事史 - 图片86",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第86张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_085.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_085_0",
+        "war_military_085_1",
+        "war_military_085_2",
+        "war_military_085_3",
+        "war_military_085_4",
+        "war_military_085_5"
+      ],
+      "order": 85
+    },
+    {
+      "id": "war_military_086",
+      "title": "战争与军事史 - 图片87",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第87张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_086.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_086_0",
+        "war_military_086_1",
+        "war_military_086_2",
+        "war_military_086_3",
+        "war_military_086_4",
+        "war_military_086_5"
+      ],
+      "order": 86
+    },
+    {
+      "id": "war_military_087",
+      "title": "战争与军事史 - 图片88",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第88张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_087.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_087_0",
+        "war_military_087_1",
+        "war_military_087_2",
+        "war_military_087_3",
+        "war_military_087_4",
+        "war_military_087_5"
+      ],
+      "order": 87
+    },
+    {
+      "id": "war_military_088",
+      "title": "战争与军事史 - 图片89",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第89张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_088.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_088_0",
+        "war_military_088_1",
+        "war_military_088_2",
+        "war_military_088_3",
+        "war_military_088_4",
+        "war_military_088_5"
+      ],
+      "order": 88
+    },
+    {
+      "id": "war_military_089",
+      "title": "战争与军事史 - 图片90",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第90张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_089.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_089_0",
+        "war_military_089_1",
+        "war_military_089_2",
+        "war_military_089_3",
+        "war_military_089_4",
+        "war_military_089_5"
+      ],
+      "order": 89
+    },
+    {
+      "id": "war_military_090",
+      "title": "战争与军事史 - 图片91",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第91张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_090.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_090_0",
+        "war_military_090_1",
+        "war_military_090_2",
+        "war_military_090_3",
+        "war_military_090_4",
+        "war_military_090_5"
+      ],
+      "order": 90
+    },
+    {
+      "id": "war_military_091",
+      "title": "战争与军事史 - 图片92",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第92张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_091.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_091_0",
+        "war_military_091_1",
+        "war_military_091_2",
+        "war_military_091_3",
+        "war_military_091_4",
+        "war_military_091_5"
+      ],
+      "order": 91
+    },
+    {
+      "id": "war_military_092",
+      "title": "战争与军事史 - 图片93",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第93张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_092.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_092_0",
+        "war_military_092_1",
+        "war_military_092_2",
+        "war_military_092_3",
+        "war_military_092_4",
+        "war_military_092_5"
+      ],
+      "order": 92
+    },
+    {
+      "id": "war_military_093",
+      "title": "战争与军事史 - 图片94",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第94张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_093.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_093_0",
+        "war_military_093_1",
+        "war_military_093_2",
+        "war_military_093_3",
+        "war_military_093_4",
+        "war_military_093_5"
+      ],
+      "order": 93
+    },
+    {
+      "id": "war_military_094",
+      "title": "战争与军事史 - 图片95",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第95张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_094.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_094_0",
+        "war_military_094_1",
+        "war_military_094_2",
+        "war_military_094_3",
+        "war_military_094_4",
+        "war_military_094_5"
+      ],
+      "order": 94
+    },
+    {
+      "id": "war_military_095",
+      "title": "战争与军事史 - 图片96",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第96张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_095.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_095_0",
+        "war_military_095_1",
+        "war_military_095_2",
+        "war_military_095_3",
+        "war_military_095_4",
+        "war_military_095_5"
+      ],
+      "order": 95
+    },
+    {
+      "id": "war_military_096",
+      "title": "战争与军事史 - 图片97",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第97张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_096.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_096_0",
+        "war_military_096_1",
+        "war_military_096_2",
+        "war_military_096_3",
+        "war_military_096_4",
+        "war_military_096_5"
+      ],
+      "order": 96
+    },
+    {
+      "id": "war_military_097",
+      "title": "战争与军事史 - 图片98",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第98张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_097.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_097_0",
+        "war_military_097_1",
+        "war_military_097_2",
+        "war_military_097_3",
+        "war_military_097_4",
+        "war_military_097_5"
+      ],
+      "order": 97
+    },
+    {
+      "id": "war_military_098",
+      "title": "战争与军事史 - 图片99",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第99张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_098.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_098_0",
+        "war_military_098_1",
+        "war_military_098_2",
+        "war_military_098_3",
+        "war_military_098_4",
+        "war_military_098_5"
+      ],
+      "order": 98
+    },
+    {
+      "id": "war_military_099",
+      "title": "战争与军事史 - 图片100",
+      "summary": "战争与军事史相关图片",
+      "full_text": "这是战争与军事史中的第100张图片。",
+      "image": "res://assets/images/illustrations/war_military/war_military_099.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "war_military_099_0",
+        "war_military_099_1",
+        "war_military_099_2",
+        "war_military_099_3",
+        "war_military_099_4",
+        "war_military_099_5"
+      ],
+      "order": 99
+    }
+  ]
+}

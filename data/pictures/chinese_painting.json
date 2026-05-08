@@ -1,0 +1,1605 @@
+{
+  "album_id": "chinese_painting",
+  "pictures": [
+    {
+      "id": "chinese_painting_000",
+      "title": "中国书画艺术 - 图片1",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第1张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_000.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_000_0",
+        "chinese_painting_000_1",
+        "chinese_painting_000_2",
+        "chinese_painting_000_3",
+        "chinese_painting_000_4",
+        "chinese_painting_000_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "chinese_painting_001",
+      "title": "中国书画艺术 - 图片2",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第2张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_001.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_001_0",
+        "chinese_painting_001_1",
+        "chinese_painting_001_2",
+        "chinese_painting_001_3",
+        "chinese_painting_001_4",
+        "chinese_painting_001_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "chinese_painting_002",
+      "title": "中国书画艺术 - 图片3",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第3张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_002.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_002_0",
+        "chinese_painting_002_1",
+        "chinese_painting_002_2",
+        "chinese_painting_002_3",
+        "chinese_painting_002_4",
+        "chinese_painting_002_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "chinese_painting_003",
+      "title": "中国书画艺术 - 图片4",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第4张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_003.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_003_0",
+        "chinese_painting_003_1",
+        "chinese_painting_003_2",
+        "chinese_painting_003_3",
+        "chinese_painting_003_4",
+        "chinese_painting_003_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "chinese_painting_004",
+      "title": "中国书画艺术 - 图片5",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第5张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_004.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_004_0",
+        "chinese_painting_004_1",
+        "chinese_painting_004_2",
+        "chinese_painting_004_3",
+        "chinese_painting_004_4",
+        "chinese_painting_004_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "chinese_painting_005",
+      "title": "中国书画艺术 - 图片6",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第6张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_005.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_005_0",
+        "chinese_painting_005_1",
+        "chinese_painting_005_2",
+        "chinese_painting_005_3",
+        "chinese_painting_005_4",
+        "chinese_painting_005_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "chinese_painting_006",
+      "title": "中国书画艺术 - 图片7",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第7张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_006.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_006_0",
+        "chinese_painting_006_1",
+        "chinese_painting_006_2",
+        "chinese_painting_006_3",
+        "chinese_painting_006_4",
+        "chinese_painting_006_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "chinese_painting_007",
+      "title": "中国书画艺术 - 图片8",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第8张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_007.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_007_0",
+        "chinese_painting_007_1",
+        "chinese_painting_007_2",
+        "chinese_painting_007_3",
+        "chinese_painting_007_4",
+        "chinese_painting_007_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "chinese_painting_008",
+      "title": "中国书画艺术 - 图片9",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第9张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_008.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_008_0",
+        "chinese_painting_008_1",
+        "chinese_painting_008_2",
+        "chinese_painting_008_3",
+        "chinese_painting_008_4",
+        "chinese_painting_008_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "chinese_painting_009",
+      "title": "中国书画艺术 - 图片10",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第10张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_009.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_009_0",
+        "chinese_painting_009_1",
+        "chinese_painting_009_2",
+        "chinese_painting_009_3",
+        "chinese_painting_009_4",
+        "chinese_painting_009_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "chinese_painting_010",
+      "title": "中国书画艺术 - 图片11",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第11张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_010.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_010_0",
+        "chinese_painting_010_1",
+        "chinese_painting_010_2",
+        "chinese_painting_010_3",
+        "chinese_painting_010_4",
+        "chinese_painting_010_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "chinese_painting_011",
+      "title": "中国书画艺术 - 图片12",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第12张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_011.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_011_0",
+        "chinese_painting_011_1",
+        "chinese_painting_011_2",
+        "chinese_painting_011_3",
+        "chinese_painting_011_4",
+        "chinese_painting_011_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "chinese_painting_012",
+      "title": "中国书画艺术 - 图片13",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第13张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_012.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_012_0",
+        "chinese_painting_012_1",
+        "chinese_painting_012_2",
+        "chinese_painting_012_3",
+        "chinese_painting_012_4",
+        "chinese_painting_012_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "chinese_painting_013",
+      "title": "中国书画艺术 - 图片14",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第14张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_013.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_013_0",
+        "chinese_painting_013_1",
+        "chinese_painting_013_2",
+        "chinese_painting_013_3",
+        "chinese_painting_013_4",
+        "chinese_painting_013_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "chinese_painting_014",
+      "title": "中国书画艺术 - 图片15",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第15张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_014.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_014_0",
+        "chinese_painting_014_1",
+        "chinese_painting_014_2",
+        "chinese_painting_014_3",
+        "chinese_painting_014_4",
+        "chinese_painting_014_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "chinese_painting_015",
+      "title": "中国书画艺术 - 图片16",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第16张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_015.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_015_0",
+        "chinese_painting_015_1",
+        "chinese_painting_015_2",
+        "chinese_painting_015_3",
+        "chinese_painting_015_4",
+        "chinese_painting_015_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "chinese_painting_016",
+      "title": "中国书画艺术 - 图片17",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第17张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_016.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_016_0",
+        "chinese_painting_016_1",
+        "chinese_painting_016_2",
+        "chinese_painting_016_3",
+        "chinese_painting_016_4",
+        "chinese_painting_016_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "chinese_painting_017",
+      "title": "中国书画艺术 - 图片18",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第18张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_017.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_017_0",
+        "chinese_painting_017_1",
+        "chinese_painting_017_2",
+        "chinese_painting_017_3",
+        "chinese_painting_017_4",
+        "chinese_painting_017_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "chinese_painting_018",
+      "title": "中国书画艺术 - 图片19",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第19张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_018.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_018_0",
+        "chinese_painting_018_1",
+        "chinese_painting_018_2",
+        "chinese_painting_018_3",
+        "chinese_painting_018_4",
+        "chinese_painting_018_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "chinese_painting_019",
+      "title": "中国书画艺术 - 图片20",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第20张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_019.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_019_0",
+        "chinese_painting_019_1",
+        "chinese_painting_019_2",
+        "chinese_painting_019_3",
+        "chinese_painting_019_4",
+        "chinese_painting_019_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "chinese_painting_020",
+      "title": "中国书画艺术 - 图片21",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第21张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_020.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_020_0",
+        "chinese_painting_020_1",
+        "chinese_painting_020_2",
+        "chinese_painting_020_3",
+        "chinese_painting_020_4",
+        "chinese_painting_020_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "chinese_painting_021",
+      "title": "中国书画艺术 - 图片22",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第22张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_021.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_021_0",
+        "chinese_painting_021_1",
+        "chinese_painting_021_2",
+        "chinese_painting_021_3",
+        "chinese_painting_021_4",
+        "chinese_painting_021_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "chinese_painting_022",
+      "title": "中国书画艺术 - 图片23",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第23张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_022.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_022_0",
+        "chinese_painting_022_1",
+        "chinese_painting_022_2",
+        "chinese_painting_022_3",
+        "chinese_painting_022_4",
+        "chinese_painting_022_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "chinese_painting_023",
+      "title": "中国书画艺术 - 图片24",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第24张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_023.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_023_0",
+        "chinese_painting_023_1",
+        "chinese_painting_023_2",
+        "chinese_painting_023_3",
+        "chinese_painting_023_4",
+        "chinese_painting_023_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "chinese_painting_024",
+      "title": "中国书画艺术 - 图片25",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第25张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_024.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_024_0",
+        "chinese_painting_024_1",
+        "chinese_painting_024_2",
+        "chinese_painting_024_3",
+        "chinese_painting_024_4",
+        "chinese_painting_024_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "chinese_painting_025",
+      "title": "中国书画艺术 - 图片26",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第26张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_025.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_025_0",
+        "chinese_painting_025_1",
+        "chinese_painting_025_2",
+        "chinese_painting_025_3",
+        "chinese_painting_025_4",
+        "chinese_painting_025_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "chinese_painting_026",
+      "title": "中国书画艺术 - 图片27",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第27张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_026.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_026_0",
+        "chinese_painting_026_1",
+        "chinese_painting_026_2",
+        "chinese_painting_026_3",
+        "chinese_painting_026_4",
+        "chinese_painting_026_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "chinese_painting_027",
+      "title": "中国书画艺术 - 图片28",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第28张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_027.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_027_0",
+        "chinese_painting_027_1",
+        "chinese_painting_027_2",
+        "chinese_painting_027_3",
+        "chinese_painting_027_4",
+        "chinese_painting_027_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "chinese_painting_028",
+      "title": "中国书画艺术 - 图片29",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第29张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_028.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_028_0",
+        "chinese_painting_028_1",
+        "chinese_painting_028_2",
+        "chinese_painting_028_3",
+        "chinese_painting_028_4",
+        "chinese_painting_028_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "chinese_painting_029",
+      "title": "中国书画艺术 - 图片30",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第30张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_029.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_029_0",
+        "chinese_painting_029_1",
+        "chinese_painting_029_2",
+        "chinese_painting_029_3",
+        "chinese_painting_029_4",
+        "chinese_painting_029_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "chinese_painting_030",
+      "title": "中国书画艺术 - 图片31",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第31张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_030.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_030_0",
+        "chinese_painting_030_1",
+        "chinese_painting_030_2",
+        "chinese_painting_030_3",
+        "chinese_painting_030_4",
+        "chinese_painting_030_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "chinese_painting_031",
+      "title": "中国书画艺术 - 图片32",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第32张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_031.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_031_0",
+        "chinese_painting_031_1",
+        "chinese_painting_031_2",
+        "chinese_painting_031_3",
+        "chinese_painting_031_4",
+        "chinese_painting_031_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "chinese_painting_032",
+      "title": "中国书画艺术 - 图片33",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第33张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_032.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_032_0",
+        "chinese_painting_032_1",
+        "chinese_painting_032_2",
+        "chinese_painting_032_3",
+        "chinese_painting_032_4",
+        "chinese_painting_032_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "chinese_painting_033",
+      "title": "中国书画艺术 - 图片34",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第34张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_033.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_033_0",
+        "chinese_painting_033_1",
+        "chinese_painting_033_2",
+        "chinese_painting_033_3",
+        "chinese_painting_033_4",
+        "chinese_painting_033_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "chinese_painting_034",
+      "title": "中国书画艺术 - 图片35",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第35张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_034.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_034_0",
+        "chinese_painting_034_1",
+        "chinese_painting_034_2",
+        "chinese_painting_034_3",
+        "chinese_painting_034_4",
+        "chinese_painting_034_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "chinese_painting_035",
+      "title": "中国书画艺术 - 图片36",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第36张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_035.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_035_0",
+        "chinese_painting_035_1",
+        "chinese_painting_035_2",
+        "chinese_painting_035_3",
+        "chinese_painting_035_4",
+        "chinese_painting_035_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "chinese_painting_036",
+      "title": "中国书画艺术 - 图片37",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第37张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_036.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_036_0",
+        "chinese_painting_036_1",
+        "chinese_painting_036_2",
+        "chinese_painting_036_3",
+        "chinese_painting_036_4",
+        "chinese_painting_036_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "chinese_painting_037",
+      "title": "中国书画艺术 - 图片38",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第38张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_037.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_037_0",
+        "chinese_painting_037_1",
+        "chinese_painting_037_2",
+        "chinese_painting_037_3",
+        "chinese_painting_037_4",
+        "chinese_painting_037_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "chinese_painting_038",
+      "title": "中国书画艺术 - 图片39",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第39张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_038.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_038_0",
+        "chinese_painting_038_1",
+        "chinese_painting_038_2",
+        "chinese_painting_038_3",
+        "chinese_painting_038_4",
+        "chinese_painting_038_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "chinese_painting_039",
+      "title": "中国书画艺术 - 图片40",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第40张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_039.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_039_0",
+        "chinese_painting_039_1",
+        "chinese_painting_039_2",
+        "chinese_painting_039_3",
+        "chinese_painting_039_4",
+        "chinese_painting_039_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "chinese_painting_040",
+      "title": "中国书画艺术 - 图片41",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第41张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_040.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_040_0",
+        "chinese_painting_040_1",
+        "chinese_painting_040_2",
+        "chinese_painting_040_3",
+        "chinese_painting_040_4",
+        "chinese_painting_040_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "chinese_painting_041",
+      "title": "中国书画艺术 - 图片42",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第42张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_041.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_041_0",
+        "chinese_painting_041_1",
+        "chinese_painting_041_2",
+        "chinese_painting_041_3",
+        "chinese_painting_041_4",
+        "chinese_painting_041_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "chinese_painting_042",
+      "title": "中国书画艺术 - 图片43",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第43张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_042.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_042_0",
+        "chinese_painting_042_1",
+        "chinese_painting_042_2",
+        "chinese_painting_042_3",
+        "chinese_painting_042_4",
+        "chinese_painting_042_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "chinese_painting_043",
+      "title": "中国书画艺术 - 图片44",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第44张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_043.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_043_0",
+        "chinese_painting_043_1",
+        "chinese_painting_043_2",
+        "chinese_painting_043_3",
+        "chinese_painting_043_4",
+        "chinese_painting_043_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "chinese_painting_044",
+      "title": "中国书画艺术 - 图片45",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第45张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_044.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_044_0",
+        "chinese_painting_044_1",
+        "chinese_painting_044_2",
+        "chinese_painting_044_3",
+        "chinese_painting_044_4",
+        "chinese_painting_044_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "chinese_painting_045",
+      "title": "中国书画艺术 - 图片46",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第46张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_045.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_045_0",
+        "chinese_painting_045_1",
+        "chinese_painting_045_2",
+        "chinese_painting_045_3",
+        "chinese_painting_045_4",
+        "chinese_painting_045_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "chinese_painting_046",
+      "title": "中国书画艺术 - 图片47",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第47张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_046.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_046_0",
+        "chinese_painting_046_1",
+        "chinese_painting_046_2",
+        "chinese_painting_046_3",
+        "chinese_painting_046_4",
+        "chinese_painting_046_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "chinese_painting_047",
+      "title": "中国书画艺术 - 图片48",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第48张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_047.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_047_0",
+        "chinese_painting_047_1",
+        "chinese_painting_047_2",
+        "chinese_painting_047_3",
+        "chinese_painting_047_4",
+        "chinese_painting_047_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "chinese_painting_048",
+      "title": "中国书画艺术 - 图片49",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第49张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_048.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_048_0",
+        "chinese_painting_048_1",
+        "chinese_painting_048_2",
+        "chinese_painting_048_3",
+        "chinese_painting_048_4",
+        "chinese_painting_048_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "chinese_painting_049",
+      "title": "中国书画艺术 - 图片50",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第50张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_049.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_049_0",
+        "chinese_painting_049_1",
+        "chinese_painting_049_2",
+        "chinese_painting_049_3",
+        "chinese_painting_049_4",
+        "chinese_painting_049_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "chinese_painting_050",
+      "title": "中国书画艺术 - 图片51",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第51张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_050.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_050_0",
+        "chinese_painting_050_1",
+        "chinese_painting_050_2",
+        "chinese_painting_050_3",
+        "chinese_painting_050_4",
+        "chinese_painting_050_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "chinese_painting_051",
+      "title": "中国书画艺术 - 图片52",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第52张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_051.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_051_0",
+        "chinese_painting_051_1",
+        "chinese_painting_051_2",
+        "chinese_painting_051_3",
+        "chinese_painting_051_4",
+        "chinese_painting_051_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "chinese_painting_052",
+      "title": "中国书画艺术 - 图片53",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第53张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_052.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_052_0",
+        "chinese_painting_052_1",
+        "chinese_painting_052_2",
+        "chinese_painting_052_3",
+        "chinese_painting_052_4",
+        "chinese_painting_052_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "chinese_painting_053",
+      "title": "中国书画艺术 - 图片54",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第54张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_053.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_053_0",
+        "chinese_painting_053_1",
+        "chinese_painting_053_2",
+        "chinese_painting_053_3",
+        "chinese_painting_053_4",
+        "chinese_painting_053_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "chinese_painting_054",
+      "title": "中国书画艺术 - 图片55",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第55张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_054.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_054_0",
+        "chinese_painting_054_1",
+        "chinese_painting_054_2",
+        "chinese_painting_054_3",
+        "chinese_painting_054_4",
+        "chinese_painting_054_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "chinese_painting_055",
+      "title": "中国书画艺术 - 图片56",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第56张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_055.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_055_0",
+        "chinese_painting_055_1",
+        "chinese_painting_055_2",
+        "chinese_painting_055_3",
+        "chinese_painting_055_4",
+        "chinese_painting_055_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "chinese_painting_056",
+      "title": "中国书画艺术 - 图片57",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第57张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_056.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_056_0",
+        "chinese_painting_056_1",
+        "chinese_painting_056_2",
+        "chinese_painting_056_3",
+        "chinese_painting_056_4",
+        "chinese_painting_056_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "chinese_painting_057",
+      "title": "中国书画艺术 - 图片58",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第58张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_057.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_057_0",
+        "chinese_painting_057_1",
+        "chinese_painting_057_2",
+        "chinese_painting_057_3",
+        "chinese_painting_057_4",
+        "chinese_painting_057_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "chinese_painting_058",
+      "title": "中国书画艺术 - 图片59",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第59张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_058.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_058_0",
+        "chinese_painting_058_1",
+        "chinese_painting_058_2",
+        "chinese_painting_058_3",
+        "chinese_painting_058_4",
+        "chinese_painting_058_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "chinese_painting_059",
+      "title": "中国书画艺术 - 图片60",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第60张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_059.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_059_0",
+        "chinese_painting_059_1",
+        "chinese_painting_059_2",
+        "chinese_painting_059_3",
+        "chinese_painting_059_4",
+        "chinese_painting_059_5"
+      ],
+      "order": 59
+    },
+    {
+      "id": "chinese_painting_060",
+      "title": "中国书画艺术 - 图片61",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第61张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_060.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_060_0",
+        "chinese_painting_060_1",
+        "chinese_painting_060_2",
+        "chinese_painting_060_3",
+        "chinese_painting_060_4",
+        "chinese_painting_060_5"
+      ],
+      "order": 60
+    },
+    {
+      "id": "chinese_painting_061",
+      "title": "中国书画艺术 - 图片62",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第62张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_061.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_061_0",
+        "chinese_painting_061_1",
+        "chinese_painting_061_2",
+        "chinese_painting_061_3",
+        "chinese_painting_061_4",
+        "chinese_painting_061_5"
+      ],
+      "order": 61
+    },
+    {
+      "id": "chinese_painting_062",
+      "title": "中国书画艺术 - 图片63",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第63张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_062.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_062_0",
+        "chinese_painting_062_1",
+        "chinese_painting_062_2",
+        "chinese_painting_062_3",
+        "chinese_painting_062_4",
+        "chinese_painting_062_5"
+      ],
+      "order": 62
+    },
+    {
+      "id": "chinese_painting_063",
+      "title": "中国书画艺术 - 图片64",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第64张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_063.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_063_0",
+        "chinese_painting_063_1",
+        "chinese_painting_063_2",
+        "chinese_painting_063_3",
+        "chinese_painting_063_4",
+        "chinese_painting_063_5"
+      ],
+      "order": 63
+    },
+    {
+      "id": "chinese_painting_064",
+      "title": "中国书画艺术 - 图片65",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第65张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_064.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_064_0",
+        "chinese_painting_064_1",
+        "chinese_painting_064_2",
+        "chinese_painting_064_3",
+        "chinese_painting_064_4",
+        "chinese_painting_064_5"
+      ],
+      "order": 64
+    },
+    {
+      "id": "chinese_painting_065",
+      "title": "中国书画艺术 - 图片66",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第66张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_065.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_065_0",
+        "chinese_painting_065_1",
+        "chinese_painting_065_2",
+        "chinese_painting_065_3",
+        "chinese_painting_065_4",
+        "chinese_painting_065_5"
+      ],
+      "order": 65
+    },
+    {
+      "id": "chinese_painting_066",
+      "title": "中国书画艺术 - 图片67",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第67张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_066.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_066_0",
+        "chinese_painting_066_1",
+        "chinese_painting_066_2",
+        "chinese_painting_066_3",
+        "chinese_painting_066_4",
+        "chinese_painting_066_5"
+      ],
+      "order": 66
+    },
+    {
+      "id": "chinese_painting_067",
+      "title": "中国书画艺术 - 图片68",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第68张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_067.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_067_0",
+        "chinese_painting_067_1",
+        "chinese_painting_067_2",
+        "chinese_painting_067_3",
+        "chinese_painting_067_4",
+        "chinese_painting_067_5"
+      ],
+      "order": 67
+    },
+    {
+      "id": "chinese_painting_068",
+      "title": "中国书画艺术 - 图片69",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第69张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_068.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_068_0",
+        "chinese_painting_068_1",
+        "chinese_painting_068_2",
+        "chinese_painting_068_3",
+        "chinese_painting_068_4",
+        "chinese_painting_068_5"
+      ],
+      "order": 68
+    },
+    {
+      "id": "chinese_painting_069",
+      "title": "中国书画艺术 - 图片70",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第70张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_069.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_069_0",
+        "chinese_painting_069_1",
+        "chinese_painting_069_2",
+        "chinese_painting_069_3",
+        "chinese_painting_069_4",
+        "chinese_painting_069_5"
+      ],
+      "order": 69
+    },
+    {
+      "id": "chinese_painting_070",
+      "title": "中国书画艺术 - 图片71",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第71张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_070.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_070_0",
+        "chinese_painting_070_1",
+        "chinese_painting_070_2",
+        "chinese_painting_070_3",
+        "chinese_painting_070_4",
+        "chinese_painting_070_5"
+      ],
+      "order": 70
+    },
+    {
+      "id": "chinese_painting_071",
+      "title": "中国书画艺术 - 图片72",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第72张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_071.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_071_0",
+        "chinese_painting_071_1",
+        "chinese_painting_071_2",
+        "chinese_painting_071_3",
+        "chinese_painting_071_4",
+        "chinese_painting_071_5"
+      ],
+      "order": 71
+    },
+    {
+      "id": "chinese_painting_072",
+      "title": "中国书画艺术 - 图片73",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第73张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_072.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_072_0",
+        "chinese_painting_072_1",
+        "chinese_painting_072_2",
+        "chinese_painting_072_3",
+        "chinese_painting_072_4",
+        "chinese_painting_072_5"
+      ],
+      "order": 72
+    },
+    {
+      "id": "chinese_painting_073",
+      "title": "中国书画艺术 - 图片74",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第74张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_073.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_073_0",
+        "chinese_painting_073_1",
+        "chinese_painting_073_2",
+        "chinese_painting_073_3",
+        "chinese_painting_073_4",
+        "chinese_painting_073_5"
+      ],
+      "order": 73
+    },
+    {
+      "id": "chinese_painting_074",
+      "title": "中国书画艺术 - 图片75",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第75张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_074.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_074_0",
+        "chinese_painting_074_1",
+        "chinese_painting_074_2",
+        "chinese_painting_074_3",
+        "chinese_painting_074_4",
+        "chinese_painting_074_5"
+      ],
+      "order": 74
+    },
+    {
+      "id": "chinese_painting_075",
+      "title": "中国书画艺术 - 图片76",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第76张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_075.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_075_0",
+        "chinese_painting_075_1",
+        "chinese_painting_075_2",
+        "chinese_painting_075_3",
+        "chinese_painting_075_4",
+        "chinese_painting_075_5"
+      ],
+      "order": 75
+    },
+    {
+      "id": "chinese_painting_076",
+      "title": "中国书画艺术 - 图片77",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第77张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_076.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_076_0",
+        "chinese_painting_076_1",
+        "chinese_painting_076_2",
+        "chinese_painting_076_3",
+        "chinese_painting_076_4",
+        "chinese_painting_076_5"
+      ],
+      "order": 76
+    },
+    {
+      "id": "chinese_painting_077",
+      "title": "中国书画艺术 - 图片78",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第78张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_077.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_077_0",
+        "chinese_painting_077_1",
+        "chinese_painting_077_2",
+        "chinese_painting_077_3",
+        "chinese_painting_077_4",
+        "chinese_painting_077_5"
+      ],
+      "order": 77
+    },
+    {
+      "id": "chinese_painting_078",
+      "title": "中国书画艺术 - 图片79",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第79张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_078.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_078_0",
+        "chinese_painting_078_1",
+        "chinese_painting_078_2",
+        "chinese_painting_078_3",
+        "chinese_painting_078_4",
+        "chinese_painting_078_5"
+      ],
+      "order": 78
+    },
+    {
+      "id": "chinese_painting_079",
+      "title": "中国书画艺术 - 图片80",
+      "summary": "中国书画艺术相关图片",
+      "full_text": "这是中国书画艺术中的第80张图片。",
+      "image": "res://assets/images/illustrations/chinese_painting/chinese_painting_079.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chinese_painting_079_0",
+        "chinese_painting_079_1",
+        "chinese_painting_079_2",
+        "chinese_painting_079_3",
+        "chinese_painting_079_4",
+        "chinese_painting_079_5"
+      ],
+      "order": 79
+    }
+  ]
+}

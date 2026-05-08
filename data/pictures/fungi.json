@@ -1,0 +1,1205 @@
+{
+  "album_id": "fungi",
+  "pictures": [
+    {
+      "id": "fungi_000",
+      "title": "真菌 - 图片1",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第1张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_000.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_000_0",
+        "fungi_000_1",
+        "fungi_000_2",
+        "fungi_000_3",
+        "fungi_000_4",
+        "fungi_000_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "fungi_001",
+      "title": "真菌 - 图片2",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第2张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_001.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_001_0",
+        "fungi_001_1",
+        "fungi_001_2",
+        "fungi_001_3",
+        "fungi_001_4",
+        "fungi_001_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "fungi_002",
+      "title": "真菌 - 图片3",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第3张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_002.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_002_0",
+        "fungi_002_1",
+        "fungi_002_2",
+        "fungi_002_3",
+        "fungi_002_4",
+        "fungi_002_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "fungi_003",
+      "title": "真菌 - 图片4",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第4张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_003.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_003_0",
+        "fungi_003_1",
+        "fungi_003_2",
+        "fungi_003_3",
+        "fungi_003_4",
+        "fungi_003_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "fungi_004",
+      "title": "真菌 - 图片5",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第5张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_004.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_004_0",
+        "fungi_004_1",
+        "fungi_004_2",
+        "fungi_004_3",
+        "fungi_004_4",
+        "fungi_004_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "fungi_005",
+      "title": "真菌 - 图片6",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第6张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_005.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_005_0",
+        "fungi_005_1",
+        "fungi_005_2",
+        "fungi_005_3",
+        "fungi_005_4",
+        "fungi_005_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "fungi_006",
+      "title": "真菌 - 图片7",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第7张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_006.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_006_0",
+        "fungi_006_1",
+        "fungi_006_2",
+        "fungi_006_3",
+        "fungi_006_4",
+        "fungi_006_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "fungi_007",
+      "title": "真菌 - 图片8",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第8张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_007.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_007_0",
+        "fungi_007_1",
+        "fungi_007_2",
+        "fungi_007_3",
+        "fungi_007_4",
+        "fungi_007_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "fungi_008",
+      "title": "真菌 - 图片9",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第9张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_008.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_008_0",
+        "fungi_008_1",
+        "fungi_008_2",
+        "fungi_008_3",
+        "fungi_008_4",
+        "fungi_008_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "fungi_009",
+      "title": "真菌 - 图片10",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第10张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_009.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_009_0",
+        "fungi_009_1",
+        "fungi_009_2",
+        "fungi_009_3",
+        "fungi_009_4",
+        "fungi_009_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "fungi_010",
+      "title": "真菌 - 图片11",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第11张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_010.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_010_0",
+        "fungi_010_1",
+        "fungi_010_2",
+        "fungi_010_3",
+        "fungi_010_4",
+        "fungi_010_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "fungi_011",
+      "title": "真菌 - 图片12",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第12张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_011.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_011_0",
+        "fungi_011_1",
+        "fungi_011_2",
+        "fungi_011_3",
+        "fungi_011_4",
+        "fungi_011_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "fungi_012",
+      "title": "真菌 - 图片13",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第13张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_012.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_012_0",
+        "fungi_012_1",
+        "fungi_012_2",
+        "fungi_012_3",
+        "fungi_012_4",
+        "fungi_012_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "fungi_013",
+      "title": "真菌 - 图片14",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第14张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_013.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_013_0",
+        "fungi_013_1",
+        "fungi_013_2",
+        "fungi_013_3",
+        "fungi_013_4",
+        "fungi_013_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "fungi_014",
+      "title": "真菌 - 图片15",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第15张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_014.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_014_0",
+        "fungi_014_1",
+        "fungi_014_2",
+        "fungi_014_3",
+        "fungi_014_4",
+        "fungi_014_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "fungi_015",
+      "title": "真菌 - 图片16",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第16张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_015.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_015_0",
+        "fungi_015_1",
+        "fungi_015_2",
+        "fungi_015_3",
+        "fungi_015_4",
+        "fungi_015_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "fungi_016",
+      "title": "真菌 - 图片17",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第17张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_016.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_016_0",
+        "fungi_016_1",
+        "fungi_016_2",
+        "fungi_016_3",
+        "fungi_016_4",
+        "fungi_016_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "fungi_017",
+      "title": "真菌 - 图片18",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第18张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_017.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_017_0",
+        "fungi_017_1",
+        "fungi_017_2",
+        "fungi_017_3",
+        "fungi_017_4",
+        "fungi_017_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "fungi_018",
+      "title": "真菌 - 图片19",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第19张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_018.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_018_0",
+        "fungi_018_1",
+        "fungi_018_2",
+        "fungi_018_3",
+        "fungi_018_4",
+        "fungi_018_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "fungi_019",
+      "title": "真菌 - 图片20",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第20张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_019.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_019_0",
+        "fungi_019_1",
+        "fungi_019_2",
+        "fungi_019_3",
+        "fungi_019_4",
+        "fungi_019_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "fungi_020",
+      "title": "真菌 - 图片21",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第21张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_020.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_020_0",
+        "fungi_020_1",
+        "fungi_020_2",
+        "fungi_020_3",
+        "fungi_020_4",
+        "fungi_020_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "fungi_021",
+      "title": "真菌 - 图片22",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第22张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_021.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_021_0",
+        "fungi_021_1",
+        "fungi_021_2",
+        "fungi_021_3",
+        "fungi_021_4",
+        "fungi_021_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "fungi_022",
+      "title": "真菌 - 图片23",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第23张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_022.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_022_0",
+        "fungi_022_1",
+        "fungi_022_2",
+        "fungi_022_3",
+        "fungi_022_4",
+        "fungi_022_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "fungi_023",
+      "title": "真菌 - 图片24",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第24张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_023.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_023_0",
+        "fungi_023_1",
+        "fungi_023_2",
+        "fungi_023_3",
+        "fungi_023_4",
+        "fungi_023_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "fungi_024",
+      "title": "真菌 - 图片25",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第25张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_024.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_024_0",
+        "fungi_024_1",
+        "fungi_024_2",
+        "fungi_024_3",
+        "fungi_024_4",
+        "fungi_024_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "fungi_025",
+      "title": "真菌 - 图片26",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第26张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_025.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_025_0",
+        "fungi_025_1",
+        "fungi_025_2",
+        "fungi_025_3",
+        "fungi_025_4",
+        "fungi_025_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "fungi_026",
+      "title": "真菌 - 图片27",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第27张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_026.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_026_0",
+        "fungi_026_1",
+        "fungi_026_2",
+        "fungi_026_3",
+        "fungi_026_4",
+        "fungi_026_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "fungi_027",
+      "title": "真菌 - 图片28",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第28张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_027.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_027_0",
+        "fungi_027_1",
+        "fungi_027_2",
+        "fungi_027_3",
+        "fungi_027_4",
+        "fungi_027_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "fungi_028",
+      "title": "真菌 - 图片29",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第29张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_028.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_028_0",
+        "fungi_028_1",
+        "fungi_028_2",
+        "fungi_028_3",
+        "fungi_028_4",
+        "fungi_028_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "fungi_029",
+      "title": "真菌 - 图片30",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第30张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_029.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_029_0",
+        "fungi_029_1",
+        "fungi_029_2",
+        "fungi_029_3",
+        "fungi_029_4",
+        "fungi_029_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "fungi_030",
+      "title": "真菌 - 图片31",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第31张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_030.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_030_0",
+        "fungi_030_1",
+        "fungi_030_2",
+        "fungi_030_3",
+        "fungi_030_4",
+        "fungi_030_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "fungi_031",
+      "title": "真菌 - 图片32",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第32张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_031.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_031_0",
+        "fungi_031_1",
+        "fungi_031_2",
+        "fungi_031_3",
+        "fungi_031_4",
+        "fungi_031_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "fungi_032",
+      "title": "真菌 - 图片33",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第33张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_032.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_032_0",
+        "fungi_032_1",
+        "fungi_032_2",
+        "fungi_032_3",
+        "fungi_032_4",
+        "fungi_032_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "fungi_033",
+      "title": "真菌 - 图片34",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第34张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_033.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_033_0",
+        "fungi_033_1",
+        "fungi_033_2",
+        "fungi_033_3",
+        "fungi_033_4",
+        "fungi_033_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "fungi_034",
+      "title": "真菌 - 图片35",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第35张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_034.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_034_0",
+        "fungi_034_1",
+        "fungi_034_2",
+        "fungi_034_3",
+        "fungi_034_4",
+        "fungi_034_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "fungi_035",
+      "title": "真菌 - 图片36",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第36张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_035.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_035_0",
+        "fungi_035_1",
+        "fungi_035_2",
+        "fungi_035_3",
+        "fungi_035_4",
+        "fungi_035_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "fungi_036",
+      "title": "真菌 - 图片37",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第37张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_036.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_036_0",
+        "fungi_036_1",
+        "fungi_036_2",
+        "fungi_036_3",
+        "fungi_036_4",
+        "fungi_036_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "fungi_037",
+      "title": "真菌 - 图片38",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第38张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_037.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_037_0",
+        "fungi_037_1",
+        "fungi_037_2",
+        "fungi_037_3",
+        "fungi_037_4",
+        "fungi_037_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "fungi_038",
+      "title": "真菌 - 图片39",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第39张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_038.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_038_0",
+        "fungi_038_1",
+        "fungi_038_2",
+        "fungi_038_3",
+        "fungi_038_4",
+        "fungi_038_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "fungi_039",
+      "title": "真菌 - 图片40",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第40张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_039.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_039_0",
+        "fungi_039_1",
+        "fungi_039_2",
+        "fungi_039_3",
+        "fungi_039_4",
+        "fungi_039_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "fungi_040",
+      "title": "真菌 - 图片41",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第41张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_040.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_040_0",
+        "fungi_040_1",
+        "fungi_040_2",
+        "fungi_040_3",
+        "fungi_040_4",
+        "fungi_040_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "fungi_041",
+      "title": "真菌 - 图片42",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第42张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_041.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_041_0",
+        "fungi_041_1",
+        "fungi_041_2",
+        "fungi_041_3",
+        "fungi_041_4",
+        "fungi_041_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "fungi_042",
+      "title": "真菌 - 图片43",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第43张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_042.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_042_0",
+        "fungi_042_1",
+        "fungi_042_2",
+        "fungi_042_3",
+        "fungi_042_4",
+        "fungi_042_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "fungi_043",
+      "title": "真菌 - 图片44",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第44张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_043.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_043_0",
+        "fungi_043_1",
+        "fungi_043_2",
+        "fungi_043_3",
+        "fungi_043_4",
+        "fungi_043_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "fungi_044",
+      "title": "真菌 - 图片45",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第45张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_044.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_044_0",
+        "fungi_044_1",
+        "fungi_044_2",
+        "fungi_044_3",
+        "fungi_044_4",
+        "fungi_044_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "fungi_045",
+      "title": "真菌 - 图片46",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第46张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_045.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_045_0",
+        "fungi_045_1",
+        "fungi_045_2",
+        "fungi_045_3",
+        "fungi_045_4",
+        "fungi_045_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "fungi_046",
+      "title": "真菌 - 图片47",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第47张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_046.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_046_0",
+        "fungi_046_1",
+        "fungi_046_2",
+        "fungi_046_3",
+        "fungi_046_4",
+        "fungi_046_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "fungi_047",
+      "title": "真菌 - 图片48",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第48张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_047.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_047_0",
+        "fungi_047_1",
+        "fungi_047_2",
+        "fungi_047_3",
+        "fungi_047_4",
+        "fungi_047_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "fungi_048",
+      "title": "真菌 - 图片49",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第49张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_048.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_048_0",
+        "fungi_048_1",
+        "fungi_048_2",
+        "fungi_048_3",
+        "fungi_048_4",
+        "fungi_048_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "fungi_049",
+      "title": "真菌 - 图片50",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第50张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_049.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_049_0",
+        "fungi_049_1",
+        "fungi_049_2",
+        "fungi_049_3",
+        "fungi_049_4",
+        "fungi_049_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "fungi_050",
+      "title": "真菌 - 图片51",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第51张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_050.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_050_0",
+        "fungi_050_1",
+        "fungi_050_2",
+        "fungi_050_3",
+        "fungi_050_4",
+        "fungi_050_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "fungi_051",
+      "title": "真菌 - 图片52",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第52张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_051.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_051_0",
+        "fungi_051_1",
+        "fungi_051_2",
+        "fungi_051_3",
+        "fungi_051_4",
+        "fungi_051_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "fungi_052",
+      "title": "真菌 - 图片53",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第53张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_052.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_052_0",
+        "fungi_052_1",
+        "fungi_052_2",
+        "fungi_052_3",
+        "fungi_052_4",
+        "fungi_052_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "fungi_053",
+      "title": "真菌 - 图片54",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第54张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_053.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_053_0",
+        "fungi_053_1",
+        "fungi_053_2",
+        "fungi_053_3",
+        "fungi_053_4",
+        "fungi_053_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "fungi_054",
+      "title": "真菌 - 图片55",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第55张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_054.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_054_0",
+        "fungi_054_1",
+        "fungi_054_2",
+        "fungi_054_3",
+        "fungi_054_4",
+        "fungi_054_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "fungi_055",
+      "title": "真菌 - 图片56",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第56张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_055.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_055_0",
+        "fungi_055_1",
+        "fungi_055_2",
+        "fungi_055_3",
+        "fungi_055_4",
+        "fungi_055_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "fungi_056",
+      "title": "真菌 - 图片57",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第57张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_056.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_056_0",
+        "fungi_056_1",
+        "fungi_056_2",
+        "fungi_056_3",
+        "fungi_056_4",
+        "fungi_056_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "fungi_057",
+      "title": "真菌 - 图片58",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第58张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_057.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_057_0",
+        "fungi_057_1",
+        "fungi_057_2",
+        "fungi_057_3",
+        "fungi_057_4",
+        "fungi_057_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "fungi_058",
+      "title": "真菌 - 图片59",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第59张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_058.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_058_0",
+        "fungi_058_1",
+        "fungi_058_2",
+        "fungi_058_3",
+        "fungi_058_4",
+        "fungi_058_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "fungi_059",
+      "title": "真菌 - 图片60",
+      "summary": "真菌相关图片",
+      "full_text": "这是真菌中的第60张图片。",
+      "image": "res://assets/images/illustrations/fungi/fungi_059.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "fungi_059_0",
+        "fungi_059_1",
+        "fungi_059_2",
+        "fungi_059_3",
+        "fungi_059_4",
+        "fungi_059_5"
+      ],
+      "order": 59
+    }
+  ]
+}

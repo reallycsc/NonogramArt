@@ -1,0 +1,1405 @@
+{
+  "album_id": "crafts",
+  "pictures": [
+    {
+      "id": "crafts_000",
+      "title": "工艺美术 - 图片1",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第1张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_000.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_000_0",
+        "crafts_000_1",
+        "crafts_000_2",
+        "crafts_000_3",
+        "crafts_000_4",
+        "crafts_000_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "crafts_001",
+      "title": "工艺美术 - 图片2",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第2张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_001.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_001_0",
+        "crafts_001_1",
+        "crafts_001_2",
+        "crafts_001_3",
+        "crafts_001_4",
+        "crafts_001_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "crafts_002",
+      "title": "工艺美术 - 图片3",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第3张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_002.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_002_0",
+        "crafts_002_1",
+        "crafts_002_2",
+        "crafts_002_3",
+        "crafts_002_4",
+        "crafts_002_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "crafts_003",
+      "title": "工艺美术 - 图片4",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第4张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_003.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_003_0",
+        "crafts_003_1",
+        "crafts_003_2",
+        "crafts_003_3",
+        "crafts_003_4",
+        "crafts_003_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "crafts_004",
+      "title": "工艺美术 - 图片5",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第5张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_004.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_004_0",
+        "crafts_004_1",
+        "crafts_004_2",
+        "crafts_004_3",
+        "crafts_004_4",
+        "crafts_004_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "crafts_005",
+      "title": "工艺美术 - 图片6",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第6张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_005.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_005_0",
+        "crafts_005_1",
+        "crafts_005_2",
+        "crafts_005_3",
+        "crafts_005_4",
+        "crafts_005_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "crafts_006",
+      "title": "工艺美术 - 图片7",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第7张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_006.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_006_0",
+        "crafts_006_1",
+        "crafts_006_2",
+        "crafts_006_3",
+        "crafts_006_4",
+        "crafts_006_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "crafts_007",
+      "title": "工艺美术 - 图片8",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第8张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_007.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_007_0",
+        "crafts_007_1",
+        "crafts_007_2",
+        "crafts_007_3",
+        "crafts_007_4",
+        "crafts_007_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "crafts_008",
+      "title": "工艺美术 - 图片9",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第9张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_008.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_008_0",
+        "crafts_008_1",
+        "crafts_008_2",
+        "crafts_008_3",
+        "crafts_008_4",
+        "crafts_008_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "crafts_009",
+      "title": "工艺美术 - 图片10",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第10张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_009.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_009_0",
+        "crafts_009_1",
+        "crafts_009_2",
+        "crafts_009_3",
+        "crafts_009_4",
+        "crafts_009_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "crafts_010",
+      "title": "工艺美术 - 图片11",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第11张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_010.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_010_0",
+        "crafts_010_1",
+        "crafts_010_2",
+        "crafts_010_3",
+        "crafts_010_4",
+        "crafts_010_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "crafts_011",
+      "title": "工艺美术 - 图片12",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第12张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_011.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_011_0",
+        "crafts_011_1",
+        "crafts_011_2",
+        "crafts_011_3",
+        "crafts_011_4",
+        "crafts_011_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "crafts_012",
+      "title": "工艺美术 - 图片13",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第13张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_012.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_012_0",
+        "crafts_012_1",
+        "crafts_012_2",
+        "crafts_012_3",
+        "crafts_012_4",
+        "crafts_012_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "crafts_013",
+      "title": "工艺美术 - 图片14",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第14张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_013.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_013_0",
+        "crafts_013_1",
+        "crafts_013_2",
+        "crafts_013_3",
+        "crafts_013_4",
+        "crafts_013_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "crafts_014",
+      "title": "工艺美术 - 图片15",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第15张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_014.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_014_0",
+        "crafts_014_1",
+        "crafts_014_2",
+        "crafts_014_3",
+        "crafts_014_4",
+        "crafts_014_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "crafts_015",
+      "title": "工艺美术 - 图片16",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第16张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_015.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_015_0",
+        "crafts_015_1",
+        "crafts_015_2",
+        "crafts_015_3",
+        "crafts_015_4",
+        "crafts_015_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "crafts_016",
+      "title": "工艺美术 - 图片17",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第17张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_016.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_016_0",
+        "crafts_016_1",
+        "crafts_016_2",
+        "crafts_016_3",
+        "crafts_016_4",
+        "crafts_016_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "crafts_017",
+      "title": "工艺美术 - 图片18",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第18张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_017.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_017_0",
+        "crafts_017_1",
+        "crafts_017_2",
+        "crafts_017_3",
+        "crafts_017_4",
+        "crafts_017_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "crafts_018",
+      "title": "工艺美术 - 图片19",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第19张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_018.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_018_0",
+        "crafts_018_1",
+        "crafts_018_2",
+        "crafts_018_3",
+        "crafts_018_4",
+        "crafts_018_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "crafts_019",
+      "title": "工艺美术 - 图片20",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第20张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_019.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_019_0",
+        "crafts_019_1",
+        "crafts_019_2",
+        "crafts_019_3",
+        "crafts_019_4",
+        "crafts_019_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "crafts_020",
+      "title": "工艺美术 - 图片21",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第21张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_020.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_020_0",
+        "crafts_020_1",
+        "crafts_020_2",
+        "crafts_020_3",
+        "crafts_020_4",
+        "crafts_020_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "crafts_021",
+      "title": "工艺美术 - 图片22",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第22张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_021.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_021_0",
+        "crafts_021_1",
+        "crafts_021_2",
+        "crafts_021_3",
+        "crafts_021_4",
+        "crafts_021_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "crafts_022",
+      "title": "工艺美术 - 图片23",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第23张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_022.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_022_0",
+        "crafts_022_1",
+        "crafts_022_2",
+        "crafts_022_3",
+        "crafts_022_4",
+        "crafts_022_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "crafts_023",
+      "title": "工艺美术 - 图片24",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第24张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_023.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_023_0",
+        "crafts_023_1",
+        "crafts_023_2",
+        "crafts_023_3",
+        "crafts_023_4",
+        "crafts_023_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "crafts_024",
+      "title": "工艺美术 - 图片25",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第25张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_024.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_024_0",
+        "crafts_024_1",
+        "crafts_024_2",
+        "crafts_024_3",
+        "crafts_024_4",
+        "crafts_024_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "crafts_025",
+      "title": "工艺美术 - 图片26",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第26张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_025.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_025_0",
+        "crafts_025_1",
+        "crafts_025_2",
+        "crafts_025_3",
+        "crafts_025_4",
+        "crafts_025_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "crafts_026",
+      "title": "工艺美术 - 图片27",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第27张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_026.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_026_0",
+        "crafts_026_1",
+        "crafts_026_2",
+        "crafts_026_3",
+        "crafts_026_4",
+        "crafts_026_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "crafts_027",
+      "title": "工艺美术 - 图片28",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第28张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_027.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_027_0",
+        "crafts_027_1",
+        "crafts_027_2",
+        "crafts_027_3",
+        "crafts_027_4",
+        "crafts_027_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "crafts_028",
+      "title": "工艺美术 - 图片29",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第29张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_028.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_028_0",
+        "crafts_028_1",
+        "crafts_028_2",
+        "crafts_028_3",
+        "crafts_028_4",
+        "crafts_028_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "crafts_029",
+      "title": "工艺美术 - 图片30",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第30张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_029.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_029_0",
+        "crafts_029_1",
+        "crafts_029_2",
+        "crafts_029_3",
+        "crafts_029_4",
+        "crafts_029_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "crafts_030",
+      "title": "工艺美术 - 图片31",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第31张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_030.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_030_0",
+        "crafts_030_1",
+        "crafts_030_2",
+        "crafts_030_3",
+        "crafts_030_4",
+        "crafts_030_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "crafts_031",
+      "title": "工艺美术 - 图片32",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第32张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_031.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_031_0",
+        "crafts_031_1",
+        "crafts_031_2",
+        "crafts_031_3",
+        "crafts_031_4",
+        "crafts_031_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "crafts_032",
+      "title": "工艺美术 - 图片33",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第33张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_032.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_032_0",
+        "crafts_032_1",
+        "crafts_032_2",
+        "crafts_032_3",
+        "crafts_032_4",
+        "crafts_032_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "crafts_033",
+      "title": "工艺美术 - 图片34",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第34张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_033.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_033_0",
+        "crafts_033_1",
+        "crafts_033_2",
+        "crafts_033_3",
+        "crafts_033_4",
+        "crafts_033_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "crafts_034",
+      "title": "工艺美术 - 图片35",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第35张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_034.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_034_0",
+        "crafts_034_1",
+        "crafts_034_2",
+        "crafts_034_3",
+        "crafts_034_4",
+        "crafts_034_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "crafts_035",
+      "title": "工艺美术 - 图片36",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第36张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_035.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_035_0",
+        "crafts_035_1",
+        "crafts_035_2",
+        "crafts_035_3",
+        "crafts_035_4",
+        "crafts_035_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "crafts_036",
+      "title": "工艺美术 - 图片37",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第37张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_036.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_036_0",
+        "crafts_036_1",
+        "crafts_036_2",
+        "crafts_036_3",
+        "crafts_036_4",
+        "crafts_036_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "crafts_037",
+      "title": "工艺美术 - 图片38",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第38张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_037.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_037_0",
+        "crafts_037_1",
+        "crafts_037_2",
+        "crafts_037_3",
+        "crafts_037_4",
+        "crafts_037_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "crafts_038",
+      "title": "工艺美术 - 图片39",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第39张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_038.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_038_0",
+        "crafts_038_1",
+        "crafts_038_2",
+        "crafts_038_3",
+        "crafts_038_4",
+        "crafts_038_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "crafts_039",
+      "title": "工艺美术 - 图片40",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第40张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_039.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_039_0",
+        "crafts_039_1",
+        "crafts_039_2",
+        "crafts_039_3",
+        "crafts_039_4",
+        "crafts_039_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "crafts_040",
+      "title": "工艺美术 - 图片41",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第41张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_040.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_040_0",
+        "crafts_040_1",
+        "crafts_040_2",
+        "crafts_040_3",
+        "crafts_040_4",
+        "crafts_040_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "crafts_041",
+      "title": "工艺美术 - 图片42",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第42张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_041.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_041_0",
+        "crafts_041_1",
+        "crafts_041_2",
+        "crafts_041_3",
+        "crafts_041_4",
+        "crafts_041_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "crafts_042",
+      "title": "工艺美术 - 图片43",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第43张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_042.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_042_0",
+        "crafts_042_1",
+        "crafts_042_2",
+        "crafts_042_3",
+        "crafts_042_4",
+        "crafts_042_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "crafts_043",
+      "title": "工艺美术 - 图片44",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第44张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_043.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_043_0",
+        "crafts_043_1",
+        "crafts_043_2",
+        "crafts_043_3",
+        "crafts_043_4",
+        "crafts_043_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "crafts_044",
+      "title": "工艺美术 - 图片45",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第45张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_044.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_044_0",
+        "crafts_044_1",
+        "crafts_044_2",
+        "crafts_044_3",
+        "crafts_044_4",
+        "crafts_044_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "crafts_045",
+      "title": "工艺美术 - 图片46",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第46张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_045.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_045_0",
+        "crafts_045_1",
+        "crafts_045_2",
+        "crafts_045_3",
+        "crafts_045_4",
+        "crafts_045_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "crafts_046",
+      "title": "工艺美术 - 图片47",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第47张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_046.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_046_0",
+        "crafts_046_1",
+        "crafts_046_2",
+        "crafts_046_3",
+        "crafts_046_4",
+        "crafts_046_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "crafts_047",
+      "title": "工艺美术 - 图片48",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第48张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_047.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_047_0",
+        "crafts_047_1",
+        "crafts_047_2",
+        "crafts_047_3",
+        "crafts_047_4",
+        "crafts_047_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "crafts_048",
+      "title": "工艺美术 - 图片49",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第49张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_048.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_048_0",
+        "crafts_048_1",
+        "crafts_048_2",
+        "crafts_048_3",
+        "crafts_048_4",
+        "crafts_048_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "crafts_049",
+      "title": "工艺美术 - 图片50",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第50张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_049.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_049_0",
+        "crafts_049_1",
+        "crafts_049_2",
+        "crafts_049_3",
+        "crafts_049_4",
+        "crafts_049_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "crafts_050",
+      "title": "工艺美术 - 图片51",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第51张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_050.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_050_0",
+        "crafts_050_1",
+        "crafts_050_2",
+        "crafts_050_3",
+        "crafts_050_4",
+        "crafts_050_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "crafts_051",
+      "title": "工艺美术 - 图片52",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第52张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_051.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_051_0",
+        "crafts_051_1",
+        "crafts_051_2",
+        "crafts_051_3",
+        "crafts_051_4",
+        "crafts_051_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "crafts_052",
+      "title": "工艺美术 - 图片53",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第53张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_052.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_052_0",
+        "crafts_052_1",
+        "crafts_052_2",
+        "crafts_052_3",
+        "crafts_052_4",
+        "crafts_052_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "crafts_053",
+      "title": "工艺美术 - 图片54",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第54张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_053.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_053_0",
+        "crafts_053_1",
+        "crafts_053_2",
+        "crafts_053_3",
+        "crafts_053_4",
+        "crafts_053_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "crafts_054",
+      "title": "工艺美术 - 图片55",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第55张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_054.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_054_0",
+        "crafts_054_1",
+        "crafts_054_2",
+        "crafts_054_3",
+        "crafts_054_4",
+        "crafts_054_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "crafts_055",
+      "title": "工艺美术 - 图片56",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第56张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_055.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_055_0",
+        "crafts_055_1",
+        "crafts_055_2",
+        "crafts_055_3",
+        "crafts_055_4",
+        "crafts_055_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "crafts_056",
+      "title": "工艺美术 - 图片57",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第57张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_056.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_056_0",
+        "crafts_056_1",
+        "crafts_056_2",
+        "crafts_056_3",
+        "crafts_056_4",
+        "crafts_056_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "crafts_057",
+      "title": "工艺美术 - 图片58",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第58张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_057.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_057_0",
+        "crafts_057_1",
+        "crafts_057_2",
+        "crafts_057_3",
+        "crafts_057_4",
+        "crafts_057_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "crafts_058",
+      "title": "工艺美术 - 图片59",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第59张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_058.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_058_0",
+        "crafts_058_1",
+        "crafts_058_2",
+        "crafts_058_3",
+        "crafts_058_4",
+        "crafts_058_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "crafts_059",
+      "title": "工艺美术 - 图片60",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第60张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_059.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_059_0",
+        "crafts_059_1",
+        "crafts_059_2",
+        "crafts_059_3",
+        "crafts_059_4",
+        "crafts_059_5"
+      ],
+      "order": 59
+    },
+    {
+      "id": "crafts_060",
+      "title": "工艺美术 - 图片61",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第61张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_060.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_060_0",
+        "crafts_060_1",
+        "crafts_060_2",
+        "crafts_060_3",
+        "crafts_060_4",
+        "crafts_060_5"
+      ],
+      "order": 60
+    },
+    {
+      "id": "crafts_061",
+      "title": "工艺美术 - 图片62",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第62张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_061.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_061_0",
+        "crafts_061_1",
+        "crafts_061_2",
+        "crafts_061_3",
+        "crafts_061_4",
+        "crafts_061_5"
+      ],
+      "order": 61
+    },
+    {
+      "id": "crafts_062",
+      "title": "工艺美术 - 图片63",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第63张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_062.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_062_0",
+        "crafts_062_1",
+        "crafts_062_2",
+        "crafts_062_3",
+        "crafts_062_4",
+        "crafts_062_5"
+      ],
+      "order": 62
+    },
+    {
+      "id": "crafts_063",
+      "title": "工艺美术 - 图片64",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第64张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_063.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_063_0",
+        "crafts_063_1",
+        "crafts_063_2",
+        "crafts_063_3",
+        "crafts_063_4",
+        "crafts_063_5"
+      ],
+      "order": 63
+    },
+    {
+      "id": "crafts_064",
+      "title": "工艺美术 - 图片65",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第65张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_064.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_064_0",
+        "crafts_064_1",
+        "crafts_064_2",
+        "crafts_064_3",
+        "crafts_064_4",
+        "crafts_064_5"
+      ],
+      "order": 64
+    },
+    {
+      "id": "crafts_065",
+      "title": "工艺美术 - 图片66",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第66张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_065.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_065_0",
+        "crafts_065_1",
+        "crafts_065_2",
+        "crafts_065_3",
+        "crafts_065_4",
+        "crafts_065_5"
+      ],
+      "order": 65
+    },
+    {
+      "id": "crafts_066",
+      "title": "工艺美术 - 图片67",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第67张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_066.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_066_0",
+        "crafts_066_1",
+        "crafts_066_2",
+        "crafts_066_3",
+        "crafts_066_4",
+        "crafts_066_5"
+      ],
+      "order": 66
+    },
+    {
+      "id": "crafts_067",
+      "title": "工艺美术 - 图片68",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第68张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_067.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_067_0",
+        "crafts_067_1",
+        "crafts_067_2",
+        "crafts_067_3",
+        "crafts_067_4",
+        "crafts_067_5"
+      ],
+      "order": 67
+    },
+    {
+      "id": "crafts_068",
+      "title": "工艺美术 - 图片69",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第69张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_068.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_068_0",
+        "crafts_068_1",
+        "crafts_068_2",
+        "crafts_068_3",
+        "crafts_068_4",
+        "crafts_068_5"
+      ],
+      "order": 68
+    },
+    {
+      "id": "crafts_069",
+      "title": "工艺美术 - 图片70",
+      "summary": "工艺美术相关图片",
+      "full_text": "这是工艺美术中的第70张图片。",
+      "image": "res://assets/images/illustrations/crafts/crafts_069.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "crafts_069_0",
+        "crafts_069_1",
+        "crafts_069_2",
+        "crafts_069_3",
+        "crafts_069_4",
+        "crafts_069_5"
+      ],
+      "order": 69
+    }
+  ]
+}

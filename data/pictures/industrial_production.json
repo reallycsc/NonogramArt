@@ -1,0 +1,1305 @@
+{
+  "album_id": "industrial_production",
+  "pictures": [
+    {
+      "id": "industrial_production_000",
+      "title": "工业生产 - 图片1",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第1张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_000.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_000_0",
+        "industrial_production_000_1",
+        "industrial_production_000_2",
+        "industrial_production_000_3",
+        "industrial_production_000_4",
+        "industrial_production_000_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "industrial_production_001",
+      "title": "工业生产 - 图片2",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第2张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_001.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_001_0",
+        "industrial_production_001_1",
+        "industrial_production_001_2",
+        "industrial_production_001_3",
+        "industrial_production_001_4",
+        "industrial_production_001_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "industrial_production_002",
+      "title": "工业生产 - 图片3",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第3张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_002.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_002_0",
+        "industrial_production_002_1",
+        "industrial_production_002_2",
+        "industrial_production_002_3",
+        "industrial_production_002_4",
+        "industrial_production_002_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "industrial_production_003",
+      "title": "工业生产 - 图片4",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第4张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_003.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_003_0",
+        "industrial_production_003_1",
+        "industrial_production_003_2",
+        "industrial_production_003_3",
+        "industrial_production_003_4",
+        "industrial_production_003_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "industrial_production_004",
+      "title": "工业生产 - 图片5",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第5张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_004.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_004_0",
+        "industrial_production_004_1",
+        "industrial_production_004_2",
+        "industrial_production_004_3",
+        "industrial_production_004_4",
+        "industrial_production_004_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "industrial_production_005",
+      "title": "工业生产 - 图片6",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第6张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_005.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_005_0",
+        "industrial_production_005_1",
+        "industrial_production_005_2",
+        "industrial_production_005_3",
+        "industrial_production_005_4",
+        "industrial_production_005_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "industrial_production_006",
+      "title": "工业生产 - 图片7",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第7张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_006.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_006_0",
+        "industrial_production_006_1",
+        "industrial_production_006_2",
+        "industrial_production_006_3",
+        "industrial_production_006_4",
+        "industrial_production_006_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "industrial_production_007",
+      "title": "工业生产 - 图片8",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第8张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_007.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_007_0",
+        "industrial_production_007_1",
+        "industrial_production_007_2",
+        "industrial_production_007_3",
+        "industrial_production_007_4",
+        "industrial_production_007_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "industrial_production_008",
+      "title": "工业生产 - 图片9",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第9张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_008.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_008_0",
+        "industrial_production_008_1",
+        "industrial_production_008_2",
+        "industrial_production_008_3",
+        "industrial_production_008_4",
+        "industrial_production_008_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "industrial_production_009",
+      "title": "工业生产 - 图片10",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第10张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_009.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_009_0",
+        "industrial_production_009_1",
+        "industrial_production_009_2",
+        "industrial_production_009_3",
+        "industrial_production_009_4",
+        "industrial_production_009_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "industrial_production_010",
+      "title": "工业生产 - 图片11",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第11张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_010.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_010_0",
+        "industrial_production_010_1",
+        "industrial_production_010_2",
+        "industrial_production_010_3",
+        "industrial_production_010_4",
+        "industrial_production_010_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "industrial_production_011",
+      "title": "工业生产 - 图片12",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第12张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_011.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_011_0",
+        "industrial_production_011_1",
+        "industrial_production_011_2",
+        "industrial_production_011_3",
+        "industrial_production_011_4",
+        "industrial_production_011_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "industrial_production_012",
+      "title": "工业生产 - 图片13",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第13张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_012.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_012_0",
+        "industrial_production_012_1",
+        "industrial_production_012_2",
+        "industrial_production_012_3",
+        "industrial_production_012_4",
+        "industrial_production_012_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "industrial_production_013",
+      "title": "工业生产 - 图片14",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第14张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_013.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_013_0",
+        "industrial_production_013_1",
+        "industrial_production_013_2",
+        "industrial_production_013_3",
+        "industrial_production_013_4",
+        "industrial_production_013_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "industrial_production_014",
+      "title": "工业生产 - 图片15",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第15张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_014.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_014_0",
+        "industrial_production_014_1",
+        "industrial_production_014_2",
+        "industrial_production_014_3",
+        "industrial_production_014_4",
+        "industrial_production_014_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "industrial_production_015",
+      "title": "工业生产 - 图片16",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第16张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_015.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_015_0",
+        "industrial_production_015_1",
+        "industrial_production_015_2",
+        "industrial_production_015_3",
+        "industrial_production_015_4",
+        "industrial_production_015_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "industrial_production_016",
+      "title": "工业生产 - 图片17",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第17张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_016.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_016_0",
+        "industrial_production_016_1",
+        "industrial_production_016_2",
+        "industrial_production_016_3",
+        "industrial_production_016_4",
+        "industrial_production_016_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "industrial_production_017",
+      "title": "工业生产 - 图片18",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第18张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_017.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_017_0",
+        "industrial_production_017_1",
+        "industrial_production_017_2",
+        "industrial_production_017_3",
+        "industrial_production_017_4",
+        "industrial_production_017_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "industrial_production_018",
+      "title": "工业生产 - 图片19",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第19张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_018.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_018_0",
+        "industrial_production_018_1",
+        "industrial_production_018_2",
+        "industrial_production_018_3",
+        "industrial_production_018_4",
+        "industrial_production_018_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "industrial_production_019",
+      "title": "工业生产 - 图片20",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第20张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_019.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_019_0",
+        "industrial_production_019_1",
+        "industrial_production_019_2",
+        "industrial_production_019_3",
+        "industrial_production_019_4",
+        "industrial_production_019_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "industrial_production_020",
+      "title": "工业生产 - 图片21",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第21张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_020.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_020_0",
+        "industrial_production_020_1",
+        "industrial_production_020_2",
+        "industrial_production_020_3",
+        "industrial_production_020_4",
+        "industrial_production_020_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "industrial_production_021",
+      "title": "工业生产 - 图片22",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第22张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_021.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_021_0",
+        "industrial_production_021_1",
+        "industrial_production_021_2",
+        "industrial_production_021_3",
+        "industrial_production_021_4",
+        "industrial_production_021_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "industrial_production_022",
+      "title": "工业生产 - 图片23",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第23张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_022.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_022_0",
+        "industrial_production_022_1",
+        "industrial_production_022_2",
+        "industrial_production_022_3",
+        "industrial_production_022_4",
+        "industrial_production_022_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "industrial_production_023",
+      "title": "工业生产 - 图片24",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第24张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_023.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_023_0",
+        "industrial_production_023_1",
+        "industrial_production_023_2",
+        "industrial_production_023_3",
+        "industrial_production_023_4",
+        "industrial_production_023_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "industrial_production_024",
+      "title": "工业生产 - 图片25",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第25张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_024.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_024_0",
+        "industrial_production_024_1",
+        "industrial_production_024_2",
+        "industrial_production_024_3",
+        "industrial_production_024_4",
+        "industrial_production_024_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "industrial_production_025",
+      "title": "工业生产 - 图片26",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第26张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_025.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_025_0",
+        "industrial_production_025_1",
+        "industrial_production_025_2",
+        "industrial_production_025_3",
+        "industrial_production_025_4",
+        "industrial_production_025_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "industrial_production_026",
+      "title": "工业生产 - 图片27",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第27张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_026.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_026_0",
+        "industrial_production_026_1",
+        "industrial_production_026_2",
+        "industrial_production_026_3",
+        "industrial_production_026_4",
+        "industrial_production_026_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "industrial_production_027",
+      "title": "工业生产 - 图片28",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第28张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_027.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_027_0",
+        "industrial_production_027_1",
+        "industrial_production_027_2",
+        "industrial_production_027_3",
+        "industrial_production_027_4",
+        "industrial_production_027_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "industrial_production_028",
+      "title": "工业生产 - 图片29",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第29张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_028.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_028_0",
+        "industrial_production_028_1",
+        "industrial_production_028_2",
+        "industrial_production_028_3",
+        "industrial_production_028_4",
+        "industrial_production_028_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "industrial_production_029",
+      "title": "工业生产 - 图片30",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第30张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_029.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_029_0",
+        "industrial_production_029_1",
+        "industrial_production_029_2",
+        "industrial_production_029_3",
+        "industrial_production_029_4",
+        "industrial_production_029_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "industrial_production_030",
+      "title": "工业生产 - 图片31",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第31张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_030.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_030_0",
+        "industrial_production_030_1",
+        "industrial_production_030_2",
+        "industrial_production_030_3",
+        "industrial_production_030_4",
+        "industrial_production_030_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "industrial_production_031",
+      "title": "工业生产 - 图片32",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第32张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_031.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_031_0",
+        "industrial_production_031_1",
+        "industrial_production_031_2",
+        "industrial_production_031_3",
+        "industrial_production_031_4",
+        "industrial_production_031_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "industrial_production_032",
+      "title": "工业生产 - 图片33",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第33张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_032.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_032_0",
+        "industrial_production_032_1",
+        "industrial_production_032_2",
+        "industrial_production_032_3",
+        "industrial_production_032_4",
+        "industrial_production_032_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "industrial_production_033",
+      "title": "工业生产 - 图片34",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第34张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_033.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_033_0",
+        "industrial_production_033_1",
+        "industrial_production_033_2",
+        "industrial_production_033_3",
+        "industrial_production_033_4",
+        "industrial_production_033_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "industrial_production_034",
+      "title": "工业生产 - 图片35",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第35张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_034.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_034_0",
+        "industrial_production_034_1",
+        "industrial_production_034_2",
+        "industrial_production_034_3",
+        "industrial_production_034_4",
+        "industrial_production_034_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "industrial_production_035",
+      "title": "工业生产 - 图片36",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第36张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_035.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_035_0",
+        "industrial_production_035_1",
+        "industrial_production_035_2",
+        "industrial_production_035_3",
+        "industrial_production_035_4",
+        "industrial_production_035_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "industrial_production_036",
+      "title": "工业生产 - 图片37",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第37张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_036.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_036_0",
+        "industrial_production_036_1",
+        "industrial_production_036_2",
+        "industrial_production_036_3",
+        "industrial_production_036_4",
+        "industrial_production_036_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "industrial_production_037",
+      "title": "工业生产 - 图片38",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第38张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_037.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_037_0",
+        "industrial_production_037_1",
+        "industrial_production_037_2",
+        "industrial_production_037_3",
+        "industrial_production_037_4",
+        "industrial_production_037_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "industrial_production_038",
+      "title": "工业生产 - 图片39",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第39张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_038.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_038_0",
+        "industrial_production_038_1",
+        "industrial_production_038_2",
+        "industrial_production_038_3",
+        "industrial_production_038_4",
+        "industrial_production_038_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "industrial_production_039",
+      "title": "工业生产 - 图片40",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第40张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_039.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_039_0",
+        "industrial_production_039_1",
+        "industrial_production_039_2",
+        "industrial_production_039_3",
+        "industrial_production_039_4",
+        "industrial_production_039_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "industrial_production_040",
+      "title": "工业生产 - 图片41",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第41张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_040.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_040_0",
+        "industrial_production_040_1",
+        "industrial_production_040_2",
+        "industrial_production_040_3",
+        "industrial_production_040_4",
+        "industrial_production_040_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "industrial_production_041",
+      "title": "工业生产 - 图片42",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第42张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_041.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_041_0",
+        "industrial_production_041_1",
+        "industrial_production_041_2",
+        "industrial_production_041_3",
+        "industrial_production_041_4",
+        "industrial_production_041_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "industrial_production_042",
+      "title": "工业生产 - 图片43",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第43张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_042.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_042_0",
+        "industrial_production_042_1",
+        "industrial_production_042_2",
+        "industrial_production_042_3",
+        "industrial_production_042_4",
+        "industrial_production_042_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "industrial_production_043",
+      "title": "工业生产 - 图片44",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第44张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_043.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_043_0",
+        "industrial_production_043_1",
+        "industrial_production_043_2",
+        "industrial_production_043_3",
+        "industrial_production_043_4",
+        "industrial_production_043_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "industrial_production_044",
+      "title": "工业生产 - 图片45",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第45张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_044.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_044_0",
+        "industrial_production_044_1",
+        "industrial_production_044_2",
+        "industrial_production_044_3",
+        "industrial_production_044_4",
+        "industrial_production_044_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "industrial_production_045",
+      "title": "工业生产 - 图片46",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第46张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_045.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_045_0",
+        "industrial_production_045_1",
+        "industrial_production_045_2",
+        "industrial_production_045_3",
+        "industrial_production_045_4",
+        "industrial_production_045_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "industrial_production_046",
+      "title": "工业生产 - 图片47",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第47张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_046.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_046_0",
+        "industrial_production_046_1",
+        "industrial_production_046_2",
+        "industrial_production_046_3",
+        "industrial_production_046_4",
+        "industrial_production_046_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "industrial_production_047",
+      "title": "工业生产 - 图片48",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第48张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_047.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_047_0",
+        "industrial_production_047_1",
+        "industrial_production_047_2",
+        "industrial_production_047_3",
+        "industrial_production_047_4",
+        "industrial_production_047_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "industrial_production_048",
+      "title": "工业生产 - 图片49",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第49张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_048.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_048_0",
+        "industrial_production_048_1",
+        "industrial_production_048_2",
+        "industrial_production_048_3",
+        "industrial_production_048_4",
+        "industrial_production_048_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "industrial_production_049",
+      "title": "工业生产 - 图片50",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第50张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_049.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_049_0",
+        "industrial_production_049_1",
+        "industrial_production_049_2",
+        "industrial_production_049_3",
+        "industrial_production_049_4",
+        "industrial_production_049_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "industrial_production_050",
+      "title": "工业生产 - 图片51",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第51张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_050.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_050_0",
+        "industrial_production_050_1",
+        "industrial_production_050_2",
+        "industrial_production_050_3",
+        "industrial_production_050_4",
+        "industrial_production_050_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "industrial_production_051",
+      "title": "工业生产 - 图片52",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第52张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_051.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_051_0",
+        "industrial_production_051_1",
+        "industrial_production_051_2",
+        "industrial_production_051_3",
+        "industrial_production_051_4",
+        "industrial_production_051_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "industrial_production_052",
+      "title": "工业生产 - 图片53",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第53张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_052.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_052_0",
+        "industrial_production_052_1",
+        "industrial_production_052_2",
+        "industrial_production_052_3",
+        "industrial_production_052_4",
+        "industrial_production_052_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "industrial_production_053",
+      "title": "工业生产 - 图片54",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第54张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_053.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_053_0",
+        "industrial_production_053_1",
+        "industrial_production_053_2",
+        "industrial_production_053_3",
+        "industrial_production_053_4",
+        "industrial_production_053_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "industrial_production_054",
+      "title": "工业生产 - 图片55",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第55张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_054.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_054_0",
+        "industrial_production_054_1",
+        "industrial_production_054_2",
+        "industrial_production_054_3",
+        "industrial_production_054_4",
+        "industrial_production_054_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "industrial_production_055",
+      "title": "工业生产 - 图片56",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第56张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_055.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_055_0",
+        "industrial_production_055_1",
+        "industrial_production_055_2",
+        "industrial_production_055_3",
+        "industrial_production_055_4",
+        "industrial_production_055_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "industrial_production_056",
+      "title": "工业生产 - 图片57",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第57张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_056.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_056_0",
+        "industrial_production_056_1",
+        "industrial_production_056_2",
+        "industrial_production_056_3",
+        "industrial_production_056_4",
+        "industrial_production_056_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "industrial_production_057",
+      "title": "工业生产 - 图片58",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第58张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_057.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_057_0",
+        "industrial_production_057_1",
+        "industrial_production_057_2",
+        "industrial_production_057_3",
+        "industrial_production_057_4",
+        "industrial_production_057_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "industrial_production_058",
+      "title": "工业生产 - 图片59",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第59张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_058.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_058_0",
+        "industrial_production_058_1",
+        "industrial_production_058_2",
+        "industrial_production_058_3",
+        "industrial_production_058_4",
+        "industrial_production_058_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "industrial_production_059",
+      "title": "工业生产 - 图片60",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第60张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_059.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_059_0",
+        "industrial_production_059_1",
+        "industrial_production_059_2",
+        "industrial_production_059_3",
+        "industrial_production_059_4",
+        "industrial_production_059_5"
+      ],
+      "order": 59
+    },
+    {
+      "id": "industrial_production_060",
+      "title": "工业生产 - 图片61",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第61张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_060.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_060_0",
+        "industrial_production_060_1",
+        "industrial_production_060_2",
+        "industrial_production_060_3",
+        "industrial_production_060_4",
+        "industrial_production_060_5"
+      ],
+      "order": 60
+    },
+    {
+      "id": "industrial_production_061",
+      "title": "工业生产 - 图片62",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第62张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_061.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_061_0",
+        "industrial_production_061_1",
+        "industrial_production_061_2",
+        "industrial_production_061_3",
+        "industrial_production_061_4",
+        "industrial_production_061_5"
+      ],
+      "order": 61
+    },
+    {
+      "id": "industrial_production_062",
+      "title": "工业生产 - 图片63",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第63张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_062.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_062_0",
+        "industrial_production_062_1",
+        "industrial_production_062_2",
+        "industrial_production_062_3",
+        "industrial_production_062_4",
+        "industrial_production_062_5"
+      ],
+      "order": 62
+    },
+    {
+      "id": "industrial_production_063",
+      "title": "工业生产 - 图片64",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第64张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_063.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_063_0",
+        "industrial_production_063_1",
+        "industrial_production_063_2",
+        "industrial_production_063_3",
+        "industrial_production_063_4",
+        "industrial_production_063_5"
+      ],
+      "order": 63
+    },
+    {
+      "id": "industrial_production_064",
+      "title": "工业生产 - 图片65",
+      "summary": "工业生产相关图片",
+      "full_text": "这是工业生产中的第65张图片。",
+      "image": "res://assets/images/illustrations/industrial_production/industrial_production_064.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "industrial_production_064_0",
+        "industrial_production_064_1",
+        "industrial_production_064_2",
+        "industrial_production_064_3",
+        "industrial_production_064_4",
+        "industrial_production_064_5"
+      ],
+      "order": 64
+    }
+  ]
+}

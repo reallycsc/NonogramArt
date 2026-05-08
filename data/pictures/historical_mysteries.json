@@ -1,0 +1,1405 @@
+{
+  "album_id": "historical_mysteries",
+  "pictures": [
+    {
+      "id": "historical_mysteries_000",
+      "title": "历史未解之谜 - 图片1",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第1张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_000.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_000_0",
+        "historical_mysteries_000_1",
+        "historical_mysteries_000_2",
+        "historical_mysteries_000_3",
+        "historical_mysteries_000_4",
+        "historical_mysteries_000_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "historical_mysteries_001",
+      "title": "历史未解之谜 - 图片2",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第2张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_001.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_001_0",
+        "historical_mysteries_001_1",
+        "historical_mysteries_001_2",
+        "historical_mysteries_001_3",
+        "historical_mysteries_001_4",
+        "historical_mysteries_001_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "historical_mysteries_002",
+      "title": "历史未解之谜 - 图片3",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第3张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_002.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_002_0",
+        "historical_mysteries_002_1",
+        "historical_mysteries_002_2",
+        "historical_mysteries_002_3",
+        "historical_mysteries_002_4",
+        "historical_mysteries_002_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "historical_mysteries_003",
+      "title": "历史未解之谜 - 图片4",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第4张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_003.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_003_0",
+        "historical_mysteries_003_1",
+        "historical_mysteries_003_2",
+        "historical_mysteries_003_3",
+        "historical_mysteries_003_4",
+        "historical_mysteries_003_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "historical_mysteries_004",
+      "title": "历史未解之谜 - 图片5",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第5张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_004.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_004_0",
+        "historical_mysteries_004_1",
+        "historical_mysteries_004_2",
+        "historical_mysteries_004_3",
+        "historical_mysteries_004_4",
+        "historical_mysteries_004_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "historical_mysteries_005",
+      "title": "历史未解之谜 - 图片6",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第6张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_005.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_005_0",
+        "historical_mysteries_005_1",
+        "historical_mysteries_005_2",
+        "historical_mysteries_005_3",
+        "historical_mysteries_005_4",
+        "historical_mysteries_005_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "historical_mysteries_006",
+      "title": "历史未解之谜 - 图片7",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第7张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_006.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_006_0",
+        "historical_mysteries_006_1",
+        "historical_mysteries_006_2",
+        "historical_mysteries_006_3",
+        "historical_mysteries_006_4",
+        "historical_mysteries_006_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "historical_mysteries_007",
+      "title": "历史未解之谜 - 图片8",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第8张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_007.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_007_0",
+        "historical_mysteries_007_1",
+        "historical_mysteries_007_2",
+        "historical_mysteries_007_3",
+        "historical_mysteries_007_4",
+        "historical_mysteries_007_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "historical_mysteries_008",
+      "title": "历史未解之谜 - 图片9",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第9张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_008.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_008_0",
+        "historical_mysteries_008_1",
+        "historical_mysteries_008_2",
+        "historical_mysteries_008_3",
+        "historical_mysteries_008_4",
+        "historical_mysteries_008_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "historical_mysteries_009",
+      "title": "历史未解之谜 - 图片10",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第10张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_009.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_009_0",
+        "historical_mysteries_009_1",
+        "historical_mysteries_009_2",
+        "historical_mysteries_009_3",
+        "historical_mysteries_009_4",
+        "historical_mysteries_009_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "historical_mysteries_010",
+      "title": "历史未解之谜 - 图片11",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第11张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_010.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_010_0",
+        "historical_mysteries_010_1",
+        "historical_mysteries_010_2",
+        "historical_mysteries_010_3",
+        "historical_mysteries_010_4",
+        "historical_mysteries_010_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "historical_mysteries_011",
+      "title": "历史未解之谜 - 图片12",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第12张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_011.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_011_0",
+        "historical_mysteries_011_1",
+        "historical_mysteries_011_2",
+        "historical_mysteries_011_3",
+        "historical_mysteries_011_4",
+        "historical_mysteries_011_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "historical_mysteries_012",
+      "title": "历史未解之谜 - 图片13",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第13张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_012.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_012_0",
+        "historical_mysteries_012_1",
+        "historical_mysteries_012_2",
+        "historical_mysteries_012_3",
+        "historical_mysteries_012_4",
+        "historical_mysteries_012_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "historical_mysteries_013",
+      "title": "历史未解之谜 - 图片14",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第14张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_013.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_013_0",
+        "historical_mysteries_013_1",
+        "historical_mysteries_013_2",
+        "historical_mysteries_013_3",
+        "historical_mysteries_013_4",
+        "historical_mysteries_013_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "historical_mysteries_014",
+      "title": "历史未解之谜 - 图片15",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第15张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_014.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_014_0",
+        "historical_mysteries_014_1",
+        "historical_mysteries_014_2",
+        "historical_mysteries_014_3",
+        "historical_mysteries_014_4",
+        "historical_mysteries_014_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "historical_mysteries_015",
+      "title": "历史未解之谜 - 图片16",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第16张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_015.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_015_0",
+        "historical_mysteries_015_1",
+        "historical_mysteries_015_2",
+        "historical_mysteries_015_3",
+        "historical_mysteries_015_4",
+        "historical_mysteries_015_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "historical_mysteries_016",
+      "title": "历史未解之谜 - 图片17",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第17张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_016.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_016_0",
+        "historical_mysteries_016_1",
+        "historical_mysteries_016_2",
+        "historical_mysteries_016_3",
+        "historical_mysteries_016_4",
+        "historical_mysteries_016_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "historical_mysteries_017",
+      "title": "历史未解之谜 - 图片18",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第18张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_017.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_017_0",
+        "historical_mysteries_017_1",
+        "historical_mysteries_017_2",
+        "historical_mysteries_017_3",
+        "historical_mysteries_017_4",
+        "historical_mysteries_017_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "historical_mysteries_018",
+      "title": "历史未解之谜 - 图片19",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第19张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_018.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_018_0",
+        "historical_mysteries_018_1",
+        "historical_mysteries_018_2",
+        "historical_mysteries_018_3",
+        "historical_mysteries_018_4",
+        "historical_mysteries_018_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "historical_mysteries_019",
+      "title": "历史未解之谜 - 图片20",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第20张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_019.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_019_0",
+        "historical_mysteries_019_1",
+        "historical_mysteries_019_2",
+        "historical_mysteries_019_3",
+        "historical_mysteries_019_4",
+        "historical_mysteries_019_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "historical_mysteries_020",
+      "title": "历史未解之谜 - 图片21",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第21张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_020.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_020_0",
+        "historical_mysteries_020_1",
+        "historical_mysteries_020_2",
+        "historical_mysteries_020_3",
+        "historical_mysteries_020_4",
+        "historical_mysteries_020_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "historical_mysteries_021",
+      "title": "历史未解之谜 - 图片22",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第22张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_021.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_021_0",
+        "historical_mysteries_021_1",
+        "historical_mysteries_021_2",
+        "historical_mysteries_021_3",
+        "historical_mysteries_021_4",
+        "historical_mysteries_021_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "historical_mysteries_022",
+      "title": "历史未解之谜 - 图片23",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第23张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_022.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_022_0",
+        "historical_mysteries_022_1",
+        "historical_mysteries_022_2",
+        "historical_mysteries_022_3",
+        "historical_mysteries_022_4",
+        "historical_mysteries_022_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "historical_mysteries_023",
+      "title": "历史未解之谜 - 图片24",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第24张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_023.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_023_0",
+        "historical_mysteries_023_1",
+        "historical_mysteries_023_2",
+        "historical_mysteries_023_3",
+        "historical_mysteries_023_4",
+        "historical_mysteries_023_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "historical_mysteries_024",
+      "title": "历史未解之谜 - 图片25",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第25张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_024.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_024_0",
+        "historical_mysteries_024_1",
+        "historical_mysteries_024_2",
+        "historical_mysteries_024_3",
+        "historical_mysteries_024_4",
+        "historical_mysteries_024_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "historical_mysteries_025",
+      "title": "历史未解之谜 - 图片26",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第26张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_025.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_025_0",
+        "historical_mysteries_025_1",
+        "historical_mysteries_025_2",
+        "historical_mysteries_025_3",
+        "historical_mysteries_025_4",
+        "historical_mysteries_025_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "historical_mysteries_026",
+      "title": "历史未解之谜 - 图片27",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第27张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_026.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_026_0",
+        "historical_mysteries_026_1",
+        "historical_mysteries_026_2",
+        "historical_mysteries_026_3",
+        "historical_mysteries_026_4",
+        "historical_mysteries_026_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "historical_mysteries_027",
+      "title": "历史未解之谜 - 图片28",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第28张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_027.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_027_0",
+        "historical_mysteries_027_1",
+        "historical_mysteries_027_2",
+        "historical_mysteries_027_3",
+        "historical_mysteries_027_4",
+        "historical_mysteries_027_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "historical_mysteries_028",
+      "title": "历史未解之谜 - 图片29",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第29张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_028.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_028_0",
+        "historical_mysteries_028_1",
+        "historical_mysteries_028_2",
+        "historical_mysteries_028_3",
+        "historical_mysteries_028_4",
+        "historical_mysteries_028_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "historical_mysteries_029",
+      "title": "历史未解之谜 - 图片30",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第30张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_029.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_029_0",
+        "historical_mysteries_029_1",
+        "historical_mysteries_029_2",
+        "historical_mysteries_029_3",
+        "historical_mysteries_029_4",
+        "historical_mysteries_029_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "historical_mysteries_030",
+      "title": "历史未解之谜 - 图片31",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第31张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_030.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_030_0",
+        "historical_mysteries_030_1",
+        "historical_mysteries_030_2",
+        "historical_mysteries_030_3",
+        "historical_mysteries_030_4",
+        "historical_mysteries_030_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "historical_mysteries_031",
+      "title": "历史未解之谜 - 图片32",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第32张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_031.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_031_0",
+        "historical_mysteries_031_1",
+        "historical_mysteries_031_2",
+        "historical_mysteries_031_3",
+        "historical_mysteries_031_4",
+        "historical_mysteries_031_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "historical_mysteries_032",
+      "title": "历史未解之谜 - 图片33",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第33张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_032.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_032_0",
+        "historical_mysteries_032_1",
+        "historical_mysteries_032_2",
+        "historical_mysteries_032_3",
+        "historical_mysteries_032_4",
+        "historical_mysteries_032_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "historical_mysteries_033",
+      "title": "历史未解之谜 - 图片34",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第34张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_033.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_033_0",
+        "historical_mysteries_033_1",
+        "historical_mysteries_033_2",
+        "historical_mysteries_033_3",
+        "historical_mysteries_033_4",
+        "historical_mysteries_033_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "historical_mysteries_034",
+      "title": "历史未解之谜 - 图片35",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第35张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_034.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_034_0",
+        "historical_mysteries_034_1",
+        "historical_mysteries_034_2",
+        "historical_mysteries_034_3",
+        "historical_mysteries_034_4",
+        "historical_mysteries_034_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "historical_mysteries_035",
+      "title": "历史未解之谜 - 图片36",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第36张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_035.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_035_0",
+        "historical_mysteries_035_1",
+        "historical_mysteries_035_2",
+        "historical_mysteries_035_3",
+        "historical_mysteries_035_4",
+        "historical_mysteries_035_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "historical_mysteries_036",
+      "title": "历史未解之谜 - 图片37",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第37张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_036.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_036_0",
+        "historical_mysteries_036_1",
+        "historical_mysteries_036_2",
+        "historical_mysteries_036_3",
+        "historical_mysteries_036_4",
+        "historical_mysteries_036_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "historical_mysteries_037",
+      "title": "历史未解之谜 - 图片38",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第38张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_037.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_037_0",
+        "historical_mysteries_037_1",
+        "historical_mysteries_037_2",
+        "historical_mysteries_037_3",
+        "historical_mysteries_037_4",
+        "historical_mysteries_037_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "historical_mysteries_038",
+      "title": "历史未解之谜 - 图片39",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第39张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_038.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_038_0",
+        "historical_mysteries_038_1",
+        "historical_mysteries_038_2",
+        "historical_mysteries_038_3",
+        "historical_mysteries_038_4",
+        "historical_mysteries_038_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "historical_mysteries_039",
+      "title": "历史未解之谜 - 图片40",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第40张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_039.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_039_0",
+        "historical_mysteries_039_1",
+        "historical_mysteries_039_2",
+        "historical_mysteries_039_3",
+        "historical_mysteries_039_4",
+        "historical_mysteries_039_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "historical_mysteries_040",
+      "title": "历史未解之谜 - 图片41",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第41张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_040.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_040_0",
+        "historical_mysteries_040_1",
+        "historical_mysteries_040_2",
+        "historical_mysteries_040_3",
+        "historical_mysteries_040_4",
+        "historical_mysteries_040_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "historical_mysteries_041",
+      "title": "历史未解之谜 - 图片42",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第42张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_041.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_041_0",
+        "historical_mysteries_041_1",
+        "historical_mysteries_041_2",
+        "historical_mysteries_041_3",
+        "historical_mysteries_041_4",
+        "historical_mysteries_041_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "historical_mysteries_042",
+      "title": "历史未解之谜 - 图片43",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第43张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_042.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_042_0",
+        "historical_mysteries_042_1",
+        "historical_mysteries_042_2",
+        "historical_mysteries_042_3",
+        "historical_mysteries_042_4",
+        "historical_mysteries_042_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "historical_mysteries_043",
+      "title": "历史未解之谜 - 图片44",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第44张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_043.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_043_0",
+        "historical_mysteries_043_1",
+        "historical_mysteries_043_2",
+        "historical_mysteries_043_3",
+        "historical_mysteries_043_4",
+        "historical_mysteries_043_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "historical_mysteries_044",
+      "title": "历史未解之谜 - 图片45",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第45张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_044.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_044_0",
+        "historical_mysteries_044_1",
+        "historical_mysteries_044_2",
+        "historical_mysteries_044_3",
+        "historical_mysteries_044_4",
+        "historical_mysteries_044_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "historical_mysteries_045",
+      "title": "历史未解之谜 - 图片46",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第46张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_045.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_045_0",
+        "historical_mysteries_045_1",
+        "historical_mysteries_045_2",
+        "historical_mysteries_045_3",
+        "historical_mysteries_045_4",
+        "historical_mysteries_045_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "historical_mysteries_046",
+      "title": "历史未解之谜 - 图片47",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第47张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_046.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_046_0",
+        "historical_mysteries_046_1",
+        "historical_mysteries_046_2",
+        "historical_mysteries_046_3",
+        "historical_mysteries_046_4",
+        "historical_mysteries_046_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "historical_mysteries_047",
+      "title": "历史未解之谜 - 图片48",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第48张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_047.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_047_0",
+        "historical_mysteries_047_1",
+        "historical_mysteries_047_2",
+        "historical_mysteries_047_3",
+        "historical_mysteries_047_4",
+        "historical_mysteries_047_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "historical_mysteries_048",
+      "title": "历史未解之谜 - 图片49",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第49张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_048.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_048_0",
+        "historical_mysteries_048_1",
+        "historical_mysteries_048_2",
+        "historical_mysteries_048_3",
+        "historical_mysteries_048_4",
+        "historical_mysteries_048_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "historical_mysteries_049",
+      "title": "历史未解之谜 - 图片50",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第50张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_049.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_049_0",
+        "historical_mysteries_049_1",
+        "historical_mysteries_049_2",
+        "historical_mysteries_049_3",
+        "historical_mysteries_049_4",
+        "historical_mysteries_049_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "historical_mysteries_050",
+      "title": "历史未解之谜 - 图片51",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第51张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_050.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_050_0",
+        "historical_mysteries_050_1",
+        "historical_mysteries_050_2",
+        "historical_mysteries_050_3",
+        "historical_mysteries_050_4",
+        "historical_mysteries_050_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "historical_mysteries_051",
+      "title": "历史未解之谜 - 图片52",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第52张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_051.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_051_0",
+        "historical_mysteries_051_1",
+        "historical_mysteries_051_2",
+        "historical_mysteries_051_3",
+        "historical_mysteries_051_4",
+        "historical_mysteries_051_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "historical_mysteries_052",
+      "title": "历史未解之谜 - 图片53",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第53张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_052.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_052_0",
+        "historical_mysteries_052_1",
+        "historical_mysteries_052_2",
+        "historical_mysteries_052_3",
+        "historical_mysteries_052_4",
+        "historical_mysteries_052_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "historical_mysteries_053",
+      "title": "历史未解之谜 - 图片54",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第54张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_053.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_053_0",
+        "historical_mysteries_053_1",
+        "historical_mysteries_053_2",
+        "historical_mysteries_053_3",
+        "historical_mysteries_053_4",
+        "historical_mysteries_053_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "historical_mysteries_054",
+      "title": "历史未解之谜 - 图片55",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第55张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_054.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_054_0",
+        "historical_mysteries_054_1",
+        "historical_mysteries_054_2",
+        "historical_mysteries_054_3",
+        "historical_mysteries_054_4",
+        "historical_mysteries_054_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "historical_mysteries_055",
+      "title": "历史未解之谜 - 图片56",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第56张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_055.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_055_0",
+        "historical_mysteries_055_1",
+        "historical_mysteries_055_2",
+        "historical_mysteries_055_3",
+        "historical_mysteries_055_4",
+        "historical_mysteries_055_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "historical_mysteries_056",
+      "title": "历史未解之谜 - 图片57",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第57张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_056.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_056_0",
+        "historical_mysteries_056_1",
+        "historical_mysteries_056_2",
+        "historical_mysteries_056_3",
+        "historical_mysteries_056_4",
+        "historical_mysteries_056_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "historical_mysteries_057",
+      "title": "历史未解之谜 - 图片58",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第58张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_057.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_057_0",
+        "historical_mysteries_057_1",
+        "historical_mysteries_057_2",
+        "historical_mysteries_057_3",
+        "historical_mysteries_057_4",
+        "historical_mysteries_057_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "historical_mysteries_058",
+      "title": "历史未解之谜 - 图片59",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第59张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_058.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_058_0",
+        "historical_mysteries_058_1",
+        "historical_mysteries_058_2",
+        "historical_mysteries_058_3",
+        "historical_mysteries_058_4",
+        "historical_mysteries_058_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "historical_mysteries_059",
+      "title": "历史未解之谜 - 图片60",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第60张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_059.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_059_0",
+        "historical_mysteries_059_1",
+        "historical_mysteries_059_2",
+        "historical_mysteries_059_3",
+        "historical_mysteries_059_4",
+        "historical_mysteries_059_5"
+      ],
+      "order": 59
+    },
+    {
+      "id": "historical_mysteries_060",
+      "title": "历史未解之谜 - 图片61",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第61张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_060.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_060_0",
+        "historical_mysteries_060_1",
+        "historical_mysteries_060_2",
+        "historical_mysteries_060_3",
+        "historical_mysteries_060_4",
+        "historical_mysteries_060_5"
+      ],
+      "order": 60
+    },
+    {
+      "id": "historical_mysteries_061",
+      "title": "历史未解之谜 - 图片62",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第62张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_061.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_061_0",
+        "historical_mysteries_061_1",
+        "historical_mysteries_061_2",
+        "historical_mysteries_061_3",
+        "historical_mysteries_061_4",
+        "historical_mysteries_061_5"
+      ],
+      "order": 61
+    },
+    {
+      "id": "historical_mysteries_062",
+      "title": "历史未解之谜 - 图片63",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第63张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_062.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_062_0",
+        "historical_mysteries_062_1",
+        "historical_mysteries_062_2",
+        "historical_mysteries_062_3",
+        "historical_mysteries_062_4",
+        "historical_mysteries_062_5"
+      ],
+      "order": 62
+    },
+    {
+      "id": "historical_mysteries_063",
+      "title": "历史未解之谜 - 图片64",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第64张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_063.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_063_0",
+        "historical_mysteries_063_1",
+        "historical_mysteries_063_2",
+        "historical_mysteries_063_3",
+        "historical_mysteries_063_4",
+        "historical_mysteries_063_5"
+      ],
+      "order": 63
+    },
+    {
+      "id": "historical_mysteries_064",
+      "title": "历史未解之谜 - 图片65",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第65张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_064.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_064_0",
+        "historical_mysteries_064_1",
+        "historical_mysteries_064_2",
+        "historical_mysteries_064_3",
+        "historical_mysteries_064_4",
+        "historical_mysteries_064_5"
+      ],
+      "order": 64
+    },
+    {
+      "id": "historical_mysteries_065",
+      "title": "历史未解之谜 - 图片66",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第66张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_065.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_065_0",
+        "historical_mysteries_065_1",
+        "historical_mysteries_065_2",
+        "historical_mysteries_065_3",
+        "historical_mysteries_065_4",
+        "historical_mysteries_065_5"
+      ],
+      "order": 65
+    },
+    {
+      "id": "historical_mysteries_066",
+      "title": "历史未解之谜 - 图片67",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第67张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_066.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_066_0",
+        "historical_mysteries_066_1",
+        "historical_mysteries_066_2",
+        "historical_mysteries_066_3",
+        "historical_mysteries_066_4",
+        "historical_mysteries_066_5"
+      ],
+      "order": 66
+    },
+    {
+      "id": "historical_mysteries_067",
+      "title": "历史未解之谜 - 图片68",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第68张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_067.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_067_0",
+        "historical_mysteries_067_1",
+        "historical_mysteries_067_2",
+        "historical_mysteries_067_3",
+        "historical_mysteries_067_4",
+        "historical_mysteries_067_5"
+      ],
+      "order": 67
+    },
+    {
+      "id": "historical_mysteries_068",
+      "title": "历史未解之谜 - 图片69",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第69张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_068.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_068_0",
+        "historical_mysteries_068_1",
+        "historical_mysteries_068_2",
+        "historical_mysteries_068_3",
+        "historical_mysteries_068_4",
+        "historical_mysteries_068_5"
+      ],
+      "order": 68
+    },
+    {
+      "id": "historical_mysteries_069",
+      "title": "历史未解之谜 - 图片70",
+      "summary": "历史未解之谜相关图片",
+      "full_text": "这是历史未解之谜中的第70张图片。",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_069.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "historical_mysteries_069_0",
+        "historical_mysteries_069_1",
+        "historical_mysteries_069_2",
+        "historical_mysteries_069_3",
+        "historical_mysteries_069_4",
+        "historical_mysteries_069_5"
+      ],
+      "order": 69
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "bookshelves": [
+    {
+      "id": "humanities_history",
+      "name": "人文历史",
+      "icon": "res://assets/images/icons/bookshelf_humanities.png",
+      "order": 0
+    },
+    {
+      "id": "art_creativity",
+      "name": "艺术创作",
+      "icon": "res://assets/images/icons/bookshelf_art.png",
+      "order": 1
+    },
+    {
+      "id": "nature_geography",
+      "name": "自然地理",
+      "icon": "res://assets/images/icons/bookshelf_nature.png",
+      "order": 2
+    },
+    {
+      "id": "biology_world",
+      "name": "生物世界",
+      "icon": "res://assets/images/icons/bookshelf_biology.png",
+      "order": 3
+    },
+    {
+      "id": "life_society",
+      "name": "生活社会",
+      "icon": "res://assets/images/icons/bookshelf_life.png",
+      "order": 4
+    },
+    {
+      "id": "technology_industry",
+      "name": "科技工业",
+      "icon": "res://assets/images/icons/bookshelf_tech.png",
+      "order": 5
+    },
+    {
+      "id": "general_materials",
+      "name": "综合素材",
+      "icon": "res://assets/images/icons/bookshelf_general.png",
+      "order": 6
+    }
+  ],
+  "albums": [
+    {
+      "id": "chinese_history",
+      "name": "中国通史",
+      "description": "中国历代王朝更迭与重大事件",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_chinese_history.png",
+      "unlock_condition": null,
+      "order": 0
+    },
+    {
+      "id": "world_history",
+      "name": "世界通史",
+      "description": "全球文明演进与世界大事",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_world_history.png",
+      "unlock_condition": "complete_album:chinese_history",
+      "order": 1
+    },
+    {
+      "id": "asian_civilization",
+      "name": "亚洲文明史",
+      "description": "亚洲各国历史与文化",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_asian_civilization.png",
+      "unlock_condition": "complete_album:world_history",
+      "order": 2
+    },
+    {
+      "id": "european_civilization",
+      "name": "欧洲文明史",
+      "description": "欧洲历史与文化发展",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_european_civilization.png",
+      "unlock_condition": "complete_album:asian_civilization",
+      "order": 3
+    },
+    {
+      "id": "africa_america_civilization",
+      "name": "非洲与美洲文明史",
+      "description": "非洲与美洲古代文明",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_africa_america.png",
+      "unlock_condition": "complete_album:european_civilization",
+      "order": 4
+    },
+    {
+      "id": "war_military",
+      "name": "战争与军事史",
+      "description": "古今著名战役与军事装备",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_war_military.png",
+      "unlock_condition": "complete_album:africa_america_civilization",
+      "order": 5
+    },
+    {
+      "id": "political_system",
+      "name": "政治与制度史",
+      "description": "政治制度演变与重要会议",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_political_system.png",
+      "unlock_condition": "complete_album:war_military",
+      "order": 6
+    },
+    {
+      "id": "economic_trade",
+      "name": "经济与贸易史",
+      "description": "经济发展与商业演变",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_economic_trade.png",
+      "unlock_condition": "complete_album:political_system",
+      "order": 7
+    },
+    {
+      "id": "world_heritage",
+      "name": "世界文化遗产",
+      "description": "全球世界文化遗产",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_world_heritage.png",
+      "unlock_condition": "complete_album:economic_trade",
+      "order": 8
+    },
+    {
+      "id": "chinese_heritage",
+      "name": "中国文化遗产",
+      "description": "中国世界遗产与文物保护单位",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_chinese_heritage.png",
+      "unlock_condition": "complete_album:world_heritage",
+      "order": 9
+    },
+    {
+      "id": "archaeology",
+      "name": "考古发现与发掘",
+      "description": "重大考古发现",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_archaeology.png",
+      "unlock_condition": "complete_album:chinese_heritage",
+      "order": 10
+    },
+    {
+      "id": "historical_mysteries",
+      "name": "历史未解之谜",
+      "description": "神秘历史与考古谜题",
+      "bookshelf_id": "humanities_history",
+      "icon": "res://assets/images/icons/album_historical_mysteries.png",
+      "unlock_condition": "complete_album:archaeology",
+      "order": 11
+    },
+    {
+      "id": "chinese_painting",
+      "name": "中国书画艺术",
+      "description": "中国书法与绘画名作",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_chinese_painting.png",
+      "unlock_condition": "complete_album:chinese_history",
+      "order": 0
+    },
+    {
+      "id": "western_painting",
+      "name": "西方绘画艺术",
+      "description": "西方各流派绘画",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_western_painting.png",
+      "unlock_condition": "complete_album:chinese_painting",
+      "order": 1
+    },
+    {
+      "id": "sculpture",
+      "name": "雕塑艺术",
+      "description": "中外雕塑作品",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_sculpture.png",
+      "unlock_condition": "complete_album:western_painting",
+      "order": 2
+    },
+    {
+      "id": "photography",
+      "name": "摄影艺术",
+      "description": "各类摄影作品",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_photography.png",
+      "unlock_condition": "complete_album:sculpture",
+      "order": 3
+    },
+    {
+      "id": "architecture",
+      "name": "建筑艺术",
+      "description": "中外建筑杰作",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_architecture.png",
+      "unlock_condition": "complete_album:photography",
+      "order": 4
+    },
+    {
+      "id": "crafts",
+      "name": "工艺美术",
+      "description": "传统工艺与手工艺品",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_crafts.png",
+      "unlock_condition": "complete_album:architecture",
+      "order": 5
+    },
+    {
+      "id": "design",
+      "name": "设计艺术",
+      "description": "现代设计作品",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_design.png",
+      "unlock_condition": "complete_album:crafts",
+      "order": 6
+    },
+    {
+      "id": "performing_arts",
+      "name": "表演艺术",
+      "description": "舞台表演与影视",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_performing_arts.png",
+      "unlock_condition": "complete_album:design",
+      "order": 7
+    },
+    {
+      "id": "folk_traditional",
+      "name": "民间与传统艺术",
+      "description": "民间艺术形式",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_folk_traditional.png",
+      "unlock_condition": "complete_album:performing_arts",
+      "order": 8
+    },
+    {
+      "id": "contemporary_media",
+      "name": "当代传媒",
+      "description": "当代传媒与新媒体艺术",
+      "bookshelf_id": "art_creativity",
+      "icon": "res://assets/images/icons/album_contemporary_media.png",
+      "unlock_condition": "complete_album:folk_traditional",
+      "order": 9
+    },
+    {
+      "id": "mountains_plateaus",
+      "name": "山脉与高原",
+      "description": "世界著名山脉高原",
+      "bookshelf_id": "nature_geography",
+      "icon": "res://assets/images/icons/album_mountains_plateaus.png",
+      "unlock_condition": "complete_album:chinese_history",
+      "order": 0
+    },
+    {
+      "id": "plains_basins",
+      "name": "平原与盆地",
+      "description": "平原盆地地貌",
+      "bookshelf_id": "nature_geography",
+      "icon": "res://assets/images/icons/album_plains_basins.png",
+      "unlock_condition": "complete_album:mountains_plateaus",
+      "order": 1
+    },
+    {
+      "id": "deserts_gobi",
+      "name": "沙漠与戈壁",
+      "description": "沙漠戈壁景观",
+      "bookshelf_id": "nature_geography",
+      "icon": "res://assets/images/icons/album_deserts_gobi.png",
+      "unlock_condition": "complete_album:plains_basins",
+      "order": 2
+    },
+    {
+      "id": "rivers_lakes",
+      "name": "河流与湖泊",
+      "description": "河流湖泊海洋",
+      "bookshelf_id": "nature_geography",
+      "icon": "res://assets/images/icons/album_rivers_lakes.png",
+      "unlock_condition": "complete_album:deserts_gobi",
+      "order": 3
+    },
+    {
+      "id": "atmosphere",
+      "name": "大气与天气",
+      "description": "天气现象与天文奇观",
+      "bookshelf_id": "nature_geography",
+      "icon": "res://assets/images/icons/album_atmosphere.png",
+      "unlock_condition": "complete_album:rivers_lakes",
+      "order": 4
+    },
+    {
+      "id": "geology",
+      "name": "地质地貌",
+      "description": "岩石矿物与地质构造",
+      "bookshelf_id": "nature_geography",
+      "icon": "res://assets/images/icons/album_geology.png",
+      "unlock_condition": "complete_album:atmosphere",
+      "order": 5
+    },
+    {
+      "id": "paleontology",
+      "name": "古生物化石",
+      "description": "史前生物与化石",
+      "bookshelf_id": "nature_geography",
+      "icon": "res://assets/images/icons/album_paleontology.png",
+      "unlock_condition": "complete_album:geology",
+      "order": 6
+    },
+    {
+      "id": "nature_reserves",
+      "name": "自然保护区",
+      "description": "自然保护区域",
+      "bookshelf_id": "nature_geography",
+      "icon": "res://assets/images/icons/album_nature_reserves.png",
+      "unlock_condition": "complete_album:paleontology",
+      "order": 7
+    },
+    {
+      "id": "mammals",
+      "name": "哺乳动物",
+      "description": "各类哺乳动物",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_mammals.png",
+      "unlock_condition": "complete_album:chinese_history",
+      "order": 0
+    },
+    {
+      "id": "birds",
+      "name": "鸟类",
+      "description": "各类鸟类",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_birds.png",
+      "unlock_condition": "complete_album:mammals",
+      "order": 1
+    },
+    {
+      "id": "reptiles",
+      "name": "爬行动物",
+      "description": "爬行动物",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_reptiles.png",
+      "unlock_condition": "complete_album:birds",
+      "order": 2
+    },
+    {
+      "id": "fish",
+      "name": "鱼类",
+      "description": "鱼类与海洋生物",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_fish.png",
+      "unlock_condition": "complete_album:reptiles",
+      "order": 3
+    },
+    {
+      "id": "insects",
+      "name": "昆虫",
+      "description": "昆虫与无脊椎动物",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_insects.png",
+      "unlock_condition": "complete_album:fish",
+      "order": 4
+    },
+    {
+      "id": "trees",
+      "name": "树木",
+      "description": "树木与森林生态",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_trees.png",
+      "unlock_condition": "complete_album:insects",
+      "order": 5
+    },
+    {
+      "id": "flowers",
+      "name": "花卉",
+      "description": "花卉与草本植物",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_flowers.png",
+      "unlock_condition": "complete_album:trees",
+      "order": 6
+    },
+    {
+      "id": "crops",
+      "name": "农作物",
+      "description": "农作物与经济植物",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_crops.png",
+      "unlock_condition": "complete_album:flowers",
+      "order": 7
+    },
+    {
+      "id": "fungi",
+      "name": "真菌",
+      "description": "真菌与微生物",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_fungi.png",
+      "unlock_condition": "complete_album:crops",
+      "order": 8
+    },
+    {
+      "id": "ecosystems",
+      "name": "生态系统",
+      "description": "生态系统与生物多样性",
+      "bookshelf_id": "biology_world",
+      "icon": "res://assets/images/icons/album_ecosystems.png",
+      "unlock_condition": "complete_album:fungi",
+      "order": 9
+    },
+    {
+      "id": "fashion",
+      "name": "时尚服饰",
+      "description": "服饰与时尚潮流",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_fashion.png",
+      "unlock_condition": "complete_album:chinese_history",
+      "order": 0
+    },
+    {
+      "id": "food",
+      "name": "美食",
+      "description": "饮食与烹饪文化",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_food.png",
+      "unlock_condition": "complete_album:fashion",
+      "order": 1
+    },
+    {
+      "id": "housing",
+      "name": "居住建筑",
+      "description": "居住环境与建筑",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_housing.png",
+      "unlock_condition": "complete_album:food",
+      "order": 2
+    },
+    {
+      "id": "transportation",
+      "name": "交通运输",
+      "description": "交通工具与出行",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_transportation.png",
+      "unlock_condition": "complete_album:housing",
+      "order": 3
+    },
+    {
+      "id": "festivals",
+      "name": "节日庆典",
+      "description": "节日与民俗活动",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_festivals.png",
+      "unlock_condition": "complete_album:transportation",
+      "order": 4
+    },
+    {
+      "id": "religion",
+      "name": "宗教信仰",
+      "description": "宗教与信仰文化",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_religion.png",
+      "unlock_condition": "complete_album:festivals",
+      "order": 5
+    },
+    {
+      "id": "family",
+      "name": "家庭生活",
+      "description": "家庭生活场景",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_family.png",
+      "unlock_condition": "complete_album:religion",
+      "order": 6
+    },
+    {
+      "id": "workplace",
+      "name": "职场工作",
+      "description": "职业与工作场景",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_workplace.png",
+      "unlock_condition": "complete_album:family",
+      "order": 7
+    },
+    {
+      "id": "education",
+      "name": "教育学习",
+      "description": "教育与学术活动",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_education.png",
+      "unlock_condition": "complete_album:workplace",
+      "order": 8
+    },
+    {
+      "id": "sports",
+      "name": "体育竞技",
+      "description": "体育运动与赛事",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_sports.png",
+      "unlock_condition": "complete_album:education",
+      "order": 9
+    },
+    {
+      "id": "entertainment",
+      "name": "休闲娱乐",
+      "description": "娱乐休闲活动",
+      "bookshelf_id": "life_society",
+      "icon": "res://assets/images/icons/album_entertainment.png",
+      "unlock_condition": "complete_album:sports",
+      "order": 10
+    },
+    {
+      "id": "health",
+      "name": "健康医疗",
+      "description": "医疗与健康养生",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_health.png",
+      "unlock_condition": "complete_album:chinese_history",
+      "order": 0
+    },
+    {
+      "id": "math_physics",
+      "name": "数学与物理",
+      "description": "数学物理科学",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_math_physics.png",
+      "unlock_condition": "complete_album:health",
+      "order": 1
+    },
+    {
+      "id": "chemistry_biology",
+      "name": "化学与生物",
+      "description": "化学生物科学",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_chemistry_biology.png",
+      "unlock_condition": "complete_album:math_physics",
+      "order": 2
+    },
+    {
+      "id": "astronomy",
+      "name": "天文学",
+      "description": "天文与航天探索",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_astronomy.png",
+      "unlock_condition": "complete_album:chemistry_biology",
+      "order": 3
+    },
+    {
+      "id": "mechanical_electronic",
+      "name": "机械电子",
+      "description": "机械电子设备",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_mechanical_electronic.png",
+      "unlock_condition": "complete_album:astronomy",
+      "order": 4
+    },
+    {
+      "id": "energy",
+      "name": "能源",
+      "description": "能源与电力系统",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_energy.png",
+      "unlock_condition": "complete_album:mechanical_electronic",
+      "order": 5
+    },
+    {
+      "id": "civil_engineering",
+      "name": "土木工程",
+      "description": "土木工程建设",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_civil_engineering.png",
+      "unlock_condition": "complete_album:energy",
+      "order": 6
+    },
+    {
+      "id": "information_technology",
+      "name": "信息技术",
+      "description": "信息技术发展",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_information_technology.png",
+      "unlock_condition": "complete_album:civil_engineering",
+      "order": 7
+    },
+    {
+      "id": "industrial_production",
+      "name": "工业生产",
+      "description": "工业制造过程",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_industrial_production.png",
+      "unlock_condition": "complete_album:information_technology",
+      "order": 8
+    },
+    {
+      "id": "agriculture_food",
+      "name": "农业与食品",
+      "description": "农业与食品加工",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_agriculture_food.png",
+      "unlock_condition": "complete_album:industrial_production",
+      "order": 9
+    },
+    {
+      "id": "transport_industry",
+      "name": "交通工业",
+      "description": "交通工业制造",
+      "bookshelf_id": "technology_industry",
+      "icon": "res://assets/images/icons/album_transport_industry.png",
+      "unlock_condition": "complete_album:agriculture_food",
+      "order": 10
+    },
+    {
+      "id": "abstract",
+      "name": "抽象图案",
+      "description": "抽象图形与概念",
+      "bookshelf_id": "general_materials",
+      "icon": "res://assets/images/icons/album_abstract.png",
+      "unlock_condition": "complete_album:chinese_history",
+      "order": 0
+    },
+    {
+      "id": "symbols",
+      "name": "符号标志",
+      "description": "符号标志与标识",
+      "bookshelf_id": "general_materials",
+      "icon": "res://assets/images/icons/album_symbols.png",
+      "unlock_condition": "complete_album:abstract",
+      "order": 1
+    },
+    {
+      "id": "textures",
+      "name": "纹理材质",
+      "description": "纹理与背景素材",
+      "bookshelf_id": "general_materials",
+      "icon": "res://assets/images/icons/album_textures.png",
+      "unlock_condition": "complete_album:symbols",
+      "order": 2
+    },
+    {
+      "id": "miscellaneous",
+      "name": "综合素材",
+      "description": "特色图片合集",
+      "bookshelf_id": "general_materials",
+      "icon": "res://assets/images/icons/album_miscellaneous.png",
+      "unlock_condition": "complete_album:textures",
+      "order": 3
+    }
+  ]
+}

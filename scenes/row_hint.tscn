@@ -1,0 +1,57 @@
+[gd_scene format=3 uid="uid://c24loj1vdu4kf"]
+
+[ext_resource type="Script" uid="uid://dyhyk6l2ek1lg" path="res://scripts/nonogram/row_hint.gd" id="1_u6a2j"]
+[ext_resource type="Texture2D" uid="uid://qspfg37dhl28" path="res://assets/images/ui/nonogram/error_hint.png" id="4_80m5i"]
+[ext_resource type="Texture2D" uid="uid://b8d0qmdkjg3rb" path="res://assets/images/ui/nonogram/error_hint2.png" id="5_rhak2"]
+[ext_resource type="Script" uid="uid://cq8lunod54siu" path="res://scripts/nonogram/error_icon.gd" id="6_6v4h5"]
+
+[node name="RowHint" type="Node2D"]
+script = ExtResource("1_u6a2j")
+
+[node name="RowHintBgOdd" type="ColorRect" parent="."]
+offset_right = 64.0
+offset_bottom = 32.0
+mouse_filter = 2
+color = Color(0.94921875, 0.9050093, 0.8342743, 1)
+
+[node name="RowHintBgEven" type="ColorRect" parent="."]
+visible = false
+offset_right = 64.0
+offset_bottom = 32.0
+mouse_filter = 2
+color = Color(0.98828125, 0.97554165, 0.94581604, 1)
+
+[node name="RowHintBgFinish" type="ColorRect" parent="."]
+visible = false
+offset_right = 64.0
+offset_bottom = 32.0
+mouse_filter = 2
+color = Color(0.5019608, 0.5019608, 0.5019608, 0.5019608)
+
+[node name="RowHintHover" type="ColorRect" parent="."]
+visible = false
+offset_right = 64.0
+offset_bottom = 32.0
+mouse_filter = 2
+color = Color(0.3137255, 0.5882353, 1, 0.5019608)
+
+[node name="RowHintLabels" type="HBoxContainer" parent="."]
+offset_left = 3.0
+offset_top = 3.0
+offset_right = 61.0
+offset_bottom = 29.0
+mouse_filter = 2
+theme_override_constants/separation = 0
+alignment = 2
+
+[node name="ErrorIconBg" type="Sprite2D" parent="."]
+visible = false
+position = Vector2(-7, 12)
+texture = ExtResource("4_80m5i")
+
+[node name="ErrorIcon" type="Sprite2D" parent="ErrorIconBg"]
+position = Vector2(-1, 0)
+texture = ExtResource("5_rhak2")
+script = ExtResource("6_6v4h5")
+
+[node name="Timer" type="Timer" parent="ErrorIconBg/ErrorIcon"]

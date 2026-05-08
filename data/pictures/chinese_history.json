@@ -1,0 +1,2105 @@
+{
+  "album_id": "chinese_history",
+  "pictures": [
+    {
+      "id": "元谋人遗址",
+      "title": "元谋人遗址",
+      "summary": "中国最早的人类化石发现地",
+      "full_text": "关于「元谋人遗址」的详细介绍。中国最早的人类化石发现地",
+      "image": "res://assets/images/illustrations/chinese_history/yuanmouren.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "yuanmouren_0",
+        "yuanmouren_1",
+        "yuanmouren_2",
+        "yuanmouren_3",
+        "yuanmouren_4",
+        "yuanmouren_5"
+      ],
+      "order": 0
+    },
+    {
+      "id": "北京猿人生活场景",
+      "title": "北京猿人生活场景",
+      "summary": "原始人在山洞前使用石器",
+      "full_text": "关于「北京猿人生活场景」的详细介绍。原始人在山洞前使用石器",
+      "image": "res://assets/images/illustrations/chinese_history/beijing_yuanren.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "beijing_yuanren_0",
+        "beijing_yuanren_1",
+        "beijing_yuanren_2",
+        "beijing_yuanren_3",
+        "beijing_yuanren_4",
+        "beijing_yuanren_5"
+      ],
+      "order": 1
+    },
+    {
+      "id": "山顶洞人狩猎",
+      "title": "山顶洞人狩猎",
+      "summary": "原始人类围猎大型动物",
+      "full_text": "关于「山顶洞人狩猎」的详细介绍。原始人类围猎大型动物",
+      "image": "res://assets/images/illustrations/chinese_history/shandingdong.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "shandingdong_0",
+        "shandingdong_1",
+        "shandingdong_2",
+        "shandingdong_3",
+        "shandingdong_4",
+        "shandingdong_5"
+      ],
+      "order": 2
+    },
+    {
+      "id": "河姆渡文化",
+      "title": "河姆渡文化",
+      "summary": "原始农耕和干栏式房屋建筑",
+      "full_text": "关于「河姆渡文化」的详细介绍。原始农耕和干栏式房屋建筑",
+      "image": "res://assets/images/illustrations/chinese_history/hemudu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "hemudu_0",
+        "hemudu_1",
+        "hemudu_2",
+        "hemudu_3",
+        "hemudu_4",
+        "hemudu_5"
+      ],
+      "order": 3
+    },
+    {
+      "id": "仰韶文化彩陶",
+      "title": "仰韶文化彩陶",
+      "summary": "精美的彩陶器皿",
+      "full_text": "关于「仰韶文化彩陶」的详细介绍。精美的彩陶器皿",
+      "image": "res://assets/images/illustrations/chinese_history/yangshao.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "yangshao_0",
+        "yangshao_1",
+        "yangshao_2",
+        "yangshao_3",
+        "yangshao_4",
+        "yangshao_5"
+      ],
+      "order": 4
+    },
+    {
+      "id": "良渚古城",
+      "title": "良渚古城",
+      "summary": "长江流域早期文明",
+      "full_text": "关于「良渚古城」的详细介绍。长江流域早期文明",
+      "image": "res://assets/images/illustrations/chinese_history/liangzhu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "liangzhu_0",
+        "liangzhu_1",
+        "liangzhu_2",
+        "liangzhu_3",
+        "liangzhu_4",
+        "liangzhu_5"
+      ],
+      "order": 5
+    },
+    {
+      "id": "黄帝部落联盟",
+      "title": "黄帝部落联盟",
+      "summary": "炎黄二帝带领部落",
+      "full_text": "关于「黄帝部落联盟」的详细介绍。炎黄二帝带领部落",
+      "image": "res://assets/images/illustrations/chinese_history/huangdi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "huangdi_0",
+        "huangdi_1",
+        "huangdi_2",
+        "huangdi_3",
+        "huangdi_4",
+        "huangdi_5"
+      ],
+      "order": 6
+    },
+    {
+      "id": "大禹治水",
+      "title": "大禹治水",
+      "summary": "大禹带领民众治理洪水",
+      "full_text": "关于「大禹治水」的详细介绍。大禹带领民众治理洪水",
+      "image": "res://assets/images/illustrations/chinese_history/dayu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "dayu_0",
+        "dayu_1",
+        "dayu_2",
+        "dayu_3",
+        "dayu_4",
+        "dayu_5"
+      ],
+      "order": 7
+    },
+    {
+      "id": "夏朝宫殿想象图",
+      "title": "夏朝宫殿想象图",
+      "summary": "夏王朝的都城建筑",
+      "full_text": "关于「夏朝宫殿想象图」的详细介绍。夏王朝的都城建筑",
+      "image": "res://assets/images/illustrations/chinese_history/xia_chao_gongdian.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "xia_chao_gongdian_0",
+        "xia_chao_gongdian_1",
+        "xia_chao_gongdian_2",
+        "xia_chao_gongdian_3",
+        "xia_chao_gongdian_4",
+        "xia_chao_gongdian_5"
+      ],
+      "order": 8
+    },
+    {
+      "id": "二里头遗址",
+      "title": "二里头遗址",
+      "summary": "夏代晚期都城遗址",
+      "full_text": "关于「二里头遗址」的详细介绍。夏代晚期都城遗址",
+      "image": "res://assets/images/illustrations/chinese_history/erlitou.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "erlitou_0",
+        "erlitou_1",
+        "erlitou_2",
+        "erlitou_3",
+        "erlitou_4",
+        "erlitou_5"
+      ],
+      "order": 9
+    },
+    {
+      "id": "甲骨文",
+      "title": "甲骨文",
+      "summary": "刻有文字的龟甲兽骨",
+      "full_text": "关于「甲骨文」的详细介绍。刻有文字的龟甲兽骨",
+      "image": "res://assets/images/illustrations/chinese_history/jiaguwen.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "jiaguwen_0",
+        "jiaguwen_1",
+        "jiaguwen_2",
+        "jiaguwen_3",
+        "jiaguwen_4",
+        "jiaguwen_5"
+      ],
+      "order": 10
+    },
+    {
+      "id": "司母戊鼎",
+      "title": "司母戊鼎",
+      "summary": "商代青铜重器",
+      "full_text": "关于「司母戊鼎」的详细介绍。商代青铜重器",
+      "image": "res://assets/images/illustrations/chinese_history/simuwu_ding.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "simuwu_ding_0",
+        "simuwu_ding_1",
+        "simuwu_ding_2",
+        "simuwu_ding_3",
+        "simuwu_ding_4",
+        "simuwu_ding_5"
+      ],
+      "order": 11
+    },
+    {
+      "id": "商周青铜器",
+      "title": "商周青铜器",
+      "summary": "精美的青铜礼器",
+      "full_text": "关于「商周青铜器」的详细介绍。精美的青铜礼器",
+      "image": "res://assets/images/illustrations/chinese_history/shangzhou_qingtongqi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "shangzhou_qingtongqi_0",
+        "shangzhou_qingtongqi_1",
+        "shangzhou_qingtongqi_2",
+        "shangzhou_qingtongqi_3",
+        "shangzhou_qingtongqi_4",
+        "shangzhou_qingtongqi_5"
+      ],
+      "order": 12
+    },
+    {
+      "id": "周文王推演周易",
+      "title": "周文王推演周易",
+      "summary": "周文王在狱中推演八卦",
+      "full_text": "关于「周文王推演周易」的详细介绍。周文王在狱中推演八卦",
+      "image": "res://assets/images/illustrations/chinese_history/zhouwenwang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhouwenwang_0",
+        "zhouwenwang_1",
+        "zhouwenwang_2",
+        "zhouwenwang_3",
+        "zhouwenwang_4",
+        "zhouwenwang_5"
+      ],
+      "order": 13
+    },
+    {
+      "id": "周武王伐纣",
+      "title": "周武王伐纣",
+      "summary": "牧野之战场景",
+      "full_text": "关于「周武王伐纣」的详细介绍。牧野之战场景",
+      "image": "res://assets/images/illustrations/chinese_history/zhouwuwang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhouwuwang_0",
+        "zhouwuwang_1",
+        "zhouwuwang_2",
+        "zhouwuwang_3",
+        "zhouwuwang_4",
+        "zhouwuwang_5"
+      ],
+      "order": 14
+    },
+    {
+      "id": "周公旦辅政",
+      "title": "周公旦辅政",
+      "summary": "周公辅佐成王",
+      "full_text": "关于「周公旦辅政」的详细介绍。周公辅佐成王",
+      "image": "res://assets/images/illustrations/chinese_history/zhougongdan.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhougongdan_0",
+        "zhougongdan_1",
+        "zhougongdan_2",
+        "zhougongdan_3",
+        "zhougongdan_4",
+        "zhougongdan_5"
+      ],
+      "order": 15
+    },
+    {
+      "id": "春秋五霸",
+      "title": "春秋五霸",
+      "summary": "齐桓公、晋文公等霸主",
+      "full_text": "关于「春秋五霸」的详细介绍。齐桓公、晋文公等霸主",
+      "image": "res://assets/images/illustrations/chinese_history/chunqiu_wuba.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chunqiu_wuba_0",
+        "chunqiu_wuba_1",
+        "chunqiu_wuba_2",
+        "chunqiu_wuba_3",
+        "chunqiu_wuba_4",
+        "chunqiu_wuba_5"
+      ],
+      "order": 16
+    },
+    {
+      "id": "孔子讲学",
+      "title": "孔子讲学",
+      "summary": "孔子在杏坛讲学",
+      "full_text": "关于「孔子讲学」的详细介绍。孔子在杏坛讲学",
+      "image": "res://assets/images/illustrations/chinese_history/kongzi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "kongzi_0",
+        "kongzi_1",
+        "kongzi_2",
+        "kongzi_3",
+        "kongzi_4",
+        "kongzi_5"
+      ],
+      "order": 17
+    },
+    {
+      "id": "老子骑牛出关",
+      "title": "老子骑牛出关",
+      "summary": "老子西出函谷关",
+      "full_text": "关于「老子骑牛出关」的详细介绍。老子西出函谷关",
+      "image": "res://assets/images/illustrations/chinese_history/laozi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "laozi_0",
+        "laozi_1",
+        "laozi_2",
+        "laozi_3",
+        "laozi_4",
+        "laozi_5"
+      ],
+      "order": 18
+    },
+    {
+      "id": "孙子兵法",
+      "title": "孙子兵法",
+      "summary": "孙武著兵法",
+      "full_text": "关于「孙子兵法」的详细介绍。孙武著兵法",
+      "image": "res://assets/images/illustrations/chinese_history/sunzi_bingfa.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "sunzi_bingfa_0",
+        "sunzi_bingfa_1",
+        "sunzi_bingfa_2",
+        "sunzi_bingfa_3",
+        "sunzi_bingfa_4",
+        "sunzi_bingfa_5"
+      ],
+      "order": 19
+    },
+    {
+      "id": "商鞅变法",
+      "title": "商鞅变法",
+      "summary": "商鞅在秦国推行变法",
+      "full_text": "关于「商鞅变法」的详细介绍。商鞅在秦国推行变法",
+      "image": "res://assets/images/illustrations/chinese_history/shangyang_bianfa.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "shangyang_bianfa_0",
+        "shangyang_bianfa_1",
+        "shangyang_bianfa_2",
+        "shangyang_bianfa_3",
+        "shangyang_bianfa_4",
+        "shangyang_bianfa_5"
+      ],
+      "order": 20
+    },
+    {
+      "id": "屈原投江",
+      "title": "屈原投江",
+      "summary": "屈原怀抱石头投汨罗江",
+      "full_text": "关于「屈原投江」的详细介绍。屈原怀抱石头投汨罗江",
+      "image": "res://assets/images/illustrations/chinese_history/quyuan.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "quyuan_0",
+        "quyuan_1",
+        "quyuan_2",
+        "quyuan_3",
+        "quyuan_4",
+        "quyuan_5"
+      ],
+      "order": 21
+    },
+    {
+      "id": "荆轲刺秦王",
+      "title": "荆轲刺秦王",
+      "summary": "荆轲在咸阳宫行刺",
+      "full_text": "关于「荆轲刺秦王」的详细介绍。荆轲在咸阳宫行刺",
+      "image": "res://assets/images/illustrations/chinese_history/jingke.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "jingke_0",
+        "jingke_1",
+        "jingke_2",
+        "jingke_3",
+        "jingke_4",
+        "jingke_5"
+      ],
+      "order": 22
+    },
+    {
+      "id": "秦始皇统一六国",
+      "title": "秦始皇统一六国",
+      "summary": "秦始皇登基称帝",
+      "full_text": "关于「秦始皇统一六国」的详细介绍。秦始皇登基称帝",
+      "image": "res://assets/images/illustrations/chinese_history/qinshihuang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "qinshihuang_0",
+        "qinshihuang_1",
+        "qinshihuang_2",
+        "qinshihuang_3",
+        "qinshihuang_4",
+        "qinshihuang_5"
+      ],
+      "order": 23
+    },
+    {
+      "id": "秦长城",
+      "title": "秦长城",
+      "summary": "秦始皇修建的万里长城",
+      "full_text": "关于「秦长城」的详细介绍。秦始皇修建的万里长城",
+      "image": "res://assets/images/illustrations/chinese_history/qin_changcheng.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "qin_changcheng_0",
+        "qin_changcheng_1",
+        "qin_changcheng_2",
+        "qin_changcheng_3",
+        "qin_changcheng_4",
+        "qin_changcheng_5"
+      ],
+      "order": 24
+    },
+    {
+      "id": "兵马俑",
+      "title": "兵马俑",
+      "summary": "壮观的秦兵马俑坑",
+      "full_text": "关于「兵马俑」的详细介绍。壮观的秦兵马俑坑",
+      "image": "res://assets/images/illustrations/chinese_history/bingmayong.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "bingmayong_0",
+        "bingmayong_1",
+        "bingmayong_2",
+        "bingmayong_3",
+        "bingmayong_4",
+        "bingmayong_5"
+      ],
+      "order": 25
+    },
+    {
+      "id": "陈胜吴广起义",
+      "title": "陈胜吴广起义",
+      "summary": "大泽乡起义",
+      "full_text": "关于「陈胜吴广起义」的详细介绍。大泽乡起义",
+      "image": "res://assets/images/illustrations/chinese_history/chensheng_wuguang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chensheng_wuguang_0",
+        "chensheng_wuguang_1",
+        "chensheng_wuguang_2",
+        "chensheng_wuguang_3",
+        "chensheng_wuguang_4",
+        "chensheng_wuguang_5"
+      ],
+      "order": 26
+    },
+    {
+      "id": "刘邦项羽楚汉相争",
+      "title": "刘邦项羽楚汉相争",
+      "summary": "垓下之战",
+      "full_text": "关于「刘邦项羽楚汉相争」的详细介绍。垓下之战",
+      "image": "res://assets/images/illustrations/chinese_history/liubang_xiangyu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "liubang_xiangyu_0",
+        "liubang_xiangyu_1",
+        "liubang_xiangyu_2",
+        "liubang_xiangyu_3",
+        "liubang_xiangyu_4",
+        "liubang_xiangyu_5"
+      ],
+      "order": 27
+    },
+    {
+      "id": "汉高祖刘邦",
+      "title": "汉高祖刘邦",
+      "summary": "汉朝开国皇帝",
+      "full_text": "关于「汉高祖刘邦」的详细介绍。汉朝开国皇帝",
+      "image": "res://assets/images/illustrations/chinese_history/liubang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "liubang_0",
+        "liubang_1",
+        "liubang_2",
+        "liubang_3",
+        "liubang_4",
+        "liubang_5"
+      ],
+      "order": 28
+    },
+    {
+      "id": "张骞出使西域",
+      "title": "张骞出使西域",
+      "summary": "张骞带领使团西行",
+      "full_text": "关于「张骞出使西域」的详细介绍。张骞带领使团西行",
+      "image": "res://assets/images/illustrations/chinese_history/zhangqian.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhangqian_0",
+        "zhangqian_1",
+        "zhangqian_2",
+        "zhangqian_3",
+        "zhangqian_4",
+        "zhangqian_5"
+      ],
+      "order": 29
+    },
+    {
+      "id": "汉武帝刘彻",
+      "title": "汉武帝刘彻",
+      "summary": "汉武帝接见群臣",
+      "full_text": "关于「汉武帝刘彻」的详细介绍。汉武帝接见群臣",
+      "image": "res://assets/images/illustrations/chinese_history/hanwudi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "hanwudi_0",
+        "hanwudi_1",
+        "hanwudi_2",
+        "hanwudi_3",
+        "hanwudi_4",
+        "hanwudi_5"
+      ],
+      "order": 30
+    },
+    {
+      "id": "霍去病北击匈奴",
+      "title": "霍去病北击匈奴",
+      "summary": "骠骑将军出征",
+      "full_text": "关于「霍去病北击匈奴」的详细介绍。骠骑将军出征",
+      "image": "res://assets/images/illustrations/chinese_history/huoqubing.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "huoqubing_0",
+        "huoqubing_1",
+        "huoqubing_2",
+        "huoqubing_3",
+        "huoqubing_4",
+        "huoqubing_5"
+      ],
+      "order": 31
+    },
+    {
+      "id": "司马迁写史记",
+      "title": "司马迁写史记",
+      "summary": "司马迁伏案写作",
+      "full_text": "关于「司马迁写史记」的详细介绍。司马迁伏案写作",
+      "image": "res://assets/images/illustrations/chinese_history/simaqian.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "simaqian_0",
+        "simaqian_1",
+        "simaqian_2",
+        "simaqian_3",
+        "simaqian_4",
+        "simaqian_5"
+      ],
+      "order": 32
+    },
+    {
+      "id": "昭君出塞",
+      "title": "昭君出塞",
+      "summary": "王昭君远嫁匈奴",
+      "full_text": "关于「昭君出塞」的详细介绍。王昭君远嫁匈奴",
+      "image": "res://assets/images/illustrations/chinese_history/zhaojun.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhaojun_0",
+        "zhaojun_1",
+        "zhaojun_2",
+        "zhaojun_3",
+        "zhaojun_4",
+        "zhaojun_5"
+      ],
+      "order": 33
+    },
+    {
+      "id": "王莽改制",
+      "title": "王莽改制",
+      "summary": "新朝改革",
+      "full_text": "关于「王莽改制」的详细介绍。新朝改革",
+      "image": "res://assets/images/illustrations/chinese_history/wangmang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "wangmang_0",
+        "wangmang_1",
+        "wangmang_2",
+        "wangmang_3",
+        "wangmang_4",
+        "wangmang_5"
+      ],
+      "order": 34
+    },
+    {
+      "id": "光武中兴",
+      "title": "光武中兴",
+      "summary": "刘秀建立东汉",
+      "full_text": "关于「光武中兴」的详细介绍。刘秀建立东汉",
+      "image": "res://assets/images/illustrations/chinese_history/guangwu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "guangwu_0",
+        "guangwu_1",
+        "guangwu_2",
+        "guangwu_3",
+        "guangwu_4",
+        "guangwu_5"
+      ],
+      "order": 35
+    },
+    {
+      "id": "蔡伦造纸",
+      "title": "蔡伦造纸",
+      "summary": "改进造纸术",
+      "full_text": "关于「蔡伦造纸」的详细介绍。改进造纸术",
+      "image": "res://assets/images/illustrations/chinese_history/cailun.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "cailun_0",
+        "cailun_1",
+        "cailun_2",
+        "cailun_3",
+        "cailun_4",
+        "cailun_5"
+      ],
+      "order": 36
+    },
+    {
+      "id": "张衡与地动仪",
+      "title": "张衡与地动仪",
+      "summary": "汉代科学家",
+      "full_text": "关于「张衡与地动仪」的详细介绍。汉代科学家",
+      "image": "res://assets/images/illustrations/chinese_history/zhangheng.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhangheng_0",
+        "zhangheng_1",
+        "zhangheng_2",
+        "zhangheng_3",
+        "zhangheng_4",
+        "zhangheng_5"
+      ],
+      "order": 37
+    },
+    {
+      "id": "桃园三结义",
+      "title": "桃园三结义",
+      "summary": "刘备、关羽、张飞结拜",
+      "full_text": "关于「桃园三结义」的详细介绍。刘备、关羽、张飞结拜",
+      "image": "res://assets/images/illustrations/chinese_history/taoyuan_sanjieyi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "taoyuan_sanjieyi_0",
+        "taoyuan_sanjieyi_1",
+        "taoyuan_sanjieyi_2",
+        "taoyuan_sanjieyi_3",
+        "taoyuan_sanjieyi_4",
+        "taoyuan_sanjieyi_5"
+      ],
+      "order": 38
+    },
+    {
+      "id": "官渡之战",
+      "title": "官渡之战",
+      "summary": "曹操击败袁绍",
+      "full_text": "关于「官渡之战」的详细介绍。曹操击败袁绍",
+      "image": "res://assets/images/illustrations/chinese_history/guandu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "guandu_0",
+        "guandu_1",
+        "guandu_2",
+        "guandu_3",
+        "guandu_4",
+        "guandu_5"
+      ],
+      "order": 39
+    },
+    {
+      "id": "赤壁之战",
+      "title": "赤壁之战",
+      "summary": "三国时期的著名战役",
+      "full_text": "关于「赤壁之战」的详细介绍。三国时期的著名战役",
+      "image": "res://assets/images/illustrations/chinese_history/chibi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "chibi_0",
+        "chibi_1",
+        "chibi_2",
+        "chibi_3",
+        "chibi_4",
+        "chibi_5"
+      ],
+      "order": 40
+    },
+    {
+      "id": "诸葛亮北伐",
+      "title": "诸葛亮北伐",
+      "summary": "诸葛亮六出祁山",
+      "full_text": "关于「诸葛亮北伐」的详细介绍。诸葛亮六出祁山",
+      "image": "res://assets/images/illustrations/chinese_history/zhugekongming.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhugekongming_0",
+        "zhugekongming_1",
+        "zhugekongming_2",
+        "zhugekongming_3",
+        "zhugekongming_4",
+        "zhugekongming_5"
+      ],
+      "order": 41
+    },
+    {
+      "id": "司马懿",
+      "title": "司马懿",
+      "summary": "曹魏权臣",
+      "full_text": "关于「司马懿」的详细介绍。曹魏权臣",
+      "image": "res://assets/images/illustrations/chinese_history/simayi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "simayi_0",
+        "simayi_1",
+        "simayi_2",
+        "simayi_3",
+        "simayi_4",
+        "simayi_5"
+      ],
+      "order": 42
+    },
+    {
+      "id": "王羲之书法",
+      "title": "王羲之书法",
+      "summary": "王羲之书写兰亭序",
+      "full_text": "关于「王羲之书法」的详细介绍。王羲之书写兰亭序",
+      "image": "res://assets/images/illustrations/chinese_history/wangxizhi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "wangxizhi_0",
+        "wangxizhi_1",
+        "wangxizhi_2",
+        "wangxizhi_3",
+        "wangxizhi_4",
+        "wangxizhi_5"
+      ],
+      "order": 43
+    },
+    {
+      "id": "顾恺之绘画",
+      "title": "顾恺之绘画",
+      "summary": "东晋画家",
+      "full_text": "关于「顾恺之绘画」的详细介绍。东晋画家",
+      "image": "res://assets/images/illustrations/chinese_history/gukaizhi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "gukaizhi_0",
+        "gukaizhi_1",
+        "gukaizhi_2",
+        "gukaizhi_3",
+        "gukaizhi_4",
+        "gukaizhi_5"
+      ],
+      "order": 44
+    },
+    {
+      "id": "陶渊明归隐",
+      "title": "陶渊明归隐",
+      "summary": "陶渊明在田园耕作",
+      "full_text": "关于「陶渊明归隐」的详细介绍。陶渊明在田园耕作",
+      "image": "res://assets/images/illustrations/chinese_history/taoyuanming.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "taoyuanming_0",
+        "taoyuanming_1",
+        "taoyuanming_2",
+        "taoyuanming_3",
+        "taoyuanming_4",
+        "taoyuanming_5"
+      ],
+      "order": 45
+    },
+    {
+      "id": "北魏孝文帝改革",
+      "title": "北魏孝文帝改革",
+      "summary": "孝文帝推行汉化政策",
+      "full_text": "关于「北魏孝文帝改革」的详细介绍。孝文帝推行汉化政策",
+      "image": "res://assets/images/illustrations/chinese_history/xiaowen_di.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "xiaowen_di_0",
+        "xiaowen_di_1",
+        "xiaowen_di_2",
+        "xiaowen_di_3",
+        "xiaowen_di_4",
+        "xiaowen_di_5"
+      ],
+      "order": 46
+    },
+    {
+      "id": "龙门石窟",
+      "title": "龙门石窟",
+      "summary": "佛教艺术的瑰宝",
+      "full_text": "关于「龙门石窟」的详细介绍。佛教艺术的瑰宝",
+      "image": "res://assets/images/illustrations/chinese_history/longmen_shiku.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "longmen_shiku_0",
+        "longmen_shiku_1",
+        "longmen_shiku_2",
+        "longmen_shiku_3",
+        "longmen_shiku_4",
+        "longmen_shiku_5"
+      ],
+      "order": 47
+    },
+    {
+      "id": "祖冲之与圆周率",
+      "title": "祖冲之与圆周率",
+      "summary": "南朝科学家",
+      "full_text": "关于「祖冲之与圆周率」的详细介绍。南朝科学家",
+      "image": "res://assets/images/illustrations/chinese_history/zuchongzhi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zuchongzhi_0",
+        "zuchongzhi_1",
+        "zuchongzhi_2",
+        "zuchongzhi_3",
+        "zuchongzhi_4",
+        "zuchongzhi_5"
+      ],
+      "order": 48
+    },
+    {
+      "id": "淝水之战",
+      "title": "淝水之战",
+      "summary": "东晋以少胜多",
+      "full_text": "关于「淝水之战」的详细介绍。东晋以少胜多",
+      "image": "res://assets/images/illustrations/chinese_history/feishui.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "feishui_0",
+        "feishui_1",
+        "feishui_2",
+        "feishui_3",
+        "feishui_4",
+        "feishui_5"
+      ],
+      "order": 49
+    },
+    {
+      "id": "隋文帝统一中国",
+      "title": "隋文帝统一中国",
+      "summary": "杨坚建立隋朝",
+      "full_text": "关于「隋文帝统一中国」的详细介绍。杨坚建立隋朝",
+      "image": "res://assets/images/illustrations/chinese_history/suiwendi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "suiwendi_0",
+        "suiwendi_1",
+        "suiwendi_2",
+        "suiwendi_3",
+        "suiwendi_4",
+        "suiwendi_5"
+      ],
+      "order": 50
+    },
+    {
+      "id": "隋炀帝开凿大运河",
+      "title": "隋炀帝开凿大运河",
+      "summary": "大运河开凿场景",
+      "full_text": "关于「隋炀帝开凿大运河」的详细介绍。大运河开凿场景",
+      "image": "res://assets/images/illustrations/chinese_history/suiyangdi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "suiyangdi_0",
+        "suiyangdi_1",
+        "suiyangdi_2",
+        "suiyangdi_3",
+        "suiyangdi_4",
+        "suiyangdi_5"
+      ],
+      "order": 51
+    },
+    {
+      "id": "李春与赵州桥",
+      "title": "李春与赵州桥",
+      "summary": "隋代建筑奇迹",
+      "full_text": "关于「李春与赵州桥」的详细介绍。隋代建筑奇迹",
+      "image": "res://assets/images/illustrations/chinese_history/lichun_zhaozhouqiao.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "lichun_zhaozhouqiao_0",
+        "lichun_zhaozhouqiao_1",
+        "lichun_zhaozhouqiao_2",
+        "lichun_zhaozhouqiao_3",
+        "lichun_zhaozhouqiao_4",
+        "lichun_zhaozhouqiao_5"
+      ],
+      "order": 52
+    },
+    {
+      "id": "唐太宗李世民",
+      "title": "唐太宗李世民",
+      "summary": "唐太宗与群臣议事",
+      "full_text": "关于「唐太宗李世民」的详细介绍。唐太宗与群臣议事",
+      "image": "res://assets/images/illustrations/chinese_history/taizong.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "taizong_0",
+        "taizong_1",
+        "taizong_2",
+        "taizong_3",
+        "taizong_4",
+        "taizong_5"
+      ],
+      "order": 53
+    },
+    {
+      "id": "贞观之治",
+      "title": "贞观之治",
+      "summary": "唐朝盛世",
+      "full_text": "关于「贞观之治」的详细介绍。唐朝盛世",
+      "image": "res://assets/images/illustrations/chinese_history/zhenguan.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhenguan_0",
+        "zhenguan_1",
+        "zhenguan_2",
+        "zhenguan_3",
+        "zhenguan_4",
+        "zhenguan_5"
+      ],
+      "order": 54
+    },
+    {
+      "id": "武则天称帝",
+      "title": "武则天称帝",
+      "summary": "武则天登基为帝",
+      "full_text": "关于「武则天称帝」的详细介绍。武则天登基为帝",
+      "image": "res://assets/images/illustrations/chinese_history/wuzetian.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "wuzetian_0",
+        "wuzetian_1",
+        "wuzetian_2",
+        "wuzetian_3",
+        "wuzetian_4",
+        "wuzetian_5"
+      ],
+      "order": 55
+    },
+    {
+      "id": "玄奘取经",
+      "title": "玄奘取经",
+      "summary": "玄奘西行印度取经",
+      "full_text": "关于「玄奘取经」的详细介绍。玄奘西行印度取经",
+      "image": "res://assets/images/illustrations/chinese_history/xuanzang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "xuanzang_0",
+        "xuanzang_1",
+        "xuanzang_2",
+        "xuanzang_3",
+        "xuanzang_4",
+        "xuanzang_5"
+      ],
+      "order": 56
+    },
+    {
+      "id": "文成公主入藏",
+      "title": "文成公主入藏",
+      "summary": "唐蕃和亲",
+      "full_text": "关于「文成公主入藏」的详细介绍。唐蕃和亲",
+      "image": "res://assets/images/illustrations/chinese_history/wencheng_gongzhu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "wencheng_gongzhu_0",
+        "wencheng_gongzhu_1",
+        "wencheng_gongzhu_2",
+        "wencheng_gongzhu_3",
+        "wencheng_gongzhu_4",
+        "wencheng_gongzhu_5"
+      ],
+      "order": 57
+    },
+    {
+      "id": "鉴真东渡",
+      "title": "鉴真东渡",
+      "summary": "鉴真和尚赴日传法",
+      "full_text": "关于「鉴真东渡」的详细介绍。鉴真和尚赴日传法",
+      "image": "res://assets/images/illustrations/chinese_history/jianzhen.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "jianzhen_0",
+        "jianzhen_1",
+        "jianzhen_2",
+        "jianzhen_3",
+        "jianzhen_4",
+        "jianzhen_5"
+      ],
+      "order": 58
+    },
+    {
+      "id": "李白醉酒作诗",
+      "title": "李白醉酒作诗",
+      "summary": "李白在月光下饮酒作诗",
+      "full_text": "关于「李白醉酒作诗」的详细介绍。李白在月光下饮酒作诗",
+      "image": "res://assets/images/illustrations/chinese_history/libai.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "libai_0",
+        "libai_1",
+        "libai_2",
+        "libai_3",
+        "libai_4",
+        "libai_5"
+      ],
+      "order": 59
+    },
+    {
+      "id": "杜甫",
+      "title": "杜甫",
+      "summary": "唐代诗圣",
+      "full_text": "关于「杜甫」的详细介绍。唐代诗圣",
+      "image": "res://assets/images/illustrations/chinese_history/dufu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "dufu_0",
+        "dufu_1",
+        "dufu_2",
+        "dufu_3",
+        "dufu_4",
+        "dufu_5"
+      ],
+      "order": 60
+    },
+    {
+      "id": "颜真卿书法",
+      "title": "颜真卿书法",
+      "summary": "唐代书法家",
+      "full_text": "关于「颜真卿书法」的详细介绍。唐代书法家",
+      "image": "res://assets/images/illustrations/chinese_history/yanzhenqing.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "yanzhenqing_0",
+        "yanzhenqing_1",
+        "yanzhenqing_2",
+        "yanzhenqing_3",
+        "yanzhenqing_4",
+        "yanzhenqing_5"
+      ],
+      "order": 61
+    },
+    {
+      "id": "吴道子绘画",
+      "title": "吴道子绘画",
+      "summary": "画圣",
+      "full_text": "关于「吴道子绘画」的详细介绍。画圣",
+      "image": "res://assets/images/illustrations/chinese_history/wudaozi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "wudaozi_0",
+        "wudaozi_1",
+        "wudaozi_2",
+        "wudaozi_3",
+        "wudaozi_4",
+        "wudaozi_5"
+      ],
+      "order": 62
+    },
+    {
+      "id": "安史之乱",
+      "title": "安史之乱",
+      "summary": "唐朝由盛转衰",
+      "full_text": "关于「安史之乱」的详细介绍。唐朝由盛转衰",
+      "image": "res://assets/images/illustrations/chinese_history/anshi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "anshi_0",
+        "anshi_1",
+        "anshi_2",
+        "anshi_3",
+        "anshi_4",
+        "anshi_5"
+      ],
+      "order": 63
+    },
+    {
+      "id": "敦煌莫高窟",
+      "title": "敦煌莫高窟",
+      "summary": "唐代佛教艺术",
+      "full_text": "关于「敦煌莫高窟」的详细介绍。唐代佛教艺术",
+      "image": "res://assets/images/illustrations/chinese_history/dunhuang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "dunhuang_0",
+        "dunhuang_1",
+        "dunhuang_2",
+        "dunhuang_3",
+        "dunhuang_4",
+        "dunhuang_5"
+      ],
+      "order": 64
+    },
+    {
+      "id": "赵匡胤陈桥兵变",
+      "title": "赵匡胤陈桥兵变",
+      "summary": "赵匡胤黄袍加身",
+      "full_text": "关于「赵匡胤陈桥兵变」的详细介绍。赵匡胤黄袍加身",
+      "image": "res://assets/images/illustrations/chinese_history/zhaokuangyin.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhaokuangyin_0",
+        "zhaokuangyin_1",
+        "zhaokuangyin_2",
+        "zhaokuangyin_3",
+        "zhaokuangyin_4",
+        "zhaokuangyin_5"
+      ],
+      "order": 65
+    },
+    {
+      "id": "杯酒释兵权",
+      "title": "杯酒释兵权",
+      "summary": "宋太祖集权",
+      "full_text": "关于「杯酒释兵权」的详细介绍。宋太祖集权",
+      "image": "res://assets/images/illustrations/chinese_history/beijiu_shibingquan.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "beijiu_shibingquan_0",
+        "beijiu_shibingquan_1",
+        "beijiu_shibingquan_2",
+        "beijiu_shibingquan_3",
+        "beijiu_shibingquan_4",
+        "beijiu_shibingquan_5"
+      ],
+      "order": 66
+    },
+    {
+      "id": "苏轼游赤壁",
+      "title": "苏轼游赤壁",
+      "summary": "苏轼泛舟赤壁",
+      "full_text": "关于「苏轼游赤壁」的详细介绍。苏轼泛舟赤壁",
+      "image": "res://assets/images/illustrations/chinese_history/sushi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "sushi_0",
+        "sushi_1",
+        "sushi_2",
+        "sushi_3",
+        "sushi_4",
+        "sushi_5"
+      ],
+      "order": 67
+    },
+    {
+      "id": "王安石变法",
+      "title": "王安石变法",
+      "summary": "北宋改革",
+      "full_text": "关于「王安石变法」的详细介绍。北宋改革",
+      "image": "res://assets/images/illustrations/chinese_history/wanganshi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "wanganshi_0",
+        "wanganshi_1",
+        "wanganshi_2",
+        "wanganshi_3",
+        "wanganshi_4",
+        "wanganshi_5"
+      ],
+      "order": 68
+    },
+    {
+      "id": "岳飞抗金",
+      "title": "岳飞抗金",
+      "summary": "岳飞率领岳家军抗金",
+      "full_text": "关于「岳飞抗金」的详细介绍。岳飞率领岳家军抗金",
+      "image": "res://assets/images/illustrations/chinese_history/yuefei.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "yuefei_0",
+        "yuefei_1",
+        "yuefei_2",
+        "yuefei_3",
+        "yuefei_4",
+        "yuefei_5"
+      ],
+      "order": 69
+    },
+    {
+      "id": "辛弃疾",
+      "title": "辛弃疾",
+      "summary": "南宋词人",
+      "full_text": "关于「辛弃疾」的详细介绍。南宋词人",
+      "image": "res://assets/images/illustrations/chinese_history/xinqiji.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "xinqiji_0",
+        "xinqiji_1",
+        "xinqiji_2",
+        "xinqiji_3",
+        "xinqiji_4",
+        "xinqiji_5"
+      ],
+      "order": 70
+    },
+    {
+      "id": "李清照",
+      "title": "李清照",
+      "summary": "宋代女词人",
+      "full_text": "关于「李清照」的详细介绍。宋代女词人",
+      "image": "res://assets/images/illustrations/chinese_history/liqingzhao.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "liqingzhao_0",
+        "liqingzhao_1",
+        "liqingzhao_2",
+        "liqingzhao_3",
+        "liqingzhao_4",
+        "liqingzhao_5"
+      ],
+      "order": 71
+    },
+    {
+      "id": "西夏王陵",
+      "title": "西夏王陵",
+      "summary": "西夏王朝的皇家陵园",
+      "full_text": "关于「西夏王陵」的详细介绍。西夏王朝的皇家陵园",
+      "image": "res://assets/images/illustrations/chinese_history/xixia_wangling.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "xixia_wangling_0",
+        "xixia_wangling_1",
+        "xixia_wangling_2",
+        "xixia_wangling_3",
+        "xixia_wangling_4",
+        "xixia_wangling_5"
+      ],
+      "order": 72
+    },
+    {
+      "id": "辽代壁画",
+      "title": "辽代壁画",
+      "summary": "契丹民族的艺术成就",
+      "full_text": "关于「辽代壁画」的详细介绍。契丹民族的艺术成就",
+      "image": "res://assets/images/illustrations/chinese_history/liao_dai_bihua.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "liao_dai_bihua_0",
+        "liao_dai_bihua_1",
+        "liao_dai_bihua_2",
+        "liao_dai_bihua_3",
+        "liao_dai_bihua_4",
+        "liao_dai_bihua_5"
+      ],
+      "order": 73
+    },
+    {
+      "id": "金朝都城",
+      "title": "金朝都城",
+      "summary": "金中都遗址",
+      "full_text": "关于「金朝都城」的详细介绍。金中都遗址",
+      "image": "res://assets/images/illustrations/chinese_history/jin_chao_ducheng.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "jin_chao_ducheng_0",
+        "jin_chao_ducheng_1",
+        "jin_chao_ducheng_2",
+        "jin_chao_ducheng_3",
+        "jin_chao_ducheng_4",
+        "jin_chao_ducheng_5"
+      ],
+      "order": 74
+    },
+    {
+      "id": "毕昇与活字印刷",
+      "title": "毕昇与活字印刷",
+      "summary": "宋代科技发明",
+      "full_text": "关于「毕昇与活字印刷」的详细介绍。宋代科技发明",
+      "image": "res://assets/images/illustrations/chinese_history/bisheng.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "bisheng_0",
+        "bisheng_1",
+        "bisheng_2",
+        "bisheng_3",
+        "bisheng_4",
+        "bisheng_5"
+      ],
+      "order": 75
+    },
+    {
+      "id": "张择端清明上河图",
+      "title": "张择端清明上河图",
+      "summary": "宋代风俗画",
+      "full_text": "关于「张择端清明上河图」的详细介绍。宋代风俗画",
+      "image": "res://assets/images/illustrations/chinese_history/qingming_shanghetu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "qingming_shanghetu_0",
+        "qingming_shanghetu_1",
+        "qingming_shanghetu_2",
+        "qingming_shanghetu_3",
+        "qingming_shanghetu_4",
+        "qingming_shanghetu_5"
+      ],
+      "order": 76
+    },
+    {
+      "id": "成吉思汗西征",
+      "title": "成吉思汗西征",
+      "summary": "蒙古骑兵西征",
+      "full_text": "关于「成吉思汗西征」的详细介绍。蒙古骑兵西征",
+      "image": "res://assets/images/illustrations/chinese_history/genghis_khan.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "genghis_khan_0",
+        "genghis_khan_1",
+        "genghis_khan_2",
+        "genghis_khan_3",
+        "genghis_khan_4",
+        "genghis_khan_5"
+      ],
+      "order": 77
+    },
+    {
+      "id": "忽必烈建元",
+      "title": "忽必烈建元",
+      "summary": "忽必烈建立元朝",
+      "full_text": "关于「忽必烈建元」的详细介绍。忽必烈建立元朝",
+      "image": "res://assets/images/illustrations/chinese_history/hubilie.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "hubilie_0",
+        "hubilie_1",
+        "hubilie_2",
+        "hubilie_3",
+        "hubilie_4",
+        "hubilie_5"
+      ],
+      "order": 78
+    },
+    {
+      "id": "马可波罗来华",
+      "title": "马可波罗来华",
+      "summary": "马可波罗拜见元世祖",
+      "full_text": "关于「马可波罗来华」的详细介绍。马可波罗拜见元世祖",
+      "image": "res://assets/images/illustrations/chinese_history/marco_polo.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "marco_polo_0",
+        "marco_polo_1",
+        "marco_polo_2",
+        "marco_polo_3",
+        "marco_polo_4",
+        "marco_polo_5"
+      ],
+      "order": 79
+    },
+    {
+      "id": "元大都",
+      "title": "元大都",
+      "summary": "元代都城",
+      "full_text": "关于「元大都」的详细介绍。元代都城",
+      "image": "res://assets/images/illustrations/chinese_history/yuandadu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "yuandadu_0",
+        "yuandadu_1",
+        "yuandadu_2",
+        "yuandadu_3",
+        "yuandadu_4",
+        "yuandadu_5"
+      ],
+      "order": 80
+    },
+    {
+      "id": "关汉卿创作杂剧",
+      "title": "关汉卿创作杂剧",
+      "summary": "元曲大家",
+      "full_text": "关于「关汉卿创作杂剧」的详细介绍。元曲大家",
+      "image": "res://assets/images/illustrations/chinese_history/guanhanqing.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "guanhanqing_0",
+        "guanhanqing_1",
+        "guanhanqing_2",
+        "guanhanqing_3",
+        "guanhanqing_4",
+        "guanhanqing_5"
+      ],
+      "order": 81
+    },
+    {
+      "id": "郭守敬与授时历",
+      "title": "郭守敬与授时历",
+      "summary": "元代天文学家",
+      "full_text": "关于「郭守敬与授时历」的详细介绍。元代天文学家",
+      "image": "res://assets/images/illustrations/chinese_history/guoshoujing.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "guoshoujing_0",
+        "guoshoujing_1",
+        "guoshoujing_2",
+        "guoshoujing_3",
+        "guoshoujing_4",
+        "guoshoujing_5"
+      ],
+      "order": 82
+    },
+    {
+      "id": "赵孟頫书法",
+      "title": "赵孟頫书法",
+      "summary": "元代书画家",
+      "full_text": "关于「赵孟頫书法」的详细介绍。元代书画家",
+      "image": "res://assets/images/illustrations/chinese_history/zhaomengfu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhaomengfu_0",
+        "zhaomengfu_1",
+        "zhaomengfu_2",
+        "zhaomengfu_3",
+        "zhaomengfu_4",
+        "zhaomengfu_5"
+      ],
+      "order": 83
+    },
+    {
+      "id": "文天祥抗元",
+      "title": "文天祥抗元",
+      "summary": "南宋忠臣",
+      "full_text": "关于「文天祥抗元」的详细介绍。南宋忠臣",
+      "image": "res://assets/images/illustrations/chinese_history/wenxiang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "wenxiang_0",
+        "wenxiang_1",
+        "wenxiang_2",
+        "wenxiang_3",
+        "wenxiang_4",
+        "wenxiang_5"
+      ],
+      "order": 84
+    },
+    {
+      "id": "朱元璋建立明朝",
+      "title": "朱元璋建立明朝",
+      "summary": "朱元璋登基",
+      "full_text": "关于「朱元璋建立明朝」的详细介绍。朱元璋登基",
+      "image": "res://assets/images/illustrations/chinese_history/zhuyuanzhang.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhuyuanzhang_0",
+        "zhuyuanzhang_1",
+        "zhuyuanzhang_2",
+        "zhuyuanzhang_3",
+        "zhuyuanzhang_4",
+        "zhuyuanzhang_5"
+      ],
+      "order": 85
+    },
+    {
+      "id": "郑和下西洋",
+      "title": "郑和下西洋",
+      "summary": "郑和船队航行海上",
+      "full_text": "关于「郑和下西洋」的详细介绍。郑和船队航行海上",
+      "image": "res://assets/images/illustrations/chinese_history/zhenghe.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "zhenghe_0",
+        "zhenghe_1",
+        "zhenghe_2",
+        "zhenghe_3",
+        "zhenghe_4",
+        "zhenghe_5"
+      ],
+      "order": 86
+    },
+    {
+      "id": "紫禁城",
+      "title": "紫禁城",
+      "summary": "北京故宫全景",
+      "full_text": "关于「紫禁城」的详细介绍。北京故宫全景",
+      "image": "res://assets/images/illustrations/chinese_history/forbidden_city.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "forbidden_city_0",
+        "forbidden_city_1",
+        "forbidden_city_2",
+        "forbidden_city_3",
+        "forbidden_city_4",
+        "forbidden_city_5"
+      ],
+      "order": 87
+    },
+    {
+      "id": "明长城",
+      "title": "明长城",
+      "summary": "明代长城",
+      "full_text": "关于「明长城」的详细介绍。明代长城",
+      "image": "res://assets/images/illustrations/chinese_history/ming_changcheng.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "ming_changcheng_0",
+        "ming_changcheng_1",
+        "ming_changcheng_2",
+        "ming_changcheng_3",
+        "ming_changcheng_4",
+        "ming_changcheng_5"
+      ],
+      "order": 88
+    },
+    {
+      "id": "李时珍与本草纲目",
+      "title": "李时珍与本草纲目",
+      "summary": "明代医药学家",
+      "full_text": "关于「李时珍与本草纲目」的详细介绍。明代医药学家",
+      "image": "res://assets/images/illustrations/chinese_history/li_shi_珍_与_本_草_纲_目.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "li_shi_珍_与_本_草_纲_目_0",
+        "li_shi_珍_与_本_草_纲_目_1",
+        "li_shi_珍_与_本_草_纲_目_2",
+        "li_shi_珍_与_本_草_纲_目_3",
+        "li_shi_珍_与_本_草_纲_目_4",
+        "li_shi_珍_与_本_草_纲_目_5"
+      ],
+      "order": 89
+    },
+    {
+      "id": "徐霞客游记",
+      "title": "徐霞客游记",
+      "summary": "明代地理学家",
+      "full_text": "关于「徐霞客游记」的详细介绍。明代地理学家",
+      "image": "res://assets/images/illustrations/chinese_history/徐_霞_客_you_ji.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "徐_霞_客_you_ji_0",
+        "徐_霞_客_you_ji_1",
+        "徐_霞_客_you_ji_2",
+        "徐_霞_客_you_ji_3",
+        "徐_霞_客_you_ji_4",
+        "徐_霞_客_you_ji_5"
+      ],
+      "order": 90
+    },
+    {
+      "id": "李自成起义",
+      "title": "李自成起义",
+      "summary": "明末农民起义",
+      "full_text": "关于「李自成起义」的详细介绍。明末农民起义",
+      "image": "res://assets/images/illustrations/chinese_history/li_自_cheng_qi_yi.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "li_自_cheng_qi_yi_0",
+        "li_自_cheng_qi_yi_1",
+        "li_自_cheng_qi_yi_2",
+        "li_自_cheng_qi_yi_3",
+        "li_自_cheng_qi_yi_4",
+        "li_自_cheng_qi_yi_5"
+      ],
+      "order": 91
+    },
+    {
+      "id": "吴三桂引清兵入关",
+      "title": "吴三桂引清兵入关",
+      "summary": "明朝灭亡",
+      "full_text": "关于「吴三桂引清兵入关」的详细介绍。明朝灭亡",
+      "image": "res://assets/images/illustrations/chinese_history/wu_san_桂_引_qing_bing_ru_guan.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "wu_san_桂_引_qing_bing_ru_guan_0",
+        "wu_san_桂_引_qing_bing_ru_guan_1",
+        "wu_san_桂_引_qing_bing_ru_guan_2",
+        "wu_san_桂_引_qing_bing_ru_guan_3",
+        "wu_san_桂_引_qing_bing_ru_guan_4",
+        "wu_san_桂_引_qing_bing_ru_guan_5"
+      ],
+      "order": 92
+    },
+    {
+      "id": "康熙皇帝",
+      "title": "康熙皇帝",
+      "summary": "康熙亲政",
+      "full_text": "关于「康熙皇帝」的详细介绍。康熙亲政",
+      "image": "res://assets/images/illustrations/chinese_history/康_熙_huang_di.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "康_熙_huang_di_0",
+        "康_熙_huang_di_1",
+        "康_熙_huang_di_2",
+        "康_熙_huang_di_3",
+        "康_熙_huang_di_4",
+        "康_熙_huang_di_5"
+      ],
+      "order": 93
+    },
+    {
+      "id": "雍正皇帝",
+      "title": "雍正皇帝",
+      "summary": "清代帝王",
+      "full_text": "关于「雍正皇帝」的详细介绍。清代帝王",
+      "image": "res://assets/images/illustrations/chinese_history/雍_正_huang_di.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "雍_正_huang_di_0",
+        "雍_正_huang_di_1",
+        "雍_正_huang_di_2",
+        "雍_正_huang_di_3",
+        "雍_正_huang_di_4",
+        "雍_正_huang_di_5"
+      ],
+      "order": 94
+    },
+    {
+      "id": "乾隆下江南",
+      "title": "乾隆下江南",
+      "summary": "乾隆南巡",
+      "full_text": "关于「乾隆下江南」的详细介绍。乾隆南巡",
+      "image": "res://assets/images/illustrations/chinese_history/乾_隆_xia_jiang_南.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "乾_隆_xia_jiang_南_0",
+        "乾_隆_xia_jiang_南_1",
+        "乾_隆_xia_jiang_南_2",
+        "乾_隆_xia_jiang_南_3",
+        "乾_隆_xia_jiang_南_4",
+        "乾_隆_xia_jiang_南_5"
+      ],
+      "order": 95
+    },
+    {
+      "id": "四库全书",
+      "title": "四库全书",
+      "summary": "清代大型丛书",
+      "full_text": "关于「四库全书」的详细介绍。清代大型丛书",
+      "image": "res://assets/images/illustrations/chinese_history/si_库_全_shu.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "si_库_全_shu_0",
+        "si_库_全_shu_1",
+        "si_库_全_shu_2",
+        "si_库_全_shu_3",
+        "si_库_全_shu_4",
+        "si_库_全_shu_5"
+      ],
+      "order": 96
+    },
+    {
+      "id": "曹雪芹与红楼梦",
+      "title": "曹雪芹与红楼梦",
+      "summary": "清代文学名著",
+      "full_text": "关于「曹雪芹与红楼梦」的详细介绍。清代文学名著",
+      "image": "res://assets/images/illustrations/chinese_history/曹_雪_芹_与_红_楼_梦.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "曹_雪_芹_与_红_楼_梦_0",
+        "曹_雪_芹_与_红_楼_梦_1",
+        "曹_雪_芹_与_红_楼_梦_2",
+        "曹_雪_芹_与_红_楼_梦_3",
+        "曹_雪_芹_与_红_楼_梦_4",
+        "曹_雪_芹_与_红_楼_梦_5"
+      ],
+      "order": 97
+    },
+    {
+      "id": "鸦片战争",
+      "title": "鸦片战争",
+      "summary": "虎门销烟",
+      "full_text": "关于「鸦片战争」的详细介绍。虎门销烟",
+      "image": "res://assets/images/illustrations/chinese_history/鸦_片_zhan_zheng.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "鸦_片_zhan_zheng_0",
+        "鸦_片_zhan_zheng_1",
+        "鸦_片_zhan_zheng_2",
+        "鸦_片_zhan_zheng_3",
+        "鸦_片_zhan_zheng_4",
+        "鸦_片_zhan_zheng_5"
+      ],
+      "order": 98
+    },
+    {
+      "id": "太平天国运动",
+      "title": "太平天国运动",
+      "summary": "洪秀全起义",
+      "full_text": "关于「太平天国运动」的详细介绍。洪秀全起义",
+      "image": "res://assets/images/illustrations/chinese_history/tai_平_tian_guo_yun_dong.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "tai_平_tian_guo_yun_dong_0",
+        "tai_平_tian_guo_yun_dong_1",
+        "tai_平_tian_guo_yun_dong_2",
+        "tai_平_tian_guo_yun_dong_3",
+        "tai_平_tian_guo_yun_dong_4",
+        "tai_平_tian_guo_yun_dong_5"
+      ],
+      "order": 99
+    },
+    {
+      "id": "洋务运动",
+      "title": "洋务运动",
+      "summary": "近代化开端",
+      "full_text": "关于「洋务运动」的详细介绍。近代化开端",
+      "image": "res://assets/images/illustrations/chinese_history/yang_务_yun_dong.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "yang_务_yun_dong_0",
+        "yang_务_yun_dong_1",
+        "yang_务_yun_dong_2",
+        "yang_务_yun_dong_3",
+        "yang_务_yun_dong_4",
+        "yang_务_yun_dong_5"
+      ],
+      "order": 100
+    },
+    {
+      "id": "辛亥革命",
+      "title": "辛亥革命",
+      "summary": "武昌起义",
+      "full_text": "关于「辛亥革命」的详细介绍。武昌起义",
+      "image": "res://assets/images/illustrations/chinese_history/xin_亥_ge_命.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "xin_亥_ge_命_0",
+        "xin_亥_ge_命_1",
+        "xin_亥_ge_命_2",
+        "xin_亥_ge_命_3",
+        "xin_亥_ge_命_4",
+        "xin_亥_ge_命_5"
+      ],
+      "order": 101
+    },
+    {
+      "id": "五四运动",
+      "title": "五四运动",
+      "summary": "新文化运动",
+      "full_text": "关于「五四运动」的详细介绍。新文化运动",
+      "image": "res://assets/images/illustrations/chinese_history/wu_si_yun_dong.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "wu_si_yun_dong_0",
+        "wu_si_yun_dong_1",
+        "wu_si_yun_dong_2",
+        "wu_si_yun_dong_3",
+        "wu_si_yun_dong_4",
+        "wu_si_yun_dong_5"
+      ],
+      "order": 102
+    },
+    {
+      "id": "抗日战争",
+      "title": "抗日战争",
+      "summary": "全民抗战",
+      "full_text": "关于「抗日战争」的详细介绍。全民抗战",
+      "image": "res://assets/images/illustrations/chinese_history/kang_日_zhan_zheng.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "kang_日_zhan_zheng_0",
+        "kang_日_zhan_zheng_1",
+        "kang_日_zhan_zheng_2",
+        "kang_日_zhan_zheng_3",
+        "kang_日_zhan_zheng_4",
+        "kang_日_zhan_zheng_5"
+      ],
+      "order": 103
+    },
+    {
+      "id": "新中国成立",
+      "title": "新中国成立",
+      "summary": "开国大典",
+      "full_text": "关于「新中国成立」的详细介绍。开国大典",
+      "image": "res://assets/images/illustrations/chinese_history/新_zhong_guo_cheng_li.png",
+      "image_grid": {
+        "x": 3,
+        "y": 2
+      },
+      "puzzles": [
+        "新_zhong_guo_cheng_li_0",
+        "新_zhong_guo_cheng_li_1",
+        "新_zhong_guo_cheng_li_2",
+        "新_zhong_guo_cheng_li_3",
+        "新_zhong_guo_cheng_li_4",
+        "新_zhong_guo_cheng_li_5"
+      ],
+      "order": 104
+    }
+  ]
+}
