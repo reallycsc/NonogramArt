@@ -30,7 +30,6 @@ func setup(data: Dictionary) -> void:
 			status_label.text = "%d%%" % int(completion * 100)
 			status_label.add_theme_color_override("font_color", Color(0.76, 0.23, 0.13))
 
-
 func _on_book_button_pressed() -> void:
 	if album_id == "":
 		return

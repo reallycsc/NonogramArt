@@ -64,7 +64,7 @@ func reset():
 	max_zoom = 1
 
 # 相机震动效果
-func shake(intensity: float = 100.0):
+func shake(intensity: float = 20.0):
 	var original_position = position
 	var shake_offset = Vector2(intensity, -intensity)
 	target_position = original_position + shake_offset

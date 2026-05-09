@@ -2,40 +2,44 @@
 
 [ext_resource type="Script" uid="uid://cyt3kjvgag5da" path="res://scripts/nonogram/col_hint.gd" id="1_6e7xs"]
 [ext_resource type="Texture2D" uid="uid://qspfg37dhl28" path="res://assets/images/ui/nonogram/error_hint.png" id="2_akmub"]
+[ext_resource type="StyleBox" uid="uid://p5gfo8s2hv1h" path="res://resources/styles/colHintOdd_style_box_flat.tres" id="2_e4v78"]
+[ext_resource type="StyleBox" uid="uid://bhq64rk5rteaw" path="res://resources/styles/colHintEven_style_box_flat.tres" id="3_3lkr7"]
 [ext_resource type="Texture2D" uid="uid://b8d0qmdkjg3rb" path="res://assets/images/ui/nonogram/error_hint2.png" id="3_e4v78"]
 [ext_resource type="Script" uid="uid://cq8lunod54siu" path="res://scripts/nonogram/error_icon.gd" id="4_3lkr7"]
+[ext_resource type="StyleBox" uid="uid://bbjk4sewfon1u" path="res://resources/styles/colHintFinish_style_box_flat.tres" id="4_cfshd"]
+[ext_resource type="StyleBox" uid="uid://d2uqpdx0t7h6c" path="res://resources/styles/colHintHover_style_box_flat.tres" id="5_oyffk"]
 
-[node name="ColHint" type="Node2D"]
+[node name="ColHint" type="Node2D" unique_id=1473857725]
 script = ExtResource("1_6e7xs")
 
-[node name="ColHintBgOdd" type="ColorRect" parent="."]
+[node name="ColHintBgOdd" type="Panel" parent="." unique_id=220491381]
 offset_right = 32.0
 offset_bottom = 64.0
 mouse_filter = 2
-color = Color(0.9490196, 0.90588236, 0.8352941, 1)
+theme_override_styles/panel = ExtResource("2_e4v78")
 
-[node name="ColHintBgEven" type="ColorRect" parent="."]
+[node name="ColHintBgEven" type="Panel" parent="." unique_id=1344675805]
 visible = false
 offset_right = 32.0
 offset_bottom = 64.0
 mouse_filter = 2
-color = Color(0.9882353, 0.9764706, 0.94509804, 1)
+theme_override_styles/panel = ExtResource("3_3lkr7")
 
-[node name="ColHintBgFinish" type="ColorRect" parent="."]
+[node name="ColHintBgFinish" type="Panel" parent="." unique_id=513377398]
 visible = false
 offset_right = 32.0
 offset_bottom = 64.0
 mouse_filter = 2
-color = Color(0.3671875, 0.3503218, 0.3227234, 0.5019608)
+theme_override_styles/panel = ExtResource("4_cfshd")
 
-[node name="ColHintHover" type="ColorRect" parent="."]
+[node name="ColHintHover" type="Panel" parent="." unique_id=96349926]
 visible = false
 offset_right = 32.0
 offset_bottom = 64.0
 mouse_filter = 2
-color = Color(0.3137255, 0.5882353, 1, 0.5019608)
+theme_override_styles/panel = ExtResource("5_oyffk")
 
-[node name="ColHintLabels" type="VBoxContainer" parent="."]
+[node name="ColHintLabels" type="VBoxContainer" parent="." unique_id=324817240]
 offset_left = 3.0
 offset_top = 3.0
 offset_right = 29.0
@@ -44,13 +48,13 @@ mouse_filter = 2
 theme_override_constants/separation = 0
 alignment = 2
 
-[node name="ErrorIconBg" type="Sprite2D" parent="."]
+[node name="ErrorIconBg" type="Sprite2D" parent="." unique_id=1270884095]
 visible = false
 position = Vector2(10, -3)
 texture = ExtResource("2_akmub")
 
-[node name="ErrorIcon" type="Sprite2D" parent="ErrorIconBg"]
+[node name="ErrorIcon" type="Sprite2D" parent="ErrorIconBg" unique_id=1304018036]
 texture = ExtResource("3_e4v78")
 script = ExtResource("4_3lkr7")
 
-[node name="Timer" type="Timer" parent="ErrorIconBg/ErrorIcon"]
+[node name="Timer" type="Timer" parent="ErrorIconBg/ErrorIcon" unique_id=1485465894]

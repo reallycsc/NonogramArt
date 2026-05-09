@@ -3,7 +3,7 @@ extends Control
 # 节点引用
 @onready var game_board: Control = $GameBoard
 @onready var cell_container: Control = $GameBoard/CellContainer
-@onready var finish_button: TextureButton = $CanvasLayer/FinishNode/FinishButton
+@onready var finish_button: TextureButton = $CanvasLayer/FinishButton
 
 @onready var hp_node: HBoxContainer = $CanvasLayer/HpNode
 
@@ -134,41 +134,42 @@ func setup_frame_and_dividers():
 	cell_container.add_child(frames)
 	
 	var block_size = 5
-	var line_width = 4
-	var line_color = Color("886254")
+	var frame_line_width = 4
+	var divide_line_width = 2
+	var line_color = Color("a1784b")
 	# 外框线
 	var frame_left = ColorRect.new()
 	frame_left.color = line_color
-	frame_left.size = Vector2(line_width, grid_size.x * cell_size.x+line_width*2-2)
-	frame_left.position = cell_start_position - Vector2(line_width-1,line_width-1)
+	frame_left.size = Vector2(frame_line_width, grid_size.x * cell_size.x+frame_line_width*2-2)
+	frame_left.position = cell_start_position - Vector2(frame_line_width-1,frame_line_width-1)
 	frames.add_child(frame_left)
 	var frame_right = ColorRect.new()
 	frame_right.color = line_color
-	frame_right.size = Vector2(line_width, grid_size.x * cell_size.x+line_width*2-2)
-	frame_right.position = Vector2(board_size.x-1,cell_start_position.y-line_width+1)
+	frame_right.size = Vector2(frame_line_width, grid_size.x * cell_size.x+frame_line_width*2-2)
+	frame_right.position = Vector2(board_size.x-1,cell_start_position.y-frame_line_width+1)
 	frames.add_child(frame_right)
 	var frame_top = ColorRect.new()
 	frame_top.color = line_color
-	frame_top.size = Vector2(grid_size.y * cell_size.y+line_width*2-2, line_width)
-	frame_top.position = cell_start_position - Vector2(line_width-1,line_width-1)
+	frame_top.size = Vector2(grid_size.y * cell_size.y+frame_line_width*2-2, frame_line_width)
+	frame_top.position = cell_start_position - Vector2(frame_line_width-1,frame_line_width-1)
 	frames.add_child(frame_top)
 	var frame_bottom = ColorRect.new()
 	frame_bottom.color = line_color
-	frame_bottom.size = Vector2(grid_size.y * cell_size.y+line_width*2-2, line_width)
-	frame_bottom.position = Vector2(cell_start_position.x-line_width+1,board_size.y-1)
+	frame_bottom.size = Vector2(grid_size.y * cell_size.y+frame_line_width*2-2, frame_line_width)
+	frame_bottom.position = Vector2(cell_start_position.x-frame_line_width+1,board_size.y-1)
 	frames.add_child(frame_bottom)
 	# 中间分割线
 	for y in range(1, floor(grid_size.y/block_size)):
 		var line = ColorRect.new()
 		line.color = line_color
-		line.size = Vector2(line_width, grid_size.x * cell_size.x+line_width)
-		line.position = cell_start_position + Vector2(block_size * y * cell_size.x, 0)-Vector2(line_width,line_width)/2
+		line.size = Vector2(divide_line_width, grid_size.x * cell_size.x+divide_line_width)
+		line.position = cell_start_position + Vector2(block_size * y * cell_size.x, 0)-Vector2(divide_line_width,divide_line_width)/2
 		frames.add_child(line)
 	for x in range(1, floor(grid_size.x/block_size)):
 		var line = ColorRect.new()
 		line.color = line_color
-		line.size = Vector2(grid_size.y * cell_size.y+line_width, line_width)
-		line.position = cell_start_position + Vector2(0, block_size * x * cell_size.x)-Vector2(line_width,line_width)/2
+		line.size = Vector2(grid_size.y * cell_size.y+divide_line_width, divide_line_width)
+		line.position = cell_start_position + Vector2(0, block_size * x * cell_size.x)-Vector2(divide_line_width,divide_line_width)/2
 		frames.add_child(line)
 			
 # 缩放整体大小并设置棋盘居中
@@ -177,9 +178,9 @@ func setup_board_size_and_position():
 	var max_grid_size = max(grid_size.x, grid_size.y)
 	var scale_vector
 	if max_grid_size <= 10:
-		scale_vector = screen_size / board_size * 0.65
+		scale_vector = screen_size / board_size * 0.9
 	else:
-		scale_vector = screen_size / board_size * 0.7
+		scale_vector = screen_size / board_size * 0.9
 	var new_scale = Vector2.ONE * min(scale_vector.x, scale_vector.y)
 	game_board.scale = new_scale
 	board_size = board_size * new_scale
@@ -279,8 +280,8 @@ func _on_game_completed():
 	var tween = create_tween()
 	tween.set_parallel(true)
 	AnimationManager.register_tween(tween)
-	tween.tween_property(finish_rect, "scale", Vector2(1.1,1.1), 0.5).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
-	# 同时提示栏和格子淡出
+	tween.tween_property(finish_rect, "scale", Vector2.ONE, 0.5).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
+	# 同时提示栏淡出
 	for x in range(grid_size.x):
 		tween.tween_property(rowHints[x], "modulate:a", 0, 0.5)
 	for y in range(grid_size.y):
@@ -289,14 +290,141 @@ func _on_game_completed():
 	tween.finished.connect(_play_finish_animation1)
 
 func _play_finish_animation1():
+	await get_tree().create_timer(1.0).timeout
+	# 创建像素图网格显示
+	_create_pixel_grid_display()
+	finish_node.hide()
+	
 	var tween = create_tween()
 	AnimationManager.register_tween(tween)
 	# 棋盘移动到居中为止
 	var position_new = cell_container.position - cell_start_position/2
 	tween.parallel().tween_property(cell_container, "position", position_new, 0.5)
+	tween.finished.connect(_play_finish_animation2)
+
+func _find_album_and_picture_for_puzzle(puzzle_id: String) -> Dictionary:
+	var album_ids = AlbumData.get_all_album_ids()
+	for aid in album_ids:
+		var pictures = AlbumData.load_pictures(aid)
+		for p in pictures:
+			if puzzle_id in p.get("puzzles", []):
+				return {"album_id": aid, "picture_id": p.get("id", "")}
+	return {}
+
+func _create_pixel_grid_display():
+	var puzzle = NonogramManager.current_puzzle
+	if not puzzle:
+		print("Error: puzzle is null")
+		return
+	
+	var picture_id = puzzle.picture_id
+	var album_id = _album_id
+	var picture: Dictionary = {}
+	
+	if album_id != "" and picture_id != "":
+		picture = AlbumData.get_picture(album_id, picture_id)
+	
+	if picture.is_empty():
+		var resolved = _find_album_and_picture_for_puzzle(puzzle.id)
+		if not resolved.is_empty():
+			album_id = resolved["album_id"]
+			picture_id = resolved["picture_id"]
+			picture = AlbumData.get_picture(album_id, picture_id)
+	
+	if picture.is_empty():
+		print("Error: picture not found for puzzle: ", puzzle.id, " picture_id: ", picture_id, " album_id: ", album_id)
+		return
+	
+	var img_path = picture.get("image", "")
+	if img_path == "":
+		print("Error: image path is empty")
+		return
+	
+	var base_path = img_path.get_basename()
+	var pixel_path = base_path + "_pixel.png"
+	
+	print("Trying to load pixel image: ", pixel_path)
+	
+	if not ResourceLoader.exists(pixel_path):
+		print("Error: pixel image not found: ", pixel_path)
+		return
+	
+	var tex = load(pixel_path)
+	if not tex is Texture2D:
+		print("Error: loaded resource is not a Texture2D")
+		return
+	
+	var source_rect = puzzle.source_rect
+	var pixel_img = tex.get_image()
+	print("Pixel image loaded: ", pixel_img.get_width(), "x", pixel_img.get_height())
+	
+	if source_rect.has("x") and source_rect.has("y") and source_rect.has("w") and source_rect.has("h"):
+		var rect = Rect2i(int(source_rect.x), int(source_rect.y), int(source_rect.w), int(source_rect.h))
+		pixel_img = pixel_img.get_region(rect)
+		print("After source_rect: ", pixel_img.get_width(), "x", pixel_img.get_height())
+	
+	var pixel_cell_w = float(pixel_img.get_width()) / float(grid_size.y)
+	var pixel_cell_h = float(pixel_img.get_height()) / float(grid_size.x)
+
+	for x in range(grid_size.x):
+		for y in range(grid_size.y):
+			var cell_region = Rect2i(
+				int(float(y) * pixel_cell_w),
+				int(float(x) * pixel_cell_h),
+				int(pixel_cell_w),
+				int(pixel_cell_h)
+			)
+			var cell_img = pixel_img.get_region(cell_region)
+			
+			var pixel_cell = TextureRect.new()
+			pixel_cell.name = "PixelCell_" + str(x) + "_" + str(y)
+			pixel_cell.stretch_mode = TextureRect.STRETCH_SCALE
+			pixel_cell.texture = ImageTexture.create_from_image(cell_img)
+			pixel_cell.modulate.a = 0.0
+			pixel_cell.size = cell_size
+			pixel_cell.position = cell_start_position + Vector2(float(y) * cell_size.x, float(x) * cell_size.y)
+			
+			cell_container.add_child(pixel_cell)
+	print("Created ", grid_size.x * grid_size.y, " pixel cells")
+
+func _play_finish_animation2():
+	var tween = create_tween()
+	AnimationManager.register_tween(tween)
+	tween.set_parallel(true)
+	var diagonal_order = _get_diagonal_order()
+	for pos in diagonal_order:
+		var x = pos.x
+		var y = pos.y
+		var idx = x * grid_size.y + y
+		
+		var cell = cells[idx] if idx < cells.size() else null
+		var pixel_cell = cell_container.get_node_or_null("PixelCell_" + str(x) + "_" + str(y))
+		
+		var delay = (x + y) * 0.03
+		
+		if cell:
+			tween.tween_property(cell, "modulate:a", 0, 0.3).set_delay(delay)
+		if pixel_cell:
+			tween.tween_property(pixel_cell, "modulate:a", 1.0, 0.3).set_delay(delay)
+	
 	tween.finished.connect(func():
 		finish_button.show()
 	)
+
+func _get_diagonal_order() -> Array:
+	var order = []
+	var max_sum = grid_size.x + grid_size.y - 2
+	
+	for sum_val in range(max_sum + 1):
+		var start_x = max(0, sum_val - (grid_size.y - 1))
+		var end_x = min(grid_size.x - 1, sum_val)
+		
+		for x in range(start_x, end_x + 1):
+			var y = sum_val - x
+			if y >= 0 and y < grid_size.y:
+				order.append(Vector2i(x, y))
+	
+	return order
 
 # 格子悬浮回调
 func _on_cell_hover_updated(x: int, y: int, is_hover: bool):

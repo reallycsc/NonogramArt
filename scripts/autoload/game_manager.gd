@@ -33,6 +33,8 @@ var album_progress: Dictionary = {}
 var completed_puzzles: Array = []
 var completed_pictures: Array = []
 var completed_albums: Array = []
+var animation_shown_pictures: Array = []
+var album_picture_index: Dictionary = {}
 var settings: Dictionary = {
 	"bgm_volume": 0.8,
 	"sfx_volume": 1.0,
@@ -43,6 +45,7 @@ var settings: Dictionary = {
 var pending_bookshelf_id: String = ""
 var pending_album_id: String = ""
 var pending_picture_id: String = ""
+var pending_picture_index: int = -1
 var pending_puzzle_id: String = ""
 
 var current_language: int = Language.CHINESE
@@ -382,6 +385,25 @@ func is_picture_completed(picture_id: String) -> bool:
 	return picture_id in completed_pictures
 
 
+func should_show_animation(picture_id: String) -> bool:
+	return picture_id in completed_pictures and not picture_id in animation_shown_pictures
+
+
+func mark_animation_shown(picture_id: String) -> void:
+	if not picture_id in animation_shown_pictures:
+		animation_shown_pictures.append(picture_id)
+		save_game()
+
+
+func save_picture_index(album_id: String, index: int) -> void:
+	album_picture_index[album_id] = index
+	save_game()
+
+
+func get_saved_picture_index(album_id: String) -> int:
+	return album_picture_index.get(album_id, -1)
+
+
 func is_album_completed(album_id: String) -> bool:
 	return album_id in completed_albums
 
@@ -485,11 +507,13 @@ func _check_album_unlock() -> void:
 
 func save_game() -> void:
 	var data = {
-		"version": 3,
+		"version": 5,
 		"album_progress": album_progress,
 		"completed_puzzles": completed_puzzles,
 		"completed_pictures": completed_pictures,
 		"completed_albums": completed_albums,
+		"animation_shown_pictures": animation_shown_pictures,
+		"album_picture_index": album_picture_index,
 		"settings": settings,
 	}
 	var file = FileAccess.open(_save_path, FileAccess.WRITE)
@@ -521,6 +545,10 @@ func load_game() -> void:
 	completed_puzzles = _ensure_array(data.get("completed_puzzles", []))
 	completed_pictures = _ensure_array(data.get("completed_pictures", []))
 	completed_albums = _ensure_array(data.get("completed_albums", []))
+	animation_shown_pictures = _ensure_array(data.get("animation_shown_pictures", []))
+	album_picture_index = data.get("album_picture_index", {})
+	if not album_picture_index is Dictionary:
+		album_picture_index = {}
 	album_progress = data.get("album_progress", {})
 	var loaded_settings = data.get("settings", {})
 	if loaded_settings is Dictionary:
@@ -558,4 +586,22 @@ func _get_first_album_id() -> String:
 			return album_id
 	if not album_ids.is_empty():
 		return album_ids[0]
+	return ""
+
+
+func get_album_id_for_puzzle(puzzle_id: String) -> String:
+	_build_completion_cache()
+	if _puzzle_to_album_map.has(puzzle_id):
+		return _puzzle_to_album_map[puzzle_id]
+	
+	var album_ids = AlbumDataScript.get_all_album_ids()
+	for album_id in album_ids:
+		var pictures = AlbumDataScript.load_pictures(album_id)
+		for picture in pictures:
+			var puzzles = picture.get("puzzles", [])
+			if puzzle_id in puzzles:
+				_puzzle_to_album_map[puzzle_id] = album_id
+				return album_id
+	
+	push_warning("GameManager: Puzzle '%s' not found in any album" % puzzle_id)
 	return ""

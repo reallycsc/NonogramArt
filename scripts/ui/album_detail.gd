@@ -2,11 +2,22 @@ extends Control
 
 const AlbumDataScript = preload("res://scripts/data/album_data.gd")
 const PuzzleDataScript = preload("res://scripts/data/puzzle_data.gd")
-
-const NONOGRAM_BTN = preload("res://assets/images/ui/album/picture_nonogram_5.png")
-const NONOGRAM_BTN_HOVER = preload("res://assets/images/ui/album/picture_nonogram_5_hover.png")
-const NONOGRAM_BTN_PRESSED = preload("res://assets/images/ui/album/picture_nonogram_5_pressed.png")
-
+const NONOGRAM_BTN_5 = preload("res://assets/images/ui/album/picture_nonogram_5.png")
+const NONOGRAM_BTN_5_HOVER = preload("res://assets/images/ui/album/picture_nonogram_5_hover.png")
+const NONOGRAM_BTN_5_PRESSED = preload("res://assets/images/ui/album/picture_nonogram_5_pressed.png")
+const NONOGRAM_BTN_10 = preload("res://assets/images/ui/album/picture_nonogram_10.png")
+const NONOGRAM_BTN_10_HOVER = preload("res://assets/images/ui/album/picture_nonogram_10_hover.png")
+const NONOGRAM_BTN_10_PRESSED = preload("res://assets/images/ui/album/picture_nonogram_10_pressed.png")
+const NONOGRAM_BTN_15 = preload("res://assets/images/ui/album/picture_nonogram_15.png")
+const NONOGRAM_BTN_15_HOVER = preload("res://assets/images/ui/album/picture_nonogram_15_hover.png")
+const NONOGRAM_BTN_15_PRESSED = preload("res://assets/images/ui/album/picture_nonogram_15_pressed.png")
+const NONOGRAM_BTN_20 = preload("res://assets/images/ui/album/picture_nonogram_20.png")
+const NONOGRAM_BTN_20_HOVER = preload("res://assets/images/ui/album/picture_nonogram_20_hover.png")
+const NONOGRAM_BTN_20_PRESSED = preload("res://assets/images/ui/album/picture_nonogram_20_pressed.png")
+const NONOGRAM_BTN_25 = preload("res://assets/images/ui/album/picture_nonogram_25.png")
+const NONOGRAM_BTN_25_HOVER = preload("res://assets/images/ui/album/picture_nonogram_25_hover.png")
+const NONOGRAM_BTN_25_PRESSED = preload("res://assets/images/ui/album/picture_nonogram_25_pressed.png")
+const NONOGRAM_BTN_LOCKED = preload("res://assets/images/ui/album/picture_nonogram_locked.png")
 
 var current_album_id: String = ""
 var current_picture_id: String = ""
@@ -18,13 +29,20 @@ var _grid_y: int = 1
 var _has_valid_source_rects: bool = false
 var _region_buttons: Dictionary = {}
 var _fade_tween: Tween = null
+var _pictures: Array = []
+var _current_picture_index: int = 0
 
 const REGION_GAP: float = 0.0
 
 @onready var illustration_area: Control = $VBoxContainer/IllustrationArea
+@onready var left_button: TextureButton = $CanvasLayer/LeftButton
+@onready var right_button: TextureButton = $CanvasLayer/RightButton
+@onready var page_num_label: Label = $PageNumLabel
 
 func _ready() -> void:
 	illustration_area.resized.connect(_on_illustration_area_resized)
+	left_button.pressed.connect(_on_left_button_pressed)
+	right_button.pressed.connect(_on_right_button_pressed)
 	if GameManager.pending_album_id != "":
 		current_album_id = GameManager.pending_album_id
 		GameManager.pending_album_id = ""
@@ -37,18 +55,104 @@ func setup(album_id: String) -> void:
 
 
 func _load_pictures_list() -> void:
-	var pictures = AlbumDataScript.load_pictures(current_album_id)
-	if pictures.is_empty():
+	_pictures = AlbumDataScript.load_pictures(current_album_id)
+	if _pictures.is_empty():
 		return
-	var first_picture = pictures[0]
-	current_picture_id = first_picture.get("id", "")
-	_load_picture(first_picture)
+	
+	if GameManager.pending_picture_index >= 0 and GameManager.pending_picture_index < _pictures.size():
+		_current_picture_index = GameManager.pending_picture_index
+		GameManager.pending_picture_index = -1
+	else:
+		var saved_index = GameManager.get_saved_picture_index(current_album_id)
+		if saved_index >= 0 and saved_index < _pictures.size():
+			_current_picture_index = saved_index
+		else:
+			_current_picture_index = 0
+	
+	var current_picture = _pictures[_current_picture_index]
+	current_picture_id = current_picture.get("id", "")
+	_load_picture(current_picture)
+	_update_page_navigation()
 
 
 func _load_picture(picture: Dictionary) -> void:
-	$VBoxContainer/AlbumText.text = picture.get("full_text", "")
 	_load_puzzles(picture)
+	$Title.text = picture.get("title", "")
+	var full_text = picture.get("full_text", "")
+	$VBoxContainer/AlbumText.text = _get_revealed_text(full_text)
 	_build_illustration(picture)
+
+
+func _get_revealed_text(full_text: String) -> String:
+	if not current_picture_id:
+		return full_text
+	
+	if GameManager.is_picture_completed(current_picture_id):
+		return full_text
+	
+	var total_puzzles = _puzzles.size()
+	if total_puzzles == 0:
+		return full_text
+	
+	var completed_count = 0
+	for puzzle in _puzzles:
+		if GameManager.is_puzzle_completed(puzzle.id):
+			completed_count += 1
+	
+	if completed_count == 0:
+		return _generate_gibberish(full_text.length(), current_picture_id)
+	
+	var reveal_ratio = float(completed_count) / float(total_puzzles)
+	var reveal_count = max(1, int(full_text.length() * reveal_ratio))
+	
+	return _reveal_random_chars(full_text, reveal_count, current_picture_id)
+
+
+func _generate_gibberish(length: int, seed_str: String) -> String:
+	var chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*"
+	var result = ""
+	var seed = _string_to_seed(seed_str)
+	var state = seed
+	for _i in range(length):
+		state = (state * 1103515245 + 12345) & 0x7fffffff
+		result += chars[state % chars.length()]
+	return result
+
+
+func _reveal_random_chars(text: String, reveal_count: int, seed_str: String) -> String:
+	var length = text.length()
+	if length == 0:
+		return ""
+	
+	if reveal_count >= length:
+		return text
+	
+	var seed = _string_to_seed(seed_str)
+	var state = seed
+	var revealed_indices = []
+	while revealed_indices.size() < reveal_count:
+		state = (state * 1103515245 + 12345) & 0x7fffffff
+		var idx = state % length
+		if idx not in revealed_indices:
+			revealed_indices.append(idx)
+	
+	var chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*"
+	var result = ""
+	state = seed + 1
+	for i in range(length):
+		if i in revealed_indices:
+			result += text[i]
+		else:
+			state = (state * 1103515245 + 12345) & 0x7fffffff
+			result += chars[state % chars.length()]
+	return result
+
+
+func _string_to_seed(str: String) -> int:
+	var hash = 0
+	for i in range(str.length()):
+		hash = hash * 31 + str.unicode_at(i)
+	return abs(hash) & 0x7fffffff
 
 
 func _load_puzzles(picture: Dictionary) -> void:
@@ -200,6 +304,7 @@ func _create_illustration_display() -> void:
 		return
 
 	var target_size = _calculate_button_size()
+	var is_current_picture_locked = _is_current_picture_locked()
 
 	for i in range(_puzzles.size()):
 		var puzzle = _puzzles[i]
@@ -209,17 +314,13 @@ func _create_illustration_display() -> void:
 		btn.name = "RegionBtn_" + str(i)
 		btn.stretch_mode = TextureButton.STRETCH_SCALE
 
-		if not completed:
-			var grid_num = max(puzzle.rows,puzzle.cols)
-			match grid_num:
-				5:
-					btn.texture_normal = NONOGRAM_BTN
-					btn.texture_hover = NONOGRAM_BTN_HOVER
-					btn.texture_pressed = NONOGRAM_BTN_PRESSED
-				_:
-					btn.texture_normal = NONOGRAM_BTN
-					btn.texture_hover = NONOGRAM_BTN_HOVER
-					btn.texture_pressed = NONOGRAM_BTN_PRESSED
+		if is_current_picture_locked:
+			btn.texture_normal = NONOGRAM_BTN_LOCKED
+			btn.texture_hover = NONOGRAM_BTN_LOCKED
+			btn.texture_pressed = NONOGRAM_BTN_LOCKED
+			btn.disabled = true
+		elif not completed:
+			_set_btn_tex_nonogram(btn, max(puzzle.rows,puzzle.cols))
 		else:
 			var region_img = _extract_pixel_region(i, target_size)
 			if region_img == null:
@@ -229,20 +330,57 @@ func _create_illustration_display() -> void:
 				btn.texture_hover = _create_hover_texture(region_img)
 				btn.texture_pressed = _create_pressed_texture(region_img)
 			else:
-				btn.texture_normal = NONOGRAM_BTN
-				btn.texture_hover = NONOGRAM_BTN_HOVER
-				btn.texture_pressed = NONOGRAM_BTN_PRESSED
+				_set_btn_tex_nonogram(btn, 5)
 
 		btn.pressed.connect(_on_region_clicked.bind(puzzle))
 		illustration_area.add_child(btn)
 		_region_buttons[puzzle.id] = btn
 
-	await get_tree().process_frame
+	# await get_tree().process_frame # 不要这句代码，否则会闪烁一下
 	_update_region_positions()
 
 
+func _is_current_picture_locked() -> bool:
+	if _current_picture_index <= 0:
+		return false
+	
+	var prev_picture = _pictures[_current_picture_index - 1]
+	var prev_picture_id = prev_picture.get("id", "")
+	return not GameManager.is_picture_completed(prev_picture_id)
+
+
+func _set_btn_tex_nonogram(btn: TextureButton, grid_num: int) -> void:
+	match grid_num:
+		5:
+			btn.texture_normal = NONOGRAM_BTN_5
+			btn.texture_hover = NONOGRAM_BTN_5_HOVER
+			btn.texture_pressed = NONOGRAM_BTN_5_PRESSED
+		10:
+			btn.texture_normal = NONOGRAM_BTN_10
+			btn.texture_hover = NONOGRAM_BTN_10_HOVER
+			btn.texture_pressed = NONOGRAM_BTN_10_PRESSED
+		15:
+			btn.texture_normal = NONOGRAM_BTN_15
+			btn.texture_hover = NONOGRAM_BTN_15_HOVER
+			btn.texture_pressed = NONOGRAM_BTN_15_PRESSED
+		20:
+			btn.texture_normal = NONOGRAM_BTN_20
+			btn.texture_hover = NONOGRAM_BTN_20_HOVER
+			btn.texture_pressed = NONOGRAM_BTN_20_PRESSED
+		25:
+			btn.texture_normal = NONOGRAM_BTN_25
+			btn.texture_hover = NONOGRAM_BTN_25_HOVER
+			btn.texture_pressed = NONOGRAM_BTN_25_PRESSED	
+		_:
+			btn.texture_normal = NONOGRAM_BTN_5
+			btn.texture_hover = NONOGRAM_BTN_5_HOVER
+			btn.texture_pressed = NONOGRAM_BTN_5_PRESSED
+
+
 func _create_completed_display() -> void:
-	if _pixel_image and _illustration_image:
+	var should_animate = GameManager.should_show_animation(current_picture_id)
+	
+	if _pixel_image and _illustration_image and should_animate:
 		var pixel_rect = TextureRect.new()
 		pixel_rect.name = "PixelArtRect"
 		pixel_rect.set_anchors_preset(Control.PRESET_FULL_RECT)
@@ -265,6 +403,8 @@ func _create_completed_display() -> void:
 		_fade_tween = create_tween()
 		_fade_tween.tween_property(hd_rect, "modulate:a", 1.0, 1.5)
 		_fade_tween.parallel().tween_property(pixel_rect, "modulate:a", 0.0, 1.5)
+		
+		_fade_tween.finished.connect(_on_animation_finished)
 	elif _illustration_image:
 		var hd_rect = TextureRect.new()
 		hd_rect.name = "HDImageRect"
@@ -282,7 +422,9 @@ func _create_completed_display() -> void:
 		pixel_rect.texture = ImageTexture.create_from_image(_pixel_image)
 		illustration_area.add_child(pixel_rect)
 
-	_add_completion_banner()
+
+func _on_animation_finished() -> void:
+	GameManager.mark_animation_shown(current_picture_id)
 
 
 func _extract_pixel_region(index: int, target_size: Vector2 = Vector2.ZERO) -> Image:
@@ -479,33 +621,10 @@ func _on_illustration_area_resized() -> void:
 	_update_region_positions()
 
 
-func _add_completion_banner() -> void:
-	var banner = Panel.new()
-	banner.name = "CompletionBanner"
-	banner.set_anchors_preset(Control.PRESET_TOP_WIDE)
-	banner.offset_bottom = 36
-
-	var style = StyleBoxFlat.new()
-	style.bg_color = Color(0.76, 0.23, 0.13, 0.88)
-	style.set_border_width_all(0)
-	style.set_content_margin_all(6)
-	banner.add_theme_stylebox_override("panel", style)
-
-	var label = Label.new()
-	label.text = "图片已完成 — 插图已全部点亮"
-	label.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
-	label.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
-	label.set_anchors_preset(Control.PRESET_FULL_RECT)
-	label.add_theme_font_size_override("font_size", 15)
-	label.add_theme_color_override("font_color", Color(1, 0.95, 0.85))
-	banner.add_child(label)
-
-	illustration_area.add_child(banner)
-
-
 func _on_region_clicked(puzzle: PuzzleData) -> void:
 	GameManager.pending_album_id = current_album_id
 	GameManager.pending_picture_id = current_picture_id
+	GameManager.pending_picture_index = _current_picture_index
 	GameManager.pending_puzzle_id = puzzle.id
 	get_tree().change_scene_to_file("res://scenes/nonogram_scene.tscn")
 
@@ -532,8 +651,33 @@ func _generate_placeholder_illustration() -> Image:
 
 
 func _on_back_pressed() -> void:
+	GameManager.save_picture_index(current_album_id, _current_picture_index)
 	GameManager.pending_bookshelf_id = ""
 	var album = AlbumDataScript.get_album(current_album_id)
 	if not album.is_empty():
 		GameManager.pending_bookshelf_id = album.get("bookshelf_id", "")
 	get_tree().change_scene_to_file("res://scenes/book_shelf.tscn")
+
+
+func _on_left_button_pressed() -> void:
+	if _current_picture_index > 0:
+		_current_picture_index -= 1
+		var picture = _pictures[_current_picture_index]
+		current_picture_id = picture.get("id", "")
+		_load_picture(picture)
+		_update_page_navigation()
+
+
+func _on_right_button_pressed() -> void:
+	if _current_picture_index < _pictures.size() - 1:
+		_current_picture_index += 1
+		var picture = _pictures[_current_picture_index]
+		current_picture_id = picture.get("id", "")
+		_load_picture(picture)
+		_update_page_navigation()
+
+
+func _update_page_navigation() -> void:
+	left_button.visible = _current_picture_index > 0
+	right_button.visible = _current_picture_index < _pictures.size() - 1
+	page_num_label.text = "%d/%d" % [_current_picture_index + 1, _pictures.size()]

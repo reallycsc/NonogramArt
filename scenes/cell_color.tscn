@@ -16,7 +16,7 @@ layout_mode = 0
 offset_right = 32.0
 offset_bottom = 32.0
 mouse_filter = 1
-color = Color(0.7490196, 0.68235296, 0.57254905, 1)
+color = Color(0.8156863, 0.6862745, 0.53333336, 1)
 
 [node name="ColorRectWhite" type="ColorRect" parent="ColorRectFrame" unique_id=1042075723]
 layout_mode = 0
@@ -25,9 +25,9 @@ offset_top = 1.0
 offset_right = 31.0
 offset_bottom = 31.0
 mouse_filter = 2
-color = Color(0.9882353, 0.96862745, 0.89411765, 1)
+color = Color(0.9882353, 0.9411765, 0.8745098, 1)
 
-[node name="ColorRect" type="ColorRect" parent="ColorRectFrame/ColorRectWhite" unique_id=76693501]
+[node name="ColorRect" type="ColorRect" parent="ColorRectFrame/ColorRectWhite" unique_id=172779396]
 layout_mode = 1
 offset_left = 2.0
 offset_top = 2.0
@@ -35,6 +35,7 @@ offset_right = 28.0
 offset_bottom = 28.0
 pivot_offset = Vector2(14, 14)
 mouse_filter = 2
+color = Color(0.9843137, 0.9647059, 0.88235295, 1)
 
 [node name="ColorRectRed" type="ColorRect" parent="ColorRectFrame" unique_id=473191521]
 modulate = Color(1, 1, 1, 0)
@@ -68,7 +69,7 @@ layout_mode = 0
 offset_right = 32.0
 offset_bottom = 32.0
 mouse_filter = 2
-color = Color(0.4, 1, 1, 0.09803922)
+color = Color(1, 0.64705884, 0, 0.09803922)
 
 [node name="HoverFrameSprite" type="Sprite2D" parent="." unique_id=65647193]
 visible = false

@@ -2,10 +2,10 @@ extends Node2D
 class_name ColHint
 
 # 节点引用
-@onready var colHint_hover: ColorRect = $ColHintHover
-@onready var colHint_bg_odd: ColorRect = $ColHintBgOdd
-@onready var colHint_bg_even: ColorRect = $ColHintBgEven
-@onready var colHint_bg_finish: ColorRect = $ColHintBgFinish
+@onready var colHint_hover: Panel = $ColHintHover
+@onready var colHint_bg_odd: Panel = $ColHintBgOdd
+@onready var colHint_bg_even: Panel = $ColHintBgEven
+@onready var colHint_bg_finish: Panel = $ColHintBgFinish
 @onready var colHint_labels: VBoxContainer = $ColHintLabels
 @onready var error_icon: Sprite2D = $ErrorIconBg
 
@@ -40,7 +40,7 @@ func setup(hintText: Array, col_id: int) -> int:
 		label.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
 		label.custom_minimum_size = minimum_size
 		label.label_settings = LabelSettings.new()
-		label.label_settings.font_color = Color.BLACK
+		label.label_settings.font_color = Color("#462203")
 		label.label_settings.font_size = 18
 		label.label_settings.outline_color = Color.WHITE
 		label.label_settings.outline_size = 8
@@ -91,7 +91,7 @@ func update_error(is_error: bool):
 		error_icon.show()
 	else:
 		for label in label_array:
-			label.label_settings.font_color = Color.BLACK
+			label.label_settings.font_color = Color("#462203")
 		error_icon.hide()
 
 func update_only_one_pattern():
@@ -106,5 +106,5 @@ func update_deducible(is_deducible: bool):
 			label.label_settings.shadow_size = 12
 	else:
 		for label in label_array:
-			label.label_settings.font_color = Color.BLACK
+			label.label_settings.font_color = Color("#462203")
 			label.label_settings.shadow_size = 0

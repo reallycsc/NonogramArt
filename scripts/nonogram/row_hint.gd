@@ -2,10 +2,10 @@ extends Node2D
 class_name RowHint
 
 # 节点引用
-@onready var rowHint_hover: ColorRect = $RowHintHover
-@onready var rowHint_bg_odd: ColorRect = $RowHintBgOdd
-@onready var rowHint_bg_even: ColorRect = $RowHintBgEven
-@onready var rowHint_bg_finish: ColorRect = $RowHintBgFinish
+@onready var rowHint_hover: Panel = $RowHintHover
+@onready var rowHint_bg_odd: Panel = $RowHintBgOdd
+@onready var rowHint_bg_even: Panel = $RowHintBgEven
+@onready var rowHint_bg_finish: Panel = $RowHintBgFinish
 @onready var rowHint_labels: HBoxContainer = $RowHintLabels
 @onready var error_icon: Sprite2D = $ErrorIconBg
 
@@ -40,7 +40,7 @@ func setup(hintText: Array, row_id: int) -> int:
 		label.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
 		label.custom_minimum_size = minimum_size
 		label.label_settings = LabelSettings.new()
-		label.label_settings.font_color = Color.BLACK
+		label.label_settings.font_color = Color("#462203")
 		label.label_settings.font_size = 18
 		label.label_settings.outline_color = Color.WHITE
 		label.label_settings.outline_size = 8
@@ -91,7 +91,7 @@ func update_error(is_error: bool):
 		error_icon.show()
 	else:
 		for label in label_array:
-			label.label_settings.font_color = Color.BLACK
+			label.label_settings.font_color = Color("#462203")
 			label.label_settings.shadow_size = 0
 		error_icon.hide()
 
@@ -107,5 +107,5 @@ func update_deducible(is_deducible: bool):
 			label.label_settings.shadow_size = 12
 	else:
 		for label in label_array:
-			label.label_settings.font_color = Color.BLACK
+			label.label_settings.font_color = Color("#462203")
 			label.label_settings.shadow_size = 0

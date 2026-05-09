@@ -38,19 +38,19 @@ func update_appearance(state: int):
 	match state:
 		NonogramManager.CellState.FILLED:
 			cell_cross_sprite.hide()
-			color_rect.color =Color("#bc6d4d")
+			color_rect.color =Color("#6b3e13")
 			color_rect.scale = Vector2.ZERO
 			if _current_tween:
 				_current_tween.kill()
 			_current_tween = create_tween()
-			_current_tween.tween_property(color_rect, "scale", Vector2.ONE, 0.1)
+			_current_tween.tween_property(color_rect, "scale", Vector2.ONE, 0.1).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
 		NonogramManager.CellState.CROSSED:
 			cell_cross_sprite.show()
 			cell_cross_sprite.scale = Vector2.ZERO
 			if _current_tween:
 				_current_tween.kill()
 			_current_tween = create_tween()
-			_current_tween.tween_property(cell_cross_sprite, "scale", Vector2.ONE, 0.1)
+			_current_tween.tween_property(cell_cross_sprite, "scale", Vector2.ONE, 0.1).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
 		_:
 			cell_cross_sprite.hide()
 			color_rect.color = Color("#fbf6e1")

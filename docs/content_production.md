@@ -282,7 +282,146 @@ assets/images/
 
 ***
 
-## 六、图片生成规则（核心约束）
+## 六、数织关卡生产规则
+
+### 6.1 生产前置条件
+
+数织关卡生产前必须具备以下两项基础资源：
+
+| 资源类型 | 说明 | 来源 |
+| ---- | ---- | ---- |
+| **画册内容规划文档** | 包含画册主题、图片列表、分块配置、难度配置等信息 | `docs/albums/{album_id}.md` |
+| **高清画册图片** | 符合规格的完整高清图片，用于提取数织网格 | `assets/images/illustrations/{album_id}/` |
+
+### 6.2 生产流程规范
+
+```
+┌─────────────────────┐
+│ 1. 阅读内容规划文档   │
+│    获取图片配置信息   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 2. 准备高清图片资源   │
+│    验证图片规格       │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 3. 执行谜题生成工具   │
+│    generate_puzzles_ │
+│    from_image.py     │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 4. 运行验证工具       │
+│    verify_all_      │
+│    puzzles.py       │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 5. 运行修复工具       │
+│    check_and_fix_   │
+│    puzzles.py       │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 6. 验证修复结果       │
+│    确保质量达标       │
+└─────────────────────┘
+```
+
+### 6.3 基于画册内容规划文档的生产规则
+
+| 规则 | 说明 | 示例 |
+| ---- | ---- | ---- |
+| **图片ID命名规范** | 必须与内容规划文档中的图片ID保持一致 | 文档中`chapter1_01_yuanmou` → 生成`chapter1_01_yuanmou_0.json`~`chapter1_01_yuanmou_5.json` |
+| **分块数量匹配** | 分块数必须与文档中`分块数/图`配置一致 | 文档标注6个分块 → 生成6个谜题文件 |
+| **难度配置遵循** | 网格大小和难度级别必须符合文档中的难度配置 | 文档标注`10×10`、`easy` → 生成10×10网格的easy难度谜题 |
+| **名称格式规范** | 谜题名称必须包含图片标题和分块索引 | `"元谋人遗址 - 分块0（新手引导）"` |
+| **新手引导标记** | 首个图片的首个分块必须标记为新手引导 | `chapter1_01_yuanmou_0.json`名称包含"新手引导" |
+
+### 6.4 基于高清图片的生产规则
+
+| 规则 | 说明 | 约束条件 |
+| ---- | ---- | ---- |
+| **图片完整性验证** | 图片必须完整存在且可读取 | 文件存在、格式正确、无损坏 |
+| **宽高比匹配** | 图片宽高比必须与分块配置(X×Y)匹配 | X=3,Y=2 → 宽高比3:2 |
+| **分辨率要求** | 图片分辨率必须满足最小像素要求 | 单块10×10网格 → 图片最小800×600像素 |
+| **二值化处理** | 根据图片灰度自动生成黑白网格 | 使用Otsu算法进行自适应阈值分割 |
+| **网格提取** | 按分块配置从图片提取对应区域 | 3×2分块 → 从图片左上到右下依次提取 |
+| **空白区域处理** | 自动检测并处理大面积空白区域 | 填充率低于10%时自动修复 |
+
+### 6.5 验证工具使用规则
+
+#### 6.5.1 verify_all_puzzles.py 验证项
+
+| 验证项 | 验证内容 | 合格标准 |
+| ---- | ---- | ---- |
+| **可推理性验证** | 检查谜题是否可通过纯逻辑推理求解 | 无需猜测即可完成 |
+| **线索一致性** | 验证行/列线索与solution是否匹配 | 线索完全匹配 |
+| **网格完整性** | 检查solution是否完整填充 | 无缺失或多余单元格 |
+| **格式规范性** | 验证JSON格式和字段完整性 | 字段齐全、格式正确 |
+
+#### 6.5.2 check_and_fix_puzzles.py 修复项
+
+| 修复项 | 修复内容 | 修复策略 |
+| ---- | ---- | ---- |
+| **全空行/列修复** | 检测并修复全空的行或列 | 在空白区域随机添加1-2个像素 |
+| **全满行/列修复** | 检测并修复全满的行或列 | 在满行/列边缘移除1-2个像素 |
+| **低填充率修复** | 修复填充率过低的谜题 | 自动补充像素至最小填充率10% |
+| **高填充率修复** | 修复填充率过高的谜题 | 自动移除像素至最大填充率90% |
+| **source_rect修复** | 修复源图片区域配置 | 根据实际图片尺寸重新计算 |
+
+### 6.6 生产质量标准
+
+| 质量指标 | 合格标准 |
+| ---- | ---- |
+| **可解率** | 100%可通过纯逻辑推理完成 |
+| **填充率范围** | 10% ~ 90% |
+| **无全空行/列** | 不允许存在全0或全1的行/列 |
+| **线索准确性** | 行/列线索与solution完全匹配 |
+| **文件完整性** | 所有分块谜题文件齐全 |
+| **格式正确性** | JSON格式正确，字段完整 |
+
+### 6.7 生产工具调用顺序
+
+```bash
+# 1. 生成数织关卡（基于高清图片）
+python tools/generate_puzzles_from_image.py \
+  --image assets/images/illustrations/chinese_history/chapter1_01_yuanmou.png \
+  --output data/puzzles/chinese_history/ \
+  --grid-size 5 \
+  --chunks 6 \
+  --difficulty tutorial
+
+# 2. 验证所有谜题的可推理性
+python tools/verify_all_puzzles.py \
+  --input data/puzzles/chinese_history/ \
+  --output reports/verification_chinese_history.json
+
+# 3. 检查并修复问题谜题
+python tools/check_and_fix_puzzles.py \
+  --input data/puzzles/chinese_history/ \
+  --fix-all
+
+# 4. 修复source_rect配置（如需要）
+python tools/fix_source_rect.py \
+  --input data/puzzles/chinese_history/ \
+  --image-dir assets/images/illustrations/chinese_history/
+```
+
+### 6.8 批量生产规范
+
+对于包含多张图片的画册，批量生产需遵循以下顺序：
+
+1. **按顺序生产**：按照内容规划文档中的图片顺序依次生成
+2. **逐图验证修复**：每张图片生成后立即进行验证和修复
+3. **批次检查**：完成所有图片生产后，进行全量验证
+4. **报告生成**：生成完整的生产报告，记录每个谜题的状态
+
+***
+
+## 七、图片生成规则（核心约束）
 
 生成的画册图片必须遵循以下规则：
 
@@ -295,6 +434,36 @@ assets/images/
 | **可推理性**  | 从每个区域提取的数织关卡必须能通过纯逻辑推理完成，无需猜测                           |
 | **不拉伸**   | 图片必须以正确的宽高比直接生成，禁止生成后再拉伸/缩放变形                           |
 | **风格一致性** | 所有图片必须采用一致的卡通风格生成，保持色彩、线条、造型风格统一                        |
+
+### 6.1 像素图生成规则
+
+每张画册图片需要生成对应的像素图版本，规则如下：
+
+| 规则       | 说明                              |
+| -------- | ------------------------------- |
+| **命名规范** | 像素图文件名 = 原图文件名 + `_pixel.png`   |
+| **输出目录** | 与原图在同一目录，不单独创建子目录               |
+| **分辨率**  | 与原图相同分辨率                        |
+| **生成方式** | 根据数织关卡的网格数目生成对应的像素数量，不使用solution |
+| **放大方式** | 使用 NEAREST 插值保持像素风格             |
+
+**像素图生成流程：**
+
+1. 根据图片的分块配置（X×Y 分块）和每块的网格大小（N×N）计算小像素图尺寸
+2. 创建 (N×X) × (N×Y) 的小像素图（例如：3×2分块，每块5×5网格 → 15×10小像素图）
+3. 使用 NEAREST 插值放大到与原图相同的分辨率
+4. 像素图作为数织关卡完成后的填充模板使用
+
+### 6.2 全满/全空行/列预防策略
+
+为提高数织关卡质量，生成时需采取以下预防措施：
+
+| 策略        | 说明                           |
+| --------- | ---------------------------- |
+| **提示词优化** | 在提示词中加入"画面边缘有丰富细节，不要大面积纯色背景" |
+| **全空行修复** | 自动检测并在空白行中间添加像素点             |
+| **全满行修复** | 自动检测并在满行边缘移除像素点              |
+| **居中裁剪**  | 图片分块时采用居中裁剪，避免边缘纯色区域         |
 
 **图片布局规范：**
 
@@ -311,48 +480,48 @@ assets/images/
 
 ### 7.1 图标类型与尺寸
 
-| 图标类型 | 尺寸要求 | 文件命名规范 |
-| ---- | ---- | ---- |
+| 图标类型 | 尺寸要求      | 文件命名规范                         |
+| ---- | --------- | ------------------------------ |
 | 书架图标 | 2048×2048 | `bookshelf_{bookshelf_id}.png` |
-| 画册图标 | 2048×2048 | `album_{album_id}.png` |
+| 画册图标 | 2048×2048 | `album_{album_id}.png`         |
 
 ### 7.2 统一风格规范
 
 **所有图标必须遵循以下统一风格：**
 
-| 设计要素 | 规范要求 |
-| ---- | ---- |
-| **风格类型** | 中国风卡通风格，传统与现代结合 |
-| **构图形式** | 方形构图，中心对称或平衡布局 |
-| **视觉主体** | 单本书籍封面样式，竖直摆放 |
+| 设计要素     | 规范要求                      |
+| -------- | ------------------------- |
+| **风格类型** | 中国风卡通风格，传统与现代结合           |
+| **构图形式** | 方形构图，中心对称或平衡布局            |
+| **视觉主体** | 单本书籍封面样式，竖直摆放             |
 | **背景处理** | 纯色背景（#F5F0E8 宣纸白），无复杂背景元素 |
-| **边框样式** | 圆角矩形边框，圆角半径约 12% |
-| **色彩基调** | 明亮温暖，饱和度适中，中国传统配色 |
-| **文字处理** | 禁止在图标中添加文字 |
+| **边框样式** | 圆角矩形边框，圆角半径约 12%          |
+| **色彩基调** | 明亮温暖，饱和度适中，中国传统配色         |
+| **文字处理** | 禁止在图标中添加文字                |
 
 ### 7.3 配色规范
 
 **统一配色方案：**
 
-| 颜色用途 | 颜色值 | 说明 |
-| ---- | ---- | ---- |
-| 背景色 | #F5F0E8 | 宣纸白色，所有图标统一使用 |
-| 主色调 | #C23B22 | 朱砂红，用于书籍封面主色 |
-| 点缀色 | #C9A962 | 鎏金色，用于装饰线条和高光 |
-| 边框色 | #8B4513 | 赭石色，用于书籍边框 |
-| 阴影色 | rgba(0,0,0,0.15) | 轻微阴影，增加立体感 |
+| 颜色用途 | 颜色值              | 说明            |
+| ---- | ---------------- | ------------- |
+| 背景色  | #F5F0E8          | 宣纸白色，所有图标统一使用 |
+| 主色调  | #C23B22          | 朱砂红，用于书籍封面主色  |
+| 点缀色  | #C9A962          | 鎏金色，用于装饰线条和高光 |
+| 边框色  | #8B4513          | 赭石色，用于书籍边框    |
+| 阴影色  | rgba(0,0,0,0.15) | 轻微阴影，增加立体感    |
 
 **各书架专属配色（用于书籍封面图案）：**
 
-| 书架 | 主色 | 辅助色 |
-| ---- | ---- | ---- |
-| 人文历史 | #C23B22（朱砂红） | #C9A962（鎏金） |
-| 艺术创作 | #8B4513（赭石） | #E85D4C（珊瑚红） |
-| 自然地理 | #3E8B6A（青绿） | #5A5A5A（墨灰） |
-| 生物世界 | #2E5C8A（靛蓝） | #3E8B6A（青绿） |
-| 生活社会 | #E85D4C（珊瑚红） | #C9A962（鎏金） |
-| 科技工业 | #2E5C8A（靛蓝） | #5A5A5A（墨灰） |
-| 综合素材 | #5A5A5A（墨灰） | #C9A962（鎏金） |
+| 书架   | 主色           | 辅助色          |
+| ---- | ------------ | ------------ |
+| 人文历史 | #C23B22（朱砂红） | #C9A962（鎏金）  |
+| 艺术创作 | #8B4513（赭石）  | #E85D4C（珊瑚红） |
+| 自然地理 | #3E8B6A（青绿）  | #5A5A5A（墨灰）  |
+| 生物世界 | #2E5C8A（靛蓝）  | #3E8B6A（青绿）  |
+| 生活社会 | #E85D4C（珊瑚红） | #C9A962（鎏金）  |
+| 科技工业 | #2E5C8A（靛蓝）  | #5A5A5A（墨灰）  |
+| 综合素材 | #5A5A5A（墨灰）  | #C9A962（鎏金）  |
 
 ### 7.4 图标内容规范
 
@@ -364,6 +533,7 @@ assets/images/
 4. **风格统一**：所有图标保持相同的透视角度和光影风格
 
 **禁止元素：**
+
 - 复杂背景场景
 - 文字内容
 - 过多细节元素
@@ -383,11 +553,11 @@ assets/images/
 
 **示例提示词：**
 
-| 画册名称 | 提示词 |
-| ---- | ---- |
-| 中国通史 | 中国历史书籍封面图标设计，中国风卡通风格，单本书籍竖直摆放，纯色背景（#F5F0E8宣纸白），长城和兵马俑作为装饰图案，朱砂红和鎏金配色，简洁现代的图标设计，方形构图，无文字，高清分辨率，UI元素，专业设计，统一风格 |
+| 画册名称 | 提示词                                                                                                           |
+| ---- | ------------------------------------------------------------------------------------------------------------- |
+| 中国通史 | 中国历史书籍封面图标设计，中国风卡通风格，单本书籍竖直摆放，纯色背景（#F5F0E8宣纸白），长城和兵马俑作为装饰图案，朱砂红和鎏金配色，简洁现代的图标设计，方形构图，无文字，高清分辨率，UI元素，专业设计，统一风格  |
 | 世界通史 | 世界历史书籍封面图标设计，中国风卡通风格，单本书籍竖直摆放，纯色背景（#F5F0E8宣纸白），地球仪和世界地图作为装饰图案，靛蓝和鎏金配色，简洁现代的图标设计，方形构图，无文字，高清分辨率，UI元素，专业设计，统一风格 |
-| 艺术创作 | 艺术书籍封面图标设计，中国风卡通风格，单本书籍竖直摆放，纯色背景（#F5F0E8宣纸白），画笔和调色板作为装饰图案，赭石和珊瑚红配色，简洁现代的图标设计，方形构图，无文字，高清分辨率，UI元素，专业设计，统一风格 |
+| 艺术创作 | 艺术书籍封面图标设计，中国风卡通风格，单本书籍竖直摆放，纯色背景（#F5F0E8宣纸白），画笔和调色板作为装饰图案，赭石和珊瑚红配色，简洁现代的图标设计，方形构图，无文字，高清分辨率，UI元素，专业设计，统一风格    |
 
 ### 7.6 生成流程规范
 
@@ -396,4 +566,125 @@ assets/images/
 3. **命名规范**：严格按照 `bookshelf_{id}.png` 和 `album_{id}.png` 命名
 4. **质量检查**：生成后检查是否符合风格规范，不符合则重新生成
 5. **批量生成**：同一书架的图标建议批量生成，确保风格一致
+
+***
+
+## 八、背景音乐生成规则（Suno AI提示词）
+
+### 8.1 统一提示词模板
+
+```
+{音乐风格}风格背景音乐，{主奏乐器}主奏，{音乐意境描述}，适合作为{画册主题}主题的游戏背景音乐，舒缓优美，无 vocals，纯 instrumental，时长约180秒
+```
+
+### 8.2 各画册音乐提示词
+
+#### 书架一：人文历史（12本）
+
+| 画册名称     | 音乐风格  | 主奏乐器        | 音乐意境        | Suno提示词                                                                                                                                                                                                                                                                                                       |
+| -------- | ----- | ----------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 中国通史     | 史诗叙事  | 古筝、笛子、编钟    | 恢弘历史长河，庄重典雅 | Epic historical Chinese instrumental music, featuring guzheng (Chinese zither), dizi (bamboo flute), and bianzhong (bronze bells). Grand historical atmosphere, solemn and elegant, suitable as background music for Chinese history theme, soothing and beautiful, no vocals, pure instrumental, 180 seconds |
+| 世界通史     | 世界风融合 | 钢琴、小提琴、民族乐器 | 多元文明交融      | World fusion instrumental music, piano, violin, and ethnic instruments. Blending diverse civilizations, suitable as background music for world history theme, soothing and beautiful, no vocals, pure instrumental, 180 seconds                                                                               |
+| 亚洲文明史    | 东方韵味  | 尺八、三味线、伽倻琴  | 亚洲各国风情      | Oriental style instrumental music, featuring shakuhachi (bamboo flute), shamisen, and gayageum. Asian cultural atmosphere, suitable as background music for Asian civilization theme, soothing and beautiful, no vocals, pure instrumental, 180 seconds                                                       |
+| 欧洲文明史    | 古典优雅  | 小提琴、钢琴、吉他   | 欧洲古典风情      | Classical elegant instrumental music, violin, piano, and guitar. European classical atmosphere, suitable as background music for European civilization theme, soothing and beautiful, no vocals, pure instrumental, 180 seconds                                                                               |
+| 非洲与美洲文明史 | 原始部落风 | 手鼓、沙锤、笛子    | 原始野性与热情     | Primitive tribal style instrumental music, featuring hand drums, maracas, and flute. Raw wildness and passion, suitable as background music for African and American civilization theme, soothing and rhythmic, no vocals, pure instrumental, 180 seconds                                                     |
+| 战争与军事史   | 悲壮激昂  | 战鼓、号角、大提琴   | 金戈铁马，气势磅礴   | Epic dramatic instrumental music, war drums, bugle, and cello. Heroic and powerful battlefield atmosphere, suitable as background music for war and military theme, stirring and majestic, no vocals, pure instrumental, 180 seconds                                                                          |
+| 政治与制度史   | 庄重肃穆  | 管风琴、钟琴      | 威严庄重        | Majestic solemn instrumental music, pipe organ and glockenspiel. Dignified and authoritative atmosphere, suitable as background music for politics and institutions theme, grand and reverent, no vocals, pure instrumental, 180 seconds                                                                      |
+| 经济与贸易史   | 商业繁华  | 扬琴、琵琶       | 市井繁华，商旅往来   | Prosperous commercial instrumental music, yangqin (hammered dulcimer) and pipa (lute). Bustling marketplace atmosphere, suitable as background music for economy and trade theme, lively yet elegant, no vocals, pure instrumental, 180 seconds                                                               |
+| 世界文化遗产   | 史诗感   | 交响乐、合唱团     | 人类文明瑰宝      | Epic symphonic instrumental music with choir elements. Celebrating human civilization treasures, suitable as background music for world heritage theme, grand and inspiring, no vocals, pure instrumental, 180 seconds                                                                                        |
+| 中国文化遗产   | 中国风   | 古筝、二胡、琵琶    | 华夏文明传承      | Traditional Chinese instrumental music, guzheng, erhu (fiddle), and pipa. Chinese cultural heritage atmosphere, suitable as background music for Chinese heritage theme, traditional and elegant, no vocals, pure instrumental, 180 seconds                                                                   |
+| 考古发现与发掘  | 神秘探索  | 古琴、埙        | 探索未知的神秘感    | Mysterious exploratory instrumental music, guqin (ancient zither) and xun (ocarina). Uncovering ancient mysteries, suitable as background music for archaeology theme, mysterious and intriguing, no vocals, pure instrumental, 180 seconds                                                                   |
+| 历史未解之谜   | 悬疑神秘  | 大提琴、钢琴      | 层层揭开的谜团     | Mysterious suspenseful instrumental music, cello and piano. Unraveling hidden secrets, suitable as background music for historical mysteries theme, enigmatic and atmospheric, no vocals, pure instrumental, 180 seconds                                                                                      |
+
+#### 书架二：艺术创作（10本）
+
+| 画册名称    | 音乐风格 | 主奏乐器     | 音乐意境      | Suno提示词                                                                                                                                                                                                                                            |
+| ------- | ---- | -------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 中国书画艺术  | 文人雅士 | 古琴、古筝    | 笔墨丹青，意境悠远 | Elegant scholar style instrumental music, guqin and guzheng. Chinese painting and calligraphy atmosphere, serene and profound, suitable as background music for Chinese art theme, peaceful and refined, no vocals, pure instrumental, 180 seconds |
+| 西方绘画艺术  | 古典浪漫 | 钢琴、小提琴   | 艺术殿堂的优雅   | Classical romantic instrumental music, piano and violin. Western art gallery elegance, suitable as background music for Western painting theme, graceful and expressive, no vocals, pure instrumental, 180 seconds                                 |
+| 雕塑艺术    | 庄严宏伟 | 交响乐      | 凝固的音乐     | Majestic symphonic instrumental music. Monumental sculpture atmosphere, suitable as background music for sculpture art theme, grand and timeless, no vocals, pure instrumental, 180 seconds                                                        |
+| 摄影艺术    | 清新明快 | 吉他、长笛    | 瞬间的永恒     | Fresh and bright instrumental music, guitar and flute. Capturing fleeting moments, suitable as background music for photography theme, light and airy, no vocals, pure instrumental, 180 seconds                                                   |
+| 建筑艺术    | 大气磅礴 | 管风琴、交响乐  | 凝固的史诗     | Grand orchestral instrumental music with pipe organ. Architectural masterpiece atmosphere, suitable as background music for architecture theme, monumental and awe-inspiring, no vocals, pure instrumental, 180 seconds                            |
+| 工艺美术    | 精致细腻 | 扬琴、柳琴    | 巧夺天工      | Exquisite delicate instrumental music, yangqin and liuqin (small lute). Artisan craftsmanship atmosphere, suitable as background music for crafts theme, intricate and beautiful, no vocals, pure instrumental, 180 seconds                        |
+| 设计艺术    | 现代简约 | 电子合成器、钢琴 | 简约之美      | Modern minimalist instrumental music, electronic synthesizer and piano. Contemporary design elegance, suitable as background music for design theme, sleek and sophisticated, no vocals, pure instrumental, 180 seconds                            |
+| 表演艺术    | 激情奔放 | 管弦乐      | 舞台的魅力     | Passionate orchestral instrumental music. Stage performance energy, suitable as background music for performing arts theme, dynamic and vibrant, no vocals, pure instrumental, 180 seconds                                                         |
+| 民间与传统艺术 | 乡土气息 | 唢呐、锣鼓    | 民俗风情      | Rustic folk instrumental music, suona (oboe) and percussion. Traditional folk customs atmosphere, suitable as background music for folk art theme, lively and authentic, no vocals, pure instrumental, 180 seconds                                 |
+| 当代传媒    | 现代前卫 | 电子音乐     | 数字时代的艺术   | Modern avant-garde electronic instrumental music. Digital age artistic expression, suitable as background music for contemporary media theme, futuristic and innovative, no vocals, pure instrumental, 180 seconds                                 |
+
+#### 书架三：自然地理（8本）
+
+| 画册名称  | 音乐风格 | 主奏乐器    | 音乐意境  | Suno提示词                                                                                                                                                                                                               |
+| ----- | ---- | ------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 山脉与高原 | 雄伟壮阔 | 长笛、圆号   | 高山仰止  | Majestic grand instrumental music, flute and French horn. Mountain and plateau grandeur, suitable as background music for mountains theme, awe-inspiring and vast, no vocals, pure instrumental, 180 seconds          |
+| 平原与盆地 | 辽阔悠远 | 马头琴、长笛  | 一望无际  | Vast expansive instrumental music, morin khuur (horsehead fiddle) and flute. Plains and basins openness, suitable as background music for plains theme, wide and serene, no vocals, pure instrumental, 180 seconds    |
+| 沙漠与戈壁 | 苍凉孤寂 | 箫、手鼓    | 大漠孤烟  | Desolate lonely instrumental music, xiao (vertical flute) and hand drum. Desert and gobi solitude, suitable as background music for desert theme, haunting and atmospheric, no vocals, pure instrumental, 180 seconds |
+| 河流与湖泊 | 灵动清澈 | 竹笛、古筝   | 潺潺流水  | Flowing clear instrumental music, bamboo flute and guzheng. Rivers and lakes tranquility, suitable as background music for waters theme, gentle and fluid, no vocals, pure instrumental, 180 seconds                  |
+| 大气与天气 | 变幻莫测 | 钢琴、弦乐   | 天空的韵律 | Mysterious changing instrumental music, piano and strings. Weather phenomena and sky rhythms, suitable as background music for atmosphere theme, ethereal and dynamic, no vocals, pure instrumental, 180 seconds      |
+| 地质地貌  | 深沉厚重 | 大提琴、定音鼓 | 地球的脉动 | Deep profound instrumental music, cello and timpani. Geological earth rhythms, suitable as background music for geology theme, grounding and powerful, no vocals, pure instrumental, 180 seconds                      |
+| 古生物化石 | 远古神秘 | 大号、管风琴  | 史前世界  | Ancient mysterious instrumental music, tuba and pipe organ. Prehistoric world atmosphere, suitable as background music for paleontology theme, primeval and awe-inspiring, no vocals, pure instrumental, 180 seconds  |
+| 自然保护区 | 和谐宁静 | 长笛、竖琴   | 自然的和谐 | Peaceful harmonious instrumental music, flute and harp. Nature reserve tranquility, suitable as background music for nature conservation theme, calming and serene, no vocals, pure instrumental, 180 seconds         |
+
+#### 书架四：生物世界（11本）
+
+| 画册名称 | 音乐风格 | 主奏乐器    | 音乐意境   | Suno提示词                                                                                                                                                                                                       |
+| ---- | ---- | ------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 哺乳动物 | 活泼灵动 | 小提琴、木琴  | 生命的活力  | Lively playful instrumental music, violin and xylophone. Mammal vitality and energy, suitable as background music for mammals theme, cheerful and spirited, no vocals, pure instrumental, 180 seconds         |
+| 鸟类   | 轻盈欢快 | 长笛、小提琴  | 翱翔蓝天   | Light joyful instrumental music, flute and violin. Birds soaring in sky, suitable as background music for birds theme, airy and uplifting, no vocals, pure instrumental, 180 seconds                          |
+| 爬行动物 | 神秘缓慢 | 低音提琴、木管 | 远古的爬行者 | Mysterious slow instrumental music, double bass and woodwinds. Ancient reptile mystery, suitable as background music for reptiles theme, intriguing and deliberate, no vocals, pure instrumental, 180 seconds |
+| 鱼类   | 灵动轻快 | 钢琴、木琴   | 水中精灵   | Graceful light instrumental music, piano and xylophone. Underwater fish elegance, suitable as background music for fish theme, fluid and delicate, no vocals, pure instrumental, 180 seconds                  |
+| 昆虫   | 活泼跳跃 | 短笛、铃鼓   | 微小世界   | Playful bouncy instrumental music, piccolo and tambourine. Tiny insect world, suitable as background music for insects theme, lively and whimsical, no vocals, pure instrumental, 180 seconds                 |
+| 树木   | 沉稳舒展 | 大提琴、长笛  | 参天大树   | Calm expansive instrumental music, cello and flute. Majestic trees and forests, suitable as background music for trees theme, grounded and peaceful, no vocals, pure instrumental, 180 seconds                |
+| 花卉   | 优美典雅 | 小提琴、竖琴  | 百花争艳   | Beautiful elegant instrumental music, violin and harp. Flower blossoms in bloom, suitable as background music for flowers theme, graceful and delicate, no vocals, pure instrumental, 180 seconds             |
+| 农作物  | 田园气息 | 手风琴、木吉他 | 丰收的喜悦  | Rustic pastoral instrumental music, accordion and acoustic guitar. Agricultural harvest joy, suitable as background music for crops theme, warm and cheerful, no vocals, pure instrumental, 180 seconds       |
+| 真菌   | 神秘奇幻 | 钢琴、电子音效 | 微观世界   | Mysterious magical instrumental music, piano and electronic effects. Microscopic fungi world, suitable as background music for fungi theme, enchanting and surreal, no vocals, pure instrumental, 180 seconds |
+| 生态系统 | 和谐共生 | 交响乐     | 自然的平衡  | Harmonious symphonic instrumental music. Ecosystem balance and interdependence, suitable as background music for ecosystems theme, cohesive and peaceful, no vocals, pure instrumental, 180 seconds           |
+
+#### 书架五：生活社会（11本）
+
+| 画册名称 | 音乐风格 | 主奏乐器     | 音乐意境  | Suno提示词                                                                                                                                                                                                                     |
+| ---- | ---- | -------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 时尚服饰 | 现代流行 | 电子合成器、吉他 | 潮流前沿  | Modern pop instrumental music, electronic synthesizer and guitar. Fashion trendsetting atmosphere, suitable as background music for fashion theme, stylish and upbeat, no vocals, pure instrumental, 180 seconds            |
+| 美食   | 温馨愉悦 | 钢琴、手风琴   | 美食的诱惑 | Warm delightful instrumental music, piano and accordion. Culinary delights atmosphere, suitable as background music for food theme, cozy and inviting, no vocals, pure instrumental, 180 seconds                            |
+| 居住建筑 | 舒适温馨 | 钢琴、小提琴   | 家的温暖  | Comforting warm instrumental music, piano and violin. Home and living atmosphere, suitable as background music for housing theme, cozy and reassuring, no vocals, pure instrumental, 180 seconds                            |
+| 交通运输 | 动感活力 | 打击乐、电吉他  | 旅途的激情 | Dynamic energetic instrumental music, percussion and electric guitar. Transportation and travel excitement, suitable as background music for transport theme, driving and upbeat, no vocals, pure instrumental, 180 seconds |
+| 节日庆典 | 喜庆热闹 | 锣鼓、唢呐    | 欢乐氛围  | Festive lively instrumental music, gongs, drums and suona. Celebration and festival joy, suitable as background music for festivals theme, exuberant and joyful, no vocals, pure instrumental, 180 seconds                  |
+| 宗教信仰 | 庄严神圣 | 管风琴、颂歌   | 心灵的寄托 | Sacred reverent instrumental music, pipe organ with choral elements. Religious devotion atmosphere, suitable as background music for religion theme, solemn and spiritual, no vocals, pure instrumental, 180 seconds        |
+| 家庭生活 | 温馨和睦 | 钢琴、大提琴   | 家的温暖  | Warm harmonious instrumental music, piano and cello. Family life warmth, suitable as background music for family theme, tender and loving, no vocals, pure instrumental, 180 seconds                                        |
+| 职场工作 | 高效干练 | 电子音乐、钢琴  | 现代职场  | Efficient modern instrumental music, electronic and piano. Workplace productivity atmosphere, suitable as background music for work theme, focused and dynamic, no vocals, pure instrumental, 180 seconds                   |
+| 教育学习 | 求知探索 | 钢琴、小提琴   | 知识的海洋 | Inquisitive exploratory instrumental music, piano and violin. Learning and education atmosphere, suitable as background music for education theme, inspiring and enlightening, no vocals, pure instrumental, 180 seconds    |
+| 体育竞技 | 激情澎湃 | 打击乐、铜管   | 竞技的激情 | Thrilling energetic instrumental music, percussion and brass. Sports competition excitement, suitable as background music for sports theme, intense and motivating, no vocals, pure instrumental, 180 seconds               |
+| 休闲娱乐 | 轻松愉悦 | 吉他、尤克里里  | 休闲时光  | Relaxed cheerful instrumental music, guitar and ukulele. Leisure and entertainment atmosphere, suitable as background music for recreation theme, carefree and happy, no vocals, pure instrumental, 180 seconds             |
+| 健康医疗 | 舒缓放松 | 古琴、古筝    | 身心调养  | Soothing relaxing instrumental music, guqin and guzheng. Health and wellness atmosphere, suitable as background music for healthcare theme, calming and healing, no vocals, pure instrumental, 180 seconds                  |
+
+#### 书架六：科技工业（12本）
+
+| 画册名称  | 音乐风格 | 主奏乐器     | 音乐意境    | Suno提示词                                                                                                                                                                                                                            |
+| ----- | ---- | -------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 数学与物理 | 理性严谨 | 钢琴、电子音效  | 逻辑之美    | Rational precise instrumental music, piano and electronic effects. Mathematics and physics elegance, suitable as background music for math physics theme, logical and structured, no vocals, pure instrumental, 180 seconds        |
+| 化学与生物 | 探索发现 | 钢琴、弦乐    | 微观世界的奥秘 | Discovery exploration instrumental music, piano and strings. Chemistry and biology mysteries, suitable as background music for chemistry biology theme, curious and enlightening, no vocals, pure instrumental, 180 seconds        |
+| 天文学   | 浩瀚宇宙 | 合成器、管风琴  | 星空的深邃   | Vast cosmic instrumental music, synthesizer and pipe organ. Astronomy and space exploration, suitable as background music for astronomy theme, celestial and awe-inspiring, no vocals, pure instrumental, 180 seconds              |
+| 机械电子  | 精密机械 | 电子音效、打击乐 | 科技的力量   | Precision mechanical instrumental music, electronic effects and percussion. Machinery and electronics power, suitable as background music for mechanical theme, precise and powerful, no vocals, pure instrumental, 180 seconds    |
+| 能源    | 磅礴力量 | 铜管、打击乐   | 能源的脉动   | Powerful dynamic instrumental music, brass and percussion. Energy and power generation, suitable as background music for energy theme, monumental and energetic, no vocals, pure instrumental, 180 seconds                         |
+| 土木工程  | 宏伟建设 | 交响乐      | 人类的创造力  | Grand construction instrumental music, symphony orchestra. Civil engineering marvels, suitable as background music for civil engineering theme, monumental and inspiring, no vocals, pure instrumental, 180 seconds                |
+| 信息技术  | 数字时代 | 电子音乐     | 信息的洪流   | Digital age electronic instrumental music. Information technology revolution, suitable as background music for IT theme, futuristic and fast-paced, no vocals, pure instrumental, 180 seconds                                      |
+| 工业生产  | 机械律动 | 打击乐、电子音效 | 生产线的节奏  | Rhythmic mechanical instrumental music, percussion and electronic effects. Industrial production rhythm, suitable as background music for industry theme, rhythmic and powerful, no vocals, pure instrumental, 180 seconds         |
+| 农业与食品 | 田园科技 | 手风琴、吉他   | 现代农业    | Rural technology instrumental music, accordion and guitar. Modern agriculture and food production, suitable as background music for agriculture theme, wholesome and innovative, no vocals, pure instrumental, 180 seconds         |
+| 交通工业  | 速度激情 | 电子音乐、打击乐 | 速度与效率   | Speed and efficiency instrumental music, electronic and percussion. Transportation industry momentum, suitable as background music for transport industry theme, dynamic and fast-paced, no vocals, pure instrumental, 180 seconds |
+
+#### 书架七：综合素材（4本）
+
+| 画册名称 | 音乐风格 | 主奏乐器   | 音乐意境  | Suno提示词                                                                                                                                                                                                                                    |
+| ---- | ---- | ------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 抽象图案 | 抽象实验 | 电子合成器  | 无限想象  | Abstract experimental instrumental music, electronic synthesizer. Boundless imagination and creativity, suitable as background music for abstract art theme, experimental and thought-provoking, no vocals, pure instrumental, 180 seconds |
+| 符号标志 | 简洁明快 | 钢琴、打击乐 | 符号的力量 | Clean crisp instrumental music, piano and percussion. Symbol and logo significance, suitable as background music for symbols theme, concise and impactful, no vocals, pure instrumental, 180 seconds                                       |
+| 纹理材质 | 质感层次 | 氛围音效   | 材质的韵律 | Textural layered ambient instrumental music. Material textures and patterns, suitable as background music for textures theme, atmospheric and immersive, no vocals, pure instrumental, 180 seconds                                         |
+| 综合素材 | 多元融合 | 多种乐器混合 | 包罗万象  | Eclectic fusion instrumental music, mixed instruments. Diverse material collection, suitable as background music for miscellaneous theme, varied and versatile, no vocals, pure instrumental, 180 seconds                                  |
+
+### 8.3 生成流程规范
+
+1. **使用统一模板**：所有音乐生成必须使用上述提示词格式
+2. **时长统一**：统一设置时长为180秒（3分钟）
+3. **格式规范**：选择instrumental模式，确保无 vocals
+4. **风格一致性**：同一书架的音乐建议批量生成，确保风格过渡自然
+5. **质量检查**：生成后检查是否符合意境描述，不符合则调整提示词重新生成
 
