@@ -1,0 +1,38 @@
+{
+    "accounts": [
+        {
+            "name": "火山引擎-即梦",
+            "provider": "volcengine",
+            "api_key": "ark-769a3f8a-9ceb-4556-ae95-d882f7966850-2be63",
+            "model": "doubao-seedream-4-5-251128",
+            "api_url": "https://ark.cn-beijing.volces.com/api/v3/images/generations",
+            "daily_limit": 50,
+            "status": "inactive"
+        },
+        {
+            "name": "硅基流动-Qwen-Image",
+            "provider": "siliconflow",
+            "api_key": "sk-madcpitlmnmuubxuwtuxywinidimsvikavqtqcsmkarbpvau",
+            "model": "Qwen/Qwen-Image",
+            "api_url": "https://api.siliconflow.cn/v1/images/generations",
+            "daily_limit": 200,
+            "status": "active"
+        },
+        {
+            "name": "硅基流动-Kolors",
+            "provider": "siliconflow",
+            "api_key": "sk-madcpitlmnmuubxuwtuxywinidimsvikavqtqcsmkarbpvau",
+            "model": "Kwai-Kolors/Kolors",
+            "api_url": "https://api.siliconflow.cn/v1/images/generations",
+            "daily_limit": 200,
+            "status": "active"
+        }
+    ],
+    "settings": {
+        "retry_on_403": true,
+        "retry_wait_seconds": 60,
+        "max_retries_per_account": 3,
+        "request_delay_seconds": 10,
+        "auto_switch_on_limit": true
+    }
+}

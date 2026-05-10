@@ -11,6 +11,8 @@ signal closed
 @onready var sfx_label: Label = $PanelContainer/MarginContainer/VBoxContainer/SFXContainer/SFXLabel
 @onready var sfx_slider: HSlider = $PanelContainer/MarginContainer/VBoxContainer/SFXContainer/SFXSlider
 @onready var sfx_value_label: Label = $PanelContainer/MarginContainer/VBoxContainer/SFXContainer/SFXValueLabel
+@onready var language_option: OptionButton = $PanelContainer/MarginContainer/VBoxContainer/LanguageContainer/LanguageOptionButton
+@onready var language_label: Label = $PanelContainer/MarginContainer/VBoxContainer/LanguageContainer/LanguageLabel
 @onready var close_button: Button = $PanelContainer/MarginContainer/VBoxContainer/ButtonContainer/CloseButton
 
 func _ready() -> void:
@@ -24,6 +26,7 @@ func _ready() -> void:
 	dim_overlay.gui_input.connect(_on_dim_overlay_input)
 	AudioManager.bgm_volume_changed.connect(_on_bgm_volume_changed)
 	AudioManager.sfx_volume_changed.connect(_on_sfx_volume_changed)
+	language_option.item_selected.connect(_on_language_selected)
 	_update_language()
 
 func _update_language() -> void:
@@ -32,12 +35,23 @@ func _update_language() -> void:
 			title_label.text = "设置"
 			bgm_label.text = "音乐"
 			sfx_label.text = "音效"
+			language_label.text = "语言"
 			close_button.text = "关闭"
+			_update_language_option_items(true)
 		_:
 			title_label.text = "Settings"
 			bgm_label.text = "Music"
 			sfx_label.text = "SFX"
+			language_label.text = "Language"
 			close_button.text = "Close"
+			_update_language_option_items(false)
+	language_option.selected = GameManager.current_language
+
+func _update_language_option_items(is_chinese: bool) -> void:
+	language_option.clear()
+	language_option.add_item("简体中文" if is_chinese else "Simplified Chinese", GameManager.Language.CHINESE)
+	language_option.add_item("English" if is_chinese else "English", GameManager.Language.ENGLISH)
+	language_option.selected = GameManager.current_language
 
 func _update_value_labels() -> void:
 	if bgm_value_label:
@@ -97,6 +111,15 @@ func _on_sfx_volume_changed(value: float) -> void:
 	if sfx_slider:
 		sfx_slider.value = value * 100.0
 	_update_value_labels()
+
+func _on_language_selected(index: int) -> void:
+	var new_language = index as GameManager.Language
+	if new_language != GameManager.current_language:
+		GameManager.current_language = new_language
+		GameManager.language_changed.emit(new_language)
+		GameManager.save_game()
+		_update_language()
+		AudioManager.play_sfx("click")
 
 func _on_close_pressed() -> void:
 	GameManager.settings["bgm_volume"] = AudioManager.bgm_volume

@@ -3,12 +3,19 @@
 [ext_resource type="Script" uid="uid://8d0dh2too1e" path="res://scripts/ui/book_shelf.gd" id="1_dfexf"]
 [ext_resource type="Texture2D" uid="uid://gcstd03niqkb" path="res://assets/images/ui/bookshelf/bookshelf_bg.jpg" id="2_dfexf"]
 [ext_resource type="Texture2D" uid="uid://bb0swdnygkro7" path="res://assets/images/ui/back_button.png" id="3_ma18u"]
+[ext_resource type="PackedScene" uid="uid://chgcpflkirnwe" path="res://scenes/book_button.tscn" id="3_w3vyw"]
 [ext_resource type="Texture2D" uid="uid://dl21gtkbq8vbh" path="res://assets/images/ui/back_button_pressed.png" id="4_g0x57"]
 [ext_resource type="Texture2D" uid="uid://b0i3m271x717t" path="res://assets/images/ui/back_button_hover.png" id="5_yqlnh"]
 [ext_resource type="Texture2D" uid="uid://dcasia28k6lo6" path="res://assets/images/ui/main/main_setting_btn.png" id="6_g0x57"]
 [ext_resource type="Texture2D" uid="uid://dpl27cfsl1lob" path="res://assets/images/ui/main/main_setting_btn_pressed.png" id="7_yqlnh"]
 [ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="8_nup8r"]
-[ext_resource type="PackedScene" path="res://scenes/settings_popup.tscn" id="9_settings"]
+[ext_resource type="Texture2D" uid="uid://4oad7iey6f1f" path="res://assets/images/ui/left_btn.png" id="9_pnj34"]
+[ext_resource type="PackedScene" uid="uid://sb2u2ok8lge" path="res://scenes/settings_popup.tscn" id="9_settings"]
+[ext_resource type="Texture2D" uid="uid://hjb0wm04g805" path="res://assets/images/ui/left_btn_pressed.png" id="10_w3vyw"]
+[ext_resource type="Texture2D" uid="uid://byoi71dxqsf1j" path="res://assets/images/ui/left_btn_hover.png" id="11_kiyxp"]
+[ext_resource type="Texture2D" uid="uid://bc8n0frno81um" path="res://assets/images/ui/right_btn.png" id="12_ol580"]
+[ext_resource type="Texture2D" uid="uid://chtsxgh2gs2js" path="res://assets/images/ui/right_btn_pressed.png" id="13_vybtj"]
+[ext_resource type="Texture2D" uid="uid://dlhx7s1qgcvjf" path="res://assets/images/ui/right_btn_hover.png" id="14_gjber"]
 
 [node name="BookShelf" type="Control" unique_id=1605551044]
 layout_mode = 3
@@ -51,32 +58,47 @@ offset_top = 263.0
 offset_right = 604.0
 offset_bottom = 1153.0
 size_flags_vertical = 3
-theme_override_constants/separation = -6
+theme_override_constants/separation = -4
 
 [node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer" unique_id=1309764569]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
 
+[node name="BookButton" parent="VBoxContainer/HBoxContainer" unique_id=1599415490 instance=ExtResource("3_w3vyw")]
+layout_mode = 2
+
 [node name="HBoxContainer2" type="HBoxContainer" parent="VBoxContainer" unique_id=246378946]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
+
+[node name="BookButton" parent="VBoxContainer/HBoxContainer2" unique_id=1341050979 instance=ExtResource("3_w3vyw")]
+layout_mode = 2
 
 [node name="HBoxContainer3" type="HBoxContainer" parent="VBoxContainer" unique_id=622045638]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
 
+[node name="BookButton" parent="VBoxContainer/HBoxContainer3" unique_id=1901207159 instance=ExtResource("3_w3vyw")]
+layout_mode = 2
+
 [node name="HBoxContainer4" type="HBoxContainer" parent="VBoxContainer" unique_id=2019333368]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
 
+[node name="BookButton" parent="VBoxContainer/HBoxContainer4" unique_id=566111432 instance=ExtResource("3_w3vyw")]
+layout_mode = 2
+
 [node name="HBoxContainer5" type="HBoxContainer" parent="VBoxContainer" unique_id=1025264229]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
+
+[node name="BookButton" parent="VBoxContainer/HBoxContainer5" unique_id=1012347652 instance=ExtResource("3_w3vyw")]
+layout_mode = 2
 
 [node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1995727686]
 
@@ -103,7 +125,37 @@ texture_normal = ExtResource("6_g0x57")
 texture_pressed = ExtResource("7_yqlnh")
 texture_hover = ExtResource("8_nup8r")
 
+[node name="LeftButton" type="TextureButton" parent="CanvasLayer" unique_id=2014256429]
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_top = -57.5
+offset_right = 129.0
+offset_bottom = 57.5
+grow_vertical = 2
+texture_normal = ExtResource("9_pnj34")
+texture_pressed = ExtResource("10_w3vyw")
+texture_hover = ExtResource("11_kiyxp")
+
+[node name="RightButton" type="TextureButton" parent="CanvasLayer" unique_id=1858827941]
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -129.0
+offset_top = -57.5
+offset_bottom = 57.5
+grow_horizontal = 0
+grow_vertical = 2
+texture_normal = ExtResource("12_ol580")
+texture_pressed = ExtResource("13_vybtj")
+texture_hover = ExtResource("14_gjber")
+
+[node name="SettingsPopup" parent="CanvasLayer" unique_id=965494151 instance=ExtResource("9_settings")]
+visible = false
+
 [connection signal="pressed" from="CanvasLayer/BackButton" to="." method="_on_back_pressed"]
 [connection signal="pressed" from="CanvasLayer/SettingsButton" to="." method="_on_settings_pressed"]
-
-[node name="SettingsPopup" parent="CanvasLayer" instance=ExtResource("9_settings")]
+[connection signal="pressed" from="CanvasLayer/LeftButton" to="." method="_on_left_button_pressed"]
+[connection signal="pressed" from="CanvasLayer/RightButton" to="." method="_on_right_button_pressed"]

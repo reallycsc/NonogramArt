@@ -191,6 +191,8 @@ func _build_illustration(picture: Dictionary) -> void:
 
 func _wait_for_free() -> void:
 	while illustration_area.get_child_count() > 0:
+		if not is_inside_tree():
+			return
 		await get_tree().process_frame
 
 
@@ -320,7 +322,7 @@ func _create_illustration_display() -> void:
 			btn.texture_normal = NONOGRAM_BTN_LOCKED
 			btn.texture_hover = NONOGRAM_BTN_LOCKED
 			btn.texture_pressed = NONOGRAM_BTN_LOCKED
-			btn.disabled = true
+			btn.set_meta("locked", true)
 		elif not completed:
 			_set_btn_tex_nonogram(btn, max(puzzle.rows,puzzle.cols))
 		else:
@@ -624,6 +626,11 @@ func _on_illustration_area_resized() -> void:
 
 
 func _on_region_clicked(puzzle: PuzzleData) -> void:
+	var btn = _region_buttons.get(puzzle.id) as TextureButton
+	if btn and btn.has_meta("locked") and btn.get_meta("locked"):
+		AudioManager.play_sfx("click")
+		_show_toast("完成前一张图片即可解锁")
+		return
 	AudioManager.play_sfx("click")
 	GameManager.pending_album_id = current_album_id
 	GameManager.pending_picture_id = current_picture_id
@@ -691,3 +698,46 @@ func _update_page_navigation() -> void:
 	left_button.visible = _current_picture_index > 0
 	right_button.visible = _current_picture_index < _pictures.size() - 1
 	page_num_label.text = "%d/%d" % [_current_picture_index + 1, _pictures.size()]
+
+func _show_toast(message: String) -> void:
+	var panel = PanelContainer.new()
+	var style = StyleBoxFlat.new()
+	style.bg_color = Color(0, 0, 0, 0.6)
+	style.corner_radius_top_left = 8
+	style.corner_radius_top_right = 8
+	style.corner_radius_bottom_right = 8
+	style.corner_radius_bottom_left = 8
+	style.content_margin_left = 16.0
+	style.content_margin_top = 8.0
+	style.content_margin_right = 16.0
+	style.content_margin_bottom = 8.0
+	panel.add_theme_stylebox_override("panel", style)
+	panel.anchor_left = 0.5
+	panel.anchor_right = 0.5
+	panel.anchor_top = 0.5
+	panel.anchor_bottom = 0.5
+	panel.grow_horizontal = Control.GROW_DIRECTION_BOTH
+	panel.grow_vertical = Control.GROW_DIRECTION_BOTH
+	panel.modulate.a = 0.0
+	add_child(panel)
+	panel.offset_left = -panel.size.x / 2
+	panel.offset_top = -panel.size.y / 2
+	panel.offset_right = panel.size.x / 2
+	panel.offset_bottom = panel.size.y / 2
+	var label = Label.new()
+	label.text = message
+	label.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
+	label.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
+	label.label_settings = LabelSettings.new()
+	label.label_settings.font_color = Color.WHITE
+	label.label_settings.font_size = 24
+	label.label_settings.outline_color = Color.BLACK
+	label.label_settings.outline_size = 2
+	panel.add_child(label)
+	var tween = create_tween()
+	tween.set_parallel(true)
+	tween.tween_property(panel, "position:y", panel.position.y - 60, 0.8).set_trans(Tween.TRANS_QUAD).set_ease(Tween.EASE_OUT)
+	tween.tween_property(panel, "modulate:a", 1.0, 0.2)
+	tween.chain().tween_interval(1.0)
+	tween.chain().tween_property(panel, "modulate:a", 0.0, 0.5)
+	tween.chain().tween_callback(panel.queue_free)

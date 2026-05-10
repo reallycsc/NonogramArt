@@ -14,6 +14,10 @@ func _ready() -> void:
 	visible = false
 	restart_button.pressed.connect(_on_restart_pressed)
 	exit_button.pressed.connect(_on_exit_pressed)
+	GameManager.language_changed.connect(_on_language_changed)
+	_update_language()
+
+func _on_language_changed(_lang: int) -> void:
 	_update_language()
 
 func _update_language() -> void:

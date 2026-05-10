@@ -14,7 +14,10 @@
 [ext_resource type="AudioStream" uid="uid://bok5ei2phhmnt" path="res://assets/audio/sfx/congratulations_2.wav" id="6_lwxgr"]
 [ext_resource type="Theme" path="res://resources/themes/chinese_theme.tres" id="8_jmebj"]
 [ext_resource type="Script" uid="uid://lf8ft8oxkoaw" path="res://scripts/nonogram/nonogram_camera.gd" id="9_ijnc3"]
-[ext_resource type="PackedScene" path="res://scenes/game_over_popup.tscn" id="10_gameover"]
+[ext_resource type="PackedScene" uid="uid://b1uflmkyfb3ij" path="res://scenes/game_over_popup.tscn" id="10_gameover"]
+[ext_resource type="Texture2D" uid="uid://tnrl4mi82qws" path="res://assets/images/ui/nonogram/finish_button.png" id="12_0d5t8"]
+[ext_resource type="Texture2D" uid="uid://wwb0if2j73fo" path="res://assets/images/ui/nonogram/finish_button_pressed.png" id="13_mnou7"]
+[ext_resource type="Texture2D" uid="uid://bmhantt3j23fs" path="res://assets/images/ui/nonogram/finish_button_hover.png" id="14_6x2w3"]
 
 [sub_resource type="Curve" id="Curve_lwxgr"]
 _data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(0.25, 0.5), 0.0, 0.0, 0, 0, Vector2(0.5, 0.75), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
@@ -171,28 +174,38 @@ stream = ExtResource("6_lwxgr")
 
 [node name="FinishButton" type="TextureButton" parent="CanvasLayer" unique_id=599412207]
 visible = false
-offset_left = 260.0
-offset_top = 880.0
-offset_right = 460.0
-offset_bottom = 960.0
-theme = ExtResource("8_jmebj")
-
-[node name="Label" type="Label" parent="CanvasLayer/FinishButton" unique_id=1193979969]
-layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
-offset_left = -100.0
-offset_top = -40.0
-offset_right = 100.0
-offset_bottom = 40.0
+offset_left = -118.5
+offset_top = 310.0
+offset_right = 118.5
+offset_bottom = 420.0
 grow_horizontal = 2
 grow_vertical = 2
-theme_override_colors/font_color = Color(1, 1, 1, 1)
-theme_override_font_sizes/font_size = 48
-text = "完成"
+theme = ExtResource("8_jmebj")
+texture_normal = ExtResource("12_0d5t8")
+texture_pressed = ExtResource("13_mnou7")
+texture_hover = ExtResource("14_6x2w3")
+
+[node name="Label" type="Label" parent="CanvasLayer/FinishButton" unique_id=1193979969]
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -132.0
+offset_top = -28.0
+offset_right = -51.0
+offset_bottom = 22.0
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.19215687, 0.27450982, 0.078431375, 1)
+theme_override_font_sizes/font_size = 36
+text = "完 成"
 horizontal_alignment = 1
 vertical_alignment = 1
 
@@ -336,6 +349,9 @@ theme_override_colors/font_color = Color(0.3764706, 0.22352941, 0.07450981, 1)
 text = "鼠标左键+Ctrl：拖动画面"
 vertical_alignment = 1
 
+[node name="GameOverPopup" parent="CanvasLayer" unique_id=1122931534 instance=ExtResource("10_gameover")]
+visible = false
+
 [node name="NonogramCamera" type="Camera2D" parent="." unique_id=407348352]
 position = Vector2(360, 640)
 script = ExtResource("9_ijnc3")
@@ -345,9 +361,6 @@ stream = ExtResource("3_8lnqw")
 
 [node name="ClickCrossAudioPlayer" type="AudioStreamPlayer2D" parent="." unique_id=1837665738]
 stream = ExtResource("4_t65rq")
-
-[node name="GameOverPopup" parent="CanvasLayer" instance=ExtResource("10_gameover")]
-layout_mode = 1
 
 [connection signal="pressed" from="CanvasLayer/BackButton" to="." method="_on_back_button_pressed"]
 [connection signal="pressed" from="CanvasLayer/FinishButtonTest" to="." method="_on_finish_button_test_pressed"]
