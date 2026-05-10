@@ -6,6 +6,7 @@ var book_button_scene: PackedScene = preload("res://scenes/book_button.tscn")
 
 @onready var bookshelf_container: VBoxContainer = $VBoxContainer
 @onready var h_container: HBoxContainer = $VBoxContainer/HBoxContainer
+@onready var settings_popup: Control = $CanvasLayer/SettingsPopup
 
 var bookshelf_list: Array = []
 var current_bookshelf_id: String = ""
@@ -19,6 +20,7 @@ func _ready() -> void:
 		current_bookshelf_id = GameManager.pending_bookshelf_id
 		GameManager.pending_bookshelf_id = ""
 	_load_shelf()
+	AudioManager.play_bgm("main_menu")
 
 func _collect_row_containers() -> void:
 	_row_containers.clear()
@@ -75,3 +77,7 @@ func _wait_for_free() -> void:
 
 func _on_back_pressed() -> void:
 	get_tree().change_scene_to_file("res://scenes/main_menu.tscn")
+
+func _on_settings_pressed() -> void:
+	AudioManager.play_sfx("click")
+	settings_popup.show_settings()

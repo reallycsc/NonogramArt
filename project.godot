@@ -20,6 +20,7 @@ config/features=PackedStringArray("4.6")
 NonogramManager="*uid://b2ja4cpvcqoim"
 GameManager="*res://scripts/autoload/game_manager.gd"
 AnimationManager="*uid://cpbtx1hbc8g2t"
+AudioManager="*res://scripts/autoload/audio_manager.gd"
 
 [display]
 

@@ -18,6 +18,7 @@ extends Control
 @onready var camera: Camera2D = $NonogramCamera
 @onready var click_audio_player: AudioStreamPlayer2D = $ClickAudioPlayer
 @onready var click_cross_audio_player: AudioStreamPlayer2D = $ClickCrossAudioPlayer
+@onready var game_over_popup: Control = $CanvasLayer/GameOverPopup
 
 # 预制场景
 var cell_scene: PackedScene = preload("res://scenes/cell_color.tscn")
@@ -64,6 +65,9 @@ func _ready():
 	GameManager.nonogram_game_over.connect(_on_game_over)
 	GameManager.language_changed.connect(_on_language_changed)
 	
+	game_over_popup.restart_requested.connect(_on_restart_button_pressed)
+	game_over_popup.exit_requested.connect(_on_back_button_pressed)
+	
 	if not NonogramManager.setup_game():
 		printerr("数织关卡初始化失败")
 		return
@@ -83,6 +87,7 @@ func _ready():
 	setup_tips()
 	setup_camera()
 	NonogramManager.check_and_update_after_ready()
+	AudioManager.play_bgm_for_album(_album_id)
 	
 # 设置提示数字
 func setup_hints():
@@ -276,7 +281,7 @@ func _on_game_completed():
 	finish_node.show()
 	finish_rect.scale = Vector2(0.8,0.8)
 	finish_particles.restart()
-	finish_audio_player.play()
+	AudioManager.play_sfx("congratulations")
 	var tween = create_tween()
 	tween.set_parallel(true)
 	AnimationManager.register_tween(tween)
@@ -378,9 +383,11 @@ func _create_pixel_grid_display():
 			
 			var pixel_cell = TextureRect.new()
 			pixel_cell.name = "PixelCell_" + str(x) + "_" + str(y)
+			pixel_cell.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 			pixel_cell.stretch_mode = TextureRect.STRETCH_SCALE
 			pixel_cell.texture = ImageTexture.create_from_image(cell_img)
 			pixel_cell.modulate.a = 0.0
+			pixel_cell.custom_minimum_size = cell_size
 			pixel_cell.size = cell_size
 			pixel_cell.position = cell_start_position + Vector2(float(y) * cell_size.x, float(x) * cell_size.y)
 			
@@ -504,9 +511,9 @@ func _unhandled_input(event: InputEvent) -> void:
 				is_dragging = false
 			else:
 				if button_index == MOUSE_BUTTON_LEFT:
-					click_audio_player.play()
+					AudioManager.play_sfx("nonogram_click")
 				elif button_index == MOUSE_BUTTON_RIGHT:
-					click_cross_audio_player.play()
+					AudioManager.play_sfx("nonogram_click_cross")
 		get_viewport().set_input_as_handled()
 	# 鼠标点击
 	elif event is InputEventMouseButton:
@@ -524,9 +531,9 @@ func _unhandled_input(event: InputEvent) -> void:
 					last_cell_index = cell_index
 					button_index = event.button_index
 					if button_index == MOUSE_BUTTON_LEFT:
-						click_audio_player.play()
+						AudioManager.play_sfx("nonogram_click")
 					elif button_index == MOUSE_BUTTON_RIGHT:
-						click_cross_audio_player.play()
+						AudioManager.play_sfx("nonogram_click_cross")
 		else:
 			cell_state_pair = Vector2i(-1, -1)
 			is_dragging = false
@@ -566,22 +573,16 @@ func _on_life_updated(life: int, x: int = 0, y: int = 0):
 	# 计算生命值变化
 	var change = life - hp_node.current_hp
 	hp_node.hp_change(change)
+	AudioManager.play_sfx("life_change")
 	# 触发相机震动效果
 	camera.shake()
 
 # 游戏结束回调
 func _on_game_over():
-	# 显示游戏结束信息
-	print("游戏结束！生命值耗尽")
-	## 这里可以添加游戏结束的UI显示
-	#gameover_popup_canvas_layer.show()
-	#gameover_panel.scale = Vector2(0.9, 0.9)
-	#var tween = create_tween()
-	#tween.tween_property(gameover_panel, "scale", Vector2.ONE, 0.1)
-	#tween.finished.connect(func():
-		#get_tree().paused = true
-	#)
-	## 例如显示重新开始按钮等
+	is_locked = true
+	tips_node.hide()
+	tips_node2.hide()
+	game_over_popup.show_game_over()
 
 func _on_language_changed(language: int) -> void:
 	setup_tips()

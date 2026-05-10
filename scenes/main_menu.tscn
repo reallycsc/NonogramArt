@@ -8,6 +8,7 @@
 [ext_resource type="Texture2D" uid="uid://dcasia28k6lo6" path="res://assets/images/ui/main/main_setting_btn.png" id="6_lgwnu"]
 [ext_resource type="Texture2D" uid="uid://dpl27cfsl1lob" path="res://assets/images/ui/main/main_setting_btn_pressed.png" id="7_flqon"]
 [ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="8_rcqid"]
+[ext_resource type="PackedScene" path="res://scenes/settings_popup.tscn" id="9_settings"]
 
 [node name="MainMenu" type="Control" unique_id=2008341208]
 layout_mode = 3
@@ -93,3 +94,5 @@ show_percentage = false
 
 [connection signal="pressed" from="StartButton" to="." method="_on_start_pressed"]
 [connection signal="pressed" from="SettingsButton" to="." method="_on_settings_pressed"]
+
+[node name="SettingsPopup" parent="." instance=ExtResource("9_settings")]

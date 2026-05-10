@@ -38,6 +38,7 @@ const REGION_GAP: float = 0.0
 @onready var left_button: TextureButton = $CanvasLayer/LeftButton
 @onready var right_button: TextureButton = $CanvasLayer/RightButton
 @onready var page_num_label: Label = $PageNumLabel
+@onready var settings_popup: Control = $CanvasLayer/SettingsPopup
 
 func _ready() -> void:
 	illustration_area.resized.connect(_on_illustration_area_resized)
@@ -47,6 +48,7 @@ func _ready() -> void:
 		current_album_id = GameManager.pending_album_id
 		GameManager.pending_album_id = ""
 		_load_pictures_list()
+	AudioManager.play_bgm_for_album(current_album_id)
 
 
 func setup(album_id: String) -> void:
@@ -657,6 +659,10 @@ func _on_back_pressed() -> void:
 	if not album.is_empty():
 		GameManager.pending_bookshelf_id = album.get("bookshelf_id", "")
 	get_tree().change_scene_to_file("res://scenes/book_shelf.tscn")
+
+func _on_settings_pressed() -> void:
+	AudioManager.play_sfx("click")
+	settings_popup.show_settings()
 
 
 func _on_left_button_pressed() -> void:

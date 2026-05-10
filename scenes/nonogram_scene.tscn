@@ -14,6 +14,7 @@
 [ext_resource type="AudioStream" uid="uid://bok5ei2phhmnt" path="res://assets/audio/sfx/congratulations_2.wav" id="6_lwxgr"]
 [ext_resource type="Theme" path="res://resources/themes/chinese_theme.tres" id="8_jmebj"]
 [ext_resource type="Script" uid="uid://lf8ft8oxkoaw" path="res://scripts/nonogram/nonogram_camera.gd" id="9_ijnc3"]
+[ext_resource type="PackedScene" path="res://scenes/game_over_popup.tscn" id="10_gameover"]
 
 [sub_resource type="Curve" id="Curve_lwxgr"]
 _data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(0.25, 0.5), 0.0, 0.0, 0, 0, Vector2(0.5, 0.75), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
@@ -344,6 +345,9 @@ stream = ExtResource("3_8lnqw")
 
 [node name="ClickCrossAudioPlayer" type="AudioStreamPlayer2D" parent="." unique_id=1837665738]
 stream = ExtResource("4_t65rq")
+
+[node name="GameOverPopup" parent="CanvasLayer" instance=ExtResource("10_gameover")]
+layout_mode = 1
 
 [connection signal="pressed" from="CanvasLayer/BackButton" to="." method="_on_back_button_pressed"]
 [connection signal="pressed" from="CanvasLayer/FinishButtonTest" to="." method="_on_finish_button_test_pressed"]

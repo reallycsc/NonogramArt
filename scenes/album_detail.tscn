@@ -14,6 +14,7 @@
 [ext_resource type="Texture2D" uid="uid://dcasia28k6lo6" path="res://assets/images/ui/main/main_setting_btn.png" id="12_vk71n"]
 [ext_resource type="Texture2D" uid="uid://dpl27cfsl1lob" path="res://assets/images/ui/main/main_setting_btn_pressed.png" id="13_diffj"]
 [ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="14_w05x7"]
+[ext_resource type="PackedScene" path="res://scenes/settings_popup.tscn" id="15_settings"]
 
 [node name="AlbumDetail" type="Control" unique_id=838641819]
 layout_mode = 3
@@ -162,3 +163,6 @@ texture_hover = ExtResource("14_w05x7")
 [connection signal="pressed" from="CanvasLayer/BackButton" to="." method="_on_back_pressed"]
 [connection signal="pressed" from="CanvasLayer/LeftButton" to="." method="_on_left_button_pressed"]
 [connection signal="pressed" from="CanvasLayer/RightButton" to="." method="_on_right_button_pressed"]
+[connection signal="pressed" from="CanvasLayer/SettingsButton" to="." method="_on_settings_pressed"]
+
+[node name="SettingsPopup" parent="CanvasLayer" instance=ExtResource("15_settings")]

@@ -8,6 +8,7 @@
 [ext_resource type="Texture2D" uid="uid://dcasia28k6lo6" path="res://assets/images/ui/main/main_setting_btn.png" id="6_g0x57"]
 [ext_resource type="Texture2D" uid="uid://dpl27cfsl1lob" path="res://assets/images/ui/main/main_setting_btn_pressed.png" id="7_yqlnh"]
 [ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="8_nup8r"]
+[ext_resource type="PackedScene" path="res://scenes/settings_popup.tscn" id="9_settings"]
 
 [node name="BookShelf" type="Control" unique_id=1605551044]
 layout_mode = 3
@@ -103,3 +104,6 @@ texture_pressed = ExtResource("7_yqlnh")
 texture_hover = ExtResource("8_nup8r")
 
 [connection signal="pressed" from="CanvasLayer/BackButton" to="." method="_on_back_pressed"]
+[connection signal="pressed" from="CanvasLayer/SettingsButton" to="." method="_on_settings_pressed"]
+
+[node name="SettingsPopup" parent="CanvasLayer" instance=ExtResource("9_settings")]
