@@ -76,6 +76,7 @@ func _wait_for_free() -> void:
 			await get_tree().process_frame
 
 func _on_back_pressed() -> void:
+	AudioManager.play_sfx("click")
 	get_tree().change_scene_to_file("res://scenes/main_menu.tscn")
 
 func _on_settings_pressed() -> void:

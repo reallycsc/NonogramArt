@@ -47,6 +47,7 @@ var is_replay: bool = false
 
 var _album_id: String = ""
 var _picture_id: String = ""
+var _picture_index: int = -1
 
 func _ready():
 	# 连接信号
@@ -77,8 +78,10 @@ func _ready():
 		child.queue_free()
 	_album_id = GameManager.pending_album_id
 	_picture_id = GameManager.pending_picture_id
+	_picture_index = GameManager.pending_picture_index
 	GameManager.pending_album_id = ""
 	GameManager.pending_picture_id = ""
+	GameManager.pending_picture_index = -1
 	
 	setup_hints()
 	setup_grid()
@@ -445,19 +448,28 @@ func _on_cell_hover_updated(x: int, y: int, is_hover: bool):
 		cells[x1 * grid_size.y + y].update_hover(is_hover)
 
 func _on_back_button_pressed() -> void:
+	AudioManager.play_sfx("click")
 	GameManager.pending_album_id = _album_id
 	GameManager.pending_picture_id = _picture_id
+	GameManager.pending_picture_index = _picture_index
 	get_tree().change_scene_to_file("res://scenes/album_detail.tscn")
 	
 func _on_restart_button_pressed() -> void:
+	AudioManager.play_sfx("click")
+	GameManager.pending_album_id = _album_id
+	GameManager.pending_picture_id = _picture_id
+	GameManager.pending_picture_index = _picture_index
+	GameManager.pending_puzzle_id = NonogramManager.current_puzzle.id if NonogramManager.current_puzzle else ""
 	get_tree().change_scene_to_file("res://scenes/nonogram_scene.tscn")
 	
 func _on_finish_button_pressed() -> void:
+	AudioManager.play_sfx("click")
 	GameManager.pending_album_id = _album_id
 	GameManager.pending_picture_id = _picture_id
 	get_tree().change_scene_to_file("res://scenes/album_detail.tscn")
 
 func _on_finish_button_test_pressed() -> void:
+	AudioManager.play_sfx("click")
 	$CanvasLayer/FinishButtonTest.hide()
 	_on_game_completed()
 

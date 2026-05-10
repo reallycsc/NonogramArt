@@ -36,5 +36,6 @@ func _on_book_button_pressed() -> void:
 	var unlock_result = GameManager.get_album_unlock_status(album_id)
 	if not unlock_result.unlocked:
 		return
+	AudioManager.play_sfx("click")
 	GameManager.pending_album_id = album_id
 	get_tree().change_scene_to_file("res://scenes/album_detail.tscn")

@@ -624,6 +624,7 @@ func _on_illustration_area_resized() -> void:
 
 
 func _on_region_clicked(puzzle: PuzzleData) -> void:
+	AudioManager.play_sfx("click")
 	GameManager.pending_album_id = current_album_id
 	GameManager.pending_picture_id = current_picture_id
 	GameManager.pending_picture_index = _current_picture_index
@@ -653,6 +654,7 @@ func _generate_placeholder_illustration() -> Image:
 
 
 func _on_back_pressed() -> void:
+	AudioManager.play_sfx("click")
 	GameManager.save_picture_index(current_album_id, _current_picture_index)
 	GameManager.pending_bookshelf_id = ""
 	var album = AlbumDataScript.get_album(current_album_id)
@@ -667,6 +669,7 @@ func _on_settings_pressed() -> void:
 
 func _on_left_button_pressed() -> void:
 	if _current_picture_index > 0:
+		AudioManager.play_sfx("click")
 		_current_picture_index -= 1
 		var picture = _pictures[_current_picture_index]
 		current_picture_id = picture.get("id", "")
@@ -676,6 +679,7 @@ func _on_left_button_pressed() -> void:
 
 func _on_right_button_pressed() -> void:
 	if _current_picture_index < _pictures.size() - 1:
+		AudioManager.play_sfx("click")
 		_current_picture_index += 1
 		var picture = _pictures[_current_picture_index]
 		current_picture_id = picture.get("id", "")
