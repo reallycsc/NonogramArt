@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "transportation_000",
-      "title": "交通运输 - 图片1",
-      "summary": "交通运输相关图片",
-      "full_text": "交通网络是人类文明的重要组成部分，它精彩地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_000.png",
+      "title": "古代马车",
+      "summary": "古代两轮马车木质结构，马匹牵引驰骋官道，古代主要交通工具",
+      "full_text": "古代两轮马车木质结构，马匹牵引驰骋官道，古代主要交通工具",
+      "image": "res://assets/images/illustrations/transportation/transportation_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "transportation_000_4",
         "transportation_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_000_pixel.jpg"
     },
     {
       "id": "transportation_001",
-      "title": "交通运输 - 图片2",
-      "summary": "交通运输相关图片",
-      "full_text": "探索出行方式的世界，仿佛打开了一扇通往灵感源泉的大门，充满了宁静与美好感受。",
-      "image": "res://assets/images/illustrations/transportation/transportation_001.png",
+      "title": "牛车慢行",
+      "summary": "古代牛车缓慢稳健，载货运输农耕使用，朴实无华",
+      "full_text": "古代牛车缓慢稳健，载货运输农耕使用，朴实无华",
+      "image": "res://assets/images/illustrations/transportation/transportation_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "transportation_001_4",
         "transportation_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_001_pixel.jpg"
     },
     {
       "id": "transportation_002",
-      "title": "交通运输 - 图片3",
-      "summary": "交通运输相关图片",
-      "full_text": "探索现代交通的世界，仿佛打开了一扇通往灵感源泉的大门，充满了喜悦与美好感受。",
-      "image": "res://assets/images/illustrations/transportation/transportation_002.png",
+      "title": "八抬大轿",
+      "summary": "八抬大轿雕花彩绘，轿夫抬行达官贵人，等级象征",
+      "full_text": "八抬大轿雕花彩绘，轿夫抬行达官贵人，等级象征",
+      "image": "res://assets/images/illustrations/transportation/transportation_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "transportation_002_4",
         "transportation_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_002_pixel.jpg"
     },
     {
       "id": "transportation_003",
-      "title": "交通运输 - 图片4",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行是情感表达的结晶，它传递着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/transportation/transportation_003.png",
+      "title": "帆船远航",
+      "summary": "古代帆船风帆鼓满，借助风力横渡大洋，大航海时代",
+      "full_text": "古代帆船风帆鼓满，借助风力横渡大洋，大航海时代",
+      "image": "res://assets/images/illustrations/transportation/transportation_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "transportation_003_4",
         "transportation_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_003_pixel.jpg"
     },
     {
       "id": "transportation_004",
-      "title": "交通运输 - 图片5",
-      "summary": "交通运输相关图片",
-      "full_text": "在城市动脉的领域里，人文景观展现得淋漓尽致，每一个文化符号都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/transportation/transportation_004.png",
+      "title": "乌篷船",
+      "summary": "江南乌篷船摇橹而行，黑篷遮阳穿行水巷，水乡风情",
+      "full_text": "江南乌篷船摇橹而行，黑篷遮阳穿行水巷，水乡风情",
+      "image": "res://assets/images/illustrations/transportation/transportation_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "transportation_004_4",
         "transportation_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_004_pixel.jpg"
     },
     {
       "id": "transportation_005",
-      "title": "交通运输 - 图片6",
-      "summary": "交通运输相关图片",
-      "full_text": "在交通网络的领域里，人文景观展现得淋漓尽致，每一个情感都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/transportation/transportation_005.png",
+      "title": "骆驼商队",
+      "summary": "丝绸之路骆驼商队，驼铃叮当穿越沙漠，东西贸易桥梁",
+      "full_text": "丝绸之路骆驼商队，驼铃叮当穿越沙漠，东西贸易桥梁",
+      "image": "res://assets/images/illustrations/transportation/transportation_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "transportation_005_4",
         "transportation_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_005_pixel.jpg"
     },
     {
       "id": "transportation_006",
-      "title": "交通运输 - 图片7",
-      "summary": "交通运输相关图片",
-      "full_text": "在出行方式的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/transportation/transportation_006.png",
+      "title": "独木舟",
+      "summary": "原始独木舟整木凿成，桨划穿行河流湖泊，最古老的水上交通",
+      "full_text": "原始独木舟整木凿成，桨划穿行河流湖泊，最古老的水上交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "transportation_006_4",
         "transportation_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_006_pixel.jpg"
     },
     {
       "id": "transportation_007",
-      "title": "交通运输 - 图片8",
-      "summary": "交通运输相关图片",
-      "full_text": "现代交通是自然造化的结晶，它引领着生活的智慧，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/transportation/transportation_007.png",
+      "title": "竹筏渡河",
+      "summary": "竹筏绑扎竹竿而成，顺流而下轻便实用，南方水乡常见",
+      "full_text": "竹筏绑扎竹竿而成，顺流而下轻便实用，南方水乡常见",
+      "image": "res://assets/images/illustrations/transportation/transportation_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "transportation_007_4",
         "transportation_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_007_pixel.jpg"
     },
     {
       "id": "transportation_008",
-      "title": "交通运输 - 图片9",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行是人类文明的重要组成部分，它精致地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_008.png",
+      "title": "驿站快马",
+      "summary": "古代驿站快马传递，换马不换人日夜兼程，信息高速通道",
+      "full_text": "古代驿站快马传递，换马不换人日夜兼程，信息高速通道",
+      "image": "res://assets/images/illustrations/transportation/transportation_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "transportation_008_4",
         "transportation_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_008_pixel.jpg"
     },
     {
       "id": "transportation_009",
-      "title": "交通运输 - 图片10",
-      "summary": "交通运输相关图片",
-      "full_text": "城市动脉是人类文明的重要组成部分，它庄重地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_009.png",
+      "title": "象队行进",
+      "summary": "东南亚象队驮运货物，大象稳健穿越丛林，力量与温顺",
+      "full_text": "东南亚象队驮运货物，大象稳健穿越丛林，力量与温顺",
+      "image": "res://assets/images/illustrations/transportation/transportation_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "transportation_009_4",
         "transportation_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_009_pixel.jpg"
     },
     {
       "id": "transportation_010",
-      "title": "交通运输 - 图片11",
-      "summary": "交通运输相关图片",
-      "full_text": "交通网络是人类文明的重要组成部分，它独特地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_010.png",
+      "title": "雪橇犬队",
+      "summary": "北极雪橇犬队拉雪橇，哈士奇奔跑冰原，极地交通方式",
+      "full_text": "北极雪橇犬队拉雪橇，哈士奇奔跑冰原，极地交通方式",
+      "image": "res://assets/images/illustrations/transportation/transportation_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "transportation_010_4",
         "transportation_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_010_pixel.jpg"
     },
     {
       "id": "transportation_011",
-      "title": "交通运输 - 图片12",
-      "summary": "交通运输相关图片",
-      "full_text": "出行方式是人类文明的重要组成部分，它质朴地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_011.png",
+      "title": "贡多拉",
+      "summary": "威尼斯贡多拉黑色弯月形，船夫摇橹穿行水巷，浪漫水上交通",
+      "full_text": "威尼斯贡多拉黑色弯月形，船夫摇橹穿行水巷，浪漫水上交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "transportation_011_4",
         "transportation_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_011_pixel.jpg"
     },
     {
       "id": "transportation_012",
-      "title": "交通运输 - 图片13",
-      "summary": "交通运输相关图片",
-      "full_text": "探索现代交通的世界，仿佛打开了一扇通往历史长河的大门，充满了温馨与思想启迪。",
-      "image": "res://assets/images/illustrations/transportation/transportation_012.png",
+      "title": "人力车",
+      "summary": "人力车夫拉车奔跑，两轮载人穿街走巷，近代城市交通",
+      "full_text": "人力车夫拉车奔跑，两轮载人穿街走巷，近代城市交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "transportation_012_4",
         "transportation_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_012_pixel.jpg"
     },
     {
       "id": "transportation_013",
-      "title": "交通运输 - 图片14",
-      "summary": "交通运输相关图片",
-      "full_text": "探索便捷出行的世界，仿佛打开了一扇通往精神家园的大门，充满了沉醉与文化浸润。",
-      "image": "res://assets/images/illustrations/transportation/transportation_013.png",
+      "title": "驴车赶集",
+      "summary": "乡村驴车赶集载货，毛驴稳健小路穿行，田园生活场景",
+      "full_text": "乡村驴车赶集载货，毛驴稳健小路穿行，田园生活场景",
+      "image": "res://assets/images/illustrations/transportation/transportation_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "transportation_013_4",
         "transportation_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_013_pixel.jpg"
     },
     {
       "id": "transportation_014",
-      "title": "交通运输 - 图片15",
-      "summary": "交通运输相关图片",
-      "full_text": "城市动脉不仅创造了自然之美，更传递了美的真谛，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/transportation/transportation_014.png",
+      "title": "滑竿抬行",
+      "summary": "山地滑竿两杆抬行，游客坐椅上山下山，崎岖山路代步",
+      "full_text": "山地滑竿两杆抬行，游客坐椅上山下山，崎岖山路代步",
+      "image": "res://assets/images/illustrations/transportation/transportation_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "transportation_014_4",
         "transportation_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_014_pixel.jpg"
     },
     {
       "id": "transportation_015",
-      "title": "交通运输 - 图片16",
-      "summary": "交通运输相关图片",
-      "full_text": "交通网络不仅传承了历史记忆，更传递了生命的意义，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/transportation/transportation_015.png",
+      "title": "龙船竞渡",
+      "summary": "端午龙船竞渡鼓声震天，众人划桨破浪前行，传统水上竞技",
+      "full_text": "端午龙船竞渡鼓声震天，众人划桨破浪前行，传统水上竞技",
+      "image": "res://assets/images/illustrations/transportation/transportation_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "transportation_015_4",
         "transportation_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_015_pixel.jpg"
     },
     {
       "id": "transportation_016",
-      "title": "交通运输 - 图片17",
-      "summary": "交通运输相关图片",
-      "full_text": "在出行方式的领域里，科技进步展现得淋漓尽致，每一个细节都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/transportation/transportation_016.png",
+      "title": "蒸汽火车",
+      "summary": "蒸汽火车喷吐白烟，铁轨轰鸣连接城市，工业革命象征",
+      "full_text": "蒸汽火车喷吐白烟，铁轨轰鸣连接城市，工业革命象征",
+      "image": "res://assets/images/illustrations/transportation/transportation_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "transportation_016_4",
         "transportation_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_016_pixel.jpg"
     },
     {
       "id": "transportation_017",
-      "title": "交通运输 - 图片18",
-      "summary": "交通运输相关图片",
-      "full_text": "现代交通不仅诠释了艺术真谛，更传递了真善美的追求，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/transportation/transportation_017.png",
+      "title": "早期汽车",
+      "summary": "福特T型车流水线生产，黑色箱式汽车开启大众出行时代",
+      "full_text": "福特T型车流水线生产，黑色箱式汽车开启大众出行时代",
+      "image": "res://assets/images/illustrations/transportation/transportation_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "transportation_017_4",
         "transportation_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_017_pixel.jpg"
     },
     {
       "id": "transportation_018",
-      "title": "交通运输 - 图片19",
-      "summary": "交通运输相关图片",
-      "full_text": "在便捷出行的领域里，科学发现展现得淋漓尽致，每一个自然元素都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/transportation/transportation_018.png",
+      "title": "齐柏林飞艇",
+      "summary": "齐柏林飞艇巨大气囊，空中缓慢飘行，早期航空梦想",
+      "full_text": "齐柏林飞艇巨大气囊，空中缓慢飘行，早期航空梦想",
+      "image": "res://assets/images/illustrations/transportation/transportation_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "transportation_018_4",
         "transportation_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_018_pixel.jpg"
     },
     {
       "id": "transportation_019",
-      "title": "交通运输 - 图片20",
-      "summary": "交通运输相关图片",
-      "full_text": "在城市动脉的领域里，艺术创造展现得淋漓尽致，每一个思想都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/transportation/transportation_019.png",
+      "title": "有轨电车",
+      "summary": "有轨电车沿轨道行驶，叮叮铃声穿城而过，近代城市记忆",
+      "full_text": "有轨电车沿轨道行驶，叮叮铃声穿城而过，近代城市记忆",
+      "image": "res://assets/images/illustrations/transportation/transportation_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "transportation_019_4",
         "transportation_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_019_pixel.jpg"
     },
     {
       "id": "transportation_020",
-      "title": "交通运输 - 图片21",
-      "summary": "交通运输相关图片",
-      "full_text": "交通网络是人类文明的重要组成部分，它质朴地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_020.png",
+      "title": "黄包车",
+      "summary": "黄包车夫拉车穿行，两轮载人老城街巷，民国城市风景",
+      "full_text": "黄包车夫拉车穿行，两轮载人老城街巷，民国城市风景",
+      "image": "res://assets/images/illustrations/transportation/transportation_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "transportation_020_4",
         "transportation_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_020_pixel.jpg"
     },
     {
       "id": "transportation_021",
-      "title": "交通运输 - 图片22",
-      "summary": "交通运输相关图片",
-      "full_text": "在出行方式的领域里，艺术创造展现得淋漓尽致，每一个文化符号都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/transportation/transportation_021.png",
+      "title": "蒸汽轮船",
+      "summary": "蒸汽轮船烟囱冒烟，螺旋桨推进横渡大洋，航运革命",
+      "full_text": "蒸汽轮船烟囱冒烟，螺旋桨推进横渡大洋，航运革命",
+      "image": "res://assets/images/illustrations/transportation/transportation_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "transportation_021_4",
         "transportation_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_021_pixel.jpg"
     },
     {
       "id": "transportation_022",
-      "title": "交通运输 - 图片23",
-      "summary": "交通运输相关图片",
-      "full_text": "现代交通是艺术创造的结晶，它创造着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/transportation/transportation_022.png",
+      "title": "双翼飞机",
+      "summary": "早期双翼飞机木布结构，螺旋桨驱动，航空先驱冒险",
+      "full_text": "早期双翼飞机木布结构，螺旋桨驱动，航空先驱冒险",
+      "image": "res://assets/images/illustrations/transportation/transportation_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "transportation_022_4",
         "transportation_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_022_pixel.jpg"
     },
     {
       "id": "transportation_023",
-      "title": "交通运输 - 图片24",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行是思想升华的结晶，它引领着生活的智慧，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/transportation/transportation_023.png",
+      "title": "无轨电车",
+      "summary": "无轨电车架空线供电，橡胶轮胎灵活行驶，城市公交",
+      "full_text": "无轨电车架空线供电，橡胶轮胎灵活行驶，城市公交",
+      "image": "res://assets/images/illustrations/transportation/transportation_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "transportation_023_4",
         "transportation_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_023_pixel.jpg"
     },
     {
       "id": "transportation_024",
-      "title": "交通运输 - 图片25",
-      "summary": "交通运输相关图片",
-      "full_text": "在城市动脉的领域里，自然奇观展现得淋漓尽致，每一个色彩都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/transportation/transportation_024.png",
+      "title": "摩托车兴起",
+      "summary": "摩托车灵活穿行，引擎轰鸣自由驰骋，速度与激情",
+      "full_text": "摩托车灵活穿行，引擎轰鸣自由驰骋，速度与激情",
+      "image": "res://assets/images/illustrations/transportation/transportation_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "transportation_024_4",
         "transportation_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_024_pixel.jpg"
     },
     {
       "id": "transportation_025",
-      "title": "交通运输 - 图片26",
-      "summary": "交通运输相关图片",
-      "full_text": "交通网络不仅诠释了生活哲理，更传递了情感的力量，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/transportation/transportation_025.png",
+      "title": "绿皮火车",
+      "summary": "绿皮火车慢行铁路，硬座车厢人声鼎沸，几代人出行记忆",
+      "full_text": "绿皮火车慢行铁路，硬座车厢人声鼎沸，几代人出行记忆",
+      "image": "res://assets/images/illustrations/transportation/transportation_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "transportation_025_4",
         "transportation_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_025_pixel.jpg"
     },
     {
       "id": "transportation_026",
-      "title": "交通运输 - 图片27",
-      "summary": "交通运输相关图片",
-      "full_text": "探索出行方式的世界，仿佛打开了一扇通往历史长河的大门，充满了震撼与美好感受。",
-      "image": "res://assets/images/illustrations/transportation/transportation_026.png",
+      "title": "自行车王国",
+      "summary": "中国曾是自行车王国，凤凰永久牌穿行大街小巷，绿色出行",
+      "full_text": "中国曾是自行车王国，凤凰永久牌穿行大街小巷，绿色出行",
+      "image": "res://assets/images/illustrations/transportation/transportation_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "transportation_026_4",
         "transportation_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_026_pixel.jpg"
     },
     {
       "id": "transportation_027",
-      "title": "交通运输 - 图片28",
-      "summary": "交通运输相关图片",
-      "full_text": "在现代交通的领域里，科技进步展现得淋漓尽致，每一个线条都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/transportation/transportation_027.png",
+      "title": "长江轮渡",
+      "summary": "长江轮渡载车载人，汽笛鸣响横渡江面，南北交通纽带",
+      "full_text": "长江轮渡载车载人，汽笛鸣响横渡江面，南北交通纽带",
+      "image": "res://assets/images/illustrations/transportation/transportation_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "transportation_027_4",
         "transportation_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_027_pixel.jpg"
     },
     {
       "id": "transportation_028",
-      "title": "交通运输 - 图片29",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行是时代精神的结晶，它诠释着生活的智慧，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/transportation/transportation_028.png",
+      "title": "缆车登山",
+      "summary": "山地缆车钢索牵引，陡坡上行俯瞰山谷，景区观光交通",
+      "full_text": "山地缆车钢索牵引，陡坡上行俯瞰山谷，景区观光交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "transportation_028_4",
         "transportation_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_028_pixel.jpg"
     },
     {
       "id": "transportation_029",
-      "title": "交通运输 - 图片30",
-      "summary": "交通运输相关图片",
-      "full_text": "城市动脉是时代精神的结晶，它创造着创新的理念，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/transportation/transportation_029.png",
+      "title": "三轮车",
+      "summary": "三轮车后斗载人载货，脚踏穿行老城，市井生活气息",
+      "full_text": "三轮车后斗载人载货，脚踏穿行老城，市井生活气息",
+      "image": "res://assets/images/illustrations/transportation/transportation_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "transportation_029_4",
         "transportation_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_029_pixel.jpg"
     },
     {
       "id": "transportation_030",
-      "title": "交通运输 - 图片31",
-      "summary": "交通运输相关图片",
-      "full_text": "交通网络是思想升华的结晶，它记录着科学的精神，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/transportation/transportation_030.png",
+      "title": "高铁列车",
+      "summary": "中国高铁复兴号时速350公里，流线型车头贴地飞行",
+      "full_text": "中国高铁复兴号时速350公里，流线型车头贴地飞行",
+      "image": "res://assets/images/illustrations/transportation/transportation_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "transportation_030_4",
         "transportation_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_030_pixel.jpg"
     },
     {
       "id": "transportation_031",
-      "title": "交通运输 - 图片32",
-      "summary": "交通运输相关图片",
-      "full_text": "探索出行方式的世界，仿佛打开了一扇通往文化宝库的大门，充满了憧憬与视觉享受。",
-      "image": "res://assets/images/illustrations/transportation/transportation_031.png",
+      "title": "城市地铁",
+      "summary": "城市地铁穿行地下，准时高效缓解拥堵，都市通勤动脉",
+      "full_text": "城市地铁穿行地下，准时高效缓解拥堵，都市通勤动脉",
+      "image": "res://assets/images/illustrations/transportation/transportation_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "transportation_031_4",
         "transportation_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_031_pixel.jpg"
     },
     {
       "id": "transportation_032",
-      "title": "交通运输 - 图片33",
-      "summary": "交通运输相关图片",
-      "full_text": "现代交通不仅塑造了生命意义，更传递了文化的传承，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/transportation/transportation_032.png",
+      "title": "共享单车",
+      "summary": "共享单车扫码即骑，解决最后一公里，绿色出行新方式",
+      "full_text": "共享单车扫码即骑，解决最后一公里，绿色出行新方式",
+      "image": "res://assets/images/illustrations/transportation/transportation_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "transportation_032_4",
         "transportation_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_032_pixel.jpg"
     },
     {
       "id": "transportation_033",
-      "title": "交通运输 - 图片34",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行是历史积淀的结晶，它表达着人类的梦想，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/transportation/transportation_033.png",
+      "title": "网约车出行",
+      "summary": "网约车手机叫车，定位派单便捷出行，共享经济典范",
+      "full_text": "网约车手机叫车，定位派单便捷出行，共享经济典范",
+      "image": "res://assets/images/illustrations/transportation/transportation_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "transportation_033_4",
         "transportation_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_033_pixel.jpg"
     },
     {
       "id": "transportation_034",
-      "title": "交通运输 - 图片35",
-      "summary": "交通运输相关图片",
-      "full_text": "城市动脉是生活体验的结晶，它创造着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/transportation/transportation_034.png",
+      "title": "电动自行车",
+      "summary": "电动自行车轻便省力，城市穿行灵活，中国家庭常见代步",
+      "full_text": "电动自行车轻便省力，城市穿行灵活，中国家庭常见代步",
+      "image": "res://assets/images/illustrations/transportation/transportation_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "transportation_034_4",
         "transportation_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_034_pixel.jpg"
     },
     {
       "id": "transportation_035",
-      "title": "交通运输 - 图片36",
-      "summary": "交通运输相关图片",
-      "full_text": "在交通网络的领域里，科学发现展现得淋漓尽致，每一个历史印记都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/transportation/transportation_035.png",
+      "title": "城市公交",
+      "summary": "城市公交车线路覆盖，刷卡乘车经济实惠，大众出行方式",
+      "full_text": "城市公交车线路覆盖，刷卡乘车经济实惠，大众出行方式",
+      "image": "res://assets/images/illustrations/transportation/transportation_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "transportation_035_4",
         "transportation_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_035_pixel.jpg"
     },
     {
       "id": "transportation_036",
-      "title": "交通运输 - 图片37",
-      "summary": "交通运输相关图片",
-      "full_text": "在出行方式的领域里，人类智慧展现得淋漓尽致，每一个光影都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/transportation/transportation_036.png",
+      "title": "磁悬浮列车",
+      "summary": "上海磁悬浮列车悬浮运行，最高时速431公里，无声疾驰",
+      "full_text": "上海磁悬浮列车悬浮运行，最高时速431公里，无声疾驰",
+      "image": "res://assets/images/illustrations/transportation/transportation_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "transportation_036_4",
         "transportation_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_036_pixel.jpg"
     },
     {
       "id": "transportation_037",
-      "title": "交通运输 - 图片38",
-      "summary": "交通运输相关图片",
-      "full_text": "现代交通不仅塑造了历史记忆，更传递了情感的力量，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/transportation/transportation_037.png",
+      "title": "BRT快速公交",
+      "summary": "BRT快速公交专用道，大容量高效率，低成本轨道交通替代",
+      "full_text": "BRT快速公交专用道，大容量高效率，低成本轨道交通替代",
+      "image": "res://assets/images/illustrations/transportation/transportation_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "transportation_037_4",
         "transportation_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_037_pixel.jpg"
     },
     {
       "id": "transportation_038",
-      "title": "交通运输 - 图片39",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行不仅塑造了人类文明，更传递了人与自然的和谐，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/transportation/transportation_038.png",
+      "title": "电动公交",
+      "summary": "电动公交车零排放低噪音，充电桩配套，绿色公共交通",
+      "full_text": "电动公交车零排放低噪音，充电桩配套，绿色公共交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "transportation_038_4",
         "transportation_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_038_pixel.jpg"
     },
     {
       "id": "transportation_039",
-      "title": "交通运输 - 图片40",
-      "summary": "交通运输相关图片",
-      "full_text": "探索城市动脉的世界，仿佛打开了一扇通往智慧天地的大门，充满了好奇与知识启迪。",
-      "image": "res://assets/images/illustrations/transportation/transportation_039.png",
+      "title": "自动驾驶汽车",
+      "summary": "自动驾驶汽车激光雷达，AI感知决策，未来出行革命",
+      "full_text": "自动驾驶汽车激光雷达，AI感知决策，未来出行革命",
+      "image": "res://assets/images/illustrations/transportation/transportation_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "transportation_039_4",
         "transportation_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_039_pixel.jpg"
     },
     {
       "id": "transportation_040",
-      "title": "交通运输 - 图片41",
-      "summary": "交通运输相关图片",
-      "full_text": "在交通网络的领域里，社会发展展现得淋漓尽致，每一个光影都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/transportation/transportation_040.png",
+      "title": "飞行汽车",
+      "summary": "飞行汽车概念设计，陆空两用，未来立体交通愿景",
+      "full_text": "飞行汽车概念设计，陆空两用，未来立体交通愿景",
+      "image": "res://assets/images/illustrations/transportation/transportation_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "transportation_040_4",
         "transportation_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_040_pixel.jpg"
     },
     {
       "id": "transportation_041",
-      "title": "交通运输 - 图片42",
-      "summary": "交通运输相关图片",
-      "full_text": "探索出行方式的世界，仿佛打开了一扇通往自然奇观的大门，充满了沉思与情感共鸣。",
-      "image": "res://assets/images/illustrations/transportation/transportation_041.png",
+      "title": "超级高铁",
+      "summary": "超级高铁真空管道运行，理论时速超千公里，未来交通概念",
+      "full_text": "超级高铁真空管道运行，理论时速超千公里，未来交通概念",
+      "image": "res://assets/images/illustrations/transportation/transportation_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "transportation_041_4",
         "transportation_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_041_pixel.jpg"
     },
     {
       "id": "transportation_042",
-      "title": "交通运输 - 图片43",
-      "summary": "交通运输相关图片",
-      "full_text": "在现代交通的领域里，科技进步展现得淋漓尽致，每一个历史印记都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/transportation/transportation_042.png",
+      "title": "无人配送车",
+      "summary": "无人配送车自动导航，快递外卖最后一公里，智能物流",
+      "full_text": "无人配送车自动导航，快递外卖最后一公里，智能物流",
+      "image": "res://assets/images/illustrations/transportation/transportation_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "transportation_042_4",
         "transportation_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_042_pixel.jpg"
     },
     {
       "id": "transportation_043",
-      "title": "交通运输 - 图片44",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行是人类文明的重要组成部分，它精彩地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_043.png",
+      "title": "电动滑板车",
+      "summary": "电动滑板车折叠便携，短途代步时尚轻便，城市微出行",
+      "full_text": "电动滑板车折叠便携，短途代步时尚轻便，城市微出行",
+      "image": "res://assets/images/illustrations/transportation/transportation_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "transportation_043_4",
         "transportation_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_043_pixel.jpg"
     },
     {
       "id": "transportation_044",
-      "title": "交通运输 - 图片45",
-      "summary": "交通运输相关图片",
-      "full_text": "城市动脉是艺术创造的结晶，它记录着艺术的追求，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/transportation/transportation_044.png",
+      "title": "空中缆车通勤",
+      "summary": "空中缆车城市通勤，跨越山河拥堵，拉美城市创新交通",
+      "full_text": "空中缆车城市通勤，跨越山河拥堵，拉美城市创新交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "transportation_044_4",
         "transportation_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_044_pixel.jpg"
     },
     {
       "id": "transportation_045",
-      "title": "交通运输 - 图片46",
-      "summary": "交通运输相关图片",
-      "full_text": "在交通网络的领域里，社会发展展现得淋漓尽致，每一个瞬间都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/transportation/transportation_045.png",
+      "title": "水上巴士",
+      "summary": "水上巴士河道穿行，威尼斯曼谷水上公交，独特城市交通",
+      "full_text": "水上巴士河道穿行，威尼斯曼谷水上公交，独特城市交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "transportation_045_4",
         "transportation_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_045_pixel.jpg"
     },
     {
       "id": "transportation_046",
-      "title": "交通运输 - 图片47",
-      "summary": "交通运输相关图片",
-      "full_text": "探索出行方式的世界，仿佛打开了一扇通往梦想世界的大门，充满了敬畏与心灵震撼。",
-      "image": "res://assets/images/illustrations/transportation/transportation_046.png",
+      "title": "智能交通系统",
+      "summary": "智能交通系统信号联动，大数据优化路线，缓解城市拥堵",
+      "full_text": "智能交通系统信号联动，大数据优化路线，缓解城市拥堵",
+      "image": "res://assets/images/illustrations/transportation/transportation_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "transportation_046_4",
         "transportation_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_046_pixel.jpg"
     },
     {
       "id": "transportation_047",
-      "title": "交通运输 - 图片48",
-      "summary": "交通运输相关图片",
-      "full_text": "在现代交通的领域里，生态保护展现得淋漓尽致，每一个情感都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/transportation/transportation_047.png",
+      "title": "新能源充电桩",
+      "summary": "新能源充电桩遍布城市，快充技术缩短等待，电动出行保障",
+      "full_text": "新能源充电桩遍布城市，快充技术缩短等待，电动出行保障",
+      "image": "res://assets/images/illustrations/transportation/transportation_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "transportation_047_4",
         "transportation_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_047_pixel.jpg"
     },
     {
       "id": "transportation_048",
-      "title": "交通运输 - 图片49",
-      "summary": "交通运输相关图片",
-      "full_text": "在便捷出行的领域里，艺术创造展现得淋漓尽致，每一个历史印记都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/transportation/transportation_048.png",
+      "title": "城际铁路",
+      "summary": "城际铁路连接城市群，一小时通勤圈，区域一体化纽带",
+      "full_text": "城际铁路连接城市群，一小时通勤圈，区域一体化纽带",
+      "image": "res://assets/images/illustrations/transportation/transportation_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "transportation_048_4",
         "transportation_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_048_pixel.jpg"
     },
     {
       "id": "transportation_049",
-      "title": "交通运输 - 图片50",
-      "summary": "交通运输相关图片",
-      "full_text": "城市动脉不仅描绘了人类文明，更传递了文化的传承，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/transportation/transportation_049.png",
+      "title": "无障碍交通",
+      "summary": "无障碍交通低地板公交，盲道轮椅坡道，关爱特殊群体",
+      "full_text": "无障碍交通低地板公交，盲道轮椅坡道，关爱特殊群体",
+      "image": "res://assets/images/illustrations/transportation/transportation_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "transportation_049_4",
         "transportation_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_049_pixel.jpg"
     },
     {
       "id": "transportation_050",
-      "title": "交通运输 - 图片51",
-      "summary": "交通运输相关图片",
-      "full_text": "在交通网络的领域里，历史变迁展现得淋漓尽致，每一个线条都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/transportation/transportation_050.png",
+      "title": "交通枢纽综合体",
+      "summary": "交通枢纽高铁地铁公交换乘，商业办公一体，城市门户",
+      "full_text": "交通枢纽高铁地铁公交换乘，商业办公一体，城市门户",
+      "image": "res://assets/images/illustrations/transportation/transportation_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "transportation_050_4",
         "transportation_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_050_pixel.jpg"
     },
     {
       "id": "transportation_051",
-      "title": "交通运输 - 图片52",
-      "summary": "交通运输相关图片",
-      "full_text": "出行方式不仅传承了艺术真谛，更传递了美的真谛，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/transportation/transportation_051.png",
+      "title": "共享汽车",
+      "summary": "共享汽车分时租赁，手机取还车，按需出行经济环保",
+      "full_text": "共享汽车分时租赁，手机取还车，按需出行经济环保",
+      "image": "res://assets/images/illustrations/transportation/transportation_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "transportation_051_4",
         "transportation_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_051_pixel.jpg"
     },
     {
       "id": "transportation_052",
-      "title": "交通运输 - 图片53",
-      "summary": "交通运输相关图片",
-      "full_text": "现代交通是人类文明的重要组成部分，它精彩地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_052.png",
+      "title": "氢能源公交",
+      "summary": "氢燃料电池公交车，排放仅水蒸气，零污染绿色交通",
+      "full_text": "氢燃料电池公交车，排放仅水蒸气，零污染绿色交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "transportation_052_4",
         "transportation_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_052_pixel.jpg"
     },
     {
       "id": "transportation_053",
-      "title": "交通运输 - 图片54",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行是人类文明的重要组成部分，它和谐地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_053.png",
+      "title": "立体停车库",
+      "summary": "立体停车库机械升降，空间利用率翻倍，解决城市停车难",
+      "full_text": "立体停车库机械升降，空间利用率翻倍，解决城市停车难",
+      "image": "res://assets/images/illustrations/transportation/transportation_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "transportation_053_4",
         "transportation_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_053_pixel.jpg"
     },
     {
       "id": "transportation_054",
-      "title": "交通运输 - 图片55",
-      "summary": "交通运输相关图片",
-      "full_text": "城市动脉是人类文明的重要组成部分，它独特地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_054.png",
+      "title": "空中出租车",
+      "summary": "空中出租车电动垂直起降，避开地面拥堵，未来空中出行",
+      "full_text": "空中出租车电动垂直起降，避开地面拥堵，未来空中出行",
+      "image": "res://assets/images/illustrations/transportation/transportation_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "transportation_054_4",
         "transportation_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_054_pixel.jpg"
     },
     {
       "id": "transportation_055",
-      "title": "交通运输 - 图片56",
-      "summary": "交通运输相关图片",
-      "full_text": "交通网络不仅弘扬了历史记忆，更传递了真善美的追求，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/transportation/transportation_055.png",
+      "title": "慢行交通系统",
+      "summary": "慢行交通系统自行车道步行街，绿色出行优先，宜居城市",
+      "full_text": "慢行交通系统自行车道步行街，绿色出行优先，宜居城市",
+      "image": "res://assets/images/illustrations/transportation/transportation_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "transportation_055_4",
         "transportation_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_055_pixel.jpg"
     },
     {
       "id": "transportation_056",
-      "title": "交通运输 - 图片57",
-      "summary": "交通运输相关图片",
-      "full_text": "探索出行方式的世界，仿佛打开了一扇通往创意空间的大门，充满了怀念与精神升华。",
-      "image": "res://assets/images/illustrations/transportation/transportation_056.png",
+      "title": "交通卡通用",
+      "summary": "交通一卡通全国互通，手机NFC刷卡，出行无缝衔接",
+      "full_text": "交通一卡通全国互通，手机NFC刷卡，出行无缝衔接",
+      "image": "res://assets/images/illustrations/transportation/transportation_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "transportation_056_4",
         "transportation_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_056_pixel.jpg"
     },
     {
       "id": "transportation_057",
-      "title": "交通运输 - 图片58",
-      "summary": "交通运输相关图片",
-      "full_text": "现代交通是生活体验的结晶，它诠释着美好的愿景，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/transportation/transportation_057.png",
+      "title": "跨境铁路",
+      "summary": "中欧班列跨境铁路运输，连接亚欧大陆，一带一路动脉",
+      "full_text": "中欧班列跨境铁路运输，连接亚欧大陆，一带一路动脉",
+      "image": "res://assets/images/illustrations/transportation/transportation_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "transportation_057_4",
         "transportation_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_057_pixel.jpg"
     },
     {
       "id": "transportation_058",
-      "title": "交通运输 - 图片59",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行不仅描绘了生命意义，更传递了创新的精神，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/transportation/transportation_058.png",
+      "title": "智慧高速公路",
+      "summary": "智慧高速公路车路协同，光伏路面充电，未来出行基础设施",
+      "full_text": "智慧高速公路车路协同，光伏路面充电，未来出行基础设施",
+      "image": "res://assets/images/illustrations/transportation/transportation_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "transportation_058_4",
         "transportation_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_058_pixel.jpg"
     },
     {
       "id": "transportation_059",
-      "title": "交通运输 - 图片60",
-      "summary": "交通运输相关图片",
-      "full_text": "城市动脉不仅诠释了美好瞬间，更传递了奋斗的意义，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/transportation/transportation_059.png",
+      "title": "雪橇运输",
+      "summary": "雪地雪橇犬拉人载货，冰原上的传统交通，极地出行",
+      "full_text": "雪地雪橇犬拉人载货，冰原上的传统交通，极地出行",
+      "image": "res://assets/images/illustrations/transportation/transportation_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "transportation_059_4",
         "transportation_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_059_pixel.jpg"
     },
     {
       "id": "transportation_060",
-      "title": "交通运输 - 图片61",
-      "summary": "交通运输相关图片",
-      "full_text": "在交通网络的领域里，社会发展展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/transportation/transportation_060.png",
+      "title": "热气球",
+      "summary": "热气球火焰加热升空，彩色球体飘浮云端，空中漫游",
+      "full_text": "热气球火焰加热升空，彩色球体飘浮云端，空中漫游",
+      "image": "res://assets/images/illustrations/transportation/transportation_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "transportation_060_4",
         "transportation_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_060_pixel.jpg"
     },
     {
       "id": "transportation_061",
-      "title": "交通运输 - 图片62",
-      "summary": "交通运输相关图片",
-      "full_text": "在出行方式的领域里，社会发展展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/transportation/transportation_061.png",
+      "title": "缆车索道",
+      "summary": "山间缆车索道悬空，钢缆牵引跨越山谷，高空交通",
+      "full_text": "山间缆车索道悬空，钢缆牵引跨越山谷，高空交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "transportation_061_4",
         "transportation_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_061_pixel.jpg"
     },
     {
       "id": "transportation_062",
-      "title": "交通运输 - 图片63",
-      "summary": "交通运输相关图片",
-      "full_text": "现代交通不仅诠释了艺术真谛，更传递了创新的精神，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/transportation/transportation_062.png",
+      "title": "气垫船",
+      "summary": "气垫船气垫悬浮水面，高速掠过水陆两栖，特种船只",
+      "full_text": "气垫船气垫悬浮水面，高速掠过水陆两栖，特种船只",
+      "image": "res://assets/images/illustrations/transportation/transportation_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "transportation_062_4",
         "transportation_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_062_pixel.jpg"
     },
     {
       "id": "transportation_063",
-      "title": "交通运输 - 图片64",
-      "summary": "交通运输相关图片",
-      "full_text": "便捷出行是人类文明的重要组成部分，它生动地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/transportation/transportation_063.png",
+      "title": "磁悬浮列车",
+      "summary": "磁悬浮列车电磁悬浮，无接触高速运行，未来铁路",
+      "full_text": "磁悬浮列车电磁悬浮，无接触高速运行，未来铁路",
+      "image": "res://assets/images/illustrations/transportation/transportation_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "transportation_063_4",
         "transportation_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_063_pixel.jpg"
     },
     {
       "id": "transportation_064",
-      "title": "交通运输 - 图片65",
-      "summary": "交通运输相关图片",
-      "full_text": "城市动脉不仅描绘了生命意义，更传递了美的真谛，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/transportation/transportation_064.png",
+      "title": "太空电梯",
+      "summary": "太空电梯碳纳米管缆绳，直通太空站概念，未来交通",
+      "full_text": "太空电梯碳纳米管缆绳，直通太空站概念，未来交通",
+      "image": "res://assets/images/illustrations/transportation/transportation_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,7 +1363,8 @@
         "transportation_064_4",
         "transportation_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/transportation/transportation_064_pixel.jpg"
     }
   ]
 }

@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "food_000",
-      "title": "美食 - 图片1",
-      "summary": "美食相关图片",
-      "full_text": "艺术是审美追求的结晶，它诠释着人类的梦想，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/food/food_000.png",
+      "title": "北京烤鸭",
+      "summary": "北京烤鸭皮脆肉嫩，片鸭师刀工精湛，配薄饼葱丝甜面酱",
+      "full_text": "北京烤鸭皮脆肉嫩，片鸭师刀工精湛，配薄饼葱丝甜面酱",
+      "image": "res://assets/images/illustrations/food/food_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "food_000_4",
         "food_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/food/food_000_pixel.jpg"
     },
     {
       "id": "food_001",
-      "title": "美食 - 图片2",
-      "summary": "美食相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往自然奇观的大门，充满了震撼与心灵震撼。",
-      "image": "res://assets/images/illustrations/food/food_001.png",
+      "title": "上海小笼包",
+      "summary": "上海小笼包皮薄馅多汁，轻咬一口汤汁四溢，鲜香满口",
+      "full_text": "上海小笼包皮薄馅多汁，轻咬一口汤汁四溢，鲜香满口",
+      "image": "res://assets/images/illustrations/food/food_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "food_001_4",
         "food_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/food/food_001_pixel.jpg"
     },
     {
       "id": "food_002",
-      "title": "美食 - 图片3",
-      "summary": "美食相关图片",
-      "full_text": "自然是情感表达的结晶，它传递着艺术的追求，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/food/food_002.png",
+      "title": "四川火锅",
+      "summary": "四川火锅红油翻滚，花椒辣椒麻辣鲜香，涮毛肚鸭肠过瘾",
+      "full_text": "四川火锅红油翻滚，花椒辣椒麻辣鲜香，涮毛肚鸭肠过瘾",
+      "image": "res://assets/images/illustrations/food/food_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "food_002_4",
         "food_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/food/food_002_pixel.jpg"
     },
     {
       "id": "food_003",
-      "title": "美食 - 图片4",
-      "summary": "美食相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个线条都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/food/food_003.png",
+      "title": "广东早茶",
+      "summary": "广东早茶虾饺烧卖叉烧包，一盅两件叹茶闲聊，悠然自得",
+      "full_text": "广东早茶虾饺烧卖叉烧包，一盅两件叹茶闲聊，悠然自得",
+      "image": "res://assets/images/illustrations/food/food_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "food_003_4",
         "food_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/food/food_003_pixel.jpg"
     },
     {
       "id": "food_004",
-      "title": "美食 - 图片5",
-      "summary": "美食相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它绚丽地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/food/food_004.png",
+      "title": "兰州牛肉面",
+      "summary": "兰州牛肉面一清二白三红四绿五黄，手工拉面劲道爽滑",
+      "full_text": "兰州牛肉面一清二白三红四绿五黄，手工拉面劲道爽滑",
+      "image": "res://assets/images/illustrations/food/food_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "food_004_4",
         "food_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/food/food_004_pixel.jpg"
     },
     {
       "id": "food_005",
-      "title": "美食 - 图片6",
-      "summary": "美食相关图片",
-      "full_text": "在文化的领域里，文化传承展现得淋漓尽致，每一个光影都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/food/food_005.png",
+      "title": "西安肉夹馍",
+      "summary": "西安肉夹馍白吉馍夹腊汁肉，外酥里嫩肉香四溢",
+      "full_text": "西安肉夹馍白吉馍夹腊汁肉，外酥里嫩肉香四溢",
+      "image": "res://assets/images/illustrations/food/food_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "food_005_4",
         "food_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/food/food_005_pixel.jpg"
     },
     {
       "id": "food_006",
-      "title": "美食 - 图片7",
-      "summary": "美食相关图片",
-      "full_text": "自然不仅诠释了生活哲理，更传递了人与自然的和谐，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/food/food_006.png",
+      "title": "南京盐水鸭",
+      "summary": "南京盐水鸭皮白肉嫩，桂花飘香时节最为肥美",
+      "full_text": "南京盐水鸭皮白肉嫩，桂花飘香时节最为肥美",
+      "image": "res://assets/images/illustrations/food/food_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "food_006_4",
         "food_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/food/food_006_pixel.jpg"
     },
     {
       "id": "food_007",
-      "title": "美食 - 图片8",
-      "summary": "美食相关图片",
-      "full_text": "科学是时代精神的结晶，它创造着创新的理念，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/food/food_007.png",
+      "title": "杭州西湖醋鱼",
+      "summary": "杭州西湖醋鱼色泽红亮，酸甜适口鲜嫩滑爽",
+      "full_text": "杭州西湖醋鱼色泽红亮，酸甜适口鲜嫩滑爽",
+      "image": "res://assets/images/illustrations/food/food_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "food_007_4",
         "food_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/food/food_007_pixel.jpg"
     },
     {
       "id": "food_008",
-      "title": "美食 - 图片9",
-      "summary": "美食相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往精神家园的大门，充满了惊叹与情感共鸣。",
-      "image": "res://assets/images/illustrations/food/food_008.png",
+      "title": "重庆小面",
+      "summary": "重庆小面麻辣鲜香，花生碎榨菜丁点缀，早餐必备",
+      "full_text": "重庆小面麻辣鲜香，花生碎榨菜丁点缀，早餐必备",
+      "image": "res://assets/images/illustrations/food/food_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "food_008_4",
         "food_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/food/food_008_pixel.jpg"
     },
     {
       "id": "food_009",
-      "title": "美食 - 图片10",
-      "summary": "美食相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它灵动地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/food/food_009.png",
+      "title": "云南过桥米线",
+      "summary": "云南过桥米线鸡汤滚烫，生片食材依次放入烫熟",
+      "full_text": "云南过桥米线鸡汤滚烫，生片食材依次放入烫熟",
+      "image": "res://assets/images/illustrations/food/food_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "food_009_4",
         "food_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/food/food_009_pixel.jpg"
     },
     {
       "id": "food_010",
-      "title": "美食 - 图片11",
-      "summary": "美食相关图片",
-      "full_text": "自然是文化传承的结晶，它激励着科学的精神，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/food/food_010.png",
+      "title": "天津狗不理包子",
+      "summary": "天津狗不理包子褶花匀称，馅心鲜香不腻，百年老字号",
+      "full_text": "天津狗不理包子褶花匀称，馅心鲜香不腻，百年老字号",
+      "image": "res://assets/images/illustrations/food/food_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "food_010_4",
         "food_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/food/food_010_pixel.jpg"
     },
     {
       "id": "food_011",
-      "title": "美食 - 图片12",
-      "summary": "美食相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它绚丽地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/food/food_011.png",
+      "title": "武汉热干面",
+      "summary": "武汉热干面芝麻酱拌匀，碱面筋道配酸豆角，早餐之王",
+      "full_text": "武汉热干面芝麻酱拌匀，碱面筋道配酸豆角，早餐之王",
+      "image": "res://assets/images/illustrations/food/food_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "food_011_4",
         "food_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/food/food_011_pixel.jpg"
     },
     {
       "id": "food_012",
-      "title": "美食 - 图片13",
-      "summary": "美食相关图片",
-      "full_text": "艺术是时代精神的结晶，它引领着科学的精神，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/food/food_012.png",
+      "title": "长沙臭豆腐",
+      "summary": "长沙臭豆腐外焦里嫩，浇辣椒蒜汁，闻着臭吃着香",
+      "full_text": "长沙臭豆腐外焦里嫩，浇辣椒蒜汁，闻着臭吃着香",
+      "image": "res://assets/images/illustrations/food/food_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "food_012_4",
         "food_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/food/food_012_pixel.jpg"
     },
     {
       "id": "food_013",
-      "title": "美食 - 图片14",
-      "summary": "美食相关图片",
-      "full_text": "在文化的领域里，艺术创造展现得淋漓尽致，每一个思想都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/food/food_013.png",
+      "title": "东北锅包肉",
+      "summary": "东北锅包肉外酥里嫩，酸甜汁挂满肉片，色泽金黄",
+      "full_text": "东北锅包肉外酥里嫩，酸甜汁挂满肉片，色泽金黄",
+      "image": "res://assets/images/illustrations/food/food_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "food_013_4",
         "food_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/food/food_013_pixel.jpg"
     },
     {
       "id": "food_014",
-      "title": "美食 - 图片15",
-      "summary": "美食相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/food/food_014.png",
+      "title": "福建佛跳墙",
+      "summary": "福建佛跳墙汇聚山珍海味，文火慢炖汤浓味醇",
+      "full_text": "福建佛跳墙汇聚山珍海味，文火慢炖汤浓味醇",
+      "image": "res://assets/images/illustrations/food/food_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "food_014_4",
         "food_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/food/food_014_pixel.jpg"
     },
     {
       "id": "food_015",
-      "title": "美食 - 图片16",
-      "summary": "美食相关图片",
-      "full_text": "科学不仅展现了自然之美，更传递了真善美的追求，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/food/food_015.png",
+      "title": "新疆大盘鸡",
+      "summary": "新疆大盘鸡鸡肉土豆配宽面，辣香浓郁分量十足",
+      "full_text": "新疆大盘鸡鸡肉土豆配宽面，辣香浓郁分量十足",
+      "image": "res://assets/images/illustrations/food/food_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "food_015_4",
         "food_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/food/food_015_pixel.jpg"
     },
     {
       "id": "food_016",
-      "title": "美食 - 图片17",
-      "summary": "美食相关图片",
-      "full_text": "艺术是艺术创造的结晶，它记录着生活的智慧，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/food/food_016.png",
+      "title": "苏州松鼠桂鱼",
+      "summary": "苏州松鼠桂鱼刀工精细，炸后浇番茄汁，形似松鼠",
+      "full_text": "苏州松鼠桂鱼刀工精细，炸后浇番茄汁，形似松鼠",
+      "image": "res://assets/images/illustrations/food/food_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "food_016_4",
         "food_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/food/food_016_pixel.jpg"
     },
     {
       "id": "food_017",
-      "title": "美食 - 图片18",
-      "summary": "美食相关图片",
-      "full_text": "在文化的领域里，科技进步展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/food/food_017.png",
+      "title": "潮汕牛肉火锅",
+      "summary": "潮汕牛肉火锅现切鲜牛肉，吊龙匙柄各部位涮煮时间不同",
+      "full_text": "潮汕牛肉火锅现切鲜牛肉，吊龙匙柄各部位涮煮时间不同",
+      "image": "res://assets/images/illustrations/food/food_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "food_017_4",
         "food_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/food/food_017_pixel.jpg"
     },
     {
       "id": "food_018",
-      "title": "美食 - 图片19",
-      "summary": "美食相关图片",
-      "full_text": "自然不仅传承了人类文明，更传递了梦想的价值，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/food/food_018.png",
+      "title": "贵州酸汤鱼",
+      "summary": "贵州酸汤鱼红酸汤底，毛辣果发酵酸辣开胃，鱼肉鲜嫩",
+      "full_text": "贵州酸汤鱼红酸汤底，毛辣果发酵酸辣开胃，鱼肉鲜嫩",
+      "image": "res://assets/images/illustrations/food/food_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "food_018_4",
         "food_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/food/food_018_pixel.jpg"
     },
     {
       "id": "food_019",
-      "title": "美食 - 图片20",
-      "summary": "美食相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往智慧天地的大门，充满了激情与艺术熏陶。",
-      "image": "res://assets/images/illustrations/food/food_019.png",
+      "title": "广式煲仔饭",
+      "summary": "广式煲仔饭腊味滑鸡，锅巴焦香酥脆，酱油浇淋滋滋作响",
+      "full_text": "广式煲仔饭腊味滑鸡，锅巴焦香酥脆，酱油浇淋滋滋作响",
+      "image": "res://assets/images/illustrations/food/food_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "food_019_4",
         "food_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/food/food_019_pixel.jpg"
     },
     {
       "id": "food_020",
-      "title": "美食 - 图片21",
-      "summary": "美食相关图片",
-      "full_text": "艺术是情感表达的结晶，它启迪着生活的智慧，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/food/food_020.png",
+      "title": "山东煎饼卷大葱",
+      "summary": "山东煎饼卷大葱蘸酱，粗粮薄饼劲道，朴实豪爽",
+      "full_text": "山东煎饼卷大葱蘸酱，粗粮薄饼劲道，朴实豪爽",
+      "image": "res://assets/images/illustrations/food/food_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "food_020_4",
         "food_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/food/food_020_pixel.jpg"
     },
     {
       "id": "food_021",
-      "title": "美食 - 图片22",
-      "summary": "美食相关图片",
-      "full_text": "在文化的领域里，人类智慧展现得淋漓尽致，每一个瞬间都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/food/food_021.png",
+      "title": "内蒙古烤全羊",
+      "summary": "内蒙古烤全羊外焦里嫩，孜然辣椒香气四溢，草原盛宴",
+      "full_text": "内蒙古烤全羊外焦里嫩，孜然辣椒香气四溢，草原盛宴",
+      "image": "res://assets/images/illustrations/food/food_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "food_021_4",
         "food_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/food/food_021_pixel.jpg"
     },
     {
       "id": "food_022",
-      "title": "美食 - 图片23",
-      "summary": "美食相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它奇妙地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/food/food_022.png",
+      "title": "安徽臭鳜鱼",
+      "summary": "安徽臭鳜鱼闻臭食香，鱼肉蒜瓣状，徽菜经典名菜",
+      "full_text": "安徽臭鳜鱼闻臭食香，鱼肉蒜瓣状，徽菜经典名菜",
+      "image": "res://assets/images/illustrations/food/food_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "food_022_4",
         "food_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/food/food_022_pixel.jpg"
     },
     {
       "id": "food_023",
-      "title": "美食 - 图片24",
-      "summary": "美食相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往自然奇观的大门，充满了愉悦与心灵震撼。",
-      "image": "res://assets/images/illustrations/food/food_023.png",
+      "title": "海南文昌鸡",
+      "summary": "海南文昌鸡皮滑肉嫩，配鸡油饭和特制蘸料，原汁原味",
+      "full_text": "海南文昌鸡皮滑肉嫩，配鸡油饭和特制蘸料，原汁原味",
+      "image": "res://assets/images/illustrations/food/food_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "food_023_4",
         "food_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/food/food_023_pixel.jpg"
     },
     {
       "id": "food_024",
-      "title": "美食 - 图片25",
-      "summary": "美食相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它神秘地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/food/food_024.png",
+      "title": "台湾卤肉饭",
+      "summary": "台湾卤肉饭五花肉丁卤制，浇在白饭上，咸甜适口",
+      "full_text": "台湾卤肉饭五花肉丁卤制，浇在白饭上，咸甜适口",
+      "image": "res://assets/images/illustrations/food/food_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "food_024_4",
         "food_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/food/food_024_pixel.jpg"
     },
     {
       "id": "food_025",
-      "title": "美食 - 图片26",
-      "summary": "美食相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了沉思与精神升华。",
-      "image": "res://assets/images/illustrations/food/food_025.png",
+      "title": "日本寿司",
+      "summary": "日本寿司醋饭配新鲜鱼生，师傅手握成型，极简至味",
+      "full_text": "日本寿司醋饭配新鲜鱼生，师傅手握成型，极简至味",
+      "image": "res://assets/images/illustrations/food/food_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "food_025_4",
         "food_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/food/food_025_pixel.jpg"
     },
     {
       "id": "food_026",
-      "title": "美食 - 图片27",
-      "summary": "美食相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往神秘国度的大门，充满了震撼与知识启迪。",
-      "image": "res://assets/images/illustrations/food/food_026.png",
+      "title": "意大利披萨",
+      "summary": "意大利那不勒斯披萨，薄底马苏里拉芝士，窑炉高温烤制",
+      "full_text": "意大利那不勒斯披萨，薄底马苏里拉芝士，窑炉高温烤制",
+      "image": "res://assets/images/illustrations/food/food_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "food_026_4",
         "food_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/food/food_026_pixel.jpg"
     },
     {
       "id": "food_027",
-      "title": "美食 - 图片28",
-      "summary": "美食相关图片",
-      "full_text": "在科学的领域里，科学发现展现得淋漓尽致，每一个自然元素都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/food/food_027.png",
+      "title": "法式鹅肝",
+      "summary": "法式鹅肝煎至金黄，配无花果酱，入口即化奢华美味",
+      "full_text": "法式鹅肝煎至金黄，配无花果酱，入口即化奢华美味",
+      "image": "res://assets/images/illustrations/food/food_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "food_027_4",
         "food_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/food/food_027_pixel.jpg"
     },
     {
       "id": "food_028",
-      "title": "美食 - 图片29",
-      "summary": "美食相关图片",
-      "full_text": "艺术是思想升华的结晶，它承载着人文的关怀，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/food/food_028.png",
+      "title": "泰国冬阴功汤",
+      "summary": "泰国冬阴功汤酸辣鲜香，柠檬草南姜椰奶，层次丰富",
+      "full_text": "泰国冬阴功汤酸辣鲜香，柠檬草南姜椰奶，层次丰富",
+      "image": "res://assets/images/illustrations/food/food_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "food_028_4",
         "food_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/food/food_028_pixel.jpg"
     },
     {
       "id": "food_029",
-      "title": "美食 - 图片30",
-      "summary": "美食相关图片",
-      "full_text": "在文化的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/food/food_029.png",
+      "title": "印度咖喱",
+      "summary": "印度咖喱香料丰富，姜黄小茴香丁香，配馕饼手抓饭",
+      "full_text": "印度咖喱香料丰富，姜黄小茴香丁香，配馕饼手抓饭",
+      "image": "res://assets/images/illustrations/food/food_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "food_029_4",
         "food_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/food/food_029_pixel.jpg"
     },
     {
       "id": "food_030",
-      "title": "美食 - 图片31",
-      "summary": "美食相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/food/food_030.png",
+      "title": "墨西哥塔可",
+      "summary": "墨西哥塔可玉米饼卷肉，莎莎酱牛油果酱，酸辣爽口",
+      "full_text": "墨西哥塔可玉米饼卷肉，莎莎酱牛油果酱，酸辣爽口",
+      "image": "res://assets/images/illustrations/food/food_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "food_030_4",
         "food_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/food/food_030_pixel.jpg"
     },
     {
       "id": "food_031",
-      "title": "美食 - 图片32",
-      "summary": "美食相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了惊叹与视觉享受。",
-      "image": "res://assets/images/illustrations/food/food_031.png",
+      "title": "韩国泡菜",
+      "summary": "韩国泡菜白菜腌制发酵，辣椒粉蒜姜，酸辣爽脆百搭",
+      "full_text": "韩国泡菜白菜腌制发酵，辣椒粉蒜姜，酸辣爽脆百搭",
+      "image": "res://assets/images/illustrations/food/food_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "food_031_4",
         "food_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/food/food_031_pixel.jpg"
     },
     {
       "id": "food_032",
-      "title": "美食 - 图片33",
-      "summary": "美食相关图片",
-      "full_text": "艺术是情感表达的结晶，它展现着科学的精神，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/food/food_032.png",
+      "title": "土耳其烤肉",
+      "summary": "土耳其烤肉旋转烤制，薄切配饼和酸奶酱，街头美食",
+      "full_text": "土耳其烤肉旋转烤制，薄切配饼和酸奶酱，街头美食",
+      "image": "res://assets/images/illustrations/food/food_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "food_032_4",
         "food_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/food/food_032_pixel.jpg"
     },
     {
       "id": "food_033",
-      "title": "美食 - 图片34",
-      "summary": "美食相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往神秘国度的大门，充满了惊叹与情感共鸣。",
-      "image": "res://assets/images/illustrations/food/food_033.png",
+      "title": "西班牙海鲜饭",
+      "summary": "西班牙海鲜饭藏红花染色，虾贝鱿鱼铺满，米饭微焦",
+      "full_text": "西班牙海鲜饭藏红花染色，虾贝鱿鱼铺满，米饭微焦",
+      "image": "res://assets/images/illustrations/food/food_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "food_033_4",
         "food_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/food/food_033_pixel.jpg"
     },
     {
       "id": "food_034",
-      "title": "美食 - 图片35",
-      "summary": "美食相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它生动地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/food/food_034.png",
+      "title": "越南河粉",
+      "summary": "越南河粉牛肉汤底，米粉配九层塔豆芽，清鲜暖胃",
+      "full_text": "越南河粉牛肉汤底，米粉配九层塔豆芽，清鲜暖胃",
+      "image": "res://assets/images/illustrations/food/food_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "food_034_4",
         "food_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/food/food_034_pixel.jpg"
     },
     {
       "id": "food_035",
-      "title": "美食 - 图片36",
-      "summary": "美食相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它清新地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/food/food_035.png",
+      "title": "德国猪肘配啤酒",
+      "summary": "德国烤猪肘皮脆肉嫩，配酸菜和黑啤酒，巴伐利亚经典",
+      "full_text": "德国烤猪肘皮脆肉嫩，配酸菜和黑啤酒，巴伐利亚经典",
+      "image": "res://assets/images/illustrations/food/food_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "food_035_4",
         "food_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/food/food_035_pixel.jpg"
     },
     {
       "id": "food_036",
-      "title": "美食 - 图片37",
-      "summary": "美食相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它和谐地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/food/food_036.png",
+      "title": "希腊穆萨卡",
+      "summary": "希腊穆萨卡茄子肉酱层叠，贝夏梅尔酱焗烤，浓郁醇厚",
+      "full_text": "希腊穆萨卡茄子肉酱层叠，贝夏梅尔酱焗烤，浓郁醇厚",
+      "image": "res://assets/images/illustrations/food/food_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "food_036_4",
         "food_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/food/food_036_pixel.jpg"
     },
     {
       "id": "food_037",
-      "title": "美食 - 图片38",
-      "summary": "美食相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往知识海洋的大门，充满了沉醉与文化浸润。",
-      "image": "res://assets/images/illustrations/food/food_037.png",
+      "title": "英国炸鱼薯条",
+      "summary": "英国炸鱼薯条鳕鱼裹面糊炸，配粗薯条和醋，国民美食",
+      "full_text": "英国炸鱼薯条鳕鱼裹面糊炸，配粗薯条和醋，国民美食",
+      "image": "res://assets/images/illustrations/food/food_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "food_037_4",
         "food_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/food/food_037_pixel.jpg"
     },
     {
       "id": "food_038",
-      "title": "美食 - 图片39",
-      "summary": "美食相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它庄重地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/food/food_038.png",
+      "title": "巴西烤肉",
+      "summary": "巴西烤肉侍者持串巡回切肉，牛臀尖肉外焦里嫩，豪迈畅快",
+      "full_text": "巴西烤肉侍者持串巡回切肉，牛臀尖肉外焦里嫩，豪迈畅快",
+      "image": "res://assets/images/illustrations/food/food_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "food_038_4",
         "food_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/food/food_038_pixel.jpg"
     },
     {
       "id": "food_039",
-      "title": "美食 - 图片40",
-      "summary": "美食相关图片",
-      "full_text": "科学是文化传承的结晶，它记录着人文的关怀，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/food/food_039.png",
+      "title": "摩洛哥塔吉锅",
+      "summary": "摩洛哥塔吉锅锥形盖焖煮，羊肉配杏干杏仁，异域风情",
+      "full_text": "摩洛哥塔吉锅锥形盖焖煮，羊肉配杏干杏仁，异域风情",
+      "image": "res://assets/images/illustrations/food/food_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "food_039_4",
         "food_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/food/food_039_pixel.jpg"
     },
     {
       "id": "food_040",
-      "title": "美食 - 图片41",
-      "summary": "美食相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往美丽新世界的大门，充满了震撼与文化浸润。",
-      "image": "res://assets/images/illustrations/food/food_040.png",
+      "title": "美国汉堡",
+      "summary": "美国汉堡牛肉饼配生菜番茄芝士，薯条可乐经典搭配",
+      "full_text": "美国汉堡牛肉饼配生菜番茄芝士，薯条可乐经典搭配",
+      "image": "res://assets/images/illustrations/food/food_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "food_040_4",
         "food_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/food/food_040_pixel.jpg"
     },
     {
       "id": "food_041",
-      "title": "美食 - 图片42",
-      "summary": "美食相关图片",
-      "full_text": "文化是生活体验的结晶，它创造着艺术的追求，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/food/food_041.png",
+      "title": "俄罗斯罗宋汤",
+      "summary": "俄罗斯罗宋汤甜菜根煮制，紫红色配酸奶油，暖身暖心",
+      "full_text": "俄罗斯罗宋汤甜菜根煮制，紫红色配酸奶油，暖身暖心",
+      "image": "res://assets/images/illustrations/food/food_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "food_041_4",
         "food_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/food/food_041_pixel.jpg"
     },
     {
       "id": "food_042",
-      "title": "美食 - 图片43",
-      "summary": "美食相关图片",
-      "full_text": "自然不仅表达了历史记忆，更传递了梦想的价值，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/food/food_042.png",
+      "title": "印尼沙爹",
+      "summary": "印尼沙爹竹签串肉炭烤，花生酱蘸料浓郁，街头人气小吃",
+      "full_text": "印尼沙爹竹签串肉炭烤，花生酱蘸料浓郁，街头人气小吃",
+      "image": "res://assets/images/illustrations/food/food_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "food_042_4",
         "food_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/food/food_042_pixel.jpg"
     },
     {
       "id": "food_043",
-      "title": "美食 - 图片44",
-      "summary": "美食相关图片",
-      "full_text": "科学是人类智慧的结晶，它传递着生活的智慧，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/food/food_043.png",
+      "title": "中国茶道",
+      "summary": "中国茶道功夫茶冲泡，紫砂壶小杯品茗，清心静气修身",
+      "full_text": "中国茶道功夫茶冲泡，紫砂壶小杯品茗，清心静气修身",
+      "image": "res://assets/images/illustrations/food/food_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "food_043_4",
         "food_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/food/food_043_pixel.jpg"
     },
     {
       "id": "food_044",
-      "title": "美食 - 图片45",
-      "summary": "美食相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它壮观地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/food/food_044.png",
+      "title": "日本茶道",
+      "summary": "日本茶道抹茶点前，和室跪坐，一期一会禅意深远",
+      "full_text": "日本茶道抹茶点前，和室跪坐，一期一会禅意深远",
+      "image": "res://assets/images/illustrations/food/food_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "food_044_4",
         "food_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/food/food_044_pixel.jpg"
     },
     {
       "id": "food_045",
-      "title": "美食 - 图片46",
-      "summary": "美食相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了愉悦与审美体验。",
-      "image": "res://assets/images/illustrations/food/food_045.png",
+      "title": "咖啡文化",
+      "summary": "咖啡文化从意式浓缩到手冲精品，咖啡师拉花艺术",
+      "full_text": "咖啡文化从意式浓缩到手冲精品，咖啡师拉花艺术",
+      "image": "res://assets/images/illustrations/food/food_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "food_045_4",
         "food_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/food/food_045_pixel.jpg"
     },
     {
       "id": "food_046",
-      "title": "美食 - 图片47",
-      "summary": "美食相关图片",
-      "full_text": "自然是生活体验的结晶，它启迪着创新的理念，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/food/food_046.png",
+      "title": "红酒品鉴",
+      "summary": "红酒品鉴摇杯观色闻香，橡木桶陈酿，风土年份之韵",
+      "full_text": "红酒品鉴摇杯观色闻香，橡木桶陈酿，风土年份之韵",
+      "image": "res://assets/images/illustrations/food/food_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "food_046_4",
         "food_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/food/food_046_pixel.jpg"
     },
     {
       "id": "food_047",
-      "title": "美食 - 图片48",
-      "summary": "美食相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它质朴地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/food/food_047.png",
+      "title": "法式餐桌礼仪",
+      "summary": "法式餐桌礼仪刀叉由外向内，面包手撕不切，优雅进餐",
+      "full_text": "法式餐桌礼仪刀叉由外向内，面包手撕不切，优雅进餐",
+      "image": "res://assets/images/illustrations/food/food_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "food_047_4",
         "food_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/food/food_047_pixel.jpg"
     },
     {
       "id": "food_048",
-      "title": "美食 - 图片49",
-      "summary": "美食相关图片",
-      "full_text": "艺术不仅记录了生命意义，更传递了奋斗的意义，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/food/food_048.png",
+      "title": "中式圆桌宴席",
+      "summary": "中式圆桌宴席转盘共享，敬酒碰杯热闹，团圆氛围浓厚",
+      "full_text": "中式圆桌宴席转盘共享，敬酒碰杯热闹，团圆氛围浓厚",
+      "image": "res://assets/images/illustrations/food/food_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "food_048_4",
         "food_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/food/food_048_pixel.jpg"
     },
     {
       "id": "food_049",
-      "title": "美食 - 图片50",
-      "summary": "美食相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它质朴地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/food/food_049.png",
+      "title": "日本怀石料理",
+      "summary": "日本怀石料理精致小份，顺应季节食材，器皿搭配考究",
+      "full_text": "日本怀石料理精致小份，顺应季节食材，器皿搭配考究",
+      "image": "res://assets/images/illustrations/food/food_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "food_049_4",
         "food_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/food/food_049_pixel.jpg"
     },
     {
       "id": "food_050",
-      "title": "美食 - 图片51",
-      "summary": "美食相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它独特地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/food/food_050.png",
+      "title": "印度手抓饭",
+      "summary": "印度手抓饭右手取食，米饭配咖喱混合，传统用餐方式",
+      "full_text": "印度手抓饭右手取食，米饭配咖喱混合，传统用餐方式",
+      "image": "res://assets/images/illustrations/food/food_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "food_050_4",
         "food_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/food/food_050_pixel.jpg"
     },
     {
       "id": "food_051",
-      "title": "美食 - 图片52",
-      "summary": "美食相关图片",
-      "full_text": "在科学的领域里，科技进步展现得淋漓尽致，每一个思想都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/food/food_051.png",
+      "title": "意大利餐前酒",
+      "summary": "意大利餐前酒文化，开胃酒配小食，悠闲享受生活",
+      "full_text": "意大利餐前酒文化，开胃酒配小食，悠闲享受生活",
+      "image": "res://assets/images/illustrations/food/food_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "food_051_4",
         "food_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/food/food_051_pixel.jpg"
     },
     {
       "id": "food_052",
-      "title": "美食 - 图片53",
-      "summary": "美食相关图片",
-      "full_text": "艺术是思想升华的结晶，它创造着深刻的思考，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/food/food_052.png",
+      "title": "素食主义",
+      "summary": "素食主义植物性饮食，藜麦牛油果沙拉，健康环保理念",
+      "full_text": "素食主义植物性饮食，藜麦牛油果沙拉，健康环保理念",
+      "image": "res://assets/images/illustrations/food/food_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "food_052_4",
         "food_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/food/food_052_pixel.jpg"
     },
     {
       "id": "food_053",
-      "title": "美食 - 图片54",
-      "summary": "美食相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往精神家园的大门，充满了激情与情感共鸣。",
-      "image": "res://assets/images/illustrations/food/food_053.png",
+      "title": "分子料理",
+      "summary": "分子料理球化泡沫技术，颠覆传统口感，视觉味觉双重惊喜",
+      "full_text": "分子料理球化泡沫技术，颠覆传统口感，视觉味觉双重惊喜",
+      "image": "res://assets/images/illustrations/food/food_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "food_053_4",
         "food_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/food/food_053_pixel.jpg"
     },
     {
       "id": "food_054",
-      "title": "美食 - 图片55",
-      "summary": "美食相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它灵动地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/food/food_054.png",
+      "title": "街头小吃文化",
+      "summary": "街头小吃文化全球盛行，夜市排档烟火气，平民美食天堂",
+      "full_text": "街头小吃文化全球盛行，夜市排档烟火气，平民美食天堂",
+      "image": "res://assets/images/illustrations/food/food_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "food_054_4",
         "food_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/food/food_054_pixel.jpg"
     },
     {
       "id": "food_055",
-      "title": "美食 - 图片56",
-      "summary": "美食相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它优雅地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/food/food_055.png",
+      "title": "食品发酵工艺",
+      "summary": "食品发酵工艺酱油奶酪，微生物转化风味，古老智慧结晶",
+      "full_text": "食品发酵工艺酱油奶酪，微生物转化风味，古老智慧结晶",
+      "image": "res://assets/images/illustrations/food/food_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "food_055_4",
         "food_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/food/food_055_pixel.jpg"
     },
     {
       "id": "food_056",
-      "title": "美食 - 图片57",
-      "summary": "美食相关图片",
-      "full_text": "艺术不仅诠释了文化内涵，更传递了生命的意义，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/food/food_056.png",
+      "title": "香料之路",
+      "summary": "香料之路胡椒肉桂丁香，丝绸之路贸易，改变世界格局",
+      "full_text": "香料之路胡椒肉桂丁香，丝绸之路贸易，改变世界格局",
+      "image": "res://assets/images/illustrations/food/food_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "food_056_4",
         "food_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/food/food_056_pixel.jpg"
     },
     {
       "id": "food_057",
-      "title": "美食 - 图片58",
-      "summary": "美食相关图片",
-      "full_text": "在文化的领域里，人文景观展现得淋漓尽致，每一个情感都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/food/food_057.png",
+      "title": "节气饮食",
+      "summary": "二十四节气饮食养生，春饼夏瓜秋蟹冬补，顺时而食",
+      "full_text": "二十四节气饮食养生，春饼夏瓜秋蟹冬补，顺时而食",
+      "image": "res://assets/images/illustrations/food/food_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "food_057_4",
         "food_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/food/food_057_pixel.jpg"
     },
     {
       "id": "food_058",
-      "title": "美食 - 图片59",
-      "summary": "美食相关图片",
-      "full_text": "在自然的领域里，科学发现展现得淋漓尽致，每一个文化符号都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/food/food_058.png",
+      "title": "世界早餐文化",
+      "summary": "世界早餐文化各异，英式全餐日式定食，开启一天的方式",
+      "full_text": "世界早餐文化各异，英式全餐日式定食，开启一天的方式",
+      "image": "res://assets/images/illustrations/food/food_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "food_058_4",
         "food_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/food/food_058_pixel.jpg"
     },
     {
       "id": "food_059",
-      "title": "美食 - 图片60",
-      "summary": "美食相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它自然地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/food/food_059.png",
+      "title": "食品摆盘艺术",
+      "summary": "食品摆盘艺术色彩搭配，留白构图，视觉与味觉的双重享受",
+      "full_text": "食品摆盘艺术色彩搭配，留白构图，视觉与味觉的双重享受",
+      "image": "res://assets/images/illustrations/food/food_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "food_059_4",
         "food_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/food/food_059_pixel.jpg"
     },
     {
       "id": "food_060",
-      "title": "美食 - 图片61",
-      "summary": "美食相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它细腻地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/food/food_060.png",
+      "title": "慢食运动",
+      "summary": "慢食运动对抗快餐文化，细品本地食材，享受用餐过程",
+      "full_text": "慢食运动对抗快餐文化，细品本地食材，享受用餐过程",
+      "image": "res://assets/images/illustrations/food/food_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "food_060_4",
         "food_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/food/food_060_pixel.jpg"
     },
     {
       "id": "food_061",
-      "title": "美食 - 图片62",
-      "summary": "美食相关图片",
-      "full_text": "文化不仅表达了艺术真谛，更传递了创新的精神，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/food/food_061.png",
+      "title": "米其林餐厅",
+      "summary": "米其林餐厅星级评定，主厨匠心独运，美食朝圣之旅",
+      "full_text": "米其林餐厅星级评定，主厨匠心独运，美食朝圣之旅",
+      "image": "res://assets/images/illustrations/food/food_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "food_061_4",
         "food_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/food/food_061_pixel.jpg"
     },
     {
       "id": "food_062",
-      "title": "美食 - 图片63",
-      "summary": "美食相关图片",
-      "full_text": "在自然的领域里，社会发展展现得淋漓尽致，每一个线条都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/food/food_062.png",
+      "title": "食物浪费问题",
+      "summary": "全球食物浪费严重，光盘行动倡导节约，可持续饮食理念",
+      "full_text": "全球食物浪费严重，光盘行动倡导节约，可持续饮食理念",
+      "image": "res://assets/images/illustrations/food/food_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "food_062_4",
         "food_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/food/food_062_pixel.jpg"
     },
     {
       "id": "food_063",
-      "title": "美食 - 图片64",
-      "summary": "美食相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它丰富地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/food/food_063.png",
+      "title": "地方小吃传承",
+      "summary": "地方小吃代代传承，老字号坚守传统工艺，味觉记忆延续",
+      "full_text": "地方小吃代代传承，老字号坚守传统工艺，味觉记忆延续",
+      "image": "res://assets/images/illustrations/food/food_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "food_063_4",
         "food_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/food/food_063_pixel.jpg"
     },
     {
       "id": "food_064",
-      "title": "美食 - 图片65",
-      "summary": "美食相关图片",
-      "full_text": "艺术不仅弘扬了艺术真谛，更传递了真善美的追求，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/food/food_064.png",
+      "title": "美食纪录片",
+      "summary": "美食纪录片记录人间烟火，舌尖上的中国，食物背后的人情",
+      "full_text": "美食纪录片记录人间烟火，舌尖上的中国，食物背后的人情",
+      "image": "res://assets/images/illustrations/food/food_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "food_064_4",
         "food_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/food/food_064_pixel.jpg"
     },
     {
       "id": "food_065",
-      "title": "美食 - 图片66",
-      "summary": "美食相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往精神家园的大门，充满了怀念与心灵震撼。",
-      "image": "res://assets/images/illustrations/food/food_065.png",
+      "title": "烹饪技法演变",
+      "summary": "烹饪技法从火烤到蒸煮炒炸，技术进步丰富味觉体验",
+      "full_text": "烹饪技法从火烤到蒸煮炒炸，技术进步丰富味觉体验",
+      "image": "res://assets/images/illustrations/food/food_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "food_065_4",
         "food_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/food/food_065_pixel.jpg"
     },
     {
       "id": "food_066",
-      "title": "美食 - 图片67",
-      "summary": "美食相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它自然地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/food/food_066.png",
+      "title": "饮食与健康",
+      "summary": "饮食与健康密切相关，均衡营养少油少盐，科学饮食观念",
+      "full_text": "饮食与健康密切相关，均衡营养少油少盐，科学饮食观念",
+      "image": "res://assets/images/illustrations/food/food_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "food_066_4",
         "food_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/food/food_066_pixel.jpg"
     },
     {
       "id": "food_067",
-      "title": "美食 - 图片68",
-      "summary": "美食相关图片",
-      "full_text": "在科学的领域里，人类智慧展现得淋漓尽致，每一个思想都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/food/food_067.png",
+      "title": "全球美食融合",
+      "summary": "全球美食融合创新，中西合璧新派料理，跨界碰撞美味",
+      "full_text": "全球美食融合创新，中西合璧新派料理，跨界碰撞美味",
+      "image": "res://assets/images/illustrations/food/food_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "food_067_4",
         "food_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/food/food_067_pixel.jpg"
     },
     {
       "id": "food_068",
-      "title": "美食 - 图片69",
-      "summary": "美食相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个细节都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/food/food_068.png",
+      "title": "分子料理",
+      "summary": "分子料理球化泡沫技术，科学方法重构美食，味觉艺术",
+      "full_text": "分子料理球化泡沫技术，科学方法重构美食，味觉艺术",
+      "image": "res://assets/images/illustrations/food/food_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "food_068_4",
         "food_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/food/food_068_pixel.jpg"
     },
     {
       "id": "food_069",
-      "title": "美食 - 图片70",
-      "summary": "美食相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它丰富地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/food/food_069.png",
+      "title": "素食文化",
+      "summary": "素食文化植物饮食，健康环保慈悲理念，绿色生活",
+      "full_text": "素食文化植物饮食，健康环保慈悲理念，绿色生活",
+      "image": "res://assets/images/illustrations/food/food_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "food_069_4",
         "food_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/food/food_069_pixel.jpg"
     }
   ]
 }

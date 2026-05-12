@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "mammals_000",
-      "title": "哺乳动物 - 图片1",
-      "summary": "哺乳动物相关图片",
-      "full_text": "狮子在广袤草原中群居生活，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_000.png",
+      "title": "非洲狮",
+      "summary": "非洲狮群在塞伦盖蒂草原上休息雄狮鬃毛威严",
+      "full_text": "非洲狮群在塞伦盖蒂草原上休息雄狮鬃毛威严",
+      "image": "res://assets/images/illustrations/mammals/mammals_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "mammals_000_4",
         "mammals_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_000_pixel.jpg"
     },
     {
       "id": "mammals_001",
-      "title": "哺乳动物 - 图片2",
-      "summary": "哺乳动物相关图片",
-      "full_text": "老虎在茂密森林中独居狩猎，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_001.png",
+      "title": "孟加拉虎",
+      "summary": "孟加拉虎在印度丛林中潜行条纹如光影伪装",
+      "full_text": "孟加拉虎在印度丛林中潜行条纹如光影伪装",
+      "image": "res://assets/images/illustrations/mammals/mammals_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "mammals_001_4",
         "mammals_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_001_pixel.jpg"
     },
     {
       "id": "mammals_002",
-      "title": "哺乳动物 - 图片3",
-      "summary": "哺乳动物相关图片",
-      "full_text": "大象是体型庞大的动物，它缓缓前行的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_002.png",
+      "title": "猎豹",
+      "summary": "猎豹在非洲草原上以时速百公里追逐瞪羚",
+      "full_text": "猎豹在非洲草原上以时速百公里追逐瞪羚",
+      "image": "res://assets/images/illustrations/mammals/mammals_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "mammals_002_4",
         "mammals_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_002_pixel.jpg"
     },
     {
       "id": "mammals_003",
-      "title": "哺乳动物 - 图片4",
-      "summary": "哺乳动物相关图片",
-      "full_text": "熊猫在翠绿竹林中悠闲觅食，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_003.png",
+      "title": "雪豹",
+      "summary": "雪豹在喜马拉雅雪线附近岩石间优雅地跳跃",
+      "full_text": "雪豹在喜马拉雅雪线附近岩石间优雅地跳跃",
+      "image": "res://assets/images/illustrations/mammals/mammals_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "mammals_003_4",
         "mammals_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_003_pixel.jpg"
     },
     {
       "id": "mammals_004",
-      "title": "哺乳动物 - 图片5",
-      "summary": "哺乳动物相关图片",
-      "full_text": "长颈鹿是身材高挑的动物，它优雅进食的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_004.png",
+      "title": "花豹",
+      "summary": "花豹将猎物拖上树冠悬挂进食独居隐秘",
+      "full_text": "花豹将猎物拖上树冠悬挂进食独居隐秘",
+      "image": "res://assets/images/illustrations/mammals/mammals_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "mammals_004_4",
         "mammals_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_004_pixel.jpg"
     },
     {
       "id": "mammals_005",
-      "title": "哺乳动物 - 图片6",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在非洲草原，斑马悠闲地低头吃草，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_005.png",
+      "title": "棕熊",
+      "summary": "棕熊在阿拉斯加河流中捕捉逆流而上的鲑鱼",
+      "full_text": "棕熊在阿拉斯加河流中捕捉逆流而上的鲑鱼",
+      "image": "res://assets/images/illustrations/mammals/mammals_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "mammals_005_4",
         "mammals_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_005_pixel.jpg"
     },
     {
       "id": "mammals_006",
-      "title": "哺乳动物 - 图片7",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只猴子，灵活跳跃，那份聪明伶俐的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_006.png",
+      "title": "北极熊",
+      "summary": "北极熊在浮冰上等待猎捕海豹白色皮毛如雪",
+      "full_text": "北极熊在浮冰上等待猎捕海豹白色皮毛如雪",
+      "image": "res://assets/images/illustrations/mammals/mammals_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "mammals_006_4",
         "mammals_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_006_pixel.jpg"
     },
     {
       "id": "mammals_007",
-      "title": "哺乳动物 - 图片8",
-      "summary": "哺乳动物相关图片",
-      "full_text": "猩猩是智商高超的动物，它攀爬嬉戏的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_007.png",
+      "title": "灰狼",
+      "summary": "灰狼群在黄石雪原上协作围猎野牛配合默契",
+      "full_text": "灰狼群在黄石雪原上协作围猎野牛配合默契",
+      "image": "res://assets/images/illustrations/mammals/mammals_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "mammals_007_4",
         "mammals_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_007_pixel.jpg"
     },
     {
       "id": "mammals_008",
-      "title": "哺乳动物 - 图片9",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在澳大利亚草原，袋鼠悠闲地育儿袋中，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_008.png",
+      "title": "北极狐",
+      "summary": "北极狐冬季白色皮毛在雪地中完美伪装",
+      "full_text": "北极狐冬季白色皮毛在雪地中完美伪装",
+      "image": "res://assets/images/illustrations/mammals/mammals_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "mammals_008_4",
         "mammals_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_008_pixel.jpg"
     },
     {
       "id": "mammals_009",
-      "title": "哺乳动物 - 图片10",
-      "summary": "哺乳动物相关图片",
-      "full_text": "考拉有着毛茸茸耳朵，是动物界中澳洲国宝的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_009.png",
+      "title": "鬣狗",
+      "summary": "斑鬣狗群在非洲草原上围攻猎物笑声般叫声",
+      "full_text": "斑鬣狗群在非洲草原上围攻猎物笑声般叫声",
+      "image": "res://assets/images/illustrations/mammals/mammals_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "mammals_009_4",
         "mammals_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_009_pixel.jpg"
     },
     {
       "id": "mammals_010",
-      "title": "哺乳动物 - 图片11",
-      "summary": "哺乳动物相关图片",
-      "full_text": "海豚有着流线身体，是动物界中智慧动物的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_010.png",
+      "title": "狞猫",
+      "summary": "狞猫耳尖黑色簇毛如天线在非洲灌木丛中猎食",
+      "full_text": "狞猫耳尖黑色簇毛如天线在非洲灌木丛中猎食",
+      "image": "res://assets/images/illustrations/mammals/mammals_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "mammals_010_4",
         "mammals_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_010_pixel.jpg"
     },
     {
       "id": "mammals_011",
-      "title": "哺乳动物 - 图片12",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鲸鱼是体型巨大的动物，它喷水换气的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_011.png",
+      "title": "猞猁",
+      "summary": "欧亚猞猁耳尖簇毛如毛笔在北方针叶林中潜行",
+      "full_text": "欧亚猞猁耳尖簇毛如毛笔在北方针叶林中潜行",
+      "image": "res://assets/images/illustrations/mammals/mammals_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "mammals_011_4",
         "mammals_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_011_pixel.jpg"
     },
     {
       "id": "mammals_012",
-      "title": "哺乳动物 - 图片13",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鲨鱼是凶猛强悍的动物，它巡游觅食的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_012.png",
+      "title": "美洲狮",
+      "summary": "美洲狮在北美山地中独来独往是最大猫科之一",
+      "full_text": "美洲狮在北美山地中独来独往是最大猫科之一",
+      "image": "res://assets/images/illustrations/mammals/mammals_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "mammals_012_4",
         "mammals_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_012_pixel.jpg"
     },
     {
       "id": "mammals_013",
-      "title": "哺乳动物 - 图片14",
-      "summary": "哺乳动物相关图片",
-      "full_text": "海龟有着坚硬龟壳，是动物界中活化石的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_013.png",
+      "title": "云豹",
+      "summary": "云豹身上云状斑纹在东南亚热带雨林中隐秘",
+      "full_text": "云豹身上云状斑纹在东南亚热带雨林中隐秘",
+      "image": "res://assets/images/illustrations/mammals/mammals_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "mammals_013_4",
         "mammals_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_013_pixel.jpg"
     },
     {
       "id": "mammals_014",
-      "title": "哺乳动物 - 图片15",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鳄鱼在沼泽湿地中伏击捕猎，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_014.png",
+      "title": "黑熊",
+      "summary": "亚洲黑熊胸前白色V形标记在森林中觅食浆果",
+      "full_text": "亚洲黑熊胸前白色V形标记在森林中觅食浆果",
+      "image": "res://assets/images/illustrations/mammals/mammals_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "mammals_014_4",
         "mammals_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_014_pixel.jpg"
     },
     {
       "id": "mammals_015",
-      "title": "哺乳动物 - 图片16",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只蛇，姿态优雅，那份独特气质的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_015.png",
+      "title": "大熊猫",
+      "summary": "大熊猫在四川竹林中抱竹而坐憨态可掬地啃食",
+      "full_text": "大熊猫在四川竹林中抱竹而坐憨态可掬地啃食",
+      "image": "res://assets/images/illustrations/mammals/mammals_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "mammals_015_4",
         "mammals_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_015_pixel.jpg"
     },
     {
       "id": "mammals_016",
-      "title": "哺乳动物 - 图片17",
-      "summary": "哺乳动物相关图片",
-      "full_text": "蜥蜴在自然栖息地中独特生活，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_016.png",
+      "title": "狐獴",
+      "summary": "狐獴成群站立在沙漠中放哨警戒姿态可爱",
+      "full_text": "狐獴成群站立在沙漠中放哨警戒姿态可爱",
+      "image": "res://assets/images/illustrations/mammals/mammals_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "mammals_016_4",
         "mammals_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_016_pixel.jpg"
     },
     {
       "id": "mammals_017",
-      "title": "哺乳动物 - 图片18",
-      "summary": "哺乳动物相关图片",
-      "full_text": "青蛙在自然栖息地中独特生活，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_017.png",
+      "title": "海豹",
+      "summary": "斑海豹在北极浮冰上晒太阳圆滚滚如鱼雷",
+      "full_text": "斑海豹在北极浮冰上晒太阳圆滚滚如鱼雷",
+      "image": "res://assets/images/illustrations/mammals/mammals_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "mammals_017_4",
         "mammals_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_017_pixel.jpg"
     },
     {
       "id": "mammals_018",
-      "title": "哺乳动物 - 图片19",
-      "summary": "哺乳动物相关图片",
-      "full_text": "蝴蝶是形态独特的动物，它悠闲活动的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_018.png",
+      "title": "海狮",
+      "summary": "海狮在太平洋海岸岩石上成群晒太阳吼叫",
+      "full_text": "海狮在太平洋海岸岩石上成群晒太阳吼叫",
+      "image": "res://assets/images/illustrations/mammals/mammals_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "mammals_018_4",
         "mammals_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_018_pixel.jpg"
     },
     {
       "id": "mammals_019",
-      "title": "哺乳动物 - 图片20",
-      "summary": "哺乳动物相关图片",
-      "full_text": "蜜蜂是形态独特的动物，它悠闲活动的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_019.png",
+      "title": "海象",
+      "summary": "海象长牙如象牙在北极冰面上成群堆叠",
+      "full_text": "海象长牙如象牙在北极冰面上成群堆叠",
+      "image": "res://assets/images/illustrations/mammals/mammals_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "mammals_019_4",
         "mammals_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_019_pixel.jpg"
     },
     {
       "id": "mammals_020",
-      "title": "哺乳动物 - 图片21",
-      "summary": "哺乳动物相关图片",
-      "full_text": "狮子是威风凛凛的动物，它悠闲漫步的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_020.png",
+      "title": "狼獾",
+      "summary": "狼獾体型虽小却凶猛无比敢从灰狼口中夺食",
+      "full_text": "狼獾体型虽小却凶猛无比敢从灰狼口中夺食",
+      "image": "res://assets/images/illustrations/mammals/mammals_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "mammals_020_4",
         "mammals_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_020_pixel.jpg"
     },
     {
       "id": "mammals_021",
-      "title": "哺乳动物 - 图片22",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只老虎，威风凛凛，那份勇猛果敢的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_021.png",
+      "title": "貂熊",
+      "summary": "貂熊在北方针叶林雪地中奔跑如小型棕熊",
+      "full_text": "貂熊在北方针叶林雪地中奔跑如小型棕熊",
+      "image": "res://assets/images/illustrations/mammals/mammals_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "mammals_021_4",
         "mammals_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_021_pixel.jpg"
     },
     {
       "id": "mammals_022",
-      "title": "哺乳动物 - 图片23",
-      "summary": "哺乳动物相关图片",
-      "full_text": "大象在辽阔草原中群体迁徙，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_022.png",
+      "title": "蜜獾",
+      "summary": "蜜獾无所畏惧敢于挑战毒蛇和大型掠食者",
+      "full_text": "蜜獾无所畏惧敢于挑战毒蛇和大型掠食者",
+      "image": "res://assets/images/illustrations/mammals/mammals_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "mammals_022_4",
         "mammals_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_022_pixel.jpg"
     },
     {
       "id": "mammals_023",
-      "title": "哺乳动物 - 图片24",
-      "summary": "哺乳动物相关图片",
-      "full_text": "熊猫有着黑白毛色，是动物界中国宝的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_023.png",
+      "title": "伶鼬",
+      "summary": "伶鼬是世界上最小的食肉动物冬季毛色变白",
+      "full_text": "伶鼬是世界上最小的食肉动物冬季毛色变白",
+      "image": "res://assets/images/illustrations/mammals/mammals_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "mammals_023_4",
         "mammals_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_023_pixel.jpg"
     },
     {
       "id": "mammals_024",
-      "title": "哺乳动物 - 图片25",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在非洲草原，长颈鹿悠闲地眺望远方，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_024.png",
+      "title": "猫鼬",
+      "summary": "猫鼬在非洲沙漠中群居生活轮流站岗放哨",
+      "full_text": "猫鼬在非洲沙漠中群居生活轮流站岗放哨",
+      "image": "res://assets/images/illustrations/mammals/mammals_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "mammals_024_4",
         "mammals_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_024_pixel.jpg"
     },
     {
       "id": "mammals_025",
-      "title": "哺乳动物 - 图片26",
-      "summary": "哺乳动物相关图片",
-      "full_text": "斑马有着条纹皮毛，是动物界中群居动物的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_025.png",
+      "title": "黑猩猩",
+      "summary": "黑猩猩使用树枝钓白蚁展现高超工具使用能力",
+      "full_text": "黑猩猩使用树枝钓白蚁展现高超工具使用能力",
+      "image": "res://assets/images/illustrations/mammals/mammals_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "mammals_025_4",
         "mammals_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_025_pixel.jpg"
     },
     {
       "id": "mammals_026",
-      "title": "哺乳动物 - 图片27",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只猴子，灵活跳跃，那份聪明伶俐的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_026.png",
+      "title": "大猩猩",
+      "summary": "银背大猩猩在非洲雨林中捶胸示威力量惊人",
+      "full_text": "银背大猩猩在非洲雨林中捶胸示威力量惊人",
+      "image": "res://assets/images/illustrations/mammals/mammals_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "mammals_026_4",
         "mammals_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_026_pixel.jpg"
     },
     {
       "id": "mammals_027",
-      "title": "哺乳动物 - 图片28",
-      "summary": "哺乳动物相关图片",
-      "full_text": "猩猩在热带雨林中树上栖息，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_027.png",
+      "title": "红毛猩猩",
+      "summary": "红毛猩猩在婆罗洲雨林树冠上筑巢而居聪慧",
+      "full_text": "红毛猩猩在婆罗洲雨林树冠上筑巢而居聪慧",
+      "image": "res://assets/images/illustrations/mammals/mammals_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "mammals_027_4",
         "mammals_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_027_pixel.jpg"
     },
     {
       "id": "mammals_028",
-      "title": "哺乳动物 - 图片29",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只袋鼠，轻盈跳跃，那份活泼可爱的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_028.png",
+      "title": "狒狒",
+      "summary": "狒狒群在非洲稀树草原上由雄性首领带领活动",
+      "full_text": "狒狒群在非洲稀树草原上由雄性首领带领活动",
+      "image": "res://assets/images/illustrations/mammals/mammals_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "mammals_028_4",
         "mammals_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_028_pixel.jpg"
     },
     {
       "id": "mammals_029",
-      "title": "哺乳动物 - 图片30",
-      "summary": "哺乳动物相关图片",
-      "full_text": "考拉是可爱温顺的动物，它抱树睡觉的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_029.png",
+      "title": "金丝猴",
+      "summary": "川金丝猴金色毛发在神农架雪中如精灵般美丽",
+      "full_text": "川金丝猴金色毛发在神农架雪中如精灵般美丽",
+      "image": "res://assets/images/illustrations/mammals/mammals_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "mammals_029_4",
         "mammals_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_029_pixel.jpg"
     },
     {
       "id": "mammals_030",
-      "title": "哺乳动物 - 图片31",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在海洋，海豚悠闲地追逐嬉戏，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_030.png",
+      "title": "长臂猿",
+      "summary": "白眉长臂猿在热带雨林中臂行如飞穿越树冠",
+      "full_text": "白眉长臂猿在热带雨林中臂行如飞穿越树冠",
+      "image": "res://assets/images/illustrations/mammals/mammals_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "mammals_030_4",
         "mammals_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_030_pixel.jpg"
     },
     {
       "id": "mammals_031",
-      "title": "哺乳动物 - 图片32",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鲸鱼在深邃海洋中长途迁徙，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_031.png",
+      "title": "卷尾猴",
+      "summary": "卷尾猴使用石块砸开坚果展现灵巧的动手能力",
+      "full_text": "卷尾猴使用石块砸开坚果展现灵巧的动手能力",
+      "image": "res://assets/images/illustrations/mammals/mammals_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "mammals_031_4",
         "mammals_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_031_pixel.jpg"
     },
     {
       "id": "mammals_032",
-      "title": "哺乳动物 - 图片33",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鲨鱼在浩瀚海洋中独自巡游，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_032.png",
+      "title": "猕猴",
+      "summary": "猕猴群在峨眉山间与游客互动社会等级分明",
+      "full_text": "猕猴群在峨眉山间与游客互动社会等级分明",
+      "image": "res://assets/images/illustrations/mammals/mammals_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "mammals_032_4",
         "mammals_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_032_pixel.jpg"
     },
     {
       "id": "mammals_033",
-      "title": "哺乳动物 - 图片34",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在海滩，海龟悠闲地产卵孵化，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_033.png",
+      "title": "狮尾狒",
+      "summary": "狮尾狒胸前红色皮肤如心形在埃塞俄比亚高原坐立",
+      "full_text": "狮尾狒胸前红色皮肤如心形在埃塞俄比亚高原坐立",
+      "image": "res://assets/images/illustrations/mammals/mammals_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "mammals_033_4",
         "mammals_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_033_pixel.jpg"
     },
     {
       "id": "mammals_034",
-      "title": "哺乳动物 - 图片35",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鳄鱼是远古爬行动物的动物，它静静潜伏的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_034.png",
+      "title": "狐猴",
+      "summary": "马达加斯加狐猴在雨林中跳跃如黑色精灵",
+      "full_text": "马达加斯加狐猴在雨林中跳跃如黑色精灵",
+      "image": "res://assets/images/illustrations/mammals/mammals_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "mammals_034_4",
         "mammals_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_034_pixel.jpg"
     },
     {
       "id": "mammals_035",
-      "title": "哺乳动物 - 图片36",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在自然环境，蛇悠闲地活动中，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_035.png",
+      "title": "环尾狐猴",
+      "summary": "环尾狐猴黑白环纹长尾在阳光下晒太阳如禅修",
+      "full_text": "环尾狐猴黑白环纹长尾在阳光下晒太阳如禅修",
+      "image": "res://assets/images/illustrations/mammals/mammals_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "mammals_035_4",
         "mammals_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_035_pixel.jpg"
     },
     {
       "id": "mammals_036",
-      "title": "哺乳动物 - 图片37",
-      "summary": "哺乳动物相关图片",
-      "full_text": "蜥蜴有着独特特征，是动物界中野生动物的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_036.png",
+      "title": "眼镜猴",
+      "summary": "眼镜猴巨大眼睛如眼镜在夜间雨林中捕食昆虫",
+      "full_text": "眼镜猴巨大眼睛如眼镜在夜间雨林中捕食昆虫",
+      "image": "res://assets/images/illustrations/mammals/mammals_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "mammals_036_4",
         "mammals_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_036_pixel.jpg"
     },
     {
       "id": "mammals_037",
-      "title": "哺乳动物 - 图片38",
-      "summary": "哺乳动物相关图片",
-      "full_text": "青蛙是形态独特的动物，它悠闲活动的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_037.png",
+      "title": "山魈",
+      "summary": "山魈面部色彩斑斓如面具是最大猴类之一",
+      "full_text": "山魈面部色彩斑斓如面具是最大猴类之一",
+      "image": "res://assets/images/illustrations/mammals/mammals_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "mammals_037_4",
         "mammals_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_037_pixel.jpg"
     },
     {
       "id": "mammals_038",
-      "title": "哺乳动物 - 图片39",
-      "summary": "哺乳动物相关图片",
-      "full_text": "蝴蝶是形态独特的动物，它悠闲活动的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_038.png",
+      "title": "疣猴",
+      "summary": "黑白疣猴飘逸长毛在非洲雨林树冠间优雅跳跃",
+      "full_text": "黑白疣猴飘逸长毛在非洲雨林树冠间优雅跳跃",
+      "image": "res://assets/images/illustrations/mammals/mammals_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "mammals_038_4",
         "mammals_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_038_pixel.jpg"
     },
     {
       "id": "mammals_039",
-      "title": "哺乳动物 - 图片40",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在自然环境，蜜蜂悠闲地活动中，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_039.png",
+      "title": "叶猴",
+      "summary": "黑叶猴在喀斯特峰林间跳跃如黑色闪电",
+      "full_text": "黑叶猴在喀斯特峰林间跳跃如黑色闪电",
+      "image": "res://assets/images/illustrations/mammals/mammals_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "mammals_039_4",
         "mammals_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_039_pixel.jpg"
     },
     {
       "id": "mammals_040",
-      "title": "哺乳动物 - 图片41",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在非洲草原，狮子悠闲地享受阳光，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_040.png",
+      "title": "蜘蛛猴",
+      "summary": "蜘蛛猴用尾巴如第五肢在雨林中悬挂摆荡",
+      "full_text": "蜘蛛猴用尾巴如第五肢在雨林中悬挂摆荡",
+      "image": "res://assets/images/illustrations/mammals/mammals_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "mammals_040_4",
         "mammals_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_040_pixel.jpg"
     },
     {
       "id": "mammals_041",
-      "title": "哺乳动物 - 图片42",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在亚洲森林，老虎悠闲地巡视领地，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_041.png",
+      "title": "吼猴",
+      "summary": "吼猴清晨发出震耳吼声宣告领地声传数公里",
+      "full_text": "吼猴清晨发出震耳吼声宣告领地声传数公里",
+      "image": "res://assets/images/illustrations/mammals/mammals_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "mammals_041_4",
         "mammals_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_041_pixel.jpg"
     },
     {
       "id": "mammals_042",
-      "title": "哺乳动物 - 图片43",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只大象，缓步前行，那份沉稳睿智的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_042.png",
+      "title": "僧帽猴",
+      "summary": "僧帽猴头顶黑色如方帽是智力最高的猴类之一",
+      "full_text": "僧帽猴头顶黑色如方帽是智力最高的猴类之一",
+      "image": "res://assets/images/illustrations/mammals/mammals_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "mammals_042_4",
         "mammals_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_042_pixel.jpg"
     },
     {
       "id": "mammals_043",
-      "title": "哺乳动物 - 图片44",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在中国竹林，熊猫悠闲地悠闲散步，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_043.png",
+      "title": "大狐猴",
+      "summary": "大狐猴是现存最大狐猴在马达加斯加森林中跳跃",
+      "full_text": "大狐猴是现存最大狐猴在马达加斯加森林中跳跃",
+      "image": "res://assets/images/illustrations/mammals/mammals_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "mammals_043_4",
         "mammals_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_043_pixel.jpg"
     },
     {
       "id": "mammals_044",
-      "title": "哺乳动物 - 图片45",
-      "summary": "哺乳动物相关图片",
-      "full_text": "长颈鹿有着长脖子，是动物界中最高动物的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_044.png",
+      "title": "倭黑猩猩",
+      "summary": "倭黑猩猩在刚果雨林中以和平方式解决冲突",
+      "full_text": "倭黑猩猩在刚果雨林中以和平方式解决冲突",
+      "image": "res://assets/images/illustrations/mammals/mammals_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "mammals_044_4",
         "mammals_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_044_pixel.jpg"
     },
     {
       "id": "mammals_045",
-      "title": "哺乳动物 - 图片46",
-      "summary": "哺乳动物相关图片",
-      "full_text": "斑马在无垠草原中群体奔跑，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_045.png",
+      "title": "白眉长臂猿",
+      "summary": "白眉长臂猿白色眉纹在云南雨林中啼鸣如歌",
+      "full_text": "白眉长臂猿白色眉纹在云南雨林中啼鸣如歌",
+      "image": "res://assets/images/illustrations/mammals/mammals_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "mammals_045_4",
         "mammals_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_045_pixel.jpg"
     },
     {
       "id": "mammals_046",
-      "title": "哺乳动物 - 图片47",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只猴子，灵活跳跃，那份聪明伶俐的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_046.png",
+      "title": "黑叶猴",
+      "summary": "黑叶猴在广西喀斯特悬崖上灵巧地攀爬跳跃",
+      "full_text": "黑叶猴在广西喀斯特悬崖上灵巧地攀爬跳跃",
+      "image": "res://assets/images/illustrations/mammals/mammals_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "mammals_046_4",
         "mammals_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_046_pixel.jpg"
     },
     {
       "id": "mammals_047",
-      "title": "哺乳动物 - 图片48",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只猩猩，沉思远望，那份聪明睿智的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_047.png",
+      "title": "川金丝猴",
+      "summary": "川金丝猴蓝色面孔金色毛发在秦岭雪中如仙",
+      "full_text": "川金丝猴蓝色面孔金色毛发在秦岭雪中如仙",
+      "image": "res://assets/images/illustrations/mammals/mammals_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "mammals_047_4",
         "mammals_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_047_pixel.jpg"
     },
     {
       "id": "mammals_048",
-      "title": "哺乳动物 - 图片49",
-      "summary": "哺乳动物相关图片",
-      "full_text": "袋鼠在澳洲内陆中跳跃前进，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_048.png",
+      "title": "白颊长臂猿",
+      "summary": "白颊长臂猿在云南热带雨林中臂行如飞穿梭",
+      "full_text": "白颊长臂猿在云南热带雨林中臂行如飞穿梭",
+      "image": "res://assets/images/illustrations/mammals/mammals_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "mammals_048_4",
         "mammals_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_048_pixel.jpg"
     },
     {
       "id": "mammals_049",
-      "title": "哺乳动物 - 图片50",
-      "summary": "哺乳动物相关图片",
-      "full_text": "考拉有着毛茸茸耳朵，是动物界中澳洲国宝的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_049.png",
+      "title": "黔金丝猴",
+      "summary": "黔金丝猴仅存于梵净山是珍稀中的珍稀物种",
+      "full_text": "黔金丝猴仅存于梵净山是珍稀中的珍稀物种",
+      "image": "res://assets/images/illustrations/mammals/mammals_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "mammals_049_4",
         "mammals_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_049_pixel.jpg"
     },
     {
       "id": "mammals_050",
-      "title": "哺乳动物 - 图片51",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只海豚，欢快跳跃，那份聪明友善的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_050.png",
+      "title": "非洲象",
+      "summary": "非洲象群在稀树草原上迁徙幼象走在母亲身旁",
+      "full_text": "非洲象群在稀树草原上迁徙幼象走在母亲身旁",
+      "image": "res://assets/images/illustrations/mammals/mammals_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "mammals_050_4",
         "mammals_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_050_pixel.jpg"
     },
     {
       "id": "mammals_051",
-      "title": "哺乳动物 - 图片52",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鲸鱼有着巨大身躯，是动物界中海洋巨兽的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_051.png",
+      "title": "亚洲象",
+      "summary": "亚洲象在西双版纳热带雨林中用长鼻卷食竹叶",
+      "full_text": "亚洲象在西双版纳热带雨林中用长鼻卷食竹叶",
+      "image": "res://assets/images/illustrations/mammals/mammals_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "mammals_051_4",
         "mammals_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_051_pixel.jpg"
     },
     {
       "id": "mammals_052",
-      "title": "哺乳动物 - 图片53",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鲨鱼有着锋利牙齿，是动物界中海洋霸主的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_052.png",
+      "title": "长颈鹿",
+      "summary": "长颈鹿在金合欢树间优雅地伸长脖子采食嫩叶",
+      "full_text": "长颈鹿在金合欢树间优雅地伸长脖子采食嫩叶",
+      "image": "res://assets/images/illustrations/mammals/mammals_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "mammals_052_4",
         "mammals_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_052_pixel.jpg"
     },
     {
       "id": "mammals_053",
-      "title": "哺乳动物 - 图片54",
-      "summary": "哺乳动物相关图片",
-      "full_text": "海龟在温暖海滩中远洋迁徙，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_053.png",
+      "title": "斑马",
+      "summary": "斑马群在塞伦盖蒂草原上奔跑条纹如波浪翻涌",
+      "full_text": "斑马群在塞伦盖蒂草原上奔跑条纹如波浪翻涌",
+      "image": "res://assets/images/illustrations/mammals/mammals_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "mammals_053_4",
         "mammals_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_053_pixel.jpg"
     },
     {
       "id": "mammals_054",
-      "title": "哺乳动物 - 图片55",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鳄鱼有着坚硬鳞片，是动物界中活化石的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_054.png",
+      "title": "非洲水牛",
+      "summary": "非洲水牛群在河岸泥潭中打滚降温角如弯刀",
+      "full_text": "非洲水牛群在河岸泥潭中打滚降温角如弯刀",
+      "image": "res://assets/images/illustrations/mammals/mammals_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "mammals_054_4",
         "mammals_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_054_pixel.jpg"
     },
     {
       "id": "mammals_055",
-      "title": "哺乳动物 - 图片56",
-      "summary": "哺乳动物相关图片",
-      "full_text": "蛇在自然栖息地中独特生活，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_055.png",
+      "title": "野牛",
+      "summary": "北美野牛群在落基山脉草原上如黑色巨浪移动",
+      "full_text": "北美野牛群在落基山脉草原上如黑色巨浪移动",
+      "image": "res://assets/images/illustrations/mammals/mammals_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "mammals_055_4",
         "mammals_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_055_pixel.jpg"
     },
     {
       "id": "mammals_056",
-      "title": "哺乳动物 - 图片57",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在自然环境，蜥蜴悠闲地活动中，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_056.png",
+      "title": "牦牛",
+      "summary": "牦牛在青藏高原暴风雪中如黑色岩石般坚韧",
+      "full_text": "牦牛在青藏高原暴风雪中如黑色岩石般坚韧",
+      "image": "res://assets/images/illustrations/mammals/mammals_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "mammals_056_4",
         "mammals_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_056_pixel.jpg"
     },
     {
       "id": "mammals_057",
-      "title": "哺乳动物 - 图片58",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只青蛙，姿态优雅，那份独特气质的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_057.png",
+      "title": "驯鹿",
+      "summary": "驯鹿群在北极苔原上大规模迁徙鹿角如树枝",
+      "full_text": "驯鹿群在北极苔原上大规模迁徙鹿角如树枝",
+      "image": "res://assets/images/illustrations/mammals/mammals_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "mammals_057_4",
         "mammals_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_057_pixel.jpg"
     },
     {
       "id": "mammals_058",
-      "title": "哺乳动物 - 图片59",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在自然环境，蝴蝶悠闲地活动中，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_058.png",
+      "title": "麋鹿",
+      "summary": "麋鹿在长江湿地中涉水觅食如回归的精灵",
+      "full_text": "麋鹿在长江湿地中涉水觅食如回归的精灵",
+      "image": "res://assets/images/illustrations/mammals/mammals_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "mammals_058_4",
         "mammals_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_058_pixel.jpg"
     },
     {
       "id": "mammals_059",
-      "title": "哺乳动物 - 图片60",
-      "summary": "哺乳动物相关图片",
-      "full_text": "蜜蜂是形态独特的动物，它悠闲活动的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_059.png",
+      "title": "驼鹿",
+      "summary": "驼鹿是最大鹿种肩高两米如巨兽在森林中穿行",
+      "full_text": "驼鹿是最大鹿种肩高两米如巨兽在森林中穿行",
+      "image": "res://assets/images/illustrations/mammals/mammals_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "mammals_059_4",
         "mammals_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_059_pixel.jpg"
     },
     {
       "id": "mammals_060",
-      "title": "哺乳动物 - 图片61",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只狮子，昂首挺胸，那份威武霸气的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_060.png",
+      "title": "河马",
+      "summary": "河马白天浸泡在河水中只露眼鼻夜间上岸觅食",
+      "full_text": "河马白天浸泡在河水中只露眼鼻夜间上岸觅食",
+      "image": "res://assets/images/illustrations/mammals/mammals_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "mammals_060_4",
         "mammals_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_060_pixel.jpg"
     },
     {
       "id": "mammals_061",
-      "title": "哺乳动物 - 图片62",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在亚洲森林，老虎悠闲地巡视领地，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_061.png",
+      "title": "犀牛",
+      "summary": "白犀牛在非洲草原上如史前巨兽般缓慢行走",
+      "full_text": "白犀牛在非洲草原上如史前巨兽般缓慢行走",
+      "image": "res://assets/images/illustrations/mammals/mammals_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "mammals_061_4",
         "mammals_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_061_pixel.jpg"
     },
     {
       "id": "mammals_062",
-      "title": "哺乳动物 - 图片63",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在非洲草原，大象悠闲地喷水玩耍，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_062.png",
+      "title": "野猪",
+      "summary": "野猪在橡树林中拱土觅食幼猪条纹如西瓜皮",
+      "full_text": "野猪在橡树林中拱土觅食幼猪条纹如西瓜皮",
+      "image": "res://assets/images/illustrations/mammals/mammals_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "mammals_062_4",
         "mammals_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_062_pixel.jpg"
     },
     {
       "id": "mammals_063",
-      "title": "哺乳动物 - 图片64",
-      "summary": "哺乳动物相关图片",
-      "full_text": "熊猫有着黑白毛色，是动物界中国宝的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_063.png",
+      "title": "家猪",
+      "summary": "家猪由野猪驯化而来是重要的家畜肉用动物",
+      "full_text": "家猪由野猪驯化而来是重要的家畜肉用动物",
+      "image": "res://assets/images/illustrations/mammals/mammals_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "mammals_063_4",
         "mammals_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_063_pixel.jpg"
     },
     {
       "id": "mammals_064",
-      "title": "哺乳动物 - 图片65",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只长颈鹿，优雅漫步，那份优雅高贵的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_064.png",
+      "title": "羚羊",
+      "summary": "跳羚在南非草原上弹跳如弹簧姿态轻盈优美",
+      "full_text": "跳羚在南非草原上弹跳如弹簧姿态轻盈优美",
+      "image": "res://assets/images/illustrations/mammals/mammals_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "mammals_064_4",
         "mammals_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_064_pixel.jpg"
     },
     {
       "id": "mammals_065",
-      "title": "哺乳动物 - 图片66",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只斑马，自由奔跑，那份自由奔放的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_065.png",
+      "title": "藏羚羊",
+      "summary": "藏羚羊在可可西里高原上奔跑如风绒毛珍贵",
+      "full_text": "藏羚羊在可可西里高原上奔跑如风绒毛珍贵",
+      "image": "res://assets/images/illustrations/mammals/mammals_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "mammals_065_4",
         "mammals_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_065_pixel.jpg"
     },
     {
       "id": "mammals_066",
-      "title": "哺乳动物 - 图片67",
-      "summary": "哺乳动物相关图片",
-      "full_text": "猴子是聪明活泼的动物，它灵活跳跃的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_066.png",
+      "title": "角马",
+      "summary": "角马百万大军渡马拉河鳄鱼潜伏水中惊心动魄",
+      "full_text": "角马百万大军渡马拉河鳄鱼潜伏水中惊心动魄",
+      "image": "res://assets/images/illustrations/mammals/mammals_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "mammals_066_4",
         "mammals_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_066_pixel.jpg"
     },
     {
       "id": "mammals_067",
-      "title": "哺乳动物 - 图片68",
-      "summary": "哺乳动物相关图片",
-      "full_text": "猩猩在热带雨林中树上栖息，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_067.png",
+      "title": "瞪羚",
+      "summary": "汤氏瞪羚在非洲草原上弹跳如弹簧警示同伴",
+      "full_text": "汤氏瞪羚在非洲草原上弹跳如弹簧警示同伴",
+      "image": "res://assets/images/illustrations/mammals/mammals_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "mammals_067_4",
         "mammals_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_067_pixel.jpg"
     },
     {
       "id": "mammals_068",
-      "title": "哺乳动物 - 图片69",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在澳大利亚草原，袋鼠悠闲地育儿袋中，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_068.png",
+      "title": "袋鼠",
+      "summary": "红袋鼠在澳大利亚内陆以跳跃方式高速奔跑",
+      "full_text": "红袋鼠在澳大利亚内陆以跳跃方式高速奔跑",
+      "image": "res://assets/images/illustrations/mammals/mammals_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "mammals_068_4",
         "mammals_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_068_pixel.jpg"
     },
     {
       "id": "mammals_069",
-      "title": "哺乳动物 - 图片70",
-      "summary": "哺乳动物相关图片",
-      "full_text": "考拉是可爱温顺的动物，它抱树睡觉的样子让人忍俊不禁。",
-      "image": "res://assets/images/illustrations/mammals/mammals_069.png",
+      "title": "考拉",
+      "summary": "考拉在桉树上抱树而睡每天睡眠长达二十小时",
+      "full_text": "考拉在桉树上抱树而睡每天睡眠长达二十小时",
+      "image": "res://assets/images/illustrations/mammals/mammals_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "mammals_069_4",
         "mammals_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_069_pixel.jpg"
     },
     {
       "id": "mammals_070",
-      "title": "哺乳动物 - 图片71",
-      "summary": "哺乳动物相关图片",
-      "full_text": "海豚在蔚蓝大海中群体游动，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_070.png",
+      "title": "鸭嘴兽",
+      "summary": "鸭嘴兽是卵生哺乳动物嘴如鸭蹼如獭如活化石",
+      "full_text": "鸭嘴兽是卵生哺乳动物嘴如鸭蹼如獭如活化石",
+      "image": "res://assets/images/illustrations/mammals/mammals_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "mammals_070_4",
         "mammals_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_070_pixel.jpg"
     },
     {
       "id": "mammals_071",
-      "title": "哺乳动物 - 图片72",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只鲸鱼，巨大摆尾，那份神秘庞大的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_071.png",
+      "title": "针鼹",
+      "summary": "针鼹浑身长刺如刺猬是卵生哺乳动物如恐龙遗民",
+      "full_text": "针鼹浑身长刺如刺猬是卵生哺乳动物如恐龙遗民",
+      "image": "res://assets/images/illustrations/mammals/mammals_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "mammals_071_4",
         "mammals_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_071_pixel.jpg"
     },
     {
       "id": "mammals_072",
-      "title": "哺乳动物 - 图片73",
-      "summary": "哺乳动物相关图片",
-      "full_text": "鲨鱼在浩瀚海洋中独自巡游，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_072.png",
+      "title": "海狸",
+      "summary": "海狸用树枝筑坝截流形成池塘是自然工程师",
+      "full_text": "海狸用树枝筑坝截流形成池塘是自然工程师",
+      "image": "res://assets/images/illustrations/mammals/mammals_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "mammals_072_4",
         "mammals_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_072_pixel.jpg"
     },
     {
       "id": "mammals_073",
-      "title": "哺乳动物 - 图片74",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只海龟，悠闲划水，那份长寿坚韧的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_073.png",
+      "title": "土拨鼠",
+      "summary": "土拨鼠在北美草原上打洞群居遇警发出哨声",
+      "full_text": "土拨鼠在北美草原上打洞群居遇警发出哨声",
+      "image": "res://assets/images/illustrations/mammals/mammals_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "mammals_073_4",
         "mammals_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_073_pixel.jpg"
     },
     {
       "id": "mammals_074",
-      "title": "哺乳动物 - 图片75",
-      "summary": "哺乳动物相关图片",
-      "full_text": "在沼泽，鳄鱼悠闲地晒太阳，展现出大自然最原始的生命力。",
-      "image": "res://assets/images/illustrations/mammals/mammals_074.png",
+      "title": "仓鼠",
+      "summary": "仓鼠腮囊鼓起如气球储存食物可爱至极",
+      "full_text": "仓鼠腮囊鼓起如气球储存食物可爱至极",
+      "image": "res://assets/images/illustrations/mammals/mammals_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,14 +1573,15 @@
         "mammals_074_4",
         "mammals_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_074_pixel.jpg"
     },
     {
       "id": "mammals_075",
-      "title": "哺乳动物 - 图片76",
-      "summary": "哺乳动物相关图片",
-      "full_text": "蛇有着独特特征，是动物界中野生动物的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_075.png",
+      "title": "豚鼠",
+      "summary": "豚鼠原产南美安第斯山脉是印加人的食物来源",
+      "full_text": "豚鼠原产南美安第斯山脉是印加人的食物来源",
+      "image": "res://assets/images/illustrations/mammals/mammals_075.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1519,14 +1594,15 @@
         "mammals_075_4",
         "mammals_075_5"
       ],
-      "order": 75
+      "order": 75,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_075_pixel.jpg"
     },
     {
       "id": "mammals_076",
-      "title": "哺乳动物 - 图片77",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只蜥蜴，姿态优雅，那份独特气质的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_076.png",
+      "title": "家兔",
+      "summary": "家兔在草地上竖起长耳警惕地观察四周动静",
+      "full_text": "家兔在草地上竖起长耳警惕地观察四周动静",
+      "image": "res://assets/images/illustrations/mammals/mammals_076.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1539,14 +1615,15 @@
         "mammals_076_4",
         "mammals_076_5"
       ],
-      "order": 76
+      "order": 76,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_076_pixel.jpg"
     },
     {
       "id": "mammals_077",
-      "title": "哺乳动物 - 图片78",
-      "summary": "哺乳动物相关图片",
-      "full_text": "青蛙有着独特特征，是动物界中野生动物的存在，令人敬畏。",
-      "image": "res://assets/images/illustrations/mammals/mammals_077.png",
+      "title": "野兔",
+      "summary": "欧洲野兔在田野上以Z字形奔跑躲避天敌追捕",
+      "full_text": "欧洲野兔在田野上以Z字形奔跑躲避天敌追捕",
+      "image": "res://assets/images/illustrations/mammals/mammals_077.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1559,14 +1636,15 @@
         "mammals_077_4",
         "mammals_077_5"
       ],
-      "order": 77
+      "order": 77,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_077_pixel.jpg"
     },
     {
       "id": "mammals_078",
-      "title": "哺乳动物 - 图片79",
-      "summary": "哺乳动物相关图片",
-      "full_text": "瞧这只蝴蝶，姿态优雅，那份独特气质的气质，让人印象深刻。",
-      "image": "res://assets/images/illustrations/mammals/mammals_078.png",
+      "title": "松鼠",
+      "summary": "红松鼠在秋季忙碌地埋藏橡果为过冬储备食物",
+      "full_text": "红松鼠在秋季忙碌地埋藏橡果为过冬储备食物",
+      "image": "res://assets/images/illustrations/mammals/mammals_078.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1579,14 +1657,15 @@
         "mammals_078_4",
         "mammals_078_5"
       ],
-      "order": 78
+      "order": 78,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_078_pixel.jpg"
     },
     {
       "id": "mammals_079",
-      "title": "哺乳动物 - 图片80",
-      "summary": "哺乳动物相关图片",
-      "full_text": "蜜蜂在自然栖息地中独特生活，构成了一幅和谐的自然画卷。",
-      "image": "res://assets/images/illustrations/mammals/mammals_079.png",
+      "title": "河狸鼠",
+      "summary": "河狸鼠在南美湿地中游泳如水獭般灵活",
+      "full_text": "河狸鼠在南美湿地中游泳如水獭般灵活",
+      "image": "res://assets/images/illustrations/mammals/mammals_079.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1599,7 +1678,8 @@
         "mammals_079_4",
         "mammals_079_5"
       ],
-      "order": 79
+      "order": 79,
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_079_pixel.jpg"
     }
   ]
 }

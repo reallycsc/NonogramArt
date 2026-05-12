@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "fashion_000",
-      "title": "时尚服饰 - 图片1",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索时尚潮流的世界，仿佛打开了一扇通往梦想世界的大门，充满了宁静与思想启迪。",
-      "image": "res://assets/images/illustrations/fashion/fashion_000.png",
+      "title": "汉代深衣曲裾",
+      "summary": "汉代贵族女性身着深衣曲裾，衣袖宽大飘逸，丝帛面料光泽流转",
+      "full_text": "汉代贵族女性身着深衣曲裾，衣袖宽大飘逸，丝帛面料光泽流转",
+      "image": "res://assets/images/illustrations/fashion/fashion_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "fashion_000_4",
         "fashion_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_000_pixel.jpg"
     },
     {
       "id": "fashion_001",
-      "title": "时尚服饰 - 图片2",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在风格魅力的领域里，历史变迁展现得淋漓尽致，每一个细节都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/fashion/fashion_001.png",
+      "title": "唐代齐胸襦裙",
+      "summary": "唐代仕女穿齐胸襦裙，裙摆曳地色彩绚丽，尽显大唐风华",
+      "full_text": "唐代仕女穿齐胸襦裙，裙摆曳地色彩绚丽，尽显大唐风华",
+      "image": "res://assets/images/illustrations/fashion/fashion_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "fashion_001_4",
         "fashion_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_001_pixel.jpg"
     },
     {
       "id": "fashion_002",
-      "title": "时尚服饰 - 图片3",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在服装设计的领域里，人类智慧展现得淋漓尽致，每一个情感都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/fashion/fashion_002.png",
+      "title": "宋代褙子素雅",
+      "summary": "宋代女子穿褙子搭配长裙，色调淡雅清新，体现内敛审美",
+      "full_text": "宋代女子穿褙子搭配长裙，色调淡雅清新，体现内敛审美",
+      "image": "res://assets/images/illustrations/fashion/fashion_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "fashion_002_4",
         "fashion_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_002_pixel.jpg"
     },
     {
       "id": "fashion_003",
-      "title": "时尚服饰 - 图片4",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索时尚美学的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了好奇与情感共鸣。",
-      "image": "res://assets/images/illustrations/fashion/fashion_003.png",
+      "title": "明代袄裙端庄",
+      "summary": "明代女性身着琵琶袖袄裙，上袄下裙端庄大方，织金纹饰精美",
+      "full_text": "明代女性身着琵琶袖袄裙，上袄下裙端庄大方，织金纹饰精美",
+      "image": "res://assets/images/illustrations/fashion/fashion_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "fashion_003_4",
         "fashion_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_003_pixel.jpg"
     },
     {
       "id": "fashion_004",
-      "title": "时尚服饰 - 图片5",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索潮流趋势的世界，仿佛打开了一扇通往美丽新世界的大门，充满了喜悦与情感共鸣。",
-      "image": "res://assets/images/illustrations/fashion/fashion_004.png",
+      "title": "清代旗装马褂",
+      "summary": "清代满族女性穿旗装，男子着马褂长袍，盘扣立领特色鲜明",
+      "full_text": "清代满族女性穿旗装，男子着马褂长袍，盘扣立领特色鲜明",
+      "image": "res://assets/images/illustrations/fashion/fashion_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "fashion_004_4",
         "fashion_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_004_pixel.jpg"
     },
     {
       "id": "fashion_005",
-      "title": "时尚服饰 - 图片6",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索时尚潮流的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了沉思与情感共鸣。",
-      "image": "res://assets/images/illustrations/fashion/fashion_005.png",
+      "title": "汉服交领右衽",
+      "summary": "汉服典型交领右衽设计，系带系结不用纽扣，宽袍大袖飘逸",
+      "full_text": "汉服典型交领右衽设计，系带系结不用纽扣，宽袍大袖飘逸",
+      "image": "res://assets/images/illustrations/fashion/fashion_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "fashion_005_4",
         "fashion_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_005_pixel.jpg"
     },
     {
       "id": "fashion_006",
-      "title": "时尚服饰 - 图片7",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在风格魅力的领域里，科学发现展现得淋漓尽致，每一个历史印记都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/fashion/fashion_006.png",
+      "title": "唐代圆领袍衫",
+      "summary": "唐代男子穿圆领袍衫束带配靴，英姿飒爽气度不凡",
+      "full_text": "唐代男子穿圆领袍衫束带配靴，英姿飒爽气度不凡",
+      "image": "res://assets/images/illustrations/fashion/fashion_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "fashion_006_4",
         "fashion_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_006_pixel.jpg"
     },
     {
       "id": "fashion_007",
-      "title": "时尚服饰 - 图片8",
-      "summary": "时尚服饰相关图片",
-      "full_text": "服装设计不仅描绘了时代精神，更传递了真善美的追求，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/fashion/fashion_007.png",
+      "title": "日本和服振袖",
+      "summary": "日本女性身着振袖和服，腰系华丽太鼓结，木屐踏碎樱花瓣",
+      "full_text": "日本女性身着振袖和服，腰系华丽太鼓结，木屐踏碎樱花瓣",
+      "image": "res://assets/images/illustrations/fashion/fashion_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "fashion_007_4",
         "fashion_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_007_pixel.jpg"
     },
     {
       "id": "fashion_008",
-      "title": "时尚服饰 - 图片9",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚美学是文化传承的结晶，它表达着永恒的真理，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/fashion/fashion_008.png",
+      "title": "韩国韩服赤古里",
+      "summary": "韩国女性穿赤古里裙，上衣短小色彩鲜艳，搭配优雅发髻",
+      "full_text": "韩国女性穿赤古里裙，上衣短小色彩鲜艳，搭配优雅发髻",
+      "image": "res://assets/images/illustrations/fashion/fashion_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "fashion_008_4",
         "fashion_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_008_pixel.jpg"
     },
     {
       "id": "fashion_009",
-      "title": "时尚服饰 - 图片10",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在潮流趋势的领域里，科学发现展现得淋漓尽致，每一个历史印记都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/fashion/fashion_009.png",
+      "title": "印度纱丽飘逸",
+      "summary": "印度女性身披纱丽，丝绸面料光泽流转，金线刺绣华美绝伦",
+      "full_text": "印度女性身披纱丽，丝绸面料光泽流转，金线刺绣华美绝伦",
+      "image": "res://assets/images/illustrations/fashion/fashion_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "fashion_009_4",
         "fashion_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_009_pixel.jpg"
     },
     {
       "id": "fashion_010",
-      "title": "时尚服饰 - 图片11",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚潮流是人类文明的重要组成部分，它细腻地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_010.png",
+      "title": "古埃及亚麻褶裙",
+      "summary": "古埃及人穿亚麻褶裙，白色布料轻盈透气，配黄金饰品",
+      "full_text": "古埃及人穿亚麻褶裙，白色布料轻盈透气，配黄金饰品",
+      "image": "res://assets/images/illustrations/fashion/fashion_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "fashion_010_4",
         "fashion_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_010_pixel.jpg"
     },
     {
       "id": "fashion_011",
-      "title": "时尚服饰 - 图片12",
-      "summary": "时尚服饰相关图片",
-      "full_text": "风格魅力是人类文明的重要组成部分，它和谐地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_011.png",
+      "title": "古希腊希顿长袍",
+      "summary": "古希腊人身披希顿长袍，布料自然垂坠，褶皱优美如雕塑",
+      "full_text": "古希腊人身披希顿长袍，布料自然垂坠，褶皱优美如雕塑",
+      "image": "res://assets/images/illustrations/fashion/fashion_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "fashion_011_4",
         "fashion_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_011_pixel.jpg"
     },
     {
       "id": "fashion_012",
-      "title": "时尚服饰 - 图片13",
-      "summary": "时尚服饰相关图片",
-      "full_text": "服装设计是情感表达的结晶，它创造着永恒的真理，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/fashion/fashion_012.png",
+      "title": "古罗马托加袍",
+      "summary": "古罗马公民身披托加长袍，白色羊毛织物层层缠绕象征身份",
+      "full_text": "古罗马公民身披托加长袍，白色羊毛织物层层缠绕象征身份",
+      "image": "res://assets/images/illustrations/fashion/fashion_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "fashion_012_4",
         "fashion_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_012_pixel.jpg"
     },
     {
       "id": "fashion_013",
-      "title": "时尚服饰 - 图片14",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在时尚美学的领域里，人文景观展现得淋漓尽致，每一个思想都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/fashion/fashion_013.png",
+      "title": "中世纪骑士铠甲",
+      "summary": "中世纪骑士身着锁子甲，外罩纹章战袍，手持长剑威风凛凛",
+      "full_text": "中世纪骑士身着锁子甲，外罩纹章战袍，手持长剑威风凛凛",
+      "image": "res://assets/images/illustrations/fashion/fashion_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "fashion_013_4",
         "fashion_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_013_pixel.jpg"
     },
     {
       "id": "fashion_014",
-      "title": "时尚服饰 - 图片15",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在潮流趋势的领域里，自然奇观展现得淋漓尽致，每一个细节都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/fashion/fashion_014.png",
+      "title": "文艺复兴华服",
+      "summary": "文艺复兴时期贵族华服，天鹅绒面料绣金线，拉夫领精致繁复",
+      "full_text": "文艺复兴时期贵族华服，天鹅绒面料绣金线，拉夫领精致繁复",
+      "image": "res://assets/images/illustrations/fashion/fashion_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "fashion_014_4",
         "fashion_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_014_pixel.jpg"
     },
     {
       "id": "fashion_015",
-      "title": "时尚服饰 - 图片16",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚潮流是审美追求的结晶，它承载着创新的理念，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/fashion/fashion_015.png",
+      "title": "维京毛皮斗篷",
+      "summary": "维京战士披毛皮斗篷，头戴角盔手持战斧，抵御北欧严寒",
+      "full_text": "维京战士披毛皮斗篷，头戴角盔手持战斧，抵御北欧严寒",
+      "image": "res://assets/images/illustrations/fashion/fashion_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "fashion_015_4",
         "fashion_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_015_pixel.jpg"
     },
     {
       "id": "fashion_016",
-      "title": "时尚服饰 - 图片17",
-      "summary": "时尚服饰相关图片",
-      "full_text": "风格魅力是人类文明的重要组成部分，它庄重地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_016.png",
+      "title": "蒙古长袍皮帽",
+      "summary": "蒙古牧民穿长袍系腰带，头戴皮帽防风，马靴便于骑射",
+      "full_text": "蒙古牧民穿长袍系腰带，头戴皮帽防风，马靴便于骑射",
+      "image": "res://assets/images/illustrations/fashion/fashion_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "fashion_016_4",
         "fashion_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_016_pixel.jpg"
     },
     {
       "id": "fashion_017",
-      "title": "时尚服饰 - 图片18",
-      "summary": "时尚服饰相关图片",
-      "full_text": "服装设计是审美追求的结晶，它表达着人文的关怀，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/fashion/fashion_017.png",
+      "title": "奥斯曼刺绣长袍",
+      "summary": "奥斯曼贵族穿刺绣长袍，头戴缠头巾，丝绸面料纹饰华丽",
+      "full_text": "奥斯曼贵族穿刺绣长袍，头戴缠头巾，丝绸面料纹饰华丽",
+      "image": "res://assets/images/illustrations/fashion/fashion_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "fashion_017_4",
         "fashion_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_017_pixel.jpg"
     },
     {
       "id": "fashion_018",
-      "title": "时尚服饰 - 图片19",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚美学是人类文明的重要组成部分，它灵动地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_018.png",
+      "title": "非洲坎加彩布",
+      "summary": "非洲女性身披坎加彩布，色彩鲜艳图案寓意丰富，搭配珠饰",
+      "full_text": "非洲女性身披坎加彩布，色彩鲜艳图案寓意丰富，搭配珠饰",
+      "image": "res://assets/images/illustrations/fashion/fashion_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "fashion_018_4",
         "fashion_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_018_pixel.jpg"
     },
     {
       "id": "fashion_019",
-      "title": "时尚服饰 - 图片20",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索潮流趋势的世界，仿佛打开了一扇通往知识海洋的大门，充满了好奇与视觉享受。",
-      "image": "res://assets/images/illustrations/fashion/fashion_019.png",
+      "title": "苏格兰格纹短裙",
+      "summary": "苏格兰男子穿格纹短裙，配风笛与腰包，彰显高地传统",
+      "full_text": "苏格兰男子穿格纹短裙，配风笛与腰包，彰显高地传统",
+      "image": "res://assets/images/illustrations/fashion/fashion_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "fashion_019_4",
         "fashion_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_019_pixel.jpg"
     },
     {
       "id": "fashion_020",
-      "title": "时尚服饰 - 图片21",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚潮流是思想升华的结晶，它记录着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/fashion/fashion_020.png",
+      "title": "维多利亚束腰裙",
+      "summary": "维多利亚时代女性穿束腰蓬裙，蕾丝装饰精致，裙撑如花绽放",
+      "full_text": "维多利亚时代女性穿束腰蓬裙，蕾丝装饰精致，裙撑如花绽放",
+      "image": "res://assets/images/illustrations/fashion/fashion_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "fashion_020_4",
         "fashion_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_020_pixel.jpg"
     },
     {
       "id": "fashion_021",
-      "title": "时尚服饰 - 图片22",
-      "summary": "时尚服饰相关图片",
-      "full_text": "风格魅力是生活体验的结晶，它创造着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/fashion/fashion_021.png",
+      "title": "民国初期旗袍",
+      "summary": "民国初期旗袍宽松剪裁，倒大袖配素雅花纹，中西合璧初现",
+      "full_text": "民国初期旗袍宽松剪裁，倒大袖配素雅花纹，中西合璧初现",
+      "image": "res://assets/images/illustrations/fashion/fashion_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "fashion_021_4",
         "fashion_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_021_pixel.jpg"
     },
     {
       "id": "fashion_022",
-      "title": "时尚服饰 - 图片23",
-      "summary": "时尚服饰相关图片",
-      "full_text": "服装设计是时代精神的结晶，它传递着社会的进步，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/fashion/fashion_022.png",
+      "title": "海派改良旗袍",
+      "summary": "海派旗袍修身开叉，勾勒东方女性曲线美，配珍珠项链优雅",
+      "full_text": "海派旗袍修身开叉，勾勒东方女性曲线美，配珍珠项链优雅",
+      "image": "res://assets/images/illustrations/fashion/fashion_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "fashion_022_4",
         "fashion_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_022_pixel.jpg"
     },
     {
       "id": "fashion_023",
-      "title": "时尚服饰 - 图片24",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚美学是人类文明的重要组成部分，它独特地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_023.png",
+      "title": "中山装庄重",
+      "summary": "民国男子穿中山装，立翻领四口袋设计庄重，象征革命精神",
+      "full_text": "民国男子穿中山装，立翻领四口袋设计庄重，象征革命精神",
+      "image": "res://assets/images/illustrations/fashion/fashion_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "fashion_023_4",
         "fashion_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_023_pixel.jpg"
     },
     {
       "id": "fashion_024",
-      "title": "时尚服饰 - 图片25",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索潮流趋势的世界，仿佛打开了一扇通往美丽新世界的大门，充满了温馨与精神升华。",
-      "image": "res://assets/images/illustrations/fashion/fashion_024.png",
+      "title": "绅士西装三件套",
+      "summary": "绅士穿西装三件套，马甲配怀表优雅得体，礼帽手杖一应俱全",
+      "full_text": "绅士穿西装三件套，马甲配怀表优雅得体，礼帽手杖一应俱全",
+      "image": "res://assets/images/illustrations/fashion/fashion_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "fashion_024_4",
         "fashion_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_024_pixel.jpg"
     },
     {
       "id": "fashion_025",
-      "title": "时尚服饰 - 图片26",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚潮流不仅创造了自然之美，更传递了梦想的价值，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/fashion/fashion_025.png",
+      "title": "飞女郎短裙",
+      "summary": "1920年代飞女郎穿低腰短裙，头戴羽毛发带，手执长烟嘴",
+      "full_text": "1920年代飞女郎穿低腰短裙，头戴羽毛发带，手执长烟嘴",
+      "image": "res://assets/images/illustrations/fashion/fashion_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "fashion_025_4",
         "fashion_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_025_pixel.jpg"
     },
     {
       "id": "fashion_026",
-      "title": "时尚服饰 - 图片27",
-      "summary": "时尚服饰相关图片",
-      "full_text": "风格魅力是生活体验的结晶，它诠释着深刻的思考，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/fashion/fashion_026.png",
+      "title": "好莱坞缎面长裙",
+      "summary": "1930年代好莱坞女星穿缎面长裙，斜裁工艺贴身优雅迷人",
+      "full_text": "1930年代好莱坞女星穿缎面长裙，斜裁工艺贴身优雅迷人",
+      "image": "res://assets/images/illustrations/fashion/fashion_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "fashion_026_4",
         "fashion_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_026_pixel.jpg"
     },
     {
       "id": "fashion_027",
-      "title": "时尚服饰 - 图片28",
-      "summary": "时尚服饰相关图片",
-      "full_text": "服装设计是文化传承的结晶，它记录着美好的愿景，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/fashion/fashion_027.png",
+      "title": "二战军装风格",
+      "summary": "二战时期女性穿军装风格外套，垫肩利落干练，实用主义当道",
+      "full_text": "二战时期女性穿军装风格外套，垫肩利落干练，实用主义当道",
+      "image": "res://assets/images/illustrations/fashion/fashion_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "fashion_027_4",
         "fashion_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_027_pixel.jpg"
     },
     {
       "id": "fashion_028",
-      "title": "时尚服饰 - 图片29",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚美学不仅传承了生活哲理，更传递了智慧的光芒，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/fashion/fashion_028.png",
+      "title": "迪奥新风貌",
+      "summary": "1950年代迪奥新风貌，收腰蓬裙细高跟鞋，重塑战后优雅",
+      "full_text": "1950年代迪奥新风貌，收腰蓬裙细高跟鞋，重塑战后优雅",
+      "image": "res://assets/images/illustrations/fashion/fashion_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "fashion_028_4",
         "fashion_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_028_pixel.jpg"
     },
     {
       "id": "fashion_029",
-      "title": "时尚服饰 - 图片30",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在潮流趋势的领域里，生态保护展现得淋漓尽致，每一个自然元素都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/fashion/fashion_029.png",
+      "title": "迷你裙风靡",
+      "summary": "1960年代迷你裙风靡全球，少女穿超短裙配长靴活力四射",
+      "full_text": "1960年代迷你裙风靡全球，少女穿超短裙配长靴活力四射",
+      "image": "res://assets/images/illustrations/fashion/fashion_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "fashion_029_4",
         "fashion_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_029_pixel.jpg"
     },
     {
       "id": "fashion_030",
-      "title": "时尚服饰 - 图片31",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚潮流不仅表达了人类文明，更传递了智慧的光芒，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/fashion/fashion_030.png",
+      "title": "嬉皮扎染风",
+      "summary": "1970年代嬉皮士穿扎染T恤配喇叭裤，头戴花环追求和平",
+      "full_text": "1970年代嬉皮士穿扎染T恤配喇叭裤，头戴花环追求和平",
+      "image": "res://assets/images/illustrations/fashion/fashion_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "fashion_030_4",
         "fashion_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_030_pixel.jpg"
     },
     {
       "id": "fashion_031",
-      "title": "时尚服饰 - 图片32",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索风格魅力的世界，仿佛打开了一扇通往梦想世界的大门，充满了激情与思想启迪。",
-      "image": "res://assets/images/illustrations/fashion/fashion_031.png",
+      "title": "朋克铆钉皮衣",
+      "summary": "朋克青年穿铆钉皮衣配格子裙，莫西干发型张扬叛逆",
+      "full_text": "朋克青年穿铆钉皮衣配格子裙，莫西干发型张扬叛逆",
+      "image": "res://assets/images/illustrations/fashion/fashion_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "fashion_031_4",
         "fashion_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_031_pixel.jpg"
     },
     {
       "id": "fashion_032",
-      "title": "时尚服饰 - 图片33",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在服装设计的领域里，人文景观展现得淋漓尽致，每一个自然元素都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/fashion/fashion_032.png",
+      "title": "权力套装宽肩",
+      "summary": "1980年代职业女性穿宽肩权力套装，大金耳环气场强大",
+      "full_text": "1980年代职业女性穿宽肩权力套装，大金耳环气场强大",
+      "image": "res://assets/images/illustrations/fashion/fashion_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "fashion_032_4",
         "fashion_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_032_pixel.jpg"
     },
     {
       "id": "fashion_033",
-      "title": "时尚服饰 - 图片34",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚美学是人类文明的重要组成部分，它丰富地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_033.png",
+      "title": "极简主义黑白灰",
+      "summary": "1990年代极简主义风行，黑白灰简约搭配，剪裁利落质感至上",
+      "full_text": "1990年代极简主义风行，黑白灰简约搭配，剪裁利落质感至上",
+      "image": "res://assets/images/illustrations/fashion/fashion_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "fashion_033_4",
         "fashion_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_033_pixel.jpg"
     },
     {
       "id": "fashion_034",
-      "title": "时尚服饰 - 图片35",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在潮流趋势的领域里，文化传承展现得淋漓尽致，每一个历史印记都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/fashion/fashion_034.png",
+      "title": "牛仔裤文化",
+      "summary": "牛仔裤从工装到时尚标志，破洞做旧风格多变，百搭经典",
+      "full_text": "牛仔裤从工装到时尚标志，破洞做旧风格多变，百搭经典",
+      "image": "res://assets/images/illustrations/fashion/fashion_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "fashion_034_4",
         "fashion_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_034_pixel.jpg"
     },
     {
       "id": "fashion_035",
-      "title": "时尚服饰 - 图片36",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在时尚潮流的领域里，文化传承展现得淋漓尽致，每一个思想都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/fashion/fashion_035.png",
+      "title": "经典双排扣风衣",
+      "summary": "经典双排扣风衣，卡其色束腰带防风时尚，英伦风格永恒",
+      "full_text": "经典双排扣风衣，卡其色束腰带防风时尚，英伦风格永恒",
+      "image": "res://assets/images/illustrations/fashion/fashion_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "fashion_035_4",
         "fashion_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_035_pixel.jpg"
     },
     {
       "id": "fashion_036",
-      "title": "时尚服饰 - 图片37",
-      "summary": "时尚服饰相关图片",
-      "full_text": "风格魅力不仅传递了时代精神，更传递了生命的意义，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/fashion/fashion_036.png",
+      "title": "运动休闲风",
+      "summary": "运动服融入日常穿搭，卫衣球鞋舒适随性，athleisure成...",
+      "full_text": "运动服融入日常穿搭，卫衣球鞋舒适随性，athleisure成潮流",
+      "image": "res://assets/images/illustrations/fashion/fashion_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "fashion_036_4",
         "fashion_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_036_pixel.jpg"
     },
     {
       "id": "fashion_037",
-      "title": "时尚服饰 - 图片38",
-      "summary": "时尚服饰相关图片",
-      "full_text": "服装设计不仅塑造了自然之美，更传递了情感的力量，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/fashion/fashion_037.png",
+      "title": "学院风穿搭",
+      "summary": "学院风穿搭，针织衫搭衬衫配格纹裙，书卷气与优雅并存",
+      "full_text": "学院风穿搭，针织衫搭衬衫配格纹裙，书卷气与优雅并存",
+      "image": "res://assets/images/illustrations/fashion/fashion_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "fashion_037_4",
         "fashion_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_037_pixel.jpg"
     },
     {
       "id": "fashion_038",
-      "title": "时尚服饰 - 图片39",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚美学不仅创造了历史记忆，更传递了文化的传承，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/fashion/fashion_038.png",
+      "title": "波西米亚长裙",
+      "summary": "波西米亚风格长裙配流苏披肩，编织配饰自由浪漫不羁",
+      "full_text": "波西米亚风格长裙配流苏披肩，编织配饰自由浪漫不羁",
+      "image": "res://assets/images/illustrations/fashion/fashion_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "fashion_038_4",
         "fashion_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_038_pixel.jpg"
     },
     {
       "id": "fashion_039",
-      "title": "时尚服饰 - 图片40",
-      "summary": "时尚服饰相关图片",
-      "full_text": "潮流趋势不仅表达了生命意义，更传递了情感的力量，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/fashion/fashion_039.png",
+      "title": "洛丽塔蓬蓬裙",
+      "summary": "洛丽塔风格蓬蓬裙配蕾丝发饰，蝴蝶结点缀甜美精致",
+      "full_text": "洛丽塔风格蓬蓬裙配蕾丝发饰，蝴蝶结点缀甜美精致",
+      "image": "res://assets/images/illustrations/fashion/fashion_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "fashion_039_4",
         "fashion_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_039_pixel.jpg"
     },
     {
       "id": "fashion_040",
-      "title": "时尚服饰 - 图片41",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索时尚潮流的世界，仿佛打开了一扇通往历史长河的大门，充满了沉醉与文化浸润。",
-      "image": "res://assets/images/illustrations/fashion/fashion_040.png",
+      "title": "工装连体裤",
+      "summary": "工装连体裤从车间到秀场，多口袋设计实用与时尚兼具",
+      "full_text": "工装连体裤从车间到秀场，多口袋设计实用与时尚兼具",
+      "image": "res://assets/images/illustrations/fashion/fashion_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "fashion_040_4",
         "fashion_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_040_pixel.jpg"
     },
     {
       "id": "fashion_041",
-      "title": "时尚服饰 - 图片42",
-      "summary": "时尚服饰相关图片",
-      "full_text": "风格魅力不仅弘扬了生命意义，更传递了情感的力量，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/fashion/fashion_041.png",
+      "title": "华丽晚礼服",
+      "summary": "华丽晚礼服拖地长裙，亮片刺绣璀璨夺目，红毯上光芒万丈",
+      "full_text": "华丽晚礼服拖地长裙，亮片刺绣璀璨夺目，红毯上光芒万丈",
+      "image": "res://assets/images/illustrations/fashion/fashion_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "fashion_041_4",
         "fashion_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_041_pixel.jpg"
     },
     {
       "id": "fashion_042",
-      "title": "时尚服饰 - 图片43",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索服装设计的世界，仿佛打开了一扇通往精神家园的大门，充满了宁静与精神升华。",
-      "image": "res://assets/images/illustrations/fashion/fashion_042.png",
+      "title": "白色婚纱演变",
+      "summary": "白色婚纱从维多利亚至今，蕾丝头纱梦幻浪漫，圣洁优雅",
+      "full_text": "白色婚纱从维多利亚至今，蕾丝头纱梦幻浪漫，圣洁优雅",
+      "image": "res://assets/images/illustrations/fashion/fashion_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "fashion_042_4",
         "fashion_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_042_pixel.jpg"
     },
     {
       "id": "fashion_043",
-      "title": "时尚服饰 - 图片44",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚美学是人类文明的重要组成部分，它神秘地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_043.png",
+      "title": "新中式唐装",
+      "summary": "从中山装到新中式唐装，立领盘扣融入现代剪裁，男装国潮复兴",
+      "full_text": "从中山装到新中式唐装，立领盘扣融入现代剪裁，男装国潮复兴",
+      "image": "res://assets/images/illustrations/fashion/fashion_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "fashion_043_4",
         "fashion_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_043_pixel.jpg"
     },
     {
       "id": "fashion_044",
-      "title": "时尚服饰 - 图片45",
-      "summary": "时尚服饰相关图片",
-      "full_text": "潮流趋势是人类文明的重要组成部分，它精彩地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_044.png",
+      "title": "街头潮流风",
+      "summary": "街头潮人穿oversize卫衣配工装裤，限量球鞋点睛吸睛",
+      "full_text": "街头潮人穿oversize卫衣配工装裤，限量球鞋点睛吸睛",
+      "image": "res://assets/images/illustrations/fashion/fashion_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "fashion_044_4",
         "fashion_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_044_pixel.jpg"
     },
     {
       "id": "fashion_045",
-      "title": "时尚服饰 - 图片46",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚潮流是人类文明的重要组成部分，它优雅地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_045.png",
+      "title": "极简穿搭质感",
+      "summary": "极简风格纯色搭配，剪裁利落质感至上，less is more...",
+      "full_text": "极简风格纯色搭配，剪裁利落质感至上，less is more哲学",
+      "image": "res://assets/images/illustrations/fashion/fashion_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "fashion_045_4",
         "fashion_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_045_pixel.jpg"
     },
     {
       "id": "fashion_046",
-      "title": "时尚服饰 - 图片47",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在风格魅力的领域里，历史变迁展现得淋漓尽致，每一个自然元素都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/fashion/fashion_046.png",
+      "title": "国潮品牌兴起",
+      "summary": "国潮品牌融入传统元素，龙纹刺绣配现代剪裁，文化自信",
+      "full_text": "国潮品牌融入传统元素，龙纹刺绣配现代剪裁，文化自信",
+      "image": "res://assets/images/illustrations/fashion/fashion_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "fashion_046_4",
         "fashion_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_046_pixel.jpg"
     },
     {
       "id": "fashion_047",
-      "title": "时尚服饰 - 图片48",
-      "summary": "时尚服饰相关图片",
-      "full_text": "服装设计是人类文明的重要组成部分，它自然地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_047.png",
+      "title": "运动时尚风",
+      "summary": "运动休闲风盛行，瑜伽裤配运动内衣成日常，舒适至上",
+      "full_text": "运动休闲风盛行，瑜伽裤配运动内衣成日常，舒适至上",
+      "image": "res://assets/images/illustrations/fashion/fashion_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "fashion_047_4",
         "fashion_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_047_pixel.jpg"
     },
     {
       "id": "fashion_048",
-      "title": "时尚服饰 - 图片49",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在时尚美学的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/fashion/fashion_048.png",
+      "title": "可持续时尚",
+      "summary": "环保面料制成的时装，回收塑料瓶变运动鞋，绿色时尚兴起",
+      "full_text": "环保面料制成的时装，回收塑料瓶变运动鞋，绿色时尚兴起",
+      "image": "res://assets/images/illustrations/fashion/fashion_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "fashion_048_4",
         "fashion_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_048_pixel.jpg"
     },
     {
       "id": "fashion_049",
-      "title": "时尚服饰 - 图片50",
-      "summary": "时尚服饰相关图片",
-      "full_text": "潮流趋势是人类文明的重要组成部分，它优雅地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/fashion/fashion_049.png",
+      "title": "汉服复兴运动",
+      "summary": "年轻人穿汉服逛街游览，传统文化融入现代生活，自信展示",
+      "full_text": "年轻人穿汉服逛街游览，传统文化融入现代生活，自信展示",
+      "image": "res://assets/images/illustrations/fashion/fashion_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "fashion_049_4",
         "fashion_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_049_pixel.jpg"
     },
     {
       "id": "fashion_050",
-      "title": "时尚服饰 - 图片51",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在时尚潮流的领域里，科技进步展现得淋漓尽致，每一个思想都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/fashion/fashion_050.png",
+      "title": "无性别穿搭",
+      "summary": "打破性别界限的穿搭，男女共享衣橱，中性风潮席卷时尚圈",
+      "full_text": "打破性别界限的穿搭，男女共享衣橱，中性风潮席卷时尚圈",
+      "image": "res://assets/images/illustrations/fashion/fashion_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "fashion_050_4",
         "fashion_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_050_pixel.jpg"
     },
     {
       "id": "fashion_051",
-      "title": "时尚服饰 - 图片52",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在风格魅力的领域里，科技进步展现得淋漓尽致，每一个思想都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/fashion/fashion_051.png",
+      "title": "Y2K复古回潮",
+      "summary": "Y2K风格回归，低腰裤配亮色配饰，千禧年美学重现街头",
+      "full_text": "Y2K风格回归，低腰裤配亮色配饰，千禧年美学重现街头",
+      "image": "res://assets/images/illustrations/fashion/fashion_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "fashion_051_4",
         "fashion_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_051_pixel.jpg"
     },
     {
       "id": "fashion_052",
-      "title": "时尚服饰 - 图片53",
-      "summary": "时尚服饰相关图片",
-      "full_text": "服装设计是情感表达的结晶，它激励着深刻的思考，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/fashion/fashion_052.png",
+      "title": "高街联名款",
+      "summary": "奢侈品牌与街头联名，限量款引发抢购，跨界合作成趋势",
+      "full_text": "奢侈品牌与街头联名，限量款引发抢购，跨界合作成趋势",
+      "image": "res://assets/images/illustrations/fashion/fashion_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "fashion_052_4",
         "fashion_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_052_pixel.jpg"
     },
     {
       "id": "fashion_053",
-      "title": "时尚服饰 - 图片54",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚美学是艺术创造的结晶，它诠释着人类的梦想，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/fashion/fashion_053.png",
+      "title": "户外机能风",
+      "summary": "户外机能风冲锋衣，防水透气多口袋设计，都市与自然兼顾",
+      "full_text": "户外机能风冲锋衣，防水透气多口袋设计，都市与自然兼顾",
+      "image": "res://assets/images/illustrations/fashion/fashion_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "fashion_053_4",
         "fashion_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_053_pixel.jpg"
     },
     {
       "id": "fashion_054",
-      "title": "时尚服饰 - 图片55",
-      "summary": "时尚服饰相关图片",
-      "full_text": "潮流趋势是审美追求的结晶，它诠释着创新的理念，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/fashion/fashion_054.png",
+      "title": "定制西装手工",
+      "summary": "量体裁衣定制西装，手工缝制细节考究，绅士品味之选",
+      "full_text": "量体裁衣定制西装，手工缝制细节考究，绅士品味之选",
+      "image": "res://assets/images/illustrations/fashion/fashion_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "fashion_054_4",
         "fashion_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_054_pixel.jpg"
     },
     {
       "id": "fashion_055",
-      "title": "时尚服饰 - 图片56",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在时尚潮流的领域里，历史变迁展现得淋漓尽致，每一个情感都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/fashion/fashion_055.png",
+      "title": "亲子装温馨",
+      "summary": "亲子穿搭同款不同色，温馨有爱，家庭出行时尚新方式",
+      "full_text": "亲子穿搭同款不同色，温馨有爱，家庭出行时尚新方式",
+      "image": "res://assets/images/illustrations/fashion/fashion_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "fashion_055_4",
         "fashion_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_055_pixel.jpg"
     },
     {
       "id": "fashion_056",
-      "title": "时尚服饰 - 图片57",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索风格魅力的世界，仿佛打开了一扇通往文化宝库的大门，充满了向往与心灵震撼。",
-      "image": "res://assets/images/illustrations/fashion/fashion_056.png",
+      "title": "职场新风尚",
+      "summary": "职场穿搭告别刻板，休闲西装配小白鞋，商务休闲两不误",
+      "full_text": "职场穿搭告别刻板，休闲西装配小白鞋，商务休闲两不误",
+      "image": "res://assets/images/illustrations/fashion/fashion_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "fashion_056_4",
         "fashion_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_056_pixel.jpg"
     },
     {
       "id": "fashion_057",
-      "title": "时尚服饰 - 图片58",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在服装设计的领域里，生态保护展现得淋漓尽致，每一个文化符号都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/fashion/fashion_057.png",
+      "title": "民族风混搭",
+      "summary": "民族刺绣配现代单品，传统纹样碰撞当代设计，独特风格",
+      "full_text": "民族刺绣配现代单品，传统纹样碰撞当代设计，独特风格",
+      "image": "res://assets/images/illustrations/fashion/fashion_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "fashion_057_4",
         "fashion_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_057_pixel.jpg"
     },
     {
       "id": "fashion_058",
-      "title": "时尚服饰 - 图片59",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚美学不仅展现了美好瞬间，更传递了梦想的价值，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/fashion/fashion_058.png",
+      "title": "大码时尚自信",
+      "summary": "大码模特自信走秀，时尚不分身材，多元审美正在崛起",
+      "full_text": "大码模特自信走秀，时尚不分身材，多元审美正在崛起",
+      "image": "res://assets/images/illustrations/fashion/fashion_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "fashion_058_4",
         "fashion_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_058_pixel.jpg"
     },
     {
       "id": "fashion_059",
-      "title": "时尚服饰 - 图片60",
-      "summary": "时尚服饰相关图片",
-      "full_text": "在潮流趋势的领域里，人类智慧展现得淋漓尽致，每一个文化符号都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/fashion/fashion_059.png",
+      "title": "智能温控面料",
+      "summary": "智能温控面料服装，运动时自动调节温度，科技赋能穿搭",
+      "full_text": "智能温控面料服装，运动时自动调节温度，科技赋能穿搭",
+      "image": "res://assets/images/illustrations/fashion/fashion_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "fashion_059_4",
         "fashion_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_059_pixel.jpg"
     },
     {
       "id": "fashion_060",
-      "title": "时尚服饰 - 图片61",
-      "summary": "时尚服饰相关图片",
-      "full_text": "时尚潮流不仅表达了情感世界，更传递了智慧的光芒，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/fashion/fashion_060.png",
+      "title": "配饰点睛之笔",
+      "summary": "手表墨镜包包配饰，为穿搭画龙点睛，细节彰显品味",
+      "full_text": "手表墨镜包包配饰，为穿搭画龙点睛，细节彰显品味",
+      "image": "res://assets/images/illustrations/fashion/fashion_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "fashion_060_4",
         "fashion_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_060_pixel.jpg"
     },
     {
       "id": "fashion_061",
-      "title": "时尚服饰 - 图片62",
-      "summary": "时尚服饰相关图片",
-      "full_text": "风格魅力不仅揭示了情感世界，更传递了文化的传承，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/fashion/fashion_061.png",
+      "title": "球鞋文化收藏",
+      "summary": "限量球鞋收藏展示，球鞋成为文化符号，sneakerhead社...",
+      "full_text": "限量球鞋收藏展示，球鞋成为文化符号，sneakerhead社群壮大",
+      "image": "res://assets/images/illustrations/fashion/fashion_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "fashion_061_4",
         "fashion_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_061_pixel.jpg"
     },
     {
       "id": "fashion_062",
-      "title": "时尚服饰 - 图片63",
-      "summary": "时尚服饰相关图片",
-      "full_text": "服装设计不仅探索了生命意义，更传递了智慧的光芒，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/fashion/fashion_062.png",
+      "title": "时尚博主街拍",
+      "summary": "时尚博主街拍穿搭，社交媒体引领潮流，个人风格变现",
+      "full_text": "时尚博主街拍穿搭，社交媒体引领潮流，个人风格变现",
+      "image": "res://assets/images/illustrations/fashion/fashion_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "fashion_062_4",
         "fashion_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_062_pixel.jpg"
     },
     {
       "id": "fashion_063",
-      "title": "时尚服饰 - 图片64",
-      "summary": "时尚服饰相关图片",
-      "full_text": "探索时尚美学的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了沉醉与艺术熏陶。",
-      "image": "res://assets/images/illustrations/fashion/fashion_063.png",
+      "title": "虚拟数字时装",
+      "summary": "数字虚拟服装设计，元宇宙中的时尚秀场，无限可能",
+      "full_text": "数字虚拟服装设计，元宇宙中的时尚秀场，无限可能",
+      "image": "res://assets/images/illustrations/fashion/fashion_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "fashion_063_4",
         "fashion_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_063_pixel.jpg"
     },
     {
       "id": "fashion_064",
-      "title": "时尚服饰 - 图片65",
-      "summary": "时尚服饰相关图片",
-      "full_text": "潮流趋势不仅描绘了历史记忆，更传递了生命的意义，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/fashion/fashion_064.png",
+      "title": "汉服复兴运动",
+      "summary": "当代汉服复兴运动兴起，年轻人穿汉服出行，传统文化回归",
+      "full_text": "当代汉服复兴运动兴起，年轻人穿汉服出行，传统文化回归",
+      "image": "res://assets/images/illustrations/fashion/fashion_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,7 +1363,8 @@
         "fashion_064_4",
         "fashion_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_064_pixel.jpg"
     }
   ]
 }

@@ -112,7 +112,7 @@
 | 39 | 《真菌》   | 真菌与微生物     | 60  | 6     | 360 | 10×10\~25×25 | 戴芳澜《中国真菌总汇》    |
 | 40 | 《生态系统》 | 生态系统与生物多样性 | 60  | 6     | 360 | 10×10\~25×25 | 马世骏《中国生态系统》    |
 
-**小计：** 710张图片，4260个谜题
+**小计：** 670张图片，4020个谜题
 
 ***
 
@@ -185,12 +185,14 @@
 
 ## 三、内容统计汇总
 
-| 指标   | 数量    |
-| ---- | ----- |
-| 书架总数 | 7     |
-| 画册总数 | 66    |
-| 图片总数 | 5365  |
-| 谜题总数 | 32190 |
+| 指标     | 数量    |
+| ------ | ----- |
+| 书架总数   | 7     |
+| 画册总数   | 66    |
+| 图片总数   | 4650  |
+| 谜题总数   | 28819 |
+| - 常规谜题 | 27900 |
+| - 专家谜题 | 919   |
 
 ### 难度分布
 
@@ -217,95 +219,95 @@
 
 每本画册的后期图片使用25×25专家难度，puzzle ID命名为`{picture_id}_expert`。
 
-- **生成方式**：从整张图片直接缩放到25×25提取二值化网格（不按image_grid分块）
+- **生成方式**：从整张图片直接缩放到25×25提取二值化网格（不按image\_grid分块）
 - **难度标注**：difficulty = "expert"
-- **分配原则**：每本画册约15%~25%的图片使用25×25专家难度（画册末尾的高复杂度图片）
+- **分配原则**：每本画册约15%\~25%的图片使用25×25专家难度（画册末尾的高复杂度图片）
 - **例外**：《中国通史》第一章（远古时代，8张图片）保持原有5×5/10×10配置不变
 
 #### 各画册25×25专家难度数量
 
-| 书架 | 画册 | 图片数 | 25×25谜题数 | 难度递进说明 |
-| ---- | ---- | ------ | ---------- | ---- |
-| 人文历史 | 中国通史 | 105 | 20 | 第1章5×5(8张)，2-5章10×10(42张)，6-8章15×15(20张)，9-11章20×20(15张)，末20张25×25 |
-| 人文历史 | 世界通史 | 100 | 10 | 第1-2章10×10(40张)，第3章15×15(20张)，第4章前10张15×15+后10张20×20，第5章前10张20×20+后10张25×25 |
-| 人文历史 | 亚洲文明史 | 95 | 19 | 前30张10×10，中25张15×15，后21张20×20，末19张25×25 |
-| 人文历史 | 欧洲文明史 | 95 | 19 | 前30张10×10，中25张15×15，后21张20×20，末19张25×25 |
-| 人文历史 | 非洲与美洲文明史 | 90 | 18 | 前25张10×10，中25张15×15，后22张20×20，末18张25×25 |
-| 人文历史 | 战争与军事史 | 100 | 20 | 前25张10×10，中25张15×15，后30张20×20，末20张25×25 |
-| 人文历史 | 政治与制度史 | 90 | 18 | 前25张10×10，中25张15×15，后22张20×20，末18张25×25 |
-| 人文历史 | 经济与贸易史 | 85 | 17 | 前25张10×10，中22张15×15，后21张20×20，末17张25×25 |
-| 人文历史 | 世界文化遗产 | 80 | 16 | 前22张10×10，中22张15×15，后20张20×20，末16张25×25 |
-| 人文历史 | 中国文化遗产 | 85 | 17 | 前25张10×10，中22张15×15，后21张20×20，末17张25×25 |
-| 人文历史 | 考古发现与发掘 | 80 | 16 | 前22张10×10，中22张15×15，后20张20×20，末16张25×25 |
-| 人文历史 | 历史未解之谜 | 70 | 14 | 前20张10×10，中20张15×15，后16张20×20，末14张25×25 |
-| 艺术创作 | 中国书画艺术 | 80 | 16 | 前22张10×10，中22张15×15，后20张20×20，末16张25×25 |
-| 艺术创作 | 西方绘画艺术 | 80 | 16 | 前22张10×10，中22张15×15，后20张20×20，末16张25×25 |
-| 艺术创作 | 雕塑艺术 | 75 | 15 | 前20张10×10，中20张15×15，后20张20×20，末15张25×25 |
-| 艺术创作 | 摄影艺术 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 艺术创作 | 建筑艺术 | 75 | 15 | 前20张10×10，中20张15×15，后20张20×20，末15张25×25 |
-| 艺术创作 | 工艺美术 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 艺术创作 | 设计艺术 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 艺术创作 | 表演艺术 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 艺术创作 | 民间与传统艺术 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 艺术创作 | 当代传媒 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 自然地理 | 山脉与高原 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 自然地理 | 平原与盆地 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 自然地理 | 沙漠与戈壁 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 自然地理 | 河流与湖泊 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 自然地理 | 大气与天气 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 自然地理 | 地质地貌 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 自然地理 | 古生物化石 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 自然地理 | 自然保护区 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 生物世界 | 哺乳动物 | 80 | 16 | 前22张10×10，中22张15×15，后20张20×20，末16张25×25 |
-| 生物世界 | 鸟类 | 75 | 15 | 前20张10×10，中20张15×15，后20张20×20，末15张25×25 |
-| 生物世界 | 爬行动物 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 生物世界 | 鱼类 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 生物世界 | 昆虫 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 生物世界 | 树木 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 生物世界 | 花卉 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 生物世界 | 农作物 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 生物世界 | 真菌 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 生物世界 | 生态系统 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 生活社会 | 时尚服饰 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 生活社会 | 美食 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 生活社会 | 居住建筑 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 生活社会 | 交通运输 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 生活社会 | 节日庆典 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 生活社会 | 宗教信仰 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 生活社会 | 家庭生活 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 生活社会 | 职场工作 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 生活社会 | 教育学习 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 生活社会 | 体育竞技 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 生活社会 | 休闲娱乐 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 科技工业 | 健康医疗 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 科技工业 | 数学与物理 | 75 | 15 | 前20张10×10，中20张15×15，后20张20×20，末15张25×25 |
-| 科技工业 | 化学与生物 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 科技工业 | 天文学 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 科技工业 | 机械电子 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 科技工业 | 能源 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 科技工业 | 土木工程 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 科技工业 | 信息技术 | 70 | 14 | 前20张10×10，中18张15×15，后18张20×20，末14张25×25 |
-| 科技工业 | 工业生产 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 科技工业 | 农业与食品 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 科技工业 | 交通工业 | 65 | 13 | 前18张10×10，中18张15×15，后16张20×20，末13张25×25 |
-| 综合素材 | 抽象图案 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 综合素材 | 符号标志 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 综合素材 | 纹理材质 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| 综合素材 | 综合素材 | 60 | 12 | 前18张10×10，中15张15×15，后15张20×20，末12张25×25 |
-| **总计** | **66** | **4650** | **919** | |
+| 书架     | 画册       | 图片数      | 25×25谜题数 | 难度递进说明                                                                      |
+| ------ | -------- | -------- | -------- | --------------------------------------------------------------------------- |
+| 人文历史   | 中国通史     | 105      | 20       | 第1章5×5(8张)，2-5章10×10(42张)，6-8章15×15(20张)，9-11章20×20(15张)，末20张25×25          |
+| 人文历史   | 世界通史     | 100      | 10       | 第1-2章10×10(40张)，第3章15×15(20张)，第4章前10张15×15+后10张20×20，第5章前10张20×20+后10张25×25 |
+| 人文历史   | 亚洲文明史    | 95       | 19       | 前30张10×10，中25张15×15，后21张20×20，末19张25×25                                     |
+| 人文历史   | 欧洲文明史    | 95       | 19       | 前30张10×10，中25张15×15，后21张20×20，末19张25×25                                     |
+| 人文历史   | 非洲与美洲文明史 | 90       | 18       | 前25张10×10，中25张15×15，后22张20×20，末18张25×25                                     |
+| 人文历史   | 战争与军事史   | 100      | 20       | 前25张10×10，中25张15×15，后30张20×20，末20张25×25                                     |
+| 人文历史   | 政治与制度史   | 90       | 18       | 前25张10×10，中25张15×15，后22张20×20，末18张25×25                                     |
+| 人文历史   | 经济与贸易史   | 85       | 17       | 前25张10×10，中22张15×15，后21张20×20，末17张25×25                                     |
+| 人文历史   | 世界文化遗产   | 80       | 16       | 前22张10×10，中22张15×15，后20张20×20，末16张25×25                                     |
+| 人文历史   | 中国文化遗产   | 85       | 17       | 前25张10×10，中22张15×15，后21张20×20，末17张25×25                                     |
+| 人文历史   | 考古发现与发掘  | 80       | 16       | 前22张10×10，中22张15×15，后20张20×20，末16张25×25                                     |
+| 人文历史   | 历史未解之谜   | 70       | 14       | 前20张10×10，中20张15×15，后16张20×20，末14张25×25                                     |
+| 艺术创作   | 中国书画艺术   | 80       | 16       | 前22张10×10，中22张15×15，后20张20×20，末16张25×25                                     |
+| 艺术创作   | 西方绘画艺术   | 80       | 16       | 前22张10×10，中22张15×15，后20张20×20，末16张25×25                                     |
+| 艺术创作   | 雕塑艺术     | 75       | 15       | 前20张10×10，中20张15×15，后20张20×20，末15张25×25                                     |
+| 艺术创作   | 摄影艺术     | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 艺术创作   | 建筑艺术     | 75       | 15       | 前20张10×10，中20张15×15，后20张20×20，末15张25×25                                     |
+| 艺术创作   | 工艺美术     | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 艺术创作   | 设计艺术     | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 艺术创作   | 表演艺术     | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 艺术创作   | 民间与传统艺术  | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 艺术创作   | 当代传媒     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 自然地理   | 山脉与高原    | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 自然地理   | 平原与盆地    | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 自然地理   | 沙漠与戈壁    | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 自然地理   | 河流与湖泊    | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 自然地理   | 大气与天气    | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 自然地理   | 地质地貌     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 自然地理   | 古生物化石    | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 自然地理   | 自然保护区    | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 生物世界   | 哺乳动物     | 80       | 16       | 前22张10×10，中22张15×15，后20张20×20，末16张25×25                                     |
+| 生物世界   | 鸟类       | 75       | 15       | 前20张10×10，中20张15×15，后20张20×20，末15张25×25                                     |
+| 生物世界   | 爬行动物     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 生物世界   | 鱼类       | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 生物世界   | 昆虫       | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 生物世界   | 树木       | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 生物世界   | 花卉       | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 生物世界   | 农作物      | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 生物世界   | 真菌       | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 生物世界   | 生态系统     | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 生活社会   | 时尚服饰     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 生活社会   | 美食       | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 生活社会   | 居住建筑     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 生活社会   | 交通运输     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 生活社会   | 节日庆典     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 生活社会   | 宗教信仰     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 生活社会   | 家庭生活     | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 生活社会   | 职场工作     | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 生活社会   | 教育学习     | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 生活社会   | 体育竞技     | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 生活社会   | 休闲娱乐     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 科技工业   | 健康医疗     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 科技工业   | 数学与物理    | 75       | 15       | 前20张10×10，中20张15×15，后20张20×20，末15张25×25                                     |
+| 科技工业   | 化学与生物    | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 科技工业   | 天文学      | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 科技工业   | 机械电子     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 科技工业   | 能源       | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 科技工业   | 土木工程     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 科技工业   | 信息技术     | 70       | 14       | 前20张10×10，中18张15×15，后18张20×20，末14张25×25                                     |
+| 科技工业   | 工业生产     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 科技工业   | 农业与食品    | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 科技工业   | 交通工业     | 65       | 13       | 前18张10×10，中18张15×15，后16张20×20，末13张25×25                                     |
+| 综合素材   | 抽象图案     | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 综合素材   | 符号标志     | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 综合素材   | 纹理材质     | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| 综合素材   | 综合素材     | 60       | 12       | 前18张10×10，中15张15×15，后15张20×20，末12张25×25                                     |
+| **总计** | **66**   | **4650** | **919**  | <br />                                                                      |
 
 ### 书架谜题分布
 
-| 书架     | 画册数    | 图片数      | 常规谜题数    | 25×25专家数  | 谜题总数      |
-| ------ | ------ | -------- | --------- | ---------- | --------- |
-| 人文历史   | 12     | 1075     | 6450      | 204        | 6654      |
-| 艺术创作   | 10     | 725      | 4350      | 145        | 4495      |
-| 自然地理   | 8      | 495      | 2970      | 99         | 3069      |
-| 生物世界   | 10     | 670      | 4020      | 134        | 4154      |
-| 生活社会   | 11     | 710      | 4260      | 142        | 4402      |
-| 科技工业   | 11     | 735      | 4410      | 147        | 4557      |
-| 综合素材   | 4      | 240      | 1440      | 48         | 1488      |
-| **总计** | **66** | **4650** | **27900** | **919**    | **28819** |
+| 书架     | 画册数    | 图片数      | 常规谜题数     | 25×25专家数 | 谜题总数      |
+| ------ | ------ | -------- | --------- | -------- | --------- |
+| 人文历史   | 12     | 1075     | 6450      | 204      | 6654      |
+| 艺术创作   | 10     | 725      | 4350      | 145      | 4495      |
+| 自然地理   | 8      | 495      | 2970      | 99       | 3069      |
+| 生物世界   | 10     | 670      | 4020      | 134      | 4154      |
+| 生活社会   | 11     | 710      | 4260      | 142      | 4402      |
+| 科技工业   | 11     | 735      | 4410      | 147      | 4557      |
+| 综合素材   | 4      | 240      | 1440      | 48       | 1488      |
+| **总计** | **66** | **4650** | **27900** | **919**  | **28819** |
 
 ***
 
@@ -371,10 +373,10 @@ assets/images/
 
 数织关卡生产前必须具备以下两项基础资源：
 
-| 资源类型 | 说明 | 来源 |
-| ---- | ---- | ---- |
-| **画册内容规划文档** | 包含画册主题、图片列表、分块配置、难度配置等信息 | `docs/albums/{album_id}.md` |
-| **高清画册图片** | 符合规格的完整高清图片，用于提取数织网格 | `assets/images/illustrations/{album_id}/` |
+| 资源类型         | 说明                       | 来源                                        |
+| ------------ | ------------------------ | ----------------------------------------- |
+| **画册内容规划文档** | 包含画册主题、图片列表、分块配置、难度配置等信息 | `docs/albums/{album_id}.md`               |
+| **高清画册图片**   | 符合规格的完整高清图片，用于提取数织网格     | `assets/images/illustrations/{album_id}/` |
 
 ### 6.2 生产流程规范
 
@@ -415,56 +417,56 @@ assets/images/
 
 ### 6.3 基于画册内容规划文档的生产规则
 
-| 规则 | 说明 | 示例 |
-| ---- | ---- | ---- |
-| **图片ID命名规范** | 必须与内容规划文档中的图片ID保持一致 | 文档中`chapter1_01_yuanmou` → 生成`chapter1_01_yuanmou_0.json`~`chapter1_01_yuanmou_5.json` |
-| **分块数量匹配** | 分块数必须与文档中`分块数/图`配置一致 | 文档标注6个分块 → 生成6个谜题文件 |
-| **难度配置遵循** | 网格大小和难度级别必须符合文档中的难度配置 | 文档标注`10×10`、`easy` → 生成10×10网格的easy难度谜题 |
-| **名称格式规范** | 谜题名称必须包含图片标题和分块索引 | `"元谋人遗址 - 分块0（新手引导）"` |
-| **新手引导标记** | 首个图片的首个分块必须标记为新手引导 | `chapter1_01_yuanmou_0.json`名称包含"新手引导" |
+| 规则           | 说明                    | 示例                                                                                      |
+| ------------ | --------------------- | --------------------------------------------------------------------------------------- |
+| **图片ID命名规范** | 必须与内容规划文档中的图片ID保持一致   | 文档中`chapter1_01_yuanmou` → 生成`chapter1_01_yuanmou_0.json`\~`chapter1_01_yuanmou_5.json` |
+| **分块数量匹配**   | 分块数必须与文档中`分块数/图`配置一致  | 文档标注6个分块 → 生成6个谜题文件                                                                     |
+| **难度配置遵循**   | 网格大小和难度级别必须符合文档中的难度配置 | 文档标注`10×10`、`easy` → 生成10×10网格的easy难度谜题                                                 |
+| **名称格式规范**   | 谜题名称必须包含图片标题和分块索引     | `"元谋人遗址 - 分块0（新手引导）"`                                                                   |
+| **新手引导标记**   | 首个图片的首个分块必须标记为新手引导    | `chapter1_01_yuanmou_0.json`名称包含"新手引导"                                                  |
 
 ### 6.4 基于高清图片的生产规则
 
-| 规则 | 说明 | 约束条件 |
-| ---- | ---- | ---- |
-| **图片完整性验证** | 图片必须完整存在且可读取 | 文件存在、格式正确、无损坏 |
-| **宽高比匹配** | 图片宽高比必须与分块配置(X×Y)匹配 | X=3,Y=2 → 宽高比3:2 |
-| **分辨率要求** | 图片分辨率必须满足最小像素要求 | 单块10×10网格 → 图片最小800×600像素 |
-| **二值化处理** | 根据图片灰度自动生成黑白网格 | 使用Otsu算法进行自适应阈值分割 |
-| **网格提取** | 按分块配置从图片提取对应区域 | 3×2分块 → 从图片左上到右下依次提取 |
-| **空白区域处理** | 自动检测并处理大面积空白区域 | 填充率低于10%时自动修复 |
+| 规则          | 说明                  | 约束条件                      |
+| ----------- | ------------------- | ------------------------- |
+| **图片完整性验证** | 图片必须完整存在且可读取        | 文件存在、格式正确、无损坏             |
+| **宽高比匹配**   | 图片宽高比必须与分块配置(X×Y)匹配 | X=3,Y=2 → 宽高比3:2          |
+| **分辨率要求**   | 图片分辨率必须满足最小像素要求     | 单块10×10网格 → 图片最小800×600像素 |
+| **二值化处理**   | 根据图片灰度自动生成黑白网格      | 使用Otsu算法进行自适应阈值分割         |
+| **网格提取**    | 按分块配置从图片提取对应区域      | 3×2分块 → 从图片左上到右下依次提取      |
+| **空白区域处理**  | 自动检测并处理大面积空白区域      | 填充率低于10%时自动修复             |
 
 ### 6.5 验证工具使用规则
 
-#### 6.5.1 verify_all_puzzles.py 验证项
+#### 6.5.1 verify\_all\_puzzles.py 验证项
 
-| 验证项 | 验证内容 | 合格标准 |
-| ---- | ---- | ---- |
-| **可推理性验证** | 检查谜题是否可通过纯逻辑推理求解 | 无需猜测即可完成 |
-| **线索一致性** | 验证行/列线索与solution是否匹配 | 线索完全匹配 |
-| **网格完整性** | 检查solution是否完整填充 | 无缺失或多余单元格 |
-| **格式规范性** | 验证JSON格式和字段完整性 | 字段齐全、格式正确 |
+| 验证项        | 验证内容                 | 合格标准      |
+| ---------- | -------------------- | --------- |
+| **可推理性验证** | 检查谜题是否可通过纯逻辑推理求解     | 无需猜测即可完成  |
+| **线索一致性**  | 验证行/列线索与solution是否匹配 | 线索完全匹配    |
+| **网格完整性**  | 检查solution是否完整填充     | 无缺失或多余单元格 |
+| **格式规范性**  | 验证JSON格式和字段完整性       | 字段齐全、格式正确 |
 
-#### 6.5.2 check_and_fix_puzzles.py 修复项
+#### 6.5.2 check\_and\_fix\_puzzles.py 修复项
 
-| 修复项 | 修复内容 | 修复策略 |
-| ---- | ---- | ---- |
-| **全空行/列修复** | 检测并修复全空的行或列 | 在空白区域随机添加1-2个像素 |
-| **全满行/列修复** | 检测并修复全满的行或列 | 在满行/列边缘移除1-2个像素 |
-| **低填充率修复** | 修复填充率过低的谜题 | 自动补充像素至最小填充率10% |
-| **高填充率修复** | 修复填充率过高的谜题 | 自动移除像素至最大填充率90% |
-| **source_rect修复** | 修复源图片区域配置 | 根据实际图片尺寸重新计算 |
+| 修复项                | 修复内容        | 修复策略            |
+| ------------------ | ----------- | --------------- |
+| **全空行/列修复**        | 检测并修复全空的行或列 | 在空白区域随机添加1-2个像素 |
+| **全满行/列修复**        | 检测并修复全满的行或列 | 在满行/列边缘移除1-2个像素 |
+| **低填充率修复**         | 修复填充率过低的谜题  | 自动补充像素至最小填充率10% |
+| **高填充率修复**         | 修复填充率过高的谜题  | 自动移除像素至最大填充率90% |
+| **source\_rect修复** | 修复源图片区域配置   | 根据实际图片尺寸重新计算    |
 
 ### 6.6 生产质量标准
 
-| 质量指标 | 合格标准 |
-| ---- | ---- |
-| **可解率** | 100%可通过纯逻辑推理完成 |
-| **填充率范围** | 10% ~ 90% |
-| **无全空行/列** | 不允许存在全0或全1的行/列 |
-| **线索准确性** | 行/列线索与solution完全匹配 |
-| **文件完整性** | 所有分块谜题文件齐全 |
-| **格式正确性** | JSON格式正确，字段完整 |
+| 质量指标       | 合格标准               |
+| ---------- | ------------------ |
+| **可解率**    | 100%可通过纯逻辑推理完成     |
+| **填充率范围**  | 10% \~ 90%         |
+| **无全空行/列** | 不允许存在全0或全1的行/列     |
+| **线索准确性**  | 行/列线索与solution完全匹配 |
+| **文件完整性**  | 所有分块谜题文件齐全         |
+| **格式正确性**  | JSON格式正确，字段完整      |
 
 ### 6.7 生产工具调用顺序
 
@@ -522,13 +524,13 @@ python tools/fix_source_rect.py \
 
 每张画册图片需要生成对应的像素图版本，规则如下：
 
-| 规则       | 说明                              |
-| -------- | ------------------------------- |
-| **命名规范** | 像素图文件名 = 原图文件名 + `_pixel.png`   |
-| **输出目录** | 与原图在同一目录，不单独创建子目录               |
-| **分辨率**  | 与原图相同分辨率                        |
+| 规则       | 说明                               |
+| -------- | -------------------------------- |
+| **命名规范** | 像素图文件名 = 原图文件名 + `_pixel.jpg`    |
+| **输出目录** | 与原图在同一目录，不单独创建子目录                |
+| **分辨率**  | 与原图相同分辨率                         |
 | **生成方式** | 根据数织关卡的网格数目生成对应的像素数量，不使用solution |
-| **放大方式** | 使用 NEAREST 插值保持像素风格             |
+| **放大方式** | 使用 NEAREST 插值保持像素风格              |
 
 **像素图生成流程：**
 
@@ -550,59 +552,63 @@ python tools/fix_source_rect.py \
 
 ### 7.3 统一卡通风格提示词规范
 
-所有画册图片生成必须使用统一的风格提示词，确保视觉风格一致。
+所有画册图片生成必须使用统一的风格提示词，确保视觉风格一致。详细规则见 [即梦4.0图片生成Skill](skills/jimeng4_image_generation.md)。
 
 #### 风格前缀（所有提示词必须以此开头）
 
 ```
-中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，明亮温暖色调，
+中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，色彩丰富多样，画面构图饱满，
 ```
 
-#### 书架专属配色关键词
+#### 配色关键词
 
-| 书架   | 配色关键词                    |
-| ---- | ------------------------ |
-| 人文历史 | 赭石色水墨灰金色点缀               |
-| 艺术创作 | 赭石色珊瑚红金色点缀               |
-| 自然地理 | 青绿色墨灰色点缀                 |
-| 生物世界 | 自然色系靛蓝青绿点缀               |
-| 生活社会 | 暖色调珊瑚红鎏金点缀               |
-| 科技工业 | 靛蓝色墨灰色冷色调点缀              |
-| 综合素材 | 墨灰色鎏金点缀                  |
+**重要：不要使用固定配色关键词（如"赭石色水墨灰金色点缀"），这会导致所有图片变成同一色系。让场景描述本身决定色调。**
+
+| 书架   | 配色关键词  |
+| ---- | ------ |
+| 所有书架 | 色彩搭配和谐 |
+
+> 经验教训：之前使用书架专属配色（如"赭石色水墨灰金色点缀"）导致90%图片为暖红色调。去掉固定配色后，不同场景（森林、沙漠、海洋）能自然呈现不同色调。
 
 #### 风格后缀（所有提示词必须以此结尾）
 
 ```
-，画面边缘有丰富细节，不要大面积纯色背景
+，画面边缘有丰富细节，不要大面积纯色背景，不要出现任何中文文字或汉字
+```
+
+#### 负面提示词
+
+```
+写实照片,3D渲染,暗色调,灰暗,恐怖,血腥,真实人物,photorealistic,dark,gloomy,写实风格,摄影,中文文字,汉字,书法字,文字水印
 ```
 
 #### 完整提示词模板
 
 ```
-{风格前缀}{主题场景描述}，{书架配色关键词}{风格后缀}
+{风格前缀}{主题场景描述}，{配色关键词}{风格后缀}
 ```
 
 #### 提示词示例
 
-| 画册   | 主题     | 完整提示词                                                                                                       |
-| ---- | ------ | ----------------------------------------------------------------------------------------------------------- |
-| 中国通史 | 元谋人遗址  | 中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，明亮温暖色调，远古人类在云南红土地上进行采集活动，手持简单石器，背景是茂密的原始森林和火山，赭石色水墨灰金色点缀，画面边缘有丰富细节，不要大面积纯色背景      |
-| 中国通史 | 秦始皇统一六国 | 中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，明亮温暖色调，秦始皇登基称帝，六国旗帜倒下，统一文字度量衡，赭石色水墨灰金色点缀，画面边缘有丰富细节，不要大面积纯色背景                     |
-| 中国通史 | 新中国成立  | 中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，明亮温暖色调，天安门城楼开国大典，红旗飘扬人民欢呼，赭石色水墨灰金色点缀，画面边缘有丰富细节，不要大面积纯色背景                         |
+| 画册   | 主题      | 完整提示词                                                                                                                    |
+| ---- | ------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 中国通史 | 元谋人遗址   | 中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，色彩丰富多样，画面构图饱满，远古人类在云南红土地上进行采集活动，手持简单石器，背景是茂密的原始森林和火山，色彩搭配和谐，画面边缘有丰富细节，不要大面积纯色背景，不要出现任何中文文字或汉字 |
+| 中国通史 | 秦始皇统一六国 | 中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，色彩丰富多样，画面构图饱满，秦始皇登基称帝，六国旗帜倒下，统一文字度量衡，色彩搭配和谐，画面边缘有丰富细节，不要大面积纯色背景，不要出现任何中文文字或汉字                 |
+| 中国通史 | 新中国成立   | 中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，色彩丰富多样，画面构图饱满，天安门城楼开国大典，红旗飘扬人民欢呼，色彩搭配和谐，画面边缘有丰富细节，不要大面积纯色背景，不要出现任何中文文字或汉字                     |
 
 #### 风格一致性检查清单
 
 生成每张图片后，需检查以下要素是否一致：
 
-| 检查项    | 合格标准                  |
-| ------ | --------------------- |
-| 人物比例   | Q版2-3头身比例             |
-| 线条风格   | 圆润流畅，略带书法笔触感          |
-| 色彩饱和度  | 明亮温暖，饱和度适中            |
-| 配色倾向   | 符合书架专属配色              |
-| 画面完整性  | 无大面积纯色空白区域            |
-| 边缘细节   | 画面四角和边缘有丰富的装饰细节       |
-| 整体风格   | 与同画册其他图片风格统一          |
+| 检查项   | 合格标准             |
+| ----- | ---------------- |
+| 人物比例  | Q版2-3头身比例        |
+| 线条风格  | 圆润流畅，略带书法笔触感     |
+| 色彩多样性 | 不同场景呈现不同色调，非统一暖红 |
+| 画面完整性 | 无大面积纯色空白区域       |
+| 无文字   | 画面中不出现中文文字或汉字    |
+| 边缘细节  | 画面四角和边缘有丰富的装饰细节  |
+| 整体风格  | 与同画册其他图片风格统一     |
 
 **图片布局规范：**
 
@@ -714,127 +720,127 @@ python tools/fix_source_rect.py \
 
 游戏整体风格为**中国风卡通**（Chinese Style Cartoon），Q版可爱、明亮温暖、亲切友好。所有背景音乐必须体现以下核心特质：
 
-- **可爱俏皮**：轻快的节奏、跳跃的旋律，避免沉重严肃
-- **温暖治愈**：柔和的音色、明亮的和声，营造安心愉悦感
-- **卡通趣味**：加入趣味音效点缀（如叮咚、弹跳声），增强游戏感
+- **舒缓治愈**：轻柔的节奏、流畅的旋律，营造放松宁静的氛围
+- **温暖安心**：柔和的音色、和谐的和声，带来舒适愉悦感
+- **卡通趣味**：加入轻柔音效点缀（如风铃、流水声），增强游戏感
 - **中国风底色**：融入传统乐器元素（古筝、笛子、琵琶等），保持文化韵味
 - **循环友好**：旋律结构适合无缝循环播放，不突兀
 
 ### 9.2 统一提示词模板
 
 ```
-Playful cute {音乐风格} instrumental BGM for cartoon puzzle game, {主奏乐器} lead, {音乐意境描述}, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds
+Relaxing soothing {音乐风格} instrumental BGM for cartoon puzzle game, {主奏乐器} lead, {音乐意境描述}, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds
 ```
 
 ### 9.3 主界面默认背景音乐
 
-| 场景 | 音乐风格 | 主奏乐器 | 音乐意境 | Suno提示词 |
-| -- | ---- | ---- | ---- | ---- |
-| 主界面 | 欢快中国风卡通 | 古筝、木琴、长笛 | 温暖书斋，趣味探索，欢迎回家 | Playful cute Chinese cartoon style instrumental BGM for main menu of puzzle game, guzheng (Chinese zither), glockenspiel, and flute lead, warm cozy study room with cute scrolls and inkstones, cheerful welcoming melody, bouncy and adorable, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 场景  | 音乐风格    | 主奏乐器     | 音乐意境           | Suno提示词                                                                                                                                                                                                                                                                                                                   |
+| --- | ------- | -------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 主界面 | 舒缓中国风卡通 | 古筝、长笛、竖琴 | 温暖书斋，宁静探索，欢迎回家 | Relaxing soothing  cartoon style instrumental BGM for main menu of puzzle game, guzheng (Chinese zither), flute, and harp lead, warm cozy study room with cute scrolls and inkstones, gentle welcoming melody, calm and healing, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds |
 
 ### 9.4 各画册音乐提示词
 
 #### 书架一：人文历史（12本）
 
-| 画册名称 | 音乐风格 | 主奏乐器 | 音乐意境 | Suno提示词 |
-| ---- | ---- | ---- | ---- | ---- |
-| 中国通史 | 可爱史诗 | 古筝、编钟、木琴 | Q版历史长卷，萌趣朝代更迭 | Playful cute Chinese epic instrumental BGM for cartoon puzzle game, guzheng, bianzhong (bronze bells), and glockenspiel lead, adorable chibi historical scroll with cute emperors and dynasties, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 世界通史 | 可爱世界风 | 钢琴、尤克里里、笛子 | 萌趣地球村，各国小人儿 | Playful cute world fusion instrumental BGM for cartoon puzzle game, piano, ukulele, and dizi (bamboo flute) lead, adorable chibi globe village with cute characters from every culture, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 亚洲文明史 | 可爱东方 | 尺八、三味线、木琴 | 萌版亚洲风情，可爱和风小屋 | Playful cute Oriental instrumental BGM for cartoon puzzle game, shakuhachi, shamisen, and glockenspiel lead, adorable chibi Asian street with cute pagodas and lanterns, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 欧洲文明史 | 可爱古典 | 小提琴、钢琴、音乐盒 | 萌趣欧洲城堡，旋转木马感 | Playful cute classical instrumental BGM for cartoon puzzle game, violin, piano, and music box lead, adorable chibi European castle with cute princesses and knights, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 非洲与美洲文明史 | 可爱部落 | 手鼓、沙锤、短笛 | 萌趣部落派对，可爱动物舞 | Playful cute tribal instrumental BGM for cartoon puzzle game, hand drums, maracas, and piccolo lead, adorable chibi tribal party with cute animals dancing, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 战争与军事史 | 可爱冒险 | 小号、定音鼓、木琴 | Q版小兵出征，萌趣冒险 | Playful cute adventure instrumental BGM for cartoon puzzle game, trumpet, timpani, and glockenspiel lead, adorable chibi soldiers on cute adventure march, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 政治与制度史 | 可爱宫廷 | 古筝、编钟、竖琴 | 萌趣小朝廷，可爱大臣议事 | Playful cute court instrumental BGM for cartoon puzzle game, guzheng, bianzhong, and harp lead, adorable chibi imperial court with cute ministers and edicts, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 经济与贸易史 | 可爱集市 | 扬琴、琵琶、手风琴 | 萌趣小集市，可爱商队 | Playful cute marketplace instrumental BGM for cartoon puzzle game, yangqin (hammered dulcimer), pipa (lute), and accordion lead, adorable chibi marketplace with cute merchants and caravans, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 世界文化遗产 | 可爱庆典 | 交响乐、钟琴 | 萌趣世界巡游，可爱庆典 | Playful cute celebration instrumental BGM for cartoon puzzle game, light symphony and glockenspiel lead, adorable chibi world tour visiting cute heritage sites, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 中国文化遗产 | 可爱国风 | 古筝、二胡、琵琶 | 萌趣华夏宝藏，可爱文物 | Playful cute Chinese heritage instrumental BGM for cartoon puzzle game, guzheng, erhu (fiddle), and pipa lead, adorable chibi Chinese treasures with cute artifacts and scrolls, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 考古发现与发掘 | 可爱探险 | 古琴、埙、木琴 | 萌趣小考古家，可爱挖掘 | Playful cute exploration instrumental BGM for cartoon puzzle game, guqin, xun (ocarina), and glockenspiel lead, adorable chibi archaeologist discovering cute dinosaur bones and pottery, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 历史未解之谜 | 可爱悬疑 | 大提琴、钢琴、音乐盒 | 萌趣小侦探，可爱解谜 | Playful cute mystery instrumental BGM for cartoon puzzle game, cello, piano, and music box lead, adorable chibi detective solving cute historical riddles with magnifying glass, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 画册名称     | 音乐风格  | 主奏乐器      | 音乐意境          | Suno提示词                                                                                                                                                                                                                                                                                                                                          |
+| -------- | ----- | --------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 中国通史     | 舒缓史诗  | 古筝、编钟、长笛  | Q版历史长卷，宁静朝代更迭 | Relaxing soothing Chinese epic instrumental BGM for cartoon puzzle game, guzheng, bianzhong (bronze bells), and flute lead, adorable chibi historical scroll with cute emperors and dynasties, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 世界通史     | 舒缓世界风 | 钢琴、长笛、竖琴  | 萌趣地球村，各国小人儿   | Relaxing soothing world fusion instrumental BGM for cartoon puzzle game, piano, flute, and harp lead, adorable chibi globe village with cute characters from every culture, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                    |
+| 亚洲文明史    | 舒缓东方  | 尺八、古筝、竖琴  | 萌版亚洲风情，宁静和风小屋 | Relaxing soothing Oriental instrumental BGM for cartoon puzzle game, shakuhachi, guzheng, and harp lead, adorable chibi Asian street with cute pagodas and lanterns, gentle flowing melody, calm and healing, cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                            |
+| 欧洲文明史    | 舒缓古典  | 小提琴、钢琴、竖琴 | 萌趣欧洲城堡，宁静宫廷感  | Relaxing soothing classical instrumental BGM for cartoon puzzle game, violin, piano, and harp lead, adorable chibi European castle with cute princesses and knights, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                           |
+| 非洲与美洲文明史 | 舒缓部落  | 手鼓、长笛、竖琴  | 萌趣部落风情，宁静自然   | Relaxing soothing tribal instrumental BGM for cartoon puzzle game, hand drums, flute, and harp lead, adorable chibi tribal scene with cute animals in nature, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                                  |
+| 战争与军事史   | 舒缓冒险  | 古筝、长笛、竖琴  | Q版小兵故事，宁静回顾   | Relaxing soothing adventure instrumental BGM for cartoon puzzle game, guzheng, flute, and harp lead, adorable chibi soldiers in peaceful historical scenes, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                                    |
+| 政治与制度史   | 舒缓宫廷  | 古筝、编钟、竖琴  | 萌趣小朝廷，宁静议事    | Relaxing soothing court instrumental BGM for cartoon puzzle game, guzheng, bianzhong, and harp lead, adorable chibi imperial court with cute ministers and edicts, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                             |
+| 经济与贸易史   | 舒缓集市  | 扬琴、琵琶、长笛  | 萌趣小集市，宁静商路    | Relaxing soothing marketplace instrumental BGM for cartoon puzzle game, yangqin (hammered dulcimer), pipa (lute), and flute lead, adorable chibi marketplace with cute merchants and caravans, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 世界文化遗产   | 舒缓庆典  | 交响乐、竖琴    | 萌趣世界巡游，宁静赞叹   | Relaxing soothing celebration instrumental BGM for cartoon puzzle game, light symphony and harp lead, adorable chibi world tour visiting cute heritage sites, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                                  |
+| 中国文化遗产   | 舒缓国风  | 古筝、二胡、长笛  | 萌趣华夏宝藏，宁静文物   | Relaxing soothing Chinese heritage instrumental BGM for cartoon puzzle game, guzheng, erhu (fiddle), and flute lead, adorable chibi Chinese treasures with cute artifacts and scrolls, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds         |
+| 考古发现与发掘  | 舒缓探险  | 古琴、埙、长笛   | 萌趣小考古家，宁静挖掘   | Relaxing soothing exploration instrumental BGM for cartoon puzzle game, guqin, xun (ocarina), and flute lead, adorable chibi archaeologist discovering cute dinosaur bones and pottery, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds        |
+| 历史未解之谜   | 舒缓悬疑  | 大提琴、钢琴、竖琴 | 萌趣小侦探，宁静思考    | Relaxing soothing mystery instrumental BGM for cartoon puzzle game, cello, piano, and harp lead, adorable chibi detective solving cute historical riddles with magnifying glass, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds               |
 
 #### 书架二：艺术创作（10本）
 
-| 画册名称 | 音乐风格 | 主奏乐器 | 音乐意境 | Suno提示词 |
-| ---- | ---- | ---- | ---- | ---- |
-| 中国书画艺术 | 可爱文人 | 古琴、古筝、音乐盒 | 萌趣小画家，可爱笔墨 | Playful cute scholar instrumental BGM for cartoon puzzle game, guqin, guzheng, and music box lead, adorable chibi painter with cute ink brush and rice paper, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 西方绘画艺术 | 可爱画廊 | 钢琴、小提琴、木琴 | 萌趣小画廊，可爱画框 | Playful cute gallery instrumental BGM for cartoon puzzle game, piano, violin, and glockenspiel lead, adorable chibi art gallery with cute picture frames and paint palettes, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 雕塑艺术 | 可爱工坊 | 木琴、马林巴、竖琴 | 萌趣小雕塑家，可爱泥巴 | Playful cute workshop instrumental BGM for cartoon puzzle game, xylophone, marimba, and harp lead, adorable chibi sculptor shaping cute clay figures, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 摄影艺术 | 可爱快门 | 吉他、长笛、铃鼓 | 萌趣小摄影师，可爱咔嚓 | Playful cute photography instrumental BGM for cartoon puzzle game, guitar, flute, and tambourine lead, adorable chibi photographer with cute camera clicking, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 建筑艺术 | 可爱积木 | 管风琴、木琴、手风琴 | 萌趣小建筑师，可爱积木 | Playful cute building blocks instrumental BGM for cartoon puzzle game, pipe organ, glockenspiel, and accordion lead, adorable chibi architect stacking cute building blocks, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 工艺美术 | 可爱手作 | 扬琴、柳琴、音乐盒 | 萌趣小工匠，可爱手作 | Playful cute handicraft instrumental BGM for cartoon puzzle game, yangqin, liuqin (small lute), and music box lead, adorable chibi artisan making cute crafts and jewelry, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 设计艺术 | 可爱设计 | 电子合成器、钢琴、木琴 | 萌趣小设计师，可爱配色 | Playful cute design instrumental BGM for cartoon puzzle game, synthesizer, piano, and glockenspiel lead, adorable chibi designer with cute color swatches and sketches, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 表演艺术 | 可爱舞台 | 管弦乐、木琴 | 萌趣小舞台，可爱演出 | Playful cute stage instrumental BGM for cartoon puzzle game, light orchestra and glockenspiel lead, adorable chibi performers on cute stage with curtains, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 民间与传统艺术 | 可爱民俗 | 唢呐、锣鼓、木琴 | 萌趣小庙会，可爱皮影 | Playful cute folk instrumental BGM for cartoon puzzle game, suona (oboe), percussion, and glockenspiel lead, adorable chibi temple fair with cute shadow puppets and lanterns, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 当代传媒 | 可爱数字 | 电子音乐、木琴 | 萌趣小博主，可爱屏幕 | Playful cute digital instrumental BGM for cartoon puzzle game, electronic music and glockenspiel lead, adorable chibi blogger with cute screens and gadgets, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 画册名称    | 音乐风格 | 主奏乐器        | 音乐意境        | Suno提示词                                                                                                                                                                                                                                                                                                                       |
+| ------- | ---- | ----------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 中国书画艺术  | 舒缓文人 | 古琴、古筝、长笛    | 萌趣小画家，宁静笔墨  | Relaxing soothing scholar instrumental BGM for cartoon puzzle game, guqin, guzheng, and flute lead, adorable chibi painter with cute ink brush and rice paper, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds              |
+| 西方绘画艺术  | 舒缓画廊 | 钢琴、小提琴、竖琴   | 萌趣小画廊，宁静画框  | Relaxing soothing gallery instrumental BGM for cartoon puzzle game, piano, violin, and harp lead, adorable chibi art gallery with cute picture frames and paint palettes, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds   |
+| 雕塑艺术    | 舒缓工坊 | 大提琴、长笛、竖琴   | 萌趣小雕塑家，宁静泥巴 | Relaxing soothing workshop instrumental BGM for cartoon puzzle game, cello, flute, and harp lead, adorable chibi sculptor shaping cute clay figures, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                        |
+| 摄影艺术    | 舒缓快门 | 吉他、长笛、竖琴    | 萌趣小摄影师，宁静咔嚓 | Relaxing soothing photography instrumental BGM for cartoon puzzle game, guitar, flute, and harp lead, adorable chibi photographer with cute camera, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                         |
+| 建筑艺术    | 舒缓积木 | 管风琴、长笛、竖琴   | 萌趣小建筑师，宁静积木 | Relaxing soothing building blocks instrumental BGM for cartoon puzzle game, pipe organ, flute, and harp lead, adorable chibi architect stacking cute building blocks, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds       |
+| 工艺美术    | 舒缓手作 | 扬琴、柳琴、长笛    | 萌趣小工匠，宁静手作  | Relaxing soothing handicraft instrumental BGM for cartoon puzzle game, yangqin, liuqin (small lute), and flute lead, adorable chibi artisan making cute crafts and jewelry, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 设计艺术    | 舒缓设计 | 电子合成器、钢琴、长笛 | 萌趣小设计师，宁静配色 | Relaxing soothing design instrumental BGM for cartoon puzzle game, synthesizer, piano, and flute lead, adorable chibi designer with cute color swatches and sketches, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds       |
+| 表演艺术    | 舒缓舞台 | 管弦乐、竖琴      | 萌趣小舞台，宁静演出  | Relaxing soothing stage instrumental BGM for cartoon puzzle game, light orchestra and harp lead, adorable chibi performers on cute stage with curtains, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                     |
+| 民间与传统艺术 | 舒缓民俗 | 古筝、笛子、竖琴    | 萌趣小庙会，宁静皮影  | Relaxing soothing folk instrumental BGM for cartoon puzzle game, guzheng, dizi, and harp lead, adorable chibi temple fair with cute shadow puppets and lanterns, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds            |
+| 当代传媒    | 舒缓数字 | 电子音乐、长笛     | 萌趣小博主，宁静屏幕  | Relaxing soothing digital instrumental BGM for cartoon puzzle game, electronic music and flute lead, adorable chibi blogger with cute screens and gadgets, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                  |
 
 #### 书架三：自然地理（8本）
 
-| 画册名称 | 音乐风格 | 主奏乐器 | 音乐意境 | Suno提示词 |
-| ---- | ---- | ---- | ---- | ---- |
-| 山脉与高原 | 可爱山岳 | 长笛、圆号、木琴 | 萌趣小山丘，可爱云朵 | Playful cute mountain instrumental BGM for cartoon puzzle game, flute, French horn, and glockenspiel lead, adorable chibi mountains with cute fluffy clouds and little hikers, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 平原与盆地 | 可爱草原 | 马头琴、长笛、手风琴 | 萌趣大草原，可爱小羊 | Playful cute prairie instrumental BGM for cartoon puzzle game, morin khuur (horsehead fiddle), flute, and accordion lead, adorable chibi grassland with cute sheep and windmills, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 沙漠与戈壁 | 可爱沙漠 | 箫、手鼓、木琴 | 萌趣小沙漠，可爱骆驼 | Playful cute desert instrumental BGM for cartoon puzzle game, xiao (vertical flute), hand drum, and glockenspiel lead, adorable chibi desert with cute camels and little oases, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 河流与湖泊 | 可爱水乡 | 竹笛、古筝、音乐盒 | 萌趣小水乡，可爱鱼儿游 | Playful cute water town instrumental BGM for cartoon puzzle game, dizi (bamboo flute), guzheng, and music box lead, adorable chibi water town with cute fish and little boats, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 大气与天气 | 可爱天空 | 钢琴、弦乐、铃鼓 | 萌趣小天气，可爱太阳雨 | Playful cute weather instrumental BGM for cartoon puzzle game, piano, strings, and tambourine lead, adorable chibi sun and rain clouds with cute rainbow, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 地质地貌 | 可爱大地 | 大提琴、定音鼓、木琴 | 萌趣小地球，可爱火山 | Playful cute geology instrumental BGM for cartoon puzzle game, cello, timpani, and glockenspiel lead, adorable chibi earth with cute volcanoes and crystals, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 古生物化石 | 可爱恐龙 | 大号、管风琴、木琴 | 萌趣小恐龙，可爱化石 | Playful cute dinosaur instrumental BGM for cartoon puzzle game, tuba, pipe organ, and glockenspiel lead, adorable chibi dinosaurs and cute fossil bones, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 自然保护区 | 可爱森林 | 长笛、竖琴、木琴 | 萌趣小森林，可爱动物家 | Playful cute nature reserve instrumental BGM for cartoon puzzle game, flute, harp, and glockenspiel lead, adorable chibi forest with cute animal families in little houses, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 画册名称  | 音乐风格 | 主奏乐器       | 音乐意境        | Suno提示词                                                                                                                                                                                                                                                                                                                             |
+| ----- | ---- | ---------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 山脉与高原 | 舒缓山岳 | 长笛、竖琴、古筝   | 萌趣小山丘，宁静云朵  | Relaxing soothing mountain instrumental BGM for cartoon puzzle game, flute, harp, and guzheng lead, adorable chibi mountains with cute fluffy clouds and little hikers, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds           |
+| 平原与盆地 | 舒缓草原 | 马头琴、长笛、竖琴  | 萌趣大草原，宁静小羊  | Relaxing soothing prairie instrumental BGM for cartoon puzzle game, morin khuur (horsehead fiddle), flute, and harp lead, adorable chibi grassland with cute sheep and windmills, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 沙漠与戈壁 | 舒缓沙漠 | 箫、古筝、竖琴    | 萌趣小沙漠，宁静骆驼  | Relaxing soothing desert instrumental BGM for cartoon puzzle game, xiao (vertical flute), guzheng, and harp lead, adorable chibi desert with cute camels and little oases, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds        |
+| 河流与湖泊 | 舒缓水乡 | 竹笛、古筝、竖琴   | 萌趣小水乡，宁静鱼儿游 | Relaxing soothing water town instrumental BGM for cartoon puzzle game, dizi (bamboo flute), guzheng, and harp lead, adorable chibi water town with cute fish and little boats, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds    |
+| 大气与天气 | 舒缓天空 | 钢琴、弦乐、竖琴   | 萌趣小天气，宁静太阳雨 | Relaxing soothing weather instrumental BGM for cartoon puzzle game, piano, strings, and harp lead, adorable chibi sun and rain clouds with cute rainbow, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                          |
+| 地质地貌  | 舒缓大地 | 大提琴、古筝、竖琴  | 萌趣小地球，宁静火山  | Relaxing soothing geology instrumental BGM for cartoon puzzle game, cello, guzheng, and harp lead, adorable chibi earth with cute volcanoes and crystals, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                         |
+| 古生物化石 | 舒缓恐龙 | 大提琴、管风琴、竖琴 | 萌趣小恐龙，宁静化石  | Relaxing soothing dinosaur instrumental BGM for cartoon puzzle game, cello, pipe organ, and harp lead, adorable chibi dinosaurs and cute fossil bones, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                            |
+| 自然保护区 | 舒缓森林 | 长笛、竖琴、古筝   | 萌趣小森林，宁静动物家 | Relaxing soothing nature reserve instrumental BGM for cartoon puzzle game, flute, harp, and guzheng lead, adorable chibi forest with cute animal families in little houses, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds       |
 
 #### 书架四：生物世界（10本）
 
-| 画册名称 | 音乐风格 | 主奏乐器 | 音乐意境 | Suno提示词 |
-| ---- | ---- | ---- | ---- | ---- |
-| 哺乳动物 | 可爱动物 | 小提琴、木琴、铃鼓 | 萌趣小动物，可爱蹦跳 | Playful cute animal instrumental BGM for cartoon puzzle game, violin, glockenspiel, and tambourine lead, adorable chibi mammals bouncing and playing, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 鸟类 | 可爱飞鸟 | 长笛、小提琴、木琴 | 萌趣小鸟儿，可爱叽叽喳 | Playful cute bird instrumental BGM for cartoon puzzle game, flute, violin, and glockenspiel lead, adorable chibi birds chirping and flying in cute sky, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 爬行动物 | 可爱爬爬 | 低音提琴、木管、木琴 | 萌趣小乌龟，可爱慢爬 | Playful cute reptile instrumental BGM for cartoon puzzle game, double bass, woodwinds, and glockenspiel lead, adorable chibi turtles and lizards crawling slowly, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 鱼类 | 可爱鱼儿 | 钢琴、木琴、音乐盒 | 萌趣小鱼儿，可爱吐泡泡 | Playful cute fish instrumental BGM for cartoon puzzle game, piano, glockenspiel, and music box lead, adorable chibi fish blowing cute bubbles underwater, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 昆虫 | 可爱虫虫 | 短笛、铃鼓、木琴 | 萌趣小虫子，可爱蹦蹦跳 | Playful cute insect instrumental BGM for cartoon puzzle game, piccolo, tambourine, and glockenspiel lead, adorable chibi bugs and butterflies hopping in cute garden, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 树木 | 可爱树木 | 大提琴、长笛、竖琴 | 萌趣小树苗，可爱长大 | Playful cute tree instrumental BGM for cartoon puzzle game, cello, flute, and harp lead, adorable chibi saplings growing into cute big trees, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 花卉 | 可爱花园 | 小提琴、竖琴、音乐盒 | 萌趣小花园，可爱花开 | Playful cute flower instrumental BGM for cartoon puzzle game, violin, harp, and music box lead, adorable chibi garden with cute blooming flowers and bees, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 农作物 | 可爱农场 | 手风琴、木吉他、木琴 | 萌趣小农场，可爱丰收 | Playful cute farm instrumental BGM for cartoon puzzle game, accordion, acoustic guitar, and glockenspiel lead, adorable chibi farm with cute vegetables and happy harvest, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 真菌 | 可爱蘑菇 | 钢琴、电子音效、木琴 | 萌趣小蘑菇，可爱精灵 | Playful cute mushroom instrumental BGM for cartoon puzzle game, piano, electronic effects, and glockenspiel lead, adorable chibi mushrooms and cute forest fairies, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 生态系统 | 可爱自然 | 交响乐、木琴 | 萌趣大自然，可爱和谐 | Playful cute nature symphony instrumental BGM for cartoon puzzle game, light orchestra and glockenspiel lead, adorable chibi nature with cute animals living in harmony, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 画册名称 | 音乐风格 | 主奏乐器       | 音乐意境       | Suno提示词                                                                                                                                                                                                                                                                                                                          |
+| ---- | ---- | ---------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 哺乳动物 | 舒缓动物 | 小提琴、长笛、竖琴  | 萌趣小动物，宁静漫步 | Relaxing soothing animal instrumental BGM for cartoon puzzle game, violin, flute, and harp lead, adorable chibi mammals walking and resting peacefully, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                        |
+| 鸟类   | 舒缓飞鸟 | 长笛、小提琴、竖琴  | 萌趣小鸟儿，宁静飞翔 | Relaxing soothing bird instrumental BGM for cartoon puzzle game, flute, violin, and harp lead, adorable chibi birds gliding peacefully in cute sky, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                            |
+| 爬行动物 | 舒缓爬爬 | 大提琴、长笛、竖琴  | 萌趣小乌龟，宁静慢爬 | Relaxing soothing reptile instrumental BGM for cartoon puzzle game, cello, flute, and harp lead, adorable chibi turtles and lizards moving slowly and peacefully, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds              |
+| 鱼类   | 舒缓鱼儿 | 钢琴、长笛、竖琴   | 萌趣小鱼儿，宁静游动 | Relaxing soothing fish instrumental BGM for cartoon puzzle game, piano, flute, and harp lead, adorable chibi fish swimming peacefully underwater, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                              |
+| 昆虫   | 舒缓虫虫 | 长笛、竖琴、古筝   | 萌趣小虫子，宁静飞舞 | Relaxing soothing insect instrumental BGM for cartoon puzzle game, flute, harp, and guzheng lead, adorable chibi bugs and butterflies fluttering gently in cute garden, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds        |
+| 树木   | 舒缓树木 | 大提琴、长笛、竖琴  | 萌趣小树苗，宁静生长 | Relaxing soothing tree instrumental BGM for cartoon puzzle game, cello, flute, and harp lead, adorable chibi saplings growing peacefully into cute big trees, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                  |
+| 花卉   | 舒缓花园 | 小提琴、竖琴、长笛  | 萌趣小花园，宁静花开 | Relaxing soothing flower instrumental BGM for cartoon puzzle game, violin, harp, and flute lead, adorable chibi garden with cute blooming flowers and bees, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                    |
+| 农作物  | 舒缓农场 | 手风琴、木吉他、长笛 | 萌趣小农场，宁静丰收 | Relaxing soothing farm instrumental BGM for cartoon puzzle game, accordion, acoustic guitar, and flute lead, adorable chibi farm with cute vegetables and peaceful harvest, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds    |
+| 真菌   | 舒缓蘑菇 | 钢琴、长笛、竖琴   | 萌趣小蘑菇，宁静精灵 | Relaxing soothing mushroom instrumental BGM for cartoon puzzle game, piano, flute, and harp lead, adorable chibi mushrooms and cute forest fairies in peaceful woods, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds          |
+| 生态系统 | 舒缓自然 | 交响乐、竖琴     | 萌趣大自然，宁静和谐 | Relaxing soothing nature symphony instrumental BGM for cartoon puzzle game, light orchestra and harp lead, adorable chibi nature with cute animals living in peaceful harmony, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds |
 
 #### 书架五：生活社会（11本）
 
-| 画册名称 | 音乐风格 | 主奏乐器 | 音乐意境 | Suno提示词 |
-| ---- | ---- | ---- | ---- | ---- |
-| 时尚服饰 | 可爱时尚 | 电子合成器、吉他、木琴 | 萌趣小衣橱，可爱穿搭 | Playful cute fashion instrumental BGM for cartoon puzzle game, synthesizer, guitar, and glockenspiel lead, adorable chibi wardrobe with cute outfits and accessories, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 美食 | 可爱厨房 | 钢琴、手风琴、木琴 | 萌趣小厨房，可爱烘焙 | Playful cute kitchen instrumental BGM for cartoon puzzle game, piano, accordion, and glockenspiel lead, adorable chibi kitchen with cute baking and cooking, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 居住建筑 | 可爱小屋 | 钢琴、小提琴、音乐盒 | 萌趣小房子，可爱家园 | Playful cute home instrumental BGM for cartoon puzzle game, piano, violin, and music box lead, adorable chibi house with cozy rooms and cute furniture, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 交通运输 | 可爱出行 | 打击乐、吉他、木琴 | 萌趣小汽车，可爱出发 | Playful cute travel instrumental BGM for cartoon puzzle game, percussion, guitar, and glockenspiel lead, adorable chibi cars and trains on cute journey, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 节日庆典 | 可爱派对 | 锣鼓、唢呐、木琴 | 萌趣小派对，可爱烟花 | Playful cute party instrumental BGM for cartoon puzzle game, gongs, suona (oboe), and glockenspiel lead, adorable chibi celebration with cute fireworks and lanterns, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 宗教信仰 | 可爱宁静 | 管风琴、竖琴、音乐盒 | 萌趣小教堂，可爱宁静 | Playful cute serene instrumental BGM for cartoon puzzle game, pipe organ, harp, and music box lead, adorable chibi temple with cute peaceful atmosphere and soft light, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 家庭生活 | 可爱家庭 | 钢琴、大提琴、木琴 | 萌趣小家庭，可爱日常 | Playful cute family instrumental BGM for cartoon puzzle game, piano, cello, and glockenspiel lead, adorable chibi family having cute daily life together, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 职场工作 | 可爱办公 | 电子音乐、钢琴、木琴 | 萌趣小办公，可爱忙碌 | Playful cute office instrumental BGM for cartoon puzzle game, electronic, piano, and glockenspiel lead, adorable chibi office with cute busy workers and coffee, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 教育学习 | 可爱学堂 | 钢琴、小提琴、音乐盒 | 萌趣小学堂，可爱读书 | Playful cute school instrumental BGM for cartoon puzzle game, piano, violin, and music box lead, adorable chibi classroom with cute students reading books, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 体育竞技 | 可爱运动 | 打击乐、铜管、木琴 | 萌趣小运动，可爱加油 | Playful cute sports instrumental BGM for cartoon puzzle game, percussion, brass, and glockenspiel lead, adorable chibi athletes in cute competition with cheering, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 休闲娱乐 | 可爱游乐 | 吉他、尤克里里、木琴 | 萌趣小游乐，可爱欢笑 | Playful cute leisure instrumental BGM for cartoon puzzle game, guitar, ukulele, and glockenspiel lead, adorable chibi playground with cute games and laughter, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 健康医疗 | 可爱治愈 | 古琴、古筝、音乐盒 | 萌趣小诊所，可爱呵护 | Playful cute healing instrumental BGM for cartoon puzzle game, guqin, guzheng, and music box lead, adorable chibi clinic with cute doctor and warm care, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 画册名称 | 音乐风格 | 主奏乐器       | 音乐意境       | Suno提示词                                                                                                                                                                                                                                                                                                                  |
+| ---- | ---- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 时尚服饰 | 舒缓时尚 | 钢琴、吉他、长笛   | 萌趣小衣橱，宁静穿搭 | Relaxing soothing fashion instrumental BGM for cartoon puzzle game, piano, guitar, and flute lead, adorable chibi wardrobe with cute outfits and accessories, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds          |
+| 美食   | 舒缓厨房 | 钢琴、手风琴、长笛  | 萌趣小厨房，宁静烘焙 | Relaxing soothing kitchen instrumental BGM for cartoon puzzle game, piano, accordion, and flute lead, adorable chibi kitchen with cute baking and cooking, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds             |
+| 居住建筑 | 舒缓小屋 | 钢琴、小提琴、竖琴  | 萌趣小房子，宁静家园 | Relaxing soothing home instrumental BGM for cartoon puzzle game, piano, violin, and harp lead, adorable chibi house with cozy rooms and cute furniture, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                |
+| 交通运输 | 舒缓出行 | 吉他、长笛、竖琴   | 萌趣小汽车，宁静出发 | Relaxing soothing travel instrumental BGM for cartoon puzzle game, guitar, flute, and harp lead, adorable chibi cars and trains on peaceful journey, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                   |
+| 节日庆典 | 舒缓派对 | 古筝、笛子、竖琴   | 萌趣小派对，宁静烟花 | Relaxing soothing party instrumental BGM for cartoon puzzle game, guzheng, dizi, and harp lead, adorable chibi celebration with cute fireworks and lanterns, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds           |
+| 宗教信仰 | 舒缓宁静 | 管风琴、竖琴、长笛  | 萌趣小教堂，宁静祥和 | Relaxing soothing serene instrumental BGM for cartoon puzzle game, pipe organ, harp, and flute lead, adorable chibi temple with peaceful atmosphere and soft light, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds    |
+| 家庭生活 | 舒缓家庭 | 钢琴、大提琴、竖琴  | 萌趣小家庭，宁静日常 | Relaxing soothing family instrumental BGM for cartoon puzzle game, piano, cello, and harp lead, adorable chibi family having peaceful daily life together, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds             |
+| 职场工作 | 舒缓办公 | 电子音乐、钢琴、长笛 | 萌趣小办公，宁静忙碌 | Relaxing soothing office instrumental BGM for cartoon puzzle game, electronic, piano, and flute lead, adorable chibi office with cute workers and warm coffee, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds         |
+| 教育学习 | 舒缓学堂 | 钢琴、小提琴、竖琴  | 萌趣小学堂，宁静读书 | Relaxing soothing school instrumental BGM for cartoon puzzle game, piano, violin, and harp lead, adorable chibi classroom with cute students reading books peacefully, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 体育竞技 | 舒缓运动 | 吉他、长笛、竖琴   | 萌趣小运动，宁静加油 | Relaxing soothing sports instrumental BGM for cartoon puzzle game, guitar, flute, and harp lead, adorable chibi athletes in peaceful activity, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                         |
+| 休闲娱乐 | 舒缓游乐 | 吉他、长笛、竖琴   | 萌趣小游乐，宁静欢笑 | Relaxing soothing leisure instrumental BGM for cartoon puzzle game, guitar, flute, and harp lead, adorable chibi playground with cute games and peaceful laughter, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds     |
+| 健康医疗 | 舒缓治愈 | 古琴、古筝、长笛   | 萌趣小诊所，宁静呵护 | Relaxing soothing healing instrumental BGM for cartoon puzzle game, guqin, guzheng, and flute lead, adorable chibi clinic with cute doctor and warm care, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds              |
 
 #### 书架六：科技工业（11本）
 
-| 画册名称 | 音乐风格 | 主奏乐器 | 音乐意境 | Suno提示词 |
-| ---- | ---- | ---- | ---- | ---- |
-| 数学与物理 | 可爱逻辑 | 钢琴、电子音效、木琴 | 萌趣小公式，可爱数字 | Playful cute logic instrumental BGM for cartoon puzzle game, piano, electronic effects, and glockenspiel lead, adorable chibi numbers and cute formulas dancing, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 化学与生物 | 可爱实验 | 钢琴、弦乐、木琴 | 萌趣小实验，可爱泡泡 | Playful cute experiment instrumental BGM for cartoon puzzle game, piano, strings, and glockenspiel lead, adorable chibi lab with cute test tubes and bubbling potions, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 天文学 | 可爱星空 | 合成器、管风琴、音乐盒 | 萌趣小星球，可爱星星 | Playful cute space instrumental BGM for cartoon puzzle game, synthesizer, pipe organ, and music box lead, adorable chibi planets and cute twinkling stars, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 机械电子 | 可爱机器人 | 电子音效、打击乐、木琴 | 萌趣小机器人，可爱齿轮 | Playful cute robot instrumental BGM for cartoon puzzle game, electronic effects, percussion, and glockenspiel lead, adorable chibi robot with cute gears and blinking lights, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 能源 | 可爱能量 | 铜管、打击乐、木琴 | 萌趣小能量，可爱发光 | Playful cute energy instrumental BGM for cartoon puzzle game, brass, percussion, and glockenspiel lead, adorable chibi power source with cute glowing and sparking, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 土木工程 | 可爱建造 | 交响乐、木琴 | 萌趣小工地，可爱搭建 | Playful cute construction instrumental BGM for cartoon puzzle game, light symphony and glockenspiel lead, adorable chibi construction site with cute cranes and building, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 信息技术 | 可爱代码 | 电子音乐、木琴 | 萌趣小电脑，可爱代码 | Playful cute digital instrumental BGM for cartoon puzzle game, electronic music and glockenspiel lead, adorable chibi computer with cute code and pixels, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 工业生产 | 可爱工厂 | 打击乐、电子音效、木琴 | 萌趣小工厂，可爱流水线 | Playful cute factory instrumental BGM for cartoon puzzle game, percussion, electronic effects, and glockenspiel lead, adorable chibi factory with cute assembly line and products, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 农业与食品 | 可爱田园 | 手风琴、吉他、木琴 | 萌趣小田园，可爱种植 | Playful cute farm tech instrumental BGM for cartoon puzzle game, accordion, guitar, and glockenspiel lead, adorable chibi farm with cute tractors and growing crops, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 交通工业 | 可爱速度 | 电子音乐、打击乐、木琴 | 萌趣小高铁，可爱飞驰 | Playful cute speed instrumental BGM for cartoon puzzle game, electronic, percussion, and glockenspiel lead, adorable chibi train and plane zooming cutely, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 健康医疗 | 可爱治愈 | 古琴、古筝、音乐盒 | 萌趣小诊所，可爱呵护 | Playful cute healing instrumental BGM for cartoon puzzle game, guqin, guzheng, and music box lead, adorable chibi clinic with cute doctor and warm care, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 画册名称  | 音乐风格  | 主奏乐器       | 音乐意境        | Suno提示词                                                                                                                                                                                                                                                                                                                       |
+| ----- | ----- | ---------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 数学与物理 | 舒缓逻辑  | 钢琴、长笛、竖琴   | 萌趣小公式，宁静数字  | Relaxing soothing logic instrumental BGM for cartoon puzzle game, piano, flute, and harp lead, adorable chibi numbers and cute formulas in peaceful arrangement, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds            |
+| 化学与生物 | 舒缓实验  | 钢琴、弦乐、长笛   | 萌趣小实验，宁静泡泡  | Relaxing soothing experiment instrumental BGM for cartoon puzzle game, piano, strings, and flute lead, adorable chibi lab with cute test tubes and gentle bubbling, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds         |
+| 天文学   | 舒缓星空  | 合成器、长笛、竖琴  | 萌趣小星球，宁静星星  | Relaxing soothing space instrumental BGM for cartoon puzzle game, synthesizer, flute, and harp lead, adorable chibi planets and cute twinkling stars, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                       |
+| 机械电子  | 舒缓机器人 | 电子音效、长笛、竖琴 | 萌趣小机器人，宁静齿轮 | Relaxing soothing robot instrumental BGM for cartoon puzzle game, electronic effects, flute, and harp lead, adorable chibi robot with cute gears and soft lights, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds           |
+| 能源    | 舒缓能量  | 钢琴、长笛、竖琴   | 萌趣小能量，宁静发光  | Relaxing soothing energy instrumental BGM for cartoon puzzle game, piano, flute, and harp lead, adorable chibi power source with cute gentle glowing, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                       |
+| 土木工程  | 舒缓建造  | 交响乐、竖琴     | 萌趣小工地，宁静搭建  | Relaxing soothing construction instrumental BGM for cartoon puzzle game, light symphony and harp lead, adorable chibi construction site with cute cranes and building, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds      |
+| 信息技术  | 舒缓代码  | 电子音乐、长笛    | 萌趣小电脑，宁静代码  | Relaxing soothing digital instrumental BGM for cartoon puzzle game, electronic music and flute lead, adorable chibi computer with cute code and pixels, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                     |
+| 工业生产  | 舒缓工厂  | 钢琴、电子音效、长笛 | 萌趣小工厂，宁静流水线 | Relaxing soothing factory instrumental BGM for cartoon puzzle game, piano, electronic effects, and flute lead, adorable chibi factory with cute assembly line and products, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 农业与食品 | 舒缓田园  | 手风琴、吉他、长笛  | 萌趣小田园，宁静种植  | Relaxing soothing farm tech instrumental BGM for cartoon puzzle game, accordion, guitar, and flute lead, adorable chibi farm with cute tractors and growing crops, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds          |
+| 交通工业  | 舒缓速度  | 电子音乐、长笛、竖琴 | 萌趣小高铁，宁静飞驰  | Relaxing soothing speed instrumental BGM for cartoon puzzle game, electronic, flute, and harp lead, adorable chibi train and plane moving smoothly, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                         |
+| 健康医疗  | 舒缓治愈  | 古琴、古筝、长笛   | 萌趣小诊所，宁静呵护  | Relaxing soothing healing instrumental BGM for cartoon puzzle game, guqin, guzheng, and flute lead, adorable chibi clinic with cute doctor and warm care, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                   |
 
 #### 书架七：综合素材（4本）
 
-| 画册名称 | 音乐风格 | 主奏乐器 | 音乐意境 | Suno提示词 |
-| ---- | ---- | ---- | ---- | ---- |
-| 抽象图案 | 可爱抽象 | 电子合成器、木琴 | 萌趣小色块，可爱拼贴 | Playful cute abstract instrumental BGM for cartoon puzzle game, synthesizer and glockenspiel lead, adorable chibi shapes and cute colorful blocks, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 符号标志 | 可爱符号 | 钢琴、打击乐、木琴 | 萌趣小符号，可爱标记 | Playful cute symbol instrumental BGM for cartoon puzzle game, piano, percussion, and glockenspiel lead, adorable chibi icons and cute badges, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 纹理材质 | 可爱质感 | 氛围音效、木琴、竖琴 | 萌趣小纹理，可爱触感 | Playful cute texture instrumental BGM for cartoon puzzle game, ambient effects, glockenspiel, and harp lead, adorable chibi patterns with cute soft textures, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
-| 综合素材 | 可爱大杂烩 | 多种乐器混合 | 萌趣百宝箱，可爱惊喜 | Playful cute variety instrumental BGM for cartoon puzzle game, mixed instruments and glockenspiel lead, adorable chibi treasure box with cute surprises, cheerful bouncy melody, warm and adorable, Chinese cartoon style, light pizzicato and glockenspiel accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 画册名称 | 音乐风格  | 主奏乐器        | 音乐意境       | Suno提示词                                                                                                                                                                                                                                                                                                                           |
+| ---- | ----- | ----------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 抽象图案 | 舒缓抽象  | 电子合成器、长笛、竖琴 | 萌趣小色块，宁静拼贴 | Relaxing soothing abstract instrumental BGM for cartoon puzzle game, synthesizer, flute, and harp lead, adorable chibi shapes and cute colorful blocks in peaceful arrangement, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds |
+| 符号标志 | 舒缓符号  | 钢琴、长笛、竖琴    | 萌趣小符号，宁静标记 | Relaxing soothing symbol instrumental BGM for cartoon puzzle game, piano, flute, and harp lead, adorable chibi icons and cute badges, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                                           |
+| 纹理材质 | 舒缓质感  | 氛围音效、长笛、竖琴  | 萌趣小纹理，宁静触感 | Relaxing soothing texture instrumental BGM for cartoon puzzle game, ambient effects, flute, and harp lead, adorable chibi patterns with cute soft textures, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds                     |
+| 综合素材 | 舒缓大杂烩 | 多种乐器混合      | 萌趣百宝箱，宁静惊喜 | Relaxing soothing variety instrumental BGM for cartoon puzzle game, mixed instruments with flute and harp, adorable chibi treasure box with cute peaceful surprises, gentle flowing melody, calm and healing,  cartoon style, soft wind chime and ambient accents, loopable, no vocals, pure instrumental, 180 seconds            |
 
 ### 9.5 生成流程规范
 
@@ -843,5 +849,5 @@ Playful cute {音乐风格} instrumental BGM for cartoon puzzle game, {主奏乐
 3. **格式规范**：选择instrumental模式，确保无 vocals
 4. **风格一致性**：同一书架的音乐建议批量生成，确保风格过渡自然
 5. **质量检查**：生成后检查是否符合可爱卡通意境，过于严肃或沉重则调整提示词重新生成
-6. **核心关键词**：每条提示词必须包含 `Playful cute`、`cheerful bouncy melody`、`warm and adorable`、`Chinese cartoon style`、`glockenspiel accents` 确保风格统一
+6. **核心关键词**：每条提示词必须包含 `Relaxing soothing`、`gentle flowing melody`、`calm and healing`、 ` cartoon style`、`soft wind chime and ambient accents` 确保风格统一
 

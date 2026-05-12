@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "africa_america_civilization_000",
-      "title": "非洲与美洲文明史 - 图片1",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往灵感源泉的大门，充满了憧憬与知识启迪。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_000.png",
+      "title": "古埃及金字塔建造",
+      "summary": "数万工人在吉萨高原拖拽巨石建造金字塔，尼罗河上运输石料",
+      "full_text": "数万工人在吉萨高原拖拽巨石建造金字塔，尼罗河上运输石料",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "africa_america_civilization_000_4",
         "africa_america_civilization_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_000_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_001",
-      "title": "非洲与美洲文明史 - 图片2",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是文化传承的结晶，它启迪着科学的精神，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_001.png",
+      "title": "法老王权象征",
+      "summary": "法老头戴双冠手持权杖端坐王座，荷鲁斯之眼守护王权",
+      "full_text": "法老头戴双冠手持权杖端坐王座，荷鲁斯之眼守护王权",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "africa_america_civilization_001_4",
         "africa_america_civilization_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_001_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_002",
-      "title": "非洲与美洲文明史 - 图片3",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然不仅诠释了人类文明，更传递了情感的力量，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_002.png",
+      "title": "尼罗河泛滥耕作",
+      "summary": "埃及农民在尼罗河退水后的沃土上播种，莎草纸记录收成",
+      "full_text": "埃及农民在尼罗河退水后的沃土上播种，莎草纸记录收成",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "africa_america_civilization_002_4",
         "africa_america_civilization_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_002_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_003",
-      "title": "非洲与美洲文明史 - 图片4",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_003.png",
+      "title": "努比亚金字塔群",
+      "summary": "库施王国在麦罗埃建造陡峭金字塔，黑色花岗岩矗立沙漠之中",
+      "full_text": "库施王国在麦罗埃建造陡峭金字塔，黑色花岗岩矗立沙漠之中",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "africa_america_civilization_003_4",
         "africa_america_civilization_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_003_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_004",
-      "title": "非洲与美洲文明史 - 图片5",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个细节都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_004.png",
+      "title": "迦太基海港",
+      "summary": "迦太基圆形军港停泊数百战船，商人在集市交易非洲象牙与黄金",
+      "full_text": "迦太基圆形军港停泊数百战船，商人在集市交易非洲象牙与黄金",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "africa_america_civilization_004_4",
         "africa_america_civilization_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_004_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_005",
-      "title": "非洲与美洲文明史 - 图片6",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化不仅探索了艺术真谛，更传递了文化的传承，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_005.png",
+      "title": "埃及木乃伊制作",
+      "summary": "祭司在防腐作坊中用泡碱处理遗体，亚麻布层层包裹法老",
+      "full_text": "祭司在防腐作坊中用泡碱处理遗体，亚麻布层层包裹法老",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "africa_america_civilization_005_4",
         "africa_america_civilization_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_005_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_006",
-      "title": "非洲与美洲文明史 - 图片7",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然不仅表达了情感世界，更传递了情感的力量，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_006.png",
+      "title": "埃及象形文字",
+      "summary": "书吏在神庙墙壁上刻写象形文字，鸟兽符号记录法老功绩",
+      "full_text": "书吏在神庙墙壁上刻写象形文字，鸟兽符号记录法老功绩",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "africa_america_civilization_006_4",
         "africa_america_civilization_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_006_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_007",
-      "title": "非洲与美洲文明史 - 图片8",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学是情感表达的结晶，它创造着永恒的真理，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_007.png",
+      "title": "阿克苏姆方尖碑",
+      "summary": "阿克苏姆工匠竖立花岗岩方尖碑，纪念王国海上贸易的辉煌",
+      "full_text": "阿克苏姆工匠竖立花岗岩方尖碑，纪念王国海上贸易的辉煌",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "africa_america_civilization_007_4",
         "africa_america_civilization_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_007_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_008",
-      "title": "非洲与美洲文明史 - 图片9",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是审美追求的结晶，它创造着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_008.png",
+      "title": "撒哈拉岩画",
+      "summary": "远古牧人在撒哈拉岩壁上绘制长角牛群与狩猎场景",
+      "full_text": "远古牧人在撒哈拉岩壁上绘制长角牛群与狩猎场景",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "africa_america_civilization_008_4",
         "africa_america_civilization_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_008_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_009",
-      "title": "非洲与美洲文明史 - 图片10",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是文化传承的结晶，它启迪着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_009.png",
+      "title": "埃及神庙祭祀",
+      "summary": "大祭司在卡纳克神庙中向阿蒙神献祭，焚香袅袅钟鼓齐鸣",
+      "full_text": "大祭司在卡纳克神庙中向阿蒙神献祭，焚香袅袅钟鼓齐鸣",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "africa_america_civilization_009_4",
         "africa_america_civilization_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_009_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_010",
-      "title": "非洲与美洲文明史 - 图片11",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往创意空间的大门，充满了敬畏与视觉享受。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_010.png",
+      "title": "努比亚淘金",
+      "summary": "努比亚矿工在东部沙漠矿坑中淘洗金沙，黄金运往埃及进贡",
+      "full_text": "努比亚矿工在东部沙漠矿坑中淘洗金沙，黄金运往埃及进贡",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "africa_america_civilization_010_4",
         "africa_america_civilization_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_010_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_011",
-      "title": "非洲与美洲文明史 - 图片12",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往创意空间的大门，充满了沉醉与精神升华。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_011.png",
+      "title": "迦太基将军汉尼拔",
+      "summary": "汉尼拔率战象翻越阿尔卑斯山，在坎尼战役包围罗马军团",
+      "full_text": "汉尼拔率战象翻越阿尔卑斯山，在坎尼战役包围罗马军团",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "africa_america_civilization_011_4",
         "africa_america_civilization_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_011_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_012",
-      "title": "非洲与美洲文明史 - 图片13",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它绚丽地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_012.png",
+      "title": "埃及纸莎草造船",
+      "summary": "工匠捆扎纸莎草杆建造轻舟，渔夫在尼罗河上撒网捕鱼",
+      "full_text": "工匠捆扎纸莎草杆建造轻舟，渔夫在尼罗河上撒网捕鱼",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "africa_america_civilization_012_4",
         "africa_america_civilization_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_012_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_013",
-      "title": "非洲与美洲文明史 - 图片14",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它生动地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_013.png",
+      "title": "西非早期铁器",
+      "summary": "诺克文化工匠在熔炉旁锻打铁器，赤陶人像展现精湛技艺",
+      "full_text": "诺克文化工匠在熔炉旁锻打铁器，赤陶人像展现精湛技艺",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "africa_america_civilization_013_4",
         "africa_america_civilization_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_013_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_014",
-      "title": "非洲与美洲文明史 - 图片15",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然是生活体验的结晶，它启迪着创新的理念，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_014.png",
+      "title": "埃及来世信仰",
+      "summary": "亡灵书中绘制称量心脏仪式，阿努比斯以羽毛衡量灵魂善恶",
+      "full_text": "亡灵书中绘制称量心脏仪式，阿努比斯以羽毛衡量灵魂善恶",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "africa_america_civilization_014_4",
         "africa_america_civilization_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_014_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_015",
-      "title": "非洲与美洲文明史 - 图片16",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它清新地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_015.png",
+      "title": "迦太基贸易网络",
+      "summary": "迦太基商船沿非洲西海岸航行，用玻璃珠交换黄金与奴隶",
+      "full_text": "迦太基商船沿非洲西海岸航行，用玻璃珠交换黄金与奴隶",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "africa_america_civilization_015_4",
         "africa_america_civilization_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_015_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_016",
-      "title": "非洲与美洲文明史 - 图片17",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术不仅记录了自然之美，更传递了文化的传承，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_016.png",
+      "title": "库施王国都城",
+      "summary": "库施国王在纳帕塔统治尼罗河上游，埃及风格神庙矗立河畔",
+      "full_text": "库施国王在纳帕塔统治尼罗河上游，埃及风格神庙矗立河畔",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "africa_america_civilization_016_4",
         "africa_america_civilization_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_016_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_017",
-      "title": "非洲与美洲文明史 - 图片18",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了震撼与精神升华。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_017.png",
+      "title": "埃及新王国扩张",
+      "summary": "图特摩斯三世率战车部队征战叙利亚，埃及版图达到极盛",
+      "full_text": "图特摩斯三世率战车部队征战叙利亚，埃及版图达到极盛",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "africa_america_civilization_017_4",
         "africa_america_civilization_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_017_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_018",
-      "title": "非洲与美洲文明史 - 图片19",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然不仅探索了历史记忆，更传递了智慧的光芒，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_018.png",
+      "title": "拉美西斯二世神庙",
+      "summary": "阿布辛贝岩窟神庙四尊巨像端坐崖壁，阳光直射圣殿深处",
+      "full_text": "阿布辛贝岩窟神庙四尊巨像端坐崖壁，阳光直射圣殿深处",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "africa_america_civilization_018_4",
         "africa_america_civilization_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_018_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_019",
-      "title": "非洲与美洲文明史 - 图片20",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往精神家园的大门，充满了惊叹与文化浸润。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_019.png",
+      "title": "阿克苏姆贸易",
+      "summary": "阿克苏姆商人用象牙与香料交换罗马金币，红海商路繁忙",
+      "full_text": "阿克苏姆商人用象牙与香料交换罗马金币，红海商路繁忙",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "africa_america_civilization_019_4",
         "africa_america_civilization_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_019_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_020",
-      "title": "非洲与美洲文明史 - 图片21",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个情感都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_020.png",
+      "title": "马里帝国黄金",
+      "summary": "曼萨穆萨在开罗散发黄金，朝圣队伍中骆驼满载金砂",
+      "full_text": "曼萨穆萨在开罗散发黄金，朝圣队伍中骆驼满载金砂",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "africa_america_civilization_020_4",
         "africa_america_civilization_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_020_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_021",
-      "title": "非洲与美洲文明史 - 图片22",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化不仅描绘了艺术真谛，更传递了情感的力量，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_021.png",
+      "title": "桑海帝国鼎盛",
+      "summary": "阿斯基亚大帝在加奥修建清真寺，廷巴克图学者云集讲学",
+      "full_text": "阿斯基亚大帝在加奥修建清真寺，廷巴克图学者云集讲学",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "africa_america_civilization_021_4",
         "africa_america_civilization_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_021_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_022",
-      "title": "非洲与美洲文明史 - 图片23",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往灵感源泉的大门，充满了敬畏与美好感受。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_022.png",
+      "title": "大津巴布韦石城",
+      "summary": "绍纳人在花岗岩山丘上砌筑椭圆形石墙，不施灰浆严丝合缝",
+      "full_text": "绍纳人在花岗岩山丘上砌筑椭圆形石墙，不施灰浆严丝合缝",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "africa_america_civilization_022_4",
         "africa_america_civilization_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_022_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_023",
-      "title": "非洲与美洲文明史 - 图片24",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个瞬间都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_023.png",
+      "title": "廷巴克图学府",
+      "summary": "桑科尔大学学者在清真寺中研读手稿，藏书数十万卷",
+      "full_text": "桑科尔大学学者在清真寺中研读手稿，藏书数十万卷",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "africa_america_civilization_023_4",
         "africa_america_civilization_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_023_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_024",
-      "title": "非洲与美洲文明史 - 图片25",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是自然造化的结晶，它记录着美好的愿景，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_024.png",
+      "title": "刚果王国宫廷",
+      "summary": "刚果国王身披豹皮接见葡萄牙使节，象牙与铜器陈列殿中",
+      "full_text": "刚果国王身披豹皮接见葡萄牙使节，象牙与铜器陈列殿中",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "africa_america_civilization_024_4",
         "africa_america_civilization_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_024_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_025",
-      "title": "非洲与美洲文明史 - 图片26",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在文化的领域里，社会发展展现得淋漓尽致，每一个光影都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_025.png",
+      "title": "贝宁青铜铸造",
+      "summary": "贝宁工匠用失蜡法铸造精美铜饰板，浮雕记录宫廷仪式",
+      "full_text": "贝宁工匠用失蜡法铸造精美铜饰板，浮雕记录宫廷仪式",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "africa_america_civilization_025_4",
         "africa_america_civilization_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_025_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_026",
-      "title": "非洲与美洲文明史 - 图片27",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然是艺术创造的结晶，它创造着生活的智慧，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_026.png",
+      "title": "埃塞俄比亚石教堂",
+      "summary": "拉利贝拉工匠从整块岩石中凿出十字形教堂，地下通道相连",
+      "full_text": "拉利贝拉工匠从整块岩石中凿出十字形教堂，地下通道相连",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "africa_america_civilization_026_4",
         "africa_america_civilization_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_026_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_027",
-      "title": "非洲与美洲文明史 - 图片28",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个线条都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_027.png",
+      "title": "马里帝国盐金贸易",
+      "summary": "商队穿越撒哈拉用盐块交换黄金，骆驼驮运货物穿越沙海",
+      "full_text": "商队穿越撒哈拉用盐块交换黄金，骆驼驮运货物穿越沙海",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "africa_america_civilization_027_4",
         "africa_america_civilization_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_027_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_028",
-      "title": "非洲与美洲文明史 - 图片29",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它和谐地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_028.png",
+      "title": "加纳帝国关税",
+      "summary": "加纳国王对每头驮盐骆驼征收金币关税，王库充盈富甲西非",
+      "full_text": "加纳国王对每头驮盐骆驼征收金币关税，王库充盈富甲西非",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "africa_america_civilization_028_4",
         "africa_america_civilization_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_028_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_029",
-      "title": "非洲与美洲文明史 - 图片30",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化不仅传递了自然之美，更传递了美的真谛，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_029.png",
+      "title": "斯瓦希里城邦",
+      "summary": "基尔瓦商人用非洲黄金交换中国瓷器，珊瑚石建筑临海而立",
+      "full_text": "基尔瓦商人用非洲黄金交换中国瓷器，珊瑚石建筑临海而立",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "africa_america_civilization_029_4",
         "africa_america_civilization_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_029_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_030",
-      "title": "非洲与美洲文明史 - 图片31",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然是生活体验的结晶，它引领着美好的愿景，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_030.png",
+      "title": "祖鲁王国军事",
+      "summary": "沙卡祖鲁训练青年军团使用短矛与牛皮盾，方阵战术威震南非",
+      "full_text": "沙卡祖鲁训练青年军团使用短矛与牛皮盾，方阵战术威震南非",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "africa_america_civilization_030_4",
         "africa_america_civilization_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_030_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_031",
-      "title": "非洲与美洲文明史 - 图片32",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学不仅表达了美好瞬间，更传递了创新的精神，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_031.png",
+      "title": "阿散蒂金凳",
+      "summary": "阿散蒂国王在仪式中端坐金凳，金匠打造精美金饰象征王权",
+      "full_text": "阿散蒂国王在仪式中端坐金凳，金匠打造精美金饰象征王权",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "africa_america_civilization_031_4",
         "africa_america_civilization_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_031_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_032",
-      "title": "非洲与美洲文明史 - 图片33",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在艺术的领域里，生态保护展现得淋漓尽致，每一个思想都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_032.png",
+      "title": "摩洛哥远征桑海",
+      "summary": "摩洛哥火枪手跨越撒哈拉进攻桑海帝国，火器优势击溃骑兵",
+      "full_text": "摩洛哥火枪手跨越撒哈拉进攻桑海帝国，火器优势击溃骑兵",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "africa_america_civilization_032_4",
         "africa_america_civilization_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_032_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_033",
-      "title": "非洲与美洲文明史 - 图片34",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化不仅塑造了时代精神，更传递了梦想的价值，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_033.png",
+      "title": "库施女王统治",
+      "summary": "坎达凯女王率军抵抗罗马入侵，努比亚女战士手持弓箭守卫疆土",
+      "full_text": "坎达凯女王率军抵抗罗马入侵，努比亚女战士手持弓箭守卫疆土",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "africa_america_civilization_033_4",
         "africa_america_civilization_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_033_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_034",
-      "title": "非洲与美洲文明史 - 图片35",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然是时代精神的结晶，它引领着人类的梦想，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_034.png",
+      "title": "西非纺织工艺",
+      "summary": "曼丁哥织工在织机上编织肯特布，彩色条纹象征氏族身份",
+      "full_text": "曼丁哥织工在织机上编织肯特布，彩色条纹象征氏族身份",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "africa_america_civilization_034_4",
         "africa_america_civilization_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_034_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_035",
-      "title": "非洲与美洲文明史 - 图片36",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学是人类智慧的结晶，它启迪着美好的愿景，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_035.png",
+      "title": "东非象牙贸易",
+      "summary": "阿拉伯商人在桑给巴尔收购象牙与丁香，帆船满载驶向波斯湾",
+      "full_text": "阿拉伯商人在桑给巴尔收购象牙与丁香，帆船满载驶向波斯湾",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "africa_america_civilization_035_4",
         "africa_america_civilization_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_035_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_036",
-      "title": "非洲与美洲文明史 - 图片37",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它绚丽地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_036.png",
+      "title": "马里帝国版图",
+      "summary": "曼萨穆萨统治下的马里帝国横跨西非，版图从大西洋到尼日尔河",
+      "full_text": "曼萨穆萨统治下的马里帝国横跨西非，版图从大西洋到尼日尔河",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "africa_america_civilization_036_4",
         "africa_america_civilization_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_036_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_037",
-      "title": "非洲与美洲文明史 - 图片38",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往精神家园的大门，充满了宁静与精神升华。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_037.png",
+      "title": "豪萨城邦贸易",
+      "summary": "卡诺城集市上棉花与皮革堆积如山，商贩用贝壳货币交易",
+      "full_text": "卡诺城集市上棉花与皮革堆积如山，商贩用贝壳货币交易",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "africa_america_civilization_037_4",
         "africa_america_civilization_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_037_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_038",
-      "title": "非洲与美洲文明史 - 图片39",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个瞬间都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_038.png",
+      "title": "大津巴布韦贸易",
+      "summary": "大津巴布韦商人将黄金与铜锭运往海岸，换回波斯玻璃珠",
+      "full_text": "大津巴布韦商人将黄金与铜锭运往海岸，换回波斯玻璃珠",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "africa_america_civilization_038_4",
         "africa_america_civilization_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_038_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_039",
-      "title": "非洲与美洲文明史 - 图片40",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它丰富地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_039.png",
+      "title": "贝宁象牙雕刻",
+      "summary": "贝宁工匠在象牙上精雕葡萄牙骑士形象，盐罐与手镯远销欧洲",
+      "full_text": "贝宁工匠在象牙上精雕葡萄牙骑士形象，盐罐与手镯远销欧洲",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "africa_america_civilization_039_4",
         "africa_america_civilization_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_039_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_040",
-      "title": "非洲与美洲文明史 - 图片41",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在艺术的领域里，生态保护展现得淋漓尽致，每一个历史印记都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_040.png",
+      "title": "奥尔梅克巨石头像",
+      "summary": "奥尔梅克人从火山岩中雕刻巨大人头像，头盔面容庄严肃穆",
+      "full_text": "奥尔梅克人从火山岩中雕刻巨大人头像，头盔面容庄严肃穆",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "africa_america_civilization_040_4",
         "africa_america_civilization_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_040_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_041",
-      "title": "非洲与美洲文明史 - 图片42",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它细腻地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_041.png",
+      "title": "玛雅金字塔神庙",
+      "summary": "玛雅祭司在奇琴伊察金字塔顶端举行祭祀，阶梯投下羽蛇阴影",
+      "full_text": "玛雅祭司在奇琴伊察金字塔顶端举行祭祀，阶梯投下羽蛇阴影",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "africa_america_civilization_041_4",
         "africa_america_civilization_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_041_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_042",
-      "title": "非洲与美洲文明史 - 图片43",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它清新地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_042.png",
+      "title": "玛雅天文历法",
+      "summary": "玛雅天文学家在观象台中推算金星周期，象形数字刻于石碑",
+      "full_text": "玛雅天文学家在观象台中推算金星周期，象形数字刻于石碑",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "africa_america_civilization_042_4",
         "africa_america_civilization_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_042_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_043",
-      "title": "非洲与美洲文明史 - 图片44",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精致地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_043.png",
+      "title": "阿兹特克太阳石",
+      "summary": "阿兹特克工匠雕刻太阳历石，中央太阳神舌伸如刃象征献祭",
+      "full_text": "阿兹特克工匠雕刻太阳历石，中央太阳神舌伸如刃象征献祭",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "africa_america_civilization_043_4",
         "africa_america_civilization_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_043_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_044",
-      "title": "非洲与美洲文明史 - 图片45",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是艺术创造的结晶，它引领着美好的愿景，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_044.png",
+      "title": "阿兹特克特诺奇蒂特兰",
+      "summary": "阿兹特克人在湖岛上建造水上都城，堤道与运河纵横交错",
+      "full_text": "阿兹特克人在湖岛上建造水上都城，堤道与运河纵横交错",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "africa_america_civilization_044_4",
         "africa_america_civilization_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_044_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_045",
-      "title": "非洲与美洲文明史 - 图片46",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化不仅表达了生命意义，更传递了梦想的价值，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_045.png",
+      "title": "印加帝国路网",
+      "summary": "印加信使在安第斯山脊道路上接力奔跑，传递结绳记事信息",
+      "full_text": "印加信使在安第斯山脊道路上接力奔跑，传递结绳记事信息",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "africa_america_civilization_045_4",
         "africa_america_civilization_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_045_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_046",
-      "title": "非洲与美洲文明史 - 图片47",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个情感都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_046.png",
+      "title": "印加马丘比丘",
+      "summary": "印加工匠在安第斯山巅砌筑梯田与神庙，云雾缭绕石墙之间",
+      "full_text": "印加工匠在安第斯山巅砌筑梯田与神庙，云雾缭绕石墙之间",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "africa_america_civilization_046_4",
         "africa_america_civilization_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_046_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_047",
-      "title": "非洲与美洲文明史 - 图片48",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在科学的领域里，艺术创造展现得淋漓尽致，每一个自然元素都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_047.png",
+      "title": "玛雅球赛仪式",
+      "summary": "玛雅球员在球场中用臀部击打橡胶球，胜负关乎祭祀命运",
+      "full_text": "玛雅球员在球场中用臀部击打橡胶球，胜负关乎祭祀命运",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "africa_america_civilization_047_4",
         "africa_america_civilization_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_047_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_048",
-      "title": "非洲与美洲文明史 - 图片49",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术不仅诠释了文化内涵，更传递了情感的力量，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_048.png",
+      "title": "奥尔梅克美洲豹崇拜",
+      "summary": "奥尔梅克祭司身披美洲豹皮举行仪式，婴儿面美洲豹石像守护神庙",
+      "full_text": "奥尔梅克祭司身披美洲豹皮举行仪式，婴儿面美洲豹石像守护神庙",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "africa_america_civilization_048_4",
         "africa_america_civilization_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_048_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_049",
-      "title": "非洲与美洲文明史 - 图片50",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是情感表达的结晶，它启迪着深刻的思考，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_049.png",
+      "title": "阿兹特克献祭",
+      "summary": "阿兹特克祭司在太阳金字塔顶剖出人心献祭，鲜血沿阶梯流淌",
+      "full_text": "阿兹特克祭司在太阳金字塔顶剖出人心献祭，鲜血沿阶梯流淌",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "africa_america_civilization_049_4",
         "africa_america_civilization_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_049_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_050",
-      "title": "非洲与美洲文明史 - 图片51",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它生动地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_050.png",
+      "title": "印加黄金工艺",
+      "summary": "印加金匠锤制黄金面具与羊驼塑像，太阳神庙中金光璀璨",
+      "full_text": "印加金匠锤制黄金面具与羊驼塑像，太阳神庙中金光璀璨",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "africa_america_civilization_050_4",
         "africa_america_civilization_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_050_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_051",
-      "title": "非洲与美洲文明史 - 图片52",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它和谐地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_051.png",
+      "title": "玛雅象形文字",
+      "summary": "玛雅书吏在石灰岩碑上刻写象形铭文，记录王朝历史与天文事件",
+      "full_text": "玛雅书吏在石灰岩碑上刻写象形铭文，记录王朝历史与天文事件",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "africa_america_civilization_051_4",
         "africa_america_civilization_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_051_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_052",
-      "title": "非洲与美洲文明史 - 图片53",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它细腻地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_052.png",
+      "title": "托尔特克武士像",
+      "summary": "托尔特克工匠雕刻查克莫尔武士石像，腹托祭盘承接供品",
+      "full_text": "托尔特克工匠雕刻查克莫尔武士石像，腹托祭盘承接供品",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "africa_america_civilization_052_4",
         "africa_america_civilization_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_052_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_053",
-      "title": "非洲与美洲文明史 - 图片54",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往历史长河的大门，充满了感动与文化浸润。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_053.png",
+      "title": "阿兹特克浮动花园",
+      "summary": "阿兹特克农民在湖面搭建奇南帕浮岛，四季蔬菜丰收不断",
+      "full_text": "阿兹特克农民在湖面搭建奇南帕浮岛，四季蔬菜丰收不断",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "africa_america_civilization_053_4",
         "africa_america_civilization_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_053_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_054",
-      "title": "非洲与美洲文明史 - 图片55",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然是历史积淀的结晶，它记录着美好的愿景，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_054.png",
+      "title": "印加奇普记事",
+      "summary": "印加会计在彩色绳结奇普上记录人口与税收，结绳编码信息",
+      "full_text": "印加会计在彩色绳结奇普上记录人口与税收，结绳编码信息",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "africa_america_civilization_054_4",
         "africa_america_civilization_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_054_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_055",
-      "title": "非洲与美洲文明史 - 图片56",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了温馨与美好感受。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_055.png",
+      "title": "玛雅帕伦克宫殿",
+      "summary": "帕卡尔大帝在帕伦克宫殿中接见贵族，翡翠面具陪葬陵墓",
+      "full_text": "帕卡尔大帝在帕伦克宫殿中接见贵族，翡翠面具陪葬陵墓",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "africa_america_civilization_055_4",
         "africa_america_civilization_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_055_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_056",
-      "title": "非洲与美洲文明史 - 图片57",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是生活体验的结晶，它记录着人类的梦想，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_056.png",
+      "title": "纳斯卡地画",
+      "summary": "纳斯卡人在荒漠地表刮出巨鸟与蜘蛛图案，线条绵延数公里",
+      "full_text": "纳斯卡人在荒漠地表刮出巨鸟与蜘蛛图案，线条绵延数公里",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "africa_america_civilization_056_4",
         "africa_america_civilization_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_056_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_057",
-      "title": "非洲与美洲文明史 - 图片58",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了喜悦与审美体验。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_057.png",
+      "title": "莫切文化陶器",
+      "summary": "莫切工匠烧制写实肖像陶壶，人物面容各异栩栩如生",
+      "full_text": "莫切工匠烧制写实肖像陶壶，人物面容各异栩栩如生",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "africa_america_civilization_057_4",
         "africa_america_civilization_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_057_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_058",
-      "title": "非洲与美洲文明史 - 图片59",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然不仅创造了生活哲理，更传递了文化的传承，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_058.png",
+      "title": "蒂亚瓦纳科石门",
+      "summary": "蒂亚瓦纳科工匠在太阳门上雕刻持杖神像，安第斯高原寒风呼啸",
+      "full_text": "蒂亚瓦纳科工匠在太阳门上雕刻持杖神像，安第斯高原寒风呼啸",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "africa_america_civilization_058_4",
         "africa_america_civilization_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_058_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_059",
-      "title": "非洲与美洲文明史 - 图片60",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学不仅诠释了生活哲理，更传递了人与自然的和谐，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_059.png",
+      "title": "阿兹特克市场",
+      "summary": "特诺奇蒂特兰大市场中可可豆充当货币，商贩叫卖羽毛与陶器",
+      "full_text": "特诺奇蒂特兰大市场中可可豆充当货币，商贩叫卖羽毛与陶器",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "africa_america_civilization_059_4",
         "africa_america_civilization_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_059_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_060",
-      "title": "非洲与美洲文明史 - 图片61",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是时代精神的结晶，它引领着人文的关怀，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_060.png",
+      "title": "跨大西洋奴隶船",
+      "summary": "奴隶船甲板下拥挤着被锁链束缚的非洲人，中间航路横渡大西洋",
+      "full_text": "奴隶船甲板下拥挤着被锁链束缚的非洲人，中间航路横渡大西洋",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "africa_america_civilization_060_4",
         "africa_america_civilization_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_060_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_061",
-      "title": "非洲与美洲文明史 - 图片62",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化不仅揭示了时代精神，更传递了美的真谛，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_061.png",
+      "title": "海地革命",
+      "summary": "杜桑卢维杜尔率海地黑奴起义军击败法军，加勒比首个黑人共和国诞...",
+      "full_text": "杜桑卢维杜尔率海地黑奴起义军击败法军，加勒比首个黑人共和国诞生",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "africa_america_civilization_061_4",
         "africa_america_civilization_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_061_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_062",
-      "title": "非洲与美洲文明史 - 图片63",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往梦想世界的大门，充满了怀念与文化浸润。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_062.png",
+      "title": "南非种族隔离",
+      "summary": "曼德拉在罗本岛监狱中坚持抗争，南非黑人争取平等权利",
+      "full_text": "曼德拉在罗本岛监狱中坚持抗争，南非黑人争取平等权利",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "africa_america_civilization_062_4",
         "africa_america_civilization_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_062_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_063",
-      "title": "非洲与美洲文明史 - 图片64",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在科学的领域里，历史变迁展现得淋漓尽致，每一个自然元素都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_063.png",
+      "title": "拉美独立运动",
+      "summary": "玻利瓦尔骑马率军穿越安第斯山，解放南美西班牙殖民地",
+      "full_text": "玻利瓦尔骑马率军穿越安第斯山，解放南美西班牙殖民地",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "africa_america_civilization_063_4",
         "africa_america_civilization_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_063_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_064",
-      "title": "非洲与美洲文明史 - 图片65",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术不仅诠释了情感世界，更传递了奋斗的意义，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_064.png",
+      "title": "非洲殖民瓜分",
+      "summary": "欧洲列强在柏林会议上用直尺划分非洲边界，无视部族分布",
+      "full_text": "欧洲列强在柏林会议上用直尺划分非洲边界，无视部族分布",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "africa_america_civilization_064_4",
         "africa_america_civilization_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_064_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_065",
-      "title": "非洲与美洲文明史 - 图片66",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是自然造化的结晶，它展现着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_065.png",
+      "title": "巴西废奴运动",
+      "summary": "巴西废奴主义者游行要求终结奴隶制，黄金法终获签署",
+      "full_text": "巴西废奴主义者游行要求终结奴隶制，黄金法终获签署",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "africa_america_civilization_065_4",
         "africa_america_civilization_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_065_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_066",
-      "title": "非洲与美洲文明史 - 图片67",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个细节都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_066.png",
+      "title": "印度独立运动",
+      "summary": "甘地在食盐长征中弯腰拾盐，非暴力不合作震撼大英帝国",
+      "full_text": "甘地在食盐长征中弯腰拾盐，非暴力不合作震撼大英帝国",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "africa_america_civilization_066_4",
         "africa_america_civilization_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_066_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_067",
-      "title": "非洲与美洲文明史 - 图片68",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学是情感表达的结晶，它传递着永恒的真理，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_067.png",
+      "title": "阿尔及利亚独立",
+      "summary": "阿尔及利亚民族解放军在卡比利亚山区与法军作战",
+      "full_text": "阿尔及利亚民族解放军在卡比利亚山区与法军作战",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "africa_america_civilization_067_4",
         "africa_america_civilization_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_067_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_068",
-      "title": "非洲与美洲文明史 - 图片69",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它绚丽地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_068.png",
+      "title": "加纳独立",
+      "summary": "恩克鲁玛在阿克拉宣布加纳独立，非洲去殖民化浪潮开启",
+      "full_text": "恩克鲁玛在阿克拉宣布加纳独立，非洲去殖民化浪潮开启",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "africa_america_civilization_068_4",
         "africa_america_civilization_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_068_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_069",
-      "title": "非洲与美洲文明史 - 图片70",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它生动地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_069.png",
+      "title": "巴拿马运河",
+      "summary": "工程人员在热带丛林中开凿运河，船闸提升船只穿越大陆分水岭",
+      "full_text": "工程人员在热带丛林中开凿运河，船闸提升船只穿越大陆分水岭",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "africa_america_civilization_069_4",
         "africa_america_civilization_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_069_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_070",
-      "title": "非洲与美洲文明史 - 图片71",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然不仅表达了历史记忆，更传递了真善美的追求，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_070.png",
+      "title": "古巴革命",
+      "summary": "卡斯特罗与格瓦拉率游击队从山区进军哈瓦那，推翻巴蒂斯塔",
+      "full_text": "卡斯特罗与格瓦拉率游击队从山区进军哈瓦那，推翻巴蒂斯塔",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "africa_america_civilization_070_4",
         "africa_america_civilization_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_070_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_071",
-      "title": "非洲与美洲文明史 - 图片72",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学不仅塑造了历史记忆，更传递了创新的精神，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_071.png",
+      "title": "刚果独立",
+      "summary": "卢蒙巴在独立典礼上控诉殖民暴行，刚果踏上自主之路",
+      "full_text": "卢蒙巴在独立典礼上控诉殖民暴行，刚果踏上自主之路",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "africa_america_civilization_071_4",
         "africa_america_civilization_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_071_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_072",
-      "title": "非洲与美洲文明史 - 图片73",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往文化宝库的大门，充满了怀念与心灵震撼。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_072.png",
+      "title": "墨西哥革命",
+      "summary": "潘乔维拉率骑兵在北方驰骋，农民军为土地与自由而战",
+      "full_text": "潘乔维拉率骑兵在北方驰骋，农民军为土地与自由而战",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "africa_america_civilization_072_4",
         "africa_america_civilization_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_072_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_073",
-      "title": "非洲与美洲文明史 - 图片74",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是历史积淀的结晶，它创造着永恒的真理，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_073.png",
+      "title": "非洲联盟成立",
+      "summary": "非洲各国领导人在亚的斯亚贝巴签署宪章，非盟取代统一组织",
+      "full_text": "非洲各国领导人在亚的斯亚贝巴签署宪章，非盟取代统一组织",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "africa_america_civilization_073_4",
         "africa_america_civilization_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_073_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_074",
-      "title": "非洲与美洲文明史 - 图片75",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然是人类智慧的结晶，它诠释着人文的关怀，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_074.png",
+      "title": "南非民主转型",
+      "summary": "曼德拉在首次民主选举中投票，彩虹国度迎来新纪元",
+      "full_text": "曼德拉在首次民主选举中投票，彩虹国度迎来新纪元",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,14 +1573,15 @@
         "africa_america_civilization_074_4",
         "africa_america_civilization_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_074_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_075",
-      "title": "非洲与美洲文明史 - 图片76",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学不仅诠释了艺术真谛，更传递了文化的传承，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_075.png",
+      "title": "拉美经济发展",
+      "summary": "圣保罗金融区摩天大楼拔地而起，巴西跻身新兴经济体行列",
+      "full_text": "圣保罗金融区摩天大楼拔地而起，巴西跻身新兴经济体行列",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_075.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1519,14 +1594,15 @@
         "africa_america_civilization_075_4",
         "africa_america_civilization_075_5"
       ],
-      "order": 75
+      "order": 75,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_075_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_076",
-      "title": "非洲与美洲文明史 - 图片77",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它清新地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_076.png",
+      "title": "非洲数字经济",
+      "summary": "内罗毕科技园中程序员编写移动支付代码，非洲跳过PC时代",
+      "full_text": "内罗毕科技园中程序员编写移动支付代码，非洲跳过PC时代",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_076.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1539,14 +1615,15 @@
         "africa_america_civilization_076_4",
         "africa_america_civilization_076_5"
       ],
-      "order": 76
+      "order": 76,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_076_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_077",
-      "title": "非洲与美洲文明史 - 图片78",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在文化的领域里，人文景观展现得淋漓尽致，每一个情感都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_077.png",
+      "title": "拉美文化复兴",
+      "summary": "墨西哥城壁画运动再现阿兹特克辉煌，本土文化重新焕发生机",
+      "full_text": "墨西哥城壁画运动再现阿兹特克辉煌，本土文化重新焕发生机",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_077.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1559,14 +1636,15 @@
         "africa_america_civilization_077_4",
         "africa_america_civilization_077_5"
       ],
-      "order": 77
+      "order": 77,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_077_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_078",
-      "title": "非洲与美洲文明史 - 图片79",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往创意空间的大门，充满了激情与美好感受。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_078.png",
+      "title": "非洲野生动物保护",
+      "summary": "护林员在塞伦盖蒂草原巡逻保护犀牛，对抗盗猎守护自然遗产",
+      "full_text": "护林员在塞伦盖蒂草原巡逻保护犀牛，对抗盗猎守护自然遗产",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_078.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1579,14 +1657,15 @@
         "africa_america_civilization_078_4",
         "africa_america_civilization_078_5"
       ],
-      "order": 78
+      "order": 78,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_078_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_079",
-      "title": "非洲与美洲文明史 - 图片80",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个瞬间都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_079.png",
+      "title": "加勒比文化融合",
+      "summary": "特立尼达狂欢节上钢鼓乐队演奏，非洲与印度文化交融共舞",
+      "full_text": "特立尼达狂欢节上钢鼓乐队演奏，非洲与印度文化交融共舞",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_079.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1599,14 +1678,15 @@
         "africa_america_civilization_079_4",
         "africa_america_civilization_079_5"
       ],
-      "order": 79
+      "order": 79,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_079_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_080",
-      "title": "非洲与美洲文明史 - 图片81",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是情感表达的结晶，它承载着人类的梦想，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_080.png",
+      "title": "埃及艳后克娄巴特拉",
+      "summary": "克娄巴特拉乘金色画舫驶入亚历山大港，罗马与埃及的政治联姻",
+      "full_text": "克娄巴特拉乘金色画舫驶入亚历山大港，罗马与埃及的政治联姻",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_080.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1619,14 +1699,15 @@
         "africa_america_civilization_080_4",
         "africa_america_civilization_080_5"
       ],
-      "order": 80
+      "order": 80,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_080_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_081",
-      "title": "非洲与美洲文明史 - 图片82",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是审美追求的结晶，它记录着深刻的思考，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_081.png",
+      "title": "加纳帝国黄金贸易",
+      "summary": "加纳国王以黄金换取北非盐与铜器，西非黄金帝国富甲一方",
+      "full_text": "加纳国王以黄金换取北非盐与铜器，西非黄金帝国富甲一方",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_081.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1639,14 +1720,15 @@
         "africa_america_civilization_081_4",
         "africa_america_civilization_081_5"
       ],
-      "order": 81
+      "order": 81,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_081_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_082",
-      "title": "非洲与美洲文明史 - 图片83",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美丽新世界的大门，充满了震撼与知识启迪。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_082.png",
+      "title": "非洲岩画艺术",
+      "summary": "布须曼人在德拉肯斯堡岩壁上绘制狩猎与舞蹈场景",
+      "full_text": "布须曼人在德拉肯斯堡岩壁上绘制狩猎与舞蹈场景",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_082.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1659,14 +1741,15 @@
         "africa_america_civilization_082_4",
         "africa_america_civilization_082_5"
       ],
-      "order": 82
+      "order": 82,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_082_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_083",
-      "title": "非洲与美洲文明史 - 图片84",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "科学不仅记录了美好瞬间，更传递了文化的传承，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_083.png",
+      "title": "印加帝国扩张",
+      "summary": "印加皇帝帕查库提率军征服安第斯诸国，太阳帝国版图达于极盛",
+      "full_text": "印加皇帝帕查库提率军征服安第斯诸国，太阳帝国版图达于极盛",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_083.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1679,14 +1762,15 @@
         "africa_america_civilization_083_4",
         "africa_america_civilization_083_5"
       ],
-      "order": 83
+      "order": 83,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_083_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_084",
-      "title": "非洲与美洲文明史 - 图片85",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是文化传承的结晶，它承载着深刻的思考，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_084.png",
+      "title": "莫切金字塔",
+      "summary": "莫切人在河谷中建造太阳金字塔与月亮金字塔，土砖神庙巍然矗立",
+      "full_text": "莫切人在河谷中建造太阳金字塔与月亮金字塔，土砖神庙巍然矗立",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_084.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1699,14 +1783,15 @@
         "africa_america_civilization_084_4",
         "africa_america_civilization_084_5"
       ],
-      "order": 84
+      "order": 84,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_084_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_085",
-      "title": "非洲与美洲文明史 - 图片86",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往神秘国度的大门，充满了怀念与知识启迪。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_085.png",
+      "title": "非洲独立浪潮",
+      "summary": "十七个非洲国家在一九六零年独立，非洲年改变大陆政治版图",
+      "full_text": "十七个非洲国家在一九六零年独立，非洲年改变大陆政治版图",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_085.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1719,14 +1804,15 @@
         "africa_america_civilization_085_4",
         "africa_america_civilization_085_5"
       ],
-      "order": 85
+      "order": 85,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_085_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_086",
-      "title": "非洲与美洲文明史 - 图片87",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "自然是自然造化的结晶，它记录着永恒的真理，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_086.png",
+      "title": "卢旺达重建",
+      "summary": "卢旺达人在种族屠杀后重建社区，和解法庭促进族群对话",
+      "full_text": "卢旺达人在种族屠杀后重建社区，和解法庭促进族群对话",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_086.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1739,14 +1825,15 @@
         "africa_america_civilization_086_4",
         "africa_america_civilization_086_5"
       ],
-      "order": 86
+      "order": 86,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_086_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_087",
-      "title": "非洲与美洲文明史 - 图片88",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "在科学的领域里，艺术创造展现得淋漓尽致，每一个光影都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_087.png",
+      "title": "拉美左翼运动",
+      "summary": "拉美民众选举左翼领袖执政，社会改革与资源国有化浪潮兴起",
+      "full_text": "拉美民众选举左翼领袖执政，社会改革与资源国有化浪潮兴起",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_087.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1759,14 +1846,15 @@
         "africa_america_civilization_087_4",
         "africa_america_civilization_087_5"
       ],
-      "order": 87
+      "order": 87,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_087_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_088",
-      "title": "非洲与美洲文明史 - 图片89",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它和谐地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_088.png",
+      "title": "非洲基础设施",
+      "summary": "中国工程师在肯尼亚修建蒙内铁路，东非交通现代化加速推进",
+      "full_text": "中国工程师在肯尼亚修建蒙内铁路，东非交通现代化加速推进",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_088.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1779,14 +1867,15 @@
         "africa_america_civilization_088_4",
         "africa_america_civilization_088_5"
       ],
-      "order": 88
+      "order": 88,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_088_pixel.jpg"
     },
     {
       "id": "africa_america_civilization_089",
-      "title": "非洲与美洲文明史 - 图片90",
-      "summary": "非洲与美洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它深刻地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_089.png",
+      "title": "美洲原住民文化复兴",
+      "summary": "印第安人在保留地复兴传统语言与仪式，原住民文化重获生机",
+      "full_text": "印第安人在保留地复兴传统语言与仪式，原住民文化重获生机",
+      "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_089.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1799,7 +1888,8 @@
         "africa_america_civilization_089_4",
         "africa_america_civilization_089_5"
       ],
-      "order": 89
+      "order": 89,
+      "pixel_image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_089_pixel.jpg"
     }
   ]
 }

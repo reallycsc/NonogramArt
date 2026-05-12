@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "education_000",
-      "title": "教育学习 - 图片1",
-      "summary": "教育学习相关图片",
-      "full_text": "知识殿堂是生活体验的结晶，它表达着生活的智慧，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/education/education_000.png",
+      "title": "私塾授课",
+      "summary": "古代私塾先生端坐授课，学童摇头晃脑诵读，启蒙教育",
+      "full_text": "古代私塾先生端坐授课，学童摇头晃脑诵读，启蒙教育",
+      "image": "res://assets/images/illustrations/education/education_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "education_000_4",
         "education_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/education/education_000_pixel.jpg"
     },
     {
       "id": "education_001",
-      "title": "教育学习 - 图片2",
-      "summary": "教育学习相关图片",
-      "full_text": "探索学习之旅的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了怀念与精神升华。",
-      "image": "res://assets/images/illustrations/education/education_001.png",
+      "title": "书院讲学",
+      "summary": "岳麓书院山长讲学，学子席地而坐聆听，学术殿堂",
+      "full_text": "岳麓书院山长讲学，学子席地而坐聆听，学术殿堂",
+      "image": "res://assets/images/illustrations/education/education_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "education_001_4",
         "education_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/education/education_001_pixel.jpg"
     },
     {
       "id": "education_002",
-      "title": "教育学习 - 图片3",
-      "summary": "教育学习相关图片",
-      "full_text": "在智慧启迪的领域里，科学发现展现得淋漓尽致，每一个瞬间都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/education/education_002.png",
+      "title": "科举考场",
+      "summary": "科举考场号舍排列，考生奋笔疾书，十年寒窗一朝功名",
+      "full_text": "科举考场号舍排列，考生奋笔疾书，十年寒窗一朝功名",
+      "image": "res://assets/images/illustrations/education/education_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "education_002_4",
         "education_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/education/education_002_pixel.jpg"
     },
     {
       "id": "education_003",
-      "title": "教育学习 - 图片4",
-      "summary": "教育学习相关图片",
-      "full_text": "在成长之路的领域里，艺术创造展现得淋漓尽致，每一个历史印记都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/education/education_003.png",
+      "title": "太学求学",
+      "summary": "汉代太学博士传授经学，弟子三千学术争鸣，最高学府",
+      "full_text": "汉代太学博士传授经学，弟子三千学术争鸣，最高学府",
+      "image": "res://assets/images/illustrations/education/education_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "education_003_4",
         "education_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/education/education_003_pixel.jpg"
     },
     {
       "id": "education_004",
-      "title": "教育学习 - 图片5",
-      "summary": "教育学习相关图片",
-      "full_text": "探索教育之光的世界，仿佛打开了一扇通往知识海洋的大门，充满了温馨与文化浸润。",
-      "image": "res://assets/images/illustrations/education/education_004.png",
+      "title": "蒙学识字",
+      "summary": "蒙学三字经百家姓，儿童描红识字，启蒙教育经典",
+      "full_text": "蒙学三字经百家姓，儿童描红识字，启蒙教育经典",
+      "image": "res://assets/images/illustrations/education/education_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "education_004_4",
         "education_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/education/education_004_pixel.jpg"
     },
     {
       "id": "education_005",
-      "title": "教育学习 - 图片6",
-      "summary": "教育学习相关图片",
-      "full_text": "知识殿堂是思想升华的结晶，它承载着生活的智慧，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/education/education_005.png",
+      "title": "国子监",
+      "summary": "国子监监生读书，辟雍水环绕讲学，国家教育管理机构",
+      "full_text": "国子监监生读书，辟雍水环绕讲学，国家教育管理机构",
+      "image": "res://assets/images/illustrations/education/education_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "education_005_4",
         "education_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/education/education_005_pixel.jpg"
     },
     {
       "id": "education_006",
-      "title": "教育学习 - 图片7",
-      "summary": "教育学习相关图片",
-      "full_text": "学习之旅是人类文明的重要组成部分，它丰富地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/education/education_006.png",
+      "title": "孔庙祭孔",
+      "summary": "孔庙祭孔大典，乐舞表演尊师重道，万世师表",
+      "full_text": "孔庙祭孔大典，乐舞表演尊师重道，万世师表",
+      "image": "res://assets/images/illustrations/education/education_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "education_006_4",
         "education_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/education/education_006_pixel.jpg"
     },
     {
       "id": "education_007",
-      "title": "教育学习 - 图片8",
-      "summary": "教育学习相关图片",
-      "full_text": "智慧启迪是人类文明的重要组成部分，它优美地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/education/education_007.png",
+      "title": "竹简书写",
+      "summary": "古人在竹简上刻字书写，刀笔吏记录历史，文字载体",
+      "full_text": "古人在竹简上刻字书写，刀笔吏记录历史，文字载体",
+      "image": "res://assets/images/illustrations/education/education_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "education_007_4",
         "education_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/education/education_007_pixel.jpg"
     },
     {
       "id": "education_008",
-      "title": "教育学习 - 图片9",
-      "summary": "教育学习相关图片",
-      "full_text": "成长之路是人类智慧的结晶，它传递着深刻的思考，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/education/education_008.png",
+      "title": "活字印刷",
+      "summary": "毕昇活字印刷术，铅字排版印书，知识传播革命",
+      "full_text": "毕昇活字印刷术，铅字排版印书，知识传播革命",
+      "image": "res://assets/images/illustrations/education/education_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "education_008_4",
         "education_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/education/education_008_pixel.jpg"
     },
     {
       "id": "education_009",
-      "title": "教育学习 - 图片10",
-      "summary": "教育学习相关图片",
-      "full_text": "在教育之光的领域里，文化传承展现得淋漓尽致，每一个细节都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/education/education_009.png",
+      "title": "师徒传承",
+      "summary": "师徒传承手把手教授，口传心授技艺延续，传统教育",
+      "full_text": "师徒传承手把手教授，口传心授技艺延续，传统教育",
+      "image": "res://assets/images/illustrations/education/education_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "education_009_4",
         "education_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/education/education_009_pixel.jpg"
     },
     {
       "id": "education_010",
-      "title": "教育学习 - 图片11",
-      "summary": "教育学习相关图片",
-      "full_text": "在知识殿堂的领域里，生态保护展现得淋漓尽致，每一个思想都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/education/education_010.png",
+      "title": "武馆习武",
+      "summary": "武馆师父教弟子练功，扎马地打拳，武术教育",
+      "full_text": "武馆师父教弟子练功，扎马地打拳，武术教育",
+      "image": "res://assets/images/illustrations/education/education_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "education_010_4",
         "education_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/education/education_010_pixel.jpg"
     },
     {
       "id": "education_011",
-      "title": "教育学习 - 图片12",
-      "summary": "教育学习相关图片",
-      "full_text": "学习之旅是人类智慧的结晶，它诠释着创新的理念，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/education/education_011.png",
+      "title": "琴棋书画",
+      "summary": "古代文人四艺琴棋书画，修身养性全面发展，素质教育",
+      "full_text": "古代文人四艺琴棋书画，修身养性全面发展，素质教育",
+      "image": "res://assets/images/illustrations/education/education_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "education_011_4",
         "education_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/education/education_011_pixel.jpg"
     },
     {
       "id": "education_012",
-      "title": "教育学习 - 图片13",
-      "summary": "教育学习相关图片",
-      "full_text": "智慧启迪不仅塑造了文化内涵，更传递了美的真谛，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/education/education_012.png",
+      "title": "新式学堂",
+      "summary": "清末新式学堂废科举，黑板课桌新式教学，教育变革",
+      "full_text": "清末新式学堂废科举，黑板课桌新式教学，教育变革",
+      "image": "res://assets/images/illustrations/education/education_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "education_012_4",
         "education_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/education/education_012_pixel.jpg"
     },
     {
       "id": "education_013",
-      "title": "教育学习 - 图片14",
-      "summary": "教育学习相关图片",
-      "full_text": "成长之路是自然造化的结晶，它创造着深刻的思考，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/education/education_013.png",
+      "title": "西南联大",
+      "summary": "西南联大茅屋铁皮顶，大师云集弦歌不辍，战时教育传奇",
+      "full_text": "西南联大茅屋铁皮顶，大师云集弦歌不辍，战时教育传奇",
+      "image": "res://assets/images/illustrations/education/education_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "education_013_4",
         "education_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/education/education_013_pixel.jpg"
     },
     {
       "id": "education_014",
-      "title": "教育学习 - 图片15",
-      "summary": "教育学习相关图片",
-      "full_text": "在教育之光的领域里，生态保护展现得淋漓尽致，每一个历史印记都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/education/education_014.png",
+      "title": "大学图书馆",
+      "summary": "大学图书馆藏书万卷，学子埋头苦读，知识殿堂",
+      "full_text": "大学图书馆藏书万卷，学子埋头苦读，知识殿堂",
+      "image": "res://assets/images/illustrations/education/education_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "education_014_4",
         "education_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/education/education_014_pixel.jpg"
     },
     {
       "id": "education_015",
-      "title": "教育学习 - 图片16",
-      "summary": "教育学习相关图片",
-      "full_text": "知识殿堂不仅描绘了美好瞬间，更传递了美的真谛，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/education/education_015.png",
+      "title": "实验室科研",
+      "summary": "大学实验室仪器精密，研究生操作实验，科学探索",
+      "full_text": "大学实验室仪器精密，研究生操作实验，科学探索",
+      "image": "res://assets/images/illustrations/education/education_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "education_015_4",
         "education_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/education/education_015_pixel.jpg"
     },
     {
       "id": "education_016",
-      "title": "教育学习 - 图片17",
-      "summary": "教育学习相关图片",
-      "full_text": "学习之旅是人类智慧的结晶，它引领着社会的进步，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/education/education_016.png",
+      "title": "黑板粉笔",
+      "summary": "教室黑板粉笔吱嘎，老师板书学生笔记，经典课堂",
+      "full_text": "教室黑板粉笔吱嘎，老师板书学生笔记，经典课堂",
+      "image": "res://assets/images/illustrations/education/education_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "education_016_4",
         "education_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/education/education_016_pixel.jpg"
     },
     {
       "id": "education_017",
-      "title": "教育学习 - 图片18",
-      "summary": "教育学习相关图片",
-      "full_text": "智慧启迪不仅诠释了美好瞬间，更传递了奋斗的意义，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/education/education_017.png",
+      "title": "考试制度",
+      "summary": "高考考场严肃紧张，十年磨一剑，命运转折点",
+      "full_text": "高考考场严肃紧张，十年磨一剑，命运转折点",
+      "image": "res://assets/images/illustrations/education/education_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "education_017_4",
         "education_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/education/education_017_pixel.jpg"
     },
     {
       "id": "education_018",
-      "title": "教育学习 - 图片19",
-      "summary": "教育学习相关图片",
-      "full_text": "成长之路不仅表达了美好瞬间，更传递了生命的意义，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/education/education_018.png",
+      "title": "留学海外",
+      "summary": "留学生远渡重洋求学，异国他乡刻苦，报国之志",
+      "full_text": "留学生远渡重洋求学，异国他乡刻苦，报国之志",
+      "image": "res://assets/images/illustrations/education/education_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "education_018_4",
         "education_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/education/education_018_pixel.jpg"
     },
     {
       "id": "education_019",
-      "title": "教育学习 - 图片20",
-      "summary": "教育学习相关图片",
-      "full_text": "探索教育之光的世界，仿佛打开了一扇通往创意空间的大门，充满了沉思与文化浸润。",
-      "image": "res://assets/images/illustrations/education/education_019.png",
+      "title": "扫盲运动",
+      "summary": "扫盲运动夜校识字班，成年人学文化，全民教育",
+      "full_text": "扫盲运动夜校识字班，成年人学文化，全民教育",
+      "image": "res://assets/images/illustrations/education/education_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "education_019_4",
         "education_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/education/education_019_pixel.jpg"
     },
     {
       "id": "education_020",
-      "title": "教育学习 - 图片21",
-      "summary": "教育学习相关图片",
-      "full_text": "探索知识殿堂的世界，仿佛打开了一扇通往智慧天地的大门，充满了喜悦与美好感受。",
-      "image": "res://assets/images/illustrations/education/education_020.png",
+      "title": "希望工程",
+      "summary": "希望工程山区小学，孩子渴望读书的眼神，教育公平",
+      "full_text": "希望工程山区小学，孩子渴望读书的眼神，教育公平",
+      "image": "res://assets/images/illustrations/education/education_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "education_020_4",
         "education_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/education/education_020_pixel.jpg"
     },
     {
       "id": "education_021",
-      "title": "教育学习 - 图片22",
-      "summary": "教育学习相关图片",
-      "full_text": "探索学习之旅的世界，仿佛打开了一扇通往神秘国度的大门，充满了怀念与美好感受。",
-      "image": "res://assets/images/illustrations/education/education_021.png",
+      "title": "在线教育",
+      "summary": "在线教育视频课程，随时随地学习，打破时空限制",
+      "full_text": "在线教育视频课程，随时随地学习，打破时空限制",
+      "image": "res://assets/images/illustrations/education/education_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "education_021_4",
         "education_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/education/education_021_pixel.jpg"
     },
     {
       "id": "education_022",
-      "title": "教育学习 - 图片23",
-      "summary": "教育学习相关图片",
-      "full_text": "探索智慧启迪的世界，仿佛打开了一扇通往智慧天地的大门，充满了温馨与情感共鸣。",
-      "image": "res://assets/images/illustrations/education/education_022.png",
+      "title": "STEM教育",
+      "summary": "STEM教育科学实验，孩子动手编程机器人，跨学科学习",
+      "full_text": "STEM教育科学实验，孩子动手编程机器人，跨学科学习",
+      "image": "res://assets/images/illustrations/education/education_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "education_022_4",
         "education_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/education/education_022_pixel.jpg"
     },
     {
       "id": "education_023",
-      "title": "教育学习 - 图片24",
-      "summary": "教育学习相关图片",
-      "full_text": "成长之路是思想升华的结晶，它诠释着永恒的真理，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/education/education_023.png",
+      "title": "创客空间",
+      "summary": "创客空间3D打印机，学生动手造物，创新实践",
+      "full_text": "创客空间3D打印机，学生动手造物，创新实践",
+      "image": "res://assets/images/illustrations/education/education_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "education_023_4",
         "education_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/education/education_023_pixel.jpg"
     },
     {
       "id": "education_024",
-      "title": "教育学习 - 图片25",
-      "summary": "教育学习相关图片",
-      "full_text": "探索教育之光的世界，仿佛打开了一扇通往美丽新世界的大门，充满了向往与知识启迪。",
-      "image": "res://assets/images/illustrations/education/education_024.png",
+      "title": "编程教育",
+      "summary": "少儿编程Scratch积木，逻辑思维培养，数字素养",
+      "full_text": "少儿编程Scratch积木，逻辑思维培养，数字素养",
+      "image": "res://assets/images/illustrations/education/education_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "education_024_4",
         "education_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/education/education_024_pixel.jpg"
     },
     {
       "id": "education_025",
-      "title": "教育学习 - 图片26",
-      "summary": "教育学习相关图片",
-      "full_text": "探索知识殿堂的世界，仿佛打开了一扇通往历史长河的大门，充满了惊叹与精神升华。",
-      "image": "res://assets/images/illustrations/education/education_025.png",
+      "title": "翻转课堂",
+      "summary": "翻转课堂先学后教，视频预习课堂讨论，教学创新",
+      "full_text": "翻转课堂先学后教，视频预习课堂讨论，教学创新",
+      "image": "res://assets/images/illustrations/education/education_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "education_025_4",
         "education_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/education/education_025_pixel.jpg"
     },
     {
       "id": "education_026",
-      "title": "教育学习 - 图片27",
-      "summary": "教育学习相关图片",
-      "full_text": "探索学习之旅的世界，仿佛打开了一扇通往知识海洋的大门，充满了惊叹与情感共鸣。",
-      "image": "res://assets/images/illustrations/education/education_026.png",
+      "title": "蒙台梭利",
+      "summary": "蒙台梭利教具操作，儿童自主探索学习，尊重天性",
+      "full_text": "蒙台梭利教具操作，儿童自主探索学习，尊重天性",
+      "image": "res://assets/images/illustrations/education/education_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "education_026_4",
         "education_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/education/education_026_pixel.jpg"
     },
     {
       "id": "education_027",
-      "title": "教育学习 - 图片28",
-      "summary": "教育学习相关图片",
-      "full_text": "智慧启迪是人类文明的重要组成部分，它精彩地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/education/education_027.png",
+      "title": "项目式学习",
+      "summary": "项目式学习小组合作，解决真实问题，能力培养",
+      "full_text": "项目式学习小组合作，解决真实问题，能力培养",
+      "image": "res://assets/images/illustrations/education/education_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "education_027_4",
         "education_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/education/education_027_pixel.jpg"
     },
     {
       "id": "education_028",
-      "title": "教育学习 - 图片29",
-      "summary": "教育学习相关图片",
-      "full_text": "在成长之路的领域里，历史变迁展现得淋漓尽致，每一个瞬间都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/education/education_028.png",
+      "title": "户外教育",
+      "summary": "户外教育自然观察，森林课堂体验学习，亲近自然",
+      "full_text": "户外教育自然观察，森林课堂体验学习，亲近自然",
+      "image": "res://assets/images/illustrations/education/education_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "education_028_4",
         "education_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/education/education_028_pixel.jpg"
     },
     {
       "id": "education_029",
-      "title": "教育学习 - 图片30",
-      "summary": "教育学习相关图片",
-      "full_text": "教育之光是人类文明的重要组成部分，它庄重地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/education/education_029.png",
+      "title": "特殊教育",
+      "summary": "特殊教育手语盲文，关爱残障儿童，教育公平",
+      "full_text": "特殊教育手语盲文，关爱残障儿童，教育公平",
+      "image": "res://assets/images/illustrations/education/education_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "education_029_4",
         "education_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/education/education_029_pixel.jpg"
     },
     {
       "id": "education_030",
-      "title": "教育学习 - 图片31",
-      "summary": "教育学习相关图片",
-      "full_text": "探索知识殿堂的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了宁静与心灵震撼。",
-      "image": "res://assets/images/illustrations/education/education_030.png",
+      "title": "职业教育",
+      "summary": "职业教育技能培训，车工焊工实操，工匠培养",
+      "full_text": "职业教育技能培训，车工焊工实操，工匠培养",
+      "image": "res://assets/images/illustrations/education/education_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "education_030_4",
         "education_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/education/education_030_pixel.jpg"
     },
     {
       "id": "education_031",
-      "title": "教育学习 - 图片32",
-      "summary": "教育学习相关图片",
-      "full_text": "探索学习之旅的世界，仿佛打开了一扇通往智慧天地的大门，充满了激情与文化浸润。",
-      "image": "res://assets/images/illustrations/education/education_031.png",
+      "title": "终身学习",
+      "summary": "终身学习老人大学，活到老学到老，知识无涯",
+      "full_text": "终身学习老人大学，活到老学到老，知识无涯",
+      "image": "res://assets/images/illustrations/education/education_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "education_031_4",
         "education_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/education/education_031_pixel.jpg"
     },
     {
       "id": "education_032",
-      "title": "教育学习 - 图片33",
-      "summary": "教育学习相关图片",
-      "full_text": "智慧启迪不仅塑造了人类文明，更传递了梦想的价值，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/education/education_032.png",
+      "title": "远程教育",
+      "summary": "远程教育卫星传输，偏远地区共享资源，教育均衡",
+      "full_text": "远程教育卫星传输，偏远地区共享资源，教育均衡",
+      "image": "res://assets/images/illustrations/education/education_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "education_032_4",
         "education_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/education/education_032_pixel.jpg"
     },
     {
       "id": "education_033",
-      "title": "教育学习 - 图片34",
-      "summary": "教育学习相关图片",
-      "full_text": "成长之路是人类智慧的结晶，它激励着生活的智慧，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/education/education_033.png",
+      "title": "AI辅助教学",
+      "summary": "AI辅助教学智能批改，个性化推荐学习，科技赋能",
+      "full_text": "AI辅助教学智能批改，个性化推荐学习，科技赋能",
+      "image": "res://assets/images/illustrations/education/education_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "education_033_4",
         "education_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/education/education_033_pixel.jpg"
     },
     {
       "id": "education_034",
-      "title": "教育学习 - 图片35",
-      "summary": "教育学习相关图片",
-      "full_text": "在教育之光的领域里，历史变迁展现得淋漓尽致，每一个历史印记都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/education/education_034.png",
+      "title": "VR虚拟课堂",
+      "summary": "VR虚拟课堂沉浸体验，穿越历史遨游太空，身临其境",
+      "full_text": "VR虚拟课堂沉浸体验，穿越历史遨游太空，身临其境",
+      "image": "res://assets/images/illustrations/education/education_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "education_034_4",
         "education_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/education/education_034_pixel.jpg"
     },
     {
       "id": "education_035",
-      "title": "教育学习 - 图片36",
-      "summary": "教育学习相关图片",
-      "full_text": "知识殿堂不仅展现了生活哲理，更传递了情感的力量，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/education/education_035.png",
+      "title": "教育公平",
+      "summary": "教育公平城乡差距，支教老师奉献山区，知识改变命运",
+      "full_text": "教育公平城乡差距，支教老师奉献山区，知识改变命运",
+      "image": "res://assets/images/illustrations/education/education_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "education_035_4",
         "education_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/education/education_035_pixel.jpg"
     },
     {
       "id": "education_036",
-      "title": "教育学习 - 图片37",
-      "summary": "教育学习相关图片",
-      "full_text": "学习之旅不仅塑造了美好瞬间，更传递了生命的意义，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/education/education_036.png",
+      "title": "图书馆数字化",
+      "summary": "图书馆数字化电子书，在线检索海量资源，知识共享",
+      "full_text": "图书馆数字化电子书，在线检索海量资源，知识共享",
+      "image": "res://assets/images/illustrations/education/education_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "education_036_4",
         "education_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/education/education_036_pixel.jpg"
     },
     {
       "id": "education_037",
-      "title": "教育学习 - 图片38",
-      "summary": "教育学习相关图片",
-      "full_text": "智慧启迪不仅展现了文化内涵，更传递了文化的传承，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/education/education_037.png",
+      "title": "国际学校",
+      "summary": "国际学校多元文化，IB课程全球视野，教育国际化",
+      "full_text": "国际学校多元文化，IB课程全球视野，教育国际化",
+      "image": "res://assets/images/illustrations/education/education_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "education_037_4",
         "education_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/education/education_037_pixel.jpg"
     },
     {
       "id": "education_038",
-      "title": "教育学习 - 图片39",
-      "summary": "教育学习相关图片",
-      "full_text": "成长之路不仅表达了艺术真谛，更传递了真善美的追求，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/education/education_038.png",
+      "title": "研学旅行",
+      "summary": "研学旅行博物馆参观，行走的课堂体验式学习",
+      "full_text": "研学旅行博物馆参观，行走的课堂体验式学习",
+      "image": "res://assets/images/illustrations/education/education_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "education_038_4",
         "education_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/education/education_038_pixel.jpg"
     },
     {
       "id": "education_039",
-      "title": "教育学习 - 图片40",
-      "summary": "教育学习相关图片",
-      "full_text": "教育之光是历史积淀的结晶，它诠释着生活的智慧，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/education/education_039.png",
+      "title": "教育评价改革",
+      "summary": "教育评价改革多元考核，综合素质评价，破除唯分数",
+      "full_text": "教育评价改革多元考核，综合素质评价，破除唯分数",
+      "image": "res://assets/images/illustrations/education/education_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "education_039_4",
         "education_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/education/education_039_pixel.jpg"
     },
     {
       "id": "education_040",
-      "title": "教育学习 - 图片41",
-      "summary": "教育学习相关图片",
-      "full_text": "知识殿堂是人类文明的重要组成部分，它灵动地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/education/education_040.png",
+      "title": "校园安全",
+      "summary": "校园安全消防演练，防震避险教育，生命至上",
+      "full_text": "校园安全消防演练，防震避险教育，生命至上",
+      "image": "res://assets/images/illustrations/education/education_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "education_040_4",
         "education_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/education/education_040_pixel.jpg"
     },
     {
       "id": "education_041",
-      "title": "教育学习 - 图片42",
-      "summary": "教育学习相关图片",
-      "full_text": "探索学习之旅的世界，仿佛打开了一扇通往自然奇观的大门，充满了感动与情感共鸣。",
-      "image": "res://assets/images/illustrations/education/education_041.png",
+      "title": "心理健康教育",
+      "summary": "学校心理咨询室，沙盘游戏情绪疏导，心灵成长",
+      "full_text": "学校心理咨询室，沙盘游戏情绪疏导，心灵成长",
+      "image": "res://assets/images/illustrations/education/education_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "education_041_4",
         "education_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/education/education_041_pixel.jpg"
     },
     {
       "id": "education_042",
-      "title": "教育学习 - 图片43",
-      "summary": "教育学习相关图片",
-      "full_text": "智慧启迪是人类文明的重要组成部分，它精彩地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/education/education_042.png",
+      "title": "家校合作",
+      "summary": "家长会家校沟通，共同关注孩子成长，教育合力",
+      "full_text": "家长会家校沟通，共同关注孩子成长，教育合力",
+      "image": "res://assets/images/illustrations/education/education_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "education_042_4",
         "education_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/education/education_042_pixel.jpg"
     },
     {
       "id": "education_043",
-      "title": "教育学习 - 图片44",
-      "summary": "教育学习相关图片",
-      "full_text": "探索成长之路的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了震撼与知识启迪。",
-      "image": "res://assets/images/illustrations/education/education_043.png",
+      "title": "校园文化",
+      "summary": "校园文化节社团活动，青春活力多彩生活，全面发展",
+      "full_text": "校园文化节社团活动，青春活力多彩生活，全面发展",
+      "image": "res://assets/images/illustrations/education/education_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "education_043_4",
         "education_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/education/education_043_pixel.jpg"
     },
     {
       "id": "education_044",
-      "title": "教育学习 - 图片45",
-      "summary": "教育学习相关图片",
-      "full_text": "在教育之光的领域里，历史变迁展现得淋漓尽致，每一个线条都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/education/education_044.png",
+      "title": "学术研究",
+      "summary": "学术论文发表期刊，同行评审学术交流，知识前沿",
+      "full_text": "学术论文发表期刊，同行评审学术交流，知识前沿",
+      "image": "res://assets/images/illustrations/education/education_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "education_044_4",
         "education_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/education/education_044_pixel.jpg"
     },
     {
       "id": "education_045",
-      "title": "教育学习 - 图片46",
-      "summary": "教育学习相关图片",
-      "full_text": "在知识殿堂的领域里，社会发展展现得淋漓尽致，每一个线条都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/education/education_045.png",
+      "title": "毕业典礼",
+      "summary": "毕业典礼拨穗抛帽，青春告别新征程，人生里程碑",
+      "full_text": "毕业典礼拨穗抛帽，青春告别新征程，人生里程碑",
+      "image": "res://assets/images/illustrations/education/education_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "education_045_4",
         "education_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/education/education_045_pixel.jpg"
     },
     {
       "id": "education_046",
-      "title": "教育学习 - 图片47",
-      "summary": "教育学习相关图片",
-      "full_text": "在学习之旅的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/education/education_046.png",
+      "title": "教师培训",
+      "summary": "教师培训专业发展，教学方法更新，教育者再教育",
+      "full_text": "教师培训专业发展，教学方法更新，教育者再教育",
+      "image": "res://assets/images/illustrations/education/education_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "education_046_4",
         "education_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/education/education_046_pixel.jpg"
     },
     {
       "id": "education_047",
-      "title": "教育学习 - 图片48",
-      "summary": "教育学习相关图片",
-      "full_text": "智慧启迪不仅传递了文化内涵，更传递了文化的传承，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/education/education_047.png",
+      "title": "开放大学",
+      "summary": "开放大学免试入学，成人继续教育，学习无门槛",
+      "full_text": "开放大学免试入学，成人继续教育，学习无门槛",
+      "image": "res://assets/images/illustrations/education/education_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "education_047_4",
         "education_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/education/education_047_pixel.jpg"
     },
     {
       "id": "education_048",
-      "title": "教育学习 - 图片49",
-      "summary": "教育学习相关图片",
-      "full_text": "成长之路是人类文明的重要组成部分，它深刻地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/education/education_048.png",
+      "title": "教育科技",
+      "summary": "教育科技平板电脑，互动白板智慧课堂，数字化教学",
+      "full_text": "教育科技平板电脑，互动白板智慧课堂，数字化教学",
+      "image": "res://assets/images/illustrations/education/education_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "education_048_4",
         "education_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/education/education_048_pixel.jpg"
     },
     {
       "id": "education_049",
-      "title": "教育学习 - 图片50",
-      "summary": "教育学习相关图片",
-      "full_text": "在教育之光的领域里，自然奇观展现得淋漓尽致，每一个色彩都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/education/education_049.png",
+      "title": "早教启蒙",
+      "summary": "早教中心亲子课程，0至3岁大脑开发，科学育儿",
+      "full_text": "早教中心亲子课程，0至3岁大脑开发，科学育儿",
+      "image": "res://assets/images/illustrations/education/education_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "education_049_4",
         "education_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/education/education_049_pixel.jpg"
     },
     {
       "id": "education_050",
-      "title": "教育学习 - 图片51",
-      "summary": "教育学习相关图片",
-      "full_text": "知识殿堂不仅弘扬了艺术真谛，更传递了生命的意义，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/education/education_050.png",
+      "title": "课后托管",
+      "summary": "课后托管延时服务，作业辅导兴趣班，解决家长难题",
+      "full_text": "课后托管延时服务，作业辅导兴趣班，解决家长难题",
+      "image": "res://assets/images/illustrations/education/education_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "education_050_4",
         "education_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/education/education_050_pixel.jpg"
     },
     {
       "id": "education_051",
-      "title": "教育学习 - 图片52",
-      "summary": "教育学习相关图片",
-      "full_text": "学习之旅是审美追求的结晶，它展现着人类的梦想，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/education/education_051.png",
+      "title": "教育公益",
+      "summary": "教育公益免费午餐，乡村图书角捐赠，爱心助学",
+      "full_text": "教育公益免费午餐，乡村图书角捐赠，爱心助学",
+      "image": "res://assets/images/illustrations/education/education_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "education_051_4",
         "education_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/education/education_051_pixel.jpg"
     },
     {
       "id": "education_052",
-      "title": "教育学习 - 图片53",
-      "summary": "教育学习相关图片",
-      "full_text": "智慧启迪是生活体验的结晶，它激励着人文的关怀，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/education/education_052.png",
+      "title": "校园体育",
+      "summary": "校园运动会跑道冲刺，青春汗水拼搏，体育育人",
+      "full_text": "校园运动会跑道冲刺，青春汗水拼搏，体育育人",
+      "image": "res://assets/images/illustrations/education/education_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "education_052_4",
         "education_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/education/education_052_pixel.jpg"
     },
     {
       "id": "education_053",
-      "title": "教育学习 - 图片54",
-      "summary": "教育学习相关图片",
-      "full_text": "成长之路是审美追求的结晶，它承载着艺术的追求，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/education/education_053.png",
+      "title": "美育教育",
+      "summary": "美育教育音乐美术，审美情趣培养，艺术素养",
+      "full_text": "美育教育音乐美术，审美情趣培养，艺术素养",
+      "image": "res://assets/images/illustrations/education/education_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "education_053_4",
         "education_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/education/education_053_pixel.jpg"
     },
     {
       "id": "education_054",
-      "title": "教育学习 - 图片55",
-      "summary": "教育学习相关图片",
-      "full_text": "教育之光不仅传承了生命意义，更传递了梦想的价值，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/education/education_054.png",
+      "title": "劳动教育",
+      "summary": "劳动教育校园种植，动手实践体验，劳动最光荣",
+      "full_text": "劳动教育校园种植，动手实践体验，劳动最光荣",
+      "image": "res://assets/images/illustrations/education/education_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "education_054_4",
         "education_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/education/education_054_pixel.jpg"
     },
     {
       "id": "education_055",
-      "title": "教育学习 - 图片56",
-      "summary": "教育学习相关图片",
-      "full_text": "在知识殿堂的领域里，人类智慧展现得淋漓尽致，每一个细节都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/education/education_055.png",
+      "title": "考试改革",
+      "summary": "考试改革综合素质评价，减少应试压力，素质教育推进",
+      "full_text": "考试改革综合素质评价，减少应试压力，素质教育推进",
+      "image": "res://assets/images/illustrations/education/education_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "education_055_4",
         "education_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/education/education_055_pixel.jpg"
     },
     {
       "id": "education_056",
-      "title": "教育学习 - 图片57",
-      "summary": "教育学习相关图片",
-      "full_text": "在学习之旅的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/education/education_056.png",
+      "title": "教育信息化",
+      "summary": "教育信息化智慧校园，大数据分析学情，精准教学",
+      "full_text": "教育信息化智慧校园，大数据分析学情，精准教学",
+      "image": "res://assets/images/illustrations/education/education_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "education_056_4",
         "education_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/education/education_056_pixel.jpg"
     },
     {
       "id": "education_057",
-      "title": "教育学习 - 图片58",
-      "summary": "教育学习相关图片",
-      "full_text": "探索智慧启迪的世界，仿佛打开了一扇通往创意空间的大门，充满了愉悦与视觉享受。",
-      "image": "res://assets/images/illustrations/education/education_057.png",
+      "title": "全球教育合作",
+      "summary": "全球教育合作交换生，跨文化理解交流，国际视野",
+      "full_text": "全球教育合作交换生，跨文化理解交流，国际视野",
+      "image": "res://assets/images/illustrations/education/education_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "education_057_4",
         "education_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/education/education_057_pixel.jpg"
     },
     {
       "id": "education_058",
-      "title": "教育学习 - 图片59",
-      "summary": "教育学习相关图片",
-      "full_text": "在成长之路的领域里，社会发展展现得淋漓尽致，每一个瞬间都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/education/education_058.png",
+      "title": "创客教育",
+      "summary": "创客教育动手实践，3D打印编程创作，创新培养",
+      "full_text": "创客教育动手实践，3D打印编程创作，创新培养",
+      "image": "res://assets/images/illustrations/education/education_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "education_058_4",
         "education_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/education/education_058_pixel.jpg"
     },
     {
       "id": "education_059",
-      "title": "教育学习 - 图片60",
-      "summary": "教育学习相关图片",
-      "full_text": "教育之光是人类文明的重要组成部分，它优美地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/education/education_059.png",
+      "title": "特殊教育",
+      "summary": "特殊教育关爱残障儿童，个性化教学辅助，教育公平",
+      "full_text": "特殊教育关爱残障儿童，个性化教学辅助，教育公平",
+      "image": "res://assets/images/illustrations/education/education_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,7 +1258,8 @@
         "education_059_4",
         "education_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/education/education_059_pixel.jpg"
     }
   ]
 }

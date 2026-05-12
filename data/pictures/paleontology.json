@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "paleontology_000",
-      "title": "古生物化石 - 图片1",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它典雅地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_000.png",
+      "title": "霸王龙",
+      "summary": "霸王龙是白垩纪最凶猛的食肉恐龙咬合力惊人",
+      "full_text": "霸王龙是白垩纪最凶猛的食肉恐龙咬合力惊人",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "paleontology_000_4",
         "paleontology_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_000_pixel.jpg"
     },
     {
       "id": "paleontology_001",
-      "title": "古生物化石 - 图片2",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它细腻地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_001.png",
+      "title": "三角龙",
+      "summary": "三角龙头部三根角和骨质颈盾是防御利器",
+      "full_text": "三角龙头部三根角和骨质颈盾是防御利器",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "paleontology_001_4",
         "paleontology_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_001_pixel.jpg"
     },
     {
       "id": "paleontology_002",
-      "title": "古生物化石 - 图片3",
-      "summary": "古生物化石相关图片",
-      "full_text": "在自然的领域里，社会发展展现得淋漓尽致，每一个自然元素都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_002.png",
+      "title": "翼龙",
+      "summary": "翼龙是中生代天空霸主翼展可达十米以上",
+      "full_text": "翼龙是中生代天空霸主翼展可达十米以上",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "paleontology_002_4",
         "paleontology_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_002_pixel.jpg"
     },
     {
       "id": "paleontology_003",
-      "title": "古生物化石 - 图片4",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学不仅表达了生命意义，更传递了创新的精神，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_003.png",
+      "title": "梁龙",
+      "summary": "梁龙体长可达二十五米脖子尾巴极长如吊桥",
+      "full_text": "梁龙体长可达二十五米脖子尾巴极长如吊桥",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "paleontology_003_4",
         "paleontology_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_003_pixel.jpg"
     },
     {
       "id": "paleontology_004",
-      "title": "古生物化石 - 图片5",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术不仅记录了生命意义，更传递了文化的传承，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_004.png",
+      "title": "剑龙",
+      "summary": "剑龙背部的骨板和尾部尖刺是标志性特征",
+      "full_text": "剑龙背部的骨板和尾部尖刺是标志性特征",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "paleontology_004_4",
         "paleontology_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_004_pixel.jpg"
     },
     {
       "id": "paleontology_005",
-      "title": "古生物化石 - 图片6",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它灵动地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_005.png",
+      "title": "甲龙",
+      "summary": "甲龙全身覆盖厚重骨甲尾部有锤状骨锤",
+      "full_text": "甲龙全身覆盖厚重骨甲尾部有锤状骨锤",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "paleontology_005_4",
         "paleontology_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_005_pixel.jpg"
     },
     {
       "id": "paleontology_006",
-      "title": "古生物化石 - 图片7",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然不仅传承了生活哲理，更传递了智慧的光芒，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_006.png",
+      "title": "迅猛龙",
+      "summary": "迅猛龙后肢镰刀形利爪是致命的捕猎武器",
+      "full_text": "迅猛龙后肢镰刀形利爪是致命的捕猎武器",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "paleontology_006_4",
         "paleontology_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_006_pixel.jpg"
     },
     {
       "id": "paleontology_007",
-      "title": "古生物化石 - 图片8",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学不仅塑造了自然之美，更传递了创新的精神，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_007.png",
+      "title": "腕龙",
+      "summary": "腕龙前肢长于后肢如长颈鹿般高耸觅食树冠",
+      "full_text": "腕龙前肢长于后肢如长颈鹿般高耸觅食树冠",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "paleontology_007_4",
         "paleontology_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_007_pixel.jpg"
     },
     {
       "id": "paleontology_008",
-      "title": "古生物化石 - 图片9",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它庄重地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_008.png",
+      "title": "鸭嘴龙",
+      "summary": "鸭嘴龙扁平鸭嘴状嘴巴适合咀嚼坚硬植物",
+      "full_text": "鸭嘴龙扁平鸭嘴状嘴巴适合咀嚼坚硬植物",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "paleontology_008_4",
         "paleontology_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_008_pixel.jpg"
     },
     {
       "id": "paleontology_009",
-      "title": "古生物化石 - 图片10",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化不仅诠释了艺术真谛，更传递了情感的力量，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_009.png",
+      "title": "棘龙",
+      "summary": "棘龙背部帆状脊可能是用于调节体温的构造",
+      "full_text": "棘龙背部帆状脊可能是用于调节体温的构造",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "paleontology_009_4",
         "paleontology_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_009_pixel.jpg"
     },
     {
       "id": "paleontology_010",
-      "title": "古生物化石 - 图片11",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然不仅表达了情感世界，更传递了奋斗的意义，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_010.png",
+      "title": "异特龙",
+      "summary": "异特龙是侏罗纪顶级掠食者群体协作捕猎",
+      "full_text": "异特龙是侏罗纪顶级掠食者群体协作捕猎",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "paleontology_010_4",
         "paleontology_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_010_pixel.jpg"
     },
     {
       "id": "paleontology_011",
-      "title": "古生物化石 - 图片12",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学是人类智慧的结晶，它记录着艺术的追求，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_011.png",
+      "title": "角龙",
+      "summary": "原角龙体型如羊颈盾初现是角龙类早期代表",
+      "full_text": "原角龙体型如羊颈盾初现是角龙类早期代表",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "paleontology_011_4",
         "paleontology_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_011_pixel.jpg"
     },
     {
       "id": "paleontology_012",
-      "title": "古生物化石 - 图片13",
-      "summary": "古生物化石相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个线条都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_012.png",
+      "title": "肿头龙",
+      "summary": "肿头龙头顶厚达二十五厘米用于同类顶撞争斗",
+      "full_text": "肿头龙头顶厚达二十五厘米用于同类顶撞争斗",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "paleontology_012_4",
         "paleontology_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_012_pixel.jpg"
     },
     {
       "id": "paleontology_013",
-      "title": "古生物化石 - 图片14",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它壮观地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_013.png",
+      "title": "始祖鸟",
+      "summary": "始祖鸟具有羽毛和牙齿是恐龙向鸟类过渡的证据",
+      "full_text": "始祖鸟具有羽毛和牙齿是恐龙向鸟类过渡的证据",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "paleontology_013_4",
         "paleontology_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_013_pixel.jpg"
     },
     {
       "id": "paleontology_014",
-      "title": "古生物化石 - 图片15",
-      "summary": "古生物化石相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往知识海洋的大门，充满了憧憬与审美体验。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_014.png",
+      "title": "鱼龙",
+      "summary": "鱼龙是中生代海洋爬行动物外形如鱼善于游泳",
+      "full_text": "鱼龙是中生代海洋爬行动物外形如鱼善于游泳",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "paleontology_014_4",
         "paleontology_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_014_pixel.jpg"
     },
     {
       "id": "paleontology_015",
-      "title": "古生物化石 - 图片16",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学不仅揭示了历史记忆，更传递了梦想的价值，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_015.png",
+      "title": "蛇颈龙",
+      "summary": "蛇颈龙脖子极长如蛇小头大身是海洋霸主",
+      "full_text": "蛇颈龙脖子极长如蛇小头大身是海洋霸主",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "paleontology_015_4",
         "paleontology_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_015_pixel.jpg"
     },
     {
       "id": "paleontology_016",
-      "title": "古生物化石 - 图片17",
-      "summary": "古生物化石相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个瞬间都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_016.png",
+      "title": "沧龙",
+      "summary": "沧龙是白垩纪晚期海洋顶级掠食者凶猛无比",
+      "full_text": "沧龙是白垩纪晚期海洋顶级掠食者凶猛无比",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "paleontology_016_4",
         "paleontology_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_016_pixel.jpg"
     },
     {
       "id": "paleontology_017",
-      "title": "古生物化石 - 图片18",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它灵动地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_017.png",
+      "title": "翼手龙",
+      "summary": "翼手龙体型较小无齿长喙适合捕食鱼类昆虫",
+      "full_text": "翼手龙体型较小无齿长喙适合捕食鱼类昆虫",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "paleontology_017_4",
         "paleontology_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_017_pixel.jpg"
     },
     {
       "id": "paleontology_018",
-      "title": "古生物化石 - 图片19",
-      "summary": "古生物化石相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往精神家园的大门，充满了惊叹与精神升华。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_018.png",
+      "title": "副栉龙",
+      "summary": "副栉龙头顶弯曲冠饰可能用于发声交流",
+      "full_text": "副栉龙头顶弯曲冠饰可能用于发声交流",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "paleontology_018_4",
         "paleontology_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_018_pixel.jpg"
     },
     {
       "id": "paleontology_019",
-      "title": "古生物化石 - 图片20",
-      "summary": "古生物化石相关图片",
-      "full_text": "在科学的领域里，社会发展展现得淋漓尽致，每一个色彩都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_019.png",
+      "title": "镰刀龙",
+      "summary": "镰刀龙前肢三根巨爪如镰刀长达一米惊人",
+      "full_text": "镰刀龙前肢三根巨爪如镰刀长达一米惊人",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "paleontology_019_4",
         "paleontology_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_019_pixel.jpg"
     },
     {
       "id": "paleontology_020",
-      "title": "古生物化石 - 图片21",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术不仅创造了自然之美，更传递了智慧的光芒，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_020.png",
+      "title": "禽龙",
+      "summary": "禽龙是最早被命名的恐龙拇指尖如钉状防御",
+      "full_text": "禽龙是最早被命名的恐龙拇指尖如钉状防御",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "paleontology_020_4",
         "paleontology_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_020_pixel.jpg"
     },
     {
       "id": "paleontology_021",
-      "title": "古生物化石 - 图片22",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它神秘地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_021.png",
+      "title": "原角龙",
+      "summary": "原角龙化石常与蛋巢一同发现揭示育幼行为",
+      "full_text": "原角龙化石常与蛋巢一同发现揭示育幼行为",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "paleontology_021_4",
         "paleontology_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_021_pixel.jpg"
     },
     {
       "id": "paleontology_022",
-      "title": "古生物化石 - 图片23",
-      "summary": "古生物化石相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_022.png",
+      "title": "厚头龙",
+      "summary": "厚头龙头骨顶部增厚用于同类间头顶碰撞",
+      "full_text": "厚头龙头骨顶部增厚用于同类间头顶碰撞",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "paleontology_022_4",
         "paleontology_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_022_pixel.jpg"
     },
     {
       "id": "paleontology_023",
-      "title": "古生物化石 - 图片24",
-      "summary": "古生物化石相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个文化符号都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_023.png",
+      "title": "似鸟龙",
+      "summary": "似鸟龙外形如鸵鸟奔跑速度极快无齿善逃",
+      "full_text": "似鸟龙外形如鸵鸟奔跑速度极快无齿善逃",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "paleontology_023_4",
         "paleontology_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_023_pixel.jpg"
     },
     {
       "id": "paleontology_024",
-      "title": "古生物化石 - 图片25",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它神秘地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_024.png",
+      "title": "窃蛋龙",
+      "summary": "窃蛋龙被发现时伏在蛋巢上实际是在护蛋育幼",
+      "full_text": "窃蛋龙被发现时伏在蛋巢上实际是在护蛋育幼",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "paleontology_024_4",
         "paleontology_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_024_pixel.jpg"
     },
     {
       "id": "paleontology_025",
-      "title": "古生物化石 - 图片26",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化不仅探索了文化内涵，更传递了真善美的追求，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_025.png",
+      "title": "三叶虫",
+      "summary": "三叶虫是古生代海洋霸主化石遍布全球各地",
+      "full_text": "三叶虫是古生代海洋霸主化石遍布全球各地",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "paleontology_025_4",
         "paleontology_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_025_pixel.jpg"
     },
     {
       "id": "paleontology_026",
-      "title": "古生物化石 - 图片27",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它清新地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_026.png",
+      "title": "奇虾",
+      "summary": "奇虾是寒武纪海洋顶级掠食者前肢如钳凶猛",
+      "full_text": "奇虾是寒武纪海洋顶级掠食者前肢如钳凶猛",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "paleontology_026_4",
         "paleontology_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_026_pixel.jpg"
     },
     {
       "id": "paleontology_027",
-      "title": "古生物化石 - 图片28",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学是艺术创造的结晶，它承载着生活的智慧，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_027.png",
+      "title": "邓氏鱼",
+      "summary": "邓氏鱼是泥盆纪海洋巨兽头甲厚重如战车",
+      "full_text": "邓氏鱼是泥盆纪海洋巨兽头甲厚重如战车",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "paleontology_027_4",
         "paleontology_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_027_pixel.jpg"
     },
     {
       "id": "paleontology_028",
-      "title": "古生物化石 - 图片29",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术是审美追求的结晶，它表达着人文的关怀，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_028.png",
+      "title": "菊石",
+      "summary": "菊石螺旋形外壳如羊角是古生代标志化石",
+      "full_text": "菊石螺旋形外壳如羊角是古生代标志化石",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "paleontology_028_4",
         "paleontology_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_028_pixel.jpg"
     },
     {
       "id": "paleontology_029",
-      "title": "古生物化石 - 图片30",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化是思想升华的结晶，它展现着永恒的真理，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_029.png",
+      "title": "笔石",
+      "summary": "笔石化石如铅笔痕迹是奥陶纪重要标准化石",
+      "full_text": "笔石化石如铅笔痕迹是奥陶纪重要标准化石",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "paleontology_029_4",
         "paleontology_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_029_pixel.jpg"
     },
     {
       "id": "paleontology_030",
-      "title": "古生物化石 - 图片31",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然不仅表达了情感世界，更传递了奋斗的意义，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_030.png",
+      "title": "海百合",
+      "summary": "海百合如花朵般美丽实为古老的棘皮动物",
+      "full_text": "海百合如花朵般美丽实为古老的棘皮动物",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "paleontology_030_4",
         "paleontology_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_030_pixel.jpg"
     },
     {
       "id": "paleontology_031",
-      "title": "古生物化石 - 图片32",
-      "summary": "古生物化石相关图片",
-      "full_text": "在科学的领域里，社会发展展现得淋漓尽致，每一个瞬间都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_031.png",
+      "title": "腕足动物",
+      "summary": "腕足动物双壳如贝壳但与软体动物无亲缘关系",
+      "full_text": "腕足动物双壳如贝壳但与软体动物无亲缘关系",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "paleontology_031_4",
         "paleontology_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_031_pixel.jpg"
     },
     {
       "id": "paleontology_032",
-      "title": "古生物化石 - 图片33",
-      "summary": "古生物化石相关图片",
-      "full_text": "在艺术的领域里，社会发展展现得淋漓尽致，每一个色彩都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_032.png",
+      "title": "鹦鹉螺",
+      "summary": "鹦鹉螺是活化石五亿年外形几乎未变如潜水艇",
+      "full_text": "鹦鹉螺是活化石五亿年外形几乎未变如潜水艇",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "paleontology_032_4",
         "paleontology_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_032_pixel.jpg"
     },
     {
       "id": "paleontology_033",
-      "title": "古生物化石 - 图片34",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化是自然造化的结晶，它诠释着美好的愿景，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_033.png",
+      "title": "古珊瑚",
+      "summary": "古珊瑚化石揭示远古温暖浅海环境的存在",
+      "full_text": "古珊瑚化石揭示远古温暖浅海环境的存在",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "paleontology_033_4",
         "paleontology_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_033_pixel.jpg"
     },
     {
       "id": "paleontology_034",
-      "title": "古生物化石 - 图片35",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它深刻地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_034.png",
+      "title": "盾皮鱼",
+      "summary": "盾皮鱼头部和胸部覆盖厚重骨板是早期有颌鱼",
+      "full_text": "盾皮鱼头部和胸部覆盖厚重骨板是早期有颌鱼",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "paleontology_034_4",
         "paleontology_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_034_pixel.jpg"
     },
     {
       "id": "paleontology_035",
-      "title": "古生物化石 - 图片36",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它绚丽地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_035.png",
+      "title": "总鳍鱼",
+      "summary": "总鳍鱼是鱼类向两栖类进化的关键过渡物种",
+      "full_text": "总鳍鱼是鱼类向两栖类进化的关键过渡物种",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "paleontology_035_4",
         "paleontology_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_035_pixel.jpg"
     },
     {
       "id": "paleontology_036",
-      "title": "古生物化石 - 图片37",
-      "summary": "古生物化石相关图片",
-      "full_text": "在艺术的领域里，自然奇观展现得淋漓尽致，每一个思想都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_036.png",
+      "title": "棘鱼",
+      "summary": "棘鱼体小背鳍前有硬棘是古生代常见鱼类",
+      "full_text": "棘鱼体小背鳍前有硬棘是古生代常见鱼类",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "paleontology_036_4",
         "paleontology_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_036_pixel.jpg"
     },
     {
       "id": "paleontology_037",
-      "title": "古生物化石 - 图片38",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它细腻地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_037.png",
+      "title": "蜻蜓化石",
+      "summary": "古生代巨脉蜻蜓翼展达七十厘米是史上最大昆虫",
+      "full_text": "古生代巨脉蜻蜓翼展达七十厘米是史上最大昆虫",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "paleontology_037_4",
         "paleontology_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_037_pixel.jpg"
     },
     {
       "id": "paleontology_038",
-      "title": "古生物化石 - 图片39",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它质朴地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_038.png",
+      "title": "巨脉蜻蜓",
+      "summary": "巨脉蜻蜓在石炭纪高氧大气中翱翔捕食猎物",
+      "full_text": "巨脉蜻蜓在石炭纪高氧大气中翱翔捕食猎物",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "paleontology_038_4",
         "paleontology_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_038_pixel.jpg"
     },
     {
       "id": "paleontology_039",
-      "title": "古生物化石 - 图片40",
-      "summary": "古生物化石相关图片",
-      "full_text": "在科学的领域里，自然奇观展现得淋漓尽致，每一个思想都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_039.png",
+      "title": "节蕨",
+      "summary": "节蕨是石炭纪森林的重要组成茎节分明如竹",
+      "full_text": "节蕨是石炭纪森林的重要组成茎节分明如竹",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "paleontology_039_4",
         "paleontology_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_039_pixel.jpg"
     },
     {
       "id": "paleontology_040",
-      "title": "古生物化石 - 图片41",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术不仅描绘了时代精神，更传递了美的真谛，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_040.png",
+      "title": "鳞木",
+      "summary": "鳞木高达三十米是石炭纪森林的参天巨树",
+      "full_text": "鳞木高达三十米是石炭纪森林的参天巨树",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "paleontology_040_4",
         "paleontology_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_040_pixel.jpg"
     },
     {
       "id": "paleontology_041",
-      "title": "古生物化石 - 图片42",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它自然地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_041.png",
+      "title": "封印木",
+      "summary": "封印木树干表面叶痕如印章是石炭纪标志性植物",
+      "full_text": "封印木树干表面叶痕如印章是石炭纪标志性植物",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "paleontology_041_4",
         "paleontology_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_041_pixel.jpg"
     },
     {
       "id": "paleontology_042",
-      "title": "古生物化石 - 图片43",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它深刻地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_042.png",
+      "title": "科达树",
+      "summary": "科达树是石炭纪重要造煤植物叶片细长密集",
+      "full_text": "科达树是石炭纪重要造煤植物叶片细长密集",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "paleontology_042_4",
         "paleontology_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_042_pixel.jpg"
     },
     {
       "id": "paleontology_043",
-      "title": "古生物化石 - 图片44",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学是时代精神的结晶，它创造着艺术的追求，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_043.png",
+      "title": "古羊齿",
+      "summary": "古羊齿是最早的种子蕨类是种子植物的祖先",
+      "full_text": "古羊齿是最早的种子蕨类是种子植物的祖先",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "paleontology_043_4",
         "paleontology_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_043_pixel.jpg"
     },
     {
       "id": "paleontology_044",
-      "title": "古生物化石 - 图片45",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它精致地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_044.png",
+      "title": "种子蕨",
+      "summary": "种子蕨兼具蕨类和种子植物特征是进化过渡",
+      "full_text": "种子蕨兼具蕨类和种子植物特征是进化过渡",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "paleontology_044_4",
         "paleontology_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_044_pixel.jpg"
     },
     {
       "id": "paleontology_045",
-      "title": "古生物化石 - 图片46",
-      "summary": "古生物化石相关图片",
-      "full_text": "在文化的领域里，科技进步展现得淋漓尽致，每一个色彩都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_045.png",
+      "title": "猛犸象",
+      "summary": "猛犸象身披长毛弯曲象牙在西伯利亚冻土中保存",
+      "full_text": "猛犸象身披长毛弯曲象牙在西伯利亚冻土中保存",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "paleontology_045_4",
         "paleontology_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_045_pixel.jpg"
     },
     {
       "id": "paleontology_046",
-      "title": "古生物化石 - 图片47",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_046.png",
+      "title": "剑齿虎",
+      "summary": "剑齿虎上犬齿如匕首长达二十八厘米致命",
+      "full_text": "剑齿虎上犬齿如匕首长达二十八厘米致命",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "paleontology_046_4",
         "paleontology_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_046_pixel.jpg"
     },
     {
       "id": "paleontology_047",
-      "title": "古生物化石 - 图片48",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学是时代精神的结晶，它启迪着人文的关怀，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_047.png",
+      "title": "巨型树懒",
+      "summary": "大地懒高达六米能以后肢站立啃食树冠枝叶",
+      "full_text": "大地懒高达六米能以后肢站立啃食树冠枝叶",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "paleontology_047_4",
         "paleontology_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_047_pixel.jpg"
     },
     {
       "id": "paleontology_048",
-      "title": "古生物化石 - 图片49",
-      "summary": "古生物化石相关图片",
-      "full_text": "在艺术的领域里，生态保护展现得淋漓尽致，每一个自然元素都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_048.png",
+      "title": "恐鸟",
+      "summary": "恐鸟是新西兰巨型无翼鸟高达三米已灭绝",
+      "full_text": "恐鸟是新西兰巨型无翼鸟高达三米已灭绝",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "paleontology_048_4",
         "paleontology_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_048_pixel.jpg"
     },
     {
       "id": "paleontology_049",
-      "title": "古生物化石 - 图片50",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化不仅传承了文化内涵，更传递了人与自然的和谐，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_049.png",
+      "title": "渡渡鸟",
+      "summary": "渡渡鸟是毛里求斯特有鸟类因人类活动而灭绝",
+      "full_text": "渡渡鸟是毛里求斯特有鸟类因人类活动而灭绝",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "paleontology_049_4",
         "paleontology_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_049_pixel.jpg"
     },
     {
       "id": "paleontology_050",
-      "title": "古生物化石 - 图片51",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然是历史积淀的结晶，它引领着艺术的追求，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_050.png",
+      "title": "爱尔兰鹿",
+      "summary": "爱尔兰鹿角展宽达四米是史上最大鹿角惊人",
+      "full_text": "爱尔兰鹿角展宽达四米是史上最大鹿角惊人",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "paleontology_050_4",
         "paleontology_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_050_pixel.jpg"
     },
     {
       "id": "paleontology_051",
-      "title": "古生物化石 - 图片52",
-      "summary": "古生物化石相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个细节都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_051.png",
+      "title": "披毛犀",
+      "summary": "披毛犀全身覆盖厚毛双角扁平适合铲雪觅食",
+      "full_text": "披毛犀全身覆盖厚毛双角扁平适合铲雪觅食",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "paleontology_051_4",
         "paleontology_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_051_pixel.jpg"
     },
     {
       "id": "paleontology_052",
-      "title": "古生物化石 - 图片53",
-      "summary": "古生物化石相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往美丽新世界的大门，充满了憧憬与美好感受。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_052.png",
+      "title": "大地懒",
+      "summary": "大地懒是南美巨型哺乳动物体型如象般庞大",
+      "full_text": "大地懒是南美巨型哺乳动物体型如象般庞大",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "paleontology_052_4",
         "paleontology_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_052_pixel.jpg"
     },
     {
       "id": "paleontology_053",
-      "title": "古生物化石 - 图片54",
-      "summary": "古生物化石相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往灵感源泉的大门，充满了愉悦与思想启迪。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_053.png",
+      "title": "古马",
+      "summary": "始新世始祖马仅如狐狸大小前肢四趾后肢三趾",
+      "full_text": "始新世始祖马仅如狐狸大小前肢四趾后肢三趾",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "paleontology_053_4",
         "paleontology_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_053_pixel.jpg"
     },
     {
       "id": "paleontology_054",
-      "title": "古生物化石 - 图片55",
-      "summary": "古生物化石相关图片",
-      "full_text": "自然是时代精神的结晶，它启迪着科学的精神，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_054.png",
+      "title": "三趾马",
+      "summary": "三趾马是马类进化中间阶段每足三趾行走",
+      "full_text": "三趾马是马类进化中间阶段每足三趾行走",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "paleontology_054_4",
         "paleontology_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_054_pixel.jpg"
     },
     {
       "id": "paleontology_055",
-      "title": "古生物化石 - 图片56",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精彩地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_055.png",
+      "title": "始祖马",
+      "summary": "始祖马体型如猫生活在森林中以嫩叶为食",
+      "full_text": "始祖马体型如猫生活在森林中以嫩叶为食",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "paleontology_055_4",
         "paleontology_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_055_pixel.jpg"
     },
     {
       "id": "paleontology_056",
-      "title": "古生物化石 - 图片57",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术是生活体验的结晶，它启迪着创新的理念，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_056.png",
+      "title": "安氏兽",
+      "summary": "安氏兽是始新世亚洲巨型食肉哺乳动物凶猛",
+      "full_text": "安氏兽是始新世亚洲巨型食肉哺乳动物凶猛",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "paleontology_056_4",
         "paleontology_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_056_pixel.jpg"
     },
     {
       "id": "paleontology_057",
-      "title": "古生物化石 - 图片58",
-      "summary": "古生物化石相关图片",
-      "full_text": "在文化的领域里，人文景观展现得淋漓尽致，每一个自然元素都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_057.png",
+      "title": "恐角兽",
+      "summary": "恐角兽头部六根角和长牙外形如怪兽般奇特",
+      "full_text": "恐角兽头部六根角和长牙外形如怪兽般奇特",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "paleontology_057_4",
         "paleontology_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_057_pixel.jpg"
     },
     {
       "id": "paleontology_058",
-      "title": "古生物化石 - 图片59",
-      "summary": "古生物化石相关图片",
-      "full_text": "在自然的领域里，人类智慧展现得淋漓尽致，每一个细节都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_058.png",
+      "title": "尤因它兽",
+      "summary": "尤因它兽是始新世大型食草兽如犀牛般壮硕",
+      "full_text": "尤因它兽是始新世大型食草兽如犀牛般壮硕",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "paleontology_058_4",
         "paleontology_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_058_pixel.jpg"
     },
     {
       "id": "paleontology_059",
-      "title": "古生物化石 - 图片60",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学是思想升华的结晶，它诠释着美好的愿景，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_059.png",
+      "title": "埃及猿",
+      "summary": "埃及猿是早期灵长类脑容量小吻部突出如狐",
+      "full_text": "埃及猿是早期灵长类脑容量小吻部突出如狐",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "paleontology_059_4",
         "paleontology_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_059_pixel.jpg"
     },
     {
       "id": "paleontology_060",
-      "title": "古生物化石 - 图片61",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它典雅地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_060.png",
+      "title": "森林古猿",
+      "summary": "森林古猿生活在热带森林中可能是猿类祖先",
+      "full_text": "森林古猿生活在热带森林中可能是猿类祖先",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "paleontology_060_4",
         "paleontology_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_060_pixel.jpg"
     },
     {
       "id": "paleontology_061",
-      "title": "古生物化石 - 图片62",
-      "summary": "古生物化石相关图片",
-      "full_text": "文化不仅记录了人类文明，更传递了文化的传承，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_061.png",
+      "title": "南方古猿",
+      "summary": "南方古猿直立行走脑容量约四百毫升如猿",
+      "full_text": "南方古猿直立行走脑容量约四百毫升如猿",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "paleontology_061_4",
         "paleontology_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_061_pixel.jpg"
     },
     {
       "id": "paleontology_062",
-      "title": "古生物化石 - 图片63",
-      "summary": "古生物化石相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了震撼与文化浸润。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_062.png",
+      "title": "直立人",
+      "summary": "直立人会使用火和石器脑容量增大如现代人",
+      "full_text": "直立人会使用火和石器脑容量增大如现代人",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "paleontology_062_4",
         "paleontology_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_062_pixel.jpg"
     },
     {
       "id": "paleontology_063",
-      "title": "古生物化石 - 图片64",
-      "summary": "古生物化石相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它灵动地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_063.png",
+      "title": "尼安德特人",
+      "summary": "尼安德特人粗壮结实适应冰期严寒已灭绝",
+      "full_text": "尼安德特人粗壮结实适应冰期严寒已灭绝",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "paleontology_063_4",
         "paleontology_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_063_pixel.jpg"
     },
     {
       "id": "paleontology_064",
-      "title": "古生物化石 - 图片65",
-      "summary": "古生物化石相关图片",
-      "full_text": "艺术是时代精神的结晶，它表达着美好的愿景，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/paleontology/paleontology_064.png",
+      "title": "智人",
+      "summary": "智人创造洞穴壁画和复杂工具走出非洲遍布全球",
+      "full_text": "智人创造洞穴壁画和复杂工具走出非洲遍布全球",
+      "image": "res://assets/images/illustrations/paleontology/paleontology_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,7 +1363,8 @@
         "paleontology_064_4",
         "paleontology_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_064_pixel.jpg"
     }
   ]
 }

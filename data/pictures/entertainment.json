@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "entertainment_000",
-      "title": "休闲娱乐 - 图片1",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是艺术创造的结晶，它启迪着艺术的追求，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_000.png",
+      "title": "围棋对弈",
+      "summary": "围棋棋手执黑先行，落子天元星位，纹枰对坐思如泉涌",
+      "full_text": "围棋棋手执黑先行，落子天元星位，纹枰对坐思如泉涌",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "entertainment_000_4",
         "entertainment_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_000_pixel.jpg"
     },
     {
       "id": "entertainment_001",
-      "title": "休闲娱乐 - 图片2",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在文化的领域里，人类智慧展现得淋漓尽致，每一个细节都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_001.png",
+      "title": "象棋博弈",
+      "summary": "象棋楚河汉界对峙，车马炮攻防转换，方寸之间战场",
+      "full_text": "象棋楚河汉界对峙，车马炮攻防转换，方寸之间战场",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "entertainment_001_4",
         "entertainment_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_001_pixel.jpg"
     },
     {
       "id": "entertainment_002",
-      "title": "休闲娱乐 - 图片3",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "自然不仅传承了历史记忆，更传递了生命的意义，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_002.png",
+      "title": "放风筝",
+      "summary": "春天放风筝线轴转动，燕子蜈蚣风筝高飞，仰望蓝天",
+      "full_text": "春天放风筝线轴转动，燕子蜈蚣风筝高飞，仰望蓝天",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "entertainment_002_4",
         "entertainment_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_002_pixel.jpg"
     },
     {
       "id": "entertainment_003",
-      "title": "休闲娱乐 - 图片4",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学不仅塑造了美好瞬间，更传递了智慧的光芒，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_003.png",
+      "title": "皮影戏",
+      "summary": "皮影戏白色幕布上，皮人剪影配唱腔，光影艺术",
+      "full_text": "皮影戏白色幕布上，皮人剪影配唱腔，光影艺术",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "entertainment_003_4",
         "entertainment_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_003_pixel.jpg"
     },
     {
       "id": "entertainment_004",
-      "title": "休闲娱乐 - 图片5",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它灵动地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_004.png",
+      "title": "京剧脸谱",
+      "summary": "京剧花脸脸谱色彩鲜明，红脸忠白脸奸，戏曲艺术",
+      "full_text": "京剧花脸脸谱色彩鲜明，红脸忠白脸奸，戏曲艺术",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "entertainment_004_4",
         "entertainment_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_004_pixel.jpg"
     },
     {
       "id": "entertainment_005",
-      "title": "休闲娱乐 - 图片6",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "文化是思想升华的结晶，它承载着社会的进步，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_005.png",
+      "title": "评书说书",
+      "summary": "评书先生醒木一拍，折扇一摇说古论今，口传艺术",
+      "full_text": "评书先生醒木一拍，折扇一摇说古论今，口传艺术",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "entertainment_005_4",
         "entertainment_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_005_pixel.jpg"
     },
     {
       "id": "entertainment_006",
-      "title": "休闲娱乐 - 图片7",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个细节都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_006.png",
+      "title": "杂技顶碗",
+      "summary": "杂技演员头顶碗碟，身体柔韧平衡惊人，惊险绝技",
+      "full_text": "杂技演员头顶碗碟，身体柔韧平衡惊人，惊险绝技",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "entertainment_006_4",
         "entertainment_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_006_pixel.jpg"
     },
     {
       "id": "entertainment_007",
-      "title": "休闲娱乐 - 图片8",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学不仅展现了自然之美，更传递了人与自然的和谐，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_007.png",
+      "title": "踩高跷",
+      "summary": "踩高跷艺人木腿行走，比人还高穿街表演，民间绝活",
+      "full_text": "踩高跷艺人木腿行走，比人还高穿街表演，民间绝活",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "entertainment_007_4",
         "entertainment_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_007_pixel.jpg"
     },
     {
       "id": "entertainment_008",
-      "title": "休闲娱乐 - 图片9",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往历史长河的大门，充满了沉醉与心灵震撼。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_008.png",
+      "title": "抖空竹",
+      "summary": "抖空竹嗡嗡作响，绳上旋转抛接自如，传统杂耍",
+      "full_text": "抖空竹嗡嗡作响，绳上旋转抛接自如，传统杂耍",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "entertainment_008_4",
         "entertainment_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_008_pixel.jpg"
     },
     {
       "id": "entertainment_009",
-      "title": "休闲娱乐 - 图片10",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了宁静与思想启迪。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_009.png",
+      "title": "踢毽子",
+      "summary": "踢毽子花式翻转，脚尖脚跟连续踢，灵巧运动",
+      "full_text": "踢毽子花式翻转，脚尖脚跟连续踢，灵巧运动",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "entertainment_009_4",
         "entertainment_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_009_pixel.jpg"
     },
     {
       "id": "entertainment_010",
-      "title": "休闲娱乐 - 图片11",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美好家园的大门，充满了喜悦与心灵震撼。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_010.png",
+      "title": "斗蟋蟀",
+      "summary": "斗蟋蟀盆中蟋蟀对咬，草须撩拨激战正酣，秋日消遣",
+      "full_text": "斗蟋蟀盆中蟋蟀对咬，草须撩拨激战正酣，秋日消遣",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "entertainment_010_4",
         "entertainment_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_010_pixel.jpg"
     },
     {
       "id": "entertainment_011",
-      "title": "休闲娱乐 - 图片12",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它灵动地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_011.png",
+      "title": "猜灯谜",
+      "summary": "元宵猜灯谜悬挂彩灯，文人雅士斗智，传统文化趣味",
+      "full_text": "元宵猜灯谜悬挂彩灯，文人雅士斗智，传统文化趣味",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "entertainment_011_4",
         "entertainment_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_011_pixel.jpg"
     },
     {
       "id": "entertainment_012",
-      "title": "休闲娱乐 - 图片13",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是历史积淀的结晶，它诠释着社会的进步，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_012.png",
+      "title": "听相声",
+      "summary": "相声演员逗哏捧哏，包袱抖落笑声不断，语言艺术",
+      "full_text": "相声演员逗哏捧哏，包袱抖落笑声不断，语言艺术",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "entertainment_012_4",
         "entertainment_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_012_pixel.jpg"
     },
     {
       "id": "entertainment_013",
-      "title": "休闲娱乐 - 图片14",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往智慧天地的大门，充满了宁静与美好感受。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_013.png",
+      "title": "看大戏",
+      "summary": "乡村看大戏台下人头攒动，台上才子佳人，民间娱乐",
+      "full_text": "乡村看大戏台下人头攒动，台上才子佳人，民间娱乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "entertainment_013_4",
         "entertainment_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_013_pixel.jpg"
     },
     {
       "id": "entertainment_014",
-      "title": "休闲娱乐 - 图片15",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个线条都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_014.png",
+      "title": "扭秧歌",
+      "summary": "秧歌队红绸飞舞，锣鼓点中扭摆，喜庆热闹",
+      "full_text": "秧歌队红绸飞舞，锣鼓点中扭摆，喜庆热闹",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "entertainment_014_4",
         "entertainment_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_014_pixel.jpg"
     },
     {
       "id": "entertainment_015",
-      "title": "休闲娱乐 - 图片16",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往历史长河的大门，充满了沉思与情感共鸣。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_015.png",
+      "title": "电影院观影",
+      "summary": "电影院暗厅大银幕，爆米花可乐，沉浸式观影体验",
+      "full_text": "电影院暗厅大银幕，爆米花可乐，沉浸式观影体验",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "entertainment_015_4",
         "entertainment_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_015_pixel.jpg"
     },
     {
       "id": "entertainment_016",
-      "title": "休闲娱乐 - 图片17",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它神秘地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_016.png",
+      "title": "游乐园过山车",
+      "summary": "游乐园过山车俯冲翻转，尖叫声此起彼伏，刺激欢乐",
+      "full_text": "游乐园过山车俯冲翻转，尖叫声此起彼伏，刺激欢乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "entertainment_016_4",
         "entertainment_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_016_pixel.jpg"
     },
     {
       "id": "entertainment_017",
-      "title": "休闲娱乐 - 图片18",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "文化不仅展现了自然之美，更传递了生命的意义，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_017.png",
+      "title": "KTV唱歌",
+      "summary": "KTV包厢朋友唱歌，麦克风传唱经典，释放压力",
+      "full_text": "KTV包厢朋友唱歌，麦克风传唱经典，释放压力",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "entertainment_017_4",
         "entertainment_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_017_pixel.jpg"
     },
     {
       "id": "entertainment_018",
-      "title": "休闲娱乐 - 图片19",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它自然地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_018.png",
+      "title": "主题公园",
+      "summary": "迪士尼主题公园，米老鼠花车巡游，梦幻童话世界",
+      "full_text": "迪士尼主题公园，米老鼠花车巡游，梦幻童话世界",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "entertainment_018_4",
         "entertainment_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_018_pixel.jpg"
     },
     {
       "id": "entertainment_019",
-      "title": "休闲娱乐 - 图片20",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学是人类智慧的结晶，它表达着创新的理念，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_019.png",
+      "title": "密室逃脱",
+      "summary": "密室逃脱团队解谜，寻找线索破解机关，智力挑战",
+      "full_text": "密室逃脱团队解谜，寻找线索破解机关，智力挑战",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "entertainment_019_4",
         "entertainment_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_019_pixel.jpg"
     },
     {
       "id": "entertainment_020",
-      "title": "休闲娱乐 - 图片21",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在艺术的领域里，自然奇观展现得淋漓尽致，每一个瞬间都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_020.png",
+      "title": "桌游聚会",
+      "summary": "桌游聚会朋友围坐，卡坦岛狼人杀，社交娱乐",
+      "full_text": "桌游聚会朋友围坐，卡坦岛狼人杀，社交娱乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "entertainment_020_4",
         "entertainment_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_020_pixel.jpg"
     },
     {
       "id": "entertainment_021",
-      "title": "休闲娱乐 - 图片22",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了向往与情感共鸣。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_021.png",
+      "title": "音乐节",
+      "summary": "户外音乐节万人狂欢，乐队演出音浪滚滚，青春释放",
+      "full_text": "户外音乐节万人狂欢，乐队演出音浪滚滚，青春释放",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "entertainment_021_4",
         "entertainment_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_021_pixel.jpg"
     },
     {
       "id": "entertainment_022",
-      "title": "休闲娱乐 - 图片23",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "自然不仅揭示了时代精神，更传递了文化的传承，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_022.png",
+      "title": "演唱会",
+      "summary": "演唱会荧光棒海洋，歌手倾情演唱，万人合唱",
+      "full_text": "演唱会荧光棒海洋，歌手倾情演唱，万人合唱",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "entertainment_022_4",
         "entertainment_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_022_pixel.jpg"
     },
     {
       "id": "entertainment_023",
-      "title": "休闲娱乐 - 图片24",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学是时代精神的结晶，它激励着创新的理念，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_023.png",
+      "title": "话剧演出",
+      "summary": "话剧舞台演员表演，灯光布景沉浸叙事，现场艺术",
+      "full_text": "话剧舞台演员表演，灯光布景沉浸叙事，现场艺术",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "entertainment_023_4",
         "entertainment_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_023_pixel.jpg"
     },
     {
       "id": "entertainment_024",
-      "title": "休闲娱乐 - 图片25",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在艺术的领域里，社会发展展现得淋漓尽致，每一个瞬间都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_024.png",
+      "title": "美术馆参观",
+      "summary": "美术馆观赏画作，驻足沉思艺术之美，精神享受",
+      "full_text": "美术馆观赏画作，驻足沉思艺术之美，精神享受",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "entertainment_024_4",
         "entertainment_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_024_pixel.jpg"
     },
     {
       "id": "entertainment_025",
-      "title": "休闲娱乐 - 图片26",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "文化是审美追求的结晶，它激励着生活的智慧，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_025.png",
+      "title": "博物馆游览",
+      "summary": "博物馆文物展览，穿越时空对话历史，知识之旅",
+      "full_text": "博物馆文物展览，穿越时空对话历史，知识之旅",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "entertainment_025_4",
         "entertainment_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_025_pixel.jpg"
     },
     {
       "id": "entertainment_026",
-      "title": "休闲娱乐 - 图片27",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "自然是时代精神的结晶，它激励着美好的愿景，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_026.png",
+      "title": "水族馆",
+      "summary": "水族馆海底隧道，鲨鱼海龟游过头顶，蓝色世界",
+      "full_text": "水族馆海底隧道，鲨鱼海龟游过头顶，蓝色世界",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "entertainment_026_4",
         "entertainment_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_026_pixel.jpg"
     },
     {
       "id": "entertainment_027",
-      "title": "休闲娱乐 - 图片28",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学是审美追求的结晶，它表达着生活的智慧，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_027.png",
+      "title": "动物园",
+      "summary": "动物园大熊猫吃竹子，孩子们兴奋围观，亲近自然",
+      "full_text": "动物园大熊猫吃竹子，孩子们兴奋围观，亲近自然",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "entertainment_027_4",
         "entertainment_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_027_pixel.jpg"
     },
     {
       "id": "entertainment_028",
-      "title": "休闲娱乐 - 图片29",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术不仅展现了艺术真谛，更传递了人与自然的和谐，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_028.png",
+      "title": "温泉度假",
+      "summary": "温泉度假泡汤放松，热气氤氲身心舒畅，养生休闲",
+      "full_text": "温泉度假泡汤放松，热气氤氲身心舒畅，养生休闲",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "entertainment_028_4",
         "entertainment_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_028_pixel.jpg"
     },
     {
       "id": "entertainment_029",
-      "title": "休闲娱乐 - 图片30",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美好家园的大门，充满了向往与视觉享受。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_029.png",
+      "title": "钓鱼休闲",
+      "summary": "湖边钓鱼静候浮漂，竿弯鱼跃收获喜悦，悠然自得",
+      "full_text": "湖边钓鱼静候浮漂，竿弯鱼跃收获喜悦，悠然自得",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "entertainment_029_4",
         "entertainment_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_029_pixel.jpg"
     },
     {
       "id": "entertainment_030",
-      "title": "休闲娱乐 - 图片31",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往梦想世界的大门，充满了沉思与视觉享受。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_030.png",
+      "title": "露营野炊",
+      "summary": "郊外露营搭帐篷，篝火野炊星空下，亲近自然",
+      "full_text": "郊外露营搭帐篷，篝火野炊星空下，亲近自然",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "entertainment_030_4",
         "entertainment_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_030_pixel.jpg"
     },
     {
       "id": "entertainment_031",
-      "title": "休闲娱乐 - 图片32",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它质朴地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_031.png",
+      "title": "摄影采风",
+      "summary": "摄影爱好者长焦镜头，捕捉光影瞬间，视觉创作",
+      "full_text": "摄影爱好者长焦镜头，捕捉光影瞬间，视觉创作",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "entertainment_031_4",
         "entertainment_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_031_pixel.jpg"
     },
     {
       "id": "entertainment_032",
-      "title": "休闲娱乐 - 图片33",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往智慧天地的大门，充满了怀念与心灵震撼。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_032.png",
+      "title": "园艺休闲",
+      "summary": "阳台种花浇水修剪，花开满盆心情愉悦，绿色休闲",
+      "full_text": "阳台种花浇水修剪，花开满盆心情愉悦，绿色休闲",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "entertainment_032_4",
         "entertainment_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_032_pixel.jpg"
     },
     {
       "id": "entertainment_033",
-      "title": "休闲娱乐 - 图片34",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "文化不仅展现了人类文明，更传递了智慧的光芒，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_033.png",
+      "title": "读书品茗",
+      "summary": "午后读书品茗，阳光洒落书页，宁静时光",
+      "full_text": "午后读书品茗，阳光洒落书页，宁静时光",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "entertainment_033_4",
         "entertainment_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_033_pixel.jpg"
     },
     {
       "id": "entertainment_034",
-      "title": "休闲娱乐 - 图片35",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美好家园的大门，充满了喜悦与心灵震撼。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_034.png",
+      "title": "电子竞技",
+      "summary": "电竞比赛选手操作，观众呐喊助威，数字体育崛起",
+      "full_text": "电竞比赛选手操作，观众呐喊助威，数字体育崛起",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "entertainment_034_4",
         "entertainment_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_034_pixel.jpg"
     },
     {
       "id": "entertainment_035",
-      "title": "休闲娱乐 - 图片36",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学是文化传承的结晶，它承载着人文的关怀，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_035.png",
+      "title": "直播互动",
+      "summary": "网络主播直播互动，弹幕礼物实时反馈，新娱乐方式",
+      "full_text": "网络主播直播互动，弹幕礼物实时反馈，新娱乐方式",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "entertainment_035_4",
         "entertainment_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_035_pixel.jpg"
     },
     {
       "id": "entertainment_036",
-      "title": "休闲娱乐 - 图片37",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它细腻地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_036.png",
+      "title": "VR游戏体验",
+      "summary": "VR头戴设备沉浸游戏，虚拟世界身临其境，科技娱乐",
+      "full_text": "VR头戴设备沉浸游戏，虚拟世界身临其境，科技娱乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "entertainment_036_4",
         "entertainment_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_036_pixel.jpg"
     },
     {
       "id": "entertainment_037",
-      "title": "休闲娱乐 - 图片38",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往神秘国度的大门，充满了怀念与情感共鸣。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_037.png",
+      "title": "手机游戏",
+      "summary": "手机游戏随时随地，碎片时间娱乐，移动游戏时代",
+      "full_text": "手机游戏随时随地，碎片时间娱乐，移动游戏时代",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "entertainment_037_4",
         "entertainment_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_037_pixel.jpg"
     },
     {
       "id": "entertainment_038",
-      "title": "休闲娱乐 - 图片39",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它奇妙地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_038.png",
+      "title": "短视频刷屏",
+      "summary": "短视频刷屏15秒，算法推荐精准，碎片化娱乐",
+      "full_text": "短视频刷屏15秒，算法推荐精准，碎片化娱乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "entertainment_038_4",
         "entertainment_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_038_pixel.jpg"
     },
     {
       "id": "entertainment_039",
-      "title": "休闲娱乐 - 图片40",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往精神家园的大门，充满了敬畏与美好感受。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_039.png",
+      "title": "播客收听",
+      "summary": "播客音频节目，通勤路上收听，知识型娱乐",
+      "full_text": "播客音频节目，通勤路上收听，知识型娱乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "entertainment_039_4",
         "entertainment_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_039_pixel.jpg"
     },
     {
       "id": "entertainment_040",
-      "title": "休闲娱乐 - 图片41",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它优美地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_040.png",
+      "title": "剧本杀",
+      "summary": "剧本杀角色扮演推理，搜证讨论还原真相，沉浸式社交",
+      "full_text": "剧本杀角色扮演推理，搜证讨论还原真相，沉浸式社交",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "entertainment_040_4",
         "entertainment_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_040_pixel.jpg"
     },
     {
       "id": "entertainment_041",
-      "title": "休闲娱乐 - 图片42",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在文化的领域里，社会发展展现得淋漓尽致，每一个线条都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_041.png",
+      "title": "盲盒收藏",
+      "summary": "盲盒拆开惊喜，隐藏款稀有收藏，潮玩文化",
+      "full_text": "盲盒拆开惊喜，隐藏款稀有收藏，潮玩文化",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "entertainment_041_4",
         "entertainment_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_041_pixel.jpg"
     },
     {
       "id": "entertainment_042",
-      "title": "休闲娱乐 - 图片43",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "自然是时代精神的结晶，它表达着美好的愿景，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_042.png",
+      "title": "手办模型",
+      "summary": "手办模型精细涂装，动漫角色立体化，收藏乐趣",
+      "full_text": "手办模型精细涂装，动漫角色立体化，收藏乐趣",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "entertainment_042_4",
         "entertainment_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_042_pixel.jpg"
     },
     {
       "id": "entertainment_043",
-      "title": "休闲娱乐 - 图片44",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学是审美追求的结晶，它展现着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_043.png",
+      "title": "弹幕文化",
+      "summary": "弹幕视频实时评论，吐槽互动集体狂欢，参与式娱乐",
+      "full_text": "弹幕视频实时评论，吐槽互动集体狂欢，参与式娱乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "entertainment_043_4",
         "entertainment_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_043_pixel.jpg"
     },
     {
       "id": "entertainment_044",
-      "title": "休闲娱乐 - 图片45",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它丰富地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_044.png",
+      "title": "虚拟偶像",
+      "summary": "虚拟偶像全息演出，数字角色粉丝应援，二次元文化",
+      "full_text": "虚拟偶像全息演出，数字角色粉丝应援，二次元文化",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "entertainment_044_4",
         "entertainment_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_044_pixel.jpg"
     },
     {
       "id": "entertainment_045",
-      "title": "休闲娱乐 - 图片46",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "文化是情感表达的结晶，它展现着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_045.png",
+      "title": "元宇宙社交",
+      "summary": "元宇宙虚拟形象社交，数字空间互动，未来娱乐",
+      "full_text": "元宇宙虚拟形象社交，数字空间互动，未来娱乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "entertainment_045_4",
         "entertainment_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_045_pixel.jpg"
     },
     {
       "id": "entertainment_046",
-      "title": "休闲娱乐 - 图片47",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它和谐地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_046.png",
+      "title": "AI绘画创作",
+      "summary": "AI绘画输入提示词生成，人机协作创作，艺术新形态",
+      "full_text": "AI绘画输入提示词生成，人机协作创作，艺术新形态",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "entertainment_046_4",
         "entertainment_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_046_pixel.jpg"
     },
     {
       "id": "entertainment_047",
-      "title": "休闲娱乐 - 图片48",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它丰富地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_047.png",
+      "title": "数字藏品NFT",
+      "summary": "数字藏品NFT收藏，区块链确权唯一，数字资产",
+      "full_text": "数字藏品NFT收藏，区块链确权唯一，数字资产",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "entertainment_047_4",
         "entertainment_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_047_pixel.jpg"
     },
     {
       "id": "entertainment_048",
-      "title": "休闲娱乐 - 图片49",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个思想都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_048.png",
+      "title": "云游戏",
+      "summary": "云游戏无需下载即玩，服务器渲染流媒体，便捷体验",
+      "full_text": "云游戏无需下载即玩，服务器渲染流媒体，便捷体验",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "entertainment_048_4",
         "entertainment_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_048_pixel.jpg"
     },
     {
       "id": "entertainment_049",
-      "title": "休闲娱乐 - 图片50",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "文化是审美追求的结晶，它承载着科学的精神，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_049.png",
+      "title": "沉浸式剧场",
+      "summary": "沉浸式剧场观众参与，跟随演员移动，打破第四面墙",
+      "full_text": "沉浸式剧场观众参与，跟随演员移动，打破第四面墙",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "entertainment_049_4",
         "entertainment_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_049_pixel.jpg"
     },
     {
       "id": "entertainment_050",
-      "title": "休闲娱乐 - 图片51",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它深刻地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_050.png",
+      "title": "密室剧本",
+      "summary": "密室剧本融合解谜表演，团队协作推进剧情，沉浸体验",
+      "full_text": "密室剧本融合解谜表演，团队协作推进剧情，沉浸体验",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "entertainment_050_4",
         "entertainment_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_050_pixel.jpg"
     },
     {
       "id": "entertainment_051",
-      "title": "休闲娱乐 - 图片52",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学是审美追求的结晶，它激励着人文的关怀，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_051.png",
+      "title": "户外音乐节",
+      "summary": "户外草地音乐节，帐篷露营乐队演出，自由狂欢",
+      "full_text": "户外草地音乐节，帐篷露营乐队演出，自由狂欢",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "entertainment_051_4",
         "entertainment_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_051_pixel.jpg"
     },
     {
       "id": "entertainment_052",
-      "title": "休闲娱乐 - 图片53",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它精彩地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_052.png",
+      "title": "旅行打卡",
+      "summary": "网红景点旅行打卡，拍照分享社交媒体，旅行新方式",
+      "full_text": "网红景点旅行打卡，拍照分享社交媒体，旅行新方式",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "entertainment_052_4",
         "entertainment_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_052_pixel.jpg"
     },
     {
       "id": "entertainment_053",
-      "title": "休闲娱乐 - 图片54",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它庄重地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_053.png",
+      "title": "美食探店",
+      "summary": "美食博主探店品鉴，拍照点评推荐，味蕾探索",
+      "full_text": "美食博主探店品鉴，拍照点评推荐，味蕾探索",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "entertainment_053_4",
         "entertainment_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_053_pixel.jpg"
     },
     {
       "id": "entertainment_054",
-      "title": "休闲娱乐 - 图片55",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个细节都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_054.png",
+      "title": "手工DIY",
+      "summary": "手工DIY陶艺皮具，亲手制作独一无二，创造乐趣",
+      "full_text": "手工DIY陶艺皮具，亲手制作独一无二，创造乐趣",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "entertainment_054_4",
         "entertainment_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_054_pixel.jpg"
     },
     {
       "id": "entertainment_055",
-      "title": "休闲娱乐 - 图片56",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学不仅展现了情感世界，更传递了奋斗的意义，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_055.png",
+      "title": "宠物互动",
+      "summary": "猫咖撸猫狗咖遛狗，与萌宠互动治愈，心灵抚慰",
+      "full_text": "猫咖撸猫狗咖遛狗，与萌宠互动治愈，心灵抚慰",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "entertainment_055_4",
         "entertainment_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_055_pixel.jpg"
     },
     {
       "id": "entertainment_056",
-      "title": "休闲娱乐 - 图片57",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它绚丽地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_056.png",
+      "title": "星空观测",
+      "summary": "天文望远镜观测星空，银河璀璨流星划过，宇宙之美",
+      "full_text": "天文望远镜观测星空，银河璀璨流星划过，宇宙之美",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "entertainment_056_4",
         "entertainment_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_056_pixel.jpg"
     },
     {
       "id": "entertainment_057",
-      "title": "休闲娱乐 - 图片58",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "文化不仅创造了艺术真谛，更传递了奋斗的意义，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_057.png",
+      "title": "城市漫步",
+      "summary": "城市漫步探索街巷，发现隐藏小店，慢生活美学",
+      "full_text": "城市漫步探索街巷，发现隐藏小店，慢生活美学",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "entertainment_057_4",
         "entertainment_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_057_pixel.jpg"
     },
     {
       "id": "entertainment_058",
-      "title": "休闲娱乐 - 图片59",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它优雅地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_058.png",
+      "title": "数字阅读",
+      "summary": "电子书阅读器墨水屏，海量书籍随身携带，阅读革命",
+      "full_text": "电子书阅读器墨水屏，海量书籍随身携带，阅读革命",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "entertainment_058_4",
         "entertainment_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_058_pixel.jpg"
     },
     {
       "id": "entertainment_059",
-      "title": "休闲娱乐 - 图片60",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "科学不仅探索了艺术真谛，更传递了美的真谛，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_059.png",
+      "title": "播客创作",
+      "summary": "播客创作者录音剪辑，分享观点故事，声音自媒体",
+      "full_text": "播客创作者录音剪辑，分享观点故事，声音自媒体",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "entertainment_059_4",
         "entertainment_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_059_pixel.jpg"
     },
     {
       "id": "entertainment_060",
-      "title": "休闲娱乐 - 图片61",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术不仅诠释了历史记忆，更传递了美的真谛，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_060.png",
+      "title": "社区活动",
+      "summary": "社区文化活动邻里参与，广场舞书法班，和谐社区",
+      "full_text": "社区文化活动邻里参与，广场舞书法班，和谐社区",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "entertainment_060_4",
         "entertainment_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_060_pixel.jpg"
     },
     {
       "id": "entertainment_061",
-      "title": "休闲娱乐 - 图片62",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在文化的领域里，生态保护展现得淋漓尽致，每一个自然元素都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_061.png",
+      "title": "休闲方式演变",
+      "summary": "从皮影戏到VR游戏，娱乐方式千年演变，人类追求快乐",
+      "full_text": "从皮影戏到VR游戏，娱乐方式千年演变，人类追求快乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "entertainment_061_4",
         "entertainment_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_061_pixel.jpg"
     },
     {
       "id": "entertainment_062",
-      "title": "休闲娱乐 - 图片63",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美好家园的大门，充满了沉思与艺术熏陶。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_062.png",
+      "title": "娱乐与健康",
+      "summary": "适度娱乐身心放松，沉迷成瘾需警惕，健康休闲",
+      "full_text": "适度娱乐身心放松，沉迷成瘾需警惕，健康休闲",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "entertainment_062_4",
         "entertainment_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_062_pixel.jpg"
     },
     {
       "id": "entertainment_063",
-      "title": "休闲娱乐 - 图片64",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "在科学的领域里，历史变迁展现得淋漓尽致，每一个线条都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_063.png",
+      "title": "密室逃脱",
+      "summary": "密室逃脱解谜闯关，团队协作智力挑战，沉浸娱乐",
+      "full_text": "密室逃脱解谜闯关，团队协作智力挑战，沉浸娱乐",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "entertainment_063_4",
         "entertainment_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_063_pixel.jpg"
     },
     {
       "id": "entertainment_064",
-      "title": "休闲娱乐 - 图片65",
-      "summary": "休闲娱乐相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它深刻地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/entertainment/entertainment_064.png",
+      "title": "剧本杀",
+      "summary": "剧本杀角色扮演推理，沉浸式社交游戏，悬疑体验",
+      "full_text": "剧本杀角色扮演推理，沉浸式社交游戏，悬疑体验",
+      "image": "res://assets/images/illustrations/entertainment/entertainment_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,7 +1363,8 @@
         "entertainment_064_4",
         "entertainment_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/entertainment/entertainment_064_pixel.jpg"
     }
   ]
 }

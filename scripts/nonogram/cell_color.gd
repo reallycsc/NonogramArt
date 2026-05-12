@@ -2,13 +2,17 @@ extends Control
 class_name CellColor
 
 # 节点引用
-@onready var color_rect: ColorRect = $ColorRectFrame/ColorRectWhite/ColorRect
-@onready var color_rect_red: ColorRect = $ColorRectFrame/ColorRectRed
+@onready var color_rect: Panel = $ColorRectFrame/ColorRectWhite/ColorRect
+@onready var color_rect_red: Panel = $ColorRectFrame/ColorRectRed
 @onready var cell_cross_sprite: Sprite2D = $CellCrossSprite
 @onready var cell_cross_finished_sprite: Sprite2D = $CellCrossFinishedSprite
 @onready var cell_error_sprite: Sprite2D = $CellErrorSprite
 @onready var hover_rect: ColorRect = $HoverRect
 @onready var hover_frame_sprite: Sprite2D = $HoverFrameSprite
+
+const STYLE_BOX_EMPTY: StyleBoxFlat = preload("res://resources/styles/cell_style_box_flat.tres")
+const STYLE_BOX_FILL: StyleBoxFlat = preload("res://resources/styles/cell_fill_style_box_flat.tres")
+
 # 信号定义
 signal cell_hover_updated(x: int, y: int, is_hover: bool)
 # 内部变量
@@ -38,7 +42,7 @@ func update_appearance(state: int):
 	match state:
 		NonogramManager.CellState.FILLED:
 			cell_cross_sprite.hide()
-			color_rect.color =Color("#6b3e13")
+			color_rect.add_theme_stylebox_override("panel", STYLE_BOX_FILL)
 			color_rect.scale = Vector2.ZERO
 			if _current_tween:
 				_current_tween.kill()
@@ -53,7 +57,7 @@ func update_appearance(state: int):
 			_current_tween.tween_property(cell_cross_sprite, "scale", Vector2.ONE, 0.1).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
 		_:
 			cell_cross_sprite.hide()
-			color_rect.color = Color("#fbf6e1")
+			color_rect.add_theme_stylebox_override("panel", STYLE_BOX_EMPTY)
 			
 func finish(is_error: bool = false):
 	is_finished = true

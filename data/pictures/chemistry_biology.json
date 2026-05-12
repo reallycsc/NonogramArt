@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "chemistry_biology_000",
-      "title": "化学与生物 - 图片1",
-      "summary": "化学与生物相关图片",
-      "full_text": "在微观世界的领域里，科学发现展现得淋漓尽致，每一个瞬间都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_000.png",
+      "title": "元素周期表",
+      "summary": "门捷列夫元素周期表，118种元素排列有序，化学基石",
+      "full_text": "门捷列夫元素周期表，118种元素排列有序，化学基石",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "chemistry_biology_000_4",
         "chemistry_biology_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_000_pixel.jpg"
     },
     {
       "id": "chemistry_biology_001",
-      "title": "化学与生物 - 图片2",
-      "summary": "化学与生物相关图片",
-      "full_text": "生命奥秘是文化传承的结晶，它诠释着科学的精神，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_001.png",
+      "title": "氢元素",
+      "summary": "氢元素最轻的元素，宇宙中含量最丰富，恒星燃料",
+      "full_text": "氢元素最轻的元素，宇宙中含量最丰富，恒星燃料",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "chemistry_biology_001_4",
         "chemistry_biology_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_001_pixel.jpg"
     },
     {
       "id": "chemistry_biology_002",
-      "title": "化学与生物 - 图片3",
-      "summary": "化学与生物相关图片",
-      "full_text": "在科学探索的领域里，人类智慧展现得淋漓尽致，每一个光影都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_002.png",
+      "title": "碳元素",
+      "summary": "碳元素有机化学基础，金刚石石墨同素异形体，生命骨架",
+      "full_text": "碳元素有机化学基础，金刚石石墨同素异形体，生命骨架",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "chemistry_biology_002_4",
         "chemistry_biology_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_002_pixel.jpg"
     },
     {
       "id": "chemistry_biology_003",
-      "title": "化学与生物 - 图片4",
-      "summary": "化学与生物相关图片",
-      "full_text": "自然奇观不仅展现了时代精神，更传递了智慧的光芒，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_003.png",
+      "title": "氧元素",
+      "summary": "氧元素呼吸必需，氧化反应燃烧生锈，生命之气",
+      "full_text": "氧元素呼吸必需，氧化反应燃烧生锈，生命之气",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "chemistry_biology_003_4",
         "chemistry_biology_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_003_pixel.jpg"
     },
     {
       "id": "chemistry_biology_004",
-      "title": "化学与生物 - 图片5",
-      "summary": "化学与生物相关图片",
-      "full_text": "生物多样性不仅传承了时代精神，更传递了智慧的光芒，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_004.png",
+      "title": "铁元素",
+      "summary": "铁元素地壳最多金属，钢铁工业文明基础，血红蛋白核心",
+      "full_text": "铁元素地壳最多金属，钢铁工业文明基础，血红蛋白核心",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "chemistry_biology_004_4",
         "chemistry_biology_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_004_pixel.jpg"
     },
     {
       "id": "chemistry_biology_005",
-      "title": "化学与生物 - 图片6",
-      "summary": "化学与生物相关图片",
-      "full_text": "在微观世界的领域里，社会发展展现得淋漓尽致，每一个瞬间都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_005.png",
+      "title": "稀有气体",
+      "summary": "稀有气体氦氖氩，化学性质稳定不活泼，霓虹灯填充",
+      "full_text": "稀有气体氦氖氩，化学性质稳定不活泼，霓虹灯填充",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "chemistry_biology_005_4",
         "chemistry_biology_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_005_pixel.jpg"
     },
     {
       "id": "chemistry_biology_006",
-      "title": "化学与生物 - 图片7",
-      "summary": "化学与生物相关图片",
-      "full_text": "生命奥秘是人类智慧的结晶，它传递着深刻的思考，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_006.png",
+      "title": "化学键",
+      "summary": "化学键离子键共价键，原子间结合力，分子结构基础",
+      "full_text": "化学键离子键共价键，原子间结合力，分子结构基础",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "chemistry_biology_006_4",
         "chemistry_biology_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_006_pixel.jpg"
     },
     {
       "id": "chemistry_biology_007",
-      "title": "化学与生物 - 图片8",
-      "summary": "化学与生物相关图片",
-      "full_text": "科学探索不仅表达了美好瞬间，更传递了真善美的追求，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_007.png",
+      "title": "有机化学",
+      "summary": "有机化学碳氢化合物，甲烷乙醇苯环，生命分子",
+      "full_text": "有机化学碳氢化合物，甲烷乙醇苯环，生命分子",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "chemistry_biology_007_4",
         "chemistry_biology_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_007_pixel.jpg"
     },
     {
       "id": "chemistry_biology_008",
-      "title": "化学与生物 - 图片9",
-      "summary": "化学与生物相关图片",
-      "full_text": "自然奇观是审美追求的结晶，它承载着人类的梦想，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_008.png",
+      "title": "高分子化学",
+      "summary": "高分子化学塑料橡胶，聚合反应链式结构，材料科学",
+      "full_text": "高分子化学塑料橡胶，聚合反应链式结构，材料科学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "chemistry_biology_008_4",
         "chemistry_biology_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_008_pixel.jpg"
     },
     {
       "id": "chemistry_biology_009",
-      "title": "化学与生物 - 图片10",
-      "summary": "化学与生物相关图片",
-      "full_text": "生物多样性不仅塑造了人类文明，更传递了智慧的光芒，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_009.png",
+      "title": "化学实验",
+      "summary": "化学实验室烧杯试管，滴定反应颜色变化，实验科学",
+      "full_text": "化学实验室烧杯试管，滴定反应颜色变化，实验科学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "chemistry_biology_009_4",
         "chemistry_biology_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_009_pixel.jpg"
     },
     {
       "id": "chemistry_biology_010",
-      "title": "化学与生物 - 图片11",
-      "summary": "化学与生物相关图片",
-      "full_text": "微观世界是自然造化的结晶，它激励着艺术的追求，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_010.png",
+      "title": "酸碱中和",
+      "summary": "酸碱中和反应pH试纸，盐酸氢氧化钠生成盐，化学基础",
+      "full_text": "酸碱中和反应pH试纸，盐酸氢氧化钠生成盐，化学基础",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "chemistry_biology_010_4",
         "chemistry_biology_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_010_pixel.jpg"
     },
     {
       "id": "chemistry_biology_011",
-      "title": "化学与生物 - 图片12",
-      "summary": "化学与生物相关图片",
-      "full_text": "生命奥秘是人类文明的重要组成部分，它壮观地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_011.png",
+      "title": "氧化还原",
+      "summary": "氧化还原反应电子转移，铁生锈电池放电，化学核心",
+      "full_text": "氧化还原反应电子转移，铁生锈电池放电，化学核心",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "chemistry_biology_011_4",
         "chemistry_biology_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_011_pixel.jpg"
     },
     {
       "id": "chemistry_biology_012",
-      "title": "化学与生物 - 图片13",
-      "summary": "化学与生物相关图片",
-      "full_text": "在科学探索的领域里，文化传承展现得淋漓尽致，每一个光影都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_012.png",
+      "title": "催化反应",
+      "summary": "催化剂加速反应，酶催化工业催化，化学魔术",
+      "full_text": "催化剂加速反应，酶催化工业催化，化学魔术",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "chemistry_biology_012_4",
         "chemistry_biology_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_012_pixel.jpg"
     },
     {
       "id": "chemistry_biology_013",
-      "title": "化学与生物 - 图片14",
-      "summary": "化学与生物相关图片",
-      "full_text": "自然奇观不仅塑造了文化内涵，更传递了梦想的价值，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_013.png",
+      "title": "化学平衡",
+      "summary": "化学平衡勒夏特列原理，正逆反应动态平衡，可逆反应",
+      "full_text": "化学平衡勒夏特列原理，正逆反应动态平衡，可逆反应",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "chemistry_biology_013_4",
         "chemistry_biology_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_013_pixel.jpg"
     },
     {
       "id": "chemistry_biology_014",
-      "title": "化学与生物 - 图片15",
-      "summary": "化学与生物相关图片",
-      "full_text": "在生物多样性的领域里，人类智慧展现得淋漓尽致，每一个光影都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_014.png",
+      "title": "电化学电池",
+      "summary": "电化学原电池电解池，化学能电能转换，电池原理",
+      "full_text": "电化学原电池电解池，化学能电能转换，电池原理",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "chemistry_biology_014_4",
         "chemistry_biology_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_014_pixel.jpg"
     },
     {
       "id": "chemistry_biology_015",
-      "title": "化学与生物 - 图片16",
-      "summary": "化学与生物相关图片",
-      "full_text": "微观世界是生活体验的结晶，它传递着社会的进步，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_015.png",
+      "title": "化学分析",
+      "summary": "化学分析光谱色谱，定性定量检测成分，分析技术",
+      "full_text": "化学分析光谱色谱，定性定量检测成分，分析技术",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "chemistry_biology_015_4",
         "chemistry_biology_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_015_pixel.jpg"
     },
     {
       "id": "chemistry_biology_016",
-      "title": "化学与生物 - 图片17",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索生命奥秘的世界，仿佛打开了一扇通往灵感源泉的大门，充满了沉思与心灵震撼。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_016.png",
+      "title": "炸药化学",
+      "summary": "诺贝尔发明炸药，硝化甘油TNT，化学双刃剑",
+      "full_text": "诺贝尔发明炸药，硝化甘油TNT，化学双刃剑",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "chemistry_biology_016_4",
         "chemistry_biology_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_016_pixel.jpg"
     },
     {
       "id": "chemistry_biology_017",
-      "title": "化学与生物 - 图片18",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索科学探索的世界，仿佛打开了一扇通往历史长河的大门，充满了敬畏与精神升华。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_017.png",
+      "title": "化肥工业",
+      "summary": "哈伯法合成氨，化肥养活全球人口，化学贡献",
+      "full_text": "哈伯法合成氨，化肥养活全球人口，化学贡献",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "chemistry_biology_017_4",
         "chemistry_biology_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_017_pixel.jpg"
     },
     {
       "id": "chemistry_biology_018",
-      "title": "化学与生物 - 图片19",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索自然奇观的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了激情与心灵震撼。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_018.png",
+      "title": "药物化学",
+      "summary": "药物化学阿司匹林青霉素，分子设计合成，医药化学",
+      "full_text": "药物化学阿司匹林青霉素，分子设计合成，医药化学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "chemistry_biology_018_4",
         "chemistry_biology_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_018_pixel.jpg"
     },
     {
       "id": "chemistry_biology_019",
-      "title": "化学与生物 - 图片20",
-      "summary": "化学与生物相关图片",
-      "full_text": "生物多样性是人类文明的重要组成部分，它细腻地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_019.png",
+      "title": "化学污染",
+      "summary": "化学污染废水废气，绿色化学减少危害，环保意识",
+      "full_text": "化学污染废水废气，绿色化学减少危害，环保意识",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "chemistry_biology_019_4",
         "chemistry_biology_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_019_pixel.jpg"
     },
     {
       "id": "chemistry_biology_020",
-      "title": "化学与生物 - 图片21",
-      "summary": "化学与生物相关图片",
-      "full_text": "微观世界是情感表达的结晶，它启迪着创新的理念，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_020.png",
+      "title": "化学史",
+      "summary": "从炼金术到现代化学，拉瓦锡质量守恒，科学演进",
+      "full_text": "从炼金术到现代化学，拉瓦锡质量守恒，科学演进",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "chemistry_biology_020_4",
         "chemistry_biology_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_020_pixel.jpg"
     },
     {
       "id": "chemistry_biology_021",
-      "title": "化学与生物 - 图片22",
-      "summary": "化学与生物相关图片",
-      "full_text": "在生命奥秘的领域里，历史变迁展现得淋漓尽致，每一个文化符号都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_021.png",
+      "title": "化学安全",
+      "summary": "化学实验室安全防护，护目镜通风橱，安全操作",
+      "full_text": "化学实验室安全防护，护目镜通风橱，安全操作",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "chemistry_biology_021_4",
         "chemistry_biology_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_021_pixel.jpg"
     },
     {
       "id": "chemistry_biology_022",
-      "title": "化学与生物 - 图片23",
-      "summary": "化学与生物相关图片",
-      "full_text": "在科学探索的领域里，科学发现展现得淋漓尽致，每一个思想都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_022.png",
+      "title": "材料化学",
+      "summary": "材料化学新型合金，超导材料储氢材料，前沿研究",
+      "full_text": "材料化学新型合金，超导材料储氢材料，前沿研究",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "chemistry_biology_022_4",
         "chemistry_biology_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_022_pixel.jpg"
     },
     {
       "id": "chemistry_biology_023",
-      "title": "化学与生物 - 图片24",
-      "summary": "化学与生物相关图片",
-      "full_text": "在自然奇观的领域里，自然奇观展现得淋漓尽致，每一个线条都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_023.png",
+      "title": "表面化学",
+      "summary": "表面化学催化吸附，纳米表面效应，界面科学",
+      "full_text": "表面化学催化吸附，纳米表面效应，界面科学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "chemistry_biology_023_4",
         "chemistry_biology_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_023_pixel.jpg"
     },
     {
       "id": "chemistry_biology_024",
-      "title": "化学与生物 - 图片25",
-      "summary": "化学与生物相关图片",
-      "full_text": "生物多样性是历史积淀的结晶，它记录着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_024.png",
+      "title": "光化学反应",
+      "summary": "光化学反应光合作用，光催化分解水，太阳能化学",
+      "full_text": "光化学反应光合作用，光催化分解水，太阳能化学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "chemistry_biology_024_4",
         "chemistry_biology_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_024_pixel.jpg"
     },
     {
       "id": "chemistry_biology_025",
-      "title": "化学与生物 - 图片26",
-      "summary": "化学与生物相关图片",
-      "full_text": "在微观世界的领域里，自然奇观展现得淋漓尽致，每一个思想都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_025.png",
+      "title": "细胞结构",
+      "summary": "细胞是生命基本单位，细胞膜细胞核线粒体，微观世界",
+      "full_text": "细胞是生命基本单位，细胞膜细胞核线粒体，微观世界",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "chemistry_biology_025_4",
         "chemistry_biology_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_025_pixel.jpg"
     },
     {
       "id": "chemistry_biology_026",
-      "title": "化学与生物 - 图片27",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索生命奥秘的世界，仿佛打开了一扇通往灵感源泉的大门，充满了沉醉与视觉享受。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_026.png",
+      "title": "DNA双螺旋",
+      "summary": "沃森克里克DNA双螺旋，碱基配对遗传密码，生命之谜",
+      "full_text": "沃森克里克DNA双螺旋，碱基配对遗传密码，生命之谜",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "chemistry_biology_026_4",
         "chemistry_biology_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_026_pixel.jpg"
     },
     {
       "id": "chemistry_biology_027",
-      "title": "化学与生物 - 图片28",
-      "summary": "化学与生物相关图片",
-      "full_text": "在科学探索的领域里，人类智慧展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_027.png",
+      "title": "基因表达",
+      "summary": "基因表达转录翻译，DNA到RNA到蛋白质，中心法则",
+      "full_text": "基因表达转录翻译，DNA到RNA到蛋白质，中心法则",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "chemistry_biology_027_4",
         "chemistry_biology_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_027_pixel.jpg"
     },
     {
       "id": "chemistry_biology_028",
-      "title": "化学与生物 - 图片29",
-      "summary": "化学与生物相关图片",
-      "full_text": "在自然奇观的领域里，历史变迁展现得淋漓尽致，每一个瞬间都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_028.png",
+      "title": "进化论",
+      "summary": "达尔文进化论自然选择，物种起源适者生存，生命演化",
+      "full_text": "达尔文进化论自然选择，物种起源适者生存，生命演化",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "chemistry_biology_028_4",
         "chemistry_biology_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_028_pixel.jpg"
     },
     {
       "id": "chemistry_biology_029",
-      "title": "化学与生物 - 图片30",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索生物多样性的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了憧憬与知识启迪。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_029.png",
+      "title": "孟德尔遗传",
+      "summary": "孟德尔豌豆实验，显性隐性遗传定律，遗传学之父",
+      "full_text": "孟德尔豌豆实验，显性隐性遗传定律，遗传学之父",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "chemistry_biology_029_4",
         "chemistry_biology_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_029_pixel.jpg"
     },
     {
       "id": "chemistry_biology_030",
-      "title": "化学与生物 - 图片31",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索微观世界的世界，仿佛打开了一扇通往灵感源泉的大门，充满了憧憬与美好感受。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_030.png",
+      "title": "显微镜观察",
+      "summary": "显微镜下观察细胞，从光学到电子显微镜，微观探索",
+      "full_text": "显微镜下观察细胞，从光学到电子显微镜，微观探索",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "chemistry_biology_030_4",
         "chemistry_biology_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_030_pixel.jpg"
     },
     {
       "id": "chemistry_biology_031",
-      "title": "化学与生物 - 图片32",
-      "summary": "化学与生物相关图片",
-      "full_text": "生命奥秘是艺术创造的结晶，它表达着美好的愿景，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_031.png",
+      "title": "光合作用",
+      "summary": "植物光合作用，叶绿素吸收光能合成有机物，生命之源",
+      "full_text": "植物光合作用，叶绿素吸收光能合成有机物，生命之源",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "chemistry_biology_031_4",
         "chemistry_biology_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_031_pixel.jpg"
     },
     {
       "id": "chemistry_biology_032",
-      "title": "化学与生物 - 图片33",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索科学探索的世界，仿佛打开了一扇通往历史长河的大门，充满了感动与美好感受。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_032.png",
+      "title": "生态系统",
+      "summary": "生态系统食物链，生产者消费者分解者，能量流动",
+      "full_text": "生态系统食物链，生产者消费者分解者，能量流动",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "chemistry_biology_032_4",
         "chemistry_biology_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_032_pixel.jpg"
     },
     {
       "id": "chemistry_biology_033",
-      "title": "化学与生物 - 图片34",
-      "summary": "化学与生物相关图片",
-      "full_text": "自然奇观是人类文明的重要组成部分，它清新地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_033.png",
+      "title": "微生物世界",
+      "summary": "微生物细菌病毒真菌，肉眼看不见却无处不在，微小生命",
+      "full_text": "微生物细菌病毒真菌，肉眼看不见却无处不在，微小生命",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "chemistry_biology_033_4",
         "chemistry_biology_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_033_pixel.jpg"
     },
     {
       "id": "chemistry_biology_034",
-      "title": "化学与生物 - 图片35",
-      "summary": "化学与生物相关图片",
-      "full_text": "在生物多样性的领域里，科技进步展现得淋漓尽致，每一个情感都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_034.png",
+      "title": "人体免疫系统",
+      "summary": "免疫系统T细胞B细胞，抗体抗原特异性防御，生命卫士",
+      "full_text": "免疫系统T细胞B细胞，抗体抗原特异性防御，生命卫士",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "chemistry_biology_034_4",
         "chemistry_biology_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_034_pixel.jpg"
     },
     {
       "id": "chemistry_biology_035",
-      "title": "化学与生物 - 图片36",
-      "summary": "化学与生物相关图片",
-      "full_text": "在微观世界的领域里，科技进步展现得淋漓尽致，每一个线条都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_035.png",
+      "title": "神经传导",
+      "summary": "神经元电信号传导，突触释放神经递质，思维奥秘",
+      "full_text": "神经元电信号传导，突触释放神经递质，思维奥秘",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "chemistry_biology_035_4",
         "chemistry_biology_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_035_pixel.jpg"
     },
     {
       "id": "chemistry_biology_036",
-      "title": "化学与生物 - 图片37",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索生命奥秘的世界，仿佛打开了一扇通往文化宝库的大门，充满了沉醉与知识启迪。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_036.png",
+      "title": "血液循环",
+      "summary": "血液循环心脏泵血，动脉静脉毛细血管，生命运输线",
+      "full_text": "血液循环心脏泵血，动脉静脉毛细血管，生命运输线",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "chemistry_biology_036_4",
         "chemistry_biology_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_036_pixel.jpg"
     },
     {
       "id": "chemistry_biology_037",
-      "title": "化学与生物 - 图片38",
-      "summary": "化学与生物相关图片",
-      "full_text": "科学探索是人类文明的重要组成部分，它生动地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_037.png",
+      "title": "呼吸作用",
+      "summary": "细胞呼吸线粒体产能，葡萄糖氧化释放ATP，生命能量",
+      "full_text": "细胞呼吸线粒体产能，葡萄糖氧化释放ATP，生命能量",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "chemistry_biology_037_4",
         "chemistry_biology_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_037_pixel.jpg"
     },
     {
       "id": "chemistry_biology_038",
-      "title": "化学与生物 - 图片39",
-      "summary": "化学与生物相关图片",
-      "full_text": "自然奇观是文化传承的结晶，它表达着生活的智慧，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_038.png",
+      "title": "蛋白质折叠",
+      "summary": "蛋白质折叠三维结构，氨基酸序列决定功能，生命分子",
+      "full_text": "蛋白质折叠三维结构，氨基酸序列决定功能，生命分子",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "chemistry_biology_038_4",
         "chemistry_biology_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_038_pixel.jpg"
     },
     {
       "id": "chemistry_biology_039",
-      "title": "化学与生物 - 图片40",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索生物多样性的世界，仿佛打开了一扇通往智慧天地的大门，充满了感动与精神升华。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_039.png",
+      "title": "干细胞分化",
+      "summary": "干细胞多能分化，胚胎干细胞成体干细胞，再生医学",
+      "full_text": "干细胞多能分化，胚胎干细胞成体干细胞，再生医学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "chemistry_biology_039_4",
         "chemistry_biology_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_039_pixel.jpg"
     },
     {
       "id": "chemistry_biology_040",
-      "title": "化学与生物 - 图片41",
-      "summary": "化学与生物相关图片",
-      "full_text": "微观世界是人类文明的重要组成部分，它壮观地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_040.png",
+      "title": "克隆技术",
+      "summary": "多利羊体细胞克隆，核移植技术复制生命，生物技术",
+      "full_text": "多利羊体细胞克隆，核移植技术复制生命，生物技术",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "chemistry_biology_040_4",
         "chemistry_biology_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_040_pixel.jpg"
     },
     {
       "id": "chemistry_biology_041",
-      "title": "化学与生物 - 图片42",
-      "summary": "化学与生物相关图片",
-      "full_text": "生命奥秘是人类文明的重要组成部分，它深刻地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_041.png",
+      "title": "PCR扩增",
+      "summary": "PCR聚合酶链式反应，DNA片段指数扩增，分子生物学工具",
+      "full_text": "PCR聚合酶链式反应，DNA片段指数扩增，分子生物学工具",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "chemistry_biology_041_4",
         "chemistry_biology_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_041_pixel.jpg"
     },
     {
       "id": "chemistry_biology_042",
-      "title": "化学与生物 - 图片43",
-      "summary": "化学与生物相关图片",
-      "full_text": "科学探索是人类文明的重要组成部分，它壮观地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_042.png",
+      "title": "CRISPR基因编辑",
+      "summary": "CRISPR精准编辑基因，剪刀蛋白导向RNA，基因手术刀",
+      "full_text": "CRISPR精准编辑基因，剪刀蛋白导向RNA，基因手术刀",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "chemistry_biology_042_4",
         "chemistry_biology_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_042_pixel.jpg"
     },
     {
       "id": "chemistry_biology_043",
-      "title": "化学与生物 - 图片44",
-      "summary": "化学与生物相关图片",
-      "full_text": "自然奇观是自然造化的结晶，它启迪着人文的关怀，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_043.png",
+      "title": "基因组测序",
+      "summary": "人类基因组计划30亿碱基对，破译生命天书，基因组学",
+      "full_text": "人类基因组计划30亿碱基对，破译生命天书，基因组学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "chemistry_biology_043_4",
         "chemistry_biology_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_043_pixel.jpg"
     },
     {
       "id": "chemistry_biology_044",
-      "title": "化学与生物 - 图片45",
-      "summary": "化学与生物相关图片",
-      "full_text": "生物多样性是人类智慧的结晶，它创造着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_044.png",
+      "title": "表观遗传",
+      "summary": "表观遗传DNA甲基化，基因表达不改变序列，环境与遗传",
+      "full_text": "表观遗传DNA甲基化，基因表达不改变序列，环境与遗传",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "chemistry_biology_044_4",
         "chemistry_biology_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_044_pixel.jpg"
     },
     {
       "id": "chemistry_biology_045",
-      "title": "化学与生物 - 图片46",
-      "summary": "化学与生物相关图片",
-      "full_text": "微观世界是人类文明的重要组成部分，它深刻地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_045.png",
+      "title": "生物多样性",
+      "summary": "生物多样性物种丰富，热带雨林珊瑚礁，生命宝库",
+      "full_text": "生物多样性物种丰富，热带雨林珊瑚礁，生命宝库",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "chemistry_biology_045_4",
         "chemistry_biology_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_045_pixel.jpg"
     },
     {
       "id": "chemistry_biology_046",
-      "title": "化学与生物 - 图片47",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索生命奥秘的世界，仿佛打开了一扇通往自然奇观的大门，充满了感动与审美体验。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_046.png",
+      "title": "生物化学酶",
+      "summary": "生物化学酶催化反应，底物专一性高效性，生命催化剂",
+      "full_text": "生物化学酶催化反应，底物专一性高效性，生命催化剂",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "chemistry_biology_046_4",
         "chemistry_biology_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_046_pixel.jpg"
     },
     {
       "id": "chemistry_biology_047",
-      "title": "化学与生物 - 图片48",
-      "summary": "化学与生物相关图片",
-      "full_text": "在科学探索的领域里，文化传承展现得淋漓尽致，每一个情感都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_047.png",
+      "title": "基因工程",
+      "summary": "基因工程转基因作物，抗虫棉黄金大米，农业革命",
+      "full_text": "基因工程转基因作物，抗虫棉黄金大米，农业革命",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "chemistry_biology_047_4",
         "chemistry_biology_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_047_pixel.jpg"
     },
     {
       "id": "chemistry_biology_048",
-      "title": "化学与生物 - 图片49",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索自然奇观的世界，仿佛打开了一扇通往美好家园的大门，充满了好奇与精神升华。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_048.png",
+      "title": "合成生物学",
+      "summary": "合成生物学设计生命，人工合成基因组，创造新生物",
+      "full_text": "合成生物学设计生命，人工合成基因组，创造新生物",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "chemistry_biology_048_4",
         "chemistry_biology_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_048_pixel.jpg"
     },
     {
       "id": "chemistry_biology_049",
-      "title": "化学与生物 - 图片50",
-      "summary": "化学与生物相关图片",
-      "full_text": "生物多样性是思想升华的结晶，它展现着艺术的追求，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_049.png",
+      "title": "生物信息学",
+      "summary": "生物信息学大数据分析，基因序列比对，计算生物学",
+      "full_text": "生物信息学大数据分析，基因序列比对，计算生物学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "chemistry_biology_049_4",
         "chemistry_biology_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_049_pixel.jpg"
     },
     {
       "id": "chemistry_biology_050",
-      "title": "化学与生物 - 图片51",
-      "summary": "化学与生物相关图片",
-      "full_text": "微观世界是审美追求的结晶，它表达着深刻的思考，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_050.png",
+      "title": "蛋白质组学",
+      "summary": "蛋白质组学研究全部蛋白质，质谱分析，功能基因组",
+      "full_text": "蛋白质组学研究全部蛋白质，质谱分析，功能基因组",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "chemistry_biology_050_4",
         "chemistry_biology_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_050_pixel.jpg"
     },
     {
       "id": "chemistry_biology_051",
-      "title": "化学与生物 - 图片52",
-      "summary": "化学与生物相关图片",
-      "full_text": "生命奥秘是艺术创造的结晶，它引领着生活的智慧，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_051.png",
+      "title": "代谢工程",
+      "summary": "代谢工程改造代谢路径，微生物生产药物，工业生物技术",
+      "full_text": "代谢工程改造代谢路径，微生物生产药物，工业生物技术",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "chemistry_biology_051_4",
         "chemistry_biology_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_051_pixel.jpg"
     },
     {
       "id": "chemistry_biology_052",
-      "title": "化学与生物 - 图片53",
-      "summary": "化学与生物相关图片",
-      "full_text": "在科学探索的领域里，文化传承展现得淋漓尽致，每一个情感都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_052.png",
+      "title": "生物传感器",
+      "summary": "生物传感器酶电极，血糖检测环境监测，检测技术",
+      "full_text": "生物传感器酶电极，血糖检测环境监测，检测技术",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "chemistry_biology_052_4",
         "chemistry_biology_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_052_pixel.jpg"
     },
     {
       "id": "chemistry_biology_053",
-      "title": "化学与生物 - 图片54",
-      "summary": "化学与生物相关图片",
-      "full_text": "自然奇观是人类文明的重要组成部分，它壮观地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_053.png",
+      "title": "组织工程",
+      "summary": "组织工程3D打印器官，支架细胞生长因子，再生医学",
+      "full_text": "组织工程3D打印器官，支架细胞生长因子，再生医学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "chemistry_biology_053_4",
         "chemistry_biology_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_053_pixel.jpg"
     },
     {
       "id": "chemistry_biology_054",
-      "title": "化学与生物 - 图片55",
-      "summary": "化学与生物相关图片",
-      "full_text": "生物多样性是人类文明的重要组成部分，它优雅地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_054.png",
+      "title": "生物制药",
+      "summary": "生物制药单克隆抗体，细胞培养纯化，现代医药",
+      "full_text": "生物制药单克隆抗体，细胞培养纯化，现代医药",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "chemistry_biology_054_4",
         "chemistry_biology_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_054_pixel.jpg"
     },
     {
       "id": "chemistry_biology_055",
-      "title": "化学与生物 - 图片56",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索微观世界的世界，仿佛打开了一扇通往知识海洋的大门，充满了好奇与艺术熏陶。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_055.png",
+      "title": "基因治疗",
+      "summary": "基因治疗病毒载体递送，修复缺陷基因，遗传病希望",
+      "full_text": "基因治疗病毒载体递送，修复缺陷基因，遗传病希望",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "chemistry_biology_055_4",
         "chemistry_biology_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_055_pixel.jpg"
     },
     {
       "id": "chemistry_biology_056",
-      "title": "化学与生物 - 图片57",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索生命奥秘的世界，仿佛打开了一扇通往精神家园的大门，充满了激情与思想启迪。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_056.png",
+      "title": "微生物组",
+      "summary": "肠道微生物组研究，益生菌与人体健康，微生态",
+      "full_text": "肠道微生物组研究，益生菌与人体健康，微生态",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "chemistry_biology_056_4",
         "chemistry_biology_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_056_pixel.jpg"
     },
     {
       "id": "chemistry_biology_057",
-      "title": "化学与生物 - 图片58",
-      "summary": "化学与生物相关图片",
-      "full_text": "科学探索不仅诠释了文化内涵，更传递了生命的意义，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_057.png",
+      "title": "生物伦理",
+      "summary": "生物伦理基因编辑争议，克隆人禁止，科学边界",
+      "full_text": "生物伦理基因编辑争议，克隆人禁止，科学边界",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "chemistry_biology_057_4",
         "chemistry_biology_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_057_pixel.jpg"
     },
     {
       "id": "chemistry_biology_058",
-      "title": "化学与生物 - 图片59",
-      "summary": "化学与生物相关图片",
-      "full_text": "自然奇观不仅描绘了人类文明，更传递了文化的传承，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_058.png",
+      "title": "生命起源",
+      "summary": "生命起源原始汤假说，RNA世界深海热泉，生命之谜",
+      "full_text": "生命起源原始汤假说，RNA世界深海热泉，生命之谜",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "chemistry_biology_058_4",
         "chemistry_biology_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_058_pixel.jpg"
     },
     {
       "id": "chemistry_biology_059",
-      "title": "化学与生物 - 图片60",
-      "summary": "化学与生物相关图片",
-      "full_text": "生物多样性是情感表达的结晶，它诠释着创新的理念，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_059.png",
+      "title": "进化发育生物学",
+      "summary": "进化发育生物学Hox基因，形态多样性起源，Evo-Devo",
+      "full_text": "进化发育生物学Hox基因，形态多样性起源，Evo-Devo",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "chemistry_biology_059_4",
         "chemistry_biology_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_059_pixel.jpg"
     },
     {
       "id": "chemistry_biology_060",
-      "title": "化学与生物 - 图片61",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索微观世界的世界，仿佛打开了一扇通往智慧天地的大门，充满了好奇与美好感受。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_060.png",
+      "title": "系统生物学",
+      "summary": "系统生物学整体建模，网络分析系统调控，整合研究",
+      "full_text": "系统生物学整体建模，网络分析系统调控，整合研究",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "chemistry_biology_060_4",
         "chemistry_biology_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_060_pixel.jpg"
     },
     {
       "id": "chemistry_biology_061",
-      "title": "化学与生物 - 图片62",
-      "summary": "化学与生物相关图片",
-      "full_text": "在生命奥秘的领域里，人类智慧展现得淋漓尽致，每一个细节都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_061.png",
+      "title": "化学生物学",
+      "summary": "化学生物学小分子探针，化学工具研究生物，交叉学科",
+      "full_text": "化学生物学小分子探针，化学工具研究生物，交叉学科",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "chemistry_biology_061_4",
         "chemistry_biology_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_061_pixel.jpg"
     },
     {
       "id": "chemistry_biology_062",
-      "title": "化学与生物 - 图片63",
-      "summary": "化学与生物相关图片",
-      "full_text": "科学探索是生活体验的结晶，它传递着创新的理念，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_062.png",
+      "title": "结构生物学",
+      "summary": "结构生物学冷冻电镜，蛋白质三维结构解析，分子机器",
+      "full_text": "结构生物学冷冻电镜，蛋白质三维结构解析，分子机器",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "chemistry_biology_062_4",
         "chemistry_biology_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_062_pixel.jpg"
     },
     {
       "id": "chemistry_biology_063",
-      "title": "化学与生物 - 图片64",
-      "summary": "化学与生物相关图片",
-      "full_text": "探索自然奇观的世界，仿佛打开了一扇通往知识海洋的大门，充满了喜悦与艺术熏陶。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_063.png",
+      "title": "生物技术产业",
+      "summary": "生物技术产业蓬勃发展，从实验室到市场，创新驱动",
+      "full_text": "生物技术产业蓬勃发展，从实验室到市场，创新驱动",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "chemistry_biology_063_4",
         "chemistry_biology_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_063_pixel.jpg"
     },
     {
       "id": "chemistry_biology_064",
-      "title": "化学与生物 - 图片65",
-      "summary": "化学与生物相关图片",
-      "full_text": "生物多样性是艺术创造的结晶，它诠释着科学的精神，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_064.png",
+      "title": "化学与生命",
+      "summary": "化学是生命的语言，生命是化学的奇迹，交叉融合",
+      "full_text": "化学是生命的语言，生命是化学的奇迹，交叉融合",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "chemistry_biology_064_4",
         "chemistry_biology_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_064_pixel.jpg"
     },
     {
       "id": "chemistry_biology_065",
-      "title": "化学与生物 - 图片66",
-      "summary": "化学与生物相关图片",
-      "full_text": "微观世界是人类文明的重要组成部分，它绚丽地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_065.png",
+      "title": "未来生命科学",
+      "summary": "未来生命科学人工智能辅助，精准医疗合成生命，无限可能",
+      "full_text": "未来生命科学人工智能辅助，精准医疗合成生命，无限可能",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "chemistry_biology_065_4",
         "chemistry_biology_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_065_pixel.jpg"
     },
     {
       "id": "chemistry_biology_066",
-      "title": "化学与生物 - 图片67",
-      "summary": "化学与生物相关图片",
-      "full_text": "生命奥秘是艺术创造的结晶，它创造着创新的理念，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_066.png",
+      "title": "生物数学",
+      "summary": "生物数学模型种群动态，捕食者猎物方程，数学生态",
+      "full_text": "生物数学模型种群动态，捕食者猎物方程，数学生态",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "chemistry_biology_066_4",
         "chemistry_biology_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_066_pixel.jpg"
     },
     {
       "id": "chemistry_biology_067",
-      "title": "化学与生物 - 图片68",
-      "summary": "化学与生物相关图片",
-      "full_text": "科学探索不仅传承了美好瞬间，更传递了奋斗的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_067.png",
+      "title": "化学振荡",
+      "summary": "化学振荡BZ反应，颜色周期性变化，非平衡态化学",
+      "full_text": "化学振荡BZ反应，颜色周期性变化，非平衡态化学",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "chemistry_biology_067_4",
         "chemistry_biology_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_067_pixel.jpg"
     },
     {
       "id": "chemistry_biology_068",
-      "title": "化学与生物 - 图片69",
-      "summary": "化学与生物相关图片",
-      "full_text": "自然奇观不仅展现了情感世界，更传递了梦想的价值，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_068.png",
+      "title": "生物矿化",
+      "summary": "生物矿化贝壳骨骼，有机分子调控晶体生长，自然材料",
+      "full_text": "生物矿化贝壳骨骼，有机分子调控晶体生长，自然材料",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "chemistry_biology_068_4",
         "chemistry_biology_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_068_pixel.jpg"
     },
     {
       "id": "chemistry_biology_069",
-      "title": "化学与生物 - 图片70",
-      "summary": "化学与生物相关图片",
-      "full_text": "在生物多样性的领域里，文化传承展现得淋漓尽致，每一个线条都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_069.png",
+      "title": "化学进化",
+      "summary": "化学进化从无机到有机，米勒实验模拟原始大气，生命前奏",
+      "full_text": "化学进化从无机到有机，米勒实验模拟原始大气，生命前奏",
+      "image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "chemistry_biology_069_4",
         "chemistry_biology_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/chemistry_biology/chemistry_biology_069_pixel.jpg"
     }
   ]
 }

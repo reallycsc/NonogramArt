@@ -68,6 +68,12 @@ alignment = 1
 [node name="BookButton" parent="VBoxContainer/HBoxContainer" unique_id=1599415490 instance=ExtResource("3_w3vyw")]
 layout_mode = 2
 
+[node name="BookButton2" parent="VBoxContainer/HBoxContainer" unique_id=406463641 instance=ExtResource("3_w3vyw")]
+layout_mode = 2
+
+[node name="BookButton3" parent="VBoxContainer/HBoxContainer" unique_id=625262378 instance=ExtResource("3_w3vyw")]
+layout_mode = 2
+
 [node name="HBoxContainer2" type="HBoxContainer" parent="VBoxContainer" unique_id=246378946]
 layout_mode = 2
 theme_override_constants/separation = -25

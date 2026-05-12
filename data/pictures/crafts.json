@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "crafts_000",
-      "title": "工艺美术 - 图片1",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的陶瓷制品典雅大方，不仅日常器皿，更蕴含着吉祥寓意。",
-      "image": "res://assets/images/illustrations/crafts/crafts_000.png",
+      "title": "仰韶文化彩陶盆",
+      "summary": "新石器时代以人面鱼纹装饰的红色彩陶盆",
+      "full_text": "新石器时代以人面鱼纹装饰的红色彩陶盆",
+      "image": "res://assets/images/illustrations/crafts/crafts_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "crafts_000_4",
         "crafts_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_000_pixel.jpg"
     },
     {
       "id": "crafts_001",
-      "title": "工艺美术 - 图片2",
-      "summary": "工艺美术相关图片",
-      "full_text": "剪纸是中国传统工艺的瑰宝，玲珑剔透，承载着民俗文化。",
-      "image": "res://assets/images/illustrations/crafts/crafts_001.png",
+      "title": "龙山文化黑陶蛋壳杯",
+      "summary": "龙山文化以极薄器壁著称的黑色蛋壳陶杯",
+      "full_text": "龙山文化以极薄器壁著称的黑色蛋壳陶杯",
+      "image": "res://assets/images/illustrations/crafts/crafts_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "crafts_001_4",
         "crafts_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_001_pixel.jpg"
     },
     {
       "id": "crafts_002",
-      "title": "工艺美术 - 图片3",
-      "summary": "工艺美术相关图片",
-      "full_text": "刺绣工艺描稿、配线、缝制，每件作品都凝聚着匠人的心血与智慧，是装饰价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_002.png",
+      "title": "商代原始青瓷",
+      "summary": "商代以高温烧制的早期青釉瓷器",
+      "full_text": "商代以高温烧制的早期青釉瓷器",
+      "image": "res://assets/images/illustrations/crafts/crafts_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "crafts_002_4",
         "crafts_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_002_pixel.jpg"
     },
     {
       "id": "crafts_003",
-      "title": "工艺美术 - 图片4",
-      "summary": "工艺美术相关图片",
-      "full_text": "木雕是中国传统工艺的瑰宝，古朴典雅，承载着传统文化。",
-      "image": "res://assets/images/illustrations/crafts/crafts_003.png",
+      "title": "东汉青瓷四系罐",
+      "summary": "东汉以青釉覆盖的成熟青瓷储物罐",
+      "full_text": "东汉以青釉覆盖的成熟青瓷储物罐",
+      "image": "res://assets/images/illustrations/crafts/crafts_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "crafts_003_4",
         "crafts_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_003_pixel.jpg"
     },
     {
       "id": "crafts_004",
-      "title": "工艺美术 - 图片5",
-      "summary": "工艺美术相关图片",
-      "full_text": "玉雕工艺选料、设计、琢磨，每件作品都凝聚着匠人的心血与智慧，是珍贵价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_004.png",
+      "title": "唐三彩骆驼载乐俑",
+      "summary": "唐代以三彩釉色装饰的骆驼驮载乐人俑",
+      "full_text": "唐代以三彩釉色装饰的骆驼驮载乐人俑",
+      "image": "res://assets/images/illustrations/crafts/crafts_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "crafts_004_4",
         "crafts_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_004_pixel.jpg"
     },
     {
       "id": "crafts_005",
-      "title": "工艺美术 - 图片6",
-      "summary": "工艺美术相关图片",
-      "full_text": "漆器是中国传统工艺的瑰宝，光泽艳丽，承载着传统工艺。",
-      "image": "res://assets/images/illustrations/crafts/crafts_005.png",
+      "title": "唐三彩马",
+      "summary": "唐代以斑斓釉色装饰的骏马陪葬陶俑",
+      "full_text": "唐代以斑斓釉色装饰的骏马陪葬陶俑",
+      "image": "res://assets/images/illustrations/crafts/crafts_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "crafts_005_4",
         "crafts_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_005_pixel.jpg"
     },
     {
       "id": "crafts_006",
-      "title": "工艺美术 - 图片7",
-      "summary": "工艺美术相关图片",
-      "full_text": "竹编工艺破竹、编织、整理，每件作品都凝聚着匠人的心血与智慧，是实用价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_006.png",
+      "title": "宋代汝窑天青釉洗",
+      "summary": "北宋汝窑以天青色釉著称的文房洗器",
+      "full_text": "北宋汝窑以天青色釉著称的文房洗器",
+      "image": "res://assets/images/illustrations/crafts/crafts_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "crafts_006_4",
         "crafts_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_006_pixel.jpg"
     },
     {
       "id": "crafts_007",
-      "title": "工艺美术 - 图片8",
-      "summary": "工艺美术相关图片",
-      "full_text": "布艺作为生活艺术，以其柔软温馨赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_007.png",
+      "title": "宋代官窑贯耳瓶",
+      "summary": "南宋官窑以冰裂纹开片装饰的贯耳瓶",
+      "full_text": "南宋官窑以冰裂纹开片装饰的贯耳瓶",
+      "image": "res://assets/images/illustrations/crafts/crafts_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "crafts_007_4",
         "crafts_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_007_pixel.jpg"
     },
     {
       "id": "crafts_008",
-      "title": "工艺美术 - 图片9",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的泥塑制品质朴可爱，不仅观赏收藏，更蕴含着童真童趣。",
-      "image": "res://assets/images/illustrations/crafts/crafts_008.png",
+      "title": "宋代哥窑鱼耳炉",
+      "summary": "南宋哥窑以金丝铁线开片为特色的小炉",
+      "full_text": "南宋哥窑以金丝铁线开片为特色的小炉",
+      "image": "res://assets/images/illustrations/crafts/crafts_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "crafts_008_4",
         "crafts_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_008_pixel.jpg"
     },
     {
       "id": "crafts_009",
-      "title": "工艺美术 - 图片10",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶艺作为现代艺术，以其质朴纯真赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_009.png",
+      "title": "宋代钧窑玫瑰紫釉花盆",
+      "summary": "北宋钧窑以铜红窑变釉著称的花盆",
+      "full_text": "北宋钧窑以铜红窑变釉著称的花盆",
+      "image": "res://assets/images/illustrations/crafts/crafts_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "crafts_009_4",
         "crafts_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_009_pixel.jpg"
     },
     {
       "id": "crafts_010",
-      "title": "工艺美术 - 图片11",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶瓷作为国家级非遗，以其历久弥新赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_010.png",
+      "title": "宋代定窑白瓷孩儿枕",
+      "summary": "北宋定窑以白釉印花装饰的孩儿形瓷枕",
+      "full_text": "北宋定窑以白釉印花装饰的孩儿形瓷枕",
+      "image": "res://assets/images/illustrations/crafts/crafts_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "crafts_010_4",
         "crafts_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_010_pixel.jpg"
     },
     {
       "id": "crafts_011",
-      "title": "工艺美术 - 图片12",
-      "summary": "工艺美术相关图片",
-      "full_text": "剪纸作为传统手工艺，以其简洁明快赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_011.png",
+      "title": "宋代建窑兔毫盏",
+      "summary": "南宋建窑以铁结晶兔毫纹著称的茶盏",
+      "full_text": "南宋建窑以铁结晶兔毫纹著称的茶盏",
+      "image": "res://assets/images/illustrations/crafts/crafts_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "crafts_011_4",
         "crafts_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_011_pixel.jpg"
     },
     {
       "id": "crafts_012",
-      "title": "工艺美术 - 图片13",
-      "summary": "工艺美术相关图片",
-      "full_text": "刺绣作为文化瑰宝，以其细腻入微赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_012.png",
+      "title": "元代青花缠枝牡丹瓶",
+      "summary": "元代以钴蓝料绘缠枝牡丹纹的大罐",
+      "full_text": "元代以钴蓝料绘缠枝牡丹纹的大罐",
+      "image": "res://assets/images/illustrations/crafts/crafts_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "crafts_012_4",
         "crafts_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_012_pixel.jpg"
     },
     {
       "id": "crafts_013",
-      "title": "工艺美术 - 图片14",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的木雕制品自然质朴，不仅家居摆件，更蕴含着文化传承。",
-      "image": "res://assets/images/illustrations/crafts/crafts_013.png",
+      "title": "明代永乐甜白釉梅瓶",
+      "summary": "明永乐以温润白釉著称的梅瓶",
+      "full_text": "明永乐以温润白釉著称的梅瓶",
+      "image": "res://assets/images/illustrations/crafts/crafts_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "crafts_013_4",
         "crafts_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_013_pixel.jpg"
     },
     {
       "id": "crafts_014",
-      "title": "工艺美术 - 图片15",
-      "summary": "工艺美术相关图片",
-      "full_text": "玉雕工艺选料、设计、琢磨，每件作品都凝聚着匠人的心血与智慧，是珍贵价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_014.png",
+      "title": "明代成化斗彩鸡缸杯",
+      "summary": "明成化以釉下青花与釉上彩结合的鸡缸杯",
+      "full_text": "明成化以釉下青花与釉上彩结合的鸡缸杯",
+      "image": "res://assets/images/illustrations/crafts/crafts_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "crafts_014_4",
         "crafts_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_014_pixel.jpg"
     },
     {
       "id": "crafts_015",
-      "title": "工艺美术 - 图片16",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的漆器制品富丽华贵，不仅实用器具，更蕴含着高雅品味。",
-      "image": "res://assets/images/illustrations/crafts/crafts_015.png",
+      "title": "明代宣德青花云龙纹钵",
+      "summary": "明宣德以浓艳青花绘云龙纹的钵",
+      "full_text": "明宣德以浓艳青花绘云龙纹的钵",
+      "image": "res://assets/images/illustrations/crafts/crafts_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "crafts_015_4",
         "crafts_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_015_pixel.jpg"
     },
     {
       "id": "crafts_016",
-      "title": "工艺美术 - 图片17",
-      "summary": "工艺美术相关图片",
-      "full_text": "竹编是中国传统工艺的瑰宝，精巧雅致，承载着民间艺术。",
-      "image": "res://assets/images/illustrations/crafts/crafts_016.png",
+      "title": "清代康熙五彩花鸟盘",
+      "summary": "清康熙以多彩釉上彩绘花鸟的瓷盘",
+      "full_text": "清康熙以多彩釉上彩绘花鸟的瓷盘",
+      "image": "res://assets/images/illustrations/crafts/crafts_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "crafts_016_4",
         "crafts_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_016_pixel.jpg"
     },
     {
       "id": "crafts_017",
-      "title": "工艺美术 - 图片18",
-      "summary": "工艺美术相关图片",
-      "full_text": "布艺是中国传统工艺的瑰宝，色彩丰富，承载着生活美学。",
-      "image": "res://assets/images/illustrations/crafts/crafts_017.png",
+      "title": "清代雍正粉彩过枝桃纹碗",
+      "summary": "清雍正以柔和粉彩绘桃枝过墙的碗",
+      "full_text": "清雍正以柔和粉彩绘桃枝过墙的碗",
+      "image": "res://assets/images/illustrations/crafts/crafts_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "crafts_017_4",
         "crafts_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_017_pixel.jpg"
     },
     {
       "id": "crafts_018",
-      "title": "工艺美术 - 图片19",
-      "summary": "工艺美术相关图片",
-      "full_text": "这件泥塑作品造型生动，展现了捏塑技艺的精湛技艺，令人叹为观止。",
-      "image": "res://assets/images/illustrations/crafts/crafts_018.png",
+      "title": "清代乾隆珐琅彩山水瓶",
+      "summary": "清乾隆以珐琅彩绘山水画的精致瓷瓶",
+      "full_text": "清乾隆以珐琅彩绘山水画的精致瓷瓶",
+      "image": "res://assets/images/illustrations/crafts/crafts_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "crafts_018_4",
         "crafts_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_018_pixel.jpg"
     },
     {
       "id": "crafts_019",
-      "title": "工艺美术 - 图片20",
-      "summary": "工艺美术相关图片",
-      "full_text": "这件陶艺作品手感质朴，展现了拉坯成型的精湛技艺，令人叹为观止。",
-      "image": "res://assets/images/illustrations/crafts/crafts_019.png",
+      "title": "景德镇御窑厂",
+      "summary": "明清两代专为皇家烧制瓷器的御窑工场全景",
+      "full_text": "明清两代专为皇家烧制瓷器的御窑工场全景",
+      "image": "res://assets/images/illustrations/crafts/crafts_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "crafts_019_4",
         "crafts_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_019_pixel.jpg"
     },
     {
       "id": "crafts_020",
-      "title": "工艺美术 - 图片21",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶瓷工艺制坯、上釉、烧制，每件作品都凝聚着匠人的心血与智慧，是艺术价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_020.png",
+      "title": "商代后母戊鼎",
+      "summary": "商代以饕餮纹装饰的青铜方鼎，现存最重青铜器",
+      "full_text": "商代以饕餮纹装饰的青铜方鼎，现存最重青铜器",
+      "image": "res://assets/images/illustrations/crafts/crafts_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "crafts_020_4",
         "crafts_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_020_pixel.jpg"
     },
     {
       "id": "crafts_021",
-      "title": "工艺美术 - 图片22",
-      "summary": "工艺美术相关图片",
-      "full_text": "这件剪纸作品线条流畅，展现了剪裁技巧的精湛技艺，令人叹为观止。",
-      "image": "res://assets/images/illustrations/crafts/crafts_021.png",
+      "title": "商代四羊方尊",
+      "summary": "商代以四只卷角羊装饰的青铜酒器",
+      "full_text": "商代以四只卷角羊装饰的青铜酒器",
+      "image": "res://assets/images/illustrations/crafts/crafts_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "crafts_021_4",
         "crafts_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_021_pixel.jpg"
     },
     {
       "id": "crafts_022",
-      "title": "工艺美术 - 图片23",
-      "summary": "工艺美术相关图片",
-      "full_text": "刺绣作为文化瑰宝，以其细腻入微赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_022.png",
+      "title": "西周毛公鼎",
+      "summary": "西周以长篇铭文著称的青铜圆鼎",
+      "full_text": "西周以长篇铭文著称的青铜圆鼎",
+      "image": "res://assets/images/illustrations/crafts/crafts_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "crafts_022_4",
         "crafts_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_022_pixel.jpg"
     },
     {
       "id": "crafts_023",
-      "title": "工艺美术 - 图片24",
-      "summary": "工艺美术相关图片",
-      "full_text": "木雕是中国传统工艺的瑰宝，古朴典雅，承载着传统文化。",
-      "image": "res://assets/images/illustrations/crafts/crafts_023.png",
+      "title": "春秋莲鹤方壶",
+      "summary": "春秋以莲瓣鹤鸟装饰的青铜壶",
+      "full_text": "春秋以莲瓣鹤鸟装饰的青铜壶",
+      "image": "res://assets/images/illustrations/crafts/crafts_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "crafts_023_4",
         "crafts_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_023_pixel.jpg"
     },
     {
       "id": "crafts_024",
-      "title": "工艺美术 - 图片25",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的玉雕制品高贵典雅，不仅佩戴饰品，更蕴含着君子品德。",
-      "image": "res://assets/images/illustrations/crafts/crafts_024.png",
+      "title": "战国曾侯乙编钟",
+      "summary": "战国以六十五件铜钟组成的巨型乐器",
+      "full_text": "战国以六十五件铜钟组成的巨型乐器",
+      "image": "res://assets/images/illustrations/crafts/crafts_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "crafts_024_4",
         "crafts_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_024_pixel.jpg"
     },
     {
       "id": "crafts_025",
-      "title": "工艺美术 - 图片26",
-      "summary": "工艺美术相关图片",
-      "full_text": "漆器作为传统工艺，以其光彩夺目赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_025.png",
+      "title": "战国错金银铜壶",
+      "summary": "战国以金银丝镶嵌几何纹的青铜壶",
+      "full_text": "战国以金银丝镶嵌几何纹的青铜壶",
+      "image": "res://assets/images/illustrations/crafts/crafts_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "crafts_025_4",
         "crafts_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_025_pixel.jpg"
     },
     {
       "id": "crafts_026",
-      "title": "工艺美术 - 图片27",
-      "summary": "工艺美术相关图片",
-      "full_text": "竹编工艺破竹、编织、整理，每件作品都凝聚着匠人的心血与智慧，是实用价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_026.png",
+      "title": "汉代长信宫灯",
+      "summary": "汉代以鎏金铜宫女持灯造型的环保灯具",
+      "full_text": "汉代以鎏金铜宫女持灯造型的环保灯具",
+      "image": "res://assets/images/illustrations/crafts/crafts_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "crafts_026_4",
         "crafts_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_026_pixel.jpg"
     },
     {
       "id": "crafts_027",
-      "title": "工艺美术 - 图片28",
-      "summary": "工艺美术相关图片",
-      "full_text": "布艺工艺裁剪、缝纫、整烫，每件作品都凝聚着匠人的心血与智慧，是装饰价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_027.png",
+      "title": "汉代博山炉",
+      "summary": "汉代以山形盖镂空装饰的铜熏香炉",
+      "full_text": "汉代以山形盖镂空装饰的铜熏香炉",
+      "image": "res://assets/images/illustrations/crafts/crafts_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "crafts_027_4",
         "crafts_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_027_pixel.jpg"
     },
     {
       "id": "crafts_028",
-      "title": "工艺美术 - 图片29",
-      "summary": "工艺美术相关图片",
-      "full_text": "泥塑工艺捏塑、阴干、彩绘，每件作品都凝聚着匠人的心血与智慧，是观赏价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_028.png",
+      "title": "唐代鎏金舞马衔杯银壶",
+      "summary": "唐代以鎏金舞马纹装饰的皮囊形银壶",
+      "full_text": "唐代以鎏金舞马纹装饰的皮囊形银壶",
+      "image": "res://assets/images/illustrations/crafts/crafts_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "crafts_028_4",
         "crafts_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_028_pixel.jpg"
     },
     {
       "id": "crafts_029",
-      "title": "工艺美术 - 图片30",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶艺是中国传统工艺的瑰宝，质朴自然，承载着现代艺术。",
-      "image": "res://assets/images/illustrations/crafts/crafts_029.png",
+      "title": "唐代葡萄花鸟纹银香囊",
+      "summary": "唐代以镂空葡萄花鸟纹装饰的银质香囊",
+      "full_text": "唐代以镂空葡萄花鸟纹装饰的银质香囊",
+      "image": "res://assets/images/illustrations/crafts/crafts_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "crafts_029_4",
         "crafts_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_029_pixel.jpg"
     },
     {
       "id": "crafts_030",
-      "title": "工艺美术 - 图片31",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶瓷工艺制坯、上釉、烧制，每件作品都凝聚着匠人的心血与智慧，是艺术价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_030.png",
+      "title": "宋代鎏金银塔",
+      "summary": "宋代以鎏金工艺制作的精致银质佛塔模型",
+      "full_text": "宋代以鎏金工艺制作的精致银质佛塔模型",
+      "image": "res://assets/images/illustrations/crafts/crafts_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "crafts_030_4",
         "crafts_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_030_pixel.jpg"
     },
     {
       "id": "crafts_031",
-      "title": "工艺美术 - 图片32",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的剪纸制品喜庆吉祥，不仅装饰点缀，更蕴含着美好祝福。",
-      "image": "res://assets/images/illustrations/crafts/crafts_031.png",
+      "title": "明代掐丝珐琅缠枝莲炉",
+      "summary": "明代景泰蓝以铜丝掐花填釉的香炉",
+      "full_text": "明代景泰蓝以铜丝掐花填釉的香炉",
+      "image": "res://assets/images/illustrations/crafts/crafts_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "crafts_031_4",
         "crafts_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_031_pixel.jpg"
     },
     {
       "id": "crafts_032",
-      "title": "工艺美术 - 图片33",
-      "summary": "工艺美术相关图片",
-      "full_text": "刺绣作为文化瑰宝，以其细腻入微赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_032.png",
+      "title": "明代景泰蓝花觚",
+      "summary": "明代以蓝釉为主的掐丝珐琅仿古花瓶",
+      "full_text": "明代以蓝釉为主的掐丝珐琅仿古花瓶",
+      "image": "res://assets/images/illustrations/crafts/crafts_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "crafts_032_4",
         "crafts_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_032_pixel.jpg"
     },
     {
       "id": "crafts_033",
-      "title": "工艺美术 - 图片34",
-      "summary": "工艺美术相关图片",
-      "full_text": "木雕是中国传统工艺的瑰宝，古朴典雅，承载着传统文化。",
-      "image": "res://assets/images/illustrations/crafts/crafts_033.png",
+      "title": "清代画珐琅花卉盘",
+      "summary": "清代以画珐琅技法绘花卉的铜胎盘",
+      "full_text": "清代以画珐琅技法绘花卉的铜胎盘",
+      "image": "res://assets/images/illustrations/crafts/crafts_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "crafts_033_4",
         "crafts_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_033_pixel.jpg"
     },
     {
       "id": "crafts_034",
-      "title": "工艺美术 - 图片35",
-      "summary": "工艺美术相关图片",
-      "full_text": "玉雕工艺选料、设计、琢磨，每件作品都凝聚着匠人的心血与智慧，是珍贵价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_034.png",
+      "title": "古埃及黄金面具",
+      "summary": "古埃及法老以黄金锤揲制作的殡葬面具",
+      "full_text": "古埃及法老以黄金锤揲制作的殡葬面具",
+      "image": "res://assets/images/illustrations/crafts/crafts_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "crafts_034_4",
         "crafts_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_034_pixel.jpg"
     },
     {
       "id": "crafts_035",
-      "title": "工艺美术 - 图片36",
-      "summary": "工艺美术相关图片",
-      "full_text": "漆器工艺制胎、髹漆、装饰，每件作品都凝聚着匠人的心血与智慧，是实用价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_035.png",
+      "title": "古希腊青铜盔甲",
+      "summary": "古希腊以锤揲工艺制作的青铜护甲",
+      "full_text": "古希腊以锤揲工艺制作的青铜护甲",
+      "image": "res://assets/images/illustrations/crafts/crafts_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "crafts_035_4",
         "crafts_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_035_pixel.jpg"
     },
     {
       "id": "crafts_036",
-      "title": "工艺美术 - 图片37",
-      "summary": "工艺美术相关图片",
-      "full_text": "竹编工艺破竹、编织、整理，每件作品都凝聚着匠人的心血与智慧，是实用价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_036.png",
+      "title": "罗马银币",
+      "summary": "罗马帝国以皇帝头像压印的银质货币",
+      "full_text": "罗马帝国以皇帝头像压印的银质货币",
+      "image": "res://assets/images/illustrations/crafts/crafts_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "crafts_036_4",
         "crafts_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_036_pixel.jpg"
     },
     {
       "id": "crafts_037",
-      "title": "工艺美术 - 图片38",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的布艺制品温馨舒适，不仅家居装饰，更蕴含着温馨氛围。",
-      "image": "res://assets/images/illustrations/crafts/crafts_037.png",
+      "title": "凯尔特黄金项圈",
+      "summary": "凯尔特人以金丝扭编的装饰项圈",
+      "full_text": "凯尔特人以金丝扭编的装饰项圈",
+      "image": "res://assets/images/illustrations/crafts/crafts_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "crafts_037_4",
         "crafts_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_037_pixel.jpg"
     },
     {
       "id": "crafts_038",
-      "title": "工艺美术 - 图片39",
-      "summary": "工艺美术相关图片",
-      "full_text": "泥塑作为民间艺术，以其生动活泼赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_038.png",
+      "title": "日本明治金属花瓶",
+      "summary": "日本明治时期以铜镀金工艺制作的花瓶",
+      "full_text": "日本明治时期以铜镀金工艺制作的花瓶",
+      "image": "res://assets/images/illustrations/crafts/crafts_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "crafts_038_4",
         "crafts_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_038_pixel.jpg"
     },
     {
       "id": "crafts_039",
-      "title": "工艺美术 - 图片40",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的陶艺制品简约大气，不仅装饰摆件，更蕴含着个性表达。",
-      "image": "res://assets/images/illustrations/crafts/crafts_039.png",
+      "title": "印度莫卧儿黄金饰品",
+      "summary": "莫卧儿帝国以宝石镶嵌黄金的华丽首饰",
+      "full_text": "莫卧儿帝国以宝石镶嵌黄金的华丽首饰",
+      "image": "res://assets/images/illustrations/crafts/crafts_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "crafts_039_4",
         "crafts_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_039_pixel.jpg"
     },
     {
       "id": "crafts_040",
-      "title": "工艺美术 - 图片41",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶瓷工艺制坯、上釉、烧制，每件作品都凝聚着匠人的心血与智慧，是艺术价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_040.png",
+      "title": "马王堆素纱禅衣",
+      "summary": "西汉以极薄素纱制作的49克禅衣",
+      "full_text": "西汉以极薄素纱制作的49克禅衣",
+      "image": "res://assets/images/illustrations/crafts/crafts_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "crafts_040_4",
         "crafts_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_040_pixel.jpg"
     },
     {
       "id": "crafts_041",
-      "title": "工艺美术 - 图片42",
-      "summary": "工艺美术相关图片",
-      "full_text": "剪纸工艺设计、剪裁、装裱，每件作品都凝聚着匠人的心血与智慧，是民俗价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_041.png",
+      "title": "唐代联珠纹锦",
+      "summary": "唐代以联珠圈内动物纹为特征的织锦",
+      "full_text": "唐代以联珠圈内动物纹为特征的织锦",
+      "image": "res://assets/images/illustrations/crafts/crafts_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "crafts_041_4",
         "crafts_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_041_pixel.jpg"
     },
     {
       "id": "crafts_042",
-      "title": "工艺美术 - 图片43",
-      "summary": "工艺美术相关图片",
-      "full_text": "刺绣工艺描稿、配线、缝制，每件作品都凝聚着匠人的心血与智慧，是装饰价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_042.png",
+      "title": "宋代缂丝花鸟",
+      "summary": "宋代以通经断纬技法织造的花鸟缂丝",
+      "full_text": "宋代以通经断纬技法织造的花鸟缂丝",
+      "image": "res://assets/images/illustrations/crafts/crafts_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "crafts_042_4",
         "crafts_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_042_pixel.jpg"
     },
     {
       "id": "crafts_043",
-      "title": "工艺美术 - 图片44",
-      "summary": "工艺美术相关图片",
-      "full_text": "这件木雕作品刀法精湛，展现了雕刻技艺的精湛技艺，令人叹为观止。",
-      "image": "res://assets/images/illustrations/crafts/crafts_043.png",
+      "title": "明代顾绣花鸟册",
+      "summary": "明代顾氏家族以画入绣的花鸟绣品",
+      "full_text": "明代顾氏家族以画入绣的花鸟绣品",
+      "image": "res://assets/images/illustrations/crafts/crafts_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "crafts_043_4",
         "crafts_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_043_pixel.jpg"
     },
     {
       "id": "crafts_044",
-      "title": "工艺美术 - 图片45",
-      "summary": "工艺美术相关图片",
-      "full_text": "玉雕作为珍贵工艺，以其温润典雅赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_044.png",
+      "title": "苏绣猫",
+      "summary": "苏绣以精细劈丝绣制双面绣猫的传神作品",
+      "full_text": "苏绣以精细劈丝绣制双面绣猫的传神作品",
+      "image": "res://assets/images/illustrations/crafts/crafts_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "crafts_044_4",
         "crafts_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_044_pixel.jpg"
     },
     {
       "id": "crafts_045",
-      "title": "工艺美术 - 图片46",
-      "summary": "工艺美术相关图片",
-      "full_text": "漆器作为传统工艺，以其光彩夺目赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_045.png",
+      "title": "蜀绣芙蓉鲤鱼",
+      "summary": "蜀绣以细腻针法绣制芙蓉鲤鱼的传统作品",
+      "full_text": "蜀绣以细腻针法绣制芙蓉鲤鱼的传统作品",
+      "image": "res://assets/images/illustrations/crafts/crafts_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "crafts_045_4",
         "crafts_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_045_pixel.jpg"
     },
     {
       "id": "crafts_046",
-      "title": "工艺美术 - 图片47",
-      "summary": "工艺美术相关图片",
-      "full_text": "竹编作为民间技艺，以其自然环保赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_046.png",
+      "title": "湘绣虎",
+      "summary": "湘绣以掺针绣法表现虎毛质感的传统作品",
+      "full_text": "湘绣以掺针绣法表现虎毛质感的传统作品",
+      "image": "res://assets/images/illustrations/crafts/crafts_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "crafts_046_4",
         "crafts_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_046_pixel.jpg"
     },
     {
       "id": "crafts_047",
-      "title": "工艺美术 - 图片48",
-      "summary": "工艺美术相关图片",
-      "full_text": "布艺是中国传统工艺的瑰宝，色彩丰富，承载着生活美学。",
-      "image": "res://assets/images/illustrations/crafts/crafts_047.png",
+      "title": "粤绣百鸟朝凤",
+      "summary": "粤绣以金银线绣制百鸟朝凤的华丽作品",
+      "full_text": "粤绣以金银线绣制百鸟朝凤的华丽作品",
+      "image": "res://assets/images/illustrations/crafts/crafts_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "crafts_047_4",
         "crafts_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_047_pixel.jpg"
     },
     {
       "id": "crafts_048",
-      "title": "工艺美术 - 图片49",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的泥塑制品质朴可爱，不仅观赏收藏，更蕴含着童真童趣。",
-      "image": "res://assets/images/illustrations/crafts/crafts_048.png",
+      "title": "南京云锦龙袍",
+      "summary": "南京云锦以妆花工艺织造的皇帝龙袍",
+      "full_text": "南京云锦以妆花工艺织造的皇帝龙袍",
+      "image": "res://assets/images/illustrations/crafts/crafts_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "crafts_048_4",
         "crafts_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_048_pixel.jpg"
     },
     {
       "id": "crafts_049",
-      "title": "工艺美术 - 图片50",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶艺作为现代艺术，以其质朴纯真赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_049.png",
+      "title": "壮锦几何纹",
+      "summary": "壮族以彩色棉线织几何纹样的传统织锦",
+      "full_text": "壮族以彩色棉线织几何纹样的传统织锦",
+      "image": "res://assets/images/illustrations/crafts/crafts_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "crafts_049_4",
         "crafts_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_049_pixel.jpg"
     },
     {
       "id": "crafts_050",
-      "title": "工艺美术 - 图片51",
-      "summary": "工艺美术相关图片",
-      "full_text": "这件陶瓷作品胎质细腻，展现了烧制技艺的精湛技艺，令人叹为观止。",
-      "image": "res://assets/images/illustrations/crafts/crafts_050.png",
+      "title": "日本和服织物",
+      "summary": "日本以友禅染技法绘制的和服丝绸面料",
+      "full_text": "日本以友禅染技法绘制的和服丝绸面料",
+      "image": "res://assets/images/illustrations/crafts/crafts_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "crafts_050_4",
         "crafts_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_050_pixel.jpg"
     },
     {
       "id": "crafts_051",
-      "title": "工艺美术 - 图片52",
-      "summary": "工艺美术相关图片",
-      "full_text": "这件剪纸作品线条流畅，展现了剪裁技巧的精湛技艺，令人叹为观止。",
-      "image": "res://assets/images/illustrations/crafts/crafts_051.png",
+      "title": "波斯地毯",
+      "summary": "伊朗以手工打结编织的精美羊毛地毯",
+      "full_text": "伊朗以手工打结编织的精美羊毛地毯",
+      "image": "res://assets/images/illustrations/crafts/crafts_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "crafts_051_4",
         "crafts_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_051_pixel.jpg"
     },
     {
       "id": "crafts_052",
-      "title": "工艺美术 - 图片53",
-      "summary": "工艺美术相关图片",
-      "full_text": "这件刺绣作品针法细腻，展现了针线技法的精湛技艺，令人叹为观止。",
-      "image": "res://assets/images/illustrations/crafts/crafts_052.png",
+      "title": "印度纱丽金线刺绣",
+      "summary": "印度以扎尔多齐金线刺绣装饰的纱丽",
+      "full_text": "印度以扎尔多齐金线刺绣装饰的纱丽",
+      "image": "res://assets/images/illustrations/crafts/crafts_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "crafts_052_4",
         "crafts_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_052_pixel.jpg"
     },
     {
       "id": "crafts_053",
-      "title": "工艺美术 - 图片54",
-      "summary": "工艺美术相关图片",
-      "full_text": "木雕是中国传统工艺的瑰宝，古朴典雅，承载着传统文化。",
-      "image": "res://assets/images/illustrations/crafts/crafts_053.png",
+      "title": "法国高布林挂毯",
+      "summary": "法国高布林工坊以织造技法制作的壁毯",
+      "full_text": "法国高布林工坊以织造技法制作的壁毯",
+      "image": "res://assets/images/illustrations/crafts/crafts_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "crafts_053_4",
         "crafts_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_053_pixel.jpg"
     },
     {
       "id": "crafts_054",
-      "title": "工艺美术 - 图片55",
-      "summary": "工艺美术相关图片",
-      "full_text": "玉雕作为珍贵工艺，以其温润典雅赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_054.png",
+      "title": "秘鲁安第斯编织",
+      "summary": "秘鲁安第斯山区以背带织机编织的传统织物",
+      "full_text": "秘鲁安第斯山区以背带织机编织的传统织物",
+      "image": "res://assets/images/illustrations/crafts/crafts_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "crafts_054_4",
         "crafts_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_054_pixel.jpg"
     },
     {
       "id": "crafts_055",
-      "title": "工艺美术 - 图片56",
-      "summary": "工艺美术相关图片",
-      "full_text": "漆器是中国传统工艺的瑰宝，光泽艳丽，承载着传统工艺。",
-      "image": "res://assets/images/illustrations/crafts/crafts_055.png",
+      "title": "河姆渡漆碗",
+      "summary": "新石器时代河姆渡文化以朱漆涂饰的木碗",
+      "full_text": "新石器时代河姆渡文化以朱漆涂饰的木碗",
+      "image": "res://assets/images/illustrations/crafts/crafts_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "crafts_055_4",
         "crafts_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_055_pixel.jpg"
     },
     {
       "id": "crafts_056",
-      "title": "工艺美术 - 图片57",
-      "summary": "工艺美术相关图片",
-      "full_text": "竹编作为民间技艺，以其自然环保赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_056.png",
+      "title": "战国楚漆器凤鸟纹盒",
+      "summary": "战国楚国以红黑漆绘凤鸟纹的妆奁盒",
+      "full_text": "战国楚国以红黑漆绘凤鸟纹的妆奁盒",
+      "image": "res://assets/images/illustrations/crafts/crafts_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "crafts_056_4",
         "crafts_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_056_pixel.jpg"
     },
     {
       "id": "crafts_057",
-      "title": "工艺美术 - 图片58",
-      "summary": "工艺美术相关图片",
-      "full_text": "布艺作为生活艺术，以其柔软温馨赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_057.png",
+      "title": "汉代漆耳杯",
+      "summary": "汉代以夹纻胎制作的轻巧漆耳杯",
+      "full_text": "汉代以夹纻胎制作的轻巧漆耳杯",
+      "image": "res://assets/images/illustrations/crafts/crafts_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "crafts_057_4",
         "crafts_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_057_pixel.jpg"
     },
     {
       "id": "crafts_058",
-      "title": "工艺美术 - 图片59",
-      "summary": "工艺美术相关图片",
-      "full_text": "这件泥塑作品造型生动，展现了捏塑技艺的精湛技艺，令人叹为观止。",
-      "image": "res://assets/images/illustrations/crafts/crafts_058.png",
+      "title": "元代雕漆花卉盘",
+      "summary": "元代以层层涂漆再雕刻的剔红花卉盘",
+      "full_text": "元代以层层涂漆再雕刻的剔红花卉盘",
+      "image": "res://assets/images/illustrations/crafts/crafts_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "crafts_058_4",
         "crafts_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_058_pixel.jpg"
     },
     {
       "id": "crafts_059",
-      "title": "工艺美术 - 图片60",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶艺是中国传统工艺的瑰宝，质朴自然，承载着现代艺术。",
-      "image": "res://assets/images/illustrations/crafts/crafts_059.png",
+      "title": "明代百宝嵌漆箱",
+      "summary": "明代以螺钿玉石镶嵌漆面的百宝嵌箱",
+      "full_text": "明代以螺钿玉石镶嵌漆面的百宝嵌箱",
+      "image": "res://assets/images/illustrations/crafts/crafts_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "crafts_059_4",
         "crafts_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_059_pixel.jpg"
     },
     {
       "id": "crafts_060",
-      "title": "工艺美术 - 图片61",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶瓷工艺制坯、上釉、烧制，每件作品都凝聚着匠人的心血与智慧，是艺术价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_060.png",
+      "title": "良渚文化玉琮",
+      "summary": "新石器时代良渚文化以神人兽面纹雕刻的玉琮",
+      "full_text": "新石器时代良渚文化以神人兽面纹雕刻的玉琮",
+      "image": "res://assets/images/illustrations/crafts/crafts_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "crafts_060_4",
         "crafts_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_060_pixel.jpg"
     },
     {
       "id": "crafts_061",
-      "title": "工艺美术 - 图片62",
-      "summary": "工艺美术相关图片",
-      "full_text": "剪纸工艺设计、剪裁、装裱，每件作品都凝聚着匠人的心血与智慧，是民俗价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_061.png",
+      "title": "商代玉凤",
+      "summary": "商代以双勾线刻技法雕刻的玉凤佩饰",
+      "full_text": "商代以双勾线刻技法雕刻的玉凤佩饰",
+      "image": "res://assets/images/illustrations/crafts/crafts_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "crafts_061_4",
         "crafts_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_061_pixel.jpg"
     },
     {
       "id": "crafts_062",
-      "title": "工艺美术 - 图片63",
-      "summary": "工艺美术相关图片",
-      "full_text": "刺绣作为文化瑰宝，以其细腻入微赢得了人们的喜爱与推崇。",
-      "image": "res://assets/images/illustrations/crafts/crafts_062.png",
+      "title": "汉代金缕玉衣",
+      "summary": "汉代以金丝穿缀玉片制作的皇家殓服",
+      "full_text": "汉代以金丝穿缀玉片制作的皇家殓服",
+      "image": "res://assets/images/illustrations/crafts/crafts_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "crafts_062_4",
         "crafts_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_062_pixel.jpg"
     },
     {
       "id": "crafts_063",
-      "title": "工艺美术 - 图片64",
-      "summary": "工艺美术相关图片",
-      "full_text": "木雕工艺选材、雕刻、打磨，每件作品都凝聚着匠人的心血与智慧，是收藏价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_063.png",
+      "title": "清代翡翠白菜",
+      "summary": "清代以翠玉天然色巧雕的白菜蝈蝈摆件",
+      "full_text": "清代以翠玉天然色巧雕的白菜蝈蝈摆件",
+      "image": "res://assets/images/illustrations/crafts/crafts_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "crafts_063_4",
         "crafts_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_063_pixel.jpg"
     },
     {
       "id": "crafts_064",
-      "title": "工艺美术 - 图片65",
-      "summary": "工艺美术相关图片",
-      "full_text": "精美的玉雕制品高贵典雅，不仅佩戴饰品，更蕴含着君子品德。",
-      "image": "res://assets/images/illustrations/crafts/crafts_064.png",
+      "title": "东阳木雕屏风",
+      "summary": "浙江东阳以多层浮雕技法雕刻的木屏风",
+      "full_text": "浙江东阳以多层浮雕技法雕刻的木屏风",
+      "image": "res://assets/images/illustrations/crafts/crafts_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "crafts_064_4",
         "crafts_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_064_pixel.jpg"
     },
     {
       "id": "crafts_065",
-      "title": "工艺美术 - 图片66",
-      "summary": "工艺美术相关图片",
-      "full_text": "这件漆器作品光泽亮丽，展现了髹漆技法的精湛技艺，令人叹为观止。",
-      "image": "res://assets/images/illustrations/crafts/crafts_065.png",
+      "title": "黄杨木雕罗汉",
+      "summary": "以黄杨木精细雕刻的罗汉人物像",
+      "full_text": "以黄杨木精细雕刻的罗汉人物像",
+      "image": "res://assets/images/illustrations/crafts/crafts_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "crafts_065_4",
         "crafts_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_065_pixel.jpg"
     },
     {
       "id": "crafts_066",
-      "title": "工艺美术 - 图片67",
-      "summary": "工艺美术相关图片",
-      "full_text": "竹编是中国传统工艺的瑰宝，精巧雅致，承载着民间艺术。",
-      "image": "res://assets/images/illustrations/crafts/crafts_066.png",
+      "title": "徽州木雕梁栋",
+      "summary": "徽州民居以木雕装饰的梁枋撑拱",
+      "full_text": "徽州民居以木雕装饰的梁枋撑拱",
+      "image": "res://assets/images/illustrations/crafts/crafts_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "crafts_066_4",
         "crafts_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_066_pixel.jpg"
     },
     {
       "id": "crafts_067",
-      "title": "工艺美术 - 图片68",
-      "summary": "工艺美术相关图片",
-      "full_text": "布艺是中国传统工艺的瑰宝，色彩丰富，承载着生活美学。",
-      "image": "res://assets/images/illustrations/crafts/crafts_067.png",
+      "title": "福建脱胎漆器",
+      "summary": "福建以脱胎技法制作的轻巧漆器塑像",
+      "full_text": "福建以脱胎技法制作的轻巧漆器塑像",
+      "image": "res://assets/images/illustrations/crafts/crafts_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "crafts_067_4",
         "crafts_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_067_pixel.jpg"
     },
     {
       "id": "crafts_068",
-      "title": "工艺美术 - 图片69",
-      "summary": "工艺美术相关图片",
-      "full_text": "泥塑工艺捏塑、阴干、彩绘，每件作品都凝聚着匠人的心血与智慧，是观赏价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_068.png",
+      "title": "扬州漆器螺钿",
+      "summary": "扬州以螺钿镶嵌装饰的漆器家具",
+      "full_text": "扬州以螺钿镶嵌装饰的漆器家具",
+      "image": "res://assets/images/illustrations/crafts/crafts_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "crafts_068_4",
         "crafts_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_068_pixel.jpg"
     },
     {
       "id": "crafts_069",
-      "title": "工艺美术 - 图片70",
-      "summary": "工艺美术相关图片",
-      "full_text": "陶艺工艺拉坯、修坯、烧制，每件作品都凝聚着匠人的心血与智慧，是艺术价值的体现。",
-      "image": "res://assets/images/illustrations/crafts/crafts_069.png",
+      "title": "骨雕象牙球",
+      "summary": "以多层镂空套球技法雕刻的象牙球",
+      "full_text": "以多层镂空套球技法雕刻的象牙球",
+      "image": "res://assets/images/illustrations/crafts/crafts_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "crafts_069_4",
         "crafts_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/crafts/crafts_069_pixel.jpg"
     }
   ]
 }

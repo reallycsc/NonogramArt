@@ -1,0 +1,10 @@
+[gd_resource type="StyleBoxTexture" format=3 uid="uid://bdinmim3xdw0s"]
+
+[ext_resource type="Texture2D" uid="uid://37bxap62ckbl" path="res://assets/images/ui/popup_panel/grabber_area.png" id="1_yo62f"]
+
+[resource]
+texture = ExtResource("1_yo62f")
+texture_margin_left = 5.0
+texture_margin_top = 5.0
+texture_margin_right = 5.0
+texture_margin_bottom = 5.0

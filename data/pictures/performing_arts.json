@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "performing_arts_000",
-      "title": "表演艺术 - 图片1",
-      "summary": "表演艺术相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_000.png",
+      "title": "希腊埃皮达鲁斯剧场",
+      "summary": "古希腊以半圆形石阶座席建造的露天剧场",
+      "full_text": "古希腊以半圆形石阶座席建造的露天剧场",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "performing_arts_000_4",
         "performing_arts_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_000_pixel.jpg"
     },
     {
       "id": "performing_arts_001",
-      "title": "表演艺术 - 图片2",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往文化宝库的大门，充满了怀念与视觉享受。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_001.png",
+      "title": "希腊悲剧面具",
+      "summary": "古希腊演员佩戴的夸张表情悲剧面具",
+      "full_text": "古希腊演员佩戴的夸张表情悲剧面具",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "performing_arts_001_4",
         "performing_arts_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_001_pixel.jpg"
     },
     {
       "id": "performing_arts_002",
-      "title": "表演艺术 - 图片3",
-      "summary": "表演艺术相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它和谐地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_002.png",
+      "title": "希腊喜剧面具",
+      "summary": "古希腊以滑稽表情为特征的喜剧面具",
+      "full_text": "古希腊以滑稽表情为特征的喜剧面具",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "performing_arts_002_4",
         "performing_arts_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_002_pixel.jpg"
     },
     {
       "id": "performing_arts_003",
-      "title": "表演艺术 - 图片4",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学不仅弘扬了文化内涵，更传递了生命的意义，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_003.png",
+      "title": "索福克勒斯俄狄浦斯王",
+      "summary": "古希腊悲剧俄狄浦斯王面对命运的场景",
+      "full_text": "古希腊悲剧俄狄浦斯王面对命运的场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "performing_arts_003_4",
         "performing_arts_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_003_pixel.jpg"
     },
     {
       "id": "performing_arts_004",
-      "title": "表演艺术 - 图片5",
-      "summary": "表演艺术相关图片",
-      "full_text": "在艺术的领域里，人类智慧展现得淋漓尽致，每一个瞬间都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_004.png",
+      "title": "欧里庇得斯美狄亚",
+      "summary": "古希腊悲剧美狄亚复仇的戏剧性场景",
+      "full_text": "古希腊悲剧美狄亚复仇的戏剧性场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "performing_arts_004_4",
         "performing_arts_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_004_pixel.jpg"
     },
     {
       "id": "performing_arts_005",
-      "title": "表演艺术 - 图片6",
-      "summary": "表演艺术相关图片",
-      "full_text": "在文化的领域里，自然奇观展现得淋漓尽致，每一个线条都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_005.png",
+      "title": "罗马角斗场戏剧表演",
+      "summary": "古罗马角斗场中模拟海战的戏剧化表演",
+      "full_text": "古罗马角斗场中模拟海战的戏剧化表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "performing_arts_005_4",
         "performing_arts_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_005_pixel.jpg"
     },
     {
       "id": "performing_arts_006",
-      "title": "表演艺术 - 图片7",
-      "summary": "表演艺术相关图片",
-      "full_text": "在自然的领域里，社会发展展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_006.png",
+      "title": "中世纪神秘剧",
+      "summary": "中世纪教堂前演绎圣经故事的宗教戏剧",
+      "full_text": "中世纪教堂前演绎圣经故事的宗教戏剧",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "performing_arts_006_4",
         "performing_arts_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_006_pixel.jpg"
     },
     {
       "id": "performing_arts_007",
-      "title": "表演艺术 - 图片8",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学是时代精神的结晶，它启迪着美好的愿景，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_007.png",
+      "title": "日本能剧舞台",
+      "summary": "日本能剧以松树背景的极简木质舞台",
+      "full_text": "日本能剧以松树背景的极简木质舞台",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "performing_arts_007_4",
         "performing_arts_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_007_pixel.jpg"
     },
     {
       "id": "performing_arts_008",
-      "title": "表演艺术 - 图片9",
-      "summary": "表演艺术相关图片",
-      "full_text": "在艺术的领域里，人文景观展现得淋漓尽致，每一个自然元素都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_008.png",
+      "title": "日本能剧面具",
+      "summary": "日本能剧以沉静表情雕刻的木质面具",
+      "full_text": "日本能剧以沉静表情雕刻的木质面具",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "performing_arts_008_4",
         "performing_arts_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_008_pixel.jpg"
     },
     {
       "id": "performing_arts_009",
-      "title": "表演艺术 - 图片10",
-      "summary": "表演艺术相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个光影都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_009.png",
+      "title": "歌舞伎舞台",
+      "summary": "日本歌舞伎以花道延伸的华丽舞台",
+      "full_text": "日本歌舞伎以花道延伸的华丽舞台",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "performing_arts_009_4",
         "performing_arts_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_009_pixel.jpg"
     },
     {
       "id": "performing_arts_010",
-      "title": "表演艺术 - 图片11",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往历史长河的大门，充满了敬畏与审美体验。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_010.png",
+      "title": "歌舞伎脸谱",
+      "summary": "歌舞伎演员以红黑线条绘制的夸张脸谱",
+      "full_text": "歌舞伎演员以红黑线条绘制的夸张脸谱",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "performing_arts_010_4",
         "performing_arts_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_010_pixel.jpg"
     },
     {
       "id": "performing_arts_011",
-      "title": "表演艺术 - 图片12",
-      "summary": "表演艺术相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个光影都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_011.png",
+      "title": "莎士比亚环球剧场",
+      "summary": "伦敦重建的莎士比亚时代圆形木构剧场",
+      "full_text": "伦敦重建的莎士比亚时代圆形木构剧场",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "performing_arts_011_4",
         "performing_arts_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_011_pixel.jpg"
     },
     {
       "id": "performing_arts_012",
-      "title": "表演艺术 - 图片13",
-      "summary": "表演艺术相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_012.png",
+      "title": "哈姆雷特独白",
+      "summary": "哈姆雷特手持骷髅独白的经典戏剧场景",
+      "full_text": "哈姆雷特手持骷髅独白的经典戏剧场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "performing_arts_012_4",
         "performing_arts_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_012_pixel.jpg"
     },
     {
       "id": "performing_arts_013",
-      "title": "表演艺术 - 图片14",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化不仅传递了自然之美，更传递了奋斗的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_013.png",
+      "title": "仲夏夜之梦",
+      "summary": "仲夏夜之梦中仙王仙后的奇幻戏剧场景",
+      "full_text": "仲夏夜之梦中仙王仙后的奇幻戏剧场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "performing_arts_013_4",
         "performing_arts_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_013_pixel.jpg"
     },
     {
       "id": "performing_arts_014",
-      "title": "表演艺术 - 图片15",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往精神家园的大门，充满了激情与情感共鸣。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_014.png",
+      "title": "莫里哀伪君子",
+      "summary": "莫里哀喜剧中伪君子答尔丢夫的讽刺场景",
+      "full_text": "莫里哀喜剧中伪君子答尔丢夫的讽刺场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "performing_arts_014_4",
         "performing_arts_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_014_pixel.jpg"
     },
     {
       "id": "performing_arts_015",
-      "title": "表演艺术 - 图片16",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学不仅记录了生命意义，更传递了智慧的光芒，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_015.png",
+      "title": "京剧生角",
+      "summary": "京剧生角以唱念做打表演的舞台形象",
+      "full_text": "京剧生角以唱念做打表演的舞台形象",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "performing_arts_015_4",
         "performing_arts_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_015_pixel.jpg"
     },
     {
       "id": "performing_arts_016",
-      "title": "表演艺术 - 图片17",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术是自然造化的结晶，它表达着美好的愿景，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_016.png",
+      "title": "京剧旦角",
+      "summary": "京剧旦角以水袖与唱腔表演的女性角色",
+      "full_text": "京剧旦角以水袖与唱腔表演的女性角色",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "performing_arts_016_4",
         "performing_arts_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_016_pixel.jpg"
     },
     {
       "id": "performing_arts_017",
-      "title": "表演艺术 - 图片18",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它丰富地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_017.png",
+      "title": "京剧脸谱",
+      "summary": "京剧以色彩与图案象征人物性格的脸谱",
+      "full_text": "京剧以色彩与图案象征人物性格的脸谱",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "performing_arts_017_4",
         "performing_arts_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_017_pixel.jpg"
     },
     {
       "id": "performing_arts_018",
-      "title": "表演艺术 - 图片19",
-      "summary": "表演艺术相关图片",
-      "full_text": "在自然的领域里，生态保护展现得淋漓尽致，每一个文化符号都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_018.png",
+      "title": "昆曲牡丹亭",
+      "summary": "昆曲牡丹亭杜丽娘游园惊梦的唯美场景",
+      "full_text": "昆曲牡丹亭杜丽娘游园惊梦的唯美场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "performing_arts_018_4",
         "performing_arts_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_018_pixel.jpg"
     },
     {
       "id": "performing_arts_019",
-      "title": "表演艺术 - 图片20",
-      "summary": "表演艺术相关图片",
-      "full_text": "在科学的领域里，文化传承展现得淋漓尽致，每一个细节都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_019.png",
+      "title": "川剧变脸",
+      "summary": "川剧演员以瞬间变换脸谱的特技表演",
+      "full_text": "川剧演员以瞬间变换脸谱的特技表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "performing_arts_019_4",
         "performing_arts_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_019_pixel.jpg"
     },
     {
       "id": "performing_arts_020",
-      "title": "表演艺术 - 图片21",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它质朴地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_020.png",
+      "title": "皇家芭蕾舞剧院",
+      "summary": "巴黎皇家芭蕾舞剧院的古典演出场景",
+      "full_text": "巴黎皇家芭蕾舞剧院的古典演出场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "performing_arts_020_4",
         "performing_arts_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_020_pixel.jpg"
     },
     {
       "id": "performing_arts_021",
-      "title": "表演艺术 - 图片22",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化是艺术创造的结晶，它创造着美好的愿景，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_021.png",
+      "title": "天鹅湖芭蕾",
+      "summary": "天鹅湖中白天鹅独舞的古典芭蕾经典场景",
+      "full_text": "天鹅湖中白天鹅独舞的古典芭蕾经典场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "performing_arts_021_4",
         "performing_arts_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_021_pixel.jpg"
     },
     {
       "id": "performing_arts_022",
-      "title": "表演艺术 - 图片23",
-      "summary": "表演艺术相关图片",
-      "full_text": "在自然的领域里，艺术创造展现得淋漓尽致，每一个历史印记都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_022.png",
+      "title": "胡桃夹子芭蕾",
+      "summary": "胡桃夹子中糖果仙子之舞的圣诞芭蕾",
+      "full_text": "胡桃夹子中糖果仙子之舞的圣诞芭蕾",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "performing_arts_022_4",
         "performing_arts_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_022_pixel.jpg"
     },
     {
       "id": "performing_arts_023",
-      "title": "表演艺术 - 图片24",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学是思想升华的结晶，它启迪着人文的关怀，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_023.png",
+      "title": "吉赛尔芭蕾",
+      "summary": "吉赛尔中女鬼群舞的浪漫芭蕾经典场景",
+      "full_text": "吉赛尔中女鬼群舞的浪漫芭蕾经典场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "performing_arts_023_4",
         "performing_arts_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_023_pixel.jpg"
     },
     {
       "id": "performing_arts_024",
-      "title": "表演艺术 - 图片25",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术不仅表达了自然之美，更传递了真善美的追求，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_024.png",
+      "title": "睡美人芭蕾",
+      "summary": "睡美人中玫瑰慢板的古典芭蕾双人舞",
+      "full_text": "睡美人中玫瑰慢板的古典芭蕾双人舞",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "performing_arts_024_4",
         "performing_arts_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_024_pixel.jpg"
     },
     {
       "id": "performing_arts_025",
-      "title": "表演艺术 - 图片26",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化不仅诠释了美好瞬间，更传递了人与自然的和谐，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_025.png",
+      "title": "邓肯自由舞蹈",
+      "summary": "邓肯赤足以自由动作表达情感的现代舞先驱",
+      "full_text": "邓肯赤足以自由动作表达情感的现代舞先驱",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "performing_arts_025_4",
         "performing_arts_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_025_pixel.jpg"
     },
     {
       "id": "performing_arts_026",
-      "title": "表演艺术 - 图片27",
-      "summary": "表演艺术相关图片",
-      "full_text": "自然是人类智慧的结晶，它传递着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_026.png",
+      "title": "玛莎葛兰姆收缩与释放",
+      "summary": "葛兰姆以收缩释放技术表达的现代舞",
+      "full_text": "葛兰姆以收缩释放技术表达的现代舞",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "performing_arts_026_4",
         "performing_arts_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_026_pixel.jpg"
     },
     {
       "id": "performing_arts_027",
-      "title": "表演艺术 - 图片28",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往神秘国度的大门，充满了愉悦与视觉享受。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_027.png",
+      "title": "坎宁安机遇舞蹈",
+      "summary": "坎宁安以随机概率编排的后现代舞蹈",
+      "full_text": "坎宁安以随机概率编排的后现代舞蹈",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "performing_arts_027_4",
         "performing_arts_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_027_pixel.jpg"
     },
     {
       "id": "performing_arts_028",
-      "title": "表演艺术 - 图片29",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术是生活体验的结晶，它表达着创新的理念，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_028.png",
+      "title": "皮娜鲍什舞蹈剧场",
+      "summary": "鲍什以真实情感与日常动作的舞蹈剧场",
+      "full_text": "鲍什以真实情感与日常动作的舞蹈剧场",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "performing_arts_028_4",
         "performing_arts_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_028_pixel.jpg"
     },
     {
       "id": "performing_arts_029",
-      "title": "表演艺术 - 图片30",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它生动地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_029.png",
+      "title": "踢踏舞",
+      "summary": "以金属鞋底击打地板节奏的踢踏舞表演",
+      "full_text": "以金属鞋底击打地板节奏的踢踏舞表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "performing_arts_029_4",
         "performing_arts_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_029_pixel.jpg"
     },
     {
       "id": "performing_arts_030",
-      "title": "表演艺术 - 图片31",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往历史长河的大门，充满了惊叹与精神升华。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_030.png",
+      "title": "探戈舞",
+      "summary": "阿根廷以即兴交叉步与深情对视的探戈双人舞",
+      "full_text": "阿根廷以即兴交叉步与深情对视的探戈双人舞",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "performing_arts_030_4",
         "performing_arts_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_030_pixel.jpg"
     },
     {
       "id": "performing_arts_031",
-      "title": "表演艺术 - 图片32",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学是人类智慧的结晶，它创造着永恒的真理，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_031.png",
+      "title": "弗拉门戈舞",
+      "summary": "西班牙以跺脚甩裙与吉他伴奏的弗拉门戈",
+      "full_text": "西班牙以跺脚甩裙与吉他伴奏的弗拉门戈",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "performing_arts_031_4",
         "performing_arts_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_031_pixel.jpg"
     },
     {
       "id": "performing_arts_032",
-      "title": "表演艺术 - 图片33",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往历史长河的大门，充满了敬畏与思想启迪。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_032.png",
+      "title": "印度婆罗多舞",
+      "summary": "印度以手印与面部表情叙事的古典舞蹈",
+      "full_text": "印度以手印与面部表情叙事的古典舞蹈",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "performing_arts_032_4",
         "performing_arts_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_032_pixel.jpg"
     },
     {
       "id": "performing_arts_033",
-      "title": "表演艺术 - 图片34",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它庄重地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_033.png",
+      "title": "日本歌舞伎舞蹈",
+      "summary": "歌舞伎中以扇子与衣袖的程式化舞蹈",
+      "full_text": "歌舞伎中以扇子与衣袖的程式化舞蹈",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "performing_arts_033_4",
         "performing_arts_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_033_pixel.jpg"
     },
     {
       "id": "performing_arts_034",
-      "title": "表演艺术 - 图片35",
-      "summary": "表演艺术相关图片",
-      "full_text": "自然是自然造化的结晶，它启迪着科学的精神，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_034.png",
+      "title": "中国古典舞水袖",
+      "summary": "中国古典舞以长袖飘逸的抒情舞蹈",
+      "full_text": "中国古典舞以长袖飘逸的抒情舞蹈",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "performing_arts_034_4",
         "performing_arts_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_034_pixel.jpg"
     },
     {
       "id": "performing_arts_035",
-      "title": "表演艺术 - 图片36",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学是艺术创造的结晶，它激励着美好的愿景，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_035.png",
+      "title": "芭蕾舞足尖鞋",
+      "summary": "芭蕾舞者以足尖鞋立起脚尖的技巧",
+      "full_text": "芭蕾舞者以足尖鞋立起脚尖的技巧",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "performing_arts_035_4",
         "performing_arts_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_035_pixel.jpg"
     },
     {
       "id": "performing_arts_036",
-      "title": "表演艺术 - 图片37",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术不仅创造了时代精神，更传递了创新的精神，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_036.png",
+      "title": "街舞霹雳舞",
+      "summary": "街舞以头转风车等高难度动作的霹雳舞",
+      "full_text": "街舞以头转风车等高难度动作的霹雳舞",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "performing_arts_036_4",
         "performing_arts_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_036_pixel.jpg"
     },
     {
       "id": "performing_arts_037",
-      "title": "表演艺术 - 图片38",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它清新地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_037.png",
+      "title": "肚皮舞",
+      "summary": "中东以腹部抖动与蛇形手臂的肚皮舞表演",
+      "full_text": "中东以腹部抖动与蛇形手臂的肚皮舞表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "performing_arts_037_4",
         "performing_arts_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_037_pixel.jpg"
     },
     {
       "id": "performing_arts_038",
-      "title": "表演艺术 - 图片39",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往智慧天地的大门，充满了好奇与艺术熏陶。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_038.png",
+      "title": "草裙舞",
+      "summary": "夏威夷以手势与摇摆臀部的波利尼西亚舞蹈",
+      "full_text": "夏威夷以手势与摇摆臀部的波利尼西亚舞蹈",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "performing_arts_038_4",
         "performing_arts_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_038_pixel.jpg"
     },
     {
       "id": "performing_arts_039",
-      "title": "表演艺术 - 图片40",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学不仅描绘了时代精神，更传递了美的真谛，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_039.png",
+      "title": "狮子舞",
+      "summary": "中国传统以两人配合表演的喜庆狮子舞",
+      "full_text": "中国传统以两人配合表演的喜庆狮子舞",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "performing_arts_039_4",
         "performing_arts_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_039_pixel.jpg"
     },
     {
       "id": "performing_arts_040",
-      "title": "表演艺术 - 图片41",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术不仅传承了文化内涵，更传递了生命的意义，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_040.png",
+      "title": "维也纳金色大厅",
+      "summary": "维也纳爱乐乐团在金色大厅演奏的新年音乐会",
+      "full_text": "维也纳爱乐乐团在金色大厅演奏的新年音乐会",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "performing_arts_040_4",
         "performing_arts_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_040_pixel.jpg"
     },
     {
       "id": "performing_arts_041",
-      "title": "表演艺术 - 图片42",
-      "summary": "表演艺术相关图片",
-      "full_text": "在文化的领域里，文化传承展现得淋漓尽致，每一个自然元素都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_041.png",
+      "title": "贝多芬第九交响曲",
+      "summary": "交响乐团与合唱团演出欢乐颂的壮观场景",
+      "full_text": "交响乐团与合唱团演出欢乐颂的壮观场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "performing_arts_041_4",
         "performing_arts_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_041_pixel.jpg"
     },
     {
       "id": "performing_arts_042",
-      "title": "表演艺术 - 图片43",
-      "summary": "表演艺术相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个线条都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_042.png",
+      "title": "卡拉扬指挥",
+      "summary": "卡拉扬以闭目手势指挥柏林爱乐的演出场景",
+      "full_text": "卡拉扬以闭目手势指挥柏林爱乐的演出场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "performing_arts_042_4",
         "performing_arts_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_042_pixel.jpg"
     },
     {
       "id": "performing_arts_043",
-      "title": "表演艺术 - 图片44",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往知识海洋的大门，充满了沉思与情感共鸣。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_043.png",
+      "title": "帕格尼尼小提琴独奏",
+      "summary": "帕格尼尼以超凡技巧演奏小提琴的表演",
+      "full_text": "帕格尼尼以超凡技巧演奏小提琴的表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "performing_arts_043_4",
         "performing_arts_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_043_pixel.jpg"
     },
     {
       "id": "performing_arts_044",
-      "title": "表演艺术 - 图片45",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术不仅揭示了文化内涵，更传递了人与自然的和谐，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_044.png",
+      "title": "斯特拉迪瓦里小提琴",
+      "summary": "以斯特拉迪瓦里名琴演奏的珍贵乐器",
+      "full_text": "以斯特拉迪瓦里名琴演奏的珍贵乐器",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "performing_arts_044_4",
         "performing_arts_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_044_pixel.jpg"
     },
     {
       "id": "performing_arts_045",
-      "title": "表演艺术 - 图片46",
-      "summary": "表演艺术相关图片",
-      "full_text": "在文化的领域里，科技进步展现得淋漓尽致，每一个自然元素都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_045.png",
+      "title": "大都会歌剧院",
+      "summary": "纽约大都会歌剧院演出歌剧的华丽舞台",
+      "full_text": "纽约大都会歌剧院演出歌剧的华丽舞台",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "performing_arts_045_4",
         "performing_arts_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_045_pixel.jpg"
     },
     {
       "id": "performing_arts_046",
-      "title": "表演艺术 - 图片47",
-      "summary": "表演艺术相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_046.png",
+      "title": "图兰朵歌剧",
+      "summary": "普契尼歌剧图兰朵中今夜无人入睡的场景",
+      "full_text": "普契尼歌剧图兰朵中今夜无人入睡的场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "performing_arts_046_4",
         "performing_arts_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_046_pixel.jpg"
     },
     {
       "id": "performing_arts_047",
-      "title": "表演艺术 - 图片48",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它清新地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_047.png",
+      "title": "卡门歌剧",
+      "summary": "比才歌剧卡门中哈巴涅拉舞曲的表演场景",
+      "full_text": "比才歌剧卡门中哈巴涅拉舞曲的表演场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "performing_arts_047_4",
         "performing_arts_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_047_pixel.jpg"
     },
     {
       "id": "performing_arts_048",
-      "title": "表演艺术 - 图片49",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往灵感源泉的大门，充满了沉醉与艺术熏陶。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_048.png",
+      "title": "中国民乐合奏",
+      "summary": "中国传统乐器合奏的民乐表演场景",
+      "full_text": "中国传统乐器合奏的民乐表演场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "performing_arts_048_4",
         "performing_arts_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_048_pixel.jpg"
     },
     {
       "id": "performing_arts_049",
-      "title": "表演艺术 - 图片50",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它灵动地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_049.png",
+      "title": "古琴独奏",
+      "summary": "古琴以泛音与按音演奏的文人音乐",
+      "full_text": "古琴以泛音与按音演奏的文人音乐",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "performing_arts_049_4",
         "performing_arts_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_049_pixel.jpg"
     },
     {
       "id": "performing_arts_050",
-      "title": "表演艺术 - 图片51",
-      "summary": "表演艺术相关图片",
-      "full_text": "在自然的领域里，艺术创造展现得淋漓尽致，每一个思想都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_050.png",
+      "title": "非洲鼓乐",
+      "summary": "非洲以金贝鼓群奏的节奏音乐表演",
+      "full_text": "非洲以金贝鼓群奏的节奏音乐表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "performing_arts_050_4",
         "performing_arts_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_050_pixel.jpg"
     },
     {
       "id": "performing_arts_051",
-      "title": "表演艺术 - 图片52",
-      "summary": "表演艺术相关图片",
-      "full_text": "在科学的领域里，社会发展展现得淋漓尽致，每一个历史印记都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_051.png",
+      "title": "爵士乐即兴演奏",
+      "summary": "爵士乐手以即兴独奏表演的小型现场",
+      "full_text": "爵士乐手以即兴独奏表演的小型现场",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "performing_arts_051_4",
         "performing_arts_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_051_pixel.jpg"
     },
     {
       "id": "performing_arts_052",
-      "title": "表演艺术 - 图片53",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它精彩地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_052.png",
+      "title": "摇滚演唱会",
+      "summary": "摇滚乐队在大型体育场演出的震撼现场",
+      "full_text": "摇滚乐队在大型体育场演出的震撼现场",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "performing_arts_052_4",
         "performing_arts_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_052_pixel.jpg"
     },
     {
       "id": "performing_arts_053",
-      "title": "表演艺术 - 图片54",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它灵动地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_053.png",
+      "title": "电子音乐DJ表演",
+      "summary": "DJ以混音台与灯光效果的电子音乐现场",
+      "full_text": "DJ以混音台与灯光效果的电子音乐现场",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "performing_arts_053_4",
         "performing_arts_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_053_pixel.jpg"
     },
     {
       "id": "performing_arts_054",
-      "title": "表演艺术 - 图片55",
-      "summary": "表演艺术相关图片",
-      "full_text": "自然是思想升华的结晶，它记录着美好的愿景，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_054.png",
+      "title": "交响乐团全景",
+      "summary": "交响乐团各声部在指挥下合奏的全景场面",
+      "full_text": "交响乐团各声部在指挥下合奏的全景场面",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "performing_arts_054_4",
         "performing_arts_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_054_pixel.jpg"
     },
     {
       "id": "performing_arts_055",
-      "title": "表演艺术 - 图片56",
-      "summary": "表演艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往知识海洋的大门，充满了敬畏与艺术熏陶。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_055.png",
+      "title": "卓别林摩登时代",
+      "summary": "卓别林在摩登时代中被齿轮卷入的喜剧场景",
+      "full_text": "卓别林在摩登时代中被齿轮卷入的喜剧场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "performing_arts_055_4",
         "performing_arts_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_055_pixel.jpg"
     },
     {
       "id": "performing_arts_056",
-      "title": "表演艺术 - 图片57",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术是时代精神的结晶，它激励着永恒的真理，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_056.png",
+      "title": "卓别林淘金记",
+      "summary": "卓别林在淘金记中吃皮鞋的经典喜剧",
+      "full_text": "卓别林在淘金记中吃皮鞋的经典喜剧",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "performing_arts_056_4",
         "performing_arts_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_056_pixel.jpg"
     },
     {
       "id": "performing_arts_057",
-      "title": "表演艺术 - 图片58",
-      "summary": "表演艺术相关图片",
-      "full_text": "在文化的领域里，人类智慧展现得淋漓尽致，每一个历史印记都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_057.png",
+      "title": "基顿默片特技",
+      "summary": "基顿以面无表情完成危险特技的默片表演",
+      "full_text": "基顿以面无表情完成危险特技的默片表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "performing_arts_057_4",
         "performing_arts_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_057_pixel.jpg"
     },
     {
       "id": "performing_arts_058",
-      "title": "表演艺术 - 图片59",
-      "summary": "表演艺术相关图片",
-      "full_text": "自然不仅表达了自然之美，更传递了梦想的价值，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_058.png",
+      "title": "费雯丽乱世佳人",
+      "summary": "费雯丽饰演斯嘉丽在乱世中的经典银幕形象",
+      "full_text": "费雯丽饰演斯嘉丽在乱世中的经典银幕形象",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "performing_arts_058_4",
         "performing_arts_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_058_pixel.jpg"
     },
     {
       "id": "performing_arts_059",
-      "title": "表演艺术 - 图片60",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它生动地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_059.png",
+      "title": "白兰度教父",
+      "summary": "白兰度饰演教父柯里昂的标志性银幕形象",
+      "full_text": "白兰度饰演教父柯里昂的标志性银幕形象",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "performing_arts_059_4",
         "performing_arts_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_059_pixel.jpg"
     },
     {
       "id": "performing_arts_060",
-      "title": "表演艺术 - 图片61",
-      "summary": "表演艺术相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个自然元素都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_060.png",
+      "title": "赫本罗马假日",
+      "summary": "赫本饰演公主在罗马街头的优雅银幕形象",
+      "full_text": "赫本饰演公主在罗马街头的优雅银幕形象",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "performing_arts_060_4",
         "performing_arts_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_060_pixel.jpg"
     },
     {
       "id": "performing_arts_061",
-      "title": "表演艺术 - 图片62",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化不仅表达了历史记忆，更传递了创新的精神，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_061.png",
+      "title": "好莱坞黄金时代片场",
+      "summary": "1930年代好莱坞大型摄影棚内的拍摄场景",
+      "full_text": "1930年代好莱坞大型摄影棚内的拍摄场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "performing_arts_061_4",
         "performing_arts_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_061_pixel.jpg"
     },
     {
       "id": "performing_arts_062",
-      "title": "表演艺术 - 图片63",
-      "summary": "表演艺术相关图片",
-      "full_text": "自然不仅展现了时代精神，更传递了人与自然的和谐，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_062.png",
+      "title": "方法派表演",
+      "summary": "斯坦尼斯拉夫斯基方法派演员的沉浸式表演",
+      "full_text": "斯坦尼斯拉夫斯基方法派演员的沉浸式表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "performing_arts_062_4",
         "performing_arts_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_062_pixel.jpg"
     },
     {
       "id": "performing_arts_063",
-      "title": "表演艺术 - 图片64",
-      "summary": "表演艺术相关图片",
-      "full_text": "在科学的领域里，历史变迁展现得淋漓尽致，每一个细节都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_063.png",
+      "title": "宝莱坞歌舞场面",
+      "summary": "印度宝莱坞以大规模歌舞编排的电影场景",
+      "full_text": "印度宝莱坞以大规模歌舞编排的电影场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "performing_arts_063_4",
         "performing_arts_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_063_pixel.jpg"
     },
     {
       "id": "performing_arts_064",
-      "title": "表演艺术 - 图片65",
-      "summary": "表演艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它优雅地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_064.png",
+      "title": "中国功夫电影",
+      "summary": "中国功夫片以武术动作设计的打斗场面",
+      "full_text": "中国功夫片以武术动作设计的打斗场面",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "performing_arts_064_4",
         "performing_arts_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_064_pixel.jpg"
     },
     {
       "id": "performing_arts_065",
-      "title": "表演艺术 - 图片66",
-      "summary": "表演艺术相关图片",
-      "full_text": "在文化的领域里，自然奇观展现得淋漓尽致，每一个思想都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_065.png",
+      "title": "日本武士电影",
+      "summary": "日本时代剧中武士对决的剑戟场面",
+      "full_text": "日本时代剧中武士对决的剑戟场面",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "performing_arts_065_4",
         "performing_arts_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_065_pixel.jpg"
     },
     {
       "id": "performing_arts_066",
-      "title": "表演艺术 - 图片67",
-      "summary": "表演艺术相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它自然地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_066.png",
+      "title": "意大利新现实主义",
+      "summary": "意大利新现实主义以非职业演员街头拍摄的场景",
+      "full_text": "意大利新现实主义以非职业演员街头拍摄的场景",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "performing_arts_066_4",
         "performing_arts_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_066_pixel.jpg"
     },
     {
       "id": "performing_arts_067",
-      "title": "表演艺术 - 图片68",
-      "summary": "表演艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它神秘地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_067.png",
+      "title": "法国新浪潮表演",
+      "summary": "法国新浪潮以自然即兴风格的电影表演",
+      "full_text": "法国新浪潮以自然即兴风格的电影表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "performing_arts_067_4",
         "performing_arts_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_067_pixel.jpg"
     },
     {
       "id": "performing_arts_068",
-      "title": "表演艺术 - 图片69",
-      "summary": "表演艺术相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个线条都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_068.png",
+      "title": "绿幕特效表演",
+      "summary": "演员在绿幕前以想象配合特效的表演",
+      "full_text": "演员在绿幕前以想象配合特效的表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "performing_arts_068_4",
         "performing_arts_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_068_pixel.jpg"
     },
     {
       "id": "performing_arts_069",
-      "title": "表演艺术 - 图片70",
-      "summary": "表演艺术相关图片",
-      "full_text": "文化不仅描绘了美好瞬间，更传递了生命的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/performing_arts/performing_arts_069.png",
+      "title": "动作捕捉表演",
+      "summary": "演员穿着动捕服以动作捕捉技术的数字表演",
+      "full_text": "演员穿着动捕服以动作捕捉技术的数字表演",
+      "image": "res://assets/images/illustrations/performing_arts/performing_arts_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "performing_arts_069_4",
         "performing_arts_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/performing_arts/performing_arts_069_pixel.jpg"
     }
   ]
 }

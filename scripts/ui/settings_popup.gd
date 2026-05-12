@@ -3,55 +3,25 @@ extends Control
 signal closed
 
 @onready var dim_overlay: ColorRect = $DimOverlay
-@onready var panel: PanelContainer = $PanelContainer
-@onready var title_label: Label = $PanelContainer/MarginContainer/VBoxContainer/TitleLabel
-@onready var bgm_label: Label = $PanelContainer/MarginContainer/VBoxContainer/BGMContainer/BGMLabel
-@onready var bgm_slider: HSlider = $PanelContainer/MarginContainer/VBoxContainer/BGMContainer/BGMSlider
-@onready var bgm_value_label: Label = $PanelContainer/MarginContainer/VBoxContainer/BGMContainer/BGMValueLabel
-@onready var sfx_label: Label = $PanelContainer/MarginContainer/VBoxContainer/SFXContainer/SFXLabel
-@onready var sfx_slider: HSlider = $PanelContainer/MarginContainer/VBoxContainer/SFXContainer/SFXSlider
-@onready var sfx_value_label: Label = $PanelContainer/MarginContainer/VBoxContainer/SFXContainer/SFXValueLabel
-@onready var language_option: OptionButton = $PanelContainer/MarginContainer/VBoxContainer/LanguageContainer/LanguageOptionButton
-@onready var language_label: Label = $PanelContainer/MarginContainer/VBoxContainer/LanguageContainer/LanguageLabel
-@onready var close_button: Button = $PanelContainer/MarginContainer/VBoxContainer/ButtonContainer/CloseButton
+@onready var panel: Panel = $PanelContainer
+@onready var title_label: Label = $PanelContainer/TitleLabel
+@onready var bgm_label: Label = $PanelContainer/VBoxContainer/BGMContainer/BGMLabel
+@onready var bgm_slider: HSlider = $PanelContainer/VBoxContainer/BGMContainer/BGMSlider
+@onready var bgm_value_label: Label = $PanelContainer/VBoxContainer/BGMContainer/BGMValueLabel
+@onready var sfx_label: Label = $PanelContainer/VBoxContainer/SFXContainer/SFXLabel
+@onready var sfx_slider: HSlider = $PanelContainer/VBoxContainer/SFXContainer/SFXSlider
+@onready var sfx_value_label: Label = $PanelContainer/VBoxContainer/SFXContainer/SFXValueLabel
+@onready var language_option: OptionButton = $PanelContainer/VBoxContainer/LanguageContainer/LanguageOptionButton
+@onready var language_label: Label = $PanelContainer/VBoxContainer/LanguageContainer/LanguageLabel
 
 func _ready() -> void:
 	visible = false
 	bgm_slider.value = AudioManager.bgm_volume * 100.0
 	sfx_slider.value = AudioManager.sfx_volume * 100.0
 	_update_value_labels()
-	bgm_slider.value_changed.connect(_on_bgm_value_changed)
-	sfx_slider.value_changed.connect(_on_sfx_value_changed)
-	close_button.pressed.connect(_on_close_pressed)
 	dim_overlay.gui_input.connect(_on_dim_overlay_input)
 	AudioManager.bgm_volume_changed.connect(_on_bgm_volume_changed)
 	AudioManager.sfx_volume_changed.connect(_on_sfx_volume_changed)
-	language_option.item_selected.connect(_on_language_selected)
-	_update_language()
-
-func _update_language() -> void:
-	match GameManager.current_language:
-		GameManager.Language.CHINESE:
-			title_label.text = "设置"
-			bgm_label.text = "音乐"
-			sfx_label.text = "音效"
-			language_label.text = "语言"
-			close_button.text = "关闭"
-			_update_language_option_items(true)
-		_:
-			title_label.text = "Settings"
-			bgm_label.text = "Music"
-			sfx_label.text = "SFX"
-			language_label.text = "Language"
-			close_button.text = "Close"
-			_update_language_option_items(false)
-	language_option.selected = GameManager.current_language
-
-func _update_language_option_items(is_chinese: bool) -> void:
-	language_option.clear()
-	language_option.add_item("简体中文" if is_chinese else "Simplified Chinese", GameManager.Language.CHINESE)
-	language_option.add_item("English" if is_chinese else "English", GameManager.Language.ENGLISH)
-	language_option.selected = GameManager.current_language
 
 func _update_value_labels() -> void:
 	if bgm_value_label:
@@ -65,7 +35,6 @@ func show_settings() -> void:
 	bgm_slider.value = AudioManager.bgm_volume * 100.0
 	sfx_slider.value = AudioManager.sfx_volume * 100.0
 	_update_value_labels()
-	_update_language()
 	visible = true
 	panel.scale = Vector2(0.8, 0.8)
 	panel.modulate.a = 0.0
@@ -118,7 +87,6 @@ func _on_language_selected(index: int) -> void:
 		GameManager.current_language = new_language
 		GameManager.language_changed.emit(new_language)
 		GameManager.save_game()
-		_update_language()
 		AudioManager.play_sfx("click")
 
 func _on_close_pressed() -> void:

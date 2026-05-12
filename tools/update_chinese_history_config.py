@@ -22,7 +22,7 @@ for picture in data["pictures"]:
     for mapping in chapter1_mapping:
         if picture["id"] == mapping["old_id"]:
             old_image = picture["image"]
-            picture["image"] = f"res://assets/images/illustrations/chinese_history/{mapping['new_prefix']}.png"
+            picture["image"] = f"res://assets/images/illustrations/chinese_history/{mapping['new_prefix']}.jpg"
             
             old_puzzles = picture["puzzles"]
             picture["puzzles"] = [f"{mapping['new_prefix']}_{i}" for i in range(6)]

@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "european_civilization_000",
-      "title": "欧洲文明史 - 图片1",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术不仅创造了人类文明，更传递了美的真谛，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_000.png",
+      "title": "克里特岛宫殿",
+      "summary": "米诺斯人在克诺索斯建造迷宫式宫殿，壁画上描绘跳牛仪式",
+      "full_text": "米诺斯人在克诺索斯建造迷宫式宫殿，壁画上描绘跳牛仪式",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "european_civilization_000_4",
         "european_civilization_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_000_pixel.jpg"
     },
     {
       "id": "european_civilization_001",
-      "title": "欧洲文明史 - 图片2",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美好家园的大门，充满了憧憬与美好感受。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_001.png",
+      "title": "迈锡尼狮子门",
+      "summary": "迈锡尼人在城门上方雕刻双狮柱纹，厚重的独石巨梁横亘门楣",
+      "full_text": "迈锡尼人在城门上方雕刻双狮柱纹，厚重的独石巨梁横亘门楣",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "european_civilization_001_4",
         "european_civilization_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_001_pixel.jpg"
     },
     {
       "id": "european_civilization_002",
-      "title": "欧洲文明史 - 图片3",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然不仅表达了生活哲理，更传递了奋斗的意义，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_002.png",
+      "title": "特洛伊城墙",
+      "summary": "特洛伊城巍峨石墙矗立于小丘之上，俯瞰达达尼尔海峡",
+      "full_text": "特洛伊城巍峨石墙矗立于小丘之上，俯瞰达达尼尔海峡",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "european_civilization_002_4",
         "european_civilization_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_002_pixel.jpg"
     },
     {
       "id": "european_civilization_003",
-      "title": "欧洲文明史 - 图片4",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往知识海洋的大门，充满了宁静与美好感受。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_003.png",
+      "title": "米诺斯海上贸易",
+      "summary": "米诺斯桨帆船穿梭于爱琴海诸岛，陶罐中盛满橄榄油与葡萄酒",
+      "full_text": "米诺斯桨帆船穿梭于爱琴海诸岛，陶罐中盛满橄榄油与葡萄酒",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "european_civilization_003_4",
         "european_civilization_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_003_pixel.jpg"
     },
     {
       "id": "european_civilization_004",
-      "title": "欧洲文明史 - 图片5",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在艺术的领域里，科学发现展现得淋漓尽致，每一个情感都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_004.png",
+      "title": "迈锡尼武士墓葬",
+      "summary": "迈锡尼贵族身披金面具入葬，墓中陪葬青铜剑与金杯",
+      "full_text": "迈锡尼贵族身披金面具入葬，墓中陪葬青铜剑与金杯",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "european_civilization_004_4",
         "european_civilization_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_004_pixel.jpg"
     },
     {
       "id": "european_civilization_005",
-      "title": "欧洲文明史 - 图片6",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往知识海洋的大门，充满了震撼与视觉享受。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_005.png",
+      "title": "线形文字B泥板",
+      "summary": "迈锡尼书吏在泥板上记录宫殿库存，线形文字B记载物资清单",
+      "full_text": "迈锡尼书吏在泥板上记录宫殿库存，线形文字B记载物资清单",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "european_civilization_005_4",
         "european_civilization_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_005_pixel.jpg"
     },
     {
       "id": "european_civilization_006",
-      "title": "欧洲文明史 - 图片7",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往知识海洋的大门，充满了怀念与美好感受。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_006.png",
+      "title": "爱琴海壁画艺术",
+      "summary": "米诺斯画师在宫殿墙壁绘制海豚与百合花，蓝色调洋溢海洋气息",
+      "full_text": "米诺斯画师在宫殿墙壁绘制海豚与百合花，蓝色调洋溢海洋气息",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "european_civilization_006_4",
         "european_civilization_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_006_pixel.jpg"
     },
     {
       "id": "european_civilization_007",
-      "title": "欧洲文明史 - 图片8",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它奇妙地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_007.png",
+      "title": "早期希腊村落",
+      "summary": "希腊半岛先民在山丘上建石屋聚居，橄榄树与葡萄园环绕村庄",
+      "full_text": "希腊半岛先民在山丘上建石屋聚居，橄榄树与葡萄园环绕村庄",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "european_civilization_007_4",
         "european_civilization_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_007_pixel.jpg"
     },
     {
       "id": "european_civilization_008",
-      "title": "欧洲文明史 - 图片9",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术是艺术创造的结晶，它记录着永恒的真理，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_008.png",
+      "title": "色雷斯金器工艺",
+      "summary": "色雷斯工匠锻造黄金酒杯与面具，纹饰精美展现金属技艺",
+      "full_text": "色雷斯工匠锻造黄金酒杯与面具，纹饰精美展现金属技艺",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "european_civilization_008_4",
         "european_civilization_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_008_pixel.jpg"
     },
     {
       "id": "european_civilization_009",
-      "title": "欧洲文明史 - 图片10",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "文化不仅探索了自然之美，更传递了情感的力量，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_009.png",
+      "title": "伊特鲁里亚城邦",
+      "summary": "伊特鲁里亚人在意大利中部建城，拱门技术引领罗马建筑先声",
+      "full_text": "伊特鲁里亚人在意大利中部建城，拱门技术引领罗马建筑先声",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "european_civilization_009_4",
         "european_civilization_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_009_pixel.jpg"
     },
     {
       "id": "european_civilization_010",
-      "title": "欧洲文明史 - 图片11",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_010.png",
+      "title": "基克拉迪大理石像",
+      "summary": "基克拉迪工匠打磨白色大理石人像，简洁线条勾勒十字形面容",
+      "full_text": "基克拉迪工匠打磨白色大理石人像，简洁线条勾勒十字形面容",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "european_civilization_010_4",
         "european_civilization_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_010_pixel.jpg"
     },
     {
       "id": "european_civilization_011",
-      "title": "欧洲文明史 - 图片12",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它神秘地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_011.png",
+      "title": "迈锡尼战车浮雕",
+      "summary": "迈锡尼战士驾驶双马战车冲锋，青铜矛尖在阳光下闪烁",
+      "full_text": "迈锡尼战士驾驶双马战车冲锋，青铜矛尖在阳光下闪烁",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "european_civilization_011_4",
         "european_civilization_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_011_pixel.jpg"
     },
     {
       "id": "european_civilization_012",
-      "title": "欧洲文明史 - 图片13",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个思想都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_012.png",
+      "title": "米诺斯宗教仪式",
+      "summary": "米诺斯女祭司在庭院中持蛇主持仪式，双斧符号标记圣所",
+      "full_text": "米诺斯女祭司在庭院中持蛇主持仪式，双斧符号标记圣所",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "european_civilization_012_4",
         "european_civilization_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_012_pixel.jpg"
     },
     {
       "id": "european_civilization_013",
-      "title": "欧洲文明史 - 图片14",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在文化的领域里，人类智慧展现得淋漓尽致，每一个历史印记都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_013.png",
+      "title": "特洛伊战争场景",
+      "summary": "希腊联军围攻特洛伊城，阿喀琉斯拖赫克托耳遗体绕城奔驰",
+      "full_text": "希腊联军围攻特洛伊城，阿喀琉斯拖赫克托耳遗体绕城奔驰",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "european_civilization_013_4",
         "european_civilization_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_013_pixel.jpg"
     },
     {
       "id": "european_civilization_014",
-      "title": "欧洲文明史 - 图片15",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美丽新世界的大门，充满了敬畏与文化浸润。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_014.png",
+      "title": "伊特鲁里亚墓葬壁画",
+      "summary": "伊特鲁里亚墓室中绘制宴饮场景，乐师弹奏里拉琴助兴",
+      "full_text": "伊特鲁里亚墓室中绘制宴饮场景，乐师弹奏里拉琴助兴",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "european_civilization_014_4",
         "european_civilization_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_014_pixel.jpg"
     },
     {
       "id": "european_civilization_015",
-      "title": "欧洲文明史 - 图片16",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精彩地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_015.png",
+      "title": "早期希腊陶器",
+      "summary": "雅典陶工制作几何纹饰陶瓶，回纹与三角纹布满器身",
+      "full_text": "雅典陶工制作几何纹饰陶瓶，回纹与三角纹布满器身",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "european_civilization_015_4",
         "european_civilization_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_015_pixel.jpg"
     },
     {
       "id": "european_civilization_016",
-      "title": "欧洲文明史 - 图片17",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往神秘国度的大门，充满了愉悦与知识启迪。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_016.png",
+      "title": "地中海铜器贸易",
+      "summary": "塞浦路斯铜锭装船运往大陆，铜与锡合铸青铜推动文明进步",
+      "full_text": "塞浦路斯铜锭装船运往大陆，铜与锡合铸青铜推动文明进步",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "european_civilization_016_4",
         "european_civilization_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_016_pixel.jpg"
     },
     {
       "id": "european_civilization_017",
-      "title": "欧洲文明史 - 图片18",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在文化的领域里，生态保护展现得淋漓尽致，每一个历史印记都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_017.png",
+      "title": "米诺斯王座室",
+      "summary": "克诺索斯宫殿中石制王座靠墙安放，格里芬壁画护卫两侧",
+      "full_text": "克诺索斯宫殿中石制王座靠墙安放，格里芬壁画护卫两侧",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "european_civilization_017_4",
         "european_civilization_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_017_pixel.jpg"
     },
     {
       "id": "european_civilization_018",
-      "title": "欧洲文明史 - 图片19",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它细腻地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_018.png",
+      "title": "希腊黑暗时代",
+      "summary": "宫殿废墟间牧人放牧羊群，文字失传文明倒退至村落时代",
+      "full_text": "宫殿废墟间牧人放牧羊群，文字失传文明倒退至村落时代",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "european_civilization_018_4",
         "european_civilization_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_018_pixel.jpg"
     },
     {
       "id": "european_civilization_019",
-      "title": "欧洲文明史 - 图片20",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是审美追求的结晶，它引领着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_019.png",
+      "title": "伊特鲁里亚占卜",
+      "summary": "伊特鲁里亚祭司观察飞鸟与闪电走向，为城邦决策占卜吉凶",
+      "full_text": "伊特鲁里亚祭司观察飞鸟与闪电走向，为城邦决策占卜吉凶",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "european_civilization_019_4",
         "european_civilization_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_019_pixel.jpg"
     },
     {
       "id": "european_civilization_020",
-      "title": "欧洲文明史 - 图片21",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往神秘国度的大门，充满了惊叹与思想启迪。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_020.png",
+      "title": "雅典民主议事",
+      "summary": "雅典公民在帕尼克斯山集会投票，举手表决城邦重大事务",
+      "full_text": "雅典公民在帕尼克斯山集会投票，举手表决城邦重大事务",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "european_civilization_020_4",
         "european_civilization_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_020_pixel.jpg"
     },
     {
       "id": "european_civilization_021",
-      "title": "欧洲文明史 - 图片22",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美好家园的大门，充满了向往与文化浸润。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_021.png",
+      "title": "斯巴达军事训练",
+      "summary": "斯巴达少年在军营中接受严酷体能训练，赤脚奔跑于山野",
+      "full_text": "斯巴达少年在军营中接受严酷体能训练，赤脚奔跑于山野",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "european_civilization_021_4",
         "european_civilization_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_021_pixel.jpg"
     },
     {
       "id": "european_civilization_022",
-      "title": "欧洲文明史 - 图片23",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然不仅展现了文化内涵，更传递了人与自然的和谐，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_022.png",
+      "title": "希腊波斯战争",
+      "summary": "斯巴达三百勇士在温泉关峡谷列阵，长矛方阵阻挡波斯大军",
+      "full_text": "斯巴达三百勇士在温泉关峡谷列阵，长矛方阵阻挡波斯大军",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "european_civilization_022_4",
         "european_civilization_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_022_pixel.jpg"
     },
     {
       "id": "european_civilization_023",
-      "title": "欧洲文明史 - 图片24",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学不仅展现了文化内涵，更传递了真善美的追求，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_023.png",
+      "title": "雅典黄金时代",
+      "summary": "伯里克利在雅典卫城主持帕特农神庙建造，白色大理石柱林立",
+      "full_text": "伯里克利在雅典卫城主持帕特农神庙建造，白色大理石柱林立",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "european_civilization_023_4",
         "european_civilization_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_023_pixel.jpg"
     },
     {
       "id": "european_civilization_024",
-      "title": "欧洲文明史 - 图片25",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术是自然造化的结晶，它启迪着永恒的真理，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_024.png",
+      "title": "苏格拉底论辩",
+      "summary": "苏格拉底在雅典集市中向青年发问，以诘难法探求真理",
+      "full_text": "苏格拉底在雅典集市中向青年发问，以诘难法探求真理",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "european_civilization_024_4",
         "european_civilization_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_024_pixel.jpg"
     },
     {
       "id": "european_civilization_025",
-      "title": "欧洲文明史 - 图片26",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往精神家园的大门，充满了憧憬与审美体验。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_025.png",
+      "title": "柏拉图学园",
+      "summary": "柏拉图在雅典城外创办学园，与弟子在橄榄树下探讨理念论",
+      "full_text": "柏拉图在雅典城外创办学园，与弟子在橄榄树下探讨理念论",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "european_civilization_025_4",
         "european_civilization_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_025_pixel.jpg"
     },
     {
       "id": "european_civilization_026",
-      "title": "欧洲文明史 - 图片27",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然不仅探索了美好瞬间，更传递了情感的力量，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_026.png",
+      "title": "亚历山大东征",
+      "summary": "亚历山大率马其顿方阵横扫波斯帝国，骑兵冲锋势不可挡",
+      "full_text": "亚历山大率马其顿方阵横扫波斯帝国，骑兵冲锋势不可挡",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "european_civilization_026_4",
         "european_civilization_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_026_pixel.jpg"
     },
     {
       "id": "european_civilization_027",
-      "title": "欧洲文明史 - 图片28",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个历史印记都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_027.png",
+      "title": "罗马共和国扩张",
+      "summary": "罗马军团在布匿战争中击败迦太基，战船横行地中海",
+      "full_text": "罗马军团在布匿战争中击败迦太基，战船横行地中海",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "european_civilization_027_4",
         "european_civilization_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_027_pixel.jpg"
     },
     {
       "id": "european_civilization_028",
-      "title": "欧洲文明史 - 图片29",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在艺术的领域里，科学发现展现得淋漓尽致，每一个线条都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_028.png",
+      "title": "罗马竞技场",
+      "summary": "角斗士在圆形竞技场中搏杀，五万观众呐喊助威",
+      "full_text": "角斗士在圆形竞技场中搏杀，五万观众呐喊助威",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "european_civilization_028_4",
         "european_civilization_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_028_pixel.jpg"
     },
     {
       "id": "european_civilization_029",
-      "title": "欧洲文明史 - 图片30",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了喜悦与文化浸润。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_029.png",
+      "title": "凯撒渡卢比孔河",
+      "summary": "凯撒率军渡过卢比孔河向罗马进军，骰子已掷出改变历史",
+      "full_text": "凯撒率军渡过卢比孔河向罗马进军，骰子已掷出改变历史",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "european_civilization_029_4",
         "european_civilization_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_029_pixel.jpg"
     },
     {
       "id": "european_civilization_030",
-      "title": "欧洲文明史 - 图片31",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个线条都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_030.png",
+      "title": "罗马帝国鼎盛",
+      "summary": "图拉真皇帝在罗马广场竖立纪功柱，浮雕螺旋环绕记录征伐",
+      "full_text": "图拉真皇帝在罗马广场竖立纪功柱，浮雕螺旋环绕记录征伐",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "european_civilization_030_4",
         "european_civilization_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_030_pixel.jpg"
     },
     {
       "id": "european_civilization_031",
-      "title": "欧洲文明史 - 图片32",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在科学的领域里，社会发展展现得淋漓尽致，每一个情感都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_031.png",
+      "title": "罗马万神殿",
+      "summary": "万神殿巨大穹顶开圆洞采光，混凝土建筑技术令人叹服",
+      "full_text": "万神殿巨大穹顶开圆洞采光，混凝土建筑技术令人叹服",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "european_civilization_031_4",
         "european_civilization_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_031_pixel.jpg"
     },
     {
       "id": "european_civilization_032",
-      "title": "欧洲文明史 - 图片33",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往创意空间的大门，充满了愉悦与美好感受。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_032.png",
+      "title": "罗马引水渠",
+      "summary": "石砌拱桥引清水穿越山谷注入罗马城，公共浴场水声潺潺",
+      "full_text": "石砌拱桥引清水穿越山谷注入罗马城，公共浴场水声潺潺",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "european_civilization_032_4",
         "european_civilization_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_032_pixel.jpg"
     },
     {
       "id": "european_civilization_033",
-      "title": "欧洲文明史 - 图片34",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在文化的领域里，生态保护展现得淋漓尽致，每一个自然元素都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_033.png",
+      "title": "庞贝城日常",
+      "summary": "庞贝街道两旁店铺与酒馆林立，壁画上描绘市井生活百态",
+      "full_text": "庞贝街道两旁店铺与酒馆林立，壁画上描绘市井生活百态",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "european_civilization_033_4",
         "european_civilization_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_033_pixel.jpg"
     },
     {
       "id": "european_civilization_034",
-      "title": "欧洲文明史 - 图片35",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在自然的领域里，科技进步展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_034.png",
+      "title": "希腊戏剧演出",
+      "summary": "演员戴面具在露天剧场演出悲剧，半圆阶梯座席座无虚席",
+      "full_text": "演员戴面具在露天剧场演出悲剧，半圆阶梯座席座无虚席",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "european_civilization_034_4",
         "european_civilization_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_034_pixel.jpg"
     },
     {
       "id": "european_civilization_035",
-      "title": "欧洲文明史 - 图片36",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它自然地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_035.png",
+      "title": "希腊奥林匹克",
+      "summary": "裸体运动员在奥林匹亚赛场竞跑，观众席上欢呼喝彩",
+      "full_text": "裸体运动员在奥林匹亚赛场竞跑，观众席上欢呼喝彩",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "european_civilization_035_4",
         "european_civilization_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_035_pixel.jpg"
     },
     {
       "id": "european_civilization_036",
-      "title": "欧洲文明史 - 图片37",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术是历史积淀的结晶，它记录着美好的愿景，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_036.png",
+      "title": "罗马军团行军",
+      "summary": "罗马士兵身披铠甲肩扛行军杖，龟甲阵抵御蛮族箭雨",
+      "full_text": "罗马士兵身披铠甲肩扛行军杖，龟甲阵抵御蛮族箭雨",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "european_civilization_036_4",
         "european_civilization_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_036_pixel.jpg"
     },
     {
       "id": "european_civilization_037",
-      "title": "欧洲文明史 - 图片38",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "文化是文化传承的结晶，它激励着科学的精神，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_037.png",
+      "title": "亚里士多德讲学",
+      "summary": "亚里士多德在吕克昂学园漫步讲学，弟子记录自然哲学论述",
+      "full_text": "亚里士多德在吕克昂学园漫步讲学，弟子记录自然哲学论述",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "european_civilization_037_4",
         "european_civilization_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_037_pixel.jpg"
     },
     {
       "id": "european_civilization_038",
-      "title": "欧洲文明史 - 图片39",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然不仅揭示了人类文明，更传递了智慧的光芒，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_038.png",
+      "title": "罗马帝国分裂",
+      "summary": "狄奥多西临终将帝国分为东西两半，罗马与君士坦丁堡各治一方",
+      "full_text": "狄奥多西临终将帝国分为东西两半，罗马与君士坦丁堡各治一方",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "european_civilization_038_4",
         "european_civilization_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_038_pixel.jpg"
     },
     {
       "id": "european_civilization_039",
-      "title": "欧洲文明史 - 图片40",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它清新地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_039.png",
+      "title": "希腊化时代城市",
+      "summary": "亚历山大港灯塔指引地中海航船，图书馆藏卷七十万册",
+      "full_text": "亚历山大港灯塔指引地中海航船，图书馆藏卷七十万册",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "european_civilization_039_4",
         "european_civilization_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_039_pixel.jpg"
     },
     {
       "id": "european_civilization_040",
-      "title": "欧洲文明史 - 图片41",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它奇妙地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_040.png",
+      "title": "拜占庭帝国宫廷",
+      "summary": "查士丁尼皇帝在圣索菲亚大教堂主持弥撒，金色马赛克闪耀",
+      "full_text": "查士丁尼皇帝在圣索菲亚大教堂主持弥撒，金色马赛克闪耀",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "european_civilization_040_4",
         "european_civilization_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_040_pixel.jpg"
     },
     {
       "id": "european_civilization_041",
-      "title": "欧洲文明史 - 图片42",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往历史长河的大门，充满了向往与艺术熏陶。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_041.png",
+      "title": "查理曼加冕",
+      "summary": "教皇利奥三世在罗马圣彼得教堂为查理曼戴上皇冠",
+      "full_text": "教皇利奥三世在罗马圣彼得教堂为查理曼戴上皇冠",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "european_civilization_041_4",
         "european_civilization_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_041_pixel.jpg"
     },
     {
       "id": "european_civilization_042",
-      "title": "欧洲文明史 - 图片43",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然不仅描绘了情感世界，更传递了情感的力量，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_042.png",
+      "title": "维京长船远航",
+      "summary": "维京战士驾驶龙头长船穿越北海，在英格兰海岸登陆劫掠",
+      "full_text": "维京战士驾驶龙头长船穿越北海，在英格兰海岸登陆劫掠",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "european_civilization_042_4",
         "european_civilization_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_042_pixel.jpg"
     },
     {
       "id": "european_civilization_043",
-      "title": "欧洲文明史 - 图片44",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往美好家园的大门，充满了沉思与思想启迪。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_043.png",
+      "title": "十字军东征",
+      "summary": "十字军骑士身披白底红十字战袍，向耶路撒冷进军",
+      "full_text": "十字军骑士身披白底红十字战袍，向耶路撒冷进军",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "european_civilization_043_4",
         "european_civilization_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_043_pixel.jpg"
     },
     {
       "id": "european_civilization_044",
-      "title": "欧洲文明史 - 图片45",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术是审美追求的结晶，它激励着永恒的真理，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_044.png",
+      "title": "中世纪城堡",
+      "summary": "封建领主在石砌城堡中设宴，吊桥升起护城河环绕城池",
+      "full_text": "封建领主在石砌城堡中设宴，吊桥升起护城河环绕城池",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "european_civilization_044_4",
         "european_civilization_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_044_pixel.jpg"
     },
     {
       "id": "european_civilization_045",
-      "title": "欧洲文明史 - 图片46",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "文化是情感表达的结晶，它启迪着艺术的追求，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_045.png",
+      "title": "黑死病蔓延",
+      "summary": "瘟疫医生戴鸟嘴面具穿行街道，黑死病席卷欧洲城镇",
+      "full_text": "瘟疫医生戴鸟嘴面具穿行街道，黑死病席卷欧洲城镇",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "european_civilization_045_4",
         "european_civilization_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_045_pixel.jpg"
     },
     {
       "id": "european_civilization_046",
-      "title": "欧洲文明史 - 图片47",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在自然的领域里，艺术创造展现得淋漓尽致，每一个瞬间都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_046.png",
+      "title": "哥特式大教堂",
+      "summary": "工匠在巴黎圣母院建造飞扶壁与尖拱，彩色玻璃窗映出圣光",
+      "full_text": "工匠在巴黎圣母院建造飞扶壁与尖拱，彩色玻璃窗映出圣光",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "european_civilization_046_4",
         "european_civilization_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_046_pixel.jpg"
     },
     {
       "id": "european_civilization_047",
-      "title": "欧洲文明史 - 图片48",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是时代精神的结晶，它表达着创新的理念，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_047.png",
+      "title": "骑士比武大会",
+      "summary": "身披铠甲的骑士骑马持枪对冲，贵妇在观台为勇士加油",
+      "full_text": "身披铠甲的骑士骑马持枪对冲，贵妇在观台为勇士加油",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "european_civilization_047_4",
         "european_civilization_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_047_pixel.jpg"
     },
     {
       "id": "european_civilization_048",
-      "title": "欧洲文明史 - 图片49",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术不仅诠释了文化内涵，更传递了生命的意义，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_048.png",
+      "title": "中世纪修道院",
+      "summary": "修士在修道院抄写室中手抄经卷，彩绘首字母金碧辉煌",
+      "full_text": "修士在修道院抄写室中手抄经卷，彩绘首字母金碧辉煌",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "european_civilization_048_4",
         "european_civilization_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_048_pixel.jpg"
     },
     {
       "id": "european_civilization_049",
-      "title": "欧洲文明史 - 图片50",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个文化符号都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_049.png",
+      "title": "诺曼征服英格兰",
+      "summary": "威廉公爵在黑斯廷斯战役中击败哈罗德，箭矢射中英王眼眶",
+      "full_text": "威廉公爵在黑斯廷斯战役中击败哈罗德，箭矢射中英王眼眶",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "european_civilization_049_4",
         "european_civilization_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_049_pixel.jpg"
     },
     {
       "id": "european_civilization_050",
-      "title": "欧洲文明史 - 图片51",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它壮观地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_050.png",
+      "title": "汉萨同盟商港",
+      "summary": "汉萨商人在吕贝克码头卸下波罗的海琥珀与俄罗斯皮毛",
+      "full_text": "汉萨商人在吕贝克码头卸下波罗的海琥珀与俄罗斯皮毛",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "european_civilization_050_4",
         "european_civilization_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_050_pixel.jpg"
     },
     {
       "id": "european_civilization_051",
-      "title": "欧洲文明史 - 图片52",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学不仅表达了历史记忆，更传递了奋斗的意义，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_051.png",
+      "title": "百年战争战场",
+      "summary": "英国长弓手在阿金库尔雨中齐射，法国骑士在泥泞中倒下",
+      "full_text": "英国长弓手在阿金库尔雨中齐射，法国骑士在泥泞中倒下",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "european_civilization_051_4",
         "european_civilization_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_051_pixel.jpg"
     },
     {
       "id": "european_civilization_052",
-      "title": "欧洲文明史 - 图片53",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往智慧天地的大门，充满了宁静与视觉享受。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_052.png",
+      "title": "圣女贞德领军",
+      "summary": "贞德身披铠甲高举旗帜率军解奥尔良之围，法军士气大振",
+      "full_text": "贞德身披铠甲高举旗帜率军解奥尔良之围，法军士气大振",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "european_civilization_052_4",
         "european_civilization_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_052_pixel.jpg"
     },
     {
       "id": "european_civilization_053",
-      "title": "欧洲文明史 - 图片54",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它质朴地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_053.png",
+      "title": "威尼斯商业帝国",
+      "summary": "威尼斯贡多拉穿行运河，商人用金币交易东方香料与丝绸",
+      "full_text": "威尼斯贡多拉穿行运河，商人用金币交易东方香料与丝绸",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "european_civilization_053_4",
         "european_civilization_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_053_pixel.jpg"
     },
     {
       "id": "european_civilization_054",
-      "title": "欧洲文明史 - 图片55",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然是生活体验的结晶，它表达着生活的智慧，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_054.png",
+      "title": "拜占庭圣像",
+      "summary": "东正教修士在木板上绘制圣像画，金色背景映衬庄严面容",
+      "full_text": "东正教修士在木板上绘制圣像画，金色背景映衬庄严面容",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "european_civilization_054_4",
         "european_civilization_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_054_pixel.jpg"
     },
     {
       "id": "european_civilization_055",
-      "title": "欧洲文明史 - 图片56",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在科学的领域里，文化传承展现得淋漓尽致，每一个色彩都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_055.png",
+      "title": "蒙古入侵欧洲",
+      "summary": "蒙古骑兵在利格尼茨战役击败波兰骑士，欧洲诸国震恐",
+      "full_text": "蒙古骑兵在利格尼茨战役击败波兰骑士，欧洲诸国震恐",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "european_civilization_055_4",
         "european_civilization_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_055_pixel.jpg"
     },
     {
       "id": "european_civilization_056",
-      "title": "欧洲文明史 - 图片57",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术不仅表达了生活哲理，更传递了文化的传承，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_056.png",
+      "title": "中世纪大学",
+      "summary": "巴黎大学学者在阶梯教室辩论经院哲学，拉丁语回荡厅堂",
+      "full_text": "巴黎大学学者在阶梯教室辩论经院哲学，拉丁语回荡厅堂",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "european_civilization_056_4",
         "european_civilization_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_056_pixel.jpg"
     },
     {
       "id": "european_civilization_057",
-      "title": "欧洲文明史 - 图片58",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往精神家园的大门，充满了激情与美好感受。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_057.png",
+      "title": "条顿骑士团",
+      "summary": "白袍黑十字骑士在普鲁士建立军事修会，城堡遍布波罗的海沿岸",
+      "full_text": "白袍黑十字骑士在普鲁士建立军事修会，城堡遍布波罗的海沿岸",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "european_civilization_057_4",
         "european_civilization_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_057_pixel.jpg"
     },
     {
       "id": "european_civilization_058",
-      "title": "欧洲文明史 - 图片59",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然不仅记录了自然之美，更传递了智慧的光芒，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_058.png",
+      "title": "伊比利亚收复失地",
+      "summary": "西班牙天主教联军攻克格拉纳达，摩尔人最后的王国覆灭",
+      "full_text": "西班牙天主教联军攻克格拉纳达，摩尔人最后的王国覆灭",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "european_civilization_058_4",
         "european_civilization_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_058_pixel.jpg"
     },
     {
       "id": "european_civilization_059",
-      "title": "欧洲文明史 - 图片60",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是情感表达的结晶，它激励着人类的梦想，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_059.png",
+      "title": "文艺复兴发端",
+      "summary": "佛罗伦萨艺术家在作坊中研究透视法，画布上再现三维空间",
+      "full_text": "佛罗伦萨艺术家在作坊中研究透视法，画布上再现三维空间",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "european_civilization_059_4",
         "european_civilization_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_059_pixel.jpg"
     },
     {
       "id": "european_civilization_060",
-      "title": "欧洲文明史 - 图片61",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术不仅表达了生命意义，更传递了梦想的价值，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_060.png",
+      "title": "达芬奇工作室",
+      "summary": "达芬奇在画室中绘制蒙娜丽莎，解剖手稿散落工作台面",
+      "full_text": "达芬奇在画室中绘制蒙娜丽莎，解剖手稿散落工作台面",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "european_civilization_060_4",
         "european_civilization_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_060_pixel.jpg"
     },
     {
       "id": "european_civilization_061",
-      "title": "欧洲文明史 - 图片62",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "文化是思想升华的结晶，它激励着深刻的思考，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_061.png",
+      "title": "米开朗基罗雕塑",
+      "summary": "米开朗基罗在大理石块中凿出大卫像，肌肉线条栩栩如生",
+      "full_text": "米开朗基罗在大理石块中凿出大卫像，肌肉线条栩栩如生",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "european_civilization_061_4",
         "european_civilization_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_061_pixel.jpg"
     },
     {
       "id": "european_civilization_062",
-      "title": "欧洲文明史 - 图片63",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它自然地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_062.png",
+      "title": "宗教改革风暴",
+      "summary": "马丁路德在维滕贝格教堂门前张贴九十五条论纲",
+      "full_text": "马丁路德在维滕贝格教堂门前张贴九十五条论纲",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "european_civilization_062_4",
         "european_civilization_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_062_pixel.jpg"
     },
     {
       "id": "european_civilization_063",
-      "title": "欧洲文明史 - 图片64",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往神秘国度的大门，充满了向往与文化浸润。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_063.png",
+      "title": "古登堡印刷术",
+      "summary": "古登堡在美因茨工坊中操作活字印刷机，油墨印出圣经书页",
+      "full_text": "古登堡在美因茨工坊中操作活字印刷机，油墨印出圣经书页",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "european_civilization_063_4",
         "european_civilization_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_063_pixel.jpg"
     },
     {
       "id": "european_civilization_064",
-      "title": "欧洲文明史 - 图片65",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术不仅创造了历史记忆，更传递了人与自然的和谐，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_064.png",
+      "title": "大航海时代",
+      "summary": "哥伦布船队驶入加勒比海域，水手从桅杆上眺望新大陆",
+      "full_text": "哥伦布船队驶入加勒比海域，水手从桅杆上眺望新大陆",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "european_civilization_064_4",
         "european_civilization_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_064_pixel.jpg"
     },
     {
       "id": "european_civilization_065",
-      "title": "欧洲文明史 - 图片66",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它细腻地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_065.png",
+      "title": "启蒙运动沙龙",
+      "summary": "伏尔泰在巴黎沙龙中与贵妇讨论理性与自由，烛光映照书卷",
+      "full_text": "伏尔泰在巴黎沙龙中与贵妇讨论理性与自由，烛光映照书卷",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "european_civilization_065_4",
         "european_civilization_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_065_pixel.jpg"
     },
     {
       "id": "european_civilization_066",
-      "title": "欧洲文明史 - 图片67",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然不仅探索了美好瞬间，更传递了奋斗的意义，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_066.png",
+      "title": "法国大革命",
+      "summary": "巴黎市民攻占巴士底狱，革命者挥舞三色旗高呼自由平等",
+      "full_text": "巴黎市民攻占巴士底狱，革命者挥舞三色旗高呼自由平等",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "european_civilization_066_4",
         "european_civilization_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_066_pixel.jpg"
     },
     {
       "id": "european_civilization_067",
-      "title": "欧洲文明史 - 图片68",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在科学的领域里，科技进步展现得淋漓尽致，每一个历史印记都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_067.png",
+      "title": "拿破仑加冕",
+      "summary": "拿破仑在巴黎圣母院自行戴上皇冠，约瑟芬跪受后冠",
+      "full_text": "拿破仑在巴黎圣母院自行戴上皇冠，约瑟芬跪受后冠",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "european_civilization_067_4",
         "european_civilization_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_067_pixel.jpg"
     },
     {
       "id": "european_civilization_068",
-      "title": "欧洲文明史 - 图片69",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了震撼与艺术熏陶。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_068.png",
+      "title": "维也纳会议",
+      "summary": "欧洲列强使臣在维也纳舞会间重新划定国界，梅特涅主导均势",
+      "full_text": "欧洲列强使臣在维也纳舞会间重新划定国界，梅特涅主导均势",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "european_civilization_068_4",
         "european_civilization_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_068_pixel.jpg"
     },
     {
       "id": "european_civilization_069",
-      "title": "欧洲文明史 - 图片70",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在文化的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_069.png",
+      "title": "科学革命",
+      "summary": "伽利略在望远镜前观测木星卫星，日心说挑战教会宇宙观",
+      "full_text": "伽利略在望远镜前观测木星卫星，日心说挑战教会宇宙观",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "european_civilization_069_4",
         "european_civilization_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_069_pixel.jpg"
     },
     {
       "id": "european_civilization_070",
-      "title": "欧洲文明史 - 图片71",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它细腻地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_070.png",
+      "title": "英国光荣革命",
+      "summary": "威廉三世率荷兰舰队登陆英格兰，议会通过权利法案限制王权",
+      "full_text": "威廉三世率荷兰舰队登陆英格兰，议会通过权利法案限制王权",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "european_civilization_070_4",
         "european_civilization_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_070_pixel.jpg"
     },
     {
       "id": "european_civilization_071",
-      "title": "欧洲文明史 - 图片72",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精彩地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_071.png",
+      "title": "西班牙无敌舰队",
+      "summary": "西班牙巨舰在英吉利海峡遭火船攻击，无敌舰队溃败而归",
+      "full_text": "西班牙巨舰在英吉利海峡遭火船攻击，无敌舰队溃败而归",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "european_civilization_071_4",
         "european_civilization_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_071_pixel.jpg"
     },
     {
       "id": "european_civilization_072",
-      "title": "欧洲文明史 - 图片73",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "艺术是情感表达的结晶，它承载着艺术的追求，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_072.png",
+      "title": "荷兰黄金时代",
+      "summary": "阿姆斯特丹证券交易所人声鼎沸，东印度公司股票在此交易",
+      "full_text": "阿姆斯特丹证券交易所人声鼎沸，东印度公司股票在此交易",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "european_civilization_072_4",
         "european_civilization_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_072_pixel.jpg"
     },
     {
       "id": "european_civilization_073",
-      "title": "欧洲文明史 - 图片74",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它深刻地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_073.png",
+      "title": "普鲁士崛起",
+      "summary": "腓特烈大帝在无忧宫演奏长笛，普鲁士军队操练于波茨坦",
+      "full_text": "腓特烈大帝在无忧宫演奏长笛，普鲁士军队操练于波茨坦",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "european_civilization_073_4",
         "european_civilization_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_073_pixel.jpg"
     },
     {
       "id": "european_civilization_074",
-      "title": "欧洲文明史 - 图片75",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往文化宝库的大门，充满了怀念与情感共鸣。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_074.png",
+      "title": "俄国彼得大帝",
+      "summary": "彼得大帝在涅瓦河口建造圣彼得堡，荷兰风格宫殿临河而立",
+      "full_text": "彼得大帝在涅瓦河口建造圣彼得堡，荷兰风格宫殿临河而立",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,14 +1573,15 @@
         "european_civilization_074_4",
         "european_civilization_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_074_pixel.jpg"
     },
     {
       "id": "european_civilization_075",
-      "title": "欧洲文明史 - 图片76",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是时代精神的结晶，它诠释着深刻的思考，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_075.png",
+      "title": "工业革命",
+      "summary": "蒸汽机在曼彻斯特纺织厂轰鸣运转，烟囱林立改变田园风光",
+      "full_text": "蒸汽机在曼彻斯特纺织厂轰鸣运转，烟囱林立改变田园风光",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_075.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1519,14 +1594,15 @@
         "european_civilization_075_4",
         "european_civilization_075_5"
       ],
-      "order": 75
+      "order": 75,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_075_pixel.jpg"
     },
     {
       "id": "european_civilization_076",
-      "title": "欧洲文明史 - 图片77",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在艺术的领域里，人类智慧展现得淋漓尽致，每一个瞬间都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_076.png",
+      "title": "拿破仑战争",
+      "summary": "法军骑兵在奥斯特里茨三皇会战中冲锋，炮火硝烟弥漫战场",
+      "full_text": "法军骑兵在奥斯特里茨三皇会战中冲锋，炮火硝烟弥漫战场",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_076.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1539,14 +1615,15 @@
         "european_civilization_076_4",
         "european_civilization_076_5"
       ],
-      "order": 76
+      "order": 76,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_076_pixel.jpg"
     },
     {
       "id": "european_civilization_077",
-      "title": "欧洲文明史 - 图片78",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美好家园的大门，充满了沉醉与视觉享受。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_077.png",
+      "title": "维多利亚时代",
+      "summary": "维多利亚女王在水晶宫博览会开幕式上宣告工业成就",
+      "full_text": "维多利亚女王在水晶宫博览会开幕式上宣告工业成就",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_077.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1559,14 +1636,15 @@
         "european_civilization_077_4",
         "european_civilization_077_5"
       ],
-      "order": 77
+      "order": 77,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_077_pixel.jpg"
     },
     {
       "id": "european_civilization_078",
-      "title": "欧洲文明史 - 图片79",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个历史印记都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_078.png",
+      "title": "第一次世界大战",
+      "summary": "士兵在索姆河战壕中等待冲锋，无人区铁丝网纵横弹坑密布",
+      "full_text": "士兵在索姆河战壕中等待冲锋，无人区铁丝网纵横弹坑密布",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_078.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1579,14 +1657,15 @@
         "european_civilization_078_4",
         "european_civilization_078_5"
       ],
-      "order": 78
+      "order": 78,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_078_pixel.jpg"
     },
     {
       "id": "european_civilization_079",
-      "title": "欧洲文明史 - 图片80",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是自然造化的结晶，它激励着人文的关怀，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_079.png",
+      "title": "俄国十月革命",
+      "summary": "布尔什维克攻占冬宫，红旗飘扬在彼得格勒的炮火之中",
+      "full_text": "布尔什维克攻占冬宫，红旗飘扬在彼得格勒的炮火之中",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_079.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1599,14 +1678,15 @@
         "european_civilization_079_4",
         "european_civilization_079_5"
       ],
-      "order": 79
+      "order": 79,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_079_pixel.jpg"
     },
     {
       "id": "european_civilization_080",
-      "title": "欧洲文明史 - 图片81",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往精神家园的大门，充满了沉醉与审美体验。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_080.png",
+      "title": "第二次世界大战",
+      "summary": "盟军在诺曼底海滩登陆，士兵涉水冲向奥马哈滩头碉堡",
+      "full_text": "盟军在诺曼底海滩登陆，士兵涉水冲向奥马哈滩头碉堡",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_080.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1619,14 +1699,15 @@
         "european_civilization_080_4",
         "european_civilization_080_5"
       ],
-      "order": 80
+      "order": 80,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_080_pixel.jpg"
     },
     {
       "id": "european_civilization_081",
-      "title": "欧洲文明史 - 图片82",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往历史长河的大门，充满了愉悦与思想启迪。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_081.png",
+      "title": "柏林墙倒塌",
+      "summary": "柏林市民挥锤敲碎混凝土墙，东西德人群在勃兰登堡门拥抱",
+      "full_text": "柏林市民挥锤敲碎混凝土墙，东西德人群在勃兰登堡门拥抱",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_081.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1639,14 +1720,15 @@
         "european_civilization_081_4",
         "european_civilization_081_5"
       ],
-      "order": 81
+      "order": 81,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_081_pixel.jpg"
     },
     {
       "id": "european_civilization_082",
-      "title": "欧洲文明史 - 图片83",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了沉醉与知识启迪。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_082.png",
+      "title": "欧盟成立",
+      "summary": "六国代表在罗马签署条约，欧洲一体化进程正式启航",
+      "full_text": "六国代表在罗马签署条约，欧洲一体化进程正式启航",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_082.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1659,14 +1741,15 @@
         "european_civilization_082_4",
         "european_civilization_082_5"
       ],
-      "order": 82
+      "order": 82,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_082_pixel.jpg"
     },
     {
       "id": "european_civilization_083",
-      "title": "欧洲文明史 - 图片84",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是人类智慧的结晶，它激励着美好的愿景，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_083.png",
+      "title": "冷战对峙",
+      "summary": "美苏坦克在查理检查站前对峙，铁幕将欧洲一分为二",
+      "full_text": "美苏坦克在查理检查站前对峙，铁幕将欧洲一分为二",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_083.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1679,14 +1762,15 @@
         "european_civilization_083_4",
         "european_civilization_083_5"
       ],
-      "order": 83
+      "order": 83,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_083_pixel.jpg"
     },
     {
       "id": "european_civilization_084",
-      "title": "欧洲文明史 - 图片85",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个色彩都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_084.png",
+      "title": "欧洲殖民帝国瓦解",
+      "summary": "印度民众在德里庆祝独立，英国米字旗缓缓降下",
+      "full_text": "印度民众在德里庆祝独立，英国米字旗缓缓降下",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_084.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1699,14 +1783,15 @@
         "european_civilization_084_4",
         "european_civilization_084_5"
       ],
-      "order": 84
+      "order": 84,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_084_pixel.jpg"
     },
     {
       "id": "european_civilization_085",
-      "title": "欧洲文明史 - 图片86",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "文化是时代精神的结晶，它表达着艺术的追求，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_085.png",
+      "title": "马歇尔计划重建",
+      "summary": "美国物资运抵欧洲港口，满载小麦与机械的货轮靠岸卸货",
+      "full_text": "美国物资运抵欧洲港口，满载小麦与机械的货轮靠岸卸货",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_085.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1719,14 +1804,15 @@
         "european_civilization_085_4",
         "european_civilization_085_5"
       ],
-      "order": 85
+      "order": 85,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_085_pixel.jpg"
     },
     {
       "id": "european_civilization_086",
-      "title": "欧洲文明史 - 图片87",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然是自然造化的结晶，它诠释着美好的愿景，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_086.png",
+      "title": "欧盟东扩",
+      "summary": "新成员国旗帜在布鲁塞尔总部升起，欧洲统一市场不断扩展",
+      "full_text": "新成员国旗帜在布鲁塞尔总部升起，欧洲统一市场不断扩展",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_086.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1739,14 +1825,15 @@
         "european_civilization_086_4",
         "european_civilization_086_5"
       ],
-      "order": 86
+      "order": 86,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_086_pixel.jpg"
     },
     {
       "id": "european_civilization_087",
-      "title": "欧洲文明史 - 图片88",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学不仅传递了艺术真谛，更传递了智慧的光芒，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_087.png",
+      "title": "欧洲太空探索",
+      "summary": "阿丽亚娜火箭在库鲁发射场升空，尾焰照亮大西洋夜空",
+      "full_text": "阿丽亚娜火箭在库鲁发射场升空，尾焰照亮大西洋夜空",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_087.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1759,14 +1846,15 @@
         "european_civilization_087_4",
         "european_civilization_087_5"
       ],
-      "order": 87
+      "order": 87,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_087_pixel.jpg"
     },
     {
       "id": "european_civilization_088",
-      "title": "欧洲文明史 - 图片89",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在艺术的领域里，科学发现展现得淋漓尽致，每一个历史印记都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_088.png",
+      "title": "欧元流通",
+      "summary": "欧洲央行发行统一货币欧元，纸币上印有不同时期建筑风格",
+      "full_text": "欧洲央行发行统一货币欧元，纸币上印有不同时期建筑风格",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_088.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1779,14 +1867,15 @@
         "european_civilization_088_4",
         "european_civilization_088_5"
       ],
-      "order": 88
+      "order": 88,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_088_pixel.jpg"
     },
     {
       "id": "european_civilization_089",
-      "title": "欧洲文明史 - 图片90",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在文化的领域里，社会发展展现得淋漓尽致，每一个自然元素都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_089.png",
+      "title": "英国脱欧",
+      "summary": "伦敦议会广场上脱欧派与留欧派各自集会，民主抉择牵动欧洲",
+      "full_text": "伦敦议会广场上脱欧派与留欧派各自集会，民主抉择牵动欧洲",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_089.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1799,14 +1888,15 @@
         "european_civilization_089_4",
         "european_civilization_089_5"
       ],
-      "order": 89
+      "order": 89,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_089_pixel.jpg"
     },
     {
       "id": "european_civilization_090",
-      "title": "欧洲文明史 - 图片91",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_090.png",
+      "title": "希腊城邦殖民",
+      "summary": "希腊殖民者在南意大利与西西里建立新城邦，神庙矗立海岸",
+      "full_text": "希腊殖民者在南意大利与西西里建立新城邦，神庙矗立海岸",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_090.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1819,14 +1909,15 @@
         "european_civilization_090_4",
         "european_civilization_090_5"
       ],
-      "order": 90
+      "order": 90,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_090_pixel.jpg"
     },
     {
       "id": "european_civilization_091",
-      "title": "欧洲文明史 - 图片92",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它优美地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_091.png",
+      "title": "罗马帝国衰亡",
+      "summary": "蛮族大军涌入罗马城门，西罗马帝国在兵燹中走向终结",
+      "full_text": "蛮族大军涌入罗马城门，西罗马帝国在兵燹中走向终结",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_091.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1839,14 +1930,15 @@
         "european_civilization_091_4",
         "european_civilization_091_5"
       ],
-      "order": 91
+      "order": 91,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_091_pixel.jpg"
     },
     {
       "id": "european_civilization_092",
-      "title": "欧洲文明史 - 图片93",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往梦想世界的大门，充满了温馨与艺术熏陶。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_092.png",
+      "title": "文艺复兴建筑",
+      "summary": "布鲁内莱斯基在佛罗伦萨建造穹顶，古典柱式复兴改变城市天际",
+      "full_text": "布鲁内莱斯基在佛罗伦萨建造穹顶，古典柱式复兴改变城市天际",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_092.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1859,14 +1951,15 @@
         "european_civilization_092_4",
         "european_civilization_092_5"
       ],
-      "order": 92
+      "order": 92,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_092_pixel.jpg"
     },
     {
       "id": "european_civilization_093",
-      "title": "欧洲文明史 - 图片94",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它庄重地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_093.png",
+      "title": "欧洲宗教战争",
+      "summary": "胡格诺教徒在圣巴托洛缪之夜遭天主教暴民屠杀，宗教仇恨血染巴黎",
+      "full_text": "胡格诺教徒在圣巴托洛缪之夜遭天主教暴民屠杀，宗教仇恨血染巴黎",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_093.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1879,14 +1972,15 @@
         "european_civilization_093_4",
         "european_civilization_093_5"
       ],
-      "order": 93
+      "order": 93,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_093_pixel.jpg"
     },
     {
       "id": "european_civilization_094",
-      "title": "欧洲文明史 - 图片95",
-      "summary": "欧洲文明史相关图片",
-      "full_text": "自然是人类智慧的结晶，它传递着科学的精神，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/european_civilization/european_civilization_094.png",
+      "title": "启蒙运动百科全书",
+      "summary": "狄德罗在书房中编纂百科全书，理性知识挑战旧制度权威",
+      "full_text": "狄德罗在书房中编纂百科全书，理性知识挑战旧制度权威",
+      "image": "res://assets/images/illustrations/european_civilization/european_civilization_094.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1899,7 +1993,8 @@
         "european_civilization_094_4",
         "european_civilization_094_5"
       ],
-      "order": 94
+      "order": 94,
+      "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_094_pixel.jpg"
     }
   ]
 }

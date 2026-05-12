@@ -32,6 +32,9 @@ var _fade_tween: Tween = null
 var _pictures: Array = []
 var _current_picture_index: int = 0
 
+var _swipe_start_pos: Vector2 = Vector2.ZERO
+var _swipe_min_distance: float = 50.0
+
 const REGION_GAP: float = 0.0
 
 @onready var illustration_area: Control = $VBoxContainer/IllustrationArea
@@ -200,7 +203,7 @@ func _load_pixel_image(img_path: String) -> Image:
 	if img_path == "":
 		return null
 	var base_path = img_path.get_basename()
-	var pixel_path = base_path + "_pixel.png"
+	var pixel_path = base_path + "_pixel.jpg"
 	if ResourceLoader.exists(pixel_path):
 		var tex = load(pixel_path)
 		if tex is Texture2D:
@@ -663,6 +666,7 @@ func _generate_placeholder_illustration() -> Image:
 func _on_back_pressed() -> void:
 	AudioManager.play_sfx("click")
 	GameManager.save_picture_index(current_album_id, _current_picture_index)
+	GameManager.pending_album_id = current_album_id
 	GameManager.pending_bookshelf_id = ""
 	var album = AlbumDataScript.get_album(current_album_id)
 	if not album.is_empty():
@@ -698,6 +702,29 @@ func _update_page_navigation() -> void:
 	left_button.visible = _current_picture_index > 0
 	right_button.visible = _current_picture_index < _pictures.size() - 1
 	page_num_label.text = "%d/%d" % [_current_picture_index + 1, _pictures.size()]
+
+func _input(event: InputEvent) -> void:
+	if not DisplayServer.is_touchscreen_available():
+		return
+	if event is InputEventScreenTouch:
+		if event.pressed:
+			_swipe_start_pos = event.position
+		elif _swipe_start_pos != Vector2.ZERO:
+			var delta = event.position - _swipe_start_pos
+			if abs(delta.x) > _swipe_min_distance and abs(delta.x) > abs(delta.y):
+				if delta.x > 0:
+					_on_swipe_right()
+				else:
+					_on_swipe_left()
+			_swipe_start_pos = Vector2.ZERO
+
+func _on_swipe_left() -> void:
+	if _current_picture_index < _pictures.size() - 1:
+		_on_right_button_pressed()
+
+func _on_swipe_right() -> void:
+	if _current_picture_index > 0:
+		_on_left_button_pressed()
 
 func _show_toast(message: String) -> void:
 	var panel = PanelContainer.new()

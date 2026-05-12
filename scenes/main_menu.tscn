@@ -8,6 +8,7 @@
 [ext_resource type="Texture2D" uid="uid://dcasia28k6lo6" path="res://assets/images/ui/main/main_setting_btn.png" id="6_lgwnu"]
 [ext_resource type="Texture2D" uid="uid://dpl27cfsl1lob" path="res://assets/images/ui/main/main_setting_btn_pressed.png" id="7_flqon"]
 [ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="8_rcqid"]
+[ext_resource type="Theme" uid="uid://dm1u1qw4djtk5" path="res://resources/themes/main_theme.tres" id="9_5dd4i"]
 [ext_resource type="PackedScene" uid="uid://sb2u2ok8lge" path="res://scenes/settings_popup.tscn" id="9_settings"]
 
 [node name="MainMenu" type="Control" unique_id=2008341208]
@@ -76,7 +77,8 @@ grow_vertical = 0
 
 [node name="VBox" type="VBoxContainer" parent="LoadPanel" unique_id=388201611]
 layout_mode = 0
-offset_right = 720.0
+offset_left = 10.0
+offset_right = 710.0
 offset_bottom = 80.0
 
 [node name="LoadLabel" type="Label" parent="LoadPanel/VBox" unique_id=-1356491686]
@@ -90,9 +92,12 @@ horizontal_alignment = 1
 [node name="ProgressBar" type="ProgressBar" parent="LoadPanel/VBox" unique_id=562323742]
 custom_minimum_size = Vector2(360, 24)
 layout_mode = 2
+theme = ExtResource("9_5dd4i")
 show_percentage = false
+
+[node name="SettingsPopup" parent="." unique_id=549195619 instance=ExtResource("9_settings")]
+visible = false
+layout_mode = 1
 
 [connection signal="pressed" from="StartButton" to="." method="_on_start_pressed"]
 [connection signal="pressed" from="SettingsButton" to="." method="_on_settings_pressed"]
-
-[node name="SettingsPopup" parent="." instance=ExtResource("9_settings")]

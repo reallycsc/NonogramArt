@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "historical_mysteries_000",
-      "title": "历史未解之谜 - 图片1",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是情感表达的结晶，它激励着人文的关怀，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_000.png",
+      "title": "金字塔建造之谜",
+      "summary": "数百万块巨石如何搬运堆砌成百米金字塔，古代工程至今成谜",
+      "full_text": "数百万块巨石如何搬运堆砌成百米金字塔，古代工程至今成谜",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "historical_mysteries_000_4",
         "historical_mysteries_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_000_pixel.jpg"
     },
     {
       "id": "historical_mysteries_001",
-      "title": "历史未解之谜 - 图片2",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化是文化传承的结晶，它表达着人文的关怀，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_001.png",
+      "title": "亚特兰蒂斯传说",
+      "summary": "柏拉图记载的亚特兰蒂斯文明一夜沉入海底，大陆是否存在",
+      "full_text": "柏拉图记载的亚特兰蒂斯文明一夜沉入海底，大陆是否存在",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "historical_mysteries_001_4",
         "historical_mysteries_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_001_pixel.jpg"
     },
     {
       "id": "historical_mysteries_002",
-      "title": "历史未解之谜 - 图片3",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "在自然的领域里，社会发展展现得淋漓尽致，每一个细节都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_002.png",
+      "title": "巨石阵用途之谜",
+      "summary": "索尔兹伯里平原巨石环阵是天文台还是祭祀场，用途众说纷纭",
+      "full_text": "索尔兹伯里平原巨石环阵是天文台还是祭祀场，用途众说纷纭",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "historical_mysteries_002_4",
         "historical_mysteries_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_002_pixel.jpg"
     },
     {
       "id": "historical_mysteries_003",
-      "title": "历史未解之谜 - 图片4",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是艺术创造的结晶，它传递着科学的精神，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_003.png",
+      "title": "复活节岛石像",
+      "summary": "摩艾石像如何从火山采石场运至海岸，拉帕努伊人技术成谜",
+      "full_text": "摩艾石像如何从火山采石场运至海岸，拉帕努伊人技术成谜",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "historical_mysteries_003_4",
         "historical_mysteries_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_003_pixel.jpg"
     },
     {
       "id": "historical_mysteries_004",
-      "title": "历史未解之谜 - 图片5",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往灵感源泉的大门，充满了沉醉与知识启迪。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_004.png",
+      "title": "玛雅文明消失",
+      "summary": "繁荣千年的玛雅城邦为何在九世纪突然衰亡，原因至今争论",
+      "full_text": "繁荣千年的玛雅城邦为何在九世纪突然衰亡，原因至今争论",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "historical_mysteries_004_4",
         "historical_mysteries_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_004_pixel.jpg"
     },
     {
       "id": "historical_mysteries_005",
-      "title": "历史未解之谜 - 图片6",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化不仅表达了历史记忆，更传递了人与自然的和谐，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_005.png",
+      "title": "法老诅咒",
+      "summary": "图坦卡蒙墓开启后多位相关人员相继去世，法老诅咒传说流传",
+      "full_text": "图坦卡蒙墓开启后多位相关人员相继去世，法老诅咒传说流传",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "historical_mysteries_005_4",
         "historical_mysteries_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_005_pixel.jpg"
     },
     {
       "id": "historical_mysteries_006",
-      "title": "历史未解之谜 - 图片7",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美丽新世界的大门，充满了宁静与美好感受。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_006.png",
+      "title": "苏美尔王表",
+      "summary": "苏美尔王表记载早期国王在位数万年，神话与历史如何区分",
+      "full_text": "苏美尔王表记载早期国王在位数万年，神话与历史如何区分",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "historical_mysteries_006_4",
         "historical_mysteries_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_006_pixel.jpg"
     },
     {
       "id": "historical_mysteries_007",
-      "title": "历史未解之谜 - 图片8",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "在科学的领域里，科学发现展现得淋漓尽致，每一个情感都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_007.png",
+      "title": "纳斯卡线条",
+      "summary": "荒漠地表巨画只有高空可见，古人为何绘制谁在空中观看",
+      "full_text": "荒漠地表巨画只有高空可见，古人为何绘制谁在空中观看",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "historical_mysteries_007_4",
         "historical_mysteries_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_007_pixel.jpg"
     },
     {
       "id": "historical_mysteries_008",
-      "title": "历史未解之谜 - 图片9",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是自然造化的结晶，它承载着创新的理念，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_008.png",
+      "title": "伏尼契手稿",
+      "summary": "神秘手稿以未知文字书写配以奇异植物插图，至今无人破译",
+      "full_text": "神秘手稿以未知文字书写配以奇异植物插图，至今无人破译",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "historical_mysteries_008_4",
         "historical_mysteries_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_008_pixel.jpg"
     },
     {
       "id": "historical_mysteries_009",
-      "title": "历史未解之谜 - 图片10",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化是生活体验的结晶，它记录着社会的进步，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_009.png",
+      "title": "安提基特拉机械",
+      "summary": "古希腊沉船中打捞出精密齿轮装置，两千年前的天文计算机",
+      "full_text": "古希腊沉船中打捞出精密齿轮装置，两千年前的天文计算机",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "historical_mysteries_009_4",
         "historical_mysteries_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_009_pixel.jpg"
     },
     {
       "id": "historical_mysteries_010",
-      "title": "历史未解之谜 - 图片11",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然不仅弘扬了文化内涵，更传递了梦想的价值，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_010.png",
+      "title": "巴格达电池",
+      "summary": "伊拉克出土两千年前铜罐与铁棒组合，是否为古代电池争议不断",
+      "full_text": "伊拉克出土两千年前铜罐与铁棒组合，是否为古代电池争议不断",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "historical_mysteries_010_4",
         "historical_mysteries_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_010_pixel.jpg"
     },
     {
       "id": "historical_mysteries_011",
-      "title": "历史未解之谜 - 图片12",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它优雅地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_011.png",
+      "title": "哥贝克力石阵",
+      "summary": "一万两千年前的T形石柱围成圆环，比农业文明更早的祭祀遗址",
+      "full_text": "一万两千年前的T形石柱围成圆环，比农业文明更早的祭祀遗址",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "historical_mysteries_011_4",
         "historical_mysteries_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_011_pixel.jpg"
     },
     {
       "id": "historical_mysteries_012",
-      "title": "历史未解之谜 - 图片13",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它壮观地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_012.png",
+      "title": "吴哥文明衰落",
+      "summary": "辉煌的吴哥帝国为何在十五世纪突然衰亡，水系崩溃还是入侵",
+      "full_text": "辉煌的吴哥帝国为何在十五世纪突然衰亡，水系崩溃还是入侵",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "historical_mysteries_012_4",
         "historical_mysteries_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_012_pixel.jpg"
     },
     {
       "id": "historical_mysteries_013",
-      "title": "历史未解之谜 - 图片14",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化不仅塑造了生命意义，更传递了真善美的追求，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_013.png",
+      "title": "罗德岛巨像",
+      "summary": "古代七大奇迹之一港口巨像是否横跨航道而立，形象至今无定论",
+      "full_text": "古代七大奇迹之一港口巨像是否横跨航道而立，形象至今无定论",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "historical_mysteries_013_4",
         "historical_mysteries_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_013_pixel.jpg"
     },
     {
       "id": "historical_mysteries_014",
-      "title": "历史未解之谜 - 图片15",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然不仅诠释了生活哲理，更传递了情感的力量，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_014.png",
+      "title": "特洛伊木马",
+      "summary": "希腊联军以木马计攻破特洛伊，木马是真实战器还是地震隐喻",
+      "full_text": "希腊联军以木马计攻破特洛伊，木马是真实战器还是地震隐喻",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "historical_mysteries_014_4",
         "historical_mysteries_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_014_pixel.jpg"
     },
     {
       "id": "historical_mysteries_015",
-      "title": "历史未解之谜 - 图片16",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它绚丽地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_015.png",
+      "title": "死海古卷秘密",
+      "summary": "库姆兰洞穴中谁抄写了这些经卷，艾赛尼派与早期基督教关联",
+      "full_text": "库姆兰洞穴中谁抄写了这些经卷，艾赛尼派与早期基督教关联",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "historical_mysteries_015_4",
         "historical_mysteries_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_015_pixel.jpg"
     },
     {
       "id": "historical_mysteries_016",
-      "title": "历史未解之谜 - 图片17",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它深刻地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_016.png",
+      "title": "秦始皇陵地宫",
+      "summary": "史记记载地宫水银江河与机关弩矢，地宫内部真实面貌未解",
+      "full_text": "史记记载地宫水银江河与机关弩矢，地宫内部真实面貌未解",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "historical_mysteries_016_4",
         "historical_mysteries_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_016_pixel.jpg"
     },
     {
       "id": "historical_mysteries_017",
-      "title": "历史未解之谜 - 图片18",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化不仅展现了美好瞬间，更传递了美的真谛，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_017.png",
+      "title": "三星堆文明来源",
+      "summary": "纵目面具与青铜神树风格迥异中原，古蜀文明源自何方",
+      "full_text": "纵目面具与青铜神树风格迥异中原，古蜀文明源自何方",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "historical_mysteries_017_4",
         "historical_mysteries_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_017_pixel.jpg"
     },
     {
       "id": "historical_mysteries_018",
-      "title": "历史未解之谜 - 图片19",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然不仅揭示了美好瞬间，更传递了人与自然的和谐，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_018.png",
+      "title": "印度河文字",
+      "summary": "哈拉帕印章上四百个符号无人能解，印度河文明文字破译悬案",
+      "full_text": "哈拉帕印章上四百个符号无人能解，印度河文明文字破译悬案",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "historical_mysteries_018_4",
         "historical_mysteries_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_018_pixel.jpg"
     },
     {
       "id": "historical_mysteries_019",
-      "title": "历史未解之谜 - 图片20",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学不仅塑造了历史记忆，更传递了创新的精神，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_019.png",
+      "title": "古埃及大金字塔通风道",
+      "summary": "金字塔内狭窄通道指向猎户座与天狼星，天文对准还是通风用途",
+      "full_text": "金字塔内狭窄通道指向猎户座与天狼星，天文对准还是通风用途",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "historical_mysteries_019_4",
         "historical_mysteries_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_019_pixel.jpg"
     },
     {
       "id": "historical_mysteries_020",
-      "title": "历史未解之谜 - 图片21",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术不仅揭示了情感世界，更传递了情感的力量，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_020.png",
+      "title": "圣杯传说",
+      "summary": "耶稣最后晚餐所用圣杯下落不明，千年寻杯之旅充满传奇",
+      "full_text": "耶稣最后晚餐所用圣杯下落不明，千年寻杯之旅充满传奇",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "historical_mysteries_020_4",
         "historical_mysteries_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_020_pixel.jpg"
     },
     {
       "id": "historical_mysteries_021",
-      "title": "历史未解之谜 - 图片22",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化是情感表达的结晶，它激励着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_021.png",
+      "title": "圣殿骑士团宝藏",
+      "summary": "圣殿骑士团被镇压后巨额财富去向不明，宝藏隐藏何处成谜",
+      "full_text": "圣殿骑士团被镇压后巨额财富去向不明，宝藏隐藏何处成谜",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "historical_mysteries_021_4",
         "historical_mysteries_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_021_pixel.jpg"
     },
     {
       "id": "historical_mysteries_022",
-      "title": "历史未解之谜 - 图片23",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然不仅传承了艺术真谛，更传递了创新的精神，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_022.png",
+      "title": "都灵裹尸布",
+      "summary": "亚麻布上印有男子面容与身体影像，是否为耶稣裹尸布争论不休",
+      "full_text": "亚麻布上印有男子面容与身体影像，是否为耶稣裹尸布争论不休",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "historical_mysteries_022_4",
         "historical_mysteries_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_022_pixel.jpg"
     },
     {
       "id": "historical_mysteries_023",
-      "title": "历史未解之谜 - 图片24",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "在科学的领域里，文化传承展现得淋漓尽致，每一个色彩都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_023.png",
+      "title": "朗基努斯之枪",
+      "summary": "刺穿耶稣肋骨的长枪据说赋予持有者征服世界之力，真枪下落成谜",
+      "full_text": "刺穿耶稣肋骨的长枪据说赋予持有者征服世界之力，真枪下落成谜",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "historical_mysteries_023_4",
         "historical_mysteries_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_023_pixel.jpg"
     },
     {
       "id": "historical_mysteries_024",
-      "title": "历史未解之谜 - 图片25",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往自然奇观的大门，充满了怀念与美好感受。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_024.png",
+      "title": "伏尼契手稿中世纪",
+      "summary": "碳十四测定手稿年代为十五世纪，作者与语言仍是未解之谜",
+      "full_text": "碳十四测定手稿年代为十五世纪，作者与语言仍是未解之谜",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "historical_mysteries_024_4",
         "historical_mysteries_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_024_pixel.jpg"
     },
     {
       "id": "historical_mysteries_025",
-      "title": "历史未解之谜 - 图片26",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个情感都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_025.png",
+      "title": "圣方济各会印记",
+      "summary": "中世纪修士手稿中暗藏炼金术符号，隐秘知识如何在修道院流传",
+      "full_text": "中世纪修士手稿中暗藏炼金术符号，隐秘知识如何在修道院流传",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "historical_mysteries_025_4",
         "historical_mysteries_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_025_pixel.jpg"
     },
     {
       "id": "historical_mysteries_026",
-      "title": "历史未解之谜 - 图片27",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往自然奇观的大门，充满了激情与艺术熏陶。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_026.png",
+      "title": "黑死病起源",
+      "summary": "十四世纪黑死病究竟从何而来，亚洲鼠疫如何横扫欧洲大陆",
+      "full_text": "十四世纪黑死病究竟从何而来，亚洲鼠疫如何横扫欧洲大陆",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "historical_mysteries_026_4",
         "historical_mysteries_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_026_pixel.jpg"
     },
     {
       "id": "historical_mysteries_027",
-      "title": "历史未解之谜 - 图片28",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它灵动地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_027.png",
+      "title": "维京文兰",
+      "summary": "维京人到达北美文兰却未建立永久定居点，为何放弃新大陆",
+      "full_text": "维京人到达北美文兰却未建立永久定居点，为何放弃新大陆",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "historical_mysteries_027_4",
         "historical_mysteries_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_027_pixel.jpg"
     },
     {
       "id": "historical_mysteries_028",
-      "title": "历史未解之谜 - 图片29",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它精彩地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_028.png",
+      "title": "马可波罗来华",
+      "summary": "马可波罗游记是否真实记录东方见闻，还是道听途说的虚构",
+      "full_text": "马可波罗游记是否真实记录东方见闻，还是道听途说的虚构",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "historical_mysteries_028_4",
         "historical_mysteries_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_028_pixel.jpg"
     },
     {
       "id": "historical_mysteries_029",
-      "title": "历史未解之谜 - 图片30",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化是审美追求的结晶，它创造着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_029.png",
+      "title": "中世纪炼金术",
+      "summary": "炼金术士在地下室中追求点石成金，哲人石是否真实存在",
+      "full_text": "炼金术士在地下室中追求点石成金，哲人石是否真实存在",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "historical_mysteries_029_4",
         "historical_mysteries_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_029_pixel.jpg"
     },
     {
       "id": "historical_mysteries_030",
-      "title": "历史未解之谜 - 图片31",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它精彩地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_030.png",
+      "title": "阿兹特克迁都预言",
+      "summary": "阿兹特克人按鹰蛇预言在湖岛建都，预言是神启还是事后编造",
+      "full_text": "阿兹特克人按鹰蛇预言在湖岛建都，预言是神启还是事后编造",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "historical_mysteries_030_4",
         "historical_mysteries_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_030_pixel.jpg"
     },
     {
       "id": "historical_mysteries_031",
-      "title": "历史未解之谜 - 图片32",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是思想升华的结晶，它承载着科学的精神，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_031.png",
+      "title": "圣殿骑士审判",
+      "summary": "法王腓力四世以异端罪名审判骑士团，指控是否政治迫害",
+      "full_text": "法王腓力四世以异端罪名审判骑士团，指控是否政治迫害",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "historical_mysteries_031_4",
         "historical_mysteries_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_031_pixel.jpg"
     },
     {
       "id": "historical_mysteries_032",
-      "title": "历史未解之谜 - 图片33",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术不仅塑造了美好瞬间，更传递了梦想的价值，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_032.png",
+      "title": "中世纪地图",
+      "summary": "皮里雷斯地图精确绘制南极海岸线，冰盖下的地理如何被知晓",
+      "full_text": "皮里雷斯地图精确绘制南极海岸线，冰盖下的地理如何被知晓",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "historical_mysteries_032_4",
         "historical_mysteries_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_032_pixel.jpg"
     },
     {
       "id": "historical_mysteries_033",
-      "title": "历史未解之谜 - 图片34",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化不仅表达了文化内涵，更传递了真善美的追求，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_033.png",
+      "title": "罗宾汉原型",
+      "summary": "劫富济贫的绿林好汉是否有历史原型，诺丁汉郡传说与史实之辨",
+      "full_text": "劫富济贫的绿林好汉是否有历史原型，诺丁汉郡传说与史实之辨",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "historical_mysteries_033_4",
         "historical_mysteries_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_033_pixel.jpg"
     },
     {
       "id": "historical_mysteries_034",
-      "title": "历史未解之谜 - 图片35",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "在自然的领域里，科技进步展现得淋漓尽致，每一个文化符号都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_034.png",
+      "title": "亚瑟王与圆桌",
+      "summary": "亚瑟王与圆桌骑士是凯尔特传说还是真实历史，卡梅洛特何在",
+      "full_text": "亚瑟王与圆桌骑士是凯尔特传说还是真实历史，卡梅洛特何在",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "historical_mysteries_034_4",
         "historical_mysteries_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_034_pixel.jpg"
     },
     {
       "id": "historical_mysteries_035",
-      "title": "历史未解之谜 - 图片36",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它丰富地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_035.png",
+      "title": "中世纪圣像破坏",
+      "summary": "拜占庭帝国为何两度掀起圣像破坏运动，宗教与政治如何角力",
+      "full_text": "拜占庭帝国为何两度掀起圣像破坏运动，宗教与政治如何角力",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "historical_mysteries_035_4",
         "historical_mysteries_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_035_pixel.jpg"
     },
     {
       "id": "historical_mysteries_036",
-      "title": "历史未解之谜 - 图片37",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "在艺术的领域里，历史变迁展现得淋漓尽致，每一个色彩都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_036.png",
+      "title": "都灵裹尸布影像",
+      "summary": "布面影像如摄影负片呈现三维信息，中世纪技术能否制造此效果",
+      "full_text": "布面影像如摄影负片呈现三维信息，中世纪技术能否制造此效果",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "historical_mysteries_036_4",
         "historical_mysteries_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_036_pixel.jpg"
     },
     {
       "id": "historical_mysteries_037",
-      "title": "历史未解之谜 - 图片38",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了敬畏与知识启迪。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_037.png",
+      "title": "马耳他巨石庙",
+      "summary": "马耳他岛上巨石庙比金字塔更古老，岛民如何搬运数吨石块",
+      "full_text": "马耳他岛上巨石庙比金字塔更古老，岛民如何搬运数吨石块",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "historical_mysteries_037_4",
         "historical_mysteries_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_037_pixel.jpg"
     },
     {
       "id": "historical_mysteries_038",
-      "title": "历史未解之谜 - 图片39",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然是思想升华的结晶，它诠释着人文的关怀，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_038.png",
+      "title": "中世纪犹太密典",
+      "summary": "喀巴拉神秘主义典籍中暗藏创世密码，数字与字母的奥秘",
+      "full_text": "喀巴拉神秘主义典籍中暗藏创世密码，数字与字母的奥秘",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "historical_mysteries_038_4",
         "historical_mysteries_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_038_pixel.jpg"
     },
     {
       "id": "historical_mysteries_039",
-      "title": "历史未解之谜 - 图片40",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它深刻地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_039.png",
+      "title": "贝叶挂毯秘密",
+      "summary": "七十米长挂毯记录诺曼征服，边缘图案是否隐藏密码信息",
+      "full_text": "七十米长挂毯记录诺曼征服，边缘图案是否隐藏密码信息",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "historical_mysteries_039_4",
         "historical_mysteries_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_039_pixel.jpg"
     },
     {
       "id": "historical_mysteries_040",
-      "title": "历史未解之谜 - 图片41",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术不仅记录了人类文明，更传递了情感的力量，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_040.png",
+      "title": "罗阿诺克殖民地消失",
+      "summary": "英格兰殖民者在罗阿诺克岛神秘消失，仅留刻字CROATOAN",
+      "full_text": "英格兰殖民者在罗阿诺克岛神秘消失，仅留刻字CROATOAN",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "historical_mysteries_040_4",
         "historical_mysteries_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_040_pixel.jpg"
     },
     {
       "id": "historical_mysteries_041",
-      "title": "历史未解之谜 - 图片42",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化不仅传承了自然之美，更传递了人与自然的和谐，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_041.png",
+      "title": "通古斯大爆炸",
+      "summary": "西伯利亚通古斯河上空巨大火球摧毁两千平方公里森林，原因成谜",
+      "full_text": "西伯利亚通古斯河上空巨大火球摧毁两千平方公里森林，原因成谜",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "historical_mysteries_041_4",
         "historical_mysteries_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_041_pixel.jpg"
     },
     {
       "id": "historical_mysteries_042",
-      "title": "历史未解之谜 - 图片43",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然不仅展现了情感世界，更传递了美的真谛，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_042.png",
+      "title": "琥珀屋失踪",
+      "summary": "普鲁士赠送俄国的琥珀镶板屋在二战中失踪，去向至今不明",
+      "full_text": "普鲁士赠送俄国的琥珀镶板屋在二战中失踪，去向至今不明",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "historical_mysteries_042_4",
         "historical_mysteries_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_042_pixel.jpg"
     },
     {
       "id": "historical_mysteries_043",
-      "title": "历史未解之谜 - 图片44",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它深刻地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_043.png",
+      "title": "拿破仑死因",
+      "summary": "拿破仑在圣赫勒拿岛去世，砷中毒还是胃癌，死因争论两百年",
+      "full_text": "拿破仑在圣赫勒拿岛去世，砷中毒还是胃癌，死因争论两百年",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "historical_mysteries_043_4",
         "historical_mysteries_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_043_pixel.jpg"
     },
     {
       "id": "historical_mysteries_044",
-      "title": "历史未解之谜 - 图片45",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它神秘地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_044.png",
+      "title": "玛丽赛勒斯特号",
+      "summary": "商船在海上漂流船员全部消失，货物完好食物充足无人驾驶",
+      "full_text": "商船在海上漂流船员全部消失，货物完好食物充足无人驾驶",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "historical_mysteries_044_4",
         "historical_mysteries_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_044_pixel.jpg"
     },
     {
       "id": "historical_mysteries_045",
-      "title": "历史未解之谜 - 图片46",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化是自然造化的结晶，它表达着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_045.png",
+      "title": "沙皇黄金",
+      "summary": "尼古拉二世转移的国库黄金在西伯利亚失踪，数百吨黄金去向不明",
+      "full_text": "尼古拉二世转移的国库黄金在西伯利亚失踪，数百吨黄金去向不明",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "historical_mysteries_045_4",
         "historical_mysteries_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_045_pixel.jpg"
     },
     {
       "id": "historical_mysteries_046",
-      "title": "历史未解之谜 - 图片47",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它优美地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_046.png",
+      "title": "阿梅利亚埃尔哈特",
+      "summary": "女飞行员在太平洋上空失踪，残骸与遗体至今未被找到",
+      "full_text": "女飞行员在太平洋上空失踪，残骸与遗体至今未被找到",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "historical_mysteries_046_4",
         "historical_mysteries_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_046_pixel.jpg"
     },
     {
       "id": "historical_mysteries_047",
-      "title": "历史未解之谜 - 图片48",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学不仅展现了自然之美，更传递了美的真谛，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_047.png",
+      "title": "达芬奇密码",
+      "summary": "达芬奇画作中隐藏的符号与密码，最后的晚餐中是否暗藏信息",
+      "full_text": "达芬奇画作中隐藏的符号与密码，最后的晚餐中是否暗藏信息",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "historical_mysteries_047_4",
         "historical_mysteries_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_047_pixel.jpg"
     },
     {
       "id": "historical_mysteries_048",
-      "title": "历史未解之谜 - 图片49",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "在艺术的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_048.png",
+      "title": "伏尼契手稿近代",
+      "summary": "二十世纪重新发现的手稿引发全球破译竞赛，密码学家束手无策",
+      "full_text": "二十世纪重新发现的手稿引发全球破译竞赛，密码学家束手无策",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "historical_mysteries_048_4",
         "historical_mysteries_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_048_pixel.jpg"
     },
     {
       "id": "historical_mysteries_049",
-      "title": "历史未解之谜 - 图片50",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化是审美追求的结晶，它诠释着深刻的思考，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_049.png",
+      "title": "开膛手杰克",
+      "summary": "一八八八年伦敦白教堂区连环杀手身份从未确认，百年悬案",
+      "full_text": "一八八八年伦敦白教堂区连环杀手身份从未确认，百年悬案",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "historical_mysteries_049_4",
         "historical_mysteries_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_049_pixel.jpg"
     },
     {
       "id": "historical_mysteries_050",
-      "title": "历史未解之谜 - 图片51",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然不仅传承了人类文明，更传递了智慧的光芒，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_050.png",
+      "title": "安提基特拉机械研究",
+      "summary": "X射线断层扫描揭示更多齿轮，古希腊天文计算机超乎想象",
+      "full_text": "X射线断层扫描揭示更多齿轮，古希腊天文计算机超乎想象",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "historical_mysteries_050_4",
         "historical_mysteries_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_050_pixel.jpg"
     },
     {
       "id": "historical_mysteries_051",
-      "title": "历史未解之谜 - 图片52",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学不仅创造了文化内涵，更传递了智慧的光芒，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_051.png",
+      "title": "复活节岛文明崩溃",
+      "summary": "拉帕努伊人砍光岛上树木导致生态崩溃，还是欧洲人带来灾难",
+      "full_text": "拉帕努伊人砍光岛上树木导致生态崩溃，还是欧洲人带来灾难",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "historical_mysteries_051_4",
         "historical_mysteries_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_051_pixel.jpg"
     },
     {
       "id": "historical_mysteries_052",
-      "title": "历史未解之谜 - 图片53",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是思想升华的结晶，它引领着深刻的思考，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_052.png",
+      "title": "纳斯卡线条新发现",
+      "summary": "无人机发现更多地面图案，线条与地下水通道是否有关联",
+      "full_text": "无人机发现更多地面图案，线条与地下水通道是否有关联",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "historical_mysteries_052_4",
         "historical_mysteries_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_052_pixel.jpg"
     },
     {
       "id": "historical_mysteries_053",
-      "title": "历史未解之谜 - 图片54",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化是思想升华的结晶，它传递着人类的梦想，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_053.png",
+      "title": "哥贝克力石阵年代",
+      "summary": "碳十四测定石阵距今一万两千年，比农业革命更早颠覆认知",
+      "full_text": "碳十四测定石阵距今一万两千年，比农业革命更早颠覆认知",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "historical_mysteries_053_4",
         "historical_mysteries_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_053_pixel.jpg"
     },
     {
       "id": "historical_mysteries_054",
-      "title": "历史未解之谜 - 图片55",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_054.png",
+      "title": "三星堆祭祀坑",
+      "summary": "新发现六个祭祀坑出土更多青铜器，古蜀祭祀仪式逐步揭示",
+      "full_text": "新发现六个祭祀坑出土更多青铜器，古蜀祭祀仪式逐步揭示",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "historical_mysteries_054_4",
         "historical_mysteries_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_054_pixel.jpg"
     },
     {
       "id": "historical_mysteries_055",
-      "title": "历史未解之谜 - 图片56",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它和谐地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_055.png",
+      "title": "秦始皇陵水银",
+      "summary": "地质探测发现封土下汞异常区域，史记水银江河记载或非虚言",
+      "full_text": "地质探测发现封土下汞异常区域，史记水银江河记载或非虚言",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "historical_mysteries_055_4",
         "historical_mysteries_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_055_pixel.jpg"
     },
     {
       "id": "historical_mysteries_056",
-      "title": "历史未解之谜 - 图片57",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是生活体验的结晶，它传递着生活的智慧，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_056.png",
+      "title": "玛雅地下洞穴",
+      "summary": "考古学家在尤卡坦天然井中发现祭祀遗物，地下世界信仰实证",
+      "full_text": "考古学家在尤卡坦天然井中发现祭祀遗物，地下世界信仰实证",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "historical_mysteries_056_4",
         "historical_mysteries_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_056_pixel.jpg"
     },
     {
       "id": "historical_mysteries_057",
-      "title": "历史未解之谜 - 图片58",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它绚丽地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_057.png",
+      "title": "庞贝遗骸姿势",
+      "summary": "火山灰中遗骸呈现各异姿势，最后时刻发生了什么",
+      "full_text": "火山灰中遗骸呈现各异姿势，最后时刻发生了什么",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "historical_mysteries_057_4",
         "historical_mysteries_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_057_pixel.jpg"
     },
     {
       "id": "historical_mysteries_058",
-      "title": "历史未解之谜 - 图片59",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它质朴地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_058.png",
+      "title": "古埃及金字塔工城",
+      "summary": "金字塔工人村落考古揭示建造者并非奴隶，而是受薪劳工",
+      "full_text": "金字塔工人村落考古揭示建造者并非奴隶，而是受薪劳工",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "historical_mysteries_058_4",
         "historical_mysteries_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_058_pixel.jpg"
     },
     {
       "id": "historical_mysteries_059",
-      "title": "历史未解之谜 - 图片60",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学不仅诠释了情感世界，更传递了创新的精神，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_059.png",
+      "title": "吴哥激光雷达",
+      "summary": "机载激光雷达穿透丛林揭示吴哥城市规模远超想象",
+      "full_text": "机载激光雷达穿透丛林揭示吴哥城市规模远超想象",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "historical_mysteries_059_4",
         "historical_mysteries_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_059_pixel.jpg"
     },
     {
       "id": "historical_mysteries_060",
-      "title": "历史未解之谜 - 图片61",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它优美地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_060.png",
+      "title": "巨石阵蓝石来源",
+      "summary": "蓝石从二百四十公里外威尔士运来，新石器时代如何搬运",
+      "full_text": "蓝石从二百四十公里外威尔士运来，新石器时代如何搬运",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "historical_mysteries_060_4",
         "historical_mysteries_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_060_pixel.jpg"
     },
     {
       "id": "historical_mysteries_061",
-      "title": "历史未解之谜 - 图片62",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它精彩地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_061.png",
+      "title": "图坦卡蒙死因",
+      "summary": "CT扫描显示法老腿部骨折与疟疾感染，是谋杀还是意外",
+      "full_text": "CT扫描显示法老腿部骨折与疟疾感染，是谋杀还是意外",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "historical_mysteries_061_4",
         "historical_mysteries_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_061_pixel.jpg"
     },
     {
       "id": "historical_mysteries_062",
-      "title": "历史未解之谜 - 图片63",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然不仅传递了情感世界，更传递了创新的精神，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_062.png",
+      "title": "良渚水利系统",
+      "summary": "良渚古城外围发现世界最早大型水坝系统，五千年治水智慧",
+      "full_text": "良渚古城外围发现世界最早大型水坝系统，五千年治水智慧",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "historical_mysteries_062_4",
         "historical_mysteries_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_062_pixel.jpg"
     },
     {
       "id": "historical_mysteries_063",
-      "title": "历史未解之谜 - 图片64",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它灵动地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_063.png",
+      "title": "殷墟人牲祭祀",
+      "summary": "殷墟祭祀坑中大量人骨与青铜器共存，商代祭祀规模令人震惊",
+      "full_text": "殷墟祭祀坑中大量人骨与青铜器共存，商代祭祀规模令人震惊",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "historical_mysteries_063_4",
         "historical_mysteries_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_063_pixel.jpg"
     },
     {
       "id": "historical_mysteries_064",
-      "title": "历史未解之谜 - 图片65",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "在艺术的领域里，生态保护展现得淋漓尽致，每一个文化符号都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_064.png",
+      "title": "亚特兰蒂斯新假说",
+      "summary": "圣托里尼火山爆发摧毁米诺斯文明，是否就是亚特兰蒂斯原型",
+      "full_text": "圣托里尼火山爆发摧毁米诺斯文明，是否就是亚特兰蒂斯原型",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "historical_mysteries_064_4",
         "historical_mysteries_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_064_pixel.jpg"
     },
     {
       "id": "historical_mysteries_065",
-      "title": "历史未解之谜 - 图片66",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "文化不仅表达了人类文明，更传递了美的真谛，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_065.png",
+      "title": "玛雅水晶头骨",
+      "summary": "传说中玛雅水晶头骨蕴含远古智慧，现代检测揭示其真实年代",
+      "full_text": "传说中玛雅水晶头骨蕴含远古智慧，现代检测揭示其真实年代",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "historical_mysteries_065_4",
         "historical_mysteries_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_065_pixel.jpg"
     },
     {
       "id": "historical_mysteries_066",
-      "title": "历史未解之谜 - 图片67",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "自然是情感表达的结晶，它启迪着人类的梦想，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_066.png",
+      "title": "成吉思汗陵墓",
+      "summary": "成吉思汗秘葬于肯特山中，蒙古秘葬制度使陵墓至今未被找到",
+      "full_text": "成吉思汗秘葬于肯特山中，蒙古秘葬制度使陵墓至今未被找到",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "historical_mysteries_066_4",
         "historical_mysteries_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_066_pixel.jpg"
     },
     {
       "id": "historical_mysteries_067",
-      "title": "历史未解之谜 - 图片68",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "科学是时代精神的结晶，它承载着美好的愿景，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_067.png",
+      "title": "秦始皇陵机关",
+      "summary": "史记记载地宫中以机关弩矢防盗，两千年来无人能入地宫验证",
+      "full_text": "史记记载地宫中以机关弩矢防盗，两千年来无人能入地宫验证",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "historical_mysteries_067_4",
         "historical_mysteries_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_067_pixel.jpg"
     },
     {
       "id": "historical_mysteries_068",
-      "title": "历史未解之谜 - 图片69",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它优雅地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_068.png",
+      "title": "庞贝遗骸DNA",
+      "summary": "基因分析揭示庞贝遇难者亲缘关系，火山灰中保存的遗传密码",
+      "full_text": "基因分析揭示庞贝遇难者亲缘关系，火山灰中保存的遗传密码",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "historical_mysteries_068_4",
         "historical_mysteries_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_068_pixel.jpg"
     },
     {
       "id": "historical_mysteries_069",
-      "title": "历史未解之谜 - 图片70",
-      "summary": "历史未解之谜相关图片",
-      "full_text": "在文化的领域里，自然奇观展现得淋漓尽致，每一个色彩都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_069.png",
+      "title": "古埃及木乃伊CT",
+      "summary": "CT扫描不拆解绷带即可观察木乃伊体内，法老健康状况逐步揭示",
+      "full_text": "CT扫描不拆解绷带即可观察木乃伊体内，法老健康状况逐步揭示",
+      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "historical_mysteries_069_4",
         "historical_mysteries_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_069_pixel.jpg"
     }
   ]
 }

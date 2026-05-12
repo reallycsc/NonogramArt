@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "astronomy_000",
-      "title": "天文学 - 图片1",
-      "summary": "天文学相关图片",
-      "full_text": "浩瀚星空是情感表达的结晶，它展现着艺术的追求，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_000.png",
+      "title": "太阳耀斑",
+      "summary": "太阳表面耀斑爆发，日冕物质抛射，恒星之心",
+      "full_text": "太阳表面耀斑爆发，日冕物质抛射，恒星之心",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "astronomy_000_4",
         "astronomy_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_000_pixel.jpg"
     },
     {
       "id": "astronomy_001",
-      "title": "天文学 - 图片2",
-      "summary": "天文学相关图片",
-      "full_text": "在神秘宇宙的领域里，历史变迁展现得淋漓尽致，每一个光影都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_001.png",
+      "title": "水星陨坑",
+      "summary": "水星表面密布陨石坑，温差极大无大气层，离太阳最近",
+      "full_text": "水星表面密布陨石坑，温差极大无大气层，离太阳最近",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "astronomy_001_4",
         "astronomy_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_001_pixel.jpg"
     },
     {
       "id": "astronomy_002",
-      "title": "天文学 - 图片3",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河不仅诠释了生活哲理，更传递了生命的意义，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_002.png",
+      "title": "金星厚云",
+      "summary": "金星厚重云层温室效应，表面温度极高，地球的姊妹星",
+      "full_text": "金星厚重云层温室效应，表面温度极高，地球的姊妹星",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "astronomy_002_4",
         "astronomy_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_002_pixel.jpg"
     },
     {
       "id": "astronomy_003",
-      "title": "天文学 - 图片4",
-      "summary": "天文学相关图片",
-      "full_text": "行星探索是时代精神的结晶，它引领着人类的梦想，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_003.png",
+      "title": "地球蓝色星球",
+      "summary": "地球蓝色星球太空视角，海洋白云陆地，生命家园",
+      "full_text": "地球蓝色星球太空视角，海洋白云陆地，生命家园",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "astronomy_003_4",
         "astronomy_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_003_pixel.jpg"
     },
     {
       "id": "astronomy_004",
-      "title": "天文学 - 图片5",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是历史积淀的结晶，它诠释着人文的关怀，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_004.png",
+      "title": "火星红色荒漠",
+      "summary": "火星红色荒漠尘暴，奥林帕斯山极高，探索目标",
+      "full_text": "火星红色荒漠尘暴，奥林帕斯山极高，探索目标",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "astronomy_004_4",
         "astronomy_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_004_pixel.jpg"
     },
     {
       "id": "astronomy_005",
-      "title": "天文学 - 图片6",
-      "summary": "天文学相关图片",
-      "full_text": "浩瀚星空是审美追求的结晶，它表达着创新的理念，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_005.png",
+      "title": "木星大红斑",
+      "summary": "木星大红斑巨型风暴，气态巨行星条纹，太阳系之王",
+      "full_text": "木星大红斑巨型风暴，气态巨行星条纹，太阳系之王",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "astronomy_005_4",
         "astronomy_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_005_pixel.jpg"
     },
     {
       "id": "astronomy_006",
-      "title": "天文学 - 图片7",
-      "summary": "天文学相关图片",
-      "full_text": "探索神秘宇宙的世界，仿佛打开了一扇通往智慧天地的大门，充满了敬畏与审美体验。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_006.png",
+      "title": "土星光环",
+      "summary": "土星壮丽冰粒光环，卡西尼环缝清晰，环中之美",
+      "full_text": "土星壮丽冰粒光环，卡西尼环缝清晰，环中之美",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "astronomy_006_4",
         "astronomy_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_006_pixel.jpg"
     },
     {
       "id": "astronomy_007",
-      "title": "天文学 - 图片8",
-      "summary": "天文学相关图片",
-      "full_text": "探索璀璨星河的世界，仿佛打开了一扇通往知识海洋的大门，充满了喜悦与审美体验。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_007.png",
+      "title": "天王星侧转",
+      "summary": "天王星侧躺自转，蓝绿色冰巨星，独特倾斜",
+      "full_text": "天王星侧躺自转，蓝绿色冰巨星，独特倾斜",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "astronomy_007_4",
         "astronomy_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_007_pixel.jpg"
     },
     {
       "id": "astronomy_008",
-      "title": "天文学 - 图片9",
-      "summary": "天文学相关图片",
-      "full_text": "行星探索是人类文明的重要组成部分，它典雅地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_008.png",
+      "title": "海王星深蓝",
+      "summary": "海王星深蓝色大气，风速最快行星，遥远冰巨星",
+      "full_text": "海王星深蓝色大气，风速最快行星，遥远冰巨星",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "astronomy_008_4",
         "astronomy_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_008_pixel.jpg"
     },
     {
       "id": "astronomy_009",
-      "title": "天文学 - 图片10",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是人类文明的重要组成部分，它灵动地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_009.png",
+      "title": "小行星带",
+      "summary": "火星木星间小行星带，无数岩石碎片，太阳系遗迹",
+      "full_text": "火星木星间小行星带，无数岩石碎片，太阳系遗迹",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "astronomy_009_4",
         "astronomy_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_009_pixel.jpg"
     },
     {
       "id": "astronomy_010",
-      "title": "天文学 - 图片11",
-      "summary": "天文学相关图片",
-      "full_text": "浩瀚星空是文化传承的结晶，它承载着深刻的思考，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_010.png",
+      "title": "彗星长尾",
+      "summary": "彗星接近太阳长尾拖曳，冰尘混合脏雪球，天际过客",
+      "full_text": "彗星接近太阳长尾拖曳，冰尘混合脏雪球，天际过客",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "astronomy_010_4",
         "astronomy_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_010_pixel.jpg"
     },
     {
       "id": "astronomy_011",
-      "title": "天文学 - 图片12",
-      "summary": "天文学相关图片",
-      "full_text": "神秘宇宙是人类文明的重要组成部分，它生动地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_011.png",
+      "title": "流星雨",
+      "summary": "流星雨划过夜空，碎片燃烧发光，许愿时刻",
+      "full_text": "流星雨划过夜空，碎片燃烧发光，许愿时刻",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "astronomy_011_4",
         "astronomy_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_011_pixel.jpg"
     },
     {
       "id": "astronomy_012",
-      "title": "天文学 - 图片13",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河是思想升华的结晶，它诠释着创新的理念，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_012.png",
+      "title": "冥王星心形",
+      "summary": "冥王星心形冰原，新视野号拍摄，矮行星之美",
+      "full_text": "冥王星心形冰原，新视野号拍摄，矮行星之美",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "astronomy_012_4",
         "astronomy_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_012_pixel.jpg"
     },
     {
       "id": "astronomy_013",
-      "title": "天文学 - 图片14",
-      "summary": "天文学相关图片",
-      "full_text": "行星探索不仅展现了情感世界，更传递了情感的力量，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_013.png",
+      "title": "柯伊伯带",
+      "summary": "柯伊伯带海王星外，冰冷天体聚集，太阳系边疆",
+      "full_text": "柯伊伯带海王星外，冰冷天体聚集，太阳系边疆",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "astronomy_013_4",
         "astronomy_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_013_pixel.jpg"
     },
     {
       "id": "astronomy_014",
-      "title": "天文学 - 图片15",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是历史积淀的结晶，它传递着创新的理念，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_014.png",
+      "title": "日食奇观",
+      "summary": "日全食月球遮太阳，日冕钻石环，天文奇观",
+      "full_text": "日全食月球遮太阳，日冕钻石环，天文奇观",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "astronomy_014_4",
         "astronomy_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_014_pixel.jpg"
     },
     {
       "id": "astronomy_015",
-      "title": "天文学 - 图片16",
-      "summary": "天文学相关图片",
-      "full_text": "探索浩瀚星空的世界，仿佛打开了一扇通往智慧天地的大门，充满了惊叹与文化浸润。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_015.png",
+      "title": "月食红月",
+      "summary": "月全食红铜色月亮，地球影子折射，天象之美",
+      "full_text": "月全食红铜色月亮，地球影子折射，天象之美",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "astronomy_015_4",
         "astronomy_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_015_pixel.jpg"
     },
     {
       "id": "astronomy_016",
-      "title": "天文学 - 图片17",
-      "summary": "天文学相关图片",
-      "full_text": "探索神秘宇宙的世界，仿佛打开了一扇通往美好家园的大门，充满了敬畏与情感共鸣。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_016.png",
+      "title": "银河系全景",
+      "summary": "银河系旋臂结构，千亿恒星盘面，我们的星系",
+      "full_text": "银河系旋臂结构，千亿恒星盘面，我们的星系",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "astronomy_016_4",
         "astronomy_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_016_pixel.jpg"
     },
     {
       "id": "astronomy_017",
-      "title": "天文学 - 图片18",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河不仅弘扬了人类文明，更传递了人与自然的和谐，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_017.png",
+      "title": "猎户座星云",
+      "summary": "猎户座大星云恒星诞生，气体尘埃发光，宇宙摇篮",
+      "full_text": "猎户座大星云恒星诞生，气体尘埃发光，宇宙摇篮",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "astronomy_017_4",
         "astronomy_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_017_pixel.jpg"
     },
     {
       "id": "astronomy_018",
-      "title": "天文学 - 图片19",
-      "summary": "天文学相关图片",
-      "full_text": "在行星探索的领域里，科学发现展现得淋漓尽致，每一个线条都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_018.png",
+      "title": "仙女座星系",
+      "summary": "仙女座星系螺旋臂，距银河最近大星系，未来碰撞",
+      "full_text": "仙女座星系螺旋臂，距银河最近大星系，未来碰撞",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "astronomy_018_4",
         "astronomy_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_018_pixel.jpg"
     },
     {
       "id": "astronomy_019",
-      "title": "天文学 - 图片20",
-      "summary": "天文学相关图片",
-      "full_text": "在宇宙奥秘的领域里，自然奇观展现得淋漓尽致，每一个瞬间都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_019.png",
+      "title": "黑洞吞噬",
+      "summary": "黑洞事件视界吞噬一切，引力极强光无法逃逸，时空奇点",
+      "full_text": "黑洞事件视界吞噬一切，引力极强光无法逃逸，时空奇点",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "astronomy_019_4",
         "astronomy_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_019_pixel.jpg"
     },
     {
       "id": "astronomy_020",
-      "title": "天文学 - 图片21",
-      "summary": "天文学相关图片",
-      "full_text": "在浩瀚星空的领域里，科学发现展现得淋漓尽致，每一个线条都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_020.png",
+      "title": "中子星脉冲",
+      "summary": "中子星密度极高脉冲信号，一勺重亿吨，极端天体",
+      "full_text": "中子星密度极高脉冲信号，一勺重亿吨，极端天体",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "astronomy_020_4",
         "astronomy_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_020_pixel.jpg"
     },
     {
       "id": "astronomy_021",
-      "title": "天文学 - 图片22",
-      "summary": "天文学相关图片",
-      "full_text": "探索神秘宇宙的世界，仿佛打开了一扇通往美好家园的大门，充满了震撼与艺术熏陶。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_021.png",
+      "title": "超新星爆发",
+      "summary": "超新星爆发恒星死亡，光芒照亮整个星系，元素工厂",
+      "full_text": "超新星爆发恒星死亡，光芒照亮整个星系，元素工厂",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "astronomy_021_4",
         "astronomy_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_021_pixel.jpg"
     },
     {
       "id": "astronomy_022",
-      "title": "天文学 - 图片23",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河不仅揭示了文化内涵，更传递了人与自然的和谐，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_022.png",
+      "title": "白矮星冷却",
+      "summary": "白矮星恒星残骸，电子简并压支撑，缓慢冷却",
+      "full_text": "白矮星恒星残骸，电子简并压支撑，缓慢冷却",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "astronomy_022_4",
         "astronomy_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_022_pixel.jpg"
     },
     {
       "id": "astronomy_023",
-      "title": "天文学 - 图片24",
-      "summary": "天文学相关图片",
-      "full_text": "探索行星探索的世界，仿佛打开了一扇通往神秘国度的大门，充满了喜悦与视觉享受。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_023.png",
+      "title": "星系碰撞",
+      "summary": "星系碰撞引力交互，潮汐尾恒星形成，宇宙大戏",
+      "full_text": "星系碰撞引力交互，潮汐尾恒星形成，宇宙大戏",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "astronomy_023_4",
         "astronomy_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_023_pixel.jpg"
     },
     {
       "id": "astronomy_024",
-      "title": "天文学 - 图片25",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是人类文明的重要组成部分，它清新地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_024.png",
+      "title": "暗物质晕",
+      "summary": "暗物质包围星系，看不见却占大部分质量，宇宙骨架",
+      "full_text": "暗物质包围星系，看不见却占大部分质量，宇宙骨架",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "astronomy_024_4",
         "astronomy_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_024_pixel.jpg"
     },
     {
       "id": "astronomy_025",
-      "title": "天文学 - 图片26",
-      "summary": "天文学相关图片",
-      "full_text": "探索浩瀚星空的世界，仿佛打开了一扇通往历史长河的大门，充满了感动与情感共鸣。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_025.png",
+      "title": "引力透镜",
+      "summary": "引力透镜弯曲光线，大质量天体放大背景，爱因斯坦预言",
+      "full_text": "引力透镜弯曲光线，大质量天体放大背景，爱因斯坦预言",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "astronomy_025_4",
         "astronomy_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_025_pixel.jpg"
     },
     {
       "id": "astronomy_026",
-      "title": "天文学 - 图片27",
-      "summary": "天文学相关图片",
-      "full_text": "神秘宇宙是审美追求的结晶，它承载着人文的关怀，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_026.png",
+      "title": "宇宙微波背景",
+      "summary": "宇宙微波背景辐射，大爆炸余温均匀，宇宙婴儿照",
+      "full_text": "宇宙微波背景辐射，大爆炸余温均匀，宇宙婴儿照",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "astronomy_026_4",
         "astronomy_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_026_pixel.jpg"
     },
     {
       "id": "astronomy_027",
-      "title": "天文学 - 图片28",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河是情感表达的结晶，它诠释着人文的关怀，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_027.png",
+      "title": "系外行星",
+      "summary": "系外行星凌日法发现，宜居带超级地球，外星世界",
+      "full_text": "系外行星凌日法发现，宜居带超级地球，外星世界",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "astronomy_027_4",
         "astronomy_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_027_pixel.jpg"
     },
     {
       "id": "astronomy_028",
-      "title": "天文学 - 图片29",
-      "summary": "天文学相关图片",
-      "full_text": "行星探索是人类文明的重要组成部分，它精彩地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_028.png",
+      "title": "星团聚集",
+      "summary": "球状星团百万恒星，古老宇宙化石，密集星群",
+      "full_text": "球状星团百万恒星，古老宇宙化石，密集星群",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "astronomy_028_4",
         "astronomy_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_028_pixel.jpg"
     },
     {
       "id": "astronomy_029",
-      "title": "天文学 - 图片30",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是人类文明的重要组成部分，它精彩地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_029.png",
+      "title": "行星状星云",
+      "summary": "行星状星云恒星晚年，气体壳层色彩斑斓，死亡之美",
+      "full_text": "行星状星云恒星晚年，气体壳层色彩斑斓，死亡之美",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "astronomy_029_4",
         "astronomy_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_029_pixel.jpg"
     },
     {
       "id": "astronomy_030",
-      "title": "天文学 - 图片31",
-      "summary": "天文学相关图片",
-      "full_text": "在浩瀚星空的领域里，生态保护展现得淋漓尽致，每一个思想都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_030.png",
+      "title": "类星体",
+      "summary": "类星体遥远极亮，超大质量黑洞吸积，宇宙灯塔",
+      "full_text": "类星体遥远极亮，超大质量黑洞吸积，宇宙灯塔",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "astronomy_030_4",
         "astronomy_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_030_pixel.jpg"
     },
     {
       "id": "astronomy_031",
-      "title": "天文学 - 图片32",
-      "summary": "天文学相关图片",
-      "full_text": "探索神秘宇宙的世界，仿佛打开了一扇通往神秘国度的大门，充满了宁静与精神升华。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_031.png",
+      "title": "斯普特尼克一号",
+      "summary": "苏联发射第一颗人造卫星，太空时代开启，1957年",
+      "full_text": "苏联发射第一颗人造卫星，太空时代开启，1957年",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "astronomy_031_4",
         "astronomy_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_031_pixel.jpg"
     },
     {
       "id": "astronomy_032",
-      "title": "天文学 - 图片33",
-      "summary": "天文学相关图片",
-      "full_text": "探索璀璨星河的世界，仿佛打开了一扇通往自然奇观的大门，充满了怀念与思想启迪。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_032.png",
+      "title": "加加林太空",
+      "summary": "加加林首次载人航天，东方一号绕地球，太空第一人",
+      "full_text": "加加林首次载人航天，东方一号绕地球，太空第一人",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "astronomy_032_4",
         "astronomy_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_032_pixel.jpg"
     },
     {
       "id": "astronomy_033",
-      "title": "天文学 - 图片34",
-      "summary": "天文学相关图片",
-      "full_text": "在行星探索的领域里，社会发展展现得淋漓尽致，每一个自然元素都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_033.png",
+      "title": "阿波罗登月",
+      "summary": "阿波罗11号登月，阿姆斯特朗一小步，人类壮举",
+      "full_text": "阿波罗11号登月，阿姆斯特朗一小步，人类壮举",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "astronomy_033_4",
         "astronomy_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_033_pixel.jpg"
     },
     {
       "id": "astronomy_034",
-      "title": "天文学 - 图片35",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是人类文明的重要组成部分，它典雅地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_034.png",
+      "title": "国际空间站",
+      "summary": "国际空间站绕地飞行，多国合作太空实验室，轨道家园",
+      "full_text": "国际空间站绕地飞行，多国合作太空实验室，轨道家园",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "astronomy_034_4",
         "astronomy_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_034_pixel.jpg"
     },
     {
       "id": "astronomy_035",
-      "title": "天文学 - 图片36",
-      "summary": "天文学相关图片",
-      "full_text": "在浩瀚星空的领域里，艺术创造展现得淋漓尽致，每一个色彩都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_035.png",
+      "title": "哈勃望远镜",
+      "summary": "哈勃太空望远镜深空拍摄，宇宙边缘影像，天文之眼",
+      "full_text": "哈勃太空望远镜深空拍摄，宇宙边缘影像，天文之眼",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "astronomy_035_4",
         "astronomy_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_035_pixel.jpg"
     },
     {
       "id": "astronomy_036",
-      "title": "天文学 - 图片37",
-      "summary": "天文学相关图片",
-      "full_text": "探索神秘宇宙的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了宁静与美好感受。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_036.png",
+      "title": "韦伯望远镜",
+      "summary": "詹姆斯韦伯太空望远镜，红外波段看宇宙，新一代天文台",
+      "full_text": "詹姆斯韦伯太空望远镜，红外波段看宇宙，新一代天文台",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "astronomy_036_4",
         "astronomy_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_036_pixel.jpg"
     },
     {
       "id": "astronomy_037",
-      "title": "天文学 - 图片38",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河是人类文明的重要组成部分，它庄重地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_037.png",
+      "title": "火星探测器",
+      "summary": "好奇号火星车探测，岩石分析寻找水迹，红色星球探索",
+      "full_text": "好奇号火星车探测，岩石分析寻找水迹，红色星球探索",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "astronomy_037_4",
         "astronomy_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_037_pixel.jpg"
     },
     {
       "id": "astronomy_038",
-      "title": "天文学 - 图片39",
-      "summary": "天文学相关图片",
-      "full_text": "行星探索不仅传承了美好瞬间，更传递了创新的精神，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_038.png",
+      "title": "旅行者号",
+      "summary": "旅行者号飞出太阳系，金唱片携带地球信息，星际信使",
+      "full_text": "旅行者号飞出太阳系，金唱片携带地球信息，星际信使",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "astronomy_038_4",
         "astronomy_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_038_pixel.jpg"
     },
     {
       "id": "astronomy_039",
-      "title": "天文学 - 图片40",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是思想升华的结晶，它激励着深刻的思考，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_039.png",
+      "title": "天问一号",
+      "summary": "中国天问一号火星探测，祝融号火星车着陆，航天里程碑",
+      "full_text": "中国天问一号火星探测，祝融号火星车着陆，航天里程碑",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "astronomy_039_4",
         "astronomy_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_039_pixel.jpg"
     },
     {
       "id": "astronomy_040",
-      "title": "天文学 - 图片41",
-      "summary": "天文学相关图片",
-      "full_text": "浩瀚星空不仅弘扬了自然之美，更传递了奋斗的意义，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_040.png",
+      "title": "北斗导航",
+      "summary": "北斗卫星导航系统，全球定位授时服务，中国导航",
+      "full_text": "北斗卫星导航系统，全球定位授时服务，中国导航",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "astronomy_040_4",
         "astronomy_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_040_pixel.jpg"
     },
     {
       "id": "astronomy_041",
-      "title": "天文学 - 图片42",
-      "summary": "天文学相关图片",
-      "full_text": "神秘宇宙是人类文明的重要组成部分，它庄重地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_041.png",
+      "title": "嫦娥探月",
+      "summary": "嫦娥号月球探测采样，月背软着陆首次，探月工程",
+      "full_text": "嫦娥号月球探测采样，月背软着陆首次，探月工程",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "astronomy_041_4",
         "astronomy_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_041_pixel.jpg"
     },
     {
       "id": "astronomy_042",
-      "title": "天文学 - 图片43",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河是历史积淀的结晶，它创造着人类的梦想，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_042.png",
+      "title": "空间站建设",
+      "summary": "中国天宫空间站组装，核心舱实验舱，太空家园",
+      "full_text": "中国天宫空间站组装，核心舱实验舱，太空家园",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "astronomy_042_4",
         "astronomy_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_042_pixel.jpg"
     },
     {
       "id": "astronomy_043",
-      "title": "天文学 - 图片44",
-      "summary": "天文学相关图片",
-      "full_text": "行星探索不仅探索了自然之美，更传递了真善美的追求，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_043.png",
+      "title": "太空行走",
+      "summary": "宇航员太空行走出舱，失重下维修作业，太空漫步",
+      "full_text": "宇航员太空行走出舱，失重下维修作业，太空漫步",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "astronomy_043_4",
         "astronomy_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_043_pixel.jpg"
     },
     {
       "id": "astronomy_044",
-      "title": "天文学 - 图片45",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘不仅诠释了文化内涵，更传递了梦想的价值，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_044.png",
+      "title": "火箭发射",
+      "summary": "长征火箭点火升空，尾焰喷射震天动地，航天动力",
+      "full_text": "长征火箭点火升空，尾焰喷射震天动地，航天动力",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "astronomy_044_4",
         "astronomy_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_044_pixel.jpg"
     },
     {
       "id": "astronomy_045",
-      "title": "天文学 - 图片46",
-      "summary": "天文学相关图片",
-      "full_text": "在浩瀚星空的领域里，社会发展展现得淋漓尽致，每一个细节都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_045.png",
+      "title": "太空垃圾",
+      "summary": "太空垃圾碎片环绕地球，碰撞风险增加，轨道清洁",
+      "full_text": "太空垃圾碎片环绕地球，碰撞风险增加，轨道清洁",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "astronomy_045_4",
         "astronomy_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_045_pixel.jpg"
     },
     {
       "id": "astronomy_046",
-      "title": "天文学 - 图片47",
-      "summary": "天文学相关图片",
-      "full_text": "探索神秘宇宙的世界，仿佛打开了一扇通往创意空间的大门，充满了激情与心灵震撼。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_046.png",
+      "title": "深空探测",
+      "summary": "深空探测小行星采样，隼鸟号返回，太阳系考古",
+      "full_text": "深空探测小行星采样，隼鸟号返回，太阳系考古",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "astronomy_046_4",
         "astronomy_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_046_pixel.jpg"
     },
     {
       "id": "astronomy_047",
-      "title": "天文学 - 图片48",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河是生活体验的结晶，它传递着永恒的真理，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_047.png",
+      "title": "航天飞机",
+      "summary": "航天飞机可重复使用，像飞机降落轨道飞行，航天时代",
+      "full_text": "航天飞机可重复使用，像飞机降落轨道飞行，航天时代",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "astronomy_047_4",
         "astronomy_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_047_pixel.jpg"
     },
     {
       "id": "astronomy_048",
-      "title": "天文学 - 图片49",
-      "summary": "天文学相关图片",
-      "full_text": "行星探索不仅表达了艺术真谛，更传递了人与自然的和谐，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_048.png",
+      "title": "太空旅游",
+      "summary": "太空旅游商业飞行，维珍银河蓝色起源，平民上太空",
+      "full_text": "太空旅游商业飞行，维珍银河蓝色起源，平民上太空",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "astronomy_048_4",
         "astronomy_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_048_pixel.jpg"
     },
     {
       "id": "astronomy_049",
-      "title": "天文学 - 图片50",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是生活体验的结晶，它承载着生活的智慧，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_049.png",
+      "title": "火星殖民",
+      "summary": "火星殖民概念规划，穹顶基地改造大气，第二家园",
+      "full_text": "火星殖民概念规划，穹顶基地改造大气，第二家园",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "astronomy_049_4",
         "astronomy_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_049_pixel.jpg"
     },
     {
       "id": "astronomy_050",
-      "title": "天文学 - 图片51",
-      "summary": "天文学相关图片",
-      "full_text": "浩瀚星空是情感表达的结晶，它展现着永恒的真理，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_050.png",
+      "title": "天文台观测",
+      "summary": "天文台圆顶望远镜，长曝光拍摄深空，观星圣地",
+      "full_text": "天文台圆顶望远镜，长曝光拍摄深空，观星圣地",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "astronomy_050_4",
         "astronomy_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_050_pixel.jpg"
     },
     {
       "id": "astronomy_051",
-      "title": "天文学 - 图片52",
-      "summary": "天文学相关图片",
-      "full_text": "神秘宇宙是人类智慧的结晶，它诠释着人类的梦想，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_051.png",
+      "title": "射电望远镜",
+      "summary": "中国天眼FAST射电望远镜，接收宇宙信号，聆听宇宙",
+      "full_text": "中国天眼FAST射电望远镜，接收宇宙信号，聆听宇宙",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "astronomy_051_4",
         "astronomy_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_051_pixel.jpg"
     },
     {
       "id": "astronomy_052",
-      "title": "天文学 - 图片53",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河是自然造化的结晶，它启迪着人类的梦想，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_052.png",
+      "title": "天文历法",
+      "summary": "天文历法日食月食预测，二十四节气，时间与星空",
+      "full_text": "天文历法日食月食预测，二十四节气，时间与星空",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "astronomy_052_4",
         "astronomy_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_052_pixel.jpg"
     },
     {
       "id": "astronomy_053",
-      "title": "天文学 - 图片54",
-      "summary": "天文学相关图片",
-      "full_text": "行星探索不仅揭示了时代精神，更传递了真善美的追求，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_053.png",
+      "title": "星座图",
+      "summary": "全天88星座划分，北斗七星猎户座，星空地图",
+      "full_text": "全天88星座划分，北斗七星猎户座，星空地图",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "astronomy_053_4",
         "astronomy_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_053_pixel.jpg"
     },
     {
       "id": "astronomy_054",
-      "title": "天文学 - 图片55",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是人类文明的重要组成部分，它精彩地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_054.png",
+      "title": "宇宙大爆炸",
+      "summary": "宇宙大爆炸138亿年前，从奇点到星系，万物起源",
+      "full_text": "宇宙大爆炸138亿年前，从奇点到星系，万物起源",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "astronomy_054_4",
         "astronomy_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_054_pixel.jpg"
     },
     {
       "id": "astronomy_055",
-      "title": "天文学 - 图片56",
-      "summary": "天文学相关图片",
-      "full_text": "浩瀚星空是时代精神的结晶，它传递着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_055.png",
+      "title": "宇宙膨胀",
+      "summary": "哈勃发现宇宙膨胀，星系红移退行速度，加速膨胀",
+      "full_text": "哈勃发现宇宙膨胀，星系红移退行速度，加速膨胀",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "astronomy_055_4",
         "astronomy_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_055_pixel.jpg"
     },
     {
       "id": "astronomy_056",
-      "title": "天文学 - 图片57",
-      "summary": "天文学相关图片",
-      "full_text": "探索神秘宇宙的世界，仿佛打开了一扇通往文化宝库的大门，充满了好奇与知识启迪。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_056.png",
+      "title": "多重宇宙",
+      "summary": "多重宇宙理论推测，平行世界泡泡宇宙，终极想象",
+      "full_text": "多重宇宙理论推测，平行世界泡泡宇宙，终极想象",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "astronomy_056_4",
         "astronomy_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_056_pixel.jpg"
     },
     {
       "id": "astronomy_057",
-      "title": "天文学 - 图片58",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河是艺术创造的结晶，它记录着美好的愿景，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_057.png",
+      "title": "外星生命",
+      "summary": "外星生命搜寻计划，SETI监听信号，我们是否孤独",
+      "full_text": "外星生命搜寻计划，SETI监听信号，我们是否孤独",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "astronomy_057_4",
         "astronomy_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_057_pixel.jpg"
     },
     {
       "id": "astronomy_058",
-      "title": "天文学 - 图片59",
-      "summary": "天文学相关图片",
-      "full_text": "行星探索不仅揭示了情感世界，更传递了美的真谛，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_058.png",
+      "title": "时间本质",
+      "summary": "时间本质相对论，时间膨胀虫洞穿越，时空之谜",
+      "full_text": "时间本质相对论，时间膨胀虫洞穿越，时空之谜",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "astronomy_058_4",
         "astronomy_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_058_pixel.jpg"
     },
     {
       "id": "astronomy_059",
-      "title": "天文学 - 图片60",
-      "summary": "天文学相关图片",
-      "full_text": "宇宙奥秘是人类文明的重要组成部分，它细腻地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_059.png",
+      "title": "宇宙命运",
+      "summary": "宇宙命运热寂大撕裂，最终结局推测，终极问题",
+      "full_text": "宇宙命运热寂大撕裂，最终结局推测，终极问题",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "astronomy_059_4",
         "astronomy_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_059_pixel.jpg"
     },
     {
       "id": "astronomy_060",
-      "title": "天文学 - 图片61",
-      "summary": "天文学相关图片",
-      "full_text": "浩瀚星空是人类文明的重要组成部分，它细腻地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_060.png",
+      "title": "天文教育",
+      "summary": "天文教育普及观星，天文馆科普展览，仰望星空",
+      "full_text": "天文教育普及观星，天文馆科普展览，仰望星空",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "astronomy_060_4",
         "astronomy_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_060_pixel.jpg"
     },
     {
       "id": "astronomy_061",
-      "title": "天文学 - 图片62",
-      "summary": "天文学相关图片",
-      "full_text": "探索神秘宇宙的世界，仿佛打开了一扇通往创意空间的大门，充满了感动与艺术熏陶。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_061.png",
+      "title": "航天精神",
+      "summary": "航天精神特别能吃苦攻关，逐梦太空，星辰大海",
+      "full_text": "航天精神特别能吃苦攻关，逐梦太空，星辰大海",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "astronomy_061_4",
         "astronomy_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_061_pixel.jpg"
     },
     {
       "id": "astronomy_062",
-      "title": "天文学 - 图片63",
-      "summary": "天文学相关图片",
-      "full_text": "璀璨星河是人类文明的重要组成部分，它奇妙地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_062.png",
+      "title": "系外卫星",
+      "summary": "系外卫星搜寻计划，木卫二冰下海洋，地外生命候选",
+      "full_text": "系外卫星搜寻计划，木卫二冰下海洋，地外生命候选",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "astronomy_062_4",
         "astronomy_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_062_pixel.jpg"
     },
     {
       "id": "astronomy_063",
-      "title": "天文学 - 图片64",
-      "summary": "天文学相关图片",
-      "full_text": "在行星探索的领域里，科技进步展现得淋漓尽致，每一个思想都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_063.png",
+      "title": "引力波探测",
+      "summary": "LIGO探测引力波，双黑洞合并时空涟漪，爱因斯坦预言",
+      "full_text": "LIGO探测引力波，双黑洞合并时空涟漪，爱因斯坦预言",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "astronomy_063_4",
         "astronomy_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_063_pixel.jpg"
     },
     {
       "id": "astronomy_064",
-      "title": "天文学 - 图片65",
-      "summary": "天文学相关图片",
-      "full_text": "探索宇宙奥秘的世界，仿佛打开了一扇通往历史长河的大门，充满了温馨与知识启迪。",
-      "image": "res://assets/images/illustrations/astronomy/astronomy_064.png",
+      "title": "太空资源开发",
+      "summary": "小行星采矿稀有金属，太空资源开发利用，未来产业",
+      "full_text": "小行星采矿稀有金属，太空资源开发利用，未来产业",
+      "image": "res://assets/images/illustrations/astronomy/astronomy_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,7 +1363,8 @@
         "astronomy_064_4",
         "astronomy_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_064_pixel.jpg"
     }
   ]
 }

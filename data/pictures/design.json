@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "design_000",
-      "title": "设计艺术 - 图片1",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术不仅创造了艺术真谛，更传递了生命的意义，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/design/design_000.png",
+      "title": "包豪斯瓦西里椅",
+      "summary": "布鲁尔以钢管弯制编帆布座面的现代椅子",
+      "full_text": "布鲁尔以钢管弯制编帆布座面的现代椅子",
+      "image": "res://assets/images/illustrations/design/design_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "design_000_4",
         "design_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/design/design_000_pixel.jpg"
     },
     {
       "id": "design_001",
-      "title": "设计艺术 - 图片2",
-      "summary": "设计艺术相关图片",
-      "full_text": "文化不仅创造了美好瞬间，更传递了智慧的光芒，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/design/design_001.png",
+      "title": "包豪斯台灯",
+      "summary": "华根菲尔德以半球形灯罩设计的包豪斯经典台灯",
+      "full_text": "华根菲尔德以半球形灯罩设计的包豪斯经典台灯",
+      "image": "res://assets/images/illustrations/design/design_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "design_001_4",
         "design_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/design/design_001_pixel.jpg"
     },
     {
       "id": "design_002",
-      "title": "设计艺术 - 图片3",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往灵感源泉的大门，充满了温馨与思想启迪。",
-      "image": "res://assets/images/illustrations/design/design_002.png",
+      "title": "柯布西耶躺椅",
+      "summary": "柯布西耶以钢管与皮革设计的人体工学躺椅",
+      "full_text": "柯布西耶以钢管与皮革设计的人体工学躺椅",
+      "image": "res://assets/images/illustrations/design/design_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "design_002_4",
         "design_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/design/design_002_pixel.jpg"
     },
     {
       "id": "design_003",
-      "title": "设计艺术 - 图片4",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它细腻地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/design/design_003.png",
+      "title": "密斯巴塞罗那椅",
+      "summary": "密斯以X形不锈钢腿与皮革坐垫设计的经典椅",
+      "full_text": "密斯以X形不锈钢腿与皮革坐垫设计的经典椅",
+      "image": "res://assets/images/illustrations/design/design_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "design_003_4",
         "design_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/design/design_003_pixel.jpg"
     },
     {
       "id": "design_004",
-      "title": "设计艺术 - 图片5",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术不仅展现了人类文明，更传递了智慧的光芒，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/design/design_004.png",
+      "title": "阿尔托帕伊米奥椅",
+      "summary": "阿尔托以模压胶合板设计的疗养院座椅",
+      "full_text": "阿尔托以模压胶合板设计的疗养院座椅",
+      "image": "res://assets/images/illustrations/design/design_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "design_004_4",
         "design_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/design/design_004_pixel.jpg"
     },
     {
       "id": "design_005",
-      "title": "设计艺术 - 图片6",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美丽新世界的大门，充满了激情与精神升华。",
-      "image": "res://assets/images/illustrations/design/design_005.png",
+      "title": "伊姆斯休闲椅",
+      "summary": "伊姆斯夫妇以模压胶合板与皮革设计的休闲椅",
+      "full_text": "伊姆斯夫妇以模压胶合板与皮革设计的休闲椅",
+      "image": "res://assets/images/illustrations/design/design_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "design_005_4",
         "design_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/design/design_005_pixel.jpg"
     },
     {
       "id": "design_006",
-      "title": "设计艺术 - 图片7",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它绚丽地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/design/design_006.png",
+      "title": "伊姆斯玻璃纤维椅",
+      "summary": "伊姆斯以玻璃钢壳体设计的可叠放座椅",
+      "full_text": "伊姆斯以玻璃钢壳体设计的可叠放座椅",
+      "image": "res://assets/images/illustrations/design/design_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "design_006_4",
         "design_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/design/design_006_pixel.jpg"
     },
     {
       "id": "design_007",
-      "title": "设计艺术 - 图片8",
-      "summary": "设计艺术相关图片",
-      "full_text": "在科学的领域里，人类智慧展现得淋漓尽致，每一个自然元素都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/design/design_007.png",
+      "title": "雅各布森蚂蚁椅",
+      "summary": "雅各布森以三条腿胶合板设计的简约餐椅",
+      "full_text": "雅各布森以三条腿胶合板设计的简约餐椅",
+      "image": "res://assets/images/illustrations/design/design_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "design_007_4",
         "design_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/design/design_007_pixel.jpg"
     },
     {
       "id": "design_008",
-      "title": "设计艺术 - 图片9",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它和谐地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/design/design_008.png",
+      "title": "雅各布森蛋椅",
+      "summary": "雅各布森以曲线壳体设计的休闲扶手椅",
+      "full_text": "雅各布森以曲线壳体设计的休闲扶手椅",
+      "image": "res://assets/images/illustrations/design/design_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "design_008_4",
         "design_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/design/design_008_pixel.jpg"
     },
     {
       "id": "design_009",
-      "title": "设计艺术 - 图片10",
-      "summary": "设计艺术相关图片",
-      "full_text": "在文化的领域里，人文景观展现得淋漓尽致，每一个细节都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/design/design_009.png",
+      "title": "沙里宁郁金香椅",
+      "summary": "沙里宁以单柱基座设计的流线型椅子",
+      "full_text": "沙里宁以单柱基座设计的流线型椅子",
+      "image": "res://assets/images/illustrations/design/design_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "design_009_4",
         "design_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/design/design_009_pixel.jpg"
     },
     {
       "id": "design_010",
-      "title": "设计艺术 - 图片11",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它典雅地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/design/design_010.png",
+      "title": "流线型灰狗巴士",
+      "summary": "1930年代以流线型设计减少风阻的客运巴士",
+      "full_text": "1930年代以流线型设计减少风阻的客运巴士",
+      "image": "res://assets/images/illustrations/design/design_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "design_010_4",
         "design_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/design/design_010_pixel.jpg"
     },
     {
       "id": "design_011",
-      "title": "设计艺术 - 图片12",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往灵感源泉的大门，充满了敬畏与美好感受。",
-      "image": "res://assets/images/illustrations/design/design_011.png",
+      "title": "克莱斯勒气流轿车",
+      "summary": "1930年代以空气动力学设计的流线型汽车",
+      "full_text": "1930年代以空气动力学设计的流线型汽车",
+      "image": "res://assets/images/illustrations/design/design_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "design_011_4",
         "design_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/design/design_011_pixel.jpg"
     },
     {
       "id": "design_012",
-      "title": "设计艺术 - 图片13",
-      "summary": "设计艺术相关图片",
-      "full_text": "在艺术的领域里，科学发现展现得淋漓尽致，每一个情感都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/design/design_012.png",
+      "title": "大众甲壳虫汽车",
+      "summary": "波尔舍以简洁实用设计的大众化汽车",
+      "full_text": "波尔舍以简洁实用设计的大众化汽车",
+      "image": "res://assets/images/illustrations/design/design_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "design_012_4",
         "design_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/design/design_012_pixel.jpg"
     },
     {
       "id": "design_013",
-      "title": "设计艺术 - 图片14",
-      "summary": "设计艺术相关图片",
-      "full_text": "在文化的领域里，生态保护展现得淋漓尽致，每一个瞬间都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/design/design_013.png",
+      "title": "博朗收音机",
+      "summary": "拉姆斯以少即是多理念设计的博朗收音机",
+      "full_text": "拉姆斯以少即是多理念设计的博朗收音机",
+      "image": "res://assets/images/illustrations/design/design_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "design_013_4",
         "design_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/design/design_013_pixel.jpg"
     },
     {
       "id": "design_014",
-      "title": "设计艺术 - 图片15",
-      "summary": "设计艺术相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个思想都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/design/design_014.png",
+      "title": "博朗计算器",
+      "summary": "拉姆斯以极简界面设计的博朗电子计算器",
+      "full_text": "拉姆斯以极简界面设计的博朗电子计算器",
+      "image": "res://assets/images/illustrations/design/design_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "design_014_4",
         "design_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/design/design_014_pixel.jpg"
     },
     {
       "id": "design_015",
-      "title": "设计艺术 - 图片16",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学是文化传承的结晶，它记录着社会的进步，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/design/design_015.png",
+      "title": "苹果Macintosh电脑",
+      "summary": "苹果以图形界面与一体化设计的个人电脑",
+      "full_text": "苹果以图形界面与一体化设计的个人电脑",
+      "image": "res://assets/images/illustrations/design/design_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "design_015_4",
         "design_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/design/design_015_pixel.jpg"
     },
     {
       "id": "design_016",
-      "title": "设计艺术 - 图片17",
-      "summary": "设计艺术相关图片",
-      "full_text": "在艺术的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/design/design_016.png",
+      "title": "苹果iPod",
+      "summary": "苹果以滚轮操控与极简白色设计的便携音乐播放器",
+      "full_text": "苹果以滚轮操控与极简白色设计的便携音乐播放器",
+      "image": "res://assets/images/illustrations/design/design_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "design_016_4",
         "design_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/design/design_016_pixel.jpg"
     },
     {
       "id": "design_017",
-      "title": "设计艺术 - 图片18",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美丽新世界的大门，充满了怀念与艺术熏陶。",
-      "image": "res://assets/images/illustrations/design/design_017.png",
+      "title": "戴森吸尘器",
+      "summary": "戴森以无尘袋气旋技术设计的真空吸尘器",
+      "full_text": "戴森以无尘袋气旋技术设计的真空吸尘器",
+      "image": "res://assets/images/illustrations/design/design_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "design_017_4",
         "design_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/design/design_017_pixel.jpg"
     },
     {
       "id": "design_018",
-      "title": "设计艺术 - 图片19",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了惊叹与艺术熏陶。",
-      "image": "res://assets/images/illustrations/design/design_018.png",
+      "title": "外星人榨汁机",
+      "summary": "斯塔克以铸铝长腿设计的柠檬榨汁器",
+      "full_text": "斯塔克以铸铝长腿设计的柠檬榨汁器",
+      "image": "res://assets/images/illustrations/design/design_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "design_018_4",
         "design_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/design/design_018_pixel.jpg"
     },
     {
       "id": "design_019",
-      "title": "设计艺术 - 图片20",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学不仅探索了情感世界，更传递了奋斗的意义，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/design/design_019.png",
+      "title": "无印良品壁挂CD机",
+      "summary": "深泽直人以拉绳播放设计的极简CD播放器",
+      "full_text": "深泽直人以拉绳播放设计的极简CD播放器",
+      "image": "res://assets/images/illustrations/design/design_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "design_019_4",
         "design_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/design/design_019_pixel.jpg"
     },
     {
       "id": "design_020",
-      "title": "设计艺术 - 图片21",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它壮观地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/design/design_020.png",
+      "title": "贝伦斯AEG海报",
+      "summary": "贝伦斯为德国电气公司设计的现代企业视觉形象",
+      "full_text": "贝伦斯为德国电气公司设计的现代企业视觉形象",
+      "image": "res://assets/images/illustrations/design/design_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "design_020_4",
         "design_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/design/design_020_pixel.jpg"
     },
     {
       "id": "design_021",
-      "title": "设计艺术 - 图片22",
-      "summary": "设计艺术相关图片",
-      "full_text": "文化是审美追求的结晶，它承载着艺术的追求，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/design/design_021.png",
+      "title": "包豪斯展览海报",
+      "summary": "施密特以几何构成设计的包豪斯展览海报",
+      "full_text": "施密特以几何构成设计的包豪斯展览海报",
+      "image": "res://assets/images/illustrations/design/design_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "design_021_4",
         "design_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/design/design_021_pixel.jpg"
     },
     {
       "id": "design_022",
-      "title": "设计艺术 - 图片23",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然是时代精神的结晶，它诠释着美好的愿景，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/design/design_022.png",
+      "title": "莫霍利纳吉构成主义海报",
+      "summary": "莫霍利纳吉以摄影与排版构成的先锋海报",
+      "full_text": "莫霍利纳吉以摄影与排版构成的先锋海报",
+      "image": "res://assets/images/illustrations/design/design_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "design_022_4",
         "design_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/design/design_022_pixel.jpg"
     },
     {
       "id": "design_023",
-      "title": "设计艺术 - 图片24",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学是情感表达的结晶，它创造着永恒的真理，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/design/design_023.png",
+      "title": "罗德琴科构成主义广告",
+      "summary": "罗德琴科以对角线构图与红色设计的苏联广告",
+      "full_text": "罗德琴科以对角线构图与红色设计的苏联广告",
+      "image": "res://assets/images/illustrations/design/design_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "design_023_4",
         "design_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/design/design_023_pixel.jpg"
     },
     {
       "id": "design_024",
-      "title": "设计艺术 - 图片25",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了惊叹与视觉享受。",
-      "image": "res://assets/images/illustrations/design/design_024.png",
+      "title": "利西茨基红色楔子",
+      "summary": "利西茨基以几何图形象征红军击败白军的宣传画",
+      "full_text": "利西茨基以几何图形象征红军击败白军的宣传画",
+      "image": "res://assets/images/illustrations/design/design_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "design_024_4",
         "design_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/design/design_024_pixel.jpg"
     },
     {
       "id": "design_025",
-      "title": "设计艺术 - 图片26",
-      "summary": "设计艺术相关图片",
-      "full_text": "在文化的领域里，生态保护展现得淋漓尽致，每一个文化符号都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/design/design_025.png",
+      "title": "保罗兰德IBM标志",
+      "summary": "保罗兰德以条纹字母设计的IBM企业标志",
+      "full_text": "保罗兰德以条纹字母设计的IBM企业标志",
+      "image": "res://assets/images/illustrations/design/design_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "design_025_4",
         "design_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/design/design_025_pixel.jpg"
     },
     {
       "id": "design_026",
-      "title": "设计艺术 - 图片27",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往知识海洋的大门，充满了向往与精神升华。",
-      "image": "res://assets/images/illustrations/design/design_026.png",
+      "title": "切玛耶夫ABC标志",
+      "summary": "切玛耶夫以简洁圆形设计的ABC电视标志",
+      "full_text": "切玛耶夫以简洁圆形设计的ABC电视标志",
+      "image": "res://assets/images/illustrations/design/design_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "design_026_4",
         "design_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/design/design_026_pixel.jpg"
     },
     {
       "id": "design_027",
-      "title": "设计艺术 - 图片28",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它奇妙地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/design/design_027.png",
+      "title": "弗鲁提格机场导视",
+      "summary": "弗鲁提格为机场设计的清晰无衬线字体导视",
+      "full_text": "弗鲁提格为机场设计的清晰无衬线字体导视",
+      "image": "res://assets/images/illustrations/design/design_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "design_027_4",
         "design_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/design/design_027_pixel.jpg"
     },
     {
       "id": "design_028",
-      "title": "设计艺术 - 图片29",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它灵动地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/design/design_028.png",
+      "title": "赫尔维提卡字体应用",
+      "summary": "以中性清晰著称的赫尔维提卡字体的经典应用",
+      "full_text": "以中性清晰著称的赫尔维提卡字体的经典应用",
+      "image": "res://assets/images/illustrations/design/design_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "design_028_4",
         "design_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/design/design_028_pixel.jpg"
     },
     {
       "id": "design_029",
-      "title": "设计艺术 - 图片30",
-      "summary": "设计艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它丰富地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/design/design_029.png",
+      "title": "沃霍尔金宝汤海报",
+      "summary": "沃霍尔以波普艺术风格设计的商业海报",
+      "full_text": "沃霍尔以波普艺术风格设计的商业海报",
+      "image": "res://assets/images/illustrations/design/design_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "design_029_4",
         "design_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/design/design_029_pixel.jpg"
     },
     {
       "id": "design_030",
-      "title": "设计艺术 - 图片31",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然不仅展现了人类文明，更传递了梦想的价值，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/design/design_030.png",
+      "title": "格拉瑟I❤NY标志",
+      "summary": "格拉瑟以心形符号设计的纽约城市标志",
+      "full_text": "格拉瑟以心形符号设计的纽约城市标志",
+      "image": "res://assets/images/illustrations/design/design_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "design_030_4",
         "design_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/design/design_030_pixel.jpg"
     },
     {
       "id": "design_031",
-      "title": "设计艺术 - 图片32",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学是文化传承的结晶，它展现着创新的理念，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/design/design_031.png",
+      "title": "田中一光日本海报",
+      "summary": "田中一光以几何色块与日本美学设计的海报",
+      "full_text": "田中一光以几何色块与日本美学设计的海报",
+      "image": "res://assets/images/illustrations/design/design_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "design_031_4",
         "design_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/design/design_031_pixel.jpg"
     },
     {
       "id": "design_032",
-      "title": "设计艺术 - 图片33",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术不仅传递了情感世界，更传递了奋斗的意义，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/design/design_032.png",
+      "title": "横尾忠则迷幻海报",
+      "summary": "横尾忠则以鲜艳色彩与拼贴设计的迷幻风格海报",
+      "full_text": "横尾忠则以鲜艳色彩与拼贴设计的迷幻风格海报",
+      "image": "res://assets/images/illustrations/design/design_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "design_032_4",
         "design_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/design/design_032_pixel.jpg"
     },
     {
       "id": "design_033",
-      "title": "设计艺术 - 图片34",
-      "summary": "设计艺术相关图片",
-      "full_text": "在文化的领域里，科技进步展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/design/design_033.png",
+      "title": "索特萨斯卡尔顿书架",
+      "summary": "索特萨斯以彩色积木式设计的孟菲斯书架",
+      "full_text": "索特萨斯以彩色积木式设计的孟菲斯书架",
+      "image": "res://assets/images/illustrations/design/design_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "design_033_4",
         "design_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/design/design_033_pixel.jpg"
     },
     {
       "id": "design_034",
-      "title": "设计艺术 - 图片35",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往智慧天地的大门，充满了好奇与文化浸润。",
-      "image": "res://assets/images/illustrations/design/design_034.png",
+      "title": "孟菲斯设计运动",
+      "summary": "孟菲斯集团以明快色彩与几何造型挑战极简的设计",
+      "full_text": "孟菲斯集团以明快色彩与几何造型挑战极简的设计",
+      "image": "res://assets/images/illustrations/design/design_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "design_034_4",
         "design_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/design/design_034_pixel.jpg"
     },
     {
       "id": "design_035",
-      "title": "设计艺术 - 图片36",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学是时代精神的结晶，它承载着人文的关怀，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/design/design_035.png",
+      "title": "瑞士国际主义风格海报",
+      "summary": "以网格系统与无衬线字体设计的理性海报",
+      "full_text": "以网格系统与无衬线字体设计的理性海报",
+      "image": "res://assets/images/illustrations/design/design_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "design_035_4",
         "design_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/design/design_035_pixel.jpg"
     },
     {
       "id": "design_036",
-      "title": "设计艺术 - 图片37",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术是自然造化的结晶，它记录着艺术的追求，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/design/design_036.png",
+      "title": "嬉皮士迷幻摇滚海报",
+      "summary": "1960年代旧金山以扭曲字体设计的摇滚海报",
+      "full_text": "1960年代旧金山以扭曲字体设计的摇滚海报",
+      "image": "res://assets/images/illustrations/design/design_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "design_036_4",
         "design_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/design/design_036_pixel.jpg"
     },
     {
       "id": "design_037",
-      "title": "设计艺术 - 图片38",
-      "summary": "设计艺术相关图片",
-      "full_text": "文化不仅弘扬了情感世界，更传递了美的真谛，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/design/design_037.png",
+      "title": "中国早期月份牌广告",
+      "summary": "民国时期以美女画像为特色的商品广告画",
+      "full_text": "民国时期以美女画像为特色的商品广告画",
+      "image": "res://assets/images/illustrations/design/design_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "design_037_4",
         "design_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/design/design_037_pixel.jpg"
     },
     {
       "id": "design_038",
-      "title": "设计艺术 - 图片39",
-      "summary": "设计艺术相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个自然元素都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/design/design_038.png",
+      "title": "苏联构成主义电影海报",
+      "summary": "1920年代以摄影蒙太奇设计的苏联电影海报",
+      "full_text": "1920年代以摄影蒙太奇设计的苏联电影海报",
+      "image": "res://assets/images/illustrations/design/design_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "design_038_4",
         "design_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/design/design_038_pixel.jpg"
     },
     {
       "id": "design_039",
-      "title": "设计艺术 - 图片40",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学不仅创造了生活哲理，更传递了人与自然的和谐，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/design/design_039.png",
+      "title": "滚石乐队舌标",
+      "summary": "贝尔莫茨以吐舌红唇设计的滚石乐队标志",
+      "full_text": "贝尔莫茨以吐舌红唇设计的滚石乐队标志",
+      "image": "res://assets/images/illustrations/design/design_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "design_039_4",
         "design_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/design/design_039_pixel.jpg"
     },
     {
       "id": "design_040",
-      "title": "设计艺术 - 图片41",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术不仅表达了历史记忆，更传递了梦想的价值，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/design/design_040.png",
+      "title": "迪奥新风貌套装",
+      "summary": "1947年迪奥以收腰宽裙定义的战后女性新轮廓",
+      "full_text": "1947年迪奥以收腰宽裙定义的战后女性新轮廓",
+      "image": "res://assets/images/illustrations/design/design_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "design_040_4",
         "design_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/design/design_040_pixel.jpg"
     },
     {
       "id": "design_041",
-      "title": "设计艺术 - 图片42",
-      "summary": "设计艺术相关图片",
-      "full_text": "在文化的领域里，人文景观展现得淋漓尽致，每一个细节都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/design/design_041.png",
+      "title": "香奈儿小黑裙",
+      "summary": "香奈儿以简洁黑色设计解放女性的经典裙装",
+      "full_text": "香奈儿以简洁黑色设计解放女性的经典裙装",
+      "image": "res://assets/images/illustrations/design/design_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "design_041_4",
         "design_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/design/design_041_pixel.jpg"
     },
     {
       "id": "design_042",
-      "title": "设计艺术 - 图片43",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往灵感源泉的大门，充满了激情与心灵震撼。",
-      "image": "res://assets/images/illustrations/design/design_042.png",
+      "title": "香奈儿粗花呢套装",
+      "summary": "香奈儿以粗花呢面料设计的优雅女性套装",
+      "full_text": "香奈儿以粗花呢面料设计的优雅女性套装",
+      "image": "res://assets/images/illustrations/design/design_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "design_042_4",
         "design_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/design/design_042_pixel.jpg"
     },
     {
       "id": "design_043",
-      "title": "设计艺术 - 图片44",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它典雅地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/design/design_043.png",
+      "title": "圣罗兰吸烟装",
+      "summary": "圣罗兰以男士燕尾服为灵感设计的女性晚装",
+      "full_text": "圣罗兰以男士燕尾服为灵感设计的女性晚装",
+      "image": "res://assets/images/illustrations/design/design_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "design_043_4",
         "design_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/design/design_043_pixel.jpg"
     },
     {
       "id": "design_044",
-      "title": "设计艺术 - 图片45",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往自然奇观的大门，充满了感动与情感共鸣。",
-      "image": "res://assets/images/illustrations/design/design_044.png",
+      "title": "巴伦夏加茧型大衣",
+      "summary": "巴伦夏加以茧型轮廓设计的建筑感大衣",
+      "full_text": "巴伦夏加以茧型轮廓设计的建筑感大衣",
+      "image": "res://assets/images/illustrations/design/design_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "design_044_4",
         "design_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/design/design_044_pixel.jpg"
     },
     {
       "id": "design_045",
-      "title": "设计艺术 - 图片46",
-      "summary": "设计艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它细腻地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/design/design_045.png",
+      "title": "三宅一生褶皱服装",
+      "summary": "三宅一生以永久褶皱技术设计的创新服装",
+      "full_text": "三宅一生以永久褶皱技术设计的创新服装",
+      "image": "res://assets/images/illustrations/design/design_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "design_045_4",
         "design_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/design/design_045_pixel.jpg"
     },
     {
       "id": "design_046",
-      "title": "设计艺术 - 图片47",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然是自然造化的结晶，它展现着永恒的真理，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/design/design_046.png",
+      "title": "川久保玲乞丐装",
+      "summary": "川久保玲以破洞不对称设计挑战审美的服装",
+      "full_text": "川久保玲以破洞不对称设计挑战审美的服装",
+      "image": "res://assets/images/illustrations/design/design_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "design_046_4",
         "design_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/design/design_046_pixel.jpg"
     },
     {
       "id": "design_047",
-      "title": "设计艺术 - 图片48",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它独特地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/design/design_047.png",
+      "title": "山本耀司黑色解构",
+      "summary": "山本耀司以黑色层叠解构设计的反时尚服装",
+      "full_text": "山本耀司以黑色层叠解构设计的反时尚服装",
+      "image": "res://assets/images/illustrations/design/design_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "design_047_4",
         "design_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/design/design_047_pixel.jpg"
     },
     {
       "id": "design_048",
-      "title": "设计艺术 - 图片49",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它绚丽地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/design/design_048.png",
+      "title": "范思哲安全别针裙",
+      "summary": "范思哲以安全别针装饰设计的惊艳晚裙",
+      "full_text": "范思哲以安全别针装饰设计的惊艳晚裙",
+      "image": "res://assets/images/illustrations/design/design_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "design_048_4",
         "design_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/design/design_048_pixel.jpg"
     },
     {
       "id": "design_049",
-      "title": "设计艺术 - 图片50",
-      "summary": "设计艺术相关图片",
-      "full_text": "在文化的领域里，生态保护展现得淋漓尽致，每一个色彩都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/design/design_049.png",
+      "title": "麦昆骷髅丝巾",
+      "summary": "麦昆以骷髅印花设计的标志性丝巾",
+      "full_text": "麦昆以骷髅印花设计的标志性丝巾",
+      "image": "res://assets/images/illustrations/design/design_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "design_049_4",
         "design_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/design/design_049_pixel.jpg"
     },
     {
       "id": "design_050",
-      "title": "设计艺术 - 图片51",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然不仅记录了美好瞬间，更传递了创新的精神，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/design/design_050.png",
+      "title": "韦斯特伍德朋克时装",
+      "summary": "韦斯特伍德以铆钉格纹设计的朋克风格时装",
+      "full_text": "韦斯特伍德以铆钉格纹设计的朋克风格时装",
+      "image": "res://assets/images/illustrations/design/design_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "design_050_4",
         "design_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/design/design_050_pixel.jpg"
     },
     {
       "id": "design_051",
-      "title": "设计艺术 - 图片52",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往神秘国度的大门，充满了沉思与视觉享受。",
-      "image": "res://assets/images/illustrations/design/design_051.png",
+      "title": "蒙塔纳宽肩套装",
+      "summary": "蒙塔纳以夸张肩线设计的权力套装",
+      "full_text": "蒙塔纳以夸张肩线设计的权力套装",
+      "image": "res://assets/images/illustrations/design/design_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "design_051_4",
         "design_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/design/design_051_pixel.jpg"
     },
     {
       "id": "design_052",
-      "title": "设计艺术 - 图片53",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术不仅弘扬了生活哲理，更传递了人与自然的和谐，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/design/design_052.png",
+      "title": "高田贤三丛林印花",
+      "summary": "高田贤三以鲜艳热带印花设计的时装",
+      "full_text": "高田贤三以鲜艳热带印花设计的时装",
+      "image": "res://assets/images/illustrations/design/design_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "design_052_4",
         "design_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/design/design_052_pixel.jpg"
     },
     {
       "id": "design_053",
-      "title": "设计艺术 - 图片54",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美好家园的大门，充满了感动与思想启迪。",
-      "image": "res://assets/images/illustrations/design/design_053.png",
+      "title": "阿玛尼权力套装",
+      "summary": "阿玛尼以柔软肩线重新定义的男士商务套装",
+      "full_text": "阿玛尼以柔软肩线重新定义的男士商务套装",
+      "image": "res://assets/images/illustrations/design/design_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "design_053_4",
         "design_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/design/design_053_pixel.jpg"
     },
     {
       "id": "design_054",
-      "title": "设计艺术 - 图片55",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它清新地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/design/design_054.png",
+      "title": "汉服传统形制",
+      "summary": "中国传统汉服以交领右衽宽袍大袖为特征的服饰",
+      "full_text": "中国传统汉服以交领右衽宽袍大袖为特征的服饰",
+      "image": "res://assets/images/illustrations/design/design_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "design_054_4",
         "design_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/design/design_054_pixel.jpg"
     },
     {
       "id": "design_055",
-      "title": "设计艺术 - 图片56",
-      "summary": "设计艺术相关图片",
-      "full_text": "在科学的领域里，文化传承展现得淋漓尽致，每一个色彩都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/design/design_055.png",
+      "title": "苹果iPhone初代界面",
+      "summary": "苹果以多点触控与图标网格设计的手机界面",
+      "full_text": "苹果以多点触控与图标网格设计的手机界面",
+      "image": "res://assets/images/illustrations/design/design_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "design_055_4",
         "design_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/design/design_055_pixel.jpg"
     },
     {
       "id": "design_056",
-      "title": "设计艺术 - 图片57",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它质朴地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/design/design_056.png",
+      "title": "苹果iOS扁平化设计",
+      "summary": "苹果以去除拟物化纹理的扁平视觉语言",
+      "full_text": "苹果以去除拟物化纹理的扁平视觉语言",
+      "image": "res://assets/images/illustrations/design/design_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "design_056_4",
         "design_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/design/design_056_pixel.jpg"
     },
     {
       "id": "design_057",
-      "title": "设计艺术 - 图片58",
-      "summary": "设计艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它精彩地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/design/design_057.png",
+      "title": "谷歌Material Design",
+      "summary": "谷歌以材质隐喻与阴影层级的设计系统",
+      "full_text": "谷歌以材质隐喻与阴影层级的设计系统",
+      "image": "res://assets/images/illustrations/design/design_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "design_057_4",
         "design_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/design/design_057_pixel.jpg"
     },
     {
       "id": "design_058",
-      "title": "设计艺术 - 图片59",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/design/design_058.png",
+      "title": "微软Metro界面",
+      "summary": "微软以磁贴排版设计的扁平化操作系统界面",
+      "full_text": "微软以磁贴排版设计的扁平化操作系统界面",
+      "image": "res://assets/images/illustrations/design/design_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "design_058_4",
         "design_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/design/design_058_pixel.jpg"
     },
     {
       "id": "design_059",
-      "title": "设计艺术 - 图片60",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学不仅诠释了自然之美，更传递了情感的力量，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/design/design_059.png",
+      "title": "Macintosh图形界面",
+      "summary": "苹果以窗口图标菜单指针设计的图形用户界面",
+      "full_text": "苹果以窗口图标菜单指针设计的图形用户界面",
+      "image": "res://assets/images/illustrations/design/design_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "design_059_4",
         "design_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/design/design_059_pixel.jpg"
     },
     {
       "id": "design_060",
-      "title": "设计艺术 - 图片61",
-      "summary": "设计艺术相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/design/design_060.png",
+      "title": "施乐Alto图形界面",
+      "summary": "施乐帕罗奥图研究中心首创的图形用户界面",
+      "full_text": "施乐帕罗奥图研究中心首创的图形用户界面",
+      "image": "res://assets/images/illustrations/design/design_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "design_060_4",
         "design_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/design/design_060_pixel.jpg"
     },
     {
       "id": "design_061",
-      "title": "设计艺术 - 图片62",
-      "summary": "设计艺术相关图片",
-      "full_text": "在文化的领域里，人类智慧展现得淋漓尽致，每一个线条都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/design/design_061.png",
+      "title": "MIT媒体实验室交互",
+      "summary": "麻省理工以手势识别与投影的创新交互实验",
+      "full_text": "麻省理工以手势识别与投影的创新交互实验",
+      "image": "res://assets/images/illustrations/design/design_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "design_061_4",
         "design_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/design/design_061_pixel.jpg"
     },
     {
       "id": "design_062",
-      "title": "设计艺术 - 图片63",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它典雅地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/design/design_062.png",
+      "title": "触屏手势交互设计",
+      "summary": "以滑动捏合旋转等手势操控的触屏交互范式",
+      "full_text": "以滑动捏合旋转等手势操控的触屏交互范式",
+      "image": "res://assets/images/illustrations/design/design_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "design_062_4",
         "design_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/design/design_062_pixel.jpg"
     },
     {
       "id": "design_063",
-      "title": "设计艺术 - 图片64",
-      "summary": "设计艺术相关图片",
-      "full_text": "科学是时代精神的结晶，它启迪着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/design/design_063.png",
+      "title": "语音交互界面设计",
+      "summary": "以语音识别与自然语言处理为基础的交互设计",
+      "full_text": "以语音识别与自然语言处理为基础的交互设计",
+      "image": "res://assets/images/illustrations/design/design_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "design_063_4",
         "design_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/design/design_063_pixel.jpg"
     },
     {
       "id": "design_064",
-      "title": "设计艺术 - 图片65",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往历史长河的大门，充满了温馨与审美体验。",
-      "image": "res://assets/images/illustrations/design/design_064.png",
+      "title": "虚拟现实交互",
+      "summary": "以头戴显示器与手柄操控的沉浸式交互体验",
+      "full_text": "以头戴显示器与手柄操控的沉浸式交互体验",
+      "image": "res://assets/images/illustrations/design/design_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "design_064_4",
         "design_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/design/design_064_pixel.jpg"
     },
     {
       "id": "design_065",
-      "title": "设计艺术 - 图片66",
-      "summary": "设计艺术相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往智慧天地的大门，充满了愉悦与美好感受。",
-      "image": "res://assets/images/illustrations/design/design_065.png",
+      "title": "增强现实界面",
+      "summary": "以叠加虚拟信息于真实场景的AR交互设计",
+      "full_text": "以叠加虚拟信息于真实场景的AR交互设计",
+      "image": "res://assets/images/illustrations/design/design_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "design_065_4",
         "design_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/design/design_065_pixel.jpg"
     },
     {
       "id": "design_066",
-      "title": "设计艺术 - 图片67",
-      "summary": "设计艺术相关图片",
-      "full_text": "自然是生活体验的结晶，它表达着生活的智慧，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/design/design_066.png",
+      "title": "智能家居控制界面",
+      "summary": "以手机App控制家电的物联网交互设计",
+      "full_text": "以手机App控制家电的物联网交互设计",
+      "image": "res://assets/images/illustrations/design/design_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "design_066_4",
         "design_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/design/design_066_pixel.jpg"
     },
     {
       "id": "design_067",
-      "title": "设计艺术 - 图片68",
-      "summary": "设计艺术相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个光影都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/design/design_067.png",
+      "title": "无障碍交互设计",
+      "summary": "为视障听障等用户提供无障碍体验的交互设计",
+      "full_text": "为视障听障等用户提供无障碍体验的交互设计",
+      "image": "res://assets/images/illustrations/design/design_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "design_067_4",
         "design_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/design/design_067_pixel.jpg"
     },
     {
       "id": "design_068",
-      "title": "设计艺术 - 图片69",
-      "summary": "设计艺术相关图片",
-      "full_text": "艺术不仅创造了人类文明，更传递了梦想的价值，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/design/design_068.png",
+      "title": "游戏用户界面设计",
+      "summary": "以血条地图技能栏等元素的游戏HUD设计",
+      "full_text": "以血条地图技能栏等元素的游戏HUD设计",
+      "image": "res://assets/images/illustrations/design/design_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "design_068_4",
         "design_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/design/design_068_pixel.jpg"
     },
     {
       "id": "design_069",
-      "title": "设计艺术 - 图片70",
-      "summary": "设计艺术相关图片",
-      "full_text": "在文化的领域里，社会发展展现得淋漓尽致，每一个线条都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/design/design_069.png",
+      "title": "车载交互系统",
+      "summary": "以触屏旋钮语音控制的车载信息娱乐界面",
+      "full_text": "以触屏旋钮语音控制的车载信息娱乐界面",
+      "image": "res://assets/images/illustrations/design/design_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "design_069_4",
         "design_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/design/design_069_pixel.jpg"
     }
   ]
 }

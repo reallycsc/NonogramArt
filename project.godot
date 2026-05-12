@@ -11,9 +11,10 @@ config_version=5
 [application]
 
 config/name="数织艺术"
-config/description="穿越中国历史长河，以数织解谜点亮记忆"
+config/description="数织解谜点亮画册"
 run/main_scene="res://scenes/main_menu.tscn"
 config/features=PackedStringArray("4.6")
+config/icon="uid://c5auiemmtqyxp"
 
 [autoload]
 
@@ -65,6 +66,12 @@ mark_cell={
 "events": [Object(InputEventMouseButton,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"button_mask":2,"position":Vector2(0, 0),"global_position":Vector2(0, 0),"factor":1.0,"button_index":2,"canceled":false,"pressed":true,"double_click":false,"script":null)
 ]
 }
+
+[input_devices]
+
+pointing/android/enable_long_press_as_right_click=true
+pointing/android/enable_pan_and_scale_gestures=true
+pointing/emulate_touch_from_mouse=true
 
 [layer_names]
 

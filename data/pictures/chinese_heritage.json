@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "chinese_heritage_000",
-      "title": "中国文化遗产 - 图片1",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个历史印记都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_000.png",
+      "title": "遗产分类体系",
+      "summary": "世界遗产分为文化遗产、自然遗产与双重遗产三大类别",
+      "full_text": "世界遗产分为文化遗产、自然遗产与双重遗产三大类别",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "chinese_heritage_000_4",
         "chinese_heritage_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_000_pixel.jpg"
     },
     {
       "id": "chinese_heritage_001",
-      "title": "中国文化遗产 - 图片2",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它和谐地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_001.png",
+      "title": "中国遗产概览",
+      "summary": "中国世界遗产总数位居全球前列，涵盖古建筑、遗址与自然景观",
+      "full_text": "中国世界遗产总数位居全球前列，涵盖古建筑、遗址与自然景观",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "chinese_heritage_001_4",
         "chinese_heritage_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_001_pixel.jpg"
     },
     {
       "id": "chinese_heritage_002",
-      "title": "中国文化遗产 - 图片3",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它优雅地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_002.png",
+      "title": "遗产保护理念",
+      "summary": "修旧如旧原则指导古建筑修缮，最小干预保存历史信息",
+      "full_text": "修旧如旧原则指导古建筑修缮，最小干预保存历史信息",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "chinese_heritage_002_4",
         "chinese_heritage_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_002_pixel.jpg"
     },
     {
       "id": "chinese_heritage_003",
-      "title": "中国文化遗产 - 图片4",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在科学的领域里，人类智慧展现得淋漓尽致，每一个自然元素都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_003.png",
+      "title": "文化遗产认定",
+      "summary": "申报遗产需具备突出普遍价值，满足六项标准中至少一项",
+      "full_text": "申报遗产需具备突出普遍价值，满足六项标准中至少一项",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "chinese_heritage_003_4",
         "chinese_heritage_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_003_pixel.jpg"
     },
     {
       "id": "chinese_heritage_004",
-      "title": "中国文化遗产 - 图片5",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个色彩都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_004.png",
+      "title": "自然遗产标准",
+      "summary": "自然遗产需代表地球演化或生态过程，具有杰出自然美景",
+      "full_text": "自然遗产需代表地球演化或生态过程，具有杰出自然美景",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "chinese_heritage_004_4",
         "chinese_heritage_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_004_pixel.jpg"
     },
     {
       "id": "chinese_heritage_005",
-      "title": "中国文化遗产 - 图片6",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它生动地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_005.png",
+      "title": "双重遗产价值",
+      "summary": "泰山兼具帝王封禅的人文意义与雄伟壮丽的自然景观",
+      "full_text": "泰山兼具帝王封禅的人文意义与雄伟壮丽的自然景观",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "chinese_heritage_005_4",
         "chinese_heritage_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_005_pixel.jpg"
     },
     {
       "id": "chinese_heritage_006",
-      "title": "中国文化遗产 - 图片7",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它典雅地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_006.png",
+      "title": "遗产监测体系",
+      "summary": "卫星遥感与地面传感器实时监测遗产保存状况与环境变化",
+      "full_text": "卫星遥感与地面传感器实时监测遗产保存状况与环境变化",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "chinese_heritage_006_4",
         "chinese_heritage_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_006_pixel.jpg"
     },
     {
       "id": "chinese_heritage_007",
-      "title": "中国文化遗产 - 图片8",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它自然地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_007.png",
+      "title": "非遗传承人",
+      "summary": "国家认定非遗代表性传承人，师徒相授确保技艺代代延续",
+      "full_text": "国家认定非遗代表性传承人，师徒相授确保技艺代代延续",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "chinese_heritage_007_4",
         "chinese_heritage_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_007_pixel.jpg"
     },
     {
       "id": "chinese_heritage_008",
-      "title": "中国文化遗产 - 图片9",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是自然造化的结晶，它启迪着深刻的思考，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_008.png",
+      "title": "遗产缓冲区",
+      "summary": "遗产周边划定缓冲区限制建设，保护历史环境的整体风貌",
+      "full_text": "遗产周边划定缓冲区限制建设，保护历史环境的整体风貌",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "chinese_heritage_008_4",
         "chinese_heritage_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_008_pixel.jpg"
     },
     {
       "id": "chinese_heritage_009",
-      "title": "中国文化遗产 - 图片10",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它绚丽地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_009.png",
+      "title": "国际保护公约",
+      "summary": "联合国教科文组织通过世界遗产公约，各国共同守护人类遗产",
+      "full_text": "联合国教科文组织通过世界遗产公约，各国共同守护人类遗产",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "chinese_heritage_009_4",
         "chinese_heritage_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_009_pixel.jpg"
     },
     {
       "id": "chinese_heritage_010",
-      "title": "中国文化遗产 - 图片11",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然不仅表达了生活哲理，更传递了情感的力量，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_010.png",
+      "title": "中国申遗历程",
+      "summary": "一九八七年长城等首批六项遗产列入世界遗产名录",
+      "full_text": "一九八七年长城等首批六项遗产列入世界遗产名录",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "chinese_heritage_010_4",
         "chinese_heritage_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_010_pixel.jpg"
     },
     {
       "id": "chinese_heritage_011",
-      "title": "中国文化遗产 - 图片12",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往自然奇观的大门，充满了怀念与视觉享受。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_011.png",
+      "title": "遗产旅游管理",
+      "summary": "景区限流措施保护遗产免受过度旅游损害，预约制平衡保护与利用",
+      "full_text": "景区限流措施保护遗产免受过度旅游损害，预约制平衡保护与利用",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "chinese_heritage_011_4",
         "chinese_heritage_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_011_pixel.jpg"
     },
     {
       "id": "chinese_heritage_012",
-      "title": "中国文化遗产 - 图片13",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往灵感源泉的大门，充满了沉醉与审美体验。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_012.png",
+      "title": "数字化保护",
+      "summary": "三维激光扫描与数字建模技术为古建筑建立精确数字档案",
+      "full_text": "三维激光扫描与数字建模技术为古建筑建立精确数字档案",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "chinese_heritage_012_4",
         "chinese_heritage_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_012_pixel.jpg"
     },
     {
       "id": "chinese_heritage_013",
-      "title": "中国文化遗产 - 图片14",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往神秘国度的大门，充满了惊叹与精神升华。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_013.png",
+      "title": "考古遗址公园",
+      "summary": "国家考古遗址公园将发掘现场与展示教育结合，公众共享考古成果",
+      "full_text": "国家考古遗址公园将发掘现场与展示教育结合，公众共享考古成果",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "chinese_heritage_013_4",
         "chinese_heritage_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_013_pixel.jpg"
     },
     {
       "id": "chinese_heritage_014",
-      "title": "中国文化遗产 - 图片15",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往知识海洋的大门，充满了沉思与视觉享受。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_014.png",
+      "title": "历史文化名城",
+      "summary": "国务院公布历史文化名城名单，保护古城格局与传统街区风貌",
+      "full_text": "国务院公布历史文化名城名单，保护古城格局与传统街区风貌",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "chinese_heritage_014_4",
         "chinese_heritage_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_014_pixel.jpg"
     },
     {
       "id": "chinese_heritage_015",
-      "title": "中国文化遗产 - 图片16",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它和谐地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_015.png",
+      "title": "遗产修复技术",
+      "summary": "传统工艺与现代科技结合修复古壁画，化学分析确定原始颜料",
+      "full_text": "传统工艺与现代科技结合修复古壁画，化学分析确定原始颜料",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "chinese_heritage_015_4",
         "chinese_heritage_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_015_pixel.jpg"
     },
     {
       "id": "chinese_heritage_016",
-      "title": "中国文化遗产 - 图片17",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是思想升华的结晶，它展现着永恒的真理，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_016.png",
+      "title": "水下文化遗产",
+      "summary": "南海一号沉船整体打捞入馆，宋代瓷器与铜钱保存完好",
+      "full_text": "南海一号沉船整体打捞入馆，宋代瓷器与铜钱保存完好",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "chinese_heritage_016_4",
         "chinese_heritage_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_016_pixel.jpg"
     },
     {
       "id": "chinese_heritage_017",
-      "title": "中国文化遗产 - 图片18",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它和谐地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_017.png",
+      "title": "文化生态保护区",
+      "summary": "在非遗富集区域建立文化生态保护区，整体保护文化传承环境",
+      "full_text": "在非遗富集区域建立文化生态保护区，整体保护文化传承环境",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "chinese_heritage_017_4",
         "chinese_heritage_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_017_pixel.jpg"
     },
     {
       "id": "chinese_heritage_018",
-      "title": "中国文化遗产 - 图片19",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在自然的领域里，科学发现展现得淋漓尽致，每一个线条都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_018.png",
+      "title": "遗产教育推广",
+      "summary": "遗产日开放活动让公众走进保护现场，体验文化遗产魅力",
+      "full_text": "遗产日开放活动让公众走进保护现场，体验文化遗产魅力",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "chinese_heritage_018_4",
         "chinese_heritage_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_018_pixel.jpg"
     },
     {
       "id": "chinese_heritage_019",
-      "title": "中国文化遗产 - 图片20",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学是情感表达的结晶，它激励着生活的智慧，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_019.png",
+      "title": "国际合作保护",
+      "summary": "中国与柬埔寨合作修复吴哥窟周萨神庙，国际遗产保护交流",
+      "full_text": "中国与柬埔寨合作修复吴哥窟周萨神庙，国际遗产保护交流",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "chinese_heritage_019_4",
         "chinese_heritage_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_019_pixel.jpg"
     },
     {
       "id": "chinese_heritage_020",
-      "title": "中国文化遗产 - 图片21",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它壮观地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_020.png",
+      "title": "故宫建筑群",
+      "summary": "紫禁城九千余间房屋沿中轴线对称排列，红墙黄瓦气势恢宏",
+      "full_text": "紫禁城九千余间房屋沿中轴线对称排列，红墙黄瓦气势恢宏",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "chinese_heritage_020_4",
         "chinese_heritage_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_020_pixel.jpg"
     },
     {
       "id": "chinese_heritage_021",
-      "title": "中国文化遗产 - 图片22",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化不仅传承了历史记忆，更传递了美的真谛，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_021.png",
+      "title": "天坛祈年殿",
+      "summary": "三重蓝色琉璃瓦圆顶殿宇矗立汉白玉台基之上，祭天圣地",
+      "full_text": "三重蓝色琉璃瓦圆顶殿宇矗立汉白玉台基之上，祭天圣地",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "chinese_heritage_021_4",
         "chinese_heritage_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_021_pixel.jpg"
     },
     {
       "id": "chinese_heritage_022",
-      "title": "中国文化遗产 - 图片23",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然不仅塑造了人类文明，更传递了梦想的价值，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_022.png",
+      "title": "布达拉宫",
+      "summary": "红白宫殿依玛布日山垒砌十三层，金顶灵塔殿供奉达赖灵塔",
+      "full_text": "红白宫殿依玛布日山垒砌十三层，金顶灵塔殿供奉达赖灵塔",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "chinese_heritage_022_4",
         "chinese_heritage_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_022_pixel.jpg"
     },
     {
       "id": "chinese_heritage_023",
-      "title": "中国文化遗产 - 图片24",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在科学的领域里，科技进步展现得淋漓尽致，每一个情感都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_023.png",
+      "title": "颐和园",
+      "summary": "昆明湖畔长廊彩画绵延七百米，万寿山佛香阁俯瞰湖光山色",
+      "full_text": "昆明湖畔长廊彩画绵延七百米，万寿山佛香阁俯瞰湖光山色",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "chinese_heritage_023_4",
         "chinese_heritage_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_023_pixel.jpg"
     },
     {
       "id": "chinese_heritage_024",
-      "title": "中国文化遗产 - 图片25",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在艺术的领域里，生态保护展现得淋漓尽致，每一个线条都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_024.png",
+      "title": "承德避暑山庄",
+      "summary": "清代帝王避暑行宫融合江南园林与北方草原风格，外八庙环列",
+      "full_text": "清代帝王避暑行宫融合江南园林与北方草原风格，外八庙环列",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "chinese_heritage_024_4",
         "chinese_heritage_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_024_pixel.jpg"
     },
     {
       "id": "chinese_heritage_025",
-      "title": "中国文化遗产 - 图片26",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在文化的领域里，社会发展展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_025.png",
+      "title": "曲阜孔庙",
+      "summary": "杏坛前古柏参天，大成殿十根龙柱浮雕精美绝伦",
+      "full_text": "杏坛前古柏参天，大成殿十根龙柱浮雕精美绝伦",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "chinese_heritage_025_4",
         "chinese_heritage_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_025_pixel.jpg"
     },
     {
       "id": "chinese_heritage_026",
-      "title": "中国文化遗产 - 图片27",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在自然的领域里，科学发现展现得淋漓尽致，每一个瞬间都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_026.png",
+      "title": "苏州园林",
+      "summary": "拙政园中亭台楼阁临水而建，太湖石假山曲径通幽",
+      "full_text": "拙政园中亭台楼阁临水而建，太湖石假山曲径通幽",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "chinese_heritage_026_4",
         "chinese_heritage_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_026_pixel.jpg"
     },
     {
       "id": "chinese_heritage_027",
-      "title": "中国文化遗产 - 图片28",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在科学的领域里，艺术创造展现得淋漓尽致，每一个情感都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_027.png",
+      "title": "武当山古建筑",
+      "summary": "金殿铜铸鎏金矗立天柱峰顶，紫霄宫道观依山势层叠",
+      "full_text": "金殿铜铸鎏金矗立天柱峰顶，紫霄宫道观依山势层叠",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "chinese_heritage_027_4",
         "chinese_heritage_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_027_pixel.jpg"
     },
     {
       "id": "chinese_heritage_028",
-      "title": "中国文化遗产 - 图片29",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它神秘地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_028.png",
+      "title": "福建土楼",
+      "summary": "圆形方形的夯土民居如飞碟降落山谷，家族聚居防御合一",
+      "full_text": "圆形方形的夯土民居如飞碟降落山谷，家族聚居防御合一",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "chinese_heritage_028_4",
         "chinese_heritage_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_028_pixel.jpg"
     },
     {
       "id": "chinese_heritage_029",
-      "title": "中国文化遗产 - 图片30",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是情感表达的结晶，它引领着科学的精神，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_029.png",
+      "title": "开平碉楼",
+      "summary": "中西合璧的碉楼散落田野之间，巴洛克山花与岭南骑楼交融",
+      "full_text": "中西合璧的碉楼散落田野之间，巴洛克山花与岭南骑楼交融",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "chinese_heritage_029_4",
         "chinese_heritage_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_029_pixel.jpg"
     },
     {
       "id": "chinese_heritage_030",
-      "title": "中国文化遗产 - 图片31",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往神秘国度的大门，充满了惊叹与视觉享受。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_030.png",
+      "title": "丽江古城",
+      "summary": "纳西族木府旁小桥流水穿街过巷，青石板路映照玉龙雪山",
+      "full_text": "纳西族木府旁小桥流水穿街过巷，青石板路映照玉龙雪山",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "chinese_heritage_030_4",
         "chinese_heritage_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_030_pixel.jpg"
     },
     {
       "id": "chinese_heritage_031",
-      "title": "中国文化遗产 - 图片32",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学是历史积淀的结晶，它表达着生活的智慧，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_031.png",
+      "title": "平遥古城",
+      "summary": "明代城墙方方正正围合古城，票号日升昌开创中国银行业",
+      "full_text": "明代城墙方方正正围合古城，票号日升昌开创中国银行业",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "chinese_heritage_031_4",
         "chinese_heritage_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_031_pixel.jpg"
     },
     {
       "id": "chinese_heritage_032",
-      "title": "中国文化遗产 - 图片33",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术不仅描绘了生命意义，更传递了情感的力量，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_032.png",
+      "title": "澳门历史城区",
+      "summary": "大三巴牌坊石壁矗立山坡之上，葡式碎石路连接教堂与庙宇",
+      "full_text": "大三巴牌坊石壁矗立山坡之上，葡式碎石路连接教堂与庙宇",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "chinese_heritage_032_4",
         "chinese_heritage_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_032_pixel.jpg"
     },
     {
       "id": "chinese_heritage_033",
-      "title": "中国文化遗产 - 图片34",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了震撼与艺术熏陶。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_033.png",
+      "title": "大足石刻",
+      "summary": "宝顶山崖壁上千手观音金光闪耀，宋代石刻展现佛教中国化",
+      "full_text": "宝顶山崖壁上千手观音金光闪耀，宋代石刻展现佛教中国化",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "chinese_heritage_033_4",
         "chinese_heritage_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_033_pixel.jpg"
     },
     {
       "id": "chinese_heritage_034",
-      "title": "中国文化遗产 - 图片35",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在自然的领域里，艺术创造展现得淋漓尽致，每一个文化符号都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_034.png",
+      "title": "龙门石窟",
+      "summary": "卢舍那大佛端坐伊水西岸崖壁，十七米高面容慈悲庄严",
+      "full_text": "卢舍那大佛端坐伊水西岸崖壁，十七米高面容慈悲庄严",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "chinese_heritage_034_4",
         "chinese_heritage_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_034_pixel.jpg"
     },
     {
       "id": "chinese_heritage_035",
-      "title": "中国文化遗产 - 图片36",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它丰富地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_035.png",
+      "title": "云冈石窟",
+      "summary": "昙曜五窟巨佛雕刻于武州山砂岩，北魏皇家石窟气象雄浑",
+      "full_text": "昙曜五窟巨佛雕刻于武州山砂岩，北魏皇家石窟气象雄浑",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "chinese_heritage_035_4",
         "chinese_heritage_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_035_pixel.jpg"
     },
     {
       "id": "chinese_heritage_036",
-      "title": "中国文化遗产 - 图片37",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在艺术的领域里，历史变迁展现得淋漓尽致，每一个文化符号都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_036.png",
+      "title": "长城嘉峪关",
+      "summary": "河西走廊西端关城巍然矗立，城楼箭楼角楼互为犄角",
+      "full_text": "河西走廊西端关城巍然矗立，城楼箭楼角楼互为犄角",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "chinese_heritage_036_4",
         "chinese_heritage_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_036_pixel.jpg"
     },
     {
       "id": "chinese_heritage_037",
-      "title": "中国文化遗产 - 图片38",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在文化的领域里，历史变迁展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_037.png",
+      "title": "都江堰",
+      "summary": "李冰父子筑鱼嘴分水堤与飞沙堰，千年水利灌溉成都平原",
+      "full_text": "李冰父子筑鱼嘴分水堤与飞沙堰，千年水利灌溉成都平原",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "chinese_heritage_037_4",
         "chinese_heritage_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_037_pixel.jpg"
     },
     {
       "id": "chinese_heritage_038",
-      "title": "中国文化遗产 - 图片39",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然不仅诠释了文化内涵，更传递了智慧的光芒，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_038.png",
+      "title": "赵州桥",
+      "summary": "隋代石匠李春建造敞肩拱桥，单孔石拱横跨洨河一千四百年",
+      "full_text": "隋代石匠李春建造敞肩拱桥，单孔石拱横跨洨河一千四百年",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "chinese_heritage_038_4",
         "chinese_heritage_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_038_pixel.jpg"
     },
     {
       "id": "chinese_heritage_039",
-      "title": "中国文化遗产 - 图片40",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学不仅塑造了生命意义，更传递了真善美的追求，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_039.png",
+      "title": "应县木塔",
+      "summary": "六十七米高木构塔身无一根铁钉，斗拱层叠支撑九百年不倒",
+      "full_text": "六十七米高木构塔身无一根铁钉，斗拱层叠支撑九百年不倒",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "chinese_heritage_039_4",
         "chinese_heritage_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_039_pixel.jpg"
     },
     {
       "id": "chinese_heritage_040",
-      "title": "中国文化遗产 - 图片41",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它精彩地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_040.png",
+      "title": "嵩岳寺塔",
+      "summary": "十二边形密檐砖塔矗立嵩山之麓，北魏佛塔建筑孤例",
+      "full_text": "十二边形密檐砖塔矗立嵩山之麓，北魏佛塔建筑孤例",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "chinese_heritage_040_4",
         "chinese_heritage_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_040_pixel.jpg"
     },
     {
       "id": "chinese_heritage_041",
-      "title": "中国文化遗产 - 图片42",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化不仅探索了情感世界，更传递了情感的力量，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_041.png",
+      "title": "永乐宫壁画",
+      "summary": "三清殿朝元图二百九十位神仙朝拜，线条流畅色彩绚丽",
+      "full_text": "三清殿朝元图二百九十位神仙朝拜，线条流畅色彩绚丽",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "chinese_heritage_041_4",
         "chinese_heritage_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_041_pixel.jpg"
     },
     {
       "id": "chinese_heritage_042",
-      "title": "中国文化遗产 - 图片43",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然不仅传递了自然之美，更传递了奋斗的意义，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_042.png",
+      "title": "莫高窟藏经洞",
+      "summary": "第十七窟密室中封存五万卷经卷文书，敦煌遗书震惊世界",
+      "full_text": "第十七窟密室中封存五万卷经卷文书，敦煌遗书震惊世界",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "chinese_heritage_042_4",
         "chinese_heritage_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_042_pixel.jpg"
     },
     {
       "id": "chinese_heritage_043",
-      "title": "中国文化遗产 - 图片44",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往历史长河的大门，充满了惊叹与视觉享受。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_043.png",
+      "title": "秦始皇陵",
+      "summary": "封土如山矗立骊山脚下，地宫水银江河模拟宇宙格局",
+      "full_text": "封土如山矗立骊山脚下，地宫水银江河模拟宇宙格局",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "chinese_heritage_043_4",
         "chinese_heritage_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_043_pixel.jpg"
     },
     {
       "id": "chinese_heritage_044",
-      "title": "中国文化遗产 - 图片45",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往梦想世界的大门，充满了憧憬与精神升华。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_044.png",
+      "title": "殷墟遗址",
+      "summary": "殷墟宫殿基址与王陵出土甲骨文与青铜器，商代文明实证",
+      "full_text": "殷墟宫殿基址与王陵出土甲骨文与青铜器，商代文明实证",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "chinese_heritage_044_4",
         "chinese_heritage_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_044_pixel.jpg"
     },
     {
       "id": "chinese_heritage_045",
-      "title": "中国文化遗产 - 图片46",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化不仅传承了历史记忆，更传递了生命的意义，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_045.png",
+      "title": "泰山",
+      "summary": "五岳之首泰山日出云海壮美，历代帝王封禅石刻遍布山道",
+      "full_text": "五岳之首泰山日出云海壮美，历代帝王封禅石刻遍布山道",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "chinese_heritage_045_4",
         "chinese_heritage_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_045_pixel.jpg"
     },
     {
       "id": "chinese_heritage_046",
-      "title": "中国文化遗产 - 图片47",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然不仅诠释了艺术真谛，更传递了奋斗的意义，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_046.png",
+      "title": "黄山",
+      "summary": "奇松怪石云海温泉四绝闻名天下，迎客松伸展于悬崖之上",
+      "full_text": "奇松怪石云海温泉四绝闻名天下，迎客松伸展于悬崖之上",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "chinese_heritage_046_4",
         "chinese_heritage_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_046_pixel.jpg"
     },
     {
       "id": "chinese_heritage_047",
-      "title": "中国文化遗产 - 图片48",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往历史长河的大门，充满了震撼与美好感受。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_047.png",
+      "title": "武夷山",
+      "summary": "丹霞地貌九曲溪竹筏漂流而过，朱熹在武夷精舍讲学著述",
+      "full_text": "丹霞地貌九曲溪竹筏漂流而过，朱熹在武夷精舍讲学著述",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "chinese_heritage_047_4",
         "chinese_heritage_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_047_pixel.jpg"
     },
     {
       "id": "chinese_heritage_048",
-      "title": "中国文化遗产 - 图片49",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术不仅传递了自然之美，更传递了奋斗的意义，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_048.png",
+      "title": "峨眉山",
+      "summary": "金顶十方普贤铜像矗立云海之上，佛光奇观映照舍身崖",
+      "full_text": "金顶十方普贤铜像矗立云海之上，佛光奇观映照舍身崖",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "chinese_heritage_048_4",
         "chinese_heritage_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_048_pixel.jpg"
     },
     {
       "id": "chinese_heritage_049",
-      "title": "中国文化遗产 - 图片50",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在文化的领域里，社会发展展现得淋漓尽致，每一个光影都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_049.png",
+      "title": "庐山",
+      "summary": "五老峰下白鹿洞书院弦歌不绝，别墅群掩映牯岭松林之中",
+      "full_text": "五老峰下白鹿洞书院弦歌不绝，别墅群掩映牯岭松林之中",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "chinese_heritage_049_4",
         "chinese_heritage_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_049_pixel.jpg"
     },
     {
       "id": "chinese_heritage_050",
-      "title": "中国文化遗产 - 图片51",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然不仅传承了美好瞬间，更传递了创新的精神，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_050.png",
+      "title": "武陵源",
+      "summary": "三千石英砂岩峰柱拔地而起，云雾缭绕如水墨画卷",
+      "full_text": "三千石英砂岩峰柱拔地而起，云雾缭绕如水墨画卷",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "chinese_heritage_050_4",
         "chinese_heritage_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_050_pixel.jpg"
     },
     {
       "id": "chinese_heritage_051",
-      "title": "中国文化遗产 - 图片52",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在科学的领域里，科学发现展现得淋漓尽致，每一个文化符号都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_051.png",
+      "title": "九寨沟",
+      "summary": "五花海碧蓝湖水倒映彩林，钙华瀑布飞流直下珍珠滩",
+      "full_text": "五花海碧蓝湖水倒映彩林，钙华瀑布飞流直下珍珠滩",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "chinese_heritage_051_4",
         "chinese_heritage_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_051_pixel.jpg"
     },
     {
       "id": "chinese_heritage_052",
-      "title": "中国文化遗产 - 图片53",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是情感表达的结晶，它激励着社会的进步，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_052.png",
+      "title": "黄龙",
+      "summary": "钙华彩池层叠如梯田铺展雪山之下，金色池水映照蓝天",
+      "full_text": "钙华彩池层叠如梯田铺展雪山之下，金色池水映照蓝天",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "chinese_heritage_052_4",
         "chinese_heritage_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_052_pixel.jpg"
     },
     {
       "id": "chinese_heritage_053",
-      "title": "中国文化遗产 - 图片54",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化不仅揭示了自然之美，更传递了梦想的价值，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_053.png",
+      "title": "三江并流",
+      "summary": "怒江澜沧江金沙江平行奔流横断山脉，生物多样性热点地区",
+      "full_text": "怒江澜沧江金沙江平行奔流横断山脉，生物多样性热点地区",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "chinese_heritage_053_4",
         "chinese_heritage_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_053_pixel.jpg"
     },
     {
       "id": "chinese_heritage_054",
-      "title": "中国文化遗产 - 图片55",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它独特地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_054.png",
+      "title": "四川大熊猫栖息地",
+      "summary": "大熊猫在箭竹林中啃食竹子，邛崃山系保护国宝家园",
+      "full_text": "大熊猫在箭竹林中啃食竹子，邛崃山系保护国宝家园",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "chinese_heritage_054_4",
         "chinese_heritage_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_054_pixel.jpg"
     },
     {
       "id": "chinese_heritage_055",
-      "title": "中国文化遗产 - 图片56",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往精神家园的大门，充满了沉醉与视觉享受。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_055.png",
+      "title": "中国丹霞",
+      "summary": "赤壁丹崖如火烧云凝固山间，广东丹霞山与福建泰宁各展风姿",
+      "full_text": "赤壁丹崖如火烧云凝固山间，广东丹霞山与福建泰宁各展风姿",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "chinese_heritage_055_4",
         "chinese_heritage_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_055_pixel.jpg"
     },
     {
       "id": "chinese_heritage_056",
-      "title": "中国文化遗产 - 图片57",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往神秘国度的大门，充满了激情与美好感受。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_056.png",
+      "title": "新疆天山",
+      "summary": "博格达峰雪冠映照天池碧水，高山草甸与冰川交错分布",
+      "full_text": "博格达峰雪冠映照天池碧水，高山草甸与冰川交错分布",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "chinese_heritage_056_4",
         "chinese_heritage_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_056_pixel.jpg"
     },
     {
       "id": "chinese_heritage_057",
-      "title": "中国文化遗产 - 图片58",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它奇妙地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_057.png",
+      "title": "可可西里",
+      "summary": "藏羚羊在无人区荒原上迁徙，高原湖泊倒映昆仑雪山",
+      "full_text": "藏羚羊在无人区荒原上迁徙，高原湖泊倒映昆仑雪山",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "chinese_heritage_057_4",
         "chinese_heritage_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_057_pixel.jpg"
     },
     {
       "id": "chinese_heritage_058",
-      "title": "中国文化遗产 - 图片59",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它神秘地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_058.png",
+      "title": "神农架",
+      "summary": "原始森林中金丝猴在树冠间跳跃，华中屋脊保存珍稀物种",
+      "full_text": "原始森林中金丝猴在树冠间跳跃，华中屋脊保存珍稀物种",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "chinese_heritage_058_4",
         "chinese_heritage_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_058_pixel.jpg"
     },
     {
       "id": "chinese_heritage_059",
-      "title": "中国文化遗产 - 图片60",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在科学的领域里，文化传承展现得淋漓尽致，每一个细节都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_059.png",
+      "title": "梵净山",
+      "summary": "红云金顶一柱擎天裂为两峰，蘑菇石危然矗立云海之上",
+      "full_text": "红云金顶一柱擎天裂为两峰，蘑菇石危然矗立云海之上",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "chinese_heritage_059_4",
         "chinese_heritage_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_059_pixel.jpg"
     },
     {
       "id": "chinese_heritage_060",
-      "title": "中国文化遗产 - 图片61",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它优美地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_060.png",
+      "title": "京剧表演",
+      "summary": "花脸演员勾画脸谱登台亮相，唱念做打展现国粹魅力",
+      "full_text": "花脸演员勾画脸谱登台亮相，唱念做打展现国粹魅力",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "chinese_heritage_060_4",
         "chinese_heritage_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_060_pixel.jpg"
     },
     {
       "id": "chinese_heritage_061",
-      "title": "中国文化遗产 - 图片62",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它独特地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_061.png",
+      "title": "中国书法",
+      "summary": "书法家挥毫落纸如云烟，行草楷隶篆五体各展风姿",
+      "full_text": "书法家挥毫落纸如云烟，行草楷隶篆五体各展风姿",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "chinese_heritage_061_4",
         "chinese_heritage_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_061_pixel.jpg"
     },
     {
       "id": "chinese_heritage_062",
-      "title": "中国文化遗产 - 图片63",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往创意空间的大门，充满了喜悦与知识启迪。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_062.png",
+      "title": "中医针灸",
+      "summary": "中医师将银针刺入患者穴位，经络理论指导调理气血运行",
+      "full_text": "中医师将银针刺入患者穴位，经络理论指导调理气血运行",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "chinese_heritage_062_4",
         "chinese_heritage_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_062_pixel.jpg"
     },
     {
       "id": "chinese_heritage_063",
-      "title": "中国文化遗产 - 图片64",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学不仅表达了人类文明，更传递了智慧的光芒，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_063.png",
+      "title": "中国剪纸",
+      "summary": "民间艺人用剪刀在红纸上剪出喜鹊登梅，窗花贴满农家窗棂",
+      "full_text": "民间艺人用剪刀在红纸上剪出喜鹊登梅，窗花贴满农家窗棂",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "chinese_heritage_063_4",
         "chinese_heritage_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_063_pixel.jpg"
     },
     {
       "id": "chinese_heritage_064",
-      "title": "中国文化遗产 - 图片65",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往文化宝库的大门，充满了憧憬与精神升华。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_064.png",
+      "title": "中国篆刻",
+      "summary": "篆刻家在寿山石上刻写朱文白文，方寸之间气象万千",
+      "full_text": "篆刻家在寿山石上刻写朱文白文，方寸之间气象万千",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "chinese_heritage_064_4",
         "chinese_heritage_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_064_pixel.jpg"
     },
     {
       "id": "chinese_heritage_065",
-      "title": "中国文化遗产 - 图片66",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是时代精神的结晶，它承载着社会的进步，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_065.png",
+      "title": "昆曲",
+      "summary": "昆曲演员水袖轻扬唱腔婉转，牡丹亭游园惊梦传唱四百年",
+      "full_text": "昆曲演员水袖轻扬唱腔婉转，牡丹亭游园惊梦传唱四百年",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "chinese_heritage_065_4",
         "chinese_heritage_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_065_pixel.jpg"
     },
     {
       "id": "chinese_heritage_066",
-      "title": "中国文化遗产 - 图片67",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然是自然造化的结晶，它激励着科学的精神，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_066.png",
+      "title": "古琴艺术",
+      "summary": "琴师端坐抚琴高山流水之音，七弦琴韵传承三千年",
+      "full_text": "琴师端坐抚琴高山流水之音，七弦琴韵传承三千年",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "chinese_heritage_066_4",
         "chinese_heritage_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_066_pixel.jpg"
     },
     {
       "id": "chinese_heritage_067",
-      "title": "中国文化遗产 - 图片68",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个光影都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_067.png",
+      "title": "蒙古长调",
+      "summary": "牧民在草原上引吭高歌长调悠扬，马头琴伴奏回荡天地",
+      "full_text": "牧民在草原上引吭高歌长调悠扬，马头琴伴奏回荡天地",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "chinese_heritage_067_4",
         "chinese_heritage_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_067_pixel.jpg"
     },
     {
       "id": "chinese_heritage_068",
-      "title": "中国文化遗产 - 图片69",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往文化宝库的大门，充满了愉悦与审美体验。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_068.png",
+      "title": "侗族大歌",
+      "summary": "侗族村民在鼓楼前多声部合唱，无指挥无伴奏和声天成",
+      "full_text": "侗族村民在鼓楼前多声部合唱，无指挥无伴奏和声天成",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "chinese_heritage_068_4",
         "chinese_heritage_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_068_pixel.jpg"
     },
     {
       "id": "chinese_heritage_069",
-      "title": "中国文化遗产 - 图片70",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是历史积淀的结晶，它激励着永恒的真理，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_069.png",
+      "title": "端午节龙舟",
+      "summary": "龙舟竞渡鼓声震天，粽叶飘香纪念屈原投江",
+      "full_text": "龙舟竞渡鼓声震天，粽叶飘香纪念屈原投江",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "chinese_heritage_069_4",
         "chinese_heritage_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_069_pixel.jpg"
     },
     {
       "id": "chinese_heritage_070",
-      "title": "中国文化遗产 - 图片71",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在自然的领域里，社会发展展现得淋漓尽致，每一个色彩都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_070.png",
+      "title": "中国蚕桑丝织",
+      "summary": "蚕妇在桑园采叶喂蚕，缫丝机将蚕丝纺成华美绸缎",
+      "full_text": "蚕妇在桑园采叶喂蚕，缫丝机将蚕丝纺成华美绸缎",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "chinese_heritage_070_4",
         "chinese_heritage_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_070_pixel.jpg"
     },
     {
       "id": "chinese_heritage_071",
-      "title": "中国文化遗产 - 图片72",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学是自然造化的结晶，它传递着深刻的思考，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_071.png",
+      "title": "中国雕版印刷",
+      "summary": "刻工在梨木板上反刻文字，刷墨覆纸印出书页传承知识",
+      "full_text": "刻工在梨木板上反刻文字，刷墨覆纸印出书页传承知识",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "chinese_heritage_071_4",
         "chinese_heritage_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_071_pixel.jpg"
     },
     {
       "id": "chinese_heritage_072",
-      "title": "中国文化遗产 - 图片73",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往历史长河的大门，充满了沉思与精神升华。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_072.png",
+      "title": "太极拳",
+      "summary": "晨曦中拳师在公园缓缓推手，刚柔相济以意导气",
+      "full_text": "晨曦中拳师在公园缓缓推手，刚柔相济以意导气",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "chinese_heritage_072_4",
         "chinese_heritage_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_072_pixel.jpg"
     },
     {
       "id": "chinese_heritage_073",
-      "title": "中国文化遗产 - 图片74",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化不仅弘扬了人类文明，更传递了真善美的追求，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_073.png",
+      "title": "中国制瓷",
+      "summary": "景德镇窑工将青花瓷坯送入柴窑，烈火中烧出白地蓝花",
+      "full_text": "景德镇窑工将青花瓷坯送入柴窑，烈火中烧出白地蓝花",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "chinese_heritage_073_4",
         "chinese_heritage_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_073_pixel.jpg"
     },
     {
       "id": "chinese_heritage_074",
-      "title": "中国文化遗产 - 图片75",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个历史印记都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_074.png",
+      "title": "中医本草",
+      "summary": "老中医在药柜前称量草药配伍处方，望闻问切辨证施治",
+      "full_text": "老中医在药柜前称量草药配伍处方，望闻问切辨证施治",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,14 +1573,15 @@
         "chinese_heritage_074_4",
         "chinese_heritage_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_074_pixel.jpg"
     },
     {
       "id": "chinese_heritage_075",
-      "title": "中国文化遗产 - 图片76",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学不仅展现了情感世界，更传递了情感的力量，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_075.png",
+      "title": "皮影戏",
+      "summary": "艺人在幕布后操纵皮影人物，灯光映出武将骑马征战",
+      "full_text": "艺人在幕布后操纵皮影人物，灯光映出武将骑马征战",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_075.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1519,14 +1594,15 @@
         "chinese_heritage_075_4",
         "chinese_heritage_075_5"
       ],
-      "order": 75
+      "order": 75,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_075_pixel.jpg"
     },
     {
       "id": "chinese_heritage_076",
-      "title": "中国文化遗产 - 图片77",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是历史积淀的结晶，它激励着生活的智慧，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_076.png",
+      "title": "木版年画",
+      "summary": "杨柳青年画作坊中套色印刷门神，胖娃娃抱鱼寓意年年有余",
+      "full_text": "杨柳青年画作坊中套色印刷门神，胖娃娃抱鱼寓意年年有余",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_076.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1539,14 +1615,15 @@
         "chinese_heritage_076_4",
         "chinese_heritage_076_5"
       ],
-      "order": 76
+      "order": 76,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_076_pixel.jpg"
     },
     {
       "id": "chinese_heritage_077",
-      "title": "中国文化遗产 - 图片78",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化不仅描绘了生活哲理，更传递了生命的意义，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_077.png",
+      "title": "中国茶艺",
+      "summary": "茶艺师在紫砂壶中冲泡龙井，闻香品茗传承千年茶道",
+      "full_text": "茶艺师在紫砂壶中冲泡龙井，闻香品茗传承千年茶道",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_077.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1559,14 +1636,15 @@
         "chinese_heritage_077_4",
         "chinese_heritage_077_5"
       ],
-      "order": 77
+      "order": 77,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_077_pixel.jpg"
     },
     {
       "id": "chinese_heritage_078",
-      "title": "中国文化遗产 - 图片79",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它生动地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_078.png",
+      "title": "中国结",
+      "summary": "手工艺人用红绳编织盘长结与吉祥结，绳结艺术寓意美好",
+      "full_text": "手工艺人用红绳编织盘长结与吉祥结，绳结艺术寓意美好",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_078.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1579,14 +1657,15 @@
         "chinese_heritage_078_4",
         "chinese_heritage_078_5"
       ],
-      "order": 78
+      "order": 78,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_078_pixel.jpg"
     },
     {
       "id": "chinese_heritage_079",
-      "title": "中国文化遗产 - 图片80",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个自然元素都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_079.png",
+      "title": "中医推拿",
+      "summary": "推拿师按揉患者经络穴位，手法疏通气血调理筋骨",
+      "full_text": "推拿师按揉患者经络穴位，手法疏通气血调理筋骨",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_079.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1599,14 +1678,15 @@
         "chinese_heritage_079_4",
         "chinese_heritage_079_5"
       ],
-      "order": 79
+      "order": 79,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_079_pixel.jpg"
     },
     {
       "id": "chinese_heritage_080",
-      "title": "中国文化遗产 - 图片81",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是人类智慧的结晶，它激励着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_080.png",
+      "title": "川剧变脸",
+      "summary": "川剧演员一拂袖间变换脸谱，绝技传承巴蜀戏曲文化",
+      "full_text": "川剧演员一拂袖间变换脸谱，绝技传承巴蜀戏曲文化",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_080.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1619,14 +1699,15 @@
         "chinese_heritage_080_4",
         "chinese_heritage_080_5"
       ],
-      "order": 80
+      "order": 80,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_080_pixel.jpg"
     },
     {
       "id": "chinese_heritage_081",
-      "title": "中国文化遗产 - 图片82",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它清新地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_081.png",
+      "title": "中国古琴斫制",
+      "summary": "斫琴师选用桐木与梓木制作琴身，大漆灰胎工艺传承千年",
+      "full_text": "斫琴师选用桐木与梓木制作琴身，大漆灰胎工艺传承千年",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_081.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1639,14 +1720,15 @@
         "chinese_heritage_081_4",
         "chinese_heritage_081_5"
       ],
-      "order": 81
+      "order": 81,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_081_pixel.jpg"
     },
     {
       "id": "chinese_heritage_082",
-      "title": "中国文化遗产 - 图片83",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_082.png",
+      "title": "花丝镶嵌",
+      "summary": "宫廷匠人将金银拉丝编织成凤冠，宝石镶嵌工艺精妙绝伦",
+      "full_text": "宫廷匠人将金银拉丝编织成凤冠，宝石镶嵌工艺精妙绝伦",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_082.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1659,14 +1741,15 @@
         "chinese_heritage_082_4",
         "chinese_heritage_082_5"
       ],
-      "order": 82
+      "order": 82,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_082_pixel.jpg"
     },
     {
       "id": "chinese_heritage_083",
-      "title": "中国文化遗产 - 图片84",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "科学不仅记录了美好瞬间，更传递了文化的传承，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_083.png",
+      "title": "景泰蓝",
+      "summary": "工匠在铜胎上填入彩色珐琅釉料烧制，景泰蓝瓶色彩斑斓",
+      "full_text": "工匠在铜胎上填入彩色珐琅釉料烧制，景泰蓝瓶色彩斑斓",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_083.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1679,14 +1762,15 @@
         "chinese_heritage_083_4",
         "chinese_heritage_083_5"
       ],
-      "order": 83
+      "order": 83,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_083_pixel.jpg"
     },
     {
       "id": "chinese_heritage_084",
-      "title": "中国文化遗产 - 图片85",
-      "summary": "中国文化遗产相关图片",
-      "full_text": "艺术是自然造化的结晶，它记录着生活的智慧，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_084.png",
+      "title": "宣纸制作",
+      "summary": "泾县工匠以青檀皮与沙田稻草制浆捞纸，宣纸千年不腐墨韵绝佳",
+      "full_text": "泾县工匠以青檀皮与沙田稻草制浆捞纸，宣纸千年不腐墨韵绝佳",
+      "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_084.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1699,7 +1783,8 @@
         "chinese_heritage_084_4",
         "chinese_heritage_084_5"
       ],
-      "order": 84
+      "order": 84,
+      "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_084_pixel.jpg"
     }
   ]
 }

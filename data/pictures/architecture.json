@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "architecture_000",
-      "title": "建筑艺术 - 图片1",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座宫殿金碧辉煌，融合了传统木构，展现了古代皇家的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_000.png",
+      "title": "吉萨大金字塔",
+      "summary": "古埃及第四王朝法老陵墓，世界七大奇迹之一",
+      "full_text": "古埃及第四王朝法老陵墓，世界七大奇迹之一",
+      "image": "res://assets/images/illustrations/architecture/architecture_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "architecture_000_4",
         "architecture_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_000_pixel.jpg"
     },
     {
       "id": "architecture_001",
-      "title": "建筑艺术 - 图片2",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座寺庙香火旺盛，融合了宗教符号，展现了历代传承的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_001.png",
+      "title": "卡纳克神庙",
+      "summary": "古埃及底比斯阿蒙神庙的多柱大厅宏伟遗迹",
+      "full_text": "古埃及底比斯阿蒙神庙的多柱大厅宏伟遗迹",
+      "image": "res://assets/images/illustrations/architecture/architecture_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "architecture_001_4",
         "architecture_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_001_pixel.jpg"
     },
     {
       "id": "architecture_002",
-      "title": "建筑艺术 - 图片3",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座塔楼巍峨耸立，融合了传统文化，展现了历史时期的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_002.png",
+      "title": "阿布辛贝神庙",
+      "summary": "拉美西斯二世在岩壁上凿建的巨型神庙",
+      "full_text": "拉美西斯二世在岩壁上凿建的巨型神庙",
+      "image": "res://assets/images/illustrations/architecture/architecture_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "architecture_002_4",
         "architecture_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_002_pixel.jpg"
     },
     {
       "id": "architecture_003",
-      "title": "建筑艺术 - 图片4",
-      "summary": "建筑艺术相关图片",
-      "full_text": "桥梁以其精巧雅致的设计，古典美学的风格，成为交通要道的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_003.png",
+      "title": "帕特农神庙",
+      "summary": "古希腊雅典卫城上供奉雅典娜的多利安柱式神庙",
+      "full_text": "古希腊雅典卫城上供奉雅典娜的多利安柱式神庙",
+      "image": "res://assets/images/illustrations/architecture/architecture_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "architecture_003_4",
         "architecture_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_003_pixel.jpg"
     },
     {
       "id": "architecture_004",
-      "title": "建筑艺术 - 图片5",
-      "summary": "建筑艺术相关图片",
-      "full_text": "园林以其诗情画意的设计，自然风格的风格，成为旅游胜地的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_004.png",
+      "title": "古罗马万神庙",
+      "summary": "古罗马穹顶大殿以天眼采光的神庙建筑",
+      "full_text": "古罗马穹顶大殿以天眼采光的神庙建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "architecture_004_4",
         "architecture_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_004_pixel.jpg"
     },
     {
       "id": "architecture_005",
-      "title": "建筑艺术 - 图片6",
-      "summary": "建筑艺术相关图片",
-      "full_text": "民居以其质朴实用的设计，地域特色的风格，成为文化街区的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_005.png",
+      "title": "古罗马斗兽场",
+      "summary": "古罗马椭圆形角斗场可容五万观众的宏伟建筑",
+      "full_text": "古罗马椭圆形角斗场可容五万观众的宏伟建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "architecture_005_4",
         "architecture_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_005_pixel.jpg"
     },
     {
       "id": "architecture_006",
-      "title": "建筑艺术 - 图片7",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座摩天大楼直插云霄，融合了现代科技，展现了现代建筑的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_006.png",
+      "title": "古罗马高架引水渠",
+      "summary": "古罗马横跨山谷的多层拱形引水渠遗迹",
+      "full_text": "古罗马横跨山谷的多层拱形引水渠遗迹",
+      "image": "res://assets/images/illustrations/architecture/architecture_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "architecture_006_4",
         "architecture_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_006_pixel.jpg"
     },
     {
       "id": "architecture_007",
-      "title": "建筑艺术 - 图片8",
-      "summary": "建筑艺术相关图片",
-      "full_text": "博物馆以其现代典雅的设计，后现代的风格，成为文化地标的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_007.png",
+      "title": "长城八达岭段",
+      "summary": "中国明代砖石砌筑的万里长城险峻段落",
+      "full_text": "中国明代砖石砌筑的万里长城险峻段落",
+      "image": "res://assets/images/illustrations/architecture/architecture_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "architecture_007_4",
         "architecture_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_007_pixel.jpg"
     },
     {
       "id": "architecture_008",
-      "title": "建筑艺术 - 图片9",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于教堂之中，感受庄严神圣，让人感受到神圣庄严。",
-      "image": "res://assets/images/illustrations/architecture/architecture_008.png",
+      "title": "故宫太和殿",
+      "summary": "北京紫禁城中最高等级的重檐庑殿顶大殿",
+      "full_text": "北京紫禁城中最高等级的重檐庑殿顶大殿",
+      "image": "res://assets/images/illustrations/architecture/architecture_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "architecture_008_4",
         "architecture_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_008_pixel.jpg"
     },
     {
       "id": "architecture_009",
-      "title": "建筑艺术 - 图片10",
-      "summary": "建筑艺术相关图片",
-      "full_text": "体育馆以其现代动感的设计，流线型的风格，成为城市名片的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_009.png",
+      "title": "天坛祈年殿",
+      "summary": "明清皇帝祈谷的三重檐圆形蓝色琉璃瓦殿",
+      "full_text": "明清皇帝祈谷的三重檐圆形蓝色琉璃瓦殿",
+      "image": "res://assets/images/illustrations/architecture/architecture_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "architecture_009_4",
         "architecture_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_009_pixel.jpg"
     },
     {
       "id": "architecture_010",
-      "title": "建筑艺术 - 图片11",
-      "summary": "建筑艺术相关图片",
-      "full_text": "宫殿权力象征，它不仅皇家居所，更是皇权象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_010.png",
+      "title": "秦始皇陵",
+      "summary": "秦代以兵马俑守卫的宏大帝王陵墓建筑群",
+      "full_text": "秦代以兵马俑守卫的宏大帝王陵墓建筑群",
+      "image": "res://assets/images/illustrations/architecture/architecture_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "architecture_010_4",
         "architecture_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_010_pixel.jpg"
     },
     {
       "id": "architecture_011",
-      "title": "建筑艺术 - 图片12",
-      "summary": "建筑艺术相关图片",
-      "full_text": "寺庙以其庄严肃穆的设计，宗教风格的风格，成为名山胜地的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_011.png",
+      "title": "布达拉宫",
+      "summary": "拉萨红山上达赖喇嘛的宫殿与寺院建筑群",
+      "full_text": "拉萨红山上达赖喇嘛的宫殿与寺院建筑群",
+      "image": "res://assets/images/illustrations/architecture/architecture_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "architecture_011_4",
         "architecture_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_011_pixel.jpg"
     },
     {
       "id": "architecture_012",
-      "title": "建筑艺术 - 图片13",
-      "summary": "建筑艺术相关图片",
-      "full_text": "塔楼以其高耸入云的设计，传统风格的风格，成为城市标志的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_012.png",
+      "title": "吴哥窟",
+      "summary": "柬埔寨高棉帝国以回廊与塔楼构成的寺庙山",
+      "full_text": "柬埔寨高棉帝国以回廊与塔楼构成的寺庙山",
+      "image": "res://assets/images/illustrations/architecture/architecture_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "architecture_012_4",
         "architecture_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_012_pixel.jpg"
     },
     {
       "id": "architecture_013",
-      "title": "建筑艺术 - 图片14",
-      "summary": "建筑艺术相关图片",
-      "full_text": "桥梁的如虹飞跨令人惊叹，它见证了风雨历程，是工程遗产的珍贵遗产。",
-      "image": "res://assets/images/illustrations/architecture/architecture_013.png",
+      "title": "婆罗浮屠",
+      "summary": "印尼爪哇岛上的阶梯式佛塔与浮雕建筑群",
+      "full_text": "印尼爪哇岛上的阶梯式佛塔与浮雕建筑群",
+      "image": "res://assets/images/illustrations/architecture/architecture_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "architecture_013_4",
         "architecture_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_013_pixel.jpg"
     },
     {
       "id": "architecture_014",
-      "title": "建筑艺术 - 图片15",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于园林之中，享受自然之趣，让人感受到宁静雅致。",
-      "image": "res://assets/images/illustrations/architecture/architecture_014.png",
+      "title": "特奥蒂瓦坎太阳金字塔",
+      "summary": "墨西哥特奥蒂瓦坎古城的巨型阶梯金字塔",
+      "full_text": "墨西哥特奥蒂瓦坎古城的巨型阶梯金字塔",
+      "image": "res://assets/images/illustrations/architecture/architecture_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "architecture_014_4",
         "architecture_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_014_pixel.jpg"
     },
     {
       "id": "architecture_015",
-      "title": "建筑艺术 - 图片16",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座民居错落有致，融合了地域特色，展现了民间智慧的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_015.png",
+      "title": "奇琴伊察库库尔坎金字塔",
+      "summary": "玛雅文明春分光影蛇形降临的阶梯金字塔",
+      "full_text": "玛雅文明春分光影蛇形降临的阶梯金字塔",
+      "image": "res://assets/images/illustrations/architecture/architecture_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "architecture_015_4",
         "architecture_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_015_pixel.jpg"
     },
     {
       "id": "architecture_016",
-      "title": "建筑艺术 - 图片17",
-      "summary": "建筑艺术相关图片",
-      "full_text": "摩天大楼以其现代简约的设计，现代主义的风格，成为城市天际线的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_016.png",
+      "title": "佩特拉古城",
+      "summary": "纳巴泰人在砂岩崖壁上凿刻的玫瑰色城市",
+      "full_text": "纳巴泰人在砂岩崖壁上凿刻的玫瑰色城市",
+      "image": "res://assets/images/illustrations/architecture/architecture_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "architecture_016_4",
         "architecture_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_016_pixel.jpg"
     },
     {
       "id": "architecture_017",
-      "title": "建筑艺术 - 图片18",
-      "summary": "建筑艺术相关图片",
-      "full_text": "博物馆的空间流动令人惊叹，它见证了文化史，是文化宝库的珍贵遗产。",
-      "image": "res://assets/images/illustrations/architecture/architecture_017.png",
+      "title": "波斯波利斯宫殿",
+      "summary": "波斯帝国大流士一世建造的仪典宫殿遗址",
+      "full_text": "波斯帝国大流士一世建造的仪典宫殿遗址",
+      "image": "res://assets/images/illustrations/architecture/architecture_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "architecture_017_4",
         "architecture_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_017_pixel.jpg"
     },
     {
       "id": "architecture_018",
-      "title": "建筑艺术 - 图片19",
-      "summary": "建筑艺术相关图片",
-      "full_text": "教堂的尖拱穹顶令人惊叹，它见证了宗教史，是宗教遗产的珍贵遗产。",
-      "image": "res://assets/images/illustrations/architecture/architecture_018.png",
+      "title": "摩亨佐达罗古城",
+      "summary": "印度河流域文明规划整齐的早期城市遗址",
+      "full_text": "印度河流域文明规划整齐的早期城市遗址",
+      "image": "res://assets/images/illustrations/architecture/architecture_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "architecture_018_4",
         "architecture_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_018_pixel.jpg"
     },
     {
       "id": "architecture_019",
-      "title": "建筑艺术 - 图片20",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于体育馆之中，感受激情澎湃，让人感受到热烈激昂。",
-      "image": "res://assets/images/illustrations/architecture/architecture_019.png",
+      "title": "巨石阵",
+      "summary": "英国索尔兹伯里平原上的史前环形巨石柱阵",
+      "full_text": "英国索尔兹伯里平原上的史前环形巨石柱阵",
+      "image": "res://assets/images/illustrations/architecture/architecture_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "architecture_019_4",
         "architecture_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_019_pixel.jpg"
     },
     {
       "id": "architecture_020",
-      "title": "建筑艺术 - 图片21",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于宫殿之中，感受皇家气派，让人感受到庄严肃穆。",
-      "image": "res://assets/images/illustrations/architecture/architecture_020.png",
+      "title": "沙特尔大教堂",
+      "summary": "法国哥特式教堂以飞扶壁与彩色玻璃窗闻名",
+      "full_text": "法国哥特式教堂以飞扶壁与彩色玻璃窗闻名",
+      "image": "res://assets/images/illustrations/architecture/architecture_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "architecture_020_4",
         "architecture_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_020_pixel.jpg"
     },
     {
       "id": "architecture_021",
-      "title": "建筑艺术 - 图片22",
-      "summary": "建筑艺术相关图片",
-      "full_text": "寺庙精神寄托，它不仅宗教活动，更是信仰象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_021.png",
+      "title": "巴黎圣母院",
+      "summary": "巴黎塞纳河畔的早期哥特式主教座堂",
+      "full_text": "巴黎塞纳河畔的早期哥特式主教座堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "architecture_021_4",
         "architecture_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_021_pixel.jpg"
     },
     {
       "id": "architecture_022",
-      "title": "建筑艺术 - 图片23",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座塔楼巍峨耸立，融合了传统文化，展现了历史时期的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_022.png",
+      "title": "科隆大教堂",
+      "summary": "德国以双塔高耸著称的哥特式大教堂",
+      "full_text": "德国以双塔高耸著称的哥特式大教堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "architecture_022_4",
         "architecture_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_022_pixel.jpg"
     },
     {
       "id": "architecture_023",
-      "title": "建筑艺术 - 图片24",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座桥梁飞架南北，融合了力学美学，展现了不同朝代的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_023.png",
+      "title": "米兰大教堂",
+      "summary": "意大利以密集尖塔装饰的哥特式大理石教堂",
+      "full_text": "意大利以密集尖塔装饰的哥特式大理石教堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "architecture_023_4",
         "architecture_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_023_pixel.jpg"
     },
     {
       "id": "architecture_024",
-      "title": "建筑艺术 - 图片25",
-      "summary": "建筑艺术相关图片",
-      "full_text": "园林文化遗产，它不仅休闲游览，更是和谐象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_024.png",
+      "title": "圣维特大教堂",
+      "summary": "布拉格城堡中的哥特式主教座堂",
+      "full_text": "布拉格城堡中的哥特式主教座堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "architecture_024_4",
         "architecture_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_024_pixel.jpg"
     },
     {
       "id": "architecture_025",
-      "title": "建筑艺术 - 图片26",
-      "summary": "建筑艺术相关图片",
-      "full_text": "民居生活空间，它不仅居住生活，更是生活象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_025.png",
+      "title": "圣索菲亚大教堂",
+      "summary": "拜占庭帝国以巨大穹顶闻名的教堂建筑",
+      "full_text": "拜占庭帝国以巨大穹顶闻名的教堂建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "architecture_025_4",
         "architecture_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_025_pixel.jpg"
     },
     {
       "id": "architecture_026",
-      "title": "建筑艺术 - 图片27",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座摩天大楼直插云霄，融合了现代科技，展现了现代建筑的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_026.png",
+      "title": "威尼斯圣马可大教堂",
+      "summary": "威尼斯以拜占庭金色马赛克装饰的大教堂",
+      "full_text": "威尼斯以拜占庭金色马赛克装饰的大教堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "architecture_026_4",
         "architecture_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_026_pixel.jpg"
     },
     {
       "id": "architecture_027",
-      "title": "建筑艺术 - 图片28",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于博物馆之中，沉浸文化之旅，让人感受到文化厚重。",
-      "image": "res://assets/images/illustrations/architecture/architecture_027.png",
+      "title": "莫斯科圣瓦西里大教堂",
+      "summary": "莫斯科红场上彩色洋葱头穹顶的教堂",
+      "full_text": "莫斯科红场上彩色洋葱头穹顶的教堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "architecture_027_4",
         "architecture_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_027_pixel.jpg"
     },
     {
       "id": "architecture_028",
-      "title": "建筑艺术 - 图片29",
-      "summary": "建筑艺术相关图片",
-      "full_text": "教堂以其神圣庄严的设计，哥特式的风格，成为城市景观的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_028.png",
+      "title": "阿尔罕布拉宫",
+      "summary": "西班牙格拉纳达的摩尔人宫殿与庭院建筑",
+      "full_text": "西班牙格拉纳达的摩尔人宫殿与庭院建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "architecture_028_4",
         "architecture_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_028_pixel.jpg"
     },
     {
       "id": "architecture_029",
-      "title": "建筑艺术 - 图片30",
-      "summary": "建筑艺术相关图片",
-      "full_text": "体育馆以其现代动感的设计，流线型的风格，成为城市名片的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_029.png",
+      "title": "清真寺圆顶与宣礼塔",
+      "summary": "伊斯兰教清真寺的标志性圆顶与高塔",
+      "full_text": "伊斯兰教清真寺的标志性圆顶与高塔",
+      "image": "res://assets/images/illustrations/architecture/architecture_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "architecture_029_4",
         "architecture_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_029_pixel.jpg"
     },
     {
       "id": "architecture_030",
-      "title": "建筑艺术 - 图片31",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于宫殿之中，感受皇家气派，让人感受到庄严肃穆。",
-      "image": "res://assets/images/illustrations/architecture/architecture_030.png",
+      "title": "泰姬陵",
+      "summary": "莫卧儿帝国以白色大理石建造的爱情陵墓",
+      "full_text": "莫卧儿帝国以白色大理石建造的爱情陵墓",
+      "image": "res://assets/images/illustrations/architecture/architecture_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "architecture_030_4",
         "architecture_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_030_pixel.jpg"
     },
     {
       "id": "architecture_031",
-      "title": "建筑艺术 - 图片32",
-      "summary": "建筑艺术相关图片",
-      "full_text": "寺庙精神寄托，它不仅宗教活动，更是信仰象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_031.png",
+      "title": "伊斯坦布尔蓝色清真寺",
+      "summary": "伊斯坦布尔以六座宣礼塔著称的清真寺",
+      "full_text": "伊斯坦布尔以六座宣礼塔著称的清真寺",
+      "image": "res://assets/images/illustrations/architecture/architecture_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "architecture_031_4",
         "architecture_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_031_pixel.jpg"
     },
     {
       "id": "architecture_032",
-      "title": "建筑艺术 - 图片33",
-      "summary": "建筑艺术相关图片",
-      "full_text": "塔楼以其高耸入云的设计，传统风格的风格，成为城市标志的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_032.png",
+      "title": "京都金阁寺",
+      "summary": "京都以金箔贴面的临水三层禅寺建筑",
+      "full_text": "京都以金箔贴面的临水三层禅寺建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "architecture_032_4",
         "architecture_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_032_pixel.jpg"
     },
     {
       "id": "architecture_033",
-      "title": "建筑艺术 - 图片34",
-      "summary": "建筑艺术相关图片",
-      "full_text": "桥梁以其精巧雅致的设计，古典美学的风格，成为交通要道的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_033.png",
+      "title": "姬路城",
+      "summary": "日本以白色城墙著称的封建时代城堡建筑",
+      "full_text": "日本以白色城墙著称的封建时代城堡建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "architecture_033_4",
         "architecture_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_033_pixel.jpg"
     },
     {
       "id": "architecture_034",
-      "title": "建筑艺术 - 图片35",
-      "summary": "建筑艺术相关图片",
-      "full_text": "园林的山水布局令人惊叹，它见证了造园史，是造园遗产的珍贵遗产。",
-      "image": "res://assets/images/illustrations/architecture/architecture_034.png",
+      "title": "应县木塔",
+      "summary": "辽代建造的现存最高最古木结构塔式建筑",
+      "full_text": "辽代建造的现存最高最古木结构塔式建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "architecture_034_4",
         "architecture_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_034_pixel.jpg"
     },
     {
       "id": "architecture_035",
-      "title": "建筑艺术 - 图片36",
-      "summary": "建筑艺术相关图片",
-      "full_text": "民居的因地制宜令人惊叹，它见证了民俗历史，是民俗遗产的珍贵遗产。",
-      "image": "res://assets/images/illustrations/architecture/architecture_035.png",
+      "title": "福建土楼",
+      "summary": "客家人以夯土建造的圆形家族聚居防御建筑",
+      "full_text": "客家人以夯土建造的圆形家族聚居防御建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "architecture_035_4",
         "architecture_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_035_pixel.jpg"
     },
     {
       "id": "architecture_036",
-      "title": "建筑艺术 - 图片37",
-      "summary": "建筑艺术相关图片",
-      "full_text": "摩天大楼的玻璃幕墙令人惊叹，它见证了现代史，是现代遗产的珍贵遗产。",
-      "image": "res://assets/images/illustrations/architecture/architecture_036.png",
+      "title": "布鲁日中世纪城市",
+      "summary": "比利时布鲁日保存完好的中世纪城市风貌",
+      "full_text": "比利时布鲁日保存完好的中世纪城市风貌",
+      "image": "res://assets/images/illustrations/architecture/architecture_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "architecture_036_4",
         "architecture_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_036_pixel.jpg"
     },
     {
       "id": "architecture_037",
-      "title": "建筑艺术 - 图片38",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于博物馆之中，沉浸文化之旅，让人感受到文化厚重。",
-      "image": "res://assets/images/illustrations/architecture/architecture_037.png",
+      "title": "圣米歇尔山修道院",
+      "summary": "法国诺曼底潮汐岛上矗立的中世纪修道院",
+      "full_text": "法国诺曼底潮汐岛上矗立的中世纪修道院",
+      "image": "res://assets/images/illustrations/architecture/architecture_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "architecture_037_4",
         "architecture_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_037_pixel.jpg"
     },
     {
       "id": "architecture_038",
-      "title": "建筑艺术 - 图片39",
-      "summary": "建筑艺术相关图片",
-      "full_text": "教堂的尖拱穹顶令人惊叹，它见证了宗教史，是宗教遗产的珍贵遗产。",
-      "image": "res://assets/images/illustrations/architecture/architecture_038.png",
+      "title": "克莱尔修道院废墟",
+      "summary": "英国约克郡西多会修道院的哥特式废墟",
+      "full_text": "英国约克郡西多会修道院的哥特式废墟",
+      "image": "res://assets/images/illustrations/architecture/architecture_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "architecture_038_4",
         "architecture_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_038_pixel.jpg"
     },
     {
       "id": "architecture_039",
-      "title": "建筑艺术 - 图片40",
-      "summary": "建筑艺术相关图片",
-      "full_text": "体育馆以其现代动感的设计，流线型的风格，成为城市名片的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_039.png",
+      "title": "杜伦大教堂",
+      "summary": "英国诺曼式厚墙圆拱的罗马风教堂建筑",
+      "full_text": "英国诺曼式厚墙圆拱的罗马风教堂建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "architecture_039_4",
         "architecture_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_039_pixel.jpg"
     },
     {
       "id": "architecture_040",
-      "title": "建筑艺术 - 图片41",
-      "summary": "建筑艺术相关图片",
-      "full_text": "宫殿的飞檐斗拱令人惊叹，它见证了朝代更迭，是文化遗产的珍贵遗产。",
-      "image": "res://assets/images/illustrations/architecture/architecture_040.png",
+      "title": "水晶宫",
+      "summary": "1851年伦敦世博会的铸铁玻璃预制装配建筑",
+      "full_text": "1851年伦敦世博会的铸铁玻璃预制装配建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "architecture_040_4",
         "architecture_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_040_pixel.jpg"
     },
     {
       "id": "architecture_041",
-      "title": "建筑艺术 - 图片42",
-      "summary": "建筑艺术相关图片",
-      "full_text": "寺庙的雕梁画栋令人惊叹，它见证了历史传承，是宗教遗产的珍贵遗产。",
-      "image": "res://assets/images/illustrations/architecture/architecture_041.png",
+      "title": "埃菲尔铁塔",
+      "summary": "1889年巴黎世博会的锻铁格子结构标志性塔",
+      "full_text": "1889年巴黎世博会的锻铁格子结构标志性塔",
+      "image": "res://assets/images/illustrations/architecture/architecture_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "architecture_041_4",
         "architecture_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_041_pixel.jpg"
     },
     {
       "id": "architecture_042",
-      "title": "建筑艺术 - 图片43",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座塔楼巍峨耸立，融合了传统文化，展现了历史时期的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_042.png",
+      "title": "巴塞罗那圣家堂",
+      "summary": "高迪以自然有机形态设计的未完成教堂",
+      "full_text": "高迪以自然有机形态设计的未完成教堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "architecture_042_4",
         "architecture_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_042_pixel.jpg"
     },
     {
       "id": "architecture_043",
-      "title": "建筑艺术 - 图片44",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座桥梁飞架南北，融合了力学美学，展现了不同朝代的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_043.png",
+      "title": "巴特罗之家",
+      "summary": "高迪以骨骼与龙鳞造型改造的巴塞罗那公寓",
+      "full_text": "高迪以骨骼与龙鳞造型改造的巴塞罗那公寓",
+      "image": "res://assets/images/illustrations/architecture/architecture_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "architecture_043_4",
         "architecture_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_043_pixel.jpg"
     },
     {
       "id": "architecture_044",
-      "title": "建筑艺术 - 图片45",
-      "summary": "建筑艺术相关图片",
-      "full_text": "园林以其诗情画意的设计，自然风格的风格，成为旅游胜地的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_044.png",
+      "title": "包豪斯德绍校舍",
+      "summary": "格罗皮乌斯设计的现代主义建筑教育殿堂",
+      "full_text": "格罗皮乌斯设计的现代主义建筑教育殿堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "architecture_044_4",
         "architecture_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_044_pixel.jpg"
     },
     {
       "id": "architecture_045",
-      "title": "建筑艺术 - 图片46",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于民居之中，感受生活气息，让人感受到温馨舒适。",
-      "image": "res://assets/images/illustrations/architecture/architecture_045.png",
+      "title": "萨伏伊别墅",
+      "summary": "柯布西耶以五点新建筑理论设计的白色别墅",
+      "full_text": "柯布西耶以五点新建筑理论设计的白色别墅",
+      "image": "res://assets/images/illustrations/architecture/architecture_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "architecture_045_4",
         "architecture_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_045_pixel.jpg"
     },
     {
       "id": "architecture_046",
-      "title": "建筑艺术 - 图片47",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座摩天大楼直插云霄，融合了现代科技，展现了现代建筑的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_046.png",
+      "title": "朗香教堂",
+      "summary": "柯布西耶以雕塑造型设计的朝圣教堂",
+      "full_text": "柯布西耶以雕塑造型设计的朝圣教堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "architecture_046_4",
         "architecture_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_046_pixel.jpg"
     },
     {
       "id": "architecture_047",
-      "title": "建筑艺术 - 图片48",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座博物馆气势恢宏，融合了文化元素，展现了当代设计的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_047.png",
+      "title": "流水别墅",
+      "summary": "赖特将住宅悬于瀑布之上的有机建筑杰作",
+      "full_text": "赖特将住宅悬于瀑布之上的有机建筑杰作",
+      "image": "res://assets/images/illustrations/architecture/architecture_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "architecture_047_4",
         "architecture_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_047_pixel.jpg"
     },
     {
       "id": "architecture_048",
-      "title": "建筑艺术 - 图片49",
-      "summary": "建筑艺术相关图片",
-      "full_text": "教堂以其神圣庄严的设计，哥特式的风格，成为城市景观的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_048.png",
+      "title": "古根海姆博物馆",
+      "summary": "赖特以螺旋坡道为展厅的纽约博物馆",
+      "full_text": "赖特以螺旋坡道为展厅的纽约博物馆",
+      "image": "res://assets/images/illustrations/architecture/architecture_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "architecture_048_4",
         "architecture_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_048_pixel.jpg"
     },
     {
       "id": "architecture_049",
-      "title": "建筑艺术 - 图片50",
-      "summary": "建筑艺术相关图片",
-      "full_text": "体育馆运动圣地，它不仅体育赛事，更是活力象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_049.png",
+      "title": "范斯沃斯住宅",
+      "summary": "密斯以全玻璃钢框架设计的极简住宅",
+      "full_text": "密斯以全玻璃钢框架设计的极简住宅",
+      "image": "res://assets/images/illustrations/architecture/architecture_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "architecture_049_4",
         "architecture_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_049_pixel.jpg"
     },
     {
       "id": "architecture_050",
-      "title": "建筑艺术 - 图片51",
-      "summary": "建筑艺术相关图片",
-      "full_text": "宫殿以其宏伟壮丽的设计，皇家气派的风格，成为城市中心的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_050.png",
+      "title": "西格拉姆大厦",
+      "summary": "密斯以青铜与玻璃幕墙设计的摩天大楼",
+      "full_text": "密斯以青铜与玻璃幕墙设计的摩天大楼",
+      "image": "res://assets/images/illustrations/architecture/architecture_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "architecture_050_4",
         "architecture_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_050_pixel.jpg"
     },
     {
       "id": "architecture_051",
-      "title": "建筑艺术 - 图片52",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座寺庙香火旺盛，融合了宗教符号，展现了历代传承的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_051.png",
+      "title": "萨尔克研究所",
+      "summary": "康以清水混凝土与中轴线设计的科研殿堂",
+      "full_text": "康以清水混凝土与中轴线设计的科研殿堂",
+      "image": "res://assets/images/illustrations/architecture/architecture_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "architecture_051_4",
         "architecture_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_051_pixel.jpg"
     },
     {
       "id": "architecture_052",
-      "title": "建筑艺术 - 图片53",
-      "summary": "建筑艺术相关图片",
-      "full_text": "塔楼地标建筑，它不仅瞭望防御，更是城市象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_052.png",
+      "title": "悉尼歌剧院",
+      "summary": "伍重以壳体屋顶设计的标志性表演艺术建筑",
+      "full_text": "伍重以壳体屋顶设计的标志性表演艺术建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "architecture_052_4",
         "architecture_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_052_pixel.jpg"
     },
     {
       "id": "architecture_053",
-      "title": "建筑艺术 - 图片54",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于桥梁之中，体验跨越之美，让人感受到开阔豁达。",
-      "image": "res://assets/images/illustrations/architecture/architecture_053.png",
+      "title": "代代木国立竞技场",
+      "summary": "丹下健三以悬索结构设计的东京奥运场馆",
+      "full_text": "丹下健三以悬索结构设计的东京奥运场馆",
+      "image": "res://assets/images/illustrations/architecture/architecture_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "architecture_053_4",
         "architecture_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_053_pixel.jpg"
     },
     {
       "id": "architecture_054",
-      "title": "建筑艺术 - 图片55",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座园林移步换景，融合了山水元素，展现了传统造园的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_054.png",
+      "title": "西塔里埃森",
+      "summary": "赖特在亚利桑那沙漠中建造的冬季工作室",
+      "full_text": "赖特在亚利桑那沙漠中建造的冬季工作室",
+      "image": "res://assets/images/illustrations/architecture/architecture_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "architecture_054_4",
         "architecture_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_054_pixel.jpg"
     },
     {
       "id": "architecture_055",
-      "title": "建筑艺术 - 图片56",
-      "summary": "建筑艺术相关图片",
-      "full_text": "民居生活空间，它不仅居住生活，更是生活象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_055.png",
+      "title": "纽约帝国大厦",
+      "summary": "1930年代以装饰艺术风格建造的摩天大楼",
+      "full_text": "1930年代以装饰艺术风格建造的摩天大楼",
+      "image": "res://assets/images/illustrations/architecture/architecture_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "architecture_055_4",
         "architecture_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_055_pixel.jpg"
     },
     {
       "id": "architecture_056",
-      "title": "建筑艺术 - 图片57",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座摩天大楼直插云霄，融合了现代科技，展现了现代建筑的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_056.png",
+      "title": "克莱斯勒大厦",
+      "summary": "纽约以太阳形不锈钢尖顶装饰的装饰艺术摩天楼",
+      "full_text": "纽约以太阳形不锈钢尖顶装饰的装饰艺术摩天楼",
+      "image": "res://assets/images/illustrations/architecture/architecture_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "architecture_056_4",
         "architecture_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_056_pixel.jpg"
     },
     {
       "id": "architecture_057",
-      "title": "建筑艺术 - 图片58",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座博物馆气势恢宏，融合了文化元素，展现了当代设计的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_057.png",
+      "title": "芝加哥鲁克里大厦",
+      "summary": "芝加哥学派以钢框架与大面积玻璃的早期高层",
+      "full_text": "芝加哥学派以钢框架与大面积玻璃的早期高层",
+      "image": "res://assets/images/illustrations/architecture/architecture_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "architecture_057_4",
         "architecture_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_057_pixel.jpg"
     },
     {
       "id": "architecture_058",
-      "title": "建筑艺术 - 图片59",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于教堂之中，感受庄严神圣，让人感受到神圣庄严。",
-      "image": "res://assets/images/illustrations/architecture/architecture_058.png",
+      "title": "帕伊米奥疗养院",
+      "summary": "阿尔托以人性化设计建造的结核病疗养院",
+      "full_text": "阿尔托以人性化设计建造的结核病疗养院",
+      "image": "res://assets/images/illustrations/architecture/architecture_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "architecture_058_4",
         "architecture_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_058_pixel.jpg"
     },
     {
       "id": "architecture_059",
-      "title": "建筑艺术 - 图片60",
-      "summary": "建筑艺术相关图片",
-      "full_text": "体育馆以其现代动感的设计，流线型的风格，成为城市名片的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_059.png",
+      "title": "巴西利亚国会大厦",
+      "summary": "尼迈耶以雕塑造型设计的巴西国会建筑",
+      "full_text": "尼迈耶以雕塑造型设计的巴西国会建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "architecture_059_4",
         "architecture_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_059_pixel.jpg"
     },
     {
       "id": "architecture_060",
-      "title": "建筑艺术 - 图片61",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座宫殿金碧辉煌，融合了传统木构，展现了古代皇家的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_060.png",
+      "title": "毕尔巴鄂古根海姆",
+      "summary": "盖里以钛金属曲面设计的西班牙博物馆",
+      "full_text": "盖里以钛金属曲面设计的西班牙博物馆",
+      "image": "res://assets/images/illustrations/architecture/architecture_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "architecture_060_4",
         "architecture_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_060_pixel.jpg"
     },
     {
       "id": "architecture_061",
-      "title": "建筑艺术 - 图片62",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于寺庙之中，心灵得到净化，让人感受到宁静祥和。",
-      "image": "res://assets/images/illustrations/architecture/architecture_061.png",
+      "title": "盖里迪士尼音乐厅",
+      "summary": "盖里以不锈钢曲面设计的洛杉矶音乐厅",
+      "full_text": "盖里以不锈钢曲面设计的洛杉矶音乐厅",
+      "image": "res://assets/images/illustrations/architecture/architecture_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "architecture_061_4",
         "architecture_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_061_pixel.jpg"
     },
     {
       "id": "architecture_062",
-      "title": "建筑艺术 - 图片63",
-      "summary": "建筑艺术相关图片",
-      "full_text": "塔楼地标建筑，它不仅瞭望防御，更是城市象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_062.png",
+      "title": "哈迪德广州歌剧院",
+      "summary": "哈迪德以流线锐角设计的广州表演艺术中心",
+      "full_text": "哈迪德以流线锐角设计的广州表演艺术中心",
+      "image": "res://assets/images/illustrations/architecture/architecture_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "architecture_062_4",
         "architecture_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_062_pixel.jpg"
     },
     {
       "id": "architecture_063",
-      "title": "建筑艺术 - 图片64",
-      "summary": "建筑艺术相关图片",
-      "full_text": "桥梁交通枢纽，它不仅交通通行，更是连接象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_063.png",
+      "title": "哈迪德伦敦水上中心",
+      "summary": "哈迪德以波浪屋顶设计的奥运游泳馆",
+      "full_text": "哈迪德以波浪屋顶设计的奥运游泳馆",
+      "image": "res://assets/images/illustrations/architecture/architecture_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "architecture_063_4",
         "architecture_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_063_pixel.jpg"
     },
     {
       "id": "architecture_064",
-      "title": "建筑艺术 - 图片65",
-      "summary": "建筑艺术相关图片",
-      "full_text": "园林文化遗产，它不仅休闲游览，更是和谐象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_064.png",
+      "title": "国家体育场鸟巢",
+      "summary": "赫尔佐格与德梅隆以钢结构编织的北京奥运主场",
+      "full_text": "赫尔佐格与德梅隆以钢结构编织的北京奥运主场",
+      "image": "res://assets/images/illustrations/architecture/architecture_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "architecture_064_4",
         "architecture_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_064_pixel.jpg"
     },
     {
       "id": "architecture_065",
-      "title": "建筑艺术 - 图片66",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于民居之中，感受生活气息，让人感受到温馨舒适。",
-      "image": "res://assets/images/illustrations/architecture/architecture_065.png",
+      "title": "央视总部大楼",
+      "summary": "库哈斯以悬臂环形体量设计的北京电视台",
+      "full_text": "库哈斯以悬臂环形体量设计的北京电视台",
+      "image": "res://assets/images/illustrations/architecture/architecture_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "architecture_065_4",
         "architecture_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_065_pixel.jpg"
     },
     {
       "id": "architecture_066",
-      "title": "建筑艺术 - 图片67",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于摩天大楼之中，体验现代都市，让人感受到现代繁华。",
-      "image": "res://assets/images/illustrations/architecture/architecture_066.png",
+      "title": "伦敦碎片大厦",
+      "summary": "伦佐皮亚诺以尖塔造型设计的欧洲最高建筑",
+      "full_text": "伦佐皮亚诺以尖塔造型设计的欧洲最高建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "architecture_066_4",
         "architecture_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_066_pixel.jpg"
     },
     {
       "id": "architecture_067",
-      "title": "建筑艺术 - 图片68",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座博物馆气势恢宏，融合了文化元素，展现了当代设计的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_067.png",
+      "title": "卢浮宫玻璃金字塔",
+      "summary": "贝聿铭以玻璃与钢设计的卢浮宫入口",
+      "full_text": "贝聿铭以玻璃与钢设计的卢浮宫入口",
+      "image": "res://assets/images/illustrations/architecture/architecture_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "architecture_067_4",
         "architecture_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_067_pixel.jpg"
     },
     {
       "id": "architecture_068",
-      "title": "建筑艺术 - 图片69",
-      "summary": "建筑艺术相关图片",
-      "full_text": "教堂以其神圣庄严的设计，哥特式的风格，成为城市景观的标志性建筑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_068.png",
+      "title": "苏州博物馆",
+      "summary": "贝聿铭以粉墙黛瓦意境设计的现代博物馆",
+      "full_text": "贝聿铭以粉墙黛瓦意境设计的现代博物馆",
+      "image": "res://assets/images/illustrations/architecture/architecture_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "architecture_068_4",
         "architecture_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_068_pixel.jpg"
     },
     {
       "id": "architecture_069",
-      "title": "建筑艺术 - 图片70",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于体育馆之中，感受激情澎湃，让人感受到热烈激昂。",
-      "image": "res://assets/images/illustrations/architecture/architecture_069.png",
+      "title": "丰岛美术馆",
+      "summary": "西泽立卫以混凝土薄壳设计的无柱水滴形美术馆",
+      "full_text": "西泽立卫以混凝土薄壳设计的无柱水滴形美术馆",
+      "image": "res://assets/images/illustrations/architecture/architecture_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "architecture_069_4",
         "architecture_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_069_pixel.jpg"
     },
     {
       "id": "architecture_070",
-      "title": "建筑艺术 - 图片71",
-      "summary": "建筑艺术相关图片",
-      "full_text": "宫殿权力象征，它不仅皇家居所，更是皇权象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_070.png",
+      "title": "绿色屋顶建筑",
+      "summary": "以植被覆盖屋顶实现生态节能的当代建筑",
+      "full_text": "以植被覆盖屋顶实现生态节能的当代建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "architecture_070_4",
         "architecture_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_070_pixel.jpg"
     },
     {
       "id": "architecture_071",
-      "title": "建筑艺术 - 图片72",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座寺庙香火旺盛，融合了宗教符号，展现了历代传承的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_071.png",
+      "title": "垂直森林",
+      "summary": "博埃里以阳台植树设计的米兰绿色住宅塔楼",
+      "full_text": "博埃里以阳台植树设计的米兰绿色住宅塔楼",
+      "image": "res://assets/images/illustrations/architecture/architecture_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "architecture_071_4",
         "architecture_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_071_pixel.jpg"
     },
     {
       "id": "architecture_072",
-      "title": "建筑艺术 - 图片73",
-      "summary": "建筑艺术相关图片",
-      "full_text": "这座塔楼巍峨耸立，融合了传统文化，展现了历史时期的建筑智慧。",
-      "image": "res://assets/images/illustrations/architecture/architecture_072.png",
+      "title": "3D打印建筑",
+      "summary": "以3D打印技术建造的当代实验性建筑",
+      "full_text": "以3D打印技术建造的当代实验性建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "architecture_072_4",
         "architecture_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_072_pixel.jpg"
     },
     {
       "id": "architecture_073",
-      "title": "建筑艺术 - 图片74",
-      "summary": "建筑艺术相关图片",
-      "full_text": "漫步于桥梁之中，体验跨越之美，让人感受到开阔豁达。",
-      "image": "res://assets/images/illustrations/architecture/architecture_073.png",
+      "title": "竹建筑",
+      "summary": "以竹材为主要结构材料的可持续当代建筑",
+      "full_text": "以竹材为主要结构材料的可持续当代建筑",
+      "image": "res://assets/images/illustrations/architecture/architecture_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "architecture_073_4",
         "architecture_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_073_pixel.jpg"
     },
     {
       "id": "architecture_074",
-      "title": "建筑艺术 - 图片75",
-      "summary": "建筑艺术相关图片",
-      "full_text": "园林文化遗产，它不仅休闲游览，更是和谐象征的象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_074.png",
+      "title": "互动立面建筑",
+      "summary": "以可动幕墙回应环境变化的智能建筑立面",
+      "full_text": "以可动幕墙回应环境变化的智能建筑立面",
+      "image": "res://assets/images/illustrations/architecture/architecture_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,7 +1573,8 @@
         "architecture_074_4",
         "architecture_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/architecture/architecture_074_pixel.jpg"
     }
   ]
 }

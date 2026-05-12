@@ -17,10 +17,10 @@ USAGE_FILE = BASE_DIR / "tools" / "api_usage.json"
 
 API_BASE_URL = "https://ark.cn-beijing.volces.com/api/v3/images/generations"
 
-STYLE_PREFIX = "中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，色彩鲜艳明亮饱和，暖色调为主，画面构图饱满，"
-SHELF_COLOR_KEYWORDS = "赭石色水墨灰金色点缀"
-STYLE_SUFFIX = "，画面边缘有丰富细节，不要大面积纯色背景"
-NEGATIVE_PROMPT = "写实照片,3D渲染,暗色调,灰暗,恐怖,血腥,真实人物,photorealistic,dark,gloomy,写实风格,摄影"
+STYLE_PREFIX = "中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，色彩丰富多样，画面构图饱满，"
+SHELF_COLOR_KEYWORDS = "色彩搭配和谐"
+STYLE_SUFFIX = "，画面边缘有丰富细节，不要大面积纯色背景，不要出现任何中文文字或汉字"
+NEGATIVE_PROMPT = "写实照片,3D渲染,暗色调,灰暗,恐怖,血腥,真实人物,photorealistic,dark,gloomy,写实风格,摄影,中文文字,汉字,书法字,文字水印"
 
 ASPECT_RATIO_SIZES = {
     "1:1": "2048x2048",
@@ -413,7 +413,7 @@ def generate_images(start_from=0):
         if i < start_from:
             continue
         pic_id = pic["id"]
-        save_path = IMAGES_DIR / f"{pic_id}.png"
+        save_path = IMAGES_DIR / f"{pic_id}.jpg"
         if save_path.exists():
             print(f"[{i+1}/105] 已存在，跳过: {pic_id}")
             continue
@@ -715,7 +715,7 @@ def generate_pictures_json():
             "title": pic["title"],
             "summary": pic["summary"],
             "full_text": pic["full_text"],
-            "image": f"res://assets/images/illustrations/chinese_history/{pic_id}.png",
+            "image": f"res://assets/images/illustrations/chinese_history/{pic_id}.jpg",
             "image_grid": {"x": 3, "y": 2},
             "puzzles": puzzles_list,
             "order": i
@@ -870,12 +870,12 @@ def rename_old_files():
     renamed_puzzles = 0
 
     for old_id, new_id in old_name_map.items():
-        old_img = IMAGES_DIR / f"{old_id}.png"
-        new_img = IMAGES_DIR / f"{new_id}.png"
+        old_img = IMAGES_DIR / f"{old_id}.jpg"
+        new_img = IMAGES_DIR / f"{new_id}.jpg"
         if old_img.exists() and not new_img.exists():
             old_img.rename(new_img)
             renamed_images += 1
-            print(f"  图片: {old_id}.png -> {new_id}.png")
+            print(f"  图片: {old_id}.jpg -> {new_id}.jpg")
 
         old_pixel = IMAGES_DIR / f"{old_id}_pixel.png"
         new_pixel = IMAGES_DIR / f"{new_id}_pixel.png"

@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "economic_trade_000",
-      "title": "经济与贸易史 - 图片1",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它奇妙地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_000.png",
+      "title": "原始物物交换",
+      "summary": "远古猎人在集市上用兽皮交换石斧，以物易物满足各自需求",
+      "full_text": "远古猎人在集市上用兽皮交换石斧，以物易物满足各自需求",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "economic_trade_000_4",
         "economic_trade_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_000_pixel.jpg"
     },
     {
       "id": "economic_trade_001",
-      "title": "经济与贸易史 - 图片2",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化是文化传承的结晶，它创造着生活的智慧，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_001.png",
+      "title": "贝壳货币流通",
+      "summary": "先民将贝壳穿孔串成项链充当货币，贝壳成为最早交换媒介",
+      "full_text": "先民将贝壳穿孔串成项链充当货币，贝壳成为最早交换媒介",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "economic_trade_001_4",
         "economic_trade_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_001_pixel.jpg"
     },
     {
       "id": "economic_trade_002",
-      "title": "经济与贸易史 - 图片3",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美丽新世界的大门，充满了喜悦与视觉享受。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_002.png",
+      "title": "苏美尔银币制度",
+      "summary": "苏美尔商人以标准银舍克勒作为计价单位，银块称量完成交易",
+      "full_text": "苏美尔商人以标准银舍克勒作为计价单位，银块称量完成交易",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "economic_trade_002_4",
         "economic_trade_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_002_pixel.jpg"
     },
     {
       "id": "economic_trade_003",
-      "title": "经济与贸易史 - 图片4",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是艺术创造的结晶，它展现着艺术的追求，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_003.png",
+      "title": "丝绸之路开通",
+      "summary": "张骞持节穿越河西走廊到达大宛，东西方贸易通道由此贯通",
+      "full_text": "张骞持节穿越河西走廊到达大宛，东西方贸易通道由此贯通",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "economic_trade_003_4",
         "economic_trade_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_003_pixel.jpg"
     },
     {
       "id": "economic_trade_004",
-      "title": "经济与贸易史 - 图片5",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在艺术的领域里，自然奇观展现得淋漓尽致，每一个瞬间都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_004.png",
+      "title": "埃及谷物贸易",
+      "summary": "埃及粮商在尼罗河码头装运小麦，莎草纸记录粮食价格与数量",
+      "full_text": "埃及粮商在尼罗河码头装运小麦，莎草纸记录粮食价格与数量",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "economic_trade_004_4",
         "economic_trade_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_004_pixel.jpg"
     },
     {
       "id": "economic_trade_005",
-      "title": "经济与贸易史 - 图片6",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化是审美追求的结晶，它启迪着永恒的真理，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_005.png",
+      "title": "吕底亚铸币",
+      "summary": "吕底亚工匠在琥珀金上压印狮子图案，世界首枚铸币诞生",
+      "full_text": "吕底亚工匠在琥珀金上压印狮子图案，世界首枚铸币诞生",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "economic_trade_005_4",
         "economic_trade_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_005_pixel.jpg"
     },
     {
       "id": "economic_trade_006",
-      "title": "经济与贸易史 - 图片7",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它优雅地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_006.png",
+      "title": "腓尼基紫色染料",
+      "summary": "腓尼基人从海螺中提取紫色染料，一盎司染料价值等同黄金",
+      "full_text": "腓尼基人从海螺中提取紫色染料，一盎司染料价值等同黄金",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "economic_trade_006_4",
         "economic_trade_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_006_pixel.jpg"
     },
     {
       "id": "economic_trade_007",
-      "title": "经济与贸易史 - 图片8",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学不仅揭示了人类文明，更传递了真善美的追求，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_007.png",
+      "title": "中国青铜贝币",
+      "summary": "商周时期铸造青铜贝币替代天然海贝，金属货币开始流通",
+      "full_text": "商周时期铸造青铜贝币替代天然海贝，金属货币开始流通",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "economic_trade_007_4",
         "economic_trade_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_007_pixel.jpg"
     },
     {
       "id": "economic_trade_008",
-      "title": "经济与贸易史 - 图片9",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术不仅表达了人类文明，更传递了人与自然的和谐，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_008.png",
+      "title": "印度香料贸易",
+      "summary": "印度商人将胡椒与肉桂装船运往红海港口，香料价比黄金",
+      "full_text": "印度商人将胡椒与肉桂装船运往红海港口，香料价比黄金",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "economic_trade_008_4",
         "economic_trade_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_008_pixel.jpg"
     },
     {
       "id": "economic_trade_009",
-      "title": "经济与贸易史 - 图片10",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化是生活体验的结晶，它承载着美好的愿景，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_009.png",
+      "title": "波斯皇家商路",
+      "summary": "波斯御道上商队络绎不绝，驿站为旅人提供食宿与换马服务",
+      "full_text": "波斯御道上商队络绎不绝，驿站为旅人提供食宿与换马服务",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "economic_trade_009_4",
         "economic_trade_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_009_pixel.jpg"
     },
     {
       "id": "economic_trade_010",
-      "title": "经济与贸易史 - 图片11",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它绚丽地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_010.png",
+      "title": "希腊橄榄油出口",
+      "summary": "雅典陶瓶中盛满橄榄油装船出口，双耳瓶堆满比雷埃夫斯港",
+      "full_text": "雅典陶瓶中盛满橄榄油装船出口，双耳瓶堆满比雷埃夫斯港",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "economic_trade_010_4",
         "economic_trade_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_010_pixel.jpg"
     },
     {
       "id": "economic_trade_011",
-      "title": "经济与贸易史 - 图片12",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在科学的领域里，文化传承展现得淋漓尽致，每一个自然元素都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_011.png",
+      "title": "罗马金币流通",
+      "summary": "罗马奥里斯金币在地中海世界广泛流通，皇帝头像铸于币面",
+      "full_text": "罗马奥里斯金币在地中海世界广泛流通，皇帝头像铸于币面",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "economic_trade_011_4",
         "economic_trade_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_011_pixel.jpg"
     },
     {
       "id": "economic_trade_012",
-      "title": "经济与贸易史 - 图片13",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往自然奇观的大门，充满了温馨与知识启迪。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_012.png",
+      "title": "汉朝五铢钱",
+      "summary": "汉武帝统一铸造五铢钱通行天下，铜钱外圆内方沿用七百年",
+      "full_text": "汉武帝统一铸造五铢钱通行天下，铜钱外圆内方沿用七百年",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "economic_trade_012_4",
         "economic_trade_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_012_pixel.jpg"
     },
     {
       "id": "economic_trade_013",
-      "title": "经济与贸易史 - 图片14",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化不仅创造了情感世界，更传递了梦想的价值，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_013.png",
+      "title": "中国丝绸西传",
+      "summary": "丝绸经河西走廊运往罗马，贵族以穿着丝绸彰显身份地位",
+      "full_text": "丝绸经河西走廊运往罗马，贵族以穿着丝绸彰显身份地位",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "economic_trade_013_4",
         "economic_trade_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_013_pixel.jpg"
     },
     {
       "id": "economic_trade_014",
-      "title": "经济与贸易史 - 图片15",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在自然的领域里，科学发现展现得淋漓尽致，每一个色彩都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_014.png",
+      "title": "阿拉伯乳香之路",
+      "summary": "阿拉伯商队沿半岛西岸运送乳香，香料在神庙祭典中大量消耗",
+      "full_text": "阿拉伯商队沿半岛西岸运送乳香，香料在神庙祭典中大量消耗",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "economic_trade_014_4",
         "economic_trade_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_014_pixel.jpg"
     },
     {
       "id": "economic_trade_015",
-      "title": "经济与贸易史 - 图片16",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是人类智慧的结晶，它引领着创新的理念，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_015.png",
+      "title": "东南亚香料群岛",
+      "summary": "马鲁古群岛居民采摘丁香与肉豆蔻，香料吸引远方商人前来",
+      "full_text": "马鲁古群岛居民采摘丁香与肉豆蔻，香料吸引远方商人前来",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "economic_trade_015_4",
         "economic_trade_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_015_pixel.jpg"
     },
     {
       "id": "economic_trade_016",
-      "title": "经济与贸易史 - 图片17",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它精致地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_016.png",
+      "title": "罗马埃及粮食",
+      "summary": "埃及运粮船满载小麦驶往罗马，帝国都城依赖尼罗河粮仓",
+      "full_text": "埃及运粮船满载小麦驶往罗马，帝国都城依赖尼罗河粮仓",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "economic_trade_016_4",
         "economic_trade_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_016_pixel.jpg"
     },
     {
       "id": "economic_trade_017",
-      "title": "经济与贸易史 - 图片18",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化是文化传承的结晶，它承载着人类的梦想，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_017.png",
+      "title": "匈奴皮毛贸易",
+      "summary": "匈奴牧民在边市用马匹皮毛交换中原丝绸与粮食",
+      "full_text": "匈奴牧民在边市用马匹皮毛交换中原丝绸与粮食",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "economic_trade_017_4",
         "economic_trade_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_017_pixel.jpg"
     },
     {
       "id": "economic_trade_018",
-      "title": "经济与贸易史 - 图片19",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了温馨与文化浸润。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_018.png",
+      "title": "蜀身毒道",
+      "summary": "蜀地商队翻越横断山脉经缅甸到达印度，蜀布与竹杖远销身毒",
+      "full_text": "蜀地商队翻越横断山脉经缅甸到达印度，蜀布与竹杖远销身毒",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "economic_trade_018_4",
         "economic_trade_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_018_pixel.jpg"
     },
     {
       "id": "economic_trade_019",
-      "title": "经济与贸易史 - 图片20",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它庄重地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_019.png",
+      "title": "罗马道路运输",
+      "summary": "罗马大道上四轮马车运送货物，条条大路通罗马促进商业流通",
+      "full_text": "罗马大道上四轮马车运送货物，条条大路通罗马促进商业流通",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "economic_trade_019_4",
         "economic_trade_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_019_pixel.jpg"
     },
     {
       "id": "economic_trade_020",
-      "title": "经济与贸易史 - 图片21",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是审美追求的结晶，它诠释着人文的关怀，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_020.png",
+      "title": "威尼斯商业帝国",
+      "summary": "威尼斯商人在里亚托桥畔交易东方香料，金币堆满银行柜台",
+      "full_text": "威尼斯商人在里亚托桥畔交易东方香料，金币堆满银行柜台",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "economic_trade_020_4",
         "economic_trade_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_020_pixel.jpg"
     },
     {
       "id": "economic_trade_021",
-      "title": "经济与贸易史 - 图片22",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在文化的领域里，生态保护展现得淋漓尽致，每一个文化符号都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_021.png",
+      "title": "汉萨同盟",
+      "summary": "北德商人在吕贝克召开同盟会议，统一商法保障成员贸易特权",
+      "full_text": "北德商人在吕贝克召开同盟会议，统一商法保障成员贸易特权",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "economic_trade_021_4",
         "economic_trade_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_021_pixel.jpg"
     },
     {
       "id": "economic_trade_022",
-      "title": "经济与贸易史 - 图片23",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往知识海洋的大门，充满了敬畏与艺术熏陶。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_022.png",
+      "title": "佛罗伦萨银行业",
+      "summary": "美第奇家族在佛罗伦萨开设银行，汇票与信用网络遍及欧洲",
+      "full_text": "美第奇家族在佛罗伦萨开设银行，汇票与信用网络遍及欧洲",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "economic_trade_022_4",
         "economic_trade_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_022_pixel.jpg"
     },
     {
       "id": "economic_trade_023",
-      "title": "经济与贸易史 - 图片24",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它独特地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_023.png",
+      "title": "中世纪行会制度",
+      "summary": "行会师傅在市政厅审核学徒出师作品，质量标准保障行业声誉",
+      "full_text": "行会师傅在市政厅审核学徒出师作品，质量标准保障行业声誉",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "economic_trade_023_4",
         "economic_trade_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_023_pixel.jpg"
     },
     {
       "id": "economic_trade_024",
-      "title": "经济与贸易史 - 图片25",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在艺术的领域里，历史变迁展现得淋漓尽致，每一个瞬间都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_024.png",
+      "title": "香槟集市",
+      "summary": "欧洲商人在香槟集市上交易佛兰德呢绒与意大利丝绸",
+      "full_text": "欧洲商人在香槟集市上交易佛兰德呢绒与意大利丝绸",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "economic_trade_024_4",
         "economic_trade_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_024_pixel.jpg"
     },
     {
       "id": "economic_trade_025",
-      "title": "经济与贸易史 - 图片26",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化不仅弘扬了生活哲理，更传递了智慧的光芒，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_025.png",
+      "title": "地中海贸易网络",
+      "summary": "热那亚商船在地中海各港口停靠装卸，航海图谱指引航线",
+      "full_text": "热那亚商船在地中海各港口停靠装卸，航海图谱指引航线",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "economic_trade_025_4",
         "economic_trade_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_025_pixel.jpg"
     },
     {
       "id": "economic_trade_026",
-      "title": "经济与贸易史 - 图片27",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然是自然造化的结晶，它诠释着人文的关怀，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_026.png",
+      "title": "宋朝交子纸币",
+      "summary": "四川商人发行交子替代铁钱流通，世界最早纸币在成都诞生",
+      "full_text": "四川商人发行交子替代铁钱流通，世界最早纸币在成都诞生",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "economic_trade_026_4",
         "economic_trade_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_026_pixel.jpg"
     },
     {
       "id": "economic_trade_027",
-      "title": "经济与贸易史 - 图片28",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是艺术创造的结晶，它诠释着深刻的思考，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_027.png",
+      "title": "蒙古驿站商路",
+      "summary": "蒙古帝国驿站体系保障丝路畅通，商队安全穿越欧亚草原",
+      "full_text": "蒙古帝国驿站体系保障丝路畅通，商队安全穿越欧亚草原",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "economic_trade_027_4",
         "economic_trade_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_027_pixel.jpg"
     },
     {
       "id": "economic_trade_028",
-      "title": "经济与贸易史 - 图片29",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是情感表达的结晶，它记录着社会的进步，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_028.png",
+      "title": "伊斯兰银行雏形",
+      "summary": "阿拉伯钱庄以汇票方式跨城转账，避免携带现金的风险",
+      "full_text": "阿拉伯钱庄以汇票方式跨城转账，避免携带现金的风险",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "economic_trade_028_4",
         "economic_trade_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_028_pixel.jpg"
     },
     {
       "id": "economic_trade_029",
-      "title": "经济与贸易史 - 图片30",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了震撼与心灵震撼。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_029.png",
+      "title": "中世纪采矿",
+      "summary": "矿工在萨克森银矿中用鹤嘴锄开采银矿，白银铸币流入市场",
+      "full_text": "矿工在萨克森银矿中用鹤嘴锄开采银矿，白银铸币流入市场",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "economic_trade_029_4",
         "economic_trade_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_029_pixel.jpg"
     },
     {
       "id": "economic_trade_030",
-      "title": "经济与贸易史 - 图片31",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_030.png",
+      "title": "佛兰德毛纺织",
+      "summary": "佛兰德织工在作坊中纺织英格兰羊毛，呢绒远销欧洲各地",
+      "full_text": "佛兰德织工在作坊中纺织英格兰羊毛，呢绒远销欧洲各地",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "economic_trade_030_4",
         "economic_trade_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_030_pixel.jpg"
     },
     {
       "id": "economic_trade_031",
-      "title": "经济与贸易史 - 图片32",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是人类智慧的结晶，它创造着美好的愿景，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_031.png",
+      "title": "宋朝海外贸易",
+      "summary": "泉州港停泊各国商船，市舶司征收关税管理海外贸易",
+      "full_text": "泉州港停泊各国商船，市舶司征收关税管理海外贸易",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "economic_trade_031_4",
         "economic_trade_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_031_pixel.jpg"
     },
     {
       "id": "economic_trade_032",
-      "title": "经济与贸易史 - 图片33",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往美好家园的大门，充满了沉醉与思想启迪。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_032.png",
+      "title": "基辅罗斯商路",
+      "summary": "罗斯商人沿第聂伯河将皮毛与蜂蜜运往拜占庭换取丝绸",
+      "full_text": "罗斯商人沿第聂伯河将皮毛与蜂蜜运往拜占庭换取丝绸",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "economic_trade_032_4",
         "economic_trade_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_032_pixel.jpg"
     },
     {
       "id": "economic_trade_033",
-      "title": "经济与贸易史 - 图片34",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了好奇与心灵震撼。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_033.png",
+      "title": "中世纪集市",
+      "summary": "乡村集市上农妇售卖鸡蛋与奶酪，巡回商贩摆摊叫卖杂货",
+      "full_text": "乡村集市上农妇售卖鸡蛋与奶酪，巡回商贩摆摊叫卖杂货",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "economic_trade_033_4",
         "economic_trade_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_033_pixel.jpg"
     },
     {
       "id": "economic_trade_034",
-      "title": "经济与贸易史 - 图片35",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然不仅揭示了时代精神，更传递了梦想的价值，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_034.png",
+      "title": "马穆鲁克转口贸易",
+      "summary": "马穆鲁克苏丹控制红海商路，对印度香料征收高额过境税",
+      "full_text": "马穆鲁克苏丹控制红海商路，对印度香料征收高额过境税",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "economic_trade_034_4",
         "economic_trade_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_034_pixel.jpg"
     },
     {
       "id": "economic_trade_035",
-      "title": "经济与贸易史 - 图片36",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往美好家园的大门，充满了温馨与艺术熏陶。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_035.png",
+      "title": "明朝朝贡贸易",
+      "summary": "各国使臣在京城呈献方物，朝廷回赐丝绸瓷器彰显天朝恩典",
+      "full_text": "各国使臣在京城呈献方物，朝廷回赐丝绸瓷器彰显天朝恩典",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "economic_trade_035_4",
         "economic_trade_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_035_pixel.jpg"
     },
     {
       "id": "economic_trade_036",
-      "title": "经济与贸易史 - 图片37",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术不仅传承了艺术真谛，更传递了美的真谛，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_036.png",
+      "title": "日本朱印船贸易",
+      "summary": "朱印船持将军许可证驶往东南亚，日本商人在会安建立商馆",
+      "full_text": "朱印船持将军许可证驶往东南亚，日本商人在会安建立商馆",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "economic_trade_036_4",
         "economic_trade_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_036_pixel.jpg"
     },
     {
       "id": "economic_trade_037",
-      "title": "经济与贸易史 - 图片38",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化不仅描绘了自然之美，更传递了情感的力量，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_037.png",
+      "title": "朝鲜贡赋制度",
+      "summary": "朝鲜各道向汉城运送贡物，米粮布匹充实王室仓库",
+      "full_text": "朝鲜各道向汉城运送贡物，米粮布匹充实王室仓库",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "economic_trade_037_4",
         "economic_trade_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_037_pixel.jpg"
     },
     {
       "id": "economic_trade_038",
-      "title": "经济与贸易史 - 图片39",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然是人类智慧的结晶，它创造着永恒的真理，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_038.png",
+      "title": "奥斯曼商队旅馆",
+      "summary": "奥斯曼帝国在商路上修建客栈，商队在此歇脚补给安全过夜",
+      "full_text": "奥斯曼帝国在商路上修建客栈，商队在此歇脚补给安全过夜",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "economic_trade_038_4",
         "economic_trade_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_038_pixel.jpg"
     },
     {
       "id": "economic_trade_039",
-      "title": "经济与贸易史 - 图片40",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是生活体验的结晶，它承载着艺术的追求，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_039.png",
+      "title": "哥伦布到达美洲",
+      "summary": "哥伦布船队在加勒比海岛登陆，新大陆向欧洲贸易敞开大门",
+      "full_text": "哥伦布船队在加勒比海岛登陆，新大陆向欧洲贸易敞开大门",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "economic_trade_039_4",
         "economic_trade_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_039_pixel.jpg"
     },
     {
       "id": "economic_trade_040",
-      "title": "经济与贸易史 - 图片41",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是生活体验的结晶，它承载着永恒的真理，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_040.png",
+      "title": "西班牙白银贸易",
+      "summary": "西班牙大帆船将波托西白银运往马尼拉，换取中国丝绸瓷器",
+      "full_text": "西班牙大帆船将波托西白银运往马尼拉，换取中国丝绸瓷器",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "economic_trade_040_4",
         "economic_trade_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_040_pixel.jpg"
     },
     {
       "id": "economic_trade_041",
-      "title": "经济与贸易史 - 图片42",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化不仅传递了时代精神，更传递了情感的力量，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_041.png",
+      "title": "荷兰东印度公司",
+      "summary": "东印度公司商船在巴达维亚卸货，股份制公司开创现代商业",
+      "full_text": "东印度公司商船在巴达维亚卸货，股份制公司开创现代商业",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "economic_trade_041_4",
         "economic_trade_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_041_pixel.jpg"
     },
     {
       "id": "economic_trade_042",
-      "title": "经济与贸易史 - 图片43",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往创意空间的大门，充满了惊叹与心灵震撼。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_042.png",
+      "title": "英国东印度公司",
+      "summary": "东印度公司在孟加拉收购棉花与茶叶，武装商船控制印度贸易",
+      "full_text": "东印度公司在孟加拉收购棉花与茶叶，武装商船控制印度贸易",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "economic_trade_042_4",
         "economic_trade_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_042_pixel.jpg"
     },
     {
       "id": "economic_trade_043",
-      "title": "经济与贸易史 - 图片44",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学不仅传递了自然之美，更传递了情感的力量，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_043.png",
+      "title": "三角贸易航线",
+      "summary": "商船将朗姆酒运往非洲换奴隶，奴隶运往美洲换棉花糖浆",
+      "full_text": "商船将朗姆酒运往非洲换奴隶，奴隶运往美洲换棉花糖浆",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "economic_trade_043_4",
         "economic_trade_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_043_pixel.jpg"
     },
     {
       "id": "economic_trade_044",
-      "title": "经济与贸易史 - 图片45",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它神秘地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_044.png",
+      "title": "马尼拉大帆船",
+      "summary": "西班牙大帆船横渡太平洋将白银运往马尼拉，换回中国丝绸",
+      "full_text": "西班牙大帆船横渡太平洋将白银运往马尼拉，换回中国丝绸",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "economic_trade_044_4",
         "economic_trade_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_044_pixel.jpg"
     },
     {
       "id": "economic_trade_045",
-      "title": "经济与贸易史 - 图片46",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它精致地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_045.png",
+      "title": "葡萄牙香料垄断",
+      "summary": "葡萄牙战船控制霍尔木兹海峡，垄断印度洋香料贸易航线",
+      "full_text": "葡萄牙战船控制霍尔木兹海峡，垄断印度洋香料贸易航线",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "economic_trade_045_4",
         "economic_trade_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_045_pixel.jpg"
     },
     {
       "id": "economic_trade_046",
-      "title": "经济与贸易史 - 图片47",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然是审美追求的结晶，它启迪着创新的理念，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_046.png",
+      "title": "阿姆斯特丹交易所",
+      "summary": "阿姆斯特丹证券交易所人声鼎沸，郁金香期货价格剧烈波动",
+      "full_text": "阿姆斯特丹证券交易所人声鼎沸，郁金香期货价格剧烈波动",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "economic_trade_046_4",
         "economic_trade_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_046_pixel.jpg"
     },
     {
       "id": "economic_trade_047",
-      "title": "经济与贸易史 - 图片48",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往自然奇观的大门，充满了震撼与知识启迪。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_047.png",
+      "title": "法国重商主义",
+      "summary": "科尔贝推行保护关税政策，法国工场生产奢侈品替代进口",
+      "full_text": "科尔贝推行保护关税政策，法国工场生产奢侈品替代进口",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "economic_trade_047_4",
         "economic_trade_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_047_pixel.jpg"
     },
     {
       "id": "economic_trade_048",
-      "title": "经济与贸易史 - 图片49",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在艺术的领域里，生态保护展现得淋漓尽致，每一个线条都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_048.png",
+      "title": "大西洋捕鲸业",
+      "summary": "捕鲸船在南大西洋追击鲸鱼，鲸油点亮欧洲城市街灯",
+      "full_text": "捕鲸船在南大西洋追击鲸鱼，鲸油点亮欧洲城市街灯",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "economic_trade_048_4",
         "economic_trade_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_048_pixel.jpg"
     },
     {
       "id": "economic_trade_049",
-      "title": "经济与贸易史 - 图片50",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化是生活体验的结晶，它传递着科学的精神，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_049.png",
+      "title": "加勒比甘蔗种植园",
+      "summary": "奴隶在加勒比甘蔗园中挥刀砍蔗，糖浆熬制成糖运往欧洲",
+      "full_text": "奴隶在加勒比甘蔗园中挥刀砍蔗，糖浆熬制成糖运往欧洲",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "economic_trade_049_4",
         "economic_trade_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_049_pixel.jpg"
     },
     {
       "id": "economic_trade_050",
-      "title": "经济与贸易史 - 图片51",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然不仅创造了生活哲理，更传递了智慧的光芒，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_050.png",
+      "title": "皮毛贸易",
+      "summary": "法国皮毛商人在北美丛林中与印第安人交换海狸皮",
+      "full_text": "法国皮毛商人在北美丛林中与印第安人交换海狸皮",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "economic_trade_050_4",
         "economic_trade_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_050_pixel.jpg"
     },
     {
       "id": "economic_trade_051",
-      "title": "经济与贸易史 - 图片52",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它细腻地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_051.png",
+      "title": "茶叶贸易",
+      "summary": "英国商船在广州装载茶叶驶往伦敦，下午茶成为英伦风尚",
+      "full_text": "英国商船在广州装载茶叶驶往伦敦，下午茶成为英伦风尚",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "economic_trade_051_4",
         "economic_trade_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_051_pixel.jpg"
     },
     {
       "id": "economic_trade_052",
-      "title": "经济与贸易史 - 图片53",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在艺术的领域里，历史变迁展现得淋漓尽致，每一个文化符号都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_052.png",
+      "title": "鸦片贸易",
+      "summary": "英国商人在广州外海卸下鸦片箱，白银外流引发清朝危机",
+      "full_text": "英国商人在广州外海卸下鸦片箱，白银外流引发清朝危机",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "economic_trade_052_4",
         "economic_trade_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_052_pixel.jpg"
     },
     {
       "id": "economic_trade_053",
-      "title": "经济与贸易史 - 图片54",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化不仅传承了时代精神，更传递了梦想的价值，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_053.png",
+      "title": "波士顿倾茶事件",
+      "summary": "殖民地居民将东印度公司茶叶倒入波士顿港，抗议不公正税收",
+      "full_text": "殖民地居民将东印度公司茶叶倒入波士顿港，抗议不公正税收",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "economic_trade_053_4",
         "economic_trade_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_053_pixel.jpg"
     },
     {
       "id": "economic_trade_054",
-      "title": "经济与贸易史 - 图片55",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在自然的领域里，社会发展展现得淋漓尽致，每一个思想都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_054.png",
+      "title": "西班牙宝藏船队",
+      "summary": "西班牙宝船队满载美洲金银横渡大西洋，海盗在航线上伏击",
+      "full_text": "西班牙宝船队满载美洲金银横渡大西洋，海盗在航线上伏击",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "economic_trade_054_4",
         "economic_trade_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_054_pixel.jpg"
     },
     {
       "id": "economic_trade_055",
-      "title": "经济与贸易史 - 图片56",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精致地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_055.png",
+      "title": "巴西咖啡种植",
+      "summary": "巴西咖啡种植园主监督奴隶采摘红果，咖啡豆装袋运往欧洲",
+      "full_text": "巴西咖啡种植园主监督奴隶采摘红果，咖啡豆装袋运往欧洲",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "economic_trade_055_4",
         "economic_trade_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_055_pixel.jpg"
     },
     {
       "id": "economic_trade_056",
-      "title": "经济与贸易史 - 图片57",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术不仅传承了生命意义，更传递了文化的传承，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_056.png",
+      "title": "澳大利亚羊毛贸易",
+      "summary": "澳大利亚牧羊人在广袤牧场剪羊毛，毛包装船运往英国纺织厂",
+      "full_text": "澳大利亚牧羊人在广袤牧场剪羊毛，毛包装船运往英国纺织厂",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "economic_trade_056_4",
         "economic_trade_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_056_pixel.jpg"
     },
     {
       "id": "economic_trade_057",
-      "title": "经济与贸易史 - 图片58",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化不仅展现了自然之美，更传递了奋斗的意义，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_057.png",
+      "title": "英国棉纺工厂",
+      "summary": "蒸汽驱动的纺纱机在曼彻斯特工厂轰鸣，棉纱产量百倍增长",
+      "full_text": "蒸汽驱动的纺纱机在曼彻斯特工厂轰鸣，棉纱产量百倍增长",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "economic_trade_057_4",
         "economic_trade_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_057_pixel.jpg"
     },
     {
       "id": "economic_trade_058",
-      "title": "经济与贸易史 - 图片59",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美丽新世界的大门，充满了宁静与艺术熏陶。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_058.png",
+      "title": "铁路运输革命",
+      "summary": "蒸汽火车在利物浦至曼彻斯特铁路上飞驰，货运成本大幅降低",
+      "full_text": "蒸汽火车在利物浦至曼彻斯特铁路上飞驰，货运成本大幅降低",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "economic_trade_058_4",
         "economic_trade_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_058_pixel.jpg"
     },
     {
       "id": "economic_trade_059",
-      "title": "经济与贸易史 - 图片60",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是生活体验的结晶，它展现着生活的智慧，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_059.png",
+      "title": "金本位制度",
+      "summary": "英国率先实行金本位制，英镑与黄金挂钩稳定国际汇率",
+      "full_text": "英国率先实行金本位制，英镑与黄金挂钩稳定国际汇率",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "economic_trade_059_4",
         "economic_trade_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_059_pixel.jpg"
     },
     {
       "id": "economic_trade_060",
-      "title": "经济与贸易史 - 图片61",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往历史长河的大门，充满了沉思与审美体验。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_060.png",
+      "title": "电报与商业",
+      "summary": "电报线横跨大西洋连接欧美，市场信息瞬息可达改变交易方式",
+      "full_text": "电报线横跨大西洋连接欧美，市场信息瞬息可达改变交易方式",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "economic_trade_060_4",
         "economic_trade_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_060_pixel.jpg"
     },
     {
       "id": "economic_trade_061",
-      "title": "经济与贸易史 - 图片62",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它丰富地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_061.png",
+      "title": "福特流水线",
+      "summary": "福特工厂流水线上汽车每分钟下线，标准化生产降低成本",
+      "full_text": "福特工厂流水线上汽车每分钟下线，标准化生产降低成本",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "economic_trade_061_4",
         "economic_trade_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_061_pixel.jpg"
     },
     {
       "id": "economic_trade_062",
-      "title": "经济与贸易史 - 图片63",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然是文化传承的结晶，它启迪着永恒的真理，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_062.png",
+      "title": "石油工业兴起",
+      "summary": "洛克菲勒在克利夫兰炼油厂提炼原油，标准石油垄断美国市场",
+      "full_text": "洛克菲勒在克利夫兰炼油厂提炼原油，标准石油垄断美国市场",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "economic_trade_062_4",
         "economic_trade_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_062_pixel.jpg"
     },
     {
       "id": "economic_trade_063",
-      "title": "经济与贸易史 - 图片64",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是自然造化的结晶，它表达着艺术的追求，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_063.png",
+      "title": "巴拿马运河通航",
+      "summary": "货轮通过巴拿马运河水闸，大西洋至太平洋航程缩短万里",
+      "full_text": "货轮通过巴拿马运河水闸，大西洋至太平洋航程缩短万里",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "economic_trade_063_4",
         "economic_trade_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_063_pixel.jpg"
     },
     {
       "id": "economic_trade_064",
-      "title": "经济与贸易史 - 图片65",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术不仅塑造了文化内涵，更传递了真善美的追求，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_064.png",
+      "title": "钢铁大王卡内基",
+      "summary": "卡内基钢铁厂高炉昼夜不停出铁，匹兹堡烟尘笼罩天际",
+      "full_text": "卡内基钢铁厂高炉昼夜不停出铁，匹兹堡烟尘笼罩天际",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "economic_trade_064_4",
         "economic_trade_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_064_pixel.jpg"
     },
     {
       "id": "economic_trade_065",
-      "title": "经济与贸易史 - 图片66",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化不仅弘扬了自然之美，更传递了创新的精神，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_065.png",
+      "title": "大萧条",
+      "summary": "华尔街股民在纽约证券交易所前恐慌抛售，黑色星期四崩盘",
+      "full_text": "华尔街股民在纽约证券交易所前恐慌抛售，黑色星期四崩盘",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "economic_trade_065_4",
         "economic_trade_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_065_pixel.jpg"
     },
     {
       "id": "economic_trade_066",
-      "title": "经济与贸易史 - 图片67",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然是人类智慧的结晶，它承载着美好的愿景，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_066.png",
+      "title": "布雷顿森林体系",
+      "summary": "四十四国代表在布雷顿森林达成协议，美元与黄金挂钩重建金融秩序",
+      "full_text": "四十四国代表在布雷顿森林达成协议，美元与黄金挂钩重建金融秩序",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "economic_trade_066_4",
         "economic_trade_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_066_pixel.jpg"
     },
     {
       "id": "economic_trade_067",
-      "title": "经济与贸易史 - 图片68",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学不仅诠释了艺术真谛，更传递了人与自然的和谐，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_067.png",
+      "title": "关贸总协定",
+      "summary": "各国在日内瓦签署关税与贸易总协定，多边减税促进全球贸易",
+      "full_text": "各国在日内瓦签署关税与贸易总协定，多边减税促进全球贸易",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "economic_trade_067_4",
         "economic_trade_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_067_pixel.jpg"
     },
     {
       "id": "economic_trade_068",
-      "title": "经济与贸易史 - 图片69",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它生动地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_068.png",
+      "title": "马歇尔计划",
+      "summary": "美国援助物资运抵欧洲港口，重建战后经济遏制共产主义扩张",
+      "full_text": "美国援助物资运抵欧洲港口，重建战后经济遏制共产主义扩张",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "economic_trade_068_4",
         "economic_trade_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_068_pixel.jpg"
     },
     {
       "id": "economic_trade_069",
-      "title": "经济与贸易史 - 图片70",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它细腻地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_069.png",
+      "title": "欧佩克石油禁运",
+      "summary": "阿拉伯产油国削减石油出口，加油站前排起长队油价飙升",
+      "full_text": "阿拉伯产油国削减石油出口，加油站前排起长队油价飙升",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "economic_trade_069_4",
         "economic_trade_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_069_pixel.jpg"
     },
     {
       "id": "economic_trade_070",
-      "title": "经济与贸易史 - 图片71",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然是情感表达的结晶，它引领着人类的梦想，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_070.png",
+      "title": "亚洲四小龙崛起",
+      "summary": "韩国工人在出口加工区组装电子产品，出口导向经济高速增长",
+      "full_text": "韩国工人在出口加工区组装电子产品，出口导向经济高速增长",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "economic_trade_070_4",
         "economic_trade_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_070_pixel.jpg"
     },
     {
       "id": "economic_trade_071",
-      "title": "经济与贸易史 - 图片72",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往自然奇观的大门，充满了感动与审美体验。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_071.png",
+      "title": "中国改革开放经济",
+      "summary": "深圳经济特区工厂灯火通明，外来投资推动制造业腾飞",
+      "full_text": "深圳经济特区工厂灯火通明，外来投资推动制造业腾飞",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "economic_trade_071_4",
         "economic_trade_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_071_pixel.jpg"
     },
     {
       "id": "economic_trade_072",
-      "title": "经济与贸易史 - 图片73",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它庄重地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_072.png",
+      "title": "世贸组织成立",
+      "summary": "WTO在日内瓦正式运作，全球贸易规则统一争端解决机制建立",
+      "full_text": "WTO在日内瓦正式运作，全球贸易规则统一争端解决机制建立",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "economic_trade_072_4",
         "economic_trade_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_072_pixel.jpg"
     },
     {
       "id": "economic_trade_073",
-      "title": "经济与贸易史 - 图片74",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往神秘国度的大门，充满了向往与情感共鸣。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_073.png",
+      "title": "互联网经济",
+      "summary": "程序员在硅谷车库中创办网络公司，电子商务改变消费方式",
+      "full_text": "程序员在硅谷车库中创办网络公司，电子商务改变消费方式",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "economic_trade_073_4",
         "economic_trade_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_073_pixel.jpg"
     },
     {
       "id": "economic_trade_074",
-      "title": "经济与贸易史 - 图片75",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然不仅记录了生活哲理，更传递了美的真谛，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_074.png",
+      "title": "欧元区统一货币",
+      "summary": "欧元纸币在十二国同时流通，欧洲统一市场迈出关键一步",
+      "full_text": "欧元纸币在十二国同时流通，欧洲统一市场迈出关键一步",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,14 +1573,15 @@
         "economic_trade_074_4",
         "economic_trade_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_074_pixel.jpg"
     },
     {
       "id": "economic_trade_075",
-      "title": "经济与贸易史 - 图片76",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往智慧天地的大门，充满了感动与情感共鸣。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_075.png",
+      "title": "移动支付革命",
+      "summary": "消费者用手机扫码完成支付，无现金社会在东亚率先实现",
+      "full_text": "消费者用手机扫码完成支付，无现金社会在东亚率先实现",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_075.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1519,14 +1594,15 @@
         "economic_trade_075_4",
         "economic_trade_075_5"
       ],
-      "order": 75
+      "order": 75,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_075_pixel.jpg"
     },
     {
       "id": "economic_trade_076",
-      "title": "经济与贸易史 - 图片77",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往历史长河的大门，充满了憧憬与情感共鸣。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_076.png",
+      "title": "跨境电商",
+      "summary": "集装箱货轮满载跨境电商包裹穿梭大洋，全球购物一键下单",
+      "full_text": "集装箱货轮满载跨境电商包裹穿梭大洋，全球购物一键下单",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_076.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1539,14 +1615,15 @@
         "economic_trade_076_4",
         "economic_trade_076_5"
       ],
-      "order": 76
+      "order": 76,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_076_pixel.jpg"
     },
     {
       "id": "economic_trade_077",
-      "title": "经济与贸易史 - 图片78",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化不仅描绘了自然之美，更传递了创新的精神，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_077.png",
+      "title": "加密货币",
+      "summary": "区块链网络验证比特币交易，去中心化数字货币挑战传统金融",
+      "full_text": "区块链网络验证比特币交易，去中心化数字货币挑战传统金融",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_077.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1559,14 +1636,15 @@
         "economic_trade_077_4",
         "economic_trade_077_5"
       ],
-      "order": 77
+      "order": 77,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_077_pixel.jpg"
     },
     {
       "id": "economic_trade_078",
-      "title": "经济与贸易史 - 图片79",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然不仅诠释了艺术真谛，更传递了创新的精神，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_078.png",
+      "title": "共享经济",
+      "summary": "网约车司机通过平台接单载客，共享经济重塑服务业格局",
+      "full_text": "网约车司机通过平台接单载客，共享经济重塑服务业格局",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_078.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1579,14 +1657,15 @@
         "economic_trade_078_4",
         "economic_trade_078_5"
       ],
-      "order": 78
+      "order": 78,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_078_pixel.jpg"
     },
     {
       "id": "economic_trade_079",
-      "title": "经济与贸易史 - 图片80",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个色彩都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_079.png",
+      "title": "宋朝市舶制度",
+      "summary": "宋朝设市舶司管理海外贸易，广州泉州港关税收入充实国库",
+      "full_text": "宋朝设市舶司管理海外贸易，广州泉州港关税收入充实国库",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_079.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1599,14 +1678,15 @@
         "economic_trade_079_4",
         "economic_trade_079_5"
       ],
-      "order": 79
+      "order": 79,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_079_pixel.jpg"
     },
     {
       "id": "economic_trade_080",
-      "title": "经济与贸易史 - 图片81",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它深刻地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_080.png",
+      "title": "明朝白银货币化",
+      "summary": "一条鞭法将赋税折银征收，白银成为主要货币推动商业发展",
+      "full_text": "一条鞭法将赋税折银征收，白银成为主要货币推动商业发展",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_080.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1619,14 +1699,15 @@
         "economic_trade_080_4",
         "economic_trade_080_5"
       ],
-      "order": 80
+      "order": 80,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_080_pixel.jpg"
     },
     {
       "id": "economic_trade_081",
-      "title": "经济与贸易史 - 图片82",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "文化不仅展现了人类文明，更传递了真善美的追求，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_081.png",
+      "title": "工业革命铁路",
+      "summary": "蒸汽火车在曼彻斯特至利物浦铁路上飞驰，货运速度革命性提升",
+      "full_text": "蒸汽火车在曼彻斯特至利物浦铁路上飞驰，货运速度革命性提升",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_081.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1639,14 +1720,15 @@
         "economic_trade_081_4",
         "economic_trade_081_5"
       ],
-      "order": 81
+      "order": 81,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_081_pixel.jpg"
     },
     {
       "id": "economic_trade_082",
-      "title": "经济与贸易史 - 图片83",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它绚丽地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_082.png",
+      "title": "全球供应链",
+      "summary": "集装箱货轮穿梭大洋，芯片在东亚制造销往全球各地",
+      "full_text": "集装箱货轮穿梭大洋，芯片在东亚制造销往全球各地",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_082.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1659,14 +1741,15 @@
         "economic_trade_082_4",
         "economic_trade_082_5"
       ],
-      "order": 82
+      "order": 82,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_082_pixel.jpg"
     },
     {
       "id": "economic_trade_083",
-      "title": "经济与贸易史 - 图片84",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它壮观地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_083.png",
+      "title": "人工智能经济",
+      "summary": "AI算法在数据中心训练模型，智能技术驱动新一轮产业变革",
+      "full_text": "AI算法在数据中心训练模型，智能技术驱动新一轮产业变革",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_083.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1679,14 +1762,15 @@
         "economic_trade_083_4",
         "economic_trade_083_5"
       ],
-      "order": 83
+      "order": 83,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_083_pixel.jpg"
     },
     {
       "id": "economic_trade_084",
-      "title": "经济与贸易史 - 图片85",
-      "summary": "经济与贸易史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它典雅地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/economic_trade/economic_trade_084.png",
+      "title": "宋朝纸币制度",
+      "summary": "交子铺户发行纸币替代铁钱流通，信用货币体系在成都首创",
+      "full_text": "交子铺户发行纸币替代铁钱流通，信用货币体系在成都首创",
+      "image": "res://assets/images/illustrations/economic_trade/economic_trade_084.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1699,7 +1783,8 @@
         "economic_trade_084_4",
         "economic_trade_084_5"
       ],
-      "order": 84
+      "order": 84,
+      "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_084_pixel.jpg"
     }
   ]
 }

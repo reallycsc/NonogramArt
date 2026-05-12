@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "contemporary_media_000",
-      "title": "当代传媒 - 图片1",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术不仅展现了生活哲理，更传递了创新的精神，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_000.png",
+      "title": "卢米埃尔兄弟火车进站",
+      "summary": "1895年卢米埃尔兄弟拍摄的世界最早放映电影",
+      "full_text": "1895年卢米埃尔兄弟拍摄的世界最早放映电影",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "contemporary_media_000_4",
         "contemporary_media_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_000_pixel.jpg"
     },
     {
       "id": "contemporary_media_001",
-      "title": "当代传媒 - 图片2",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了震撼与美好感受。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_001.png",
+      "title": "梅里爱月球旅行记",
+      "summary": "梅里爱以特效与布景拍摄的早期奇幻电影",
+      "full_text": "梅里爱以特效与布景拍摄的早期奇幻电影",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "contemporary_media_001_4",
         "contemporary_media_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_001_pixel.jpg"
     },
     {
       "id": "contemporary_media_002",
-      "title": "当代传媒 - 图片3",
-      "summary": "当代传媒相关图片",
-      "full_text": "自然不仅创造了历史记忆，更传递了生命的意义，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_002.png",
+      "title": "格里菲斯一个国家的诞生",
+      "summary": "格里菲斯开创交叉剪辑与特写镜头的早期电影",
+      "full_text": "格里菲斯开创交叉剪辑与特写镜头的早期电影",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "contemporary_media_002_4",
         "contemporary_media_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_002_pixel.jpg"
     },
     {
       "id": "contemporary_media_003",
-      "title": "当代传媒 - 图片4",
-      "summary": "当代传媒相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它生动地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_003.png",
+      "title": "战舰波将金号",
+      "summary": "爱森斯坦以蒙太奇手法拍摄的敖德萨阶梯经典",
+      "full_text": "爱森斯坦以蒙太奇手法拍摄的敖德萨阶梯经典",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "contemporary_media_003_4",
         "contemporary_media_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_003_pixel.jpg"
     },
     {
       "id": "contemporary_media_004",
-      "title": "当代传媒 - 图片5",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术是自然造化的结晶，它诠释着人类的梦想，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_004.png",
+      "title": "蒙太奇理论",
+      "summary": "苏联电影以冲突剪辑创造意义的蒙太奇手法",
+      "full_text": "苏联电影以冲突剪辑创造意义的蒙太奇手法",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "contemporary_media_004_4",
         "contemporary_media_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_004_pixel.jpg"
     },
     {
       "id": "contemporary_media_005",
-      "title": "当代传媒 - 图片6",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往自然奇观的大门，充满了沉思与审美体验。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_005.png",
+      "title": "卡里加里博士的小屋",
+      "summary": "德国表现主义以扭曲布景拍摄的恐怖默片",
+      "full_text": "德国表现主义以扭曲布景拍摄的恐怖默片",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "contemporary_media_005_4",
         "contemporary_media_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_005_pixel.jpg"
     },
     {
       "id": "contemporary_media_006",
-      "title": "当代传媒 - 图片7",
-      "summary": "当代传媒相关图片",
-      "full_text": "自然是自然造化的结晶，它承载着人文的关怀，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_006.png",
+      "title": "大都会",
+      "summary": "弗里茨朗以未来城市为背景的表现主义科幻默片",
+      "full_text": "弗里茨朗以未来城市为背景的表现主义科幻默片",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "contemporary_media_006_4",
         "contemporary_media_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_006_pixel.jpg"
     },
     {
       "id": "contemporary_media_007",
-      "title": "当代传媒 - 图片8",
-      "summary": "当代传媒相关图片",
-      "full_text": "在科学的领域里，社会发展展现得淋漓尽致，每一个文化符号都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_007.png",
+      "title": "好莱坞黄金时代片场制",
+      "summary": "1930至50年代好莱坞大型制片厂的工业化生产",
+      "full_text": "1930至50年代好莱坞大型制片厂的工业化生产",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "contemporary_media_007_4",
         "contemporary_media_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_007_pixel.jpg"
     },
     {
       "id": "contemporary_media_008",
-      "title": "当代传媒 - 图片9",
-      "summary": "当代传媒相关图片",
-      "full_text": "在艺术的领域里，社会发展展现得淋漓尽致，每一个历史印记都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_008.png",
+      "title": "公民凯恩深焦摄影",
+      "summary": "威尔斯以深焦与低角度拍摄的电影语言革新",
+      "full_text": "威尔斯以深焦与低角度拍摄的电影语言革新",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "contemporary_media_008_4",
         "contemporary_media_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_008_pixel.jpg"
     },
     {
       "id": "contemporary_media_009",
-      "title": "当代传媒 - 图片10",
-      "summary": "当代传媒相关图片",
-      "full_text": "在文化的领域里，自然奇观展现得淋漓尽致，每一个光影都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_009.png",
+      "title": "偷自行车的人",
+      "summary": "德西卡以非职业演员实景拍摄的新现实主义",
+      "full_text": "德西卡以非职业演员实景拍摄的新现实主义",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "contemporary_media_009_4",
         "contemporary_media_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_009_pixel.jpg"
     },
     {
       "id": "contemporary_media_010",
-      "title": "当代传媒 - 图片11",
-      "summary": "当代传媒相关图片",
-      "full_text": "自然是生活体验的结晶，它引领着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_010.png",
+      "title": "四百击",
+      "summary": "特吕弗以长镜头与跳剪拍摄的新浪潮电影",
+      "full_text": "特吕弗以长镜头与跳剪拍摄的新浪潮电影",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "contemporary_media_010_4",
         "contemporary_media_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_010_pixel.jpg"
     },
     {
       "id": "contemporary_media_011",
-      "title": "当代传媒 - 图片12",
-      "summary": "当代传媒相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它优美地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_011.png",
+      "title": "罗生门",
+      "summary": "黑泽明以多视角叙事的悬疑经典电影",
+      "full_text": "黑泽明以多视角叙事的悬疑经典电影",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "contemporary_media_011_4",
         "contemporary_media_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_011_pixel.jpg"
     },
     {
       "id": "contemporary_media_012",
-      "title": "当代传媒 - 图片13",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它精致地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_012.png",
+      "title": "七武士",
+      "summary": "黑泽明以动态构图与慢动作的武士电影经典",
+      "full_text": "黑泽明以动态构图与慢动作的武士电影经典",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "contemporary_media_012_4",
         "contemporary_media_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_012_pixel.jpg"
     },
     {
       "id": "contemporary_media_013",
-      "title": "当代传媒 - 图片14",
-      "summary": "当代传媒相关图片",
-      "full_text": "文化是思想升华的结晶，它诠释着人文的关怀，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_013.png",
+      "title": "希区柯克惊魂记",
+      "summary": "希区柯克以交叉剪辑浴室场景的悬疑惊悚片",
+      "full_text": "希区柯克以交叉剪辑浴室场景的悬疑惊悚片",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "contemporary_media_013_4",
         "contemporary_media_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_013_pixel.jpg"
     },
     {
       "id": "contemporary_media_014",
-      "title": "当代传媒 - 图片15",
-      "summary": "当代传媒相关图片",
-      "full_text": "自然是审美追求的结晶，它传递着生活的智慧，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_014.png",
+      "title": "2001太空漫游",
+      "summary": "库布里克以特效与古典乐的科幻电影里程碑",
+      "full_text": "库布里克以特效与古典乐的科幻电影里程碑",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "contemporary_media_014_4",
         "contemporary_media_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_014_pixel.jpg"
     },
     {
       "id": "contemporary_media_015",
-      "title": "当代传媒 - 图片16",
-      "summary": "当代传媒相关图片",
-      "full_text": "科学是文化传承的结晶，它记录着永恒的真理，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_015.png",
+      "title": "教父",
+      "summary": "科波拉以低调照明与长叙事的黑帮电影经典",
+      "full_text": "科波拉以低调照明与长叙事的黑帮电影经典",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "contemporary_media_015_4",
         "contemporary_media_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_015_pixel.jpg"
     },
     {
       "id": "contemporary_media_016",
-      "title": "当代传媒 - 图片17",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它清新地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_016.png",
+      "title": "大白鲨",
+      "summary": "斯皮尔伯格以悬念与机械鲨鱼的惊悚电影",
+      "full_text": "斯皮尔伯格以悬念与机械鲨鱼的惊悚电影",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "contemporary_media_016_4",
         "contemporary_media_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_016_pixel.jpg"
     },
     {
       "id": "contemporary_media_017",
-      "title": "当代传媒 - 图片18",
-      "summary": "当代传媒相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它精彩地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_017.png",
+      "title": "小城之春",
+      "summary": "费穆以长镜头与内心独白的诗意电影经典",
+      "full_text": "费穆以长镜头与内心独白的诗意电影经典",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "contemporary_media_017_4",
         "contemporary_media_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_017_pixel.jpg"
     },
     {
       "id": "contemporary_media_018",
-      "title": "当代传媒 - 图片19",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往精神家园的大门，充满了怀念与视觉享受。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_018.png",
+      "title": "花样年华",
+      "summary": "王家卫以慢镜头与旗袍美学的浪漫电影",
+      "full_text": "王家卫以慢镜头与旗袍美学的浪漫电影",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "contemporary_media_018_4",
         "contemporary_media_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_018_pixel.jpg"
     },
     {
       "id": "contemporary_media_019",
-      "title": "当代传媒 - 图片20",
-      "summary": "当代传媒相关图片",
-      "full_text": "科学不仅记录了生活哲理，更传递了智慧的光芒，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_019.png",
+      "title": "潜行者",
+      "summary": "塔可夫斯基以长镜头与诗意的艺术电影",
+      "full_text": "塔可夫斯基以长镜头与诗意的艺术电影",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "contemporary_media_019_4",
         "contemporary_media_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_019_pixel.jpg"
     },
     {
       "id": "contemporary_media_020",
-      "title": "当代传媒 - 图片21",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术是情感表达的结晶，它展现着深刻的思考，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_020.png",
+      "title": "早期机械电视实验",
+      "summary": "1920年代贝尔德以机械扫描的早期电视实验",
+      "full_text": "1920年代贝尔德以机械扫描的早期电视实验",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "contemporary_media_020_4",
         "contemporary_media_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_020_pixel.jpg"
     },
     {
       "id": "contemporary_media_021",
-      "title": "当代传媒 - 图片22",
-      "summary": "当代传媒相关图片",
-      "full_text": "文化不仅诠释了人类文明，更传递了文化的传承，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_021.png",
+      "title": "1936年柏林奥运电视转播",
+      "summary": "首次以电视直播的大型体育赛事",
+      "full_text": "首次以电视直播的大型体育赛事",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "contemporary_media_021_4",
         "contemporary_media_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_021_pixel.jpg"
     },
     {
       "id": "contemporary_media_022",
-      "title": "当代传媒 - 图片23",
-      "summary": "当代传媒相关图片",
-      "full_text": "在自然的领域里，科学发现展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_022.png",
+      "title": "电视新闻直播",
+      "summary": "电视新闻以现场直播报道突发事件的画面",
+      "full_text": "电视新闻以现场直播报道突发事件的画面",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "contemporary_media_022_4",
         "contemporary_media_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_022_pixel.jpg"
     },
     {
       "id": "contemporary_media_023",
-      "title": "当代传媒 - 图片24",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往梦想世界的大门，充满了怀念与艺术熏陶。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_023.png",
+      "title": "登月电视直播",
+      "summary": "1969年阿波罗11号登月的全球电视直播画面",
+      "full_text": "1969年阿波罗11号登月的全球电视直播画面",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "contemporary_media_023_4",
         "contemporary_media_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_023_pixel.jpg"
     },
     {
       "id": "contemporary_media_024",
-      "title": "当代传媒 - 图片25",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术不仅记录了生活哲理，更传递了智慧的光芒，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_024.png",
+      "title": "电视综艺节目",
+      "summary": "电视综艺节目以歌舞小品串联的娱乐节目",
+      "full_text": "电视综艺节目以歌舞小品串联的娱乐节目",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "contemporary_media_024_4",
         "contemporary_media_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_024_pixel.jpg"
     },
     {
       "id": "contemporary_media_025",
-      "title": "当代传媒 - 图片26",
-      "summary": "当代传媒相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它奇妙地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_025.png",
+      "title": "电视情景喜剧",
+      "summary": "电视情景喜剧以多机位拍摄的室内喜剧",
+      "full_text": "电视情景喜剧以多机位拍摄的室内喜剧",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "contemporary_media_025_4",
         "contemporary_media_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_025_pixel.jpg"
     },
     {
       "id": "contemporary_media_026",
-      "title": "当代传媒 - 图片27",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往梦想世界的大门，充满了感动与艺术熏陶。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_026.png",
+      "title": "电视纪录片",
+      "summary": "电视纪录片以纪实手法拍摄的自然与人文节目",
+      "full_text": "电视纪录片以纪实手法拍摄的自然与人文节目",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "contemporary_media_026_4",
         "contemporary_media_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_026_pixel.jpg"
     },
     {
       "id": "contemporary_media_027",
-      "title": "当代传媒 - 图片28",
-      "summary": "当代传媒相关图片",
-      "full_text": "科学是情感表达的结晶，它传递着艺术的追求，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_027.png",
+      "title": "有线电视与多频道",
+      "summary": "有线电视以多频道选择改变观众收视习惯",
+      "full_text": "有线电视以多频道选择改变观众收视习惯",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "contemporary_media_027_4",
         "contemporary_media_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_027_pixel.jpg"
     },
     {
       "id": "contemporary_media_028",
-      "title": "当代传媒 - 图片29",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术不仅展现了人类文明，更传递了真善美的追求，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_028.png",
+      "title": "卫星电视全球传播",
+      "summary": "卫星电视以同步轨道实现全球信号覆盖",
+      "full_text": "卫星电视以同步轨道实现全球信号覆盖",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "contemporary_media_028_4",
         "contemporary_media_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_028_pixel.jpg"
     },
     {
       "id": "contemporary_media_029",
-      "title": "当代传媒 - 图片30",
-      "summary": "当代传媒相关图片",
-      "full_text": "文化是思想升华的结晶，它展现着社会的进步，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_029.png",
+      "title": "电视广告",
+      "summary": "电视广告以短片形式推广商品的商业传播",
+      "full_text": "电视广告以短片形式推广商品的商业传播",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "contemporary_media_029_4",
         "contemporary_media_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_029_pixel.jpg"
     },
     {
       "id": "contemporary_media_030",
-      "title": "当代传媒 - 图片31",
-      "summary": "当代传媒相关图片",
-      "full_text": "在自然的领域里，人类智慧展现得淋漓尽致，每一个色彩都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_030.png",
+      "title": "电视动画",
+      "summary": "电视动画以逐帧绘制与有限动画的节目制作",
+      "full_text": "电视动画以逐帧绘制与有限动画的节目制作",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "contemporary_media_030_4",
         "contemporary_media_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_030_pixel.jpg"
     },
     {
       "id": "contemporary_media_031",
-      "title": "当代传媒 - 图片32",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往历史长河的大门，充满了好奇与视觉享受。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_031.png",
+      "title": "真人秀节目",
+      "summary": "真人秀以纪实与竞赛结合的电视娱乐节目",
+      "full_text": "真人秀以纪实与竞赛结合的电视娱乐节目",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "contemporary_media_031_4",
         "contemporary_media_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_031_pixel.jpg"
     },
     {
       "id": "contemporary_media_032",
-      "title": "当代传媒 - 图片33",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它质朴地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_032.png",
+      "title": "24小时新闻频道",
+      "summary": "24小时滚动播出的有线电视新闻频道",
+      "full_text": "24小时滚动播出的有线电视新闻频道",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "contemporary_media_032_4",
         "contemporary_media_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_032_pixel.jpg"
     },
     {
       "id": "contemporary_media_033",
-      "title": "当代传媒 - 图片34",
-      "summary": "当代传媒相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它和谐地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_033.png",
+      "title": "电视辩论",
+      "summary": "电视辩论以候选人面对面讨论的政治节目",
+      "full_text": "电视辩论以候选人面对面讨论的政治节目",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "contemporary_media_033_4",
         "contemporary_media_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_033_pixel.jpg"
     },
     {
       "id": "contemporary_media_034",
-      "title": "当代传媒 - 图片35",
-      "summary": "当代传媒相关图片",
-      "full_text": "自然不仅传承了自然之美，更传递了智慧的光芒，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_034.png",
+      "title": "电视晚会",
+      "summary": "春节联欢晚会以歌舞相声小品的大型电视晚会",
+      "full_text": "春节联欢晚会以歌舞相声小品的大型电视晚会",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "contemporary_media_034_4",
         "contemporary_media_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_034_pixel.jpg"
     },
     {
       "id": "contemporary_media_035",
-      "title": "当代传媒 - 图片36",
-      "summary": "当代传媒相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它神秘地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_035.png",
+      "title": "万维网诞生",
+      "summary": "1991年伯纳斯李创建的世界第一个网站",
+      "full_text": "1991年伯纳斯李创建的世界第一个网站",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "contemporary_media_035_4",
         "contemporary_media_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_035_pixel.jpg"
     },
     {
       "id": "contemporary_media_036",
-      "title": "当代传媒 - 图片37",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术是审美追求的结晶，它创造着艺术的追求，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_036.png",
+      "title": "门户网站",
+      "summary": "雅虎等门户网站以分类目录整合互联网信息",
+      "full_text": "雅虎等门户网站以分类目录整合互联网信息",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "contemporary_media_036_4",
         "contemporary_media_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_036_pixel.jpg"
     },
     {
       "id": "contemporary_media_037",
-      "title": "当代传媒 - 图片38",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美丽新世界的大门，充满了宁静与美好感受。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_037.png",
+      "title": "搜索引擎",
+      "summary": "谷歌以网页排名算法检索互联网信息的搜索引擎",
+      "full_text": "谷歌以网页排名算法检索互联网信息的搜索引擎",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "contemporary_media_037_4",
         "contemporary_media_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_037_pixel.jpg"
     },
     {
       "id": "contemporary_media_038",
-      "title": "当代传媒 - 图片39",
-      "summary": "当代传媒相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它庄重地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_038.png",
+      "title": "社交媒体Facebook",
+      "summary": "Facebook以个人主页与好友网络的社交平台",
+      "full_text": "Facebook以个人主页与好友网络的社交平台",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "contemporary_media_038_4",
         "contemporary_media_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_038_pixel.jpg"
     },
     {
       "id": "contemporary_media_039",
-      "title": "当代传媒 - 图片40",
-      "summary": "当代传媒相关图片",
-      "full_text": "科学是审美追求的结晶，它诠释着社会的进步，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_039.png",
+      "title": "微博社交媒体",
+      "summary": "微博以短文本与话题标签的社交媒体平台",
+      "full_text": "微博以短文本与话题标签的社交媒体平台",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "contemporary_media_039_4",
         "contemporary_media_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_039_pixel.jpg"
     },
     {
       "id": "contemporary_media_040",
-      "title": "当代传媒 - 图片41",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术不仅表达了时代精神，更传递了美的真谛，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_040.png",
+      "title": "视频分享YouTube",
+      "summary": "YouTube以用户上传视频的全球分享平台",
+      "full_text": "YouTube以用户上传视频的全球分享平台",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "contemporary_media_040_4",
         "contemporary_media_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_040_pixel.jpg"
     },
     {
       "id": "contemporary_media_041",
-      "title": "当代传媒 - 图片42",
-      "summary": "当代传媒相关图片",
-      "full_text": "文化不仅表达了情感世界，更传递了真善美的追求，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_041.png",
+      "title": "短视频平台",
+      "summary": "抖音以竖屏短视频与算法推荐的移动平台",
+      "full_text": "抖音以竖屏短视频与算法推荐的移动平台",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "contemporary_media_041_4",
         "contemporary_media_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_041_pixel.jpg"
     },
     {
       "id": "contemporary_media_042",
-      "title": "当代传媒 - 图片43",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往智慧天地的大门，充满了敬畏与精神升华。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_042.png",
+      "title": "即时通讯",
+      "summary": "微信以文字语音视频的即时通讯应用",
+      "full_text": "微信以文字语音视频的即时通讯应用",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "contemporary_media_042_4",
         "contemporary_media_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_042_pixel.jpg"
     },
     {
       "id": "contemporary_media_043",
-      "title": "当代传媒 - 图片44",
-      "summary": "当代传媒相关图片",
-      "full_text": "科学是思想升华的结晶，它记录着美好的愿景，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_043.png",
+      "title": "播客与音频媒体",
+      "summary": "播客以订阅模式分发音频节目的新媒体",
+      "full_text": "播客以订阅模式分发音频节目的新媒体",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "contemporary_media_043_4",
         "contemporary_media_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_043_pixel.jpg"
     },
     {
       "id": "contemporary_media_044",
-      "title": "当代传媒 - 图片45",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它神秘地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_044.png",
+      "title": "网络直播",
+      "summary": "以实时视频流与弹幕互动的网络直播",
+      "full_text": "以实时视频流与弹幕互动的网络直播",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "contemporary_media_044_4",
         "contemporary_media_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_044_pixel.jpg"
     },
     {
       "id": "contemporary_media_045",
-      "title": "当代传媒 - 图片46",
-      "summary": "当代传媒相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个情感都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_045.png",
+      "title": "网络游戏",
+      "summary": "以多人在线与虚拟世界的网络游戏",
+      "full_text": "以多人在线与虚拟世界的网络游戏",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "contemporary_media_045_4",
         "contemporary_media_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_045_pixel.jpg"
     },
     {
       "id": "contemporary_media_046",
-      "title": "当代传媒 - 图片47",
-      "summary": "当代传媒相关图片",
-      "full_text": "在自然的领域里，艺术创造展现得淋漓尽致，每一个瞬间都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_046.png",
+      "title": "流媒体视频",
+      "summary": "Netflix以点播模式分发影视内容的流媒体",
+      "full_text": "Netflix以点播模式分发影视内容的流媒体",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "contemporary_media_046_4",
         "contemporary_media_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_046_pixel.jpg"
     },
     {
       "id": "contemporary_media_047",
-      "title": "当代传媒 - 图片48",
-      "summary": "当代传媒相关图片",
-      "full_text": "在科学的领域里，文化传承展现得淋漓尽致，每一个色彩都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_047.png",
+      "title": "维基百科",
+      "summary": "维基百科以众包协作编辑的在线百科全书",
+      "full_text": "维基百科以众包协作编辑的在线百科全书",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "contemporary_media_047_4",
         "contemporary_media_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_047_pixel.jpg"
     },
     {
       "id": "contemporary_media_048",
-      "title": "当代传媒 - 图片49",
-      "summary": "当代传媒相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个色彩都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_048.png",
+      "title": "数字出版",
+      "summary": "以电子书与在线阅读的数字出版形态",
+      "full_text": "以电子书与在线阅读的数字出版形态",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "contemporary_media_048_4",
         "contemporary_media_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_048_pixel.jpg"
     },
     {
       "id": "contemporary_media_049",
-      "title": "当代传媒 - 图片50",
-      "summary": "当代传媒相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个线条都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_049.png",
+      "title": "人工智能生成内容",
+      "summary": "以AI模型自动生成文本图像的新媒体内容",
+      "full_text": "以AI模型自动生成文本图像的新媒体内容",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "contemporary_media_049_4",
         "contemporary_media_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_049_pixel.jpg"
     },
     {
       "id": "contemporary_media_050",
-      "title": "当代传媒 - 图片51",
-      "summary": "当代传媒相关图片",
-      "full_text": "自然不仅传承了艺术真谛，更传递了梦想的价值，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_050.png",
+      "title": "白南准电视佛",
+      "summary": "白南准以闭路电视让佛像观看自身的录像装置",
+      "full_text": "白南准以闭路电视让佛像观看自身的录像装置",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "contemporary_media_050_4",
         "contemporary_media_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_050_pixel.jpg"
     },
     {
       "id": "contemporary_media_051",
-      "title": "当代传媒 - 图片52",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往智慧天地的大门，充满了向往与文化浸润。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_051.png",
+      "title": "白南准电子超级高速公路",
+      "summary": "白南准以电视机拼组美国地图的媒体装置",
+      "full_text": "白南准以电视机拼组美国地图的媒体装置",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "contemporary_media_051_4",
         "contemporary_media_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_051_pixel.jpg"
     },
     {
       "id": "contemporary_media_052",
-      "title": "当代传媒 - 图片53",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往灵感源泉的大门，充满了沉醉与美好感受。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_052.png",
+      "title": "维奥拉影像装置",
+      "summary": "维奥拉以慢动作投影探索生死的影像艺术",
+      "full_text": "维奥拉以慢动作投影探索生死的影像艺术",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "contemporary_media_052_4",
         "contemporary_media_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_052_pixel.jpg"
     },
     {
       "id": "contemporary_media_053",
-      "title": "当代传媒 - 图片54",
-      "summary": "当代传媒相关图片",
-      "full_text": "文化不仅探索了自然之美，更传递了美的真谛，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_053.png",
+      "title": "teamLab沉浸式光影",
+      "summary": "teamLab以数字投影营造的沉浸式光影空间",
+      "full_text": "teamLab以数字投影营造的沉浸式光影空间",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "contemporary_media_053_4",
         "contemporary_media_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_053_pixel.jpg"
     },
     {
       "id": "contemporary_media_054",
-      "title": "当代传媒 - 图片55",
-      "summary": "当代传媒相关图片",
-      "full_text": "在自然的领域里，艺术创造展现得淋漓尽致，每一个色彩都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_054.png",
+      "title": "互动投影装置",
+      "summary": "以体感技术让观众动作影响画面的互动艺术",
+      "full_text": "以体感技术让观众动作影响画面的互动艺术",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "contemporary_media_054_4",
         "contemporary_media_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_054_pixel.jpg"
     },
     {
       "id": "contemporary_media_055",
-      "title": "当代传媒 - 图片56",
-      "summary": "当代传媒相关图片",
-      "full_text": "科学是历史积淀的结晶，它传递着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_055.png",
+      "title": "虚拟现实艺术",
+      "summary": "以VR头显进入虚拟三维空间的沉浸式艺术",
+      "full_text": "以VR头显进入虚拟三维空间的沉浸式艺术",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "contemporary_media_055_4",
         "contemporary_media_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_055_pixel.jpg"
     },
     {
       "id": "contemporary_media_056",
-      "title": "当代传媒 - 图片57",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术不仅展现了自然之美，更传递了梦想的价值，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_056.png",
+      "title": "增强现实艺术",
+      "summary": "以AR技术叠加虚拟艺术于现实空间的创作",
+      "full_text": "以AR技术叠加虚拟艺术于现实空间的创作",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "contemporary_media_056_4",
         "contemporary_media_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_056_pixel.jpg"
     },
     {
       "id": "contemporary_media_057",
-      "title": "当代传媒 - 图片58",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往智慧天地的大门，充满了激情与视觉享受。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_057.png",
+      "title": "生成艺术",
+      "summary": "以算法与代码自动生成的数字艺术作品",
+      "full_text": "以算法与代码自动生成的数字艺术作品",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "contemporary_media_057_4",
         "contemporary_media_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_057_pixel.jpg"
     },
     {
       "id": "contemporary_media_058",
-      "title": "当代传媒 - 图片59",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美好家园的大门，充满了惊叹与文化浸润。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_058.png",
+      "title": "NFT数字艺术",
+      "summary": "以区块链技术认证唯一性的数字艺术品",
+      "full_text": "以区块链技术认证唯一性的数字艺术品",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "contemporary_media_058_4",
         "contemporary_media_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_058_pixel.jpg"
     },
     {
       "id": "contemporary_media_059",
-      "title": "当代传媒 - 图片60",
-      "summary": "当代传媒相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往自然奇观的大门，充满了宁静与精神升华。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_059.png",
+      "title": "数据可视化艺术",
+      "summary": "以大数据转化为视觉图形的艺术创作",
+      "full_text": "以大数据转化为视觉图形的艺术创作",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "contemporary_media_059_4",
         "contemporary_media_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_059_pixel.jpg"
     },
     {
       "id": "contemporary_media_060",
-      "title": "当代传媒 - 图片61",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术不仅传承了人类文明，更传递了真善美的追求，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_060.png",
+      "title": "生物艺术",
+      "summary": "以生物体与基因工程为媒介的前沿艺术",
+      "full_text": "以生物体与基因工程为媒介的前沿艺术",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "contemporary_media_060_4",
         "contemporary_media_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_060_pixel.jpg"
     },
     {
       "id": "contemporary_media_061",
-      "title": "当代传媒 - 图片62",
-      "summary": "当代传媒相关图片",
-      "full_text": "文化不仅表达了美好瞬间，更传递了梦想的价值，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_061.png",
+      "title": "机器人艺术",
+      "summary": "以机器人为创作主体或媒介的艺术形式",
+      "full_text": "以机器人为创作主体或媒介的艺术形式",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "contemporary_media_061_4",
         "contemporary_media_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_061_pixel.jpg"
     },
     {
       "id": "contemporary_media_062",
-      "title": "当代传媒 - 图片63",
-      "summary": "当代传媒相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它独特地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_062.png",
+      "title": "声音艺术装置",
+      "summary": "以声音为媒介营造空间体验的艺术装置",
+      "full_text": "以声音为媒介营造空间体验的艺术装置",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "contemporary_media_062_4",
         "contemporary_media_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_062_pixel.jpg"
     },
     {
       "id": "contemporary_media_063",
-      "title": "当代传媒 - 图片64",
-      "summary": "当代传媒相关图片",
-      "full_text": "在科学的领域里，历史变迁展现得淋漓尽致，每一个历史印记都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_063.png",
+      "title": "光影建筑投影",
+      "summary": "以投影映射在建筑外立面的光影表演",
+      "full_text": "以投影映射在建筑外立面的光影表演",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "contemporary_media_063_4",
         "contemporary_media_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_063_pixel.jpg"
     },
     {
       "id": "contemporary_media_064",
-      "title": "当代传媒 - 图片65",
-      "summary": "当代传媒相关图片",
-      "full_text": "艺术不仅诠释了生命意义，更传递了人与自然的和谐，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_064.png",
+      "title": "网络艺术",
+      "summary": "以互联网为展示平台与创作媒介的数字艺术",
+      "full_text": "以互联网为展示平台与创作媒介的数字艺术",
+      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,7 +1363,8 @@
         "contemporary_media_064_4",
         "contemporary_media_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_064_pixel.jpg"
     }
   ]
 }

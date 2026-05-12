@@ -12,8 +12,12 @@ var bookshelf_list: Array = []
 var current_bookshelf_index: int = 0
 var current_bookshelf_id: String = ""
 var current_albums: Array = []
+var current_album_id: String = ""
 var _row_containers: Array = []
 const BOOKS_PER_ROW: int = 3
+
+var _swipe_start_pos: Vector2 = Vector2.ZERO
+var _swipe_min_distance: float = 50.0
 
 func _ready() -> void:
 	_collect_row_containers()
@@ -25,7 +29,11 @@ func _ready() -> void:
 				break
 		GameManager.pending_bookshelf_id = ""
 	_load_shelf()
-	AudioManager.play_bgm("main_menu")
+	if GameManager.pending_album_id != "":
+		AudioManager.play_bgm_for_album(GameManager.pending_album_id)
+		GameManager.pending_album_id = ""
+	else:
+		AudioManager.play_bgm("main_menu")
 
 func _collect_row_containers() -> void:
 	_row_containers.clear()
@@ -108,6 +116,31 @@ func _on_back_pressed() -> void:
 func _on_settings_pressed() -> void:
 	AudioManager.play_sfx("click")
 	settings_popup.show_settings()
+
+func _input(event: InputEvent) -> void:
+	if not DisplayServer.is_touchscreen_available():
+		return
+	if event is InputEventScreenTouch:
+		if event.pressed:
+			_swipe_start_pos = event.position
+		elif _swipe_start_pos != Vector2.ZERO:
+			var delta = event.position - _swipe_start_pos
+			if abs(delta.x) > _swipe_min_distance and abs(delta.x) > abs(delta.y):
+				if delta.x > 0:
+					_on_swipe_right()
+				else:
+					_on_swipe_left()
+			_swipe_start_pos = Vector2.ZERO
+
+func _on_swipe_left() -> void:
+	if bookshelf_list.size() > 0:
+		current_bookshelf_index = (current_bookshelf_index + 1) % bookshelf_list.size()
+		_load_shelf()
+
+func _on_swipe_right() -> void:
+	if bookshelf_list.size() > 0:
+		current_bookshelf_index = (current_bookshelf_index - 1 + bookshelf_list.size()) % bookshelf_list.size()
+		_load_shelf()
 
 func _show_toast(message: String) -> void:
 	var panel = PanelContainer.new()

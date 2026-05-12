@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "photography_000",
-      "title": "摄影艺术 - 图片1",
-      "summary": "摄影艺术相关图片",
-      "full_text": "光影艺术是人类文明的重要组成部分，它自然地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_000.png",
+      "title": "尼埃普斯窗外风景",
+      "summary": "1826年尼埃普斯拍摄的世界最早永久性照片",
+      "full_text": "1826年尼埃普斯拍摄的世界最早永久性照片",
+      "image": "res://assets/images/illustrations/photography/photography_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "photography_000_4",
         "photography_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_000_pixel.jpg"
     },
     {
       "id": "photography_001",
-      "title": "摄影艺术 - 图片2",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索瞬间永恒的世界，仿佛打开了一扇通往知识海洋的大门，充满了怀念与文化浸润。",
-      "image": "res://assets/images/illustrations/photography/photography_001.png",
+      "title": "达盖尔银版法静物",
+      "summary": "达盖尔银版法拍摄的静物照片，摄影术正式诞生",
+      "full_text": "达盖尔银版法拍摄的静物照片，摄影术正式诞生",
+      "image": "res://assets/images/illustrations/photography/photography_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "photography_001_4",
         "photography_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_001_pixel.jpg"
     },
     {
       "id": "photography_002",
-      "title": "摄影艺术 - 图片3",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在视觉盛宴的领域里，社会发展展现得淋漓尽致，每一个自然元素都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/photography/photography_002.png",
+      "title": "塔尔博特卡罗式法照片",
+      "summary": "塔尔博特发明的正负片法拍摄的植物标本照片",
+      "full_text": "塔尔博特发明的正负片法拍摄的植物标本照片",
+      "image": "res://assets/images/illustrations/photography/photography_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "photography_002_4",
         "photography_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_002_pixel.jpg"
     },
     {
       "id": "photography_003",
-      "title": "摄影艺术 - 图片4",
-      "summary": "摄影艺术相关图片",
-      "full_text": "镜头世界不仅探索了时代精神，更传递了创新的精神，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/photography/photography_003.png",
+      "title": "早期银版法人像",
+      "summary": "1840年代银版法拍摄的严肃庄重人物肖像",
+      "full_text": "1840年代银版法拍摄的严肃庄重人物肖像",
+      "image": "res://assets/images/illustrations/photography/photography_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "photography_003_4",
         "photography_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_003_pixel.jpg"
     },
     {
       "id": "photography_004",
-      "title": "摄影艺术 - 图片5",
-      "summary": "摄影艺术相关图片",
-      "full_text": "摄影魅力不仅弘扬了情感世界，更传递了真善美的追求，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/photography/photography_004.png",
+      "title": "希尔与亚当森人像",
+      "summary": "苏格兰画家与摄影师合作拍摄的卡罗式人像",
+      "full_text": "苏格兰画家与摄影师合作拍摄的卡罗式人像",
+      "image": "res://assets/images/illustrations/photography/photography_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "photography_004_4",
         "photography_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_004_pixel.jpg"
     },
     {
       "id": "photography_005",
-      "title": "摄影艺术 - 图片6",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在光影艺术的领域里，社会发展展现得淋漓尽致，每一个色彩都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/photography/photography_005.png",
+      "title": "南丁格尔银版肖像",
+      "summary": "弗洛伦斯南丁格尔的银版法珍贵肖像照",
+      "full_text": "弗洛伦斯南丁格尔的银版法珍贵肖像照",
+      "image": "res://assets/images/illustrations/photography/photography_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "photography_005_4",
         "photography_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_005_pixel.jpg"
     },
     {
       "id": "photography_006",
-      "title": "摄影艺术 - 图片7",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒是审美追求的结晶，它表达着创新的理念，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/photography/photography_006.png",
+      "title": "巴德边疆摄影",
+      "summary": "巴德拍摄美国西部边疆的壮阔风光照片",
+      "full_text": "巴德拍摄美国西部边疆的壮阔风光照片",
+      "image": "res://assets/images/illustrations/photography/photography_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "photography_006_4",
         "photography_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_006_pixel.jpg"
     },
     {
       "id": "photography_007",
-      "title": "摄影艺术 - 图片8",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在视觉盛宴的领域里，科学发现展现得淋漓尽致，每一个色彩都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/photography/photography_007.png",
+      "title": "奥沙利文金字塔湖",
+      "summary": "奥沙利文拍摄内华达金字塔湖的西部考察照片",
+      "full_text": "奥沙利文拍摄内华达金字塔湖的西部考察照片",
+      "image": "res://assets/images/illustrations/photography/photography_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "photography_007_4",
         "photography_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_007_pixel.jpg"
     },
     {
       "id": "photography_008",
-      "title": "摄影艺术 - 图片9",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索镜头世界的世界，仿佛打开了一扇通往创意空间的大门，充满了温馨与审美体验。",
-      "image": "res://assets/images/illustrations/photography/photography_008.png",
+      "title": "弗里斯埃及神庙",
+      "summary": "弗里斯拍摄埃及卡纳克神庙的早期旅行照片",
+      "full_text": "弗里斯拍摄埃及卡纳克神庙的早期旅行照片",
+      "image": "res://assets/images/illustrations/photography/photography_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "photography_008_4",
         "photography_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_008_pixel.jpg"
     },
     {
       "id": "photography_009",
-      "title": "摄影艺术 - 图片10",
-      "summary": "摄影艺术相关图片",
-      "full_text": "摄影魅力不仅传递了自然之美，更传递了梦想的价值，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/photography/photography_009.png",
+      "title": "阿杰巴黎街景",
+      "summary": "阿杰拍摄19世纪末巴黎街道的纪实照片",
+      "full_text": "阿杰拍摄19世纪末巴黎街道的纪实照片",
+      "image": "res://assets/images/illustrations/photography/photography_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "photography_009_4",
         "photography_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_009_pixel.jpg"
     },
     {
       "id": "photography_010",
-      "title": "摄影艺术 - 图片11",
-      "summary": "摄影艺术相关图片",
-      "full_text": "光影艺术不仅塑造了生活哲理，更传递了生命的意义，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/photography/photography_010.png",
+      "title": "卡梅隆夫人肖像",
+      "summary": "卡梅隆夫人以柔焦拍摄维多利亚时代名人肖像",
+      "full_text": "卡梅隆夫人以柔焦拍摄维多利亚时代名人肖像",
+      "image": "res://assets/images/illustrations/photography/photography_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "photography_010_4",
         "photography_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_010_pixel.jpg"
     },
     {
       "id": "photography_011",
-      "title": "摄影艺术 - 图片12",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒是人类文明的重要组成部分，它自然地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_011.png",
+      "title": "纳达尔地下墓穴",
+      "summary": "纳达尔使用镁光灯拍摄巴黎地下墓穴的早期照片",
+      "full_text": "纳达尔使用镁光灯拍摄巴黎地下墓穴的早期照片",
+      "image": "res://assets/images/illustrations/photography/photography_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "photography_011_4",
         "photography_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_011_pixel.jpg"
     },
     {
       "id": "photography_012",
-      "title": "摄影艺术 - 图片13",
-      "summary": "摄影艺术相关图片",
-      "full_text": "视觉盛宴是人类文明的重要组成部分，它精彩地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_012.png",
+      "title": "迈布里奇奔马连续摄影",
+      "summary": "迈布里奇以多台相机拍摄马匹奔跑的连续画面",
+      "full_text": "迈布里奇以多台相机拍摄马匹奔跑的连续画面",
+      "image": "res://assets/images/illustrations/photography/photography_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "photography_012_4",
         "photography_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_012_pixel.jpg"
     },
     {
       "id": "photography_013",
-      "title": "摄影艺术 - 图片14",
-      "summary": "摄影艺术相关图片",
-      "full_text": "镜头世界是人类文明的重要组成部分，它细腻地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_013.png",
+      "title": "柯达便携相机",
+      "summary": "柯达便携相机使摄影走入大众的广告照片",
+      "full_text": "柯达便携相机使摄影走入大众的广告照片",
+      "image": "res://assets/images/illustrations/photography/photography_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "photography_013_4",
         "photography_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_013_pixel.jpg"
     },
     {
       "id": "photography_014",
-      "title": "摄影艺术 - 图片15",
-      "summary": "摄影艺术相关图片",
-      "full_text": "摄影魅力不仅弘扬了时代精神，更传递了生命的意义，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/photography/photography_014.png",
+      "title": "早期彩色摄影实验",
+      "summary": "20世纪初用三色分离法拍摄的彩色实验照片",
+      "full_text": "20世纪初用三色分离法拍摄的彩色实验照片",
+      "image": "res://assets/images/illustrations/photography/photography_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "photography_014_4",
         "photography_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_014_pixel.jpg"
     },
     {
       "id": "photography_015",
-      "title": "摄影艺术 - 图片16",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在光影艺术的领域里，科技进步展现得淋漓尽致，每一个思想都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/photography/photography_015.png",
+      "title": "柯达克罗姆早期彩色",
+      "summary": "柯达克罗姆胶片拍摄的早期鲜艳彩色照片",
+      "full_text": "柯达克罗姆胶片拍摄的早期鲜艳彩色照片",
+      "image": "res://assets/images/illustrations/photography/photography_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "photography_015_4",
         "photography_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_015_pixel.jpg"
     },
     {
       "id": "photography_016",
-      "title": "摄影艺术 - 图片17",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索瞬间永恒的世界，仿佛打开了一扇通往创意空间的大门，充满了宁静与视觉享受。",
-      "image": "res://assets/images/illustrations/photography/photography_016.png",
+      "title": "早期立体照片",
+      "summary": "维多利亚时代双镜头立体相机拍摄的三维照片",
+      "full_text": "维多利亚时代双镜头立体相机拍摄的三维照片",
+      "image": "res://assets/images/illustrations/photography/photography_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "photography_016_4",
         "photography_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_016_pixel.jpg"
     },
     {
       "id": "photography_017",
-      "title": "摄影艺术 - 图片18",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在视觉盛宴的领域里，人文景观展现得淋漓尽致，每一个瞬间都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/photography/photography_017.png",
+      "title": "早期摄影工作室",
+      "summary": "19世纪摄影工作室中顾客拍照的场景照片",
+      "full_text": "19世纪摄影工作室中顾客拍照的场景照片",
+      "image": "res://assets/images/illustrations/photography/photography_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "photography_017_4",
         "photography_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_017_pixel.jpg"
     },
     {
       "id": "photography_018",
-      "title": "摄影艺术 - 图片19",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索镜头世界的世界，仿佛打开了一扇通往美丽新世界的大门，充满了敬畏与文化浸润。",
-      "image": "res://assets/images/illustrations/photography/photography_018.png",
+      "title": "早期明信片照片",
+      "summary": "19世纪末以照片制作的风景明信片",
+      "full_text": "19世纪末以照片制作的风景明信片",
+      "image": "res://assets/images/illustrations/photography/photography_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "photography_018_4",
         "photography_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_018_pixel.jpg"
     },
     {
       "id": "photography_019",
-      "title": "摄影艺术 - 图片20",
-      "summary": "摄影艺术相关图片",
-      "full_text": "摄影魅力是人类文明的重要组成部分，它典雅地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_019.png",
+      "title": "芬顿克里米亚战地摄影",
+      "summary": "芬顿拍摄克里米亚战争的早期战地照片",
+      "full_text": "芬顿拍摄克里米亚战争的早期战地照片",
+      "image": "res://assets/images/illustrations/photography/photography_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "photography_019_4",
         "photography_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_019_pixel.jpg"
     },
     {
       "id": "photography_020",
-      "title": "摄影艺术 - 图片21",
-      "summary": "摄影艺术相关图片",
-      "full_text": "光影艺术是人类文明的重要组成部分，它丰富地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_020.png",
+      "title": "里斯纽约贫民窟",
+      "summary": "里斯以闪光灯拍摄纽约贫民窟的纪实照片",
+      "full_text": "里斯以闪光灯拍摄纽约贫民窟的纪实照片",
+      "image": "res://assets/images/illustrations/photography/photography_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "photography_020_4",
         "photography_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_020_pixel.jpg"
     },
     {
       "id": "photography_021",
-      "title": "摄影艺术 - 图片22",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒不仅表达了生命意义，更传递了生命的意义，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/photography/photography_021.png",
+      "title": "海因童工照片",
+      "summary": "海因拍摄美国工厂中童工劳动的社会纪实照片",
+      "full_text": "海因拍摄美国工厂中童工劳动的社会纪实照片",
+      "image": "res://assets/images/illustrations/photography/photography_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "photography_021_4",
         "photography_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_021_pixel.jpg"
     },
     {
       "id": "photography_022",
-      "title": "摄影艺术 - 图片23",
-      "summary": "摄影艺术相关图片",
-      "full_text": "视觉盛宴是历史积淀的结晶，它引领着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/photography/photography_022.png",
+      "title": "兰格移民母亲",
+      "summary": "兰格拍摄大萧条时期加州移民母亲的经典照片",
+      "full_text": "兰格拍摄大萧条时期加州移民母亲的经典照片",
+      "image": "res://assets/images/illustrations/photography/photography_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "photography_022_4",
         "photography_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_022_pixel.jpg"
     },
     {
       "id": "photography_023",
-      "title": "摄影艺术 - 图片24",
-      "summary": "摄影艺术相关图片",
-      "full_text": "镜头世界不仅塑造了美好瞬间，更传递了梦想的价值，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/photography/photography_023.png",
+      "title": "埃文斯美国小镇",
+      "summary": "埃文斯拍摄美国南方小镇建筑与居民的纪实",
+      "full_text": "埃文斯拍摄美国南方小镇建筑与居民的纪实",
+      "image": "res://assets/images/illustrations/photography/photography_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "photography_023_4",
         "photography_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_023_pixel.jpg"
     },
     {
       "id": "photography_024",
-      "title": "摄影艺术 - 图片25",
-      "summary": "摄影艺术相关图片",
-      "full_text": "摄影魅力不仅诠释了艺术真谛，更传递了美的真谛，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/photography/photography_024.png",
+      "title": "布列松圣拉扎尔车站",
+      "summary": "布列松拍摄男子跳越水洼的决定性瞬间",
+      "full_text": "布列松拍摄男子跳越水洼的决定性瞬间",
+      "image": "res://assets/images/illustrations/photography/photography_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "photography_024_4",
         "photography_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_024_pixel.jpg"
     },
     {
       "id": "photography_025",
-      "title": "摄影艺术 - 图片26",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在光影艺术的领域里，社会发展展现得淋漓尽致，每一个色彩都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/photography/photography_025.png",
+      "title": "卡帕诺曼底登陆",
+      "summary": "卡帕拍摄诺曼底登陆海滩的模糊震撼战地照片",
+      "full_text": "卡帕拍摄诺曼底登陆海滩的模糊震撼战地照片",
+      "image": "res://assets/images/illustrations/photography/photography_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "photography_025_4",
         "photography_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_025_pixel.jpg"
     },
     {
       "id": "photography_026",
-      "title": "摄影艺术 - 图片27",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒是人类文明的重要组成部分，它生动地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_026.png",
+      "title": "卡帕倒下的士兵",
+      "summary": "卡帕拍摄西班牙内战士兵中弹倒下的瞬间",
+      "full_text": "卡帕拍摄西班牙内战士兵中弹倒下的瞬间",
+      "image": "res://assets/images/illustrations/photography/photography_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "photography_026_4",
         "photography_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_026_pixel.jpg"
     },
     {
       "id": "photography_027",
-      "title": "摄影艺术 - 图片28",
-      "summary": "摄影艺术相关图片",
-      "full_text": "视觉盛宴是自然造化的结晶，它诠释着艺术的追求，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/photography/photography_027.png",
+      "title": "史密斯乡村医生",
+      "summary": "史密斯拍摄美国乡村医生日常生活的纪实故事",
+      "full_text": "史密斯拍摄美国乡村医生日常生活的纪实故事",
+      "image": "res://assets/images/illustrations/photography/photography_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "photography_027_4",
         "photography_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_027_pixel.jpg"
     },
     {
       "id": "photography_028",
-      "title": "摄影艺术 - 图片29",
-      "summary": "摄影艺术相关图片",
-      "full_text": "镜头世界不仅塑造了生活哲理，更传递了文化的传承，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/photography/photography_028.png",
+      "title": "史密斯水俣病",
+      "summary": "史密斯拍摄日本水俣病患者的震撼纪实照片",
+      "full_text": "史密斯拍摄日本水俣病患者的震撼纪实照片",
+      "image": "res://assets/images/illustrations/photography/photography_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "photography_028_4",
         "photography_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_028_pixel.jpg"
     },
     {
       "id": "photography_029",
-      "title": "摄影艺术 - 图片30",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在摄影魅力的领域里，社会发展展现得淋漓尽致，每一个线条都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/photography/photography_029.png",
+      "title": "弗兰克美国人",
+      "summary": "弗兰克拍摄美国社会各层面的反传统纪实照片",
+      "full_text": "弗兰克拍摄美国社会各层面的反传统纪实照片",
+      "image": "res://assets/images/illustrations/photography/photography_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "photography_029_4",
         "photography_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_029_pixel.jpg"
     },
     {
       "id": "photography_030",
-      "title": "摄影艺术 - 图片31",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在光影艺术的领域里，艺术创造展现得淋漓尽致，每一个思想都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/photography/photography_030.png",
+      "title": "阿勃丝双胞胎",
+      "summary": "阿勃丝拍摄新泽西双胞胎女孩的诡异肖像",
+      "full_text": "阿勃丝拍摄新泽西双胞胎女孩的诡异肖像",
+      "image": "res://assets/images/illustrations/photography/photography_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "photography_030_4",
         "photography_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_030_pixel.jpg"
     },
     {
       "id": "photography_031",
-      "title": "摄影艺术 - 图片32",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒是文化传承的结晶，它诠释着人类的梦想，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/photography/photography_031.png",
+      "title": "阿勃丝边缘人群",
+      "summary": "阿勃丝拍摄社会边缘人物的直视肖像照片",
+      "full_text": "阿勃丝拍摄社会边缘人物的直视肖像照片",
+      "image": "res://assets/images/illustrations/photography/photography_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "photography_031_4",
         "photography_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_031_pixel.jpg"
     },
     {
       "id": "photography_032",
-      "title": "摄影艺术 - 图片33",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索视觉盛宴的世界，仿佛打开了一扇通往文化宝库的大门，充满了敬畏与艺术熏陶。",
-      "image": "res://assets/images/illustrations/photography/photography_032.png",
+      "title": "维加纽约夜生活",
+      "summary": "维加拍摄纽约夜间犯罪现场的闪光灯照片",
+      "full_text": "维加拍摄纽约夜间犯罪现场的闪光灯照片",
+      "image": "res://assets/images/illustrations/photography/photography_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "photography_032_4",
         "photography_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_032_pixel.jpg"
     },
     {
       "id": "photography_033",
-      "title": "摄影艺术 - 图片34",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在镜头世界的领域里，自然奇观展现得淋漓尽致，每一个自然元素都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/photography/photography_033.png",
+      "title": "萨尔加多劳动者",
+      "summary": "萨尔加多拍摄巴西金矿工人艰苦劳动的史诗照片",
+      "full_text": "萨尔加多拍摄巴西金矿工人艰苦劳动的史诗照片",
+      "image": "res://assets/images/illustrations/photography/photography_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "photography_033_4",
         "photography_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_033_pixel.jpg"
     },
     {
       "id": "photography_034",
-      "title": "摄影艺术 - 图片35",
-      "summary": "摄影艺术相关图片",
-      "full_text": "摄影魅力是人类文明的重要组成部分，它深刻地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_034.png",
+      "title": "萨尔加多创世纪",
+      "summary": "萨尔加多拍摄地球原始自然与部落的宏大纪实",
+      "full_text": "萨尔加多拍摄地球原始自然与部落的宏大纪实",
+      "image": "res://assets/images/illustrations/photography/photography_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "photography_034_4",
         "photography_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_034_pixel.jpg"
     },
     {
       "id": "photography_035",
-      "title": "摄影艺术 - 图片36",
-      "summary": "摄影艺术相关图片",
-      "full_text": "光影艺术不仅揭示了生活哲理，更传递了智慧的光芒，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/photography/photography_035.png",
+      "title": "麦凯里阿富汗少女",
+      "summary": "麦凯里拍摄巴基斯坦难民营绿眼少女的经典肖像",
+      "full_text": "麦凯里拍摄巴基斯坦难民营绿眼少女的经典肖像",
+      "image": "res://assets/images/illustrations/photography/photography_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "photography_035_4",
         "photography_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_035_pixel.jpg"
     },
     {
       "id": "photography_036",
-      "title": "摄影艺术 - 图片37",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒不仅展现了情感世界，更传递了智慧的光芒，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/photography/photography_036.png",
+      "title": "纳切威战地摄影",
+      "summary": "纳切威拍摄世界各地冲突的战地纪实照片",
+      "full_text": "纳切威拍摄世界各地冲突的战地纪实照片",
+      "image": "res://assets/images/illustrations/photography/photography_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "photography_036_4",
         "photography_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_036_pixel.jpg"
     },
     {
       "id": "photography_037",
-      "title": "摄影艺术 - 图片38",
-      "summary": "摄影艺术相关图片",
-      "full_text": "视觉盛宴不仅创造了生活哲理，更传递了梦想的价值，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/photography/photography_037.png",
+      "title": "马克印度马戏团",
+      "summary": "马克拍摄印度马戏团表演者的纪实肖像",
+      "full_text": "马克拍摄印度马戏团表演者的纪实肖像",
+      "image": "res://assets/images/illustrations/photography/photography_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "photography_037_4",
         "photography_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_037_pixel.jpg"
     },
     {
       "id": "photography_038",
-      "title": "摄影艺术 - 图片39",
-      "summary": "摄影艺术相关图片",
-      "full_text": "镜头世界是人类文明的重要组成部分，它壮观地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_038.png",
+      "title": "戈尔丁亲密日记",
+      "summary": "戈尔丁拍摄朋友圈私密生活的纪实摄影",
+      "full_text": "戈尔丁拍摄朋友圈私密生活的纪实摄影",
+      "image": "res://assets/images/illustrations/photography/photography_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "photography_038_4",
         "photography_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_038_pixel.jpg"
     },
     {
       "id": "photography_039",
-      "title": "摄影艺术 - 图片40",
-      "summary": "摄影艺术相关图片",
-      "full_text": "摄影魅力不仅描绘了自然之美，更传递了美的真谛，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/photography/photography_039.png",
+      "title": "阿巴斯纽约地铁",
+      "summary": "阿巴斯以闪光灯拍摄纽约地铁乘客的肖像",
+      "full_text": "阿巴斯以闪光灯拍摄纽约地铁乘客的肖像",
+      "image": "res://assets/images/illustrations/photography/photography_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "photography_039_4",
         "photography_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_039_pixel.jpg"
     },
     {
       "id": "photography_040",
-      "title": "摄影艺术 - 图片41",
-      "summary": "摄影艺术相关图片",
-      "full_text": "光影艺术是历史积淀的结晶，它引领着深刻的思考，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/photography/photography_040.png",
+      "title": "亚当斯月升",
+      "summary": "亚当斯以区域曝光法拍摄新墨西哥月升的壮丽风光",
+      "full_text": "亚当斯以区域曝光法拍摄新墨西哥月升的壮丽风光",
+      "image": "res://assets/images/illustrations/photography/photography_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "photography_040_4",
         "photography_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_040_pixel.jpg"
     },
     {
       "id": "photography_041",
-      "title": "摄影艺术 - 图片42",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒是历史积淀的结晶，它启迪着人类的梦想，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/photography/photography_041.png",
+      "title": "亚当斯半穹顶",
+      "summary": "亚当斯拍摄约塞米蒂半穹顶的黑白风光杰作",
+      "full_text": "亚当斯拍摄约塞米蒂半穹顶的黑白风光杰作",
+      "image": "res://assets/images/illustrations/photography/photography_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "photography_041_4",
         "photography_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_041_pixel.jpg"
     },
     {
       "id": "photography_042",
-      "title": "摄影艺术 - 图片43",
-      "summary": "摄影艺术相关图片",
-      "full_text": "视觉盛宴是人类文明的重要组成部分，它优雅地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_042.png",
+      "title": "韦斯顿青椒30号",
+      "summary": "韦斯顿以大画幅拍摄青椒的有机形态之美",
+      "full_text": "韦斯顿以大画幅拍摄青椒的有机形态之美",
+      "image": "res://assets/images/illustrations/photography/photography_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "photography_042_4",
         "photography_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_042_pixel.jpg"
     },
     {
       "id": "photography_043",
-      "title": "摄影艺术 - 图片44",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索镜头世界的世界，仿佛打开了一扇通往创意空间的大门，充满了温馨与文化浸润。",
-      "image": "res://assets/images/illustrations/photography/photography_043.png",
+      "title": "韦斯顿裸体",
+      "summary": "韦斯顿以光影塑造人体曲线的艺术摄影",
+      "full_text": "韦斯顿以光影塑造人体曲线的艺术摄影",
+      "image": "res://assets/images/illustrations/photography/photography_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "photography_043_4",
         "photography_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_043_pixel.jpg"
     },
     {
       "id": "photography_044",
-      "title": "摄影艺术 - 图片45",
-      "summary": "摄影艺术相关图片",
-      "full_text": "摄影魅力是思想升华的结晶，它承载着深刻的思考，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/photography/photography_044.png",
+      "title": "坎宁安木兰花",
+      "summary": "坎宁安以微距拍摄木兰花的植物形态摄影",
+      "full_text": "坎宁安以微距拍摄木兰花的植物形态摄影",
+      "image": "res://assets/images/illustrations/photography/photography_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "photography_044_4",
         "photography_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_044_pixel.jpg"
     },
     {
       "id": "photography_045",
-      "title": "摄影艺术 - 图片46",
-      "summary": "摄影艺术相关图片",
-      "full_text": "光影艺术是自然造化的结晶，它表达着永恒的真理，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/photography/photography_045.png",
+      "title": "斯蒂格里茨等价物",
+      "summary": "斯蒂格里茨拍摄云朵形态的情感隐喻照片",
+      "full_text": "斯蒂格里茨拍摄云朵形态的情感隐喻照片",
+      "image": "res://assets/images/illustrations/photography/photography_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "photography_045_4",
         "photography_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_045_pixel.jpg"
     },
     {
       "id": "photography_046",
-      "title": "摄影艺术 - 图片47",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒是人类智慧的结晶，它承载着科学的精神，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/photography/photography_046.png",
+      "title": "斯泰肯池塘月光",
+      "summary": "斯泰肯以画意手法拍摄月光下池塘的早期艺术摄影",
+      "full_text": "斯泰肯以画意手法拍摄月光下池塘的早期艺术摄影",
+      "image": "res://assets/images/illustrations/photography/photography_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "photography_046_4",
         "photography_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_046_pixel.jpg"
     },
     {
       "id": "photography_047",
-      "title": "摄影艺术 - 图片48",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索视觉盛宴的世界，仿佛打开了一扇通往灵感源泉的大门，充满了沉思与审美体验。",
-      "image": "res://assets/images/illustrations/photography/photography_047.png",
+      "title": "曼雷射线照片",
+      "summary": "曼雷以物影摄影法创作的不用相机的抽象照片",
+      "full_text": "曼雷以物影摄影法创作的不用相机的抽象照片",
+      "image": "res://assets/images/illustrations/photography/photography_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "photography_047_4",
         "photography_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_047_pixel.jpg"
     },
     {
       "id": "photography_048",
-      "title": "摄影艺术 - 图片49",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索镜头世界的世界，仿佛打开了一扇通往创意空间的大门，充满了怀念与美好感受。",
-      "image": "res://assets/images/illustrations/photography/photography_048.png",
+      "title": "曼雷泪珠",
+      "summary": "曼雷以玻璃泪珠装饰模特面部的超现实人像",
+      "full_text": "曼雷以玻璃泪珠装饰模特面部的超现实人像",
+      "image": "res://assets/images/illustrations/photography/photography_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "photography_048_4",
         "photography_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_048_pixel.jpg"
     },
     {
       "id": "photography_049",
-      "title": "摄影艺术 - 图片50",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在摄影魅力的领域里，人文景观展现得淋漓尽致，每一个思想都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/photography/photography_049.png",
+      "title": "尤斯曼合成影像",
+      "summary": "尤斯曼以暗房多重曝光合成的超现实风景",
+      "full_text": "尤斯曼以暗房多重曝光合成的超现实风景",
+      "image": "res://assets/images/illustrations/photography/photography_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "photography_049_4",
         "photography_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_049_pixel.jpg"
     },
     {
       "id": "photography_050",
-      "title": "摄影艺术 - 图片51",
-      "summary": "摄影艺术相关图片",
-      "full_text": "光影艺术是人类智慧的结晶，它承载着创新的理念，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/photography/photography_050.png",
+      "title": "伯丁斯基制造",
+      "summary": "伯丁斯基拍摄大规模工业生产的壮观航拍照片",
+      "full_text": "伯丁斯基拍摄大规模工业生产的壮观航拍照片",
+      "image": "res://assets/images/illustrations/photography/photography_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "photography_050_4",
         "photography_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_050_pixel.jpg"
     },
     {
       "id": "photography_051",
-      "title": "摄影艺术 - 图片52",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒是人类文明的重要组成部分，它优美地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_051.png",
+      "title": "杉本博司海景",
+      "summary": "杉本博司以超长曝光拍摄海天一线的极简照片",
+      "full_text": "杉本博司以超长曝光拍摄海天一线的极简照片",
+      "image": "res://assets/images/illustrations/photography/photography_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "photography_051_4",
         "photography_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_051_pixel.jpg"
     },
     {
       "id": "photography_052",
-      "title": "摄影艺术 - 图片53",
-      "summary": "摄影艺术相关图片",
-      "full_text": "视觉盛宴是人类文明的重要组成部分，它深刻地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_052.png",
+      "title": "杉本博司剧院",
+      "summary": "杉本博司以整场电影曝光拍摄全白银幕的照片",
+      "full_text": "杉本博司以整场电影曝光拍摄全白银幕的照片",
+      "image": "res://assets/images/illustrations/photography/photography_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "photography_052_4",
         "photography_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_052_pixel.jpg"
     },
     {
       "id": "photography_053",
-      "title": "摄影艺术 - 图片54",
-      "summary": "摄影艺术相关图片",
-      "full_text": "镜头世界不仅诠释了文化内涵，更传递了智慧的光芒，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/photography/photography_053.png",
+      "title": "霍克尼拼贴照片",
+      "summary": "霍克尼以多张宝丽来拼贴的立体主义摄影",
+      "full_text": "霍克尼以多张宝丽来拼贴的立体主义摄影",
+      "image": "res://assets/images/illustrations/photography/photography_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "photography_053_4",
         "photography_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_053_pixel.jpg"
     },
     {
       "id": "photography_054",
-      "title": "摄影艺术 - 图片55",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索摄影魅力的世界，仿佛打开了一扇通往美好家园的大门，充满了怀念与文化浸润。",
-      "image": "res://assets/images/illustrations/photography/photography_054.png",
+      "title": "辛迪舍曼无题电影剧照",
+      "summary": "辛迪舍曼扮演电影角色的自拍摄影系列",
+      "full_text": "辛迪舍曼扮演电影角色的自拍摄影系列",
+      "image": "res://assets/images/illustrations/photography/photography_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "photography_054_4",
         "photography_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_054_pixel.jpg"
     },
     {
       "id": "photography_055",
-      "title": "摄影艺术 - 图片56",
-      "summary": "摄影艺术相关图片",
-      "full_text": "光影艺术不仅诠释了生活哲理，更传递了创新的精神，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/photography/photography_055.png",
+      "title": "古尔斯基莱茵河",
+      "summary": "古尔斯基以大画幅拍摄莱茵河的极简巨幅照片",
+      "full_text": "古尔斯基以大画幅拍摄莱茵河的极简巨幅照片",
+      "image": "res://assets/images/illustrations/photography/photography_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "photography_055_4",
         "photography_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_055_pixel.jpg"
     },
     {
       "id": "photography_056",
-      "title": "摄影艺术 - 图片57",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒是自然造化的结晶，它激励着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/photography/photography_056.png",
+      "title": "古尔斯基99美分",
+      "summary": "古尔斯基拍摄超市货架密集商品的震撼全景",
+      "full_text": "古尔斯基拍摄超市货架密集商品的震撼全景",
+      "image": "res://assets/images/illustrations/photography/photography_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "photography_056_4",
         "photography_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_056_pixel.jpg"
     },
     {
       "id": "photography_057",
-      "title": "摄影艺术 - 图片58",
-      "summary": "摄影艺术相关图片",
-      "full_text": "视觉盛宴是人类文明的重要组成部分，它生动地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_057.png",
+      "title": "斯特鲁斯博物馆照片",
+      "summary": "斯特鲁斯拍摄博物馆中观众观赏画作的场面",
+      "full_text": "斯特鲁斯拍摄博物馆中观众观赏画作的场面",
+      "image": "res://assets/images/illustrations/photography/photography_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "photography_057_4",
         "photography_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_057_pixel.jpg"
     },
     {
       "id": "photography_058",
-      "title": "摄影艺术 - 图片59",
-      "summary": "摄影艺术相关图片",
-      "full_text": "镜头世界是人类文明的重要组成部分，它和谐地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/photography/photography_058.png",
+      "title": "索斯密西西比",
+      "summary": "索斯沿密西西比河拍摄美国边缘人物的肖像",
+      "full_text": "索斯沿密西西比河拍摄美国边缘人物的肖像",
+      "image": "res://assets/images/illustrations/photography/photography_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "photography_058_4",
         "photography_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_058_pixel.jpg"
     },
     {
       "id": "photography_059",
-      "title": "摄影艺术 - 图片60",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在摄影魅力的领域里，历史变迁展现得淋漓尽致，每一个情感都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/photography/photography_059.png",
+      "title": "劳森自由风格",
+      "summary": "劳森以彩色宝丽来拍摄非裔美国人的亲密肖像",
+      "full_text": "劳森以彩色宝丽来拍摄非裔美国人的亲密肖像",
+      "image": "res://assets/images/illustrations/photography/photography_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "photography_059_4",
         "photography_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_059_pixel.jpg"
     },
     {
       "id": "photography_060",
-      "title": "摄影艺术 - 图片61",
-      "summary": "摄影艺术相关图片",
-      "full_text": "光影艺术不仅塑造了艺术真谛，更传递了真善美的追求，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/photography/photography_060.png",
+      "title": "滨田英明家庭摄影",
+      "summary": "滨田英明以清新色调拍摄两个儿子的日常瞬间",
+      "full_text": "滨田英明以清新色调拍摄两个儿子的日常瞬间",
+      "image": "res://assets/images/illustrations/photography/photography_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "photography_060_4",
         "photography_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_060_pixel.jpg"
     },
     {
       "id": "photography_061",
-      "title": "摄影艺术 - 图片62",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒不仅表达了情感世界，更传递了真善美的追求，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/photography/photography_061.png",
+      "title": "川内伦子日常微光",
+      "summary": "川内伦子以柔和色调拍摄日常细微之物的诗意照片",
+      "full_text": "川内伦子以柔和色调拍摄日常细微之物的诗意照片",
+      "image": "res://assets/images/illustrations/photography/photography_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "photography_061_4",
         "photography_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_061_pixel.jpg"
     },
     {
       "id": "photography_062",
-      "title": "摄影艺术 - 图片63",
-      "summary": "摄影艺术相关图片",
-      "full_text": "视觉盛宴是历史积淀的结晶，它表达着科学的精神，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/photography/photography_062.png",
+      "title": "手机摄影街头",
+      "summary": "以智能手机拍摄的都市街头光影瞬间",
+      "full_text": "以智能手机拍摄的都市街头光影瞬间",
+      "image": "res://assets/images/illustrations/photography/photography_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "photography_062_4",
         "photography_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_062_pixel.jpg"
     },
     {
       "id": "photography_063",
-      "title": "摄影艺术 - 图片64",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索镜头世界的世界，仿佛打开了一扇通往灵感源泉的大门，充满了惊叹与思想启迪。",
-      "image": "res://assets/images/illustrations/photography/photography_063.png",
+      "title": "无人机航拍风景",
+      "summary": "无人机高空俯拍的自然与城市几何图案",
+      "full_text": "无人机高空俯拍的自然与城市几何图案",
+      "image": "res://assets/images/illustrations/photography/photography_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "photography_063_4",
         "photography_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_063_pixel.jpg"
     },
     {
       "id": "photography_064",
-      "title": "摄影艺术 - 图片65",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在摄影魅力的领域里，文化传承展现得淋漓尽致，每一个情感都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/photography/photography_064.png",
+      "title": "社交媒体自拍文化",
+      "summary": "社交媒体时代精心构图的自拍肖像现象",
+      "full_text": "社交媒体时代精心构图的自拍肖像现象",
+      "image": "res://assets/images/illustrations/photography/photography_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "photography_064_4",
         "photography_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_064_pixel.jpg"
     },
     {
       "id": "photography_065",
-      "title": "摄影艺术 - 图片66",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在光影艺术的领域里，人类智慧展现得淋漓尽致，每一个线条都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/photography/photography_065.png",
+      "title": "数码后期合成",
+      "summary": "以数码技术合成超现实场景的当代摄影",
+      "full_text": "以数码技术合成超现实场景的当代摄影",
+      "image": "res://assets/images/illustrations/photography/photography_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "photography_065_4",
         "photography_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_065_pixel.jpg"
     },
     {
       "id": "photography_066",
-      "title": "摄影艺术 - 图片67",
-      "summary": "摄影艺术相关图片",
-      "full_text": "瞬间永恒是自然造化的结晶，它启迪着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/photography/photography_066.png",
+      "title": "纪实摄影难民危机",
+      "summary": "当代摄影师拍摄地中海难民危机的纪实照片",
+      "full_text": "当代摄影师拍摄地中海难民危机的纪实照片",
+      "image": "res://assets/images/illustrations/photography/photography_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "photography_066_4",
         "photography_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_066_pixel.jpg"
     },
     {
       "id": "photography_067",
-      "title": "摄影艺术 - 图片68",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索视觉盛宴的世界，仿佛打开了一扇通往创意空间的大门，充满了温馨与知识启迪。",
-      "image": "res://assets/images/illustrations/photography/photography_067.png",
+      "title": "长曝光城市夜景",
+      "summary": "以长曝光拍摄城市车流光轨的夜景照片",
+      "full_text": "以长曝光拍摄城市车流光轨的夜景照片",
+      "image": "res://assets/images/illustrations/photography/photography_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "photography_067_4",
         "photography_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_067_pixel.jpg"
     },
     {
       "id": "photography_068",
-      "title": "摄影艺术 - 图片69",
-      "summary": "摄影艺术相关图片",
-      "full_text": "探索镜头世界的世界，仿佛打开了一扇通往美好家园的大门，充满了敬畏与视觉享受。",
-      "image": "res://assets/images/illustrations/photography/photography_068.png",
+      "title": "微距摄影昆虫",
+      "summary": "以微距镜头拍摄昆虫细节的当代自然摄影",
+      "full_text": "以微距镜头拍摄昆虫细节的当代自然摄影",
+      "image": "res://assets/images/illustrations/photography/photography_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "photography_068_4",
         "photography_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_068_pixel.jpg"
     },
     {
       "id": "photography_069",
-      "title": "摄影艺术 - 图片70",
-      "summary": "摄影艺术相关图片",
-      "full_text": "在摄影魅力的领域里，社会发展展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/photography/photography_069.png",
+      "title": "3D扫描摄影",
+      "summary": "以3D扫描技术记录物体与空间的新媒介摄影",
+      "full_text": "以3D扫描技术记录物体与空间的新媒介摄影",
+      "image": "res://assets/images/illustrations/photography/photography_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "photography_069_4",
         "photography_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/photography/photography_069_pixel.jpg"
     }
   ]
 }

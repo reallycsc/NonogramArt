@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "geology_000",
-      "title": "地质地貌 - 图片1",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘不仅揭示了历史记忆，更传递了情感的力量，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/geology/geology_000.png",
+      "title": "花岗岩",
+      "summary": "花岗岩由石英长石和云母组成质地坚硬纹理斑驳",
+      "full_text": "花岗岩由石英长石和云母组成质地坚硬纹理斑驳",
+      "image": "res://assets/images/illustrations/geology/geology_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "geology_000_4",
         "geology_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_000_pixel.jpg"
     },
     {
       "id": "geology_001",
-      "title": "地质地貌 - 图片2",
-      "summary": "地质地貌相关图片",
-      "full_text": "岩石世界是人类文明的重要组成部分，它灵动地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_001.png",
+      "title": "大理石",
+      "summary": "大理石由石灰岩变质形成纹理优雅用于建筑雕塑",
+      "full_text": "大理石由石灰岩变质形成纹理优雅用于建筑雕塑",
+      "image": "res://assets/images/illustrations/geology/geology_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "geology_001_4",
         "geology_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_001_pixel.jpg"
     },
     {
       "id": "geology_002",
-      "title": "地质地貌 - 图片3",
-      "summary": "地质地貌相关图片",
-      "full_text": "地质奇观不仅弘扬了生命意义，更传递了人与自然的和谐，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/geology/geology_002.png",
+      "title": "玄武岩",
+      "summary": "玄武岩柱状节理形成规则六角形石柱如巨人堤道",
+      "full_text": "玄武岩柱状节理形成规则六角形石柱如巨人堤道",
+      "image": "res://assets/images/illustrations/geology/geology_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "geology_002_4",
         "geology_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_002_pixel.jpg"
     },
     {
       "id": "geology_003",
-      "title": "地质地貌 - 图片4",
-      "summary": "地质地貌相关图片",
-      "full_text": "自然演变不仅塑造了艺术真谛，更传递了美的真谛，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/geology/geology_003.png",
+      "title": "砂岩",
+      "summary": "砂岩层层堆积记录着远古沉积环境的历史",
+      "full_text": "砂岩层层堆积记录着远古沉积环境的历史",
+      "image": "res://assets/images/illustrations/geology/geology_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "geology_003_4",
         "geology_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_003_pixel.jpg"
     },
     {
       "id": "geology_004",
-      "title": "地质地貌 - 图片5",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史不仅传承了艺术真谛，更传递了创新的精神，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/geology/geology_004.png",
+      "title": "石灰岩",
+      "summary": "石灰岩易被溶蚀形成喀斯特地貌溶洞钟乳石",
+      "full_text": "石灰岩易被溶蚀形成喀斯特地貌溶洞钟乳石",
+      "image": "res://assets/images/illustrations/geology/geology_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "geology_004_4",
         "geology_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_004_pixel.jpg"
     },
     {
       "id": "geology_005",
-      "title": "地质地貌 - 图片6",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘是时代精神的结晶，它传递着深刻的思考，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/geology/geology_005.png",
+      "title": "页岩",
+      "summary": "页岩薄层状结构保存了大量古生物化石印记",
+      "full_text": "页岩薄层状结构保存了大量古生物化石印记",
+      "image": "res://assets/images/illustrations/geology/geology_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "geology_005_4",
         "geology_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_005_pixel.jpg"
     },
     {
       "id": "geology_006",
-      "title": "地质地貌 - 图片7",
-      "summary": "地质地貌相关图片",
-      "full_text": "岩石世界是人类文明的重要组成部分，它清新地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_006.png",
+      "title": "片麻岩",
+      "summary": "片麻岩条带状纹理记录了高温高压变质过程",
+      "full_text": "片麻岩条带状纹理记录了高温高压变质过程",
+      "image": "res://assets/images/illustrations/geology/geology_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "geology_006_4",
         "geology_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_006_pixel.jpg"
     },
     {
       "id": "geology_007",
-      "title": "地质地貌 - 图片8",
-      "summary": "地质地貌相关图片",
-      "full_text": "探索地质奇观的世界，仿佛打开了一扇通往文化宝库的大门，充满了好奇与思想启迪。",
-      "image": "res://assets/images/illustrations/geology/geology_007.png",
+      "title": "石英",
+      "summary": "石英晶体六棱柱状透明坚硬是地壳最丰富矿物",
+      "full_text": "石英晶体六棱柱状透明坚硬是地壳最丰富矿物",
+      "image": "res://assets/images/illustrations/geology/geology_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "geology_007_4",
         "geology_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_007_pixel.jpg"
     },
     {
       "id": "geology_008",
-      "title": "地质地貌 - 图片9",
-      "summary": "地质地貌相关图片",
-      "full_text": "在自然演变的领域里，文化传承展现得淋漓尽致，每一个文化符号都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/geology/geology_008.png",
+      "title": "长石",
+      "summary": "长石是地壳中含量最多的矿物家族色彩多样",
+      "full_text": "长石是地壳中含量最多的矿物家族色彩多样",
+      "image": "res://assets/images/illustrations/geology/geology_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "geology_008_4",
         "geology_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_008_pixel.jpg"
     },
     {
       "id": "geology_009",
-      "title": "地质地貌 - 图片10",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史是时代精神的结晶，它创造着美好的愿景，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/geology/geology_009.png",
+      "title": "云母",
+      "summary": "云母薄片透明如玻璃具有完美层状解理特性",
+      "full_text": "云母薄片透明如玻璃具有完美层状解理特性",
+      "image": "res://assets/images/illustrations/geology/geology_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "geology_009_4",
         "geology_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_009_pixel.jpg"
     },
     {
       "id": "geology_010",
-      "title": "地质地貌 - 图片11",
-      "summary": "地质地貌相关图片",
-      "full_text": "探索地球奥秘的世界，仿佛打开了一扇通往自然奇观的大门，充满了惊叹与视觉享受。",
-      "image": "res://assets/images/illustrations/geology/geology_010.png",
+      "title": "金刚石",
+      "summary": "金刚石是自然界最硬物质由碳原子紧密排列",
+      "full_text": "金刚石是自然界最硬物质由碳原子紧密排列",
+      "image": "res://assets/images/illustrations/geology/geology_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "geology_010_4",
         "geology_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_010_pixel.jpg"
     },
     {
       "id": "geology_011",
-      "title": "地质地貌 - 图片12",
-      "summary": "地质地貌相关图片",
-      "full_text": "岩石世界不仅记录了生活哲理，更传递了美的真谛，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/geology/geology_011.png",
+      "title": "红宝石",
+      "summary": "红宝石因含铬元素呈现鲜艳红色是珍贵宝石",
+      "full_text": "红宝石因含铬元素呈现鲜艳红色是珍贵宝石",
+      "image": "res://assets/images/illustrations/geology/geology_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "geology_011_4",
         "geology_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_011_pixel.jpg"
     },
     {
       "id": "geology_012",
-      "title": "地质地貌 - 图片13",
-      "summary": "地质地貌相关图片",
-      "full_text": "在地质奇观的领域里，社会发展展现得淋漓尽致，每一个历史印记都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/geology/geology_012.png",
+      "title": "蓝宝石",
+      "summary": "蓝宝石因含铁钛元素呈现深邃蓝色光芒璀璨",
+      "full_text": "蓝宝石因含铁钛元素呈现深邃蓝色光芒璀璨",
+      "image": "res://assets/images/illustrations/geology/geology_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "geology_012_4",
         "geology_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_012_pixel.jpg"
     },
     {
       "id": "geology_013",
-      "title": "地质地貌 - 图片14",
-      "summary": "地质地貌相关图片",
-      "full_text": "自然演变不仅展现了时代精神，更传递了梦想的价值，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/geology/geology_013.png",
+      "title": "翡翠",
+      "summary": "翡翠以缅甸出产最为著名翠绿色泽温润如水",
+      "full_text": "翡翠以缅甸出产最为著名翠绿色泽温润如水",
+      "image": "res://assets/images/illustrations/geology/geology_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "geology_013_4",
         "geology_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_013_pixel.jpg"
     },
     {
       "id": "geology_014",
-      "title": "地质地貌 - 图片15",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史是人类文明的重要组成部分，它精彩地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_014.png",
+      "title": "和田玉",
+      "summary": "和田玉产自昆仑山河流中羊脂白玉温润细腻",
+      "full_text": "和田玉产自昆仑山河流中羊脂白玉温润细腻",
+      "image": "res://assets/images/illustrations/geology/geology_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "geology_014_4",
         "geology_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_014_pixel.jpg"
     },
     {
       "id": "geology_015",
-      "title": "地质地貌 - 图片16",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘是艺术创造的结晶，它展现着生活的智慧，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/geology/geology_015.png",
+      "title": "水晶",
+      "summary": "水晶透明六棱柱状晶体在岩洞中簇生如花",
+      "full_text": "水晶透明六棱柱状晶体在岩洞中簇生如花",
+      "image": "res://assets/images/illustrations/geology/geology_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "geology_015_4",
         "geology_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_015_pixel.jpg"
     },
     {
       "id": "geology_016",
-      "title": "地质地貌 - 图片17",
-      "summary": "地质地貌相关图片",
-      "full_text": "在岩石世界的领域里，科学发现展现得淋漓尽致，每一个思想都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/geology/geology_016.png",
+      "title": "玛瑙",
+      "summary": "玛瑙具有同心环带状纹理色彩层次丰富美丽",
+      "full_text": "玛瑙具有同心环带状纹理色彩层次丰富美丽",
+      "image": "res://assets/images/illustrations/geology/geology_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "geology_016_4",
         "geology_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_016_pixel.jpg"
     },
     {
       "id": "geology_017",
-      "title": "地质地貌 - 图片18",
-      "summary": "地质地貌相关图片",
-      "full_text": "地质奇观是历史积淀的结晶，它启迪着科学的精神，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/geology/geology_017.png",
+      "title": "琥珀",
+      "summary": "琥珀中封存远古昆虫完整保存千万年如时光胶囊",
+      "full_text": "琥珀中封存远古昆虫完整保存千万年如时光胶囊",
+      "image": "res://assets/images/illustrations/geology/geology_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "geology_017_4",
         "geology_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_017_pixel.jpg"
     },
     {
       "id": "geology_018",
-      "title": "地质地貌 - 图片19",
-      "summary": "地质地貌相关图片",
-      "full_text": "探索自然演变的世界，仿佛打开了一扇通往自然奇观的大门，充满了憧憬与艺术熏陶。",
-      "image": "res://assets/images/illustrations/geology/geology_018.png",
+      "title": "绿松石",
+      "summary": "绿松石天蓝色如松果是中国传统名贵玉石",
+      "full_text": "绿松石天蓝色如松果是中国传统名贵玉石",
+      "image": "res://assets/images/illustrations/geology/geology_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "geology_018_4",
         "geology_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_018_pixel.jpg"
     },
     {
       "id": "geology_019",
-      "title": "地质地貌 - 图片20",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史是人类文明的重要组成部分，它神秘地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_019.png",
+      "title": "孔雀石",
+      "summary": "孔雀石翠绿色同心环带纹理如孔雀羽毛般美丽",
+      "full_text": "孔雀石翠绿色同心环带纹理如孔雀羽毛般美丽",
+      "image": "res://assets/images/illustrations/geology/geology_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "geology_019_4",
         "geology_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_019_pixel.jpg"
     },
     {
       "id": "geology_020",
-      "title": "地质地貌 - 图片21",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘不仅弘扬了文化内涵，更传递了奋斗的意义，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/geology/geology_020.png",
+      "title": "铁矿石",
+      "summary": "赤铁矿呈红棕色是炼铁最主要的矿石原料",
+      "full_text": "赤铁矿呈红棕色是炼铁最主要的矿石原料",
+      "image": "res://assets/images/illustrations/geology/geology_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "geology_020_4",
         "geology_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_020_pixel.jpg"
     },
     {
       "id": "geology_021",
-      "title": "地质地貌 - 图片22",
-      "summary": "地质地貌相关图片",
-      "full_text": "岩石世界是人类文明的重要组成部分，它清新地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_021.png",
+      "title": "铜矿石",
+      "summary": "黄铜矿金黄色金属光泽是炼铜的重要矿石",
+      "full_text": "黄铜矿金黄色金属光泽是炼铜的重要矿石",
+      "image": "res://assets/images/illustrations/geology/geology_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "geology_021_4",
         "geology_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_021_pixel.jpg"
     },
     {
       "id": "geology_022",
-      "title": "地质地貌 - 图片23",
-      "summary": "地质地貌相关图片",
-      "full_text": "在地质奇观的领域里，人文景观展现得淋漓尽致，每一个瞬间都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/geology/geology_022.png",
+      "title": "金矿石",
+      "summary": "金矿石中自然金颗粒嵌布于石英脉中闪烁",
+      "full_text": "金矿石中自然金颗粒嵌布于石英脉中闪烁",
+      "image": "res://assets/images/illustrations/geology/geology_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "geology_022_4",
         "geology_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_022_pixel.jpg"
     },
     {
       "id": "geology_023",
-      "title": "地质地貌 - 图片24",
-      "summary": "地质地貌相关图片",
-      "full_text": "自然演变不仅描绘了美好瞬间，更传递了生命的意义，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/geology/geology_023.png",
+      "title": "石油",
+      "summary": "石油是远古生物沉积转化的黑色液体黄金",
+      "full_text": "石油是远古生物沉积转化的黑色液体黄金",
+      "image": "res://assets/images/illustrations/geology/geology_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "geology_023_4",
         "geology_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_023_pixel.jpg"
     },
     {
       "id": "geology_024",
-      "title": "地质地貌 - 图片25",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史是人类文明的重要组成部分，它独特地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_024.png",
+      "title": "煤炭",
+      "summary": "煤炭由远古植物在高温高压下碳化形成",
+      "full_text": "煤炭由远古植物在高温高压下碳化形成",
+      "image": "res://assets/images/illustrations/geology/geology_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "geology_024_4",
         "geology_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_024_pixel.jpg"
     },
     {
       "id": "geology_025",
-      "title": "地质地貌 - 图片26",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘是人类文明的重要组成部分，它壮观地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_025.png",
+      "title": "褶皱山",
+      "summary": "褶皱山由岩层受挤压弯曲隆起形成如波浪起伏",
+      "full_text": "褶皱山由岩层受挤压弯曲隆起形成如波浪起伏",
+      "image": "res://assets/images/illustrations/geology/geology_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "geology_025_4",
         "geology_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_025_pixel.jpg"
     },
     {
       "id": "geology_026",
-      "title": "地质地貌 - 图片27",
-      "summary": "地质地貌相关图片",
-      "full_text": "岩石世界是人类文明的重要组成部分，它灵动地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_026.png",
+      "title": "断层崖",
+      "summary": "断层崖是岩层断裂后上升盘形成的陡峭崖壁",
+      "full_text": "断层崖是岩层断裂后上升盘形成的陡峭崖壁",
+      "image": "res://assets/images/illustrations/geology/geology_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "geology_026_4",
         "geology_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_026_pixel.jpg"
     },
     {
       "id": "geology_027",
-      "title": "地质地貌 - 图片28",
-      "summary": "地质地貌相关图片",
-      "full_text": "探索地质奇观的世界，仿佛打开了一扇通往智慧天地的大门，充满了沉醉与情感共鸣。",
-      "image": "res://assets/images/illustrations/geology/geology_027.png",
+      "title": "背斜",
+      "summary": "背斜岩层向上拱起常是储油储气的构造",
+      "full_text": "背斜岩层向上拱起常是储油储气的构造",
+      "image": "res://assets/images/illustrations/geology/geology_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "geology_027_4",
         "geology_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_027_pixel.jpg"
     },
     {
       "id": "geology_028",
-      "title": "地质地貌 - 图片29",
-      "summary": "地质地貌相关图片",
-      "full_text": "自然演变是审美追求的结晶，它表达着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/geology/geology_028.png",
+      "title": "向斜",
+      "summary": "向斜岩层向下弯曲常是储水构造形成谷地",
+      "full_text": "向斜岩层向下弯曲常是储水构造形成谷地",
+      "image": "res://assets/images/illustrations/geology/geology_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "geology_028_4",
         "geology_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_028_pixel.jpg"
     },
     {
       "id": "geology_029",
-      "title": "地质地貌 - 图片30",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史是人类智慧的结晶，它传递着创新的理念，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/geology/geology_029.png",
+      "title": "地堑",
+      "summary": "地堑是两侧断层下降中间地块相对下陷的地形",
+      "full_text": "地堑是两侧断层下降中间地块相对下陷的地形",
+      "image": "res://assets/images/illustrations/geology/geology_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "geology_029_4",
         "geology_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_029_pixel.jpg"
     },
     {
       "id": "geology_030",
-      "title": "地质地貌 - 图片31",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘不仅展现了美好瞬间，更传递了创新的精神，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/geology/geology_030.png",
+      "title": "地垒",
+      "summary": "地垒是两侧断层下降中间地块相对上升的山地",
+      "full_text": "地垒是两侧断层下降中间地块相对上升的山地",
+      "image": "res://assets/images/illustrations/geology/geology_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "geology_030_4",
         "geology_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_030_pixel.jpg"
     },
     {
       "id": "geology_031",
-      "title": "地质地貌 - 图片32",
-      "summary": "地质地貌相关图片",
-      "full_text": "岩石世界是审美追求的结晶，它记录着人类的梦想，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/geology/geology_031.png",
+      "title": "峡谷",
+      "summary": "峡谷由河流长期下切形成深窄V形谷地壮观",
+      "full_text": "峡谷由河流长期下切形成深窄V形谷地壮观",
+      "image": "res://assets/images/illustrations/geology/geology_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "geology_031_4",
         "geology_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_031_pixel.jpg"
     },
     {
       "id": "geology_032",
-      "title": "地质地貌 - 图片33",
-      "summary": "地质地貌相关图片",
-      "full_text": "地质奇观不仅揭示了人类文明，更传递了创新的精神，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/geology/geology_032.png",
+      "title": "科罗拉多大峡谷",
+      "summary": "科罗拉多大峡谷岩层如书页般记录二十亿年历史",
+      "full_text": "科罗拉多大峡谷岩层如书页般记录二十亿年历史",
+      "image": "res://assets/images/illustrations/geology/geology_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "geology_032_4",
         "geology_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_032_pixel.jpg"
     },
     {
       "id": "geology_033",
-      "title": "地质地貌 - 图片34",
-      "summary": "地质地貌相关图片",
-      "full_text": "自然演变不仅记录了文化内涵，更传递了情感的力量，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/geology/geology_033.png",
+      "title": "东非大裂谷",
+      "summary": "东非大裂谷是地球最大断裂带湖泊连串分布",
+      "full_text": "东非大裂谷是地球最大断裂带湖泊连串分布",
+      "image": "res://assets/images/illustrations/geology/geology_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "geology_033_4",
         "geology_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_033_pixel.jpg"
     },
     {
       "id": "geology_034",
-      "title": "地质地貌 - 图片35",
-      "summary": "地质地貌相关图片",
-      "full_text": "探索地球历史的世界，仿佛打开了一扇通往知识海洋的大门，充满了感动与心灵震撼。",
-      "image": "res://assets/images/illustrations/geology/geology_034.png",
+      "title": "雅鲁藏布大峡谷",
+      "summary": "雅鲁藏布大峡谷是世界最深峡谷生物多样性丰富",
+      "full_text": "雅鲁藏布大峡谷是世界最深峡谷生物多样性丰富",
+      "image": "res://assets/images/illustrations/geology/geology_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "geology_034_4",
         "geology_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_034_pixel.jpg"
     },
     {
       "id": "geology_035",
-      "title": "地质地貌 - 图片36",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘是情感表达的结晶，它诠释着美好的愿景，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/geology/geology_035.png",
+      "title": "怒江大峡谷",
+      "summary": "怒江大峡谷中江水咆哮两岸绝壁千仞震撼",
+      "full_text": "怒江大峡谷中江水咆哮两岸绝壁千仞震撼",
+      "image": "res://assets/images/illustrations/geology/geology_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "geology_035_4",
         "geology_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_035_pixel.jpg"
     },
     {
       "id": "geology_036",
-      "title": "地质地貌 - 图片37",
-      "summary": "地质地貌相关图片",
-      "full_text": "岩石世界是人类文明的重要组成部分，它优雅地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_036.png",
+      "title": "太行山大峡谷",
+      "summary": "太行山大峡谷红岩壁立溪流蜿蜒穿行其间",
+      "full_text": "太行山大峡谷红岩壁立溪流蜿蜒穿行其间",
+      "image": "res://assets/images/illustrations/geology/geology_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "geology_036_4",
         "geology_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_036_pixel.jpg"
     },
     {
       "id": "geology_037",
-      "title": "地质地貌 - 图片38",
-      "summary": "地质地貌相关图片",
-      "full_text": "在地质奇观的领域里，生态保护展现得淋漓尽致，每一个自然元素都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/geology/geology_037.png",
+      "title": "板块碰撞",
+      "summary": "印度板块与欧亚板块碰撞隆起形成喜马拉雅山",
+      "full_text": "印度板块与欧亚板块碰撞隆起形成喜马拉雅山",
+      "image": "res://assets/images/illustrations/geology/geology_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "geology_037_4",
         "geology_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_037_pixel.jpg"
     },
     {
       "id": "geology_038",
-      "title": "地质地貌 - 图片39",
-      "summary": "地质地貌相关图片",
-      "full_text": "自然演变是人类文明的重要组成部分，它深刻地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_038.png",
+      "title": "海沟",
+      "summary": "马里亚纳海沟深达万米是海洋最深处黑暗幽深",
+      "full_text": "马里亚纳海沟深达万米是海洋最深处黑暗幽深",
+      "image": "res://assets/images/illustrations/geology/geology_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "geology_038_4",
         "geology_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_038_pixel.jpg"
     },
     {
       "id": "geology_039",
-      "title": "地质地貌 - 图片40",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史是人类文明的重要组成部分，它优美地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_039.png",
+      "title": "海岭",
+      "summary": "大西洋中脊海岭是海底扩张的证据岩浆涌出",
+      "full_text": "大西洋中脊海岭是海底扩张的证据岩浆涌出",
+      "image": "res://assets/images/illustrations/geology/geology_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "geology_039_4",
         "geology_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_039_pixel.jpg"
     },
     {
       "id": "geology_040",
-      "title": "地质地貌 - 图片41",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘是人类智慧的结晶，它激励着人文的关怀，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/geology/geology_040.png",
+      "title": "岛弧",
+      "summary": "西太平洋岛弧如花彩般排列是俯冲带标志",
+      "full_text": "西太平洋岛弧如花彩般排列是俯冲带标志",
+      "image": "res://assets/images/illustrations/geology/geology_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "geology_040_4",
         "geology_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_040_pixel.jpg"
     },
     {
       "id": "geology_041",
-      "title": "地质地貌 - 图片42",
-      "summary": "地质地貌相关图片",
-      "full_text": "岩石世界是历史积淀的结晶，它诠释着科学的精神，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/geology/geology_041.png",
+      "title": "大陆架",
+      "summary": "大陆架是陆地延伸的浅海平台渔业资源丰富",
+      "full_text": "大陆架是陆地延伸的浅海平台渔业资源丰富",
+      "image": "res://assets/images/illustrations/geology/geology_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "geology_041_4",
         "geology_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_041_pixel.jpg"
     },
     {
       "id": "geology_042",
-      "title": "地质地貌 - 图片43",
-      "summary": "地质地貌相关图片",
-      "full_text": "地质奇观是人类文明的重要组成部分，它深刻地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_042.png",
+      "title": "大陆坡",
+      "summary": "大陆坡从大陆架外缘陡降至深海海底落差巨大",
+      "full_text": "大陆坡从大陆架外缘陡降至深海海底落差巨大",
+      "image": "res://assets/images/illustrations/geology/geology_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "geology_042_4",
         "geology_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_042_pixel.jpg"
     },
     {
       "id": "geology_043",
-      "title": "地质地貌 - 图片44",
-      "summary": "地质地貌相关图片",
-      "full_text": "在自然演变的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/geology/geology_043.png",
+      "title": "深海平原",
+      "summary": "深海平原是海底最平坦的区域覆盖厚层沉积物",
+      "full_text": "深海平原是海底最平坦的区域覆盖厚层沉积物",
+      "image": "res://assets/images/illustrations/geology/geology_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "geology_043_4",
         "geology_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_043_pixel.jpg"
     },
     {
       "id": "geology_044",
-      "title": "地质地貌 - 图片45",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史是人类文明的重要组成部分，它奇妙地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_044.png",
+      "title": "海底火山",
+      "summary": "海底火山喷发岩浆遇水冷却形成枕状熔岩",
+      "full_text": "海底火山喷发岩浆遇水冷却形成枕状熔岩",
+      "image": "res://assets/images/illustrations/geology/geology_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "geology_044_4",
         "geology_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_044_pixel.jpg"
     },
     {
       "id": "geology_045",
-      "title": "地质地貌 - 图片46",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘是审美追求的结晶，它引领着永恒的真理，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/geology/geology_045.png",
+      "title": "维苏威火山",
+      "summary": "维苏威火山公元79年喷发掩埋了庞贝古城",
+      "full_text": "维苏威火山公元79年喷发掩埋了庞贝古城",
+      "image": "res://assets/images/illustrations/geology/geology_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "geology_045_4",
         "geology_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_045_pixel.jpg"
     },
     {
       "id": "geology_046",
-      "title": "地质地貌 - 图片47",
-      "summary": "地质地貌相关图片",
-      "full_text": "岩石世界是人类文明的重要组成部分，它精致地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_046.png",
+      "title": "富士山火山",
+      "summary": "富士山是日本最高峰完美圆锥形活火山壮美",
+      "full_text": "富士山是日本最高峰完美圆锥形活火山壮美",
+      "image": "res://assets/images/illustrations/geology/geology_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "geology_046_4",
         "geology_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_046_pixel.jpg"
     },
     {
       "id": "geology_047",
-      "title": "地质地貌 - 图片48",
-      "summary": "地质地貌相关图片",
-      "full_text": "地质奇观是时代精神的结晶，它创造着人文的关怀，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/geology/geology_047.png",
+      "title": "基拉韦厄火山",
+      "summary": "基拉韦厄火山持续喷发红色熔岩流入大海",
+      "full_text": "基拉韦厄火山持续喷发红色熔岩流入大海",
+      "image": "res://assets/images/illustrations/geology/geology_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "geology_047_4",
         "geology_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_047_pixel.jpg"
     },
     {
       "id": "geology_048",
-      "title": "地质地貌 - 图片49",
-      "summary": "地质地貌相关图片",
-      "full_text": "探索自然演变的世界，仿佛打开了一扇通往美丽新世界的大门，充满了敬畏与心灵震撼。",
-      "image": "res://assets/images/illustrations/geology/geology_048.png",
+      "title": "埃特纳火山",
+      "summary": "埃特纳火山是欧洲最高活火山常年喷烟冒火",
+      "full_text": "埃特纳火山是欧洲最高活火山常年喷烟冒火",
+      "image": "res://assets/images/illustrations/geology/geology_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "geology_048_4",
         "geology_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_048_pixel.jpg"
     },
     {
       "id": "geology_049",
-      "title": "地质地貌 - 图片50",
-      "summary": "地质地貌相关图片",
-      "full_text": "探索地球历史的世界，仿佛打开了一扇通往文化宝库的大门，充满了宁静与精神升华。",
-      "image": "res://assets/images/illustrations/geology/geology_049.png",
+      "title": "圣海伦斯火山",
+      "summary": "圣海伦斯火山1980年侧向爆发山体削去山顶",
+      "full_text": "圣海伦斯火山1980年侧向爆发山体削去山顶",
+      "image": "res://assets/images/illustrations/geology/geology_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "geology_049_4",
         "geology_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_049_pixel.jpg"
     },
     {
       "id": "geology_050",
-      "title": "地质地貌 - 图片51",
-      "summary": "地质地貌相关图片",
-      "full_text": "在地球奥秘的领域里，艺术创造展现得淋漓尽致，每一个瞬间都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/geology/geology_050.png",
+      "title": "皮纳图博火山",
+      "summary": "皮纳图博火山1991年喷发导致全球气温下降",
+      "full_text": "皮纳图博火山1991年喷发导致全球气温下降",
+      "image": "res://assets/images/illustrations/geology/geology_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "geology_050_4",
         "geology_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_050_pixel.jpg"
     },
     {
       "id": "geology_051",
-      "title": "地质地貌 - 图片52",
-      "summary": "地质地貌相关图片",
-      "full_text": "探索岩石世界的世界，仿佛打开了一扇通往自然奇观的大门，充满了好奇与知识启迪。",
-      "image": "res://assets/images/illustrations/geology/geology_051.png",
+      "title": "冰岛火山",
+      "summary": "冰岛火山喷发冰火交融冰川融化洪水奔涌",
+      "full_text": "冰岛火山喷发冰火交融冰川融化洪水奔涌",
+      "image": "res://assets/images/illustrations/geology/geology_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "geology_051_4",
         "geology_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_051_pixel.jpg"
     },
     {
       "id": "geology_052",
-      "title": "地质地貌 - 图片53",
-      "summary": "地质地貌相关图片",
-      "full_text": "地质奇观是人类文明的重要组成部分，它庄重地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_052.png",
+      "title": "长白山天池",
+      "summary": "长白山天池是火山口积水形成的美丽高山湖泊",
+      "full_text": "长白山天池是火山口积水形成的美丽高山湖泊",
+      "image": "res://assets/images/illustrations/geology/geology_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "geology_052_4",
         "geology_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_052_pixel.jpg"
     },
     {
       "id": "geology_053",
-      "title": "地质地貌 - 图片54",
-      "summary": "地质地貌相关图片",
-      "full_text": "自然演变不仅探索了文化内涵，更传递了生命的意义，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/geology/geology_053.png",
+      "title": "腾冲火山",
+      "summary": "腾冲火山群地热温泉遍布热气球升腾如仙境",
+      "full_text": "腾冲火山群地热温泉遍布热气球升腾如仙境",
+      "image": "res://assets/images/illustrations/geology/geology_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "geology_053_4",
         "geology_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_053_pixel.jpg"
     },
     {
       "id": "geology_054",
-      "title": "地质地貌 - 图片55",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史是人类文明的重要组成部分，它独特地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_054.png",
+      "title": "五大连池",
+      "summary": "五大连池由火山熔岩阻塞河道形成串珠状湖泊",
+      "full_text": "五大连池由火山熔岩阻塞河道形成串珠状湖泊",
+      "image": "res://assets/images/illustrations/geology/geology_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "geology_054_4",
         "geology_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_054_pixel.jpg"
     },
     {
       "id": "geology_055",
-      "title": "地质地貌 - 图片56",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘不仅展现了自然之美，更传递了美的真谛，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/geology/geology_055.png",
+      "title": "地震波",
+      "summary": "地震波分为纵波和横波纵波先到横波破坏更大",
+      "full_text": "地震波分为纵波和横波纵波先到横波破坏更大",
+      "image": "res://assets/images/illustrations/geology/geology_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "geology_055_4",
         "geology_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_055_pixel.jpg"
     },
     {
       "id": "geology_056",
-      "title": "地质地貌 - 图片57",
-      "summary": "地质地貌相关图片",
-      "full_text": "探索岩石世界的世界，仿佛打开了一扇通往美好家园的大门，充满了好奇与艺术熏陶。",
-      "image": "res://assets/images/illustrations/geology/geology_056.png",
+      "title": "震中",
+      "summary": "震中是地表上正对震源的位置破坏最为严重",
+      "full_text": "震中是地表上正对震源的位置破坏最为严重",
+      "image": "res://assets/images/illustrations/geology/geology_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "geology_056_4",
         "geology_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_056_pixel.jpg"
     },
     {
       "id": "geology_057",
-      "title": "地质地貌 - 图片58",
-      "summary": "地质地貌相关图片",
-      "full_text": "地质奇观不仅表达了自然之美，更传递了生命的意义，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/geology/geology_057.png",
+      "title": "断裂带",
+      "summary": "圣安德烈亚斯断裂带是太平洋与北美板块边界",
+      "full_text": "圣安德烈亚斯断裂带是太平洋与北美板块边界",
+      "image": "res://assets/images/illustrations/geology/geology_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "geology_057_4",
         "geology_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_057_pixel.jpg"
     },
     {
       "id": "geology_058",
-      "title": "地质地貌 - 图片59",
-      "summary": "地质地貌相关图片",
-      "full_text": "自然演变不仅探索了艺术真谛，更传递了梦想的价值，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/geology/geology_058.png",
+      "title": "海啸",
+      "summary": "海底地震引发海啸巨浪高达数十米席卷海岸",
+      "full_text": "海底地震引发海啸巨浪高达数十米席卷海岸",
+      "image": "res://assets/images/illustrations/geology/geology_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "geology_058_4",
         "geology_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_058_pixel.jpg"
     },
     {
       "id": "geology_059",
-      "title": "地质地貌 - 图片60",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史不仅诠释了生活哲理，更传递了文化的传承，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/geology/geology_059.png",
+      "title": "地震仪",
+      "summary": "地震仪记录地震波形数据帮助定位震中震级",
+      "full_text": "地震仪记录地震波形数据帮助定位震中震级",
+      "image": "res://assets/images/illustrations/geology/geology_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "geology_059_4",
         "geology_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_059_pixel.jpg"
     },
     {
       "id": "geology_060",
-      "title": "地质地貌 - 图片61",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球奥秘是人类文明的重要组成部分，它精彩地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_060.png",
+      "title": "抗震建筑",
+      "summary": "抗震建筑采用柔性结构和阻尼器抵御地震力",
+      "full_text": "抗震建筑采用柔性结构和阻尼器抵御地震力",
+      "image": "res://assets/images/illustrations/geology/geology_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "geology_060_4",
         "geology_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_060_pixel.jpg"
     },
     {
       "id": "geology_061",
-      "title": "地质地貌 - 图片62",
-      "summary": "地质地貌相关图片",
-      "full_text": "在岩石世界的领域里，人类智慧展现得淋漓尽致，每一个历史印记都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/geology/geology_061.png",
+      "title": "火山口湖",
+      "summary": "火山口积水形成碧蓝湖泊四周岩壁环绕如碗",
+      "full_text": "火山口积水形成碧蓝湖泊四周岩壁环绕如碗",
+      "image": "res://assets/images/illustrations/geology/geology_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "geology_061_4",
         "geology_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_061_pixel.jpg"
     },
     {
       "id": "geology_062",
-      "title": "地质地貌 - 图片63",
-      "summary": "地质地貌相关图片",
-      "full_text": "在地质奇观的领域里，生态保护展现得淋漓尽致，每一个历史印记都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/geology/geology_062.png",
+      "title": "熔岩流",
+      "summary": "红色炽热熔岩流从火山口缓缓流淌摧毁一切",
+      "full_text": "红色炽热熔岩流从火山口缓缓流淌摧毁一切",
+      "image": "res://assets/images/illustrations/geology/geology_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "geology_062_4",
         "geology_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_062_pixel.jpg"
     },
     {
       "id": "geology_063",
-      "title": "地质地貌 - 图片64",
-      "summary": "地质地貌相关图片",
-      "full_text": "自然演变不仅展现了美好瞬间，更传递了梦想的价值，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/geology/geology_063.png",
+      "title": "火山灰",
+      "summary": "火山灰喷入高空随风飘散影响全球航空气候",
+      "full_text": "火山灰喷入高空随风飘散影响全球航空气候",
+      "image": "res://assets/images/illustrations/geology/geology_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "geology_063_4",
         "geology_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_063_pixel.jpg"
     },
     {
       "id": "geology_064",
-      "title": "地质地貌 - 图片65",
-      "summary": "地质地貌相关图片",
-      "full_text": "地球历史是人类文明的重要组成部分，它灵动地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/geology/geology_064.png",
+      "title": "间歇泉",
+      "summary": "黄石老忠实间歇泉定时喷发热水柱直冲天际",
+      "full_text": "黄石老忠实间歇泉定时喷发热水柱直冲天际",
+      "image": "res://assets/images/illustrations/geology/geology_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,7 +1363,8 @@
         "geology_064_4",
         "geology_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/geology/geology_064_pixel.jpg"
     }
   ]
 }

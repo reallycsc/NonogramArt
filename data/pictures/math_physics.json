@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "math_physics_000",
-      "title": "数学与物理 - 图片1",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术不仅弘扬了美好瞬间，更传递了文化的传承，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_000.png",
+      "title": "几何原本",
+      "summary": "欧几里得几何原本，公理体系逻辑推演，数学奠基之作",
+      "full_text": "欧几里得几何原本，公理体系逻辑推演，数学奠基之作",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "math_physics_000_4",
         "math_physics_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_000_pixel.jpg"
     },
     {
       "id": "math_physics_001",
-      "title": "数学与物理 - 图片2",
-      "summary": "数学与物理相关图片",
-      "full_text": "在文化的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_001.png",
+      "title": "勾股定理",
+      "summary": "勾股定理勾三股四弦五，直角三角形边长关系，古老定理",
+      "full_text": "勾股定理勾三股四弦五，直角三角形边长关系，古老定理",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "math_physics_001_4",
         "math_physics_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_001_pixel.jpg"
     },
     {
       "id": "math_physics_002",
-      "title": "数学与物理 - 图片3",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然不仅展现了文化内涵，更传递了生命的意义，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_002.png",
+      "title": "圆周率计算",
+      "summary": "祖冲之计算圆周率，精确到小数点后七位，数学成就",
+      "full_text": "祖冲之计算圆周率，精确到小数点后七位，数学成就",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "math_physics_002_4",
         "math_physics_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_002_pixel.jpg"
     },
     {
       "id": "math_physics_003",
-      "title": "数学与物理 - 图片4",
-      "summary": "数学与物理相关图片",
-      "full_text": "科学不仅描绘了艺术真谛，更传递了智慧的光芒，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_003.png",
+      "title": "算盘计算",
+      "summary": "算盘珠算噼啪作响，上下珠拨动运算，传统计算工具",
+      "full_text": "算盘珠算噼啪作响，上下珠拨动运算，传统计算工具",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "math_physics_003_4",
         "math_physics_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_003_pixel.jpg"
     },
     {
       "id": "math_physics_004",
-      "title": "数学与物理 - 图片5",
-      "summary": "数学与物理相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_004.png",
+      "title": "微积分创立",
+      "summary": "牛顿莱布尼茨创立微积分，导数积分变换，数学革命",
+      "full_text": "牛顿莱布尼茨创立微积分，导数积分变换，数学革命",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "math_physics_004_4",
         "math_physics_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_004_pixel.jpg"
     },
     {
       "id": "math_physics_005",
-      "title": "数学与物理 - 图片6",
-      "summary": "数学与物理相关图片",
-      "full_text": "在文化的领域里，社会发展展现得淋漓尽致，每一个线条都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_005.png",
+      "title": "概率论骰子",
+      "summary": "概率论源于赌博问题，帕斯卡费马通信，随机数学",
+      "full_text": "概率论源于赌博问题，帕斯卡费马通信，随机数学",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "math_physics_005_4",
         "math_physics_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_005_pixel.jpg"
     },
     {
       "id": "math_physics_006",
-      "title": "数学与物理 - 图片7",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它神秘地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_006.png",
+      "title": "费马大定理",
+      "summary": "费马大定理三百五十年证明，怀尔斯最终攻克，数学传奇",
+      "full_text": "费马大定理三百五十年证明，怀尔斯最终攻克，数学传奇",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "math_physics_006_4",
         "math_physics_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_006_pixel.jpg"
     },
     {
       "id": "math_physics_007",
-      "title": "数学与物理 - 图片8",
-      "summary": "数学与物理相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_007.png",
+      "title": "欧拉公式",
+      "summary": "欧拉公式e的iπ次方加一等于零，最美数学公式",
+      "full_text": "欧拉公式e的iπ次方加一等于零，最美数学公式",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "math_physics_007_4",
         "math_physics_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_007_pixel.jpg"
     },
     {
       "id": "math_physics_008",
-      "title": "数学与物理 - 图片9",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术是艺术创造的结晶，它启迪着社会的进步，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_008.png",
+      "title": "黄金比例",
+      "summary": "黄金比例1.618，鹦鹉螺向日葵，自然与数学之美",
+      "full_text": "黄金比例1.618，鹦鹉螺向日葵，自然与数学之美",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "math_physics_008_4",
         "math_physics_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_008_pixel.jpg"
     },
     {
       "id": "math_physics_009",
-      "title": "数学与物理 - 图片10",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它细腻地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_009.png",
+      "title": "拓扑学莫比乌斯",
+      "summary": "莫比乌斯带扭转粘贴，单面单边拓扑奇观，数学魔术",
+      "full_text": "莫比乌斯带扭转粘贴，单面单边拓扑奇观，数学魔术",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "math_physics_009_4",
         "math_physics_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_009_pixel.jpg"
     },
     {
       "id": "math_physics_010",
-      "title": "数学与物理 - 图片11",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然不仅诠释了自然之美，更传递了创新的精神，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_010.png",
+      "title": "分形几何",
+      "summary": "曼德博集合分形图案，自相似无限递归，数学之美",
+      "full_text": "曼德博集合分形图案，自相似无限递归，数学之美",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "math_physics_010_4",
         "math_physics_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_010_pixel.jpg"
     },
     {
       "id": "math_physics_011",
-      "title": "数学与物理 - 图片12",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往创意空间的大门，充满了怀念与情感共鸣。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_011.png",
+      "title": "黎曼猜想",
+      "summary": "黎曼猜想素数分布，未解数学难题，千禧年问题",
+      "full_text": "黎曼猜想素数分布，未解数学难题，千禧年问题",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "math_physics_011_4",
         "math_physics_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_011_pixel.jpg"
     },
     {
       "id": "math_physics_012",
-      "title": "数学与物理 - 图片13",
-      "summary": "数学与物理相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_012.png",
+      "title": "博弈论",
+      "summary": "博弈论纳什均衡，囚徒困境策略选择，数学与决策",
+      "full_text": "博弈论纳什均衡，囚徒困境策略选择，数学与决策",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "math_physics_012_4",
         "math_physics_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_012_pixel.jpg"
     },
     {
       "id": "math_physics_013",
-      "title": "数学与物理 - 图片14",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它丰富地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_013.png",
+      "title": "图论四色",
+      "summary": "四色定理地图着色，任意地图四色足够，图论经典",
+      "full_text": "四色定理地图着色，任意地图四色足够，图论经典",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "math_physics_013_4",
         "math_physics_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_013_pixel.jpg"
     },
     {
       "id": "math_physics_014",
-      "title": "数学与物理 - 图片15",
-      "summary": "数学与物理相关图片",
-      "full_text": "在自然的领域里，人类智慧展现得淋漓尽致，每一个文化符号都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_014.png",
+      "title": "线性代数",
+      "summary": "线性代数矩阵运算，特征值向量空间，数学工具",
+      "full_text": "线性代数矩阵运算，特征值向量空间，数学工具",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "math_physics_014_4",
         "math_physics_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_014_pixel.jpg"
     },
     {
       "id": "math_physics_015",
-      "title": "数学与物理 - 图片16",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往梦想世界的大门，充满了震撼与心灵震撼。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_015.png",
+      "title": "数论素数",
+      "summary": "素数分布规律探寻，哥德巴赫猜想，数学皇冠明珠",
+      "full_text": "素数分布规律探寻，哥德巴赫猜想，数学皇冠明珠",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "math_physics_015_4",
         "math_physics_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_015_pixel.jpg"
     },
     {
       "id": "math_physics_016",
-      "title": "数学与物理 - 图片17",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术是历史积淀的结晶，它激励着创新的理念，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_016.png",
+      "title": "混沌理论",
+      "summary": "蝴蝶效应混沌理论，初始条件敏感依赖，确定性随机",
+      "full_text": "蝴蝶效应混沌理论，初始条件敏感依赖，确定性随机",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "math_physics_016_4",
         "math_physics_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_016_pixel.jpg"
     },
     {
       "id": "math_physics_017",
-      "title": "数学与物理 - 图片18",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化不仅塑造了人类文明，更传递了美的真谛，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_017.png",
+      "title": "密码学RSA",
+      "summary": "RSA加密大数分解，公钥私钥安全通信，数学应用",
+      "full_text": "RSA加密大数分解，公钥私钥安全通信，数学应用",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "math_physics_017_4",
         "math_physics_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_017_pixel.jpg"
     },
     {
       "id": "math_physics_018",
-      "title": "数学与物理 - 图片19",
-      "summary": "数学与物理相关图片",
-      "full_text": "在自然的领域里，科学发现展现得淋漓尽致，每一个思想都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_018.png",
+      "title": "数学建模",
+      "summary": "数学建模实际问题，方程求解优化决策，数学应用",
+      "full_text": "数学建模实际问题，方程求解优化决策，数学应用",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "math_physics_018_4",
         "math_physics_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_018_pixel.jpg"
     },
     {
       "id": "math_physics_019",
-      "title": "数学与物理 - 图片20",
-      "summary": "数学与物理相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它自然地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_019.png",
+      "title": "群论对称",
+      "summary": "群论研究对称性，晶体结构粒子物理，抽象代数",
+      "full_text": "群论研究对称性，晶体结构粒子物理，抽象代数",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "math_physics_019_4",
         "math_physics_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_019_pixel.jpg"
     },
     {
       "id": "math_physics_020",
-      "title": "数学与物理 - 图片21",
-      "summary": "数学与物理相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个历史印记都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_020.png",
+      "title": "数学竞赛",
+      "summary": "国际数学奥林匹克，中学生智力角逐，数学天才摇篮",
+      "full_text": "国际数学奥林匹克，中学生智力角逐，数学天才摇篮",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "math_physics_020_4",
         "math_physics_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_020_pixel.jpg"
     },
     {
       "id": "math_physics_021",
-      "title": "数学与物理 - 图片22",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往文化宝库的大门，充满了敬畏与文化浸润。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_021.png",
+      "title": "计算数学",
+      "summary": "计算数学数值方法，计算机求解方程，应用数学",
+      "full_text": "计算数学数值方法，计算机求解方程，应用数学",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "math_physics_021_4",
         "math_physics_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_021_pixel.jpg"
     },
     {
       "id": "math_physics_022",
-      "title": "数学与物理 - 图片23",
-      "summary": "数学与物理相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个思想都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_022.png",
+      "title": "统计学分析",
+      "summary": "统计学数据分析，假设检验回归预测，数据科学基础",
+      "full_text": "统计学数据分析，假设检验回归预测，数据科学基础",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "math_physics_022_4",
         "math_physics_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_022_pixel.jpg"
     },
     {
       "id": "math_physics_023",
-      "title": "数学与物理 - 图片24",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往灵感源泉的大门，充满了感动与艺术熏陶。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_023.png",
+      "title": "数学之美",
+      "summary": "数学之美简洁优雅，公式定理揭示规律，理性之光",
+      "full_text": "数学之美简洁优雅，公式定理揭示规律，理性之光",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "math_physics_023_4",
         "math_physics_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_023_pixel.jpg"
     },
     {
       "id": "math_physics_024",
-      "title": "数学与物理 - 图片25",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它丰富地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_024.png",
+      "title": "牛顿力学",
+      "summary": "牛顿三大运动定律，苹果落地万有引力，经典力学奠基",
+      "full_text": "牛顿三大运动定律，苹果落地万有引力，经典力学奠基",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "math_physics_024_4",
         "math_physics_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_024_pixel.jpg"
     },
     {
       "id": "math_physics_025",
-      "title": "数学与物理 - 图片26",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化是文化传承的结晶，它激励着生活的智慧，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_025.png",
+      "title": "万有引力",
+      "summary": "万有引力天体运行，行星轨道苹果落地，宇宙法则",
+      "full_text": "万有引力天体运行，行星轨道苹果落地，宇宙法则",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "math_physics_025_4",
         "math_physics_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_025_pixel.jpg"
     },
     {
       "id": "math_physics_026",
-      "title": "数学与物理 - 图片27",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然不仅展现了艺术真谛，更传递了创新的精神，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_026.png",
+      "title": "电磁感应",
+      "summary": "法拉第电磁感应，磁生电发电机原理，电气时代开启",
+      "full_text": "法拉第电磁感应，磁生电发电机原理，电气时代开启",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "math_physics_026_4",
         "math_physics_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_026_pixel.jpg"
     },
     {
       "id": "math_physics_027",
-      "title": "数学与物理 - 图片28",
-      "summary": "数学与物理相关图片",
-      "full_text": "科学是艺术创造的结晶，它引领着美好的愿景，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_027.png",
+      "title": "麦克斯韦方程",
+      "summary": "麦克斯韦方程组，电磁场统一理论，物理最美方程",
+      "full_text": "麦克斯韦方程组，电磁场统一理论，物理最美方程",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "math_physics_027_4",
         "math_physics_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_027_pixel.jpg"
     },
     {
       "id": "math_physics_028",
-      "title": "数学与物理 - 图片29",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术不仅诠释了时代精神，更传递了生命的意义，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_028.png",
+      "title": "热力学定律",
+      "summary": "热力学第二定律熵增，永动机不可能，能量方向",
+      "full_text": "热力学第二定律熵增，永动机不可能，能量方向",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "math_physics_028_4",
         "math_physics_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_028_pixel.jpg"
     },
     {
       "id": "math_physics_029",
-      "title": "数学与物理 - 图片30",
-      "summary": "数学与物理相关图片",
-      "full_text": "在文化的领域里，自然奇观展现得淋漓尽致，每一个瞬间都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_029.png",
+      "title": "光学折射",
+      "summary": "光学折射反射棱镜，牛顿三棱镜分光，光的本质",
+      "full_text": "光学折射反射棱镜，牛顿三棱镜分光，光的本质",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "math_physics_029_4",
         "math_physics_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_029_pixel.jpg"
     },
     {
       "id": "math_physics_030",
-      "title": "数学与物理 - 图片31",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它细腻地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_030.png",
+      "title": "声学共振",
+      "summary": "声学共振音叉振动，频率波长声音传播，声波世界",
+      "full_text": "声学共振音叉振动，频率波长声音传播，声波世界",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "math_physics_030_4",
         "math_physics_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_030_pixel.jpg"
     },
     {
       "id": "math_physics_031",
-      "title": "数学与物理 - 图片32",
-      "summary": "数学与物理相关图片",
-      "full_text": "科学不仅展现了文化内涵，更传递了生命的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_031.png",
+      "title": "流体力学",
+      "summary": "流体力学伯努利原理，飞机升力管道流动，流体世界",
+      "full_text": "流体力学伯努利原理，飞机升力管道流动，流体世界",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "math_physics_031_4",
         "math_physics_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_031_pixel.jpg"
     },
     {
       "id": "math_physics_032",
-      "title": "数学与物理 - 图片33",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术不仅展现了文化内涵，更传递了梦想的价值，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_032.png",
+      "title": "相对论时空",
+      "summary": "爱因斯坦相对论，时空弯曲钟慢尺缩，颠覆认知",
+      "full_text": "爱因斯坦相对论，时空弯曲钟慢尺缩，颠覆认知",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "math_physics_032_4",
         "math_physics_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_032_pixel.jpg"
     },
     {
       "id": "math_physics_033",
-      "title": "数学与物理 - 图片34",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它优雅地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_033.png",
+      "title": "光电效应",
+      "summary": "光电效应爱因斯坦解释，光量子能量，量子论开端",
+      "full_text": "光电效应爱因斯坦解释，光量子能量，量子论开端",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "math_physics_033_4",
         "math_physics_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_033_pixel.jpg"
     },
     {
       "id": "math_physics_034",
-      "title": "数学与物理 - 图片35",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然不仅弘扬了艺术真谛，更传递了梦想的价值，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_034.png",
+      "title": "布朗运动",
+      "summary": "布朗运动花粉随机运动，分子存在证据，微观世界",
+      "full_text": "布朗运动花粉随机运动，分子存在证据，微观世界",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "math_physics_034_4",
         "math_physics_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_034_pixel.jpg"
     },
     {
       "id": "math_physics_035",
-      "title": "数学与物理 - 图片36",
-      "summary": "数学与物理相关图片",
-      "full_text": "在科学的领域里，科学发现展现得淋漓尽致，每一个自然元素都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_035.png",
+      "title": "X射线发现",
+      "summary": "伦琴发现X射线，透视骨骼医学革命，偶然发现",
+      "full_text": "伦琴发现X射线，透视骨骼医学革命，偶然发现",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "math_physics_035_4",
         "math_physics_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_035_pixel.jpg"
     },
     {
       "id": "math_physics_036",
-      "title": "数学与物理 - 图片37",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它神秘地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_036.png",
+      "title": "放射性元素",
+      "summary": "居里夫人发现镭，放射性元素研究，科学献身",
+      "full_text": "居里夫人发现镭，放射性元素研究，科学献身",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "math_physics_036_4",
         "math_physics_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_036_pixel.jpg"
     },
     {
       "id": "math_physics_037",
-      "title": "数学与物理 - 图片38",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化是人类智慧的结晶，它展现着艺术的追求，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_037.png",
+      "title": "原子模型",
+      "summary": "原子模型从葡萄干到电子云，卢瑟福玻尔，微观探索",
+      "full_text": "原子模型从葡萄干到电子云，卢瑟福玻尔，微观探索",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "math_physics_037_4",
         "math_physics_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_037_pixel.jpg"
     },
     {
       "id": "math_physics_038",
-      "title": "数学与物理 - 图片39",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往精神家园的大门，充满了愉悦与情感共鸣。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_038.png",
+      "title": "质能方程",
+      "summary": "E等于mc平方质能方程，质量能量等价，核能基础",
+      "full_text": "E等于mc平方质能方程，质量能量等价，核能基础",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "math_physics_038_4",
         "math_physics_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_038_pixel.jpg"
     },
     {
       "id": "math_physics_039",
-      "title": "数学与物理 - 图片40",
-      "summary": "数学与物理相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它奇妙地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_039.png",
+      "title": "广义相对论",
+      "summary": "广义相对论引力场方程，时空弯曲光线偏折，宇宙几何",
+      "full_text": "广义相对论引力场方程，时空弯曲光线偏折，宇宙几何",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "math_physics_039_4",
         "math_physics_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_039_pixel.jpg"
     },
     {
       "id": "math_physics_040",
-      "title": "数学与物理 - 图片41",
-      "summary": "数学与物理相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个光影都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_040.png",
+      "title": "量子力学波粒",
+      "summary": "量子力学波粒二象性，双缝实验叠加态，微观世界",
+      "full_text": "量子力学波粒二象性，双缝实验叠加态，微观世界",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "math_physics_040_4",
         "math_physics_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_040_pixel.jpg"
     },
     {
       "id": "math_physics_041",
-      "title": "数学与物理 - 图片42",
-      "summary": "数学与物理相关图片",
-      "full_text": "在文化的领域里，科技进步展现得淋漓尽致，每一个自然元素都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_041.png",
+      "title": "薛定谔方程",
+      "summary": "薛定谔方程描述量子态，波函数概率幅，量子力学核心",
+      "full_text": "薛定谔方程描述量子态，波函数概率幅，量子力学核心",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "math_physics_041_4",
         "math_physics_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_041_pixel.jpg"
     },
     {
       "id": "math_physics_042",
-      "title": "数学与物理 - 图片43",
-      "summary": "数学与物理相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_042.png",
+      "title": "不确定性原理",
+      "summary": "海森堡不确定性原理，位置动量不可同时精确，量子极限",
+      "full_text": "海森堡不确定性原理，位置动量不可同时精确，量子极限",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "math_physics_042_4",
         "math_physics_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_042_pixel.jpg"
     },
     {
       "id": "math_physics_043",
-      "title": "数学与物理 - 图片44",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往神秘国度的大门，充满了惊叹与审美体验。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_043.png",
+      "title": "量子纠缠",
+      "summary": "量子纠缠鬼魅超距作用，贝尔不等式验证，量子奇观",
+      "full_text": "量子纠缠鬼魅超距作用，贝尔不等式验证，量子奇观",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "math_physics_043_4",
         "math_physics_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_043_pixel.jpg"
     },
     {
       "id": "math_physics_044",
-      "title": "数学与物理 - 图片45",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往文化宝库的大门，充满了激情与审美体验。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_044.png",
+      "title": "粒子物理标准模型",
+      "summary": "标准模型基本粒子，夸克轻子玻色子，物质基本构成",
+      "full_text": "标准模型基本粒子，夸克轻子玻色子，物质基本构成",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "math_physics_044_4",
         "math_physics_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_044_pixel.jpg"
     },
     {
       "id": "math_physics_045",
-      "title": "数学与物理 - 图片46",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化不仅表达了历史记忆，更传递了美的真谛，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_045.png",
+      "title": "希格斯玻色子",
+      "summary": "上帝粒子希格斯场，赋予质量LHC发现，粒子物理里程碑",
+      "full_text": "上帝粒子希格斯场，赋予质量LHC发现，粒子物理里程碑",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "math_physics_045_4",
         "math_physics_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_045_pixel.jpg"
     },
     {
       "id": "math_physics_046",
-      "title": "数学与物理 - 图片47",
-      "summary": "数学与物理相关图片",
-      "full_text": "在自然的领域里，生态保护展现得淋漓尽致，每一个线条都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_046.png",
+      "title": "反物质",
+      "summary": "反物质正电子反质子，物质镜像湮灭释放能量，对称之美",
+      "full_text": "反物质正电子反质子，物质镜像湮灭释放能量，对称之美",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "math_physics_046_4",
         "math_physics_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_046_pixel.jpg"
     },
     {
       "id": "math_physics_047",
-      "title": "数学与物理 - 图片48",
-      "summary": "数学与物理相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它优雅地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_047.png",
+      "title": "超导现象",
+      "summary": "超导零电阻迈斯纳效应，低温物理奇迹，能源革命希望",
+      "full_text": "超导零电阻迈斯纳效应，低温物理奇迹，能源革命希望",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "math_physics_047_4",
         "math_physics_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_047_pixel.jpg"
     },
     {
       "id": "math_physics_048",
-      "title": "数学与物理 - 图片49",
-      "summary": "数学与物理相关图片",
-      "full_text": "在艺术的领域里，自然奇观展现得淋漓尽致，每一个色彩都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_048.png",
+      "title": "弦论",
+      "summary": "弦论十一维时空，基本粒子是弦振动，万物理论候选",
+      "full_text": "弦论十一维时空，基本粒子是弦振动，万物理论候选",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "math_physics_048_4",
         "math_physics_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_048_pixel.jpg"
     },
     {
       "id": "math_physics_049",
-      "title": "数学与物理 - 图片50",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化是情感表达的结晶，它承载着人文的关怀，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_049.png",
+      "title": "暗物质",
+      "summary": "暗物质看不见摸不着，星系旋转曲线证据，宇宙之谜",
+      "full_text": "暗物质看不见摸不着，星系旋转曲线证据，宇宙之谜",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "math_physics_049_4",
         "math_physics_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_049_pixel.jpg"
     },
     {
       "id": "math_physics_050",
-      "title": "数学与物理 - 图片51",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然是时代精神的结晶，它创造着深刻的思考，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_050.png",
+      "title": "暗能量",
+      "summary": "暗能量加速宇宙膨胀，占宇宙68%，最大谜团",
+      "full_text": "暗能量加速宇宙膨胀，占宇宙68%，最大谜团",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "math_physics_050_4",
         "math_physics_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_050_pixel.jpg"
     },
     {
       "id": "math_physics_051",
-      "title": "数学与物理 - 图片52",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往美好家园的大门，充满了震撼与艺术熏陶。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_051.png",
+      "title": "量子计算",
+      "summary": "量子计算机量子比特，叠加纠缠并行计算，计算革命",
+      "full_text": "量子计算机量子比特，叠加纠缠并行计算，计算革命",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "math_physics_051_4",
         "math_physics_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_051_pixel.jpg"
     },
     {
       "id": "math_physics_052",
-      "title": "数学与物理 - 图片53",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术是历史积淀的结晶，它启迪着永恒的真理，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_052.png",
+      "title": "量子通信",
+      "summary": "量子通信量子密钥分发，绝对安全不可窃听，信息安全",
+      "full_text": "量子通信量子密钥分发，绝对安全不可窃听，信息安全",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "math_physics_052_4",
         "math_physics_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_052_pixel.jpg"
     },
     {
       "id": "math_physics_053",
-      "title": "数学与物理 - 图片54",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化不仅表达了人类文明，更传递了创新的精神，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_053.png",
+      "title": "凝聚态物理",
+      "summary": "凝聚态物理拓扑绝缘体，量子霍尔效应，新材料物理",
+      "full_text": "凝聚态物理拓扑绝缘体，量子霍尔效应，新材料物理",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "math_physics_053_4",
         "math_physics_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_053_pixel.jpg"
     },
     {
       "id": "math_physics_054",
-      "title": "数学与物理 - 图片55",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然是思想升华的结晶，它记录着科学的精神，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_054.png",
+      "title": "激光技术",
+      "summary": "激光受激辐射光放大，方向性单色性，应用广泛",
+      "full_text": "激光受激辐射光放大，方向性单色性，应用广泛",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "math_physics_054_4",
         "math_physics_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_054_pixel.jpg"
     },
     {
       "id": "math_physics_055",
-      "title": "数学与物理 - 图片56",
-      "summary": "数学与物理相关图片",
-      "full_text": "在科学的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_055.png",
+      "title": "纳米技术",
+      "summary": "纳米技术原子级操控，量子点碳纳米管，微观世界工程",
+      "full_text": "纳米技术原子级操控，量子点碳纳米管，微观世界工程",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "math_physics_055_4",
         "math_physics_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_055_pixel.jpg"
     },
     {
       "id": "math_physics_056",
-      "title": "数学与物理 - 图片57",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术是时代精神的结晶，它传递着社会的进步，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_056.png",
+      "title": "核物理反应",
+      "summary": "核裂变核聚变反应，原子核巨大能量，双刃剑技术",
+      "full_text": "核裂变核聚变反应，原子核巨大能量，双刃剑技术",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "math_physics_056_4",
         "math_physics_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_056_pixel.jpg"
     },
     {
       "id": "math_physics_057",
-      "title": "数学与物理 - 图片58",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往知识海洋的大门，充满了敬畏与精神升华。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_057.png",
+      "title": "等离子体物理",
+      "summary": "等离子体第四态物质，核聚变太阳内部，未来能源",
+      "full_text": "等离子体第四态物质，核聚变太阳内部，未来能源",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "math_physics_057_4",
         "math_physics_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_057_pixel.jpg"
     },
     {
       "id": "math_physics_058",
-      "title": "数学与物理 - 图片59",
-      "summary": "数学与物理相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个自然元素都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_058.png",
+      "title": "低温物理",
+      "summary": "低温物理接近绝对零度，超流超导量子效应，极限条件",
+      "full_text": "低温物理接近绝对零度，超流超导量子效应，极限条件",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "math_physics_058_4",
         "math_physics_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_058_pixel.jpg"
     },
     {
       "id": "math_physics_059",
-      "title": "数学与物理 - 图片60",
-      "summary": "数学与物理相关图片",
-      "full_text": "科学不仅揭示了文化内涵，更传递了人与自然的和谐，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_059.png",
+      "title": "天体物理",
+      "summary": "天体物理中子星脉冲星，极端条件物理，宇宙实验室",
+      "full_text": "天体物理中子星脉冲星，极端条件物理，宇宙实验室",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "math_physics_059_4",
         "math_physics_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_059_pixel.jpg"
     },
     {
       "id": "math_physics_060",
-      "title": "数学与物理 - 图片61",
-      "summary": "数学与物理相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个历史印记都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_060.png",
+      "title": "物理与哲学",
+      "summary": "物理与哲学观测者效应，实在论工具论，深层追问",
+      "full_text": "物理与哲学观测者效应，实在论工具论，深层追问",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "math_physics_060_4",
         "math_physics_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_060_pixel.jpg"
     },
     {
       "id": "math_physics_061",
-      "title": "数学与物理 - 图片62",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往自然奇观的大门，充满了沉醉与精神升华。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_061.png",
+      "title": "物理实验",
+      "summary": "物理实验LHC对撞机，粒子加速碰撞，探索微观",
+      "full_text": "物理实验LHC对撞机，粒子加速碰撞，探索微观",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "math_physics_061_4",
         "math_physics_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_061_pixel.jpg"
     },
     {
       "id": "math_physics_062",
-      "title": "数学与物理 - 图片63",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然不仅表达了生命意义，更传递了文化的传承，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_062.png",
+      "title": "数学物理方法",
+      "summary": "数学物理方法微分方程，傅里叶变换拉普拉斯，分析工具",
+      "full_text": "数学物理方法微分方程，傅里叶变换拉普拉斯，分析工具",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "math_physics_062_4",
         "math_physics_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_062_pixel.jpg"
     },
     {
       "id": "math_physics_063",
-      "title": "数学与物理 - 图片64",
-      "summary": "数学与物理相关图片",
-      "full_text": "科学是情感表达的结晶，它激励着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_063.png",
+      "title": "物理学统一",
+      "summary": "大统一理论四种力统一，物理学家终极梦想，万物之理",
+      "full_text": "大统一理论四种力统一，物理学家终极梦想，万物之理",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "math_physics_063_4",
         "math_physics_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_063_pixel.jpg"
     },
     {
       "id": "math_physics_064",
-      "title": "数学与物理 - 图片65",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术是自然造化的结晶，它创造着永恒的真理，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_064.png",
+      "title": "科学精神",
+      "summary": "科学精神质疑实证，实验验证理论预言，理性之光",
+      "full_text": "科学精神质疑实证，实验验证理论预言，理性之光",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "math_physics_064_4",
         "math_physics_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_064_pixel.jpg"
     },
     {
       "id": "math_physics_065",
-      "title": "数学与物理 - 图片66",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往智慧天地的大门，充满了感动与文化浸润。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_065.png",
+      "title": "物理之美",
+      "summary": "物理之美简洁对称，方程描述宇宙规律，理性诗意",
+      "full_text": "物理之美简洁对称，方程描述宇宙规律，理性诗意",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "math_physics_065_4",
         "math_physics_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_065_pixel.jpg"
     },
     {
       "id": "math_physics_066",
-      "title": "数学与物理 - 图片67",
-      "summary": "数学与物理相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它壮观地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_066.png",
+      "title": "数学与物理",
+      "summary": "数学是物理的语言，物理是数学的灵感，双螺旋共生",
+      "full_text": "数学是物理的语言，物理是数学的灵感，双螺旋共生",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "math_physics_066_4",
         "math_physics_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_066_pixel.jpg"
     },
     {
       "id": "math_physics_067",
-      "title": "数学与物理 - 图片68",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往自然奇观的大门，充满了沉醉与心灵震撼。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_067.png",
+      "title": "科学革命",
+      "summary": "科学革命范式转换，从牛顿到量子，认知飞跃",
+      "full_text": "科学革命范式转换，从牛顿到量子，认知飞跃",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "math_physics_067_4",
         "math_physics_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_067_pixel.jpg"
     },
     {
       "id": "math_physics_068",
-      "title": "数学与物理 - 图片69",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它典雅地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_068.png",
+      "title": "诺贝尔物理学奖",
+      "summary": "诺贝尔物理学奖百年，表彰物理学重大发现，科学荣耀",
+      "full_text": "诺贝尔物理学奖百年，表彰物理学重大发现，科学荣耀",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "math_physics_068_4",
         "math_physics_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_068_pixel.jpg"
     },
     {
       "id": "math_physics_069",
-      "title": "数学与物理 - 图片70",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化是思想升华的结晶，它创造着生活的智慧，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_069.png",
+      "title": "物理学史",
+      "summary": "物理学史从亚里士多德到霍金，人类认知宇宙的历程",
+      "full_text": "物理学史从亚里士多德到霍金，人类认知宇宙的历程",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "math_physics_069_4",
         "math_physics_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_069_pixel.jpg"
     },
     {
       "id": "math_physics_070",
-      "title": "数学与物理 - 图片71",
-      "summary": "数学与物理相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个瞬间都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_070.png",
+      "title": "科学方法论",
+      "summary": "科学方法论假说演绎，实验验证可证伪性，理性工具",
+      "full_text": "科学方法论假说演绎，实验验证可证伪性，理性工具",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "math_physics_070_4",
         "math_physics_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_070_pixel.jpg"
     },
     {
       "id": "math_physics_071",
-      "title": "数学与物理 - 图片72",
-      "summary": "数学与物理相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往知识海洋的大门，充满了宁静与美好感受。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_071.png",
+      "title": "物理教育",
+      "summary": "物理教育实验演示，从现象到原理，培养科学思维",
+      "full_text": "物理教育实验演示，从现象到原理，培养科学思维",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "math_physics_071_4",
         "math_physics_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_071_pixel.jpg"
     },
     {
       "id": "math_physics_072",
-      "title": "数学与物理 - 图片73",
-      "summary": "数学与物理相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它独特地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_072.png",
+      "title": "非欧几何",
+      "summary": "非欧几何弯曲空间，黎曼几何广义相对论基础，空间革命",
+      "full_text": "非欧几何弯曲空间，黎曼几何广义相对论基础，空间革命",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "math_physics_072_4",
         "math_physics_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_072_pixel.jpg"
     },
     {
       "id": "math_physics_073",
-      "title": "数学与物理 - 图片74",
-      "summary": "数学与物理相关图片",
-      "full_text": "文化是文化传承的结晶，它诠释着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_073.png",
+      "title": "数学物理方程",
+      "summary": "数学物理方程偏微分，热传导波动方程，物理建模",
+      "full_text": "数学物理方程偏微分，热传导波动方程，物理建模",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "math_physics_073_4",
         "math_physics_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_073_pixel.jpg"
     },
     {
       "id": "math_physics_074",
-      "title": "数学与物理 - 图片75",
-      "summary": "数学与物理相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个瞬间都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/math_physics/math_physics_074.png",
+      "title": "宇宙学常数",
+      "summary": "爱因斯坦宇宙学常数，暗能量与宇宙加速膨胀，最大错误",
+      "full_text": "爱因斯坦宇宙学常数，暗能量与宇宙加速膨胀，最大错误",
+      "image": "res://assets/images/illustrations/math_physics/math_physics_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,7 +1573,8 @@
         "math_physics_074_4",
         "math_physics_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/math_physics/math_physics_074_pixel.jpg"
     }
   ]
 }

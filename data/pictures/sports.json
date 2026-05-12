@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "sports_000",
-      "title": "体育竞技 - 图片1",
-      "summary": "体育竞技相关图片",
-      "full_text": "运动激情是人类文明的重要组成部分，它生动地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_000.png",
+      "title": "足球射门",
+      "summary": "足球前锋凌空抽射，皮球划弧线入网，绿茵场激情时刻",
+      "full_text": "足球前锋凌空抽射，皮球划弧线入网，绿茵场激情时刻",
+      "image": "res://assets/images/illustrations/sports/sports_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "sports_000_4",
         "sports_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_000_pixel.jpg"
     },
     {
       "id": "sports_001",
-      "title": "体育竞技 - 图片2",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神不仅传递了生命意义，更传递了人与自然的和谐，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/sports/sports_001.png",
+      "title": "篮球扣篮",
+      "summary": "篮球运动员高高跃起扣篮，单手暴扣震撼全场",
+      "full_text": "篮球运动员高高跃起扣篮，单手暴扣震撼全场",
+      "image": "res://assets/images/illustrations/sports/sports_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "sports_001_4",
         "sports_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_001_pixel.jpg"
     },
     {
       "id": "sports_002",
-      "title": "体育竞技 - 图片3",
-      "summary": "体育竞技相关图片",
-      "full_text": "在健康活力的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/sports/sports_002.png",
+      "title": "乒乓球对拉",
+      "summary": "乒乓球选手快速对拉，小球旋转速度惊人，国球风采",
+      "full_text": "乒乓球选手快速对拉，小球旋转速度惊人，国球风采",
+      "image": "res://assets/images/illustrations/sports/sports_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "sports_002_4",
         "sports_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_002_pixel.jpg"
     },
     {
       "id": "sports_003",
-      "title": "体育竞技 - 图片4",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作不仅传递了艺术真谛，更传递了文化的传承，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/sports/sports_003.png",
+      "title": "排球扣杀",
+      "summary": "排球运动员跃起扣杀，球如炮弹砸向对方，力量与技巧",
+      "full_text": "排球运动员跃起扣杀，球如炮弹砸向对方，力量与技巧",
+      "image": "res://assets/images/illustrations/sports/sports_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "sports_003_4",
         "sports_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_003_pixel.jpg"
     },
     {
       "id": "sports_004",
-      "title": "体育竞技 - 图片5",
-      "summary": "体育竞技相关图片",
-      "full_text": "体育魅力不仅诠释了美好瞬间，更传递了梦想的价值，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/sports/sports_004.png",
+      "title": "网球发球",
+      "summary": "网球选手大力发球，球速超200公里，ACE球制胜",
+      "full_text": "网球选手大力发球，球速超200公里，ACE球制胜",
+      "image": "res://assets/images/illustrations/sports/sports_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "sports_004_4",
         "sports_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_004_pixel.jpg"
     },
     {
       "id": "sports_005",
-      "title": "体育竞技 - 图片6",
-      "summary": "体育竞技相关图片",
-      "full_text": "在运动激情的领域里，科学发现展现得淋漓尽致，每一个色彩都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/sports/sports_005.png",
+      "title": "棒球全垒打",
+      "summary": "棒球击球手挥棒全垒打，球飞出围栏，观众欢呼",
+      "full_text": "棒球击球手挥棒全垒打，球飞出围栏，观众欢呼",
+      "image": "res://assets/images/illustrations/sports/sports_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "sports_005_4",
         "sports_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_005_pixel.jpg"
     },
     {
       "id": "sports_006",
-      "title": "体育竞技 - 图片7",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神是思想升华的结晶，它引领着人类的梦想，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/sports/sports_006.png",
+      "title": "高尔夫挥杆",
+      "summary": "高尔夫球手优雅挥杆，球划弧线落果岭，精准控制",
+      "full_text": "高尔夫球手优雅挥杆，球划弧线落果岭，精准控制",
+      "image": "res://assets/images/illustrations/sports/sports_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "sports_006_4",
         "sports_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_006_pixel.jpg"
     },
     {
       "id": "sports_007",
-      "title": "体育竞技 - 图片8",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力不仅描绘了人类文明，更传递了梦想的价值，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/sports/sports_007.png",
+      "title": "橄榄球达阵",
+      "summary": "橄榄球运动员持球冲阵，头盔护甲激烈对抗，力量碰撞",
+      "full_text": "橄榄球运动员持球冲阵，头盔护甲激烈对抗，力量碰撞",
+      "image": "res://assets/images/illustrations/sports/sports_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "sports_007_4",
         "sports_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_007_pixel.jpg"
     },
     {
       "id": "sports_008",
-      "title": "体育竞技 - 图片9",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作不仅揭示了时代精神，更传递了生命的意义，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/sports/sports_008.png",
+      "title": "羽毛球扣杀",
+      "summary": "羽毛球选手跃起扣杀，球速极快如闪电，灵巧与爆发",
+      "full_text": "羽毛球选手跃起扣杀，球速极快如闪电，灵巧与爆发",
+      "image": "res://assets/images/illustrations/sports/sports_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "sports_008_4",
         "sports_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_008_pixel.jpg"
     },
     {
       "id": "sports_009",
-      "title": "体育竞技 - 图片10",
-      "summary": "体育竞技相关图片",
-      "full_text": "在体育魅力的领域里，生态保护展现得淋漓尽致，每一个光影都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/sports/sports_009.png",
+      "title": "台球斯诺克",
+      "summary": "斯诺克选手俯身瞄准，球杆轻推精准落袋，优雅竞技",
+      "full_text": "斯诺克选手俯身瞄准，球杆轻推精准落袋，优雅竞技",
+      "image": "res://assets/images/illustrations/sports/sports_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "sports_009_4",
         "sports_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_009_pixel.jpg"
     },
     {
       "id": "sports_010",
-      "title": "体育竞技 - 图片11",
-      "summary": "体育竞技相关图片",
-      "full_text": "运动激情是人类智慧的结晶，它传递着深刻的思考，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/sports/sports_010.png",
+      "title": "手球射门",
+      "summary": "手球运动员跃起射门，力量与角度兼备，快速攻防",
+      "full_text": "手球运动员跃起射门，力量与角度兼备，快速攻防",
+      "image": "res://assets/images/illustrations/sports/sports_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "sports_010_4",
         "sports_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_010_pixel.jpg"
     },
     {
       "id": "sports_011",
-      "title": "体育竞技 - 图片12",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神是生活体验的结晶，它激励着生活的智慧，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/sports/sports_011.png",
+      "title": "水球对抗",
+      "summary": "水球运动员水中搏杀，踩水传球射门，水中激烈对抗",
+      "full_text": "水球运动员水中搏杀，踩水传球射门，水中激烈对抗",
+      "image": "res://assets/images/illustrations/sports/sports_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "sports_011_4",
         "sports_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_011_pixel.jpg"
     },
     {
       "id": "sports_012",
-      "title": "体育竞技 - 图片13",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力是人类文明的重要组成部分，它庄重地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_012.png",
+      "title": "冰球冲撞",
+      "summary": "冰球运动员高速滑行冲撞，冰刀划痕球杆挥舞，冰上格斗",
+      "full_text": "冰球运动员高速滑行冲撞，冰刀划痕球杆挥舞，冰上格斗",
+      "image": "res://assets/images/illustrations/sports/sports_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "sports_012_4",
         "sports_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_012_pixel.jpg"
     },
     {
       "id": "sports_013",
-      "title": "体育竞技 - 图片14",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作不仅展现了时代精神，更传递了创新的精神，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/sports/sports_013.png",
+      "title": "曲棍球推杆",
+      "summary": "曲棍球运动员弯腰推杆，球速飞快精准入网，技巧运动",
+      "full_text": "曲棍球运动员弯腰推杆，球速飞快精准入网，技巧运动",
+      "image": "res://assets/images/illustrations/sports/sports_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "sports_013_4",
         "sports_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_013_pixel.jpg"
     },
     {
       "id": "sports_014",
-      "title": "体育竞技 - 图片15",
-      "summary": "体育竞技相关图片",
-      "full_text": "体育魅力不仅展现了生命意义，更传递了生命的意义，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/sports/sports_014.png",
+      "title": "保龄球全中",
+      "summary": "保龄球手投球全中，球瓶四散飞溅，完美一击",
+      "full_text": "保龄球手投球全中，球瓶四散飞溅，完美一击",
+      "image": "res://assets/images/illustrations/sports/sports_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "sports_014_4",
         "sports_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_014_pixel.jpg"
     },
     {
       "id": "sports_015",
-      "title": "体育竞技 - 图片16",
-      "summary": "体育竞技相关图片",
-      "full_text": "运动激情是时代精神的结晶，它引领着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/sports/sports_015.png",
+      "title": "壁球回击",
+      "summary": "壁球选手在封闭场地回击，球弹墙壁角度刁钻，快速反应",
+      "full_text": "壁球选手在封闭场地回击，球弹墙壁角度刁钻，快速反应",
+      "image": "res://assets/images/illustrations/sports/sports_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "sports_015_4",
         "sports_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_015_pixel.jpg"
     },
     {
       "id": "sports_016",
-      "title": "体育竞技 - 图片17",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神是人类文明的重要组成部分，它独特地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_016.png",
+      "title": "百米冲刺",
+      "summary": "百米飞人起跑冲刺，9秒58极限速度，人类速度之巅",
+      "full_text": "百米飞人起跑冲刺，9秒58极限速度，人类速度之巅",
+      "image": "res://assets/images/illustrations/sports/sports_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "sports_016_4",
         "sports_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_016_pixel.jpg"
     },
     {
       "id": "sports_017",
-      "title": "体育竞技 - 图片18",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力不仅传递了情感世界，更传递了创新的精神，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/sports/sports_017.png",
+      "title": "马拉松长跑",
+      "summary": "马拉松选手42公里坚持，撞墙期咬牙突破，意志力考验",
+      "full_text": "马拉松选手42公里坚持，撞墙期咬牙突破，意志力考验",
+      "image": "res://assets/images/illustrations/sports/sports_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "sports_017_4",
         "sports_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_017_pixel.jpg"
     },
     {
       "id": "sports_018",
-      "title": "体育竞技 - 图片19",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作是自然造化的结晶，它展现着创新的理念，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/sports/sports_018.png",
+      "title": "跨栏飞越",
+      "summary": "跨栏选手腾空飞越栏架，节奏流畅如行云流水",
+      "full_text": "跨栏选手腾空飞越栏架，节奏流畅如行云流水",
+      "image": "res://assets/images/illustrations/sports/sports_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "sports_018_4",
         "sports_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_018_pixel.jpg"
     },
     {
       "id": "sports_019",
-      "title": "体育竞技 - 图片20",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索体育魅力的世界，仿佛打开了一扇通往智慧天地的大门，充满了好奇与文化浸润。",
-      "image": "res://assets/images/illustrations/sports/sports_019.png",
+      "title": "跳高背越",
+      "summary": "跳高选手背越式过杆，身体弓形翻越横杆，挑战高度",
+      "full_text": "跳高选手背越式过杆，身体弓形翻越横杆，挑战高度",
+      "image": "res://assets/images/illustrations/sports/sports_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "sports_019_4",
         "sports_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_019_pixel.jpg"
     },
     {
       "id": "sports_020",
-      "title": "体育竞技 - 图片21",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索运动激情的世界，仿佛打开了一扇通往神秘国度的大门，充满了震撼与知识启迪。",
-      "image": "res://assets/images/illustrations/sports/sports_020.png",
+      "title": "跳远腾空",
+      "summary": "跳远选手助跑腾空，空中展体落入沙坑，挑战距离",
+      "full_text": "跳远选手助跑腾空，空中展体落入沙坑，挑战距离",
+      "image": "res://assets/images/illustrations/sports/sports_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "sports_020_4",
         "sports_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_020_pixel.jpg"
     },
     {
       "id": "sports_021",
-      "title": "体育竞技 - 图片22",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神是人类文明的重要组成部分，它细腻地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_021.png",
+      "title": "铅球投掷",
+      "summary": "铅球运动员旋转投掷，铁球划弧线落地，力量爆发",
+      "full_text": "铅球运动员旋转投掷，铁球划弧线落地，力量爆发",
+      "image": "res://assets/images/illustrations/sports/sports_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "sports_021_4",
         "sports_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_021_pixel.jpg"
     },
     {
       "id": "sports_022",
-      "title": "体育竞技 - 图片23",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力是历史积淀的结晶，它引领着永恒的真理，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/sports/sports_022.png",
+      "title": "标枪掷出",
+      "summary": "标枪选手助跑掷出，标枪划长弧插地，力量与精准",
+      "full_text": "标枪选手助跑掷出，标枪划长弧插地，力量与精准",
+      "image": "res://assets/images/illustrations/sports/sports_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "sports_022_4",
         "sports_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_022_pixel.jpg"
     },
     {
       "id": "sports_023",
-      "title": "体育竞技 - 图片24",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作是生活体验的结晶，它启迪着科学的精神，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/sports/sports_023.png",
+      "title": "自由泳冲刺",
+      "summary": "自由泳选手劈波斩浪，转身触壁冲刺，水中速度",
+      "full_text": "自由泳选手劈波斩浪，转身触壁冲刺，水中速度",
+      "image": "res://assets/images/illustrations/sports/sports_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "sports_023_4",
         "sports_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_023_pixel.jpg"
     },
     {
       "id": "sports_024",
-      "title": "体育竞技 - 图片25",
-      "summary": "体育竞技相关图片",
-      "full_text": "体育魅力不仅弘扬了生活哲理，更传递了智慧的光芒，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/sports/sports_024.png",
+      "title": "跳水入水",
+      "summary": "跳水运动员翻腾入水，水花压至最小，空中艺术",
+      "full_text": "跳水运动员翻腾入水，水花压至最小，空中艺术",
+      "image": "res://assets/images/illustrations/sports/sports_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "sports_024_4",
         "sports_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_024_pixel.jpg"
     },
     {
       "id": "sports_025",
-      "title": "体育竞技 - 图片26",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索运动激情的世界，仿佛打开了一扇通往神秘国度的大门，充满了沉思与情感共鸣。",
-      "image": "res://assets/images/illustrations/sports/sports_025.png",
+      "title": "花样游泳",
+      "summary": "花样游泳水中芭蕾，同步旋转造型优美，力与美结合",
+      "full_text": "花样游泳水中芭蕾，同步旋转造型优美，力与美结合",
+      "image": "res://assets/images/illustrations/sports/sports_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "sports_025_4",
         "sports_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_025_pixel.jpg"
     },
     {
       "id": "sports_026",
-      "title": "体育竞技 - 图片27",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神是艺术创造的结晶，它记录着深刻的思考，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/sports/sports_026.png",
+      "title": "仰泳划水",
+      "summary": "仰泳选手仰面划水，节奏稳定呼吸均匀，水中优雅",
+      "full_text": "仰泳选手仰面划水，节奏稳定呼吸均匀，水中优雅",
+      "image": "res://assets/images/illustrations/sports/sports_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "sports_026_4",
         "sports_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_026_pixel.jpg"
     },
     {
       "id": "sports_027",
-      "title": "体育竞技 - 图片28",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力是历史积淀的结晶，它记录着科学的精神，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/sports/sports_027.png",
+      "title": "蝶泳波浪",
+      "summary": "蝶泳选手海豚式打腿，双臂同时划水，水中力量",
+      "full_text": "蝶泳选手海豚式打腿，双臂同时划水，水中力量",
+      "image": "res://assets/images/illustrations/sports/sports_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "sports_027_4",
         "sports_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_027_pixel.jpg"
     },
     {
       "id": "sports_028",
-      "title": "体育竞技 - 图片29",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作是审美追求的结晶，它展现着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/sports/sports_028.png",
+      "title": "水球守门",
+      "summary": "水球守门员水中扑救，单臂挡球力保城门，水中守护",
+      "full_text": "水球守门员水中扑救，单臂挡球力保城门，水中守护",
+      "image": "res://assets/images/illustrations/sports/sports_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "sports_028_4",
         "sports_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_028_pixel.jpg"
     },
     {
       "id": "sports_029",
-      "title": "体育竞技 - 图片30",
-      "summary": "体育竞技相关图片",
-      "full_text": "在体育魅力的领域里，科学发现展现得淋漓尽致，每一个细节都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/sports/sports_029.png",
+      "title": "冲浪乘风",
+      "summary": "冲浪选手驾驭巨浪，在浪管中穿行，与自然共舞",
+      "full_text": "冲浪选手驾驭巨浪，在浪管中穿行，与自然共舞",
+      "image": "res://assets/images/illustrations/sports/sports_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "sports_029_4",
         "sports_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_029_pixel.jpg"
     },
     {
       "id": "sports_030",
-      "title": "体育竞技 - 图片31",
-      "summary": "体育竞技相关图片",
-      "full_text": "运动激情是人类文明的重要组成部分，它壮观地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_030.png",
+      "title": "体操鞍马",
+      "summary": "体操选手鞍马全旋，双手支撑双腿摆动，力量与控制",
+      "full_text": "体操选手鞍马全旋，双手支撑双腿摆动，力量与控制",
+      "image": "res://assets/images/illustrations/sports/sports_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "sports_030_4",
         "sports_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_030_pixel.jpg"
     },
     {
       "id": "sports_031",
-      "title": "体育竞技 - 图片32",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神是时代精神的结晶，它引领着美好的愿景，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/sports/sports_031.png",
+      "title": "自由体操",
+      "summary": "自由体操空翻腾跃，音乐伴奏翩翩起舞，力与美",
+      "full_text": "自由体操空翻腾跃，音乐伴奏翩翩起舞，力与美",
+      "image": "res://assets/images/illustrations/sports/sports_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "sports_031_4",
         "sports_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_031_pixel.jpg"
     },
     {
       "id": "sports_032",
-      "title": "体育竞技 - 图片33",
-      "summary": "体育竞技相关图片",
-      "full_text": "在健康活力的领域里，人类智慧展现得淋漓尽致，每一个自然元素都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/sports/sports_032.png",
+      "title": "吊环十字",
+      "summary": "吊环选手十字支撑，双臂平展肌肉隆起，力量极致",
+      "full_text": "吊环选手十字支撑，双臂平展肌肉隆起，力量极致",
+      "image": "res://assets/images/illustrations/sports/sports_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "sports_032_4",
         "sports_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_032_pixel.jpg"
     },
     {
       "id": "sports_033",
-      "title": "体育竞技 - 图片34",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作是人类文明的重要组成部分，它丰富地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_033.png",
+      "title": "平衡木",
+      "summary": "平衡木选手翻腾跳跃，10厘米宽木上起舞，精准控制",
+      "full_text": "平衡木选手翻腾跳跃，10厘米宽木上起舞，精准控制",
+      "image": "res://assets/images/illustrations/sports/sports_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "sports_033_4",
         "sports_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_033_pixel.jpg"
     },
     {
       "id": "sports_034",
-      "title": "体育竞技 - 图片35",
-      "summary": "体育竞技相关图片",
-      "full_text": "在体育魅力的领域里，科学发现展现得淋漓尽致，每一个情感都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/sports/sports_034.png",
+      "title": "太极拳",
+      "summary": "太极拳师行云流水，以柔克刚四两拨千斤，武术哲学",
+      "full_text": "太极拳师行云流水，以柔克刚四两拨千斤，武术哲学",
+      "image": "res://assets/images/illustrations/sports/sports_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "sports_034_4",
         "sports_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_034_pixel.jpg"
     },
     {
       "id": "sports_035",
-      "title": "体育竞技 - 图片36",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索运动激情的世界，仿佛打开了一扇通往精神家园的大门，充满了沉醉与文化浸润。",
-      "image": "res://assets/images/illustrations/sports/sports_035.png",
+      "title": "散打搏击",
+      "summary": "散打选手拳脚组合，摔法拿法攻防转换，实战武术",
+      "full_text": "散打选手拳脚组合，摔法拿法攻防转换，实战武术",
+      "image": "res://assets/images/illustrations/sports/sports_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "sports_035_4",
         "sports_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_035_pixel.jpg"
     },
     {
       "id": "sports_036",
-      "title": "体育竞技 - 图片37",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神不仅表达了生命意义，更传递了真善美的追求，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/sports/sports_036.png",
+      "title": "跆拳道踢击",
+      "summary": "跆拳道选手高位踢击，旋风踢势大力沉，腿法凌厉",
+      "full_text": "跆拳道选手高位踢击，旋风踢势大力沉，腿法凌厉",
+      "image": "res://assets/images/illustrations/sports/sports_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "sports_036_4",
         "sports_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_036_pixel.jpg"
     },
     {
       "id": "sports_037",
-      "title": "体育竞技 - 图片38",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力是人类文明的重要组成部分，它壮观地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_037.png",
+      "title": "柔道投技",
+      "summary": "柔道选手大外刈投技，借力使力摔倒对手，以柔克刚",
+      "full_text": "柔道选手大外刈投技，借力使力摔倒对手，以柔克刚",
+      "image": "res://assets/images/illustrations/sports/sports_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "sports_037_4",
         "sports_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_037_pixel.jpg"
     },
     {
       "id": "sports_038",
-      "title": "体育竞技 - 图片39",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索团队协作的世界，仿佛打开了一扇通往美丽新世界的大门，充满了好奇与精神升华。",
-      "image": "res://assets/images/illustrations/sports/sports_038.png",
+      "title": "击剑刺击",
+      "summary": "击剑选手弓步刺击，剑尖闪电般命中，优雅对决",
+      "full_text": "击剑选手弓步刺击，剑尖闪电般命中，优雅对决",
+      "image": "res://assets/images/illustrations/sports/sports_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "sports_038_4",
         "sports_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_038_pixel.jpg"
     },
     {
       "id": "sports_039",
-      "title": "体育竞技 - 图片40",
-      "summary": "体育竞技相关图片",
-      "full_text": "体育魅力是人类文明的重要组成部分，它质朴地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_039.png",
+      "title": "拳击组合拳",
+      "summary": "拳击手组合拳出击，左勾拳右直拳，擂台上的勇气",
+      "full_text": "拳击手组合拳出击，左勾拳右直拳，擂台上的勇气",
+      "image": "res://assets/images/illustrations/sports/sports_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "sports_039_4",
         "sports_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_039_pixel.jpg"
     },
     {
       "id": "sports_040",
-      "title": "体育竞技 - 图片41",
-      "summary": "体育竞技相关图片",
-      "full_text": "在运动激情的领域里，生态保护展现得淋漓尽致，每一个历史印记都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/sports/sports_040.png",
+      "title": "攀岩登顶",
+      "summary": "攀岩选手指力惊人，岩壁上寻找支点，垂直挑战",
+      "full_text": "攀岩选手指力惊人，岩壁上寻找支点，垂直挑战",
+      "image": "res://assets/images/illustrations/sports/sports_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "sports_040_4",
         "sports_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_040_pixel.jpg"
     },
     {
       "id": "sports_041",
-      "title": "体育竞技 - 图片42",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索竞技精神的世界，仿佛打开了一扇通往美丽新世界的大门，充满了激情与艺术熏陶。",
-      "image": "res://assets/images/illustrations/sports/sports_041.png",
+      "title": "蹦极跳跃",
+      "summary": "蹦极者从高台纵身跃下，绳索弹回心跳加速，极限勇气",
+      "full_text": "蹦极者从高台纵身跃下，绳索弹回心跳加速，极限勇气",
+      "image": "res://assets/images/illustrations/sports/sports_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "sports_041_4",
         "sports_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_041_pixel.jpg"
     },
     {
       "id": "sports_042",
-      "title": "体育竞技 - 图片43",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索健康活力的世界，仿佛打开了一扇通往精神家园的大门，充满了愉悦与视觉享受。",
-      "image": "res://assets/images/illustrations/sports/sports_042.png",
+      "title": "跳伞开伞",
+      "summary": "跳伞者高空开伞，彩色降落伞飘浮云端，天空之舞",
+      "full_text": "跳伞者高空开伞，彩色降落伞飘浮云端，天空之舞",
+      "image": "res://assets/images/illustrations/sports/sports_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "sports_042_4",
         "sports_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_042_pixel.jpg"
     },
     {
       "id": "sports_043",
-      "title": "体育竞技 - 图片44",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作不仅传递了情感世界，更传递了美的真谛，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/sports/sports_043.png",
+      "title": "滑板翻转",
+      "summary": "滑板选手Ollie翻转，U型池中腾空，街头极限运动",
+      "full_text": "滑板选手Ollie翻转，U型池中腾空，街头极限运动",
+      "image": "res://assets/images/illustrations/sports/sports_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "sports_043_4",
         "sports_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_043_pixel.jpg"
     },
     {
       "id": "sports_044",
-      "title": "体育竞技 - 图片45",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索体育魅力的世界，仿佛打开了一扇通往梦想世界的大门，充满了向往与思想启迪。",
-      "image": "res://assets/images/illustrations/sports/sports_044.png",
+      "title": "跑酷翻墙",
+      "summary": "跑酷者翻墙跳跃，城市障碍如履平地，自由奔跑",
+      "full_text": "跑酷者翻墙跳跃，城市障碍如履平地，自由奔跑",
+      "image": "res://assets/images/illustrations/sports/sports_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "sports_044_4",
         "sports_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_044_pixel.jpg"
     },
     {
       "id": "sports_045",
-      "title": "体育竞技 - 图片46",
-      "summary": "体育竞技相关图片",
-      "full_text": "运动激情是人类文明的重要组成部分，它自然地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_045.png",
+      "title": "翼装飞行",
+      "summary": "翼装飞行者张开双臂，贴崖壁高速滑翔，极限之最",
+      "full_text": "翼装飞行者张开双臂，贴崖壁高速滑翔，极限之最",
+      "image": "res://assets/images/illustrations/sports/sports_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "sports_045_4",
         "sports_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_045_pixel.jpg"
     },
     {
       "id": "sports_046",
-      "title": "体育竞技 - 图片47",
-      "summary": "体育竞技相关图片",
-      "full_text": "在竞技精神的领域里，人文景观展现得淋漓尽致，每一个自然元素都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/sports/sports_046.png",
+      "title": "单板滑雪",
+      "summary": "单板滑雪者腾空旋转，雪地刻痕飞扬，冬季极限",
+      "full_text": "单板滑雪者腾空旋转，雪地刻痕飞扬，冬季极限",
+      "image": "res://assets/images/illustrations/sports/sports_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "sports_046_4",
         "sports_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_046_pixel.jpg"
     },
     {
       "id": "sports_047",
-      "title": "体育竞技 - 图片48",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力是审美追求的结晶，它启迪着生活的智慧，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/sports/sports_047.png",
+      "title": "铁人三项",
+      "summary": "铁人三项游泳骑行跑步，连续挑战极限耐力，钢铁意志",
+      "full_text": "铁人三项游泳骑行跑步，连续挑战极限耐力，钢铁意志",
+      "image": "res://assets/images/illustrations/sports/sports_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "sports_047_4",
         "sports_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_047_pixel.jpg"
     },
     {
       "id": "sports_048",
-      "title": "体育竞技 - 图片49",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作不仅创造了文化内涵，更传递了人与自然的和谐，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/sports/sports_048.png",
+      "title": "赛车漂移",
+      "summary": "赛车手高速漂移过弯，轮胎冒烟引擎轰鸣，速度激情",
+      "full_text": "赛车手高速漂移过弯，轮胎冒烟引擎轰鸣，速度激情",
+      "image": "res://assets/images/illustrations/sports/sports_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "sports_048_4",
         "sports_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_048_pixel.jpg"
     },
     {
       "id": "sports_049",
-      "title": "体育竞技 - 图片50",
-      "summary": "体育竞技相关图片",
-      "full_text": "体育魅力不仅塑造了自然之美，更传递了情感的力量，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/sports/sports_049.png",
+      "title": "马术障碍",
+      "summary": "马术选手驾驭骏马跳越障碍，人马合一优雅跨越",
+      "full_text": "马术选手驾驭骏马跳越障碍，人马合一优雅跨越",
+      "image": "res://assets/images/illustrations/sports/sports_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "sports_049_4",
         "sports_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_049_pixel.jpg"
     },
     {
       "id": "sports_050",
-      "title": "体育竞技 - 图片51",
-      "summary": "体育竞技相关图片",
-      "full_text": "运动激情是人类文明的重要组成部分，它典雅地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_050.png",
+      "title": "射箭命中",
+      "summary": "射箭选手拉弓瞄准，箭矢正中靶心十环，精准至极",
+      "full_text": "射箭选手拉弓瞄准，箭矢正中靶心十环，精准至极",
+      "image": "res://assets/images/illustrations/sports/sports_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "sports_050_4",
         "sports_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_050_pixel.jpg"
     },
     {
       "id": "sports_051",
-      "title": "体育竞技 - 图片52",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神是人类文明的重要组成部分，它独特地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_051.png",
+      "title": "射击比赛",
+      "summary": "射击选手举枪瞄准，气步枪精准射击，冷静与专注",
+      "full_text": "射击选手举枪瞄准，气步枪精准射击，冷静与专注",
+      "image": "res://assets/images/illustrations/sports/sports_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "sports_051_4",
         "sports_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_051_pixel.jpg"
     },
     {
       "id": "sports_052",
-      "title": "体育竞技 - 图片53",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力不仅记录了文化内涵，更传递了智慧的光芒，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/sports/sports_052.png",
+      "title": "举重抓举",
+      "summary": "举重选手抓举杠铃过顶，怒吼一声力量爆发，力拔山兮",
+      "full_text": "举重选手抓举杠铃过顶，怒吼一声力量爆发，力拔山兮",
+      "image": "res://assets/images/illustrations/sports/sports_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "sports_052_4",
         "sports_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_052_pixel.jpg"
     },
     {
       "id": "sports_053",
-      "title": "体育竞技 - 图片54",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索团队协作的世界，仿佛打开了一扇通往知识海洋的大门，充满了惊叹与艺术熏陶。",
-      "image": "res://assets/images/illustrations/sports/sports_053.png",
+      "title": "帆船竞速",
+      "summary": "帆船选手驾驭风帆，船体倾斜破浪前行，海上竞速",
+      "full_text": "帆船选手驾驭风帆，船体倾斜破浪前行，海上竞速",
+      "image": "res://assets/images/illustrations/sports/sports_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "sports_053_4",
         "sports_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_053_pixel.jpg"
     },
     {
       "id": "sports_054",
-      "title": "体育竞技 - 图片55",
-      "summary": "体育竞技相关图片",
-      "full_text": "体育魅力是历史积淀的结晶，它创造着生活的智慧，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/sports/sports_054.png",
+      "title": "滑雪大回转",
+      "summary": "高山滑雪大回转，旗门间高速穿梭，雪上飞驰",
+      "full_text": "高山滑雪大回转，旗门间高速穿梭，雪上飞驰",
+      "image": "res://assets/images/illustrations/sports/sports_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "sports_054_4",
         "sports_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_054_pixel.jpg"
     },
     {
       "id": "sports_055",
-      "title": "体育竞技 - 图片56",
-      "summary": "体育竞技相关图片",
-      "full_text": "运动激情是人类文明的重要组成部分，它壮观地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_055.png",
+      "title": "花样滑冰",
+      "summary": "花样滑冰选手旋转跳跃，冰上翩翩起舞，冰上艺术",
+      "full_text": "花样滑冰选手旋转跳跃，冰上翩翩起舞，冰上艺术",
+      "image": "res://assets/images/illustrations/sports/sports_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "sports_055_4",
         "sports_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_055_pixel.jpg"
     },
     {
       "id": "sports_056",
-      "title": "体育竞技 - 图片57",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神是人类文明的重要组成部分，它庄重地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_056.png",
+      "title": "短道速滑",
+      "summary": "短道速滑选手弯道超越，冰刀划弧线争分夺秒",
+      "full_text": "短道速滑选手弯道超越，冰刀划弧线争分夺秒",
+      "image": "res://assets/images/illustrations/sports/sports_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "sports_056_4",
         "sports_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_056_pixel.jpg"
     },
     {
       "id": "sports_057",
-      "title": "体育竞技 - 图片58",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力不仅展现了人类文明，更传递了智慧的光芒，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/sports/sports_057.png",
+      "title": "电子竞技",
+      "summary": "电竞选手团队配合，键盘鼠标飞速操作，数字竞技",
+      "full_text": "电竞选手团队配合，键盘鼠标飞速操作，数字竞技",
+      "image": "res://assets/images/illustrations/sports/sports_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "sports_057_4",
         "sports_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_057_pixel.jpg"
     },
     {
       "id": "sports_058",
-      "title": "体育竞技 - 图片59",
-      "summary": "体育竞技相关图片",
-      "full_text": "在团队协作的领域里，生态保护展现得淋漓尽致，每一个色彩都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/sports/sports_058.png",
+      "title": "围棋对弈",
+      "summary": "围棋棋手落子深思，黑白棋子纵横捭阖，智慧博弈",
+      "full_text": "围棋棋手落子深思，黑白棋子纵横捭阖，智慧博弈",
+      "image": "res://assets/images/illustrations/sports/sports_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "sports_058_4",
         "sports_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_058_pixel.jpg"
     },
     {
       "id": "sports_059",
-      "title": "体育竞技 - 图片60",
-      "summary": "体育竞技相关图片",
-      "full_text": "体育魅力是情感表达的结晶，它展现着美好的愿景，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/sports/sports_059.png",
+      "title": "国际象棋",
+      "summary": "国际象棋大师沉思，棋盘上运筹帷幄，智力对决",
+      "full_text": "国际象棋大师沉思，棋盘上运筹帷幄，智力对决",
+      "image": "res://assets/images/illustrations/sports/sports_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "sports_059_4",
         "sports_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_059_pixel.jpg"
     },
     {
       "id": "sports_060",
-      "title": "体育竞技 - 图片61",
-      "summary": "体育竞技相关图片",
-      "full_text": "在运动激情的领域里，艺术创造展现得淋漓尽致，每一个历史印记都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/sports/sports_060.png",
+      "title": "健美展示",
+      "summary": "健美选手展示肌肉，体脂率极低线条分明，雕塑之美",
+      "full_text": "健美选手展示肌肉，体脂率极低线条分明，雕塑之美",
+      "image": "res://assets/images/illustrations/sports/sports_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "sports_060_4",
         "sports_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_060_pixel.jpg"
     },
     {
       "id": "sports_061",
-      "title": "体育竞技 - 图片62",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索竞技精神的世界，仿佛打开了一扇通往创意空间的大门，充满了温馨与思想启迪。",
-      "image": "res://assets/images/illustrations/sports/sports_061.png",
+      "title": "瑜伽冥想",
+      "summary": "瑜伽修行者冥想打坐，身心合一呼吸调息，内在修行",
+      "full_text": "瑜伽修行者冥想打坐，身心合一呼吸调息，内在修行",
+      "image": "res://assets/images/illustrations/sports/sports_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "sports_061_4",
         "sports_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_061_pixel.jpg"
     },
     {
       "id": "sports_062",
-      "title": "体育竞技 - 图片63",
-      "summary": "体育竞技相关图片",
-      "full_text": "健康活力是自然造化的结晶，它诠释着永恒的真理，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/sports/sports_062.png",
+      "title": "体育精神",
+      "summary": "奥运赛场对手搀扶，友谊第一比赛第二，体育精神永恒",
+      "full_text": "奥运赛场对手搀扶，友谊第一比赛第二，体育精神永恒",
+      "image": "res://assets/images/illustrations/sports/sports_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "sports_062_4",
         "sports_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_062_pixel.jpg"
     },
     {
       "id": "sports_063",
-      "title": "体育竞技 - 图片64",
-      "summary": "体育竞技相关图片",
-      "full_text": "在团队协作的领域里，社会发展展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/sports/sports_063.png",
+      "title": "残疾人运动",
+      "summary": "残奥运动员假肢奔跑，超越身体局限，生命力量",
+      "full_text": "残奥运动员假肢奔跑，超越身体局限，生命力量",
+      "image": "res://assets/images/illustrations/sports/sports_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "sports_063_4",
         "sports_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_063_pixel.jpg"
     },
     {
       "id": "sports_064",
-      "title": "体育竞技 - 图片65",
-      "summary": "体育竞技相关图片",
-      "full_text": "探索体育魅力的世界，仿佛打开了一扇通往历史长河的大门，充满了好奇与审美体验。",
-      "image": "res://assets/images/illustrations/sports/sports_064.png",
+      "title": "全民健身",
+      "summary": "公园晨练老人太极，年轻人跑步健身，全民运动",
+      "full_text": "公园晨练老人太极，年轻人跑步健身，全民运动",
+      "image": "res://assets/images/illustrations/sports/sports_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "sports_064_4",
         "sports_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_064_pixel.jpg"
     },
     {
       "id": "sports_065",
-      "title": "体育竞技 - 图片66",
-      "summary": "体育竞技相关图片",
-      "full_text": "运动激情是人类智慧的结晶，它表达着美好的愿景，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/sports/sports_065.png",
+      "title": "体育场馆",
+      "summary": "鸟巢水立方奥运场馆，体育建筑之美，城市地标",
+      "full_text": "鸟巢水立方奥运场馆，体育建筑之美，城市地标",
+      "image": "res://assets/images/illustrations/sports/sports_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "sports_065_4",
         "sports_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_065_pixel.jpg"
     },
     {
       "id": "sports_066",
-      "title": "体育竞技 - 图片67",
-      "summary": "体育竞技相关图片",
-      "full_text": "竞技精神是人类文明的重要组成部分，它绚丽地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_066.png",
+      "title": "奥运圣火",
+      "summary": "奥运圣火传递点燃，火炬手奔跑接力，和平与友谊",
+      "full_text": "奥运圣火传递点燃，火炬手奔跑接力，和平与友谊",
+      "image": "res://assets/images/illustrations/sports/sports_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "sports_066_4",
         "sports_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_066_pixel.jpg"
     },
     {
       "id": "sports_067",
-      "title": "体育竞技 - 图片68",
-      "summary": "体育竞技相关图片",
-      "full_text": "在健康活力的领域里，社会发展展现得淋漓尽致，每一个色彩都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/sports/sports_067.png",
+      "title": "电子竞技",
+      "summary": "电子竞技职业赛事，团队协作策略对抗，数字体育",
+      "full_text": "电子竞技职业赛事，团队协作策略对抗，数字体育",
+      "image": "res://assets/images/illustrations/sports/sports_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "sports_067_4",
         "sports_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_067_pixel.jpg"
     },
     {
       "id": "sports_068",
-      "title": "体育竞技 - 图片69",
-      "summary": "体育竞技相关图片",
-      "full_text": "团队协作是人类文明的重要组成部分，它神秘地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/sports/sports_068.png",
+      "title": "极限运动",
+      "summary": "极限运动蹦极翼装飞行，挑战自我突破极限，勇敢者游戏",
+      "full_text": "极限运动蹦极翼装飞行，挑战自我突破极限，勇敢者游戏",
+      "image": "res://assets/images/illustrations/sports/sports_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "sports_068_4",
         "sports_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_068_pixel.jpg"
     },
     {
       "id": "sports_069",
-      "title": "体育竞技 - 图片70",
-      "summary": "体育竞技相关图片",
-      "full_text": "体育魅力不仅探索了美好瞬间，更传递了智慧的光芒，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/sports/sports_069.png",
+      "title": "民族传统体育",
+      "summary": "赛龙舟摔跤射箭武术，民族传统体育竞技，文化传承",
+      "full_text": "赛龙舟摔跤射箭武术，民族传统体育竞技，文化传承",
+      "image": "res://assets/images/illustrations/sports/sports_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "sports_069_4",
         "sports_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/sports/sports_069_pixel.jpg"
     }
   ]
 }

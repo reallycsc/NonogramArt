@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "nature_reserves_000",
-      "title": "自然保护区 - 图片1",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术不仅诠释了文化内涵，更传递了情感的力量，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_000.png",
+      "title": "九寨沟",
+      "summary": "九寨沟五彩池碧蓝如宝石瀑布飞流直下如画",
+      "full_text": "九寨沟五彩池碧蓝如宝石瀑布飞流直下如画",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "nature_reserves_000_4",
         "nature_reserves_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_000_pixel.jpg"
     },
     {
       "id": "nature_reserves_001",
-      "title": "自然保护区 - 图片2",
-      "summary": "自然保护区相关图片",
-      "full_text": "文化是思想升华的结晶，它激励着人类的梦想，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_001.png",
+      "title": "神农架",
+      "summary": "神农架原始森林金丝猴在树冠间灵活跳跃",
+      "full_text": "神农架原始森林金丝猴在树冠间灵活跳跃",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "nature_reserves_001_4",
         "nature_reserves_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_001_pixel.jpg"
     },
     {
       "id": "nature_reserves_002",
-      "title": "自然保护区 - 图片3",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它清新地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_002.png",
+      "title": "武夷山",
+      "summary": "武夷山丹霞地貌九曲溪竹筏漂流两岸如画",
+      "full_text": "武夷山丹霞地貌九曲溪竹筏漂流两岸如画",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "nature_reserves_002_4",
         "nature_reserves_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_002_pixel.jpg"
     },
     {
       "id": "nature_reserves_003",
-      "title": "自然保护区 - 图片4",
-      "summary": "自然保护区相关图片",
-      "full_text": "在科学的领域里，自然奇观展现得淋漓尽致，每一个情感都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_003.png",
+      "title": "长白山",
+      "summary": "长白山天池火山口湖碧蓝深邃云雾缭绕",
+      "full_text": "长白山天池火山口湖碧蓝深邃云雾缭绕",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "nature_reserves_003_4",
         "nature_reserves_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_003_pixel.jpg"
     },
     {
       "id": "nature_reserves_004",
-      "title": "自然保护区 - 图片5",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它质朴地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_004.png",
+      "title": "可可西里",
+      "summary": "可可西里无人区藏羚羊在荒野中自由奔跑",
+      "full_text": "可可西里无人区藏羚羊在荒野中自由奔跑",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "nature_reserves_004_4",
         "nature_reserves_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_004_pixel.jpg"
     },
     {
       "id": "nature_reserves_005",
-      "title": "自然保护区 - 图片6",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美好家园的大门，充满了温馨与精神升华。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_005.png",
+      "title": "卧龙大熊猫",
+      "summary": "卧龙保护区大熊猫在竹林中憨态可掬地进食",
+      "full_text": "卧龙保护区大熊猫在竹林中憨态可掬地进食",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "nature_reserves_005_4",
         "nature_reserves_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_005_pixel.jpg"
     },
     {
       "id": "nature_reserves_006",
-      "title": "自然保护区 - 图片7",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美好家园的大门，充满了喜悦与思想启迪。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_006.png",
+      "title": "扎龙鹤乡",
+      "summary": "扎龙湿地丹顶鹤在芦苇荡中优雅地翩翩起舞",
+      "full_text": "扎龙湿地丹顶鹤在芦苇荡中优雅地翩翩起舞",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "nature_reserves_006_4",
         "nature_reserves_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_006_pixel.jpg"
     },
     {
       "id": "nature_reserves_007",
-      "title": "自然保护区 - 图片8",
-      "summary": "自然保护区相关图片",
-      "full_text": "科学是历史积淀的结晶，它展现着人文的关怀，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_007.png",
+      "title": "梵净山",
+      "summary": "梵净山蘑菇石奇峰突兀黔金丝猴栖息其间",
+      "full_text": "梵净山蘑菇石奇峰突兀黔金丝猴栖息其间",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "nature_reserves_007_4",
         "nature_reserves_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_007_pixel.jpg"
     },
     {
       "id": "nature_reserves_008",
-      "title": "自然保护区 - 图片9",
-      "summary": "自然保护区相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个自然元素都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_008.png",
+      "title": "鼎湖山",
+      "summary": "鼎湖山是中国第一个自然保护区南亚热带季风林",
+      "full_text": "鼎湖山是中国第一个自然保护区南亚热带季风林",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "nature_reserves_008_4",
         "nature_reserves_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_008_pixel.jpg"
     },
     {
       "id": "nature_reserves_009",
-      "title": "自然保护区 - 图片10",
-      "summary": "自然保护区相关图片",
-      "full_text": "在文化的领域里，科技进步展现得淋漓尽致，每一个自然元素都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_009.png",
+      "title": "锡林郭勒",
+      "summary": "锡林郭勒草原保护区典型草原生态系统保存完好",
+      "full_text": "锡林郭勒草原保护区典型草原生态系统保存完好",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "nature_reserves_009_4",
         "nature_reserves_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_009_pixel.jpg"
     },
     {
       "id": "nature_reserves_010",
-      "title": "自然保护区 - 图片11",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往神秘国度的大门，充满了宁静与心灵震撼。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_010.png",
+      "title": "博格达峰",
+      "summary": "博格达峰冰川与天池相映构成天山壮美画卷",
+      "full_text": "博格达峰冰川与天池相映构成天山壮美画卷",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "nature_reserves_010_4",
         "nature_reserves_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_010_pixel.jpg"
     },
     {
       "id": "nature_reserves_011",
-      "title": "自然保护区 - 图片12",
-      "summary": "自然保护区相关图片",
-      "full_text": "在科学的领域里，历史变迁展现得淋漓尽致，每一个自然元素都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_011.png",
+      "title": "黄山",
+      "summary": "黄山奇松怪石云海温泉四绝闻名天下如仙境",
+      "full_text": "黄山奇松怪石云海温泉四绝闻名天下如仙境",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "nature_reserves_011_4",
         "nature_reserves_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_011_pixel.jpg"
     },
     {
       "id": "nature_reserves_012",
-      "title": "自然保护区 - 图片13",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术是自然造化的结晶，它诠释着人类的梦想，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_012.png",
+      "title": "张家界",
+      "summary": "张家界砂岩峰林如利剑直刺云霄气势磅礴",
+      "full_text": "张家界砂岩峰林如利剑直刺云霄气势磅礴",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "nature_reserves_012_4",
         "nature_reserves_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_012_pixel.jpg"
     },
     {
       "id": "nature_reserves_013",
-      "title": "自然保护区 - 图片14",
-      "summary": "自然保护区相关图片",
-      "full_text": "文化是生活体验的结晶，它传递着美好的愿景，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_013.png",
+      "title": "三江源",
+      "summary": "三江源是长江黄河澜沧江的发源地生态关键",
+      "full_text": "三江源是长江黄河澜沧江的发源地生态关键",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "nature_reserves_013_4",
         "nature_reserves_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_013_pixel.jpg"
     },
     {
       "id": "nature_reserves_014",
-      "title": "自然保护区 - 图片15",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然是人类智慧的结晶，它展现着艺术的追求，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_014.png",
+      "title": "普达措",
+      "summary": "普达措高原湖泊碧蓝如镜牦牛漫步草甸之间",
+      "full_text": "普达措高原湖泊碧蓝如镜牦牛漫步草甸之间",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "nature_reserves_014_4",
         "nature_reserves_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_014_pixel.jpg"
     },
     {
       "id": "nature_reserves_015",
-      "title": "自然保护区 - 图片16",
-      "summary": "自然保护区相关图片",
-      "full_text": "在科学的领域里，科学发现展现得淋漓尽致，每一个色彩都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_015.png",
+      "title": "雅鲁藏布大峡谷",
+      "summary": "雅鲁藏布大峡谷保护区生物多样性极为丰富",
+      "full_text": "雅鲁藏布大峡谷保护区生物多样性极为丰富",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "nature_reserves_015_4",
         "nature_reserves_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_015_pixel.jpg"
     },
     {
       "id": "nature_reserves_016",
-      "title": "自然保护区 - 图片17",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术不仅创造了时代精神，更传递了生命的意义，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_016.png",
+      "title": "科莫多",
+      "summary": "科莫多岛是科莫多巨蜥的唯一自然栖息地",
+      "full_text": "科莫多岛是科莫多巨蜥的唯一自然栖息地",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "nature_reserves_016_4",
         "nature_reserves_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_016_pixel.jpg"
     },
     {
       "id": "nature_reserves_017",
-      "title": "自然保护区 - 图片18",
-      "summary": "自然保护区相关图片",
-      "full_text": "在文化的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_017.png",
+      "title": "下龙湾",
+      "summary": "下龙湾石灰岩岛屿星罗棋布如海上桂林",
+      "full_text": "下龙湾石灰岩岛屿星罗棋布如海上桂林",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "nature_reserves_017_4",
         "nature_reserves_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_017_pixel.jpg"
     },
     {
       "id": "nature_reserves_018",
-      "title": "自然保护区 - 图片19",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它生动地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_018.png",
+      "title": "屋久岛",
+      "summary": "屋久岛千年杉树苔藓覆盖如幽灵公主森林",
+      "full_text": "屋久岛千年杉树苔藓覆盖如幽灵公主森林",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "nature_reserves_018_4",
         "nature_reserves_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_018_pixel.jpg"
     },
     {
       "id": "nature_reserves_019",
-      "title": "自然保护区 - 图片20",
-      "summary": "自然保护区相关图片",
-      "full_text": "科学不仅展现了艺术真谛，更传递了奋斗的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_019.png",
+      "title": "孙德尔本斯",
+      "summary": "孙德尔本斯红树林是孟加拉虎的天然栖息地",
+      "full_text": "孙德尔本斯红树林是孟加拉虎的天然栖息地",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "nature_reserves_019_4",
         "nature_reserves_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_019_pixel.jpg"
     },
     {
       "id": "nature_reserves_020",
-      "title": "自然保护区 - 图片21",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术是审美追求的结晶，它展现着科学的精神，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_020.png",
+      "title": "塞伦盖蒂",
+      "summary": "塞伦盖蒂百万角马大迁徙渡河场面震撼人心",
+      "full_text": "塞伦盖蒂百万角马大迁徙渡河场面震撼人心",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "nature_reserves_020_4",
         "nature_reserves_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_020_pixel.jpg"
     },
     {
       "id": "nature_reserves_021",
-      "title": "自然保护区 - 图片22",
-      "summary": "自然保护区相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它优美地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_021.png",
+      "title": "马赛马拉",
+      "summary": "马赛马拉保护区猎豹在草原上高速追逐猎物",
+      "full_text": "马赛马拉保护区猎豹在草原上高速追逐猎物",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "nature_reserves_021_4",
         "nature_reserves_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_021_pixel.jpg"
     },
     {
       "id": "nature_reserves_022",
-      "title": "自然保护区 - 图片23",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它质朴地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_022.png",
+      "title": "克鲁格",
+      "summary": "克鲁格国家公园非洲五霸自由漫步广袤草原",
+      "full_text": "克鲁格国家公园非洲五霸自由漫步广袤草原",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "nature_reserves_022_4",
         "nature_reserves_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_022_pixel.jpg"
     },
     {
       "id": "nature_reserves_023",
-      "title": "自然保护区 - 图片24",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往历史长河的大门，充满了向往与知识启迪。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_023.png",
+      "title": "恩戈罗恩戈罗",
+      "summary": "恩戈罗恩戈罗火山口内形成独立生态系统如伊甸园",
+      "full_text": "恩戈罗恩戈罗火山口内形成独立生态系统如伊甸园",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "nature_reserves_023_4",
         "nature_reserves_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_023_pixel.jpg"
     },
     {
       "id": "nature_reserves_024",
-      "title": "自然保护区 - 图片25",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术不仅塑造了时代精神，更传递了创新的精神，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_024.png",
+      "title": "维龙加",
+      "summary": "维龙加山地大猩猩在雾中竹林里安静地进食",
+      "full_text": "维龙加山地大猩猩在雾中竹林里安静地进食",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "nature_reserves_024_4",
         "nature_reserves_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_024_pixel.jpg"
     },
     {
       "id": "nature_reserves_025",
-      "title": "自然保护区 - 图片26",
-      "summary": "自然保护区相关图片",
-      "full_text": "文化是文化传承的结晶，它激励着美好的愿景，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_025.png",
+      "title": "塞米恩",
+      "summary": "塞米恩山脉狮尾狒在悬崖边坐立如石雕",
+      "full_text": "塞米恩山脉狮尾狒在悬崖边坐立如石雕",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "nature_reserves_025_4",
         "nature_reserves_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_025_pixel.jpg"
     },
     {
       "id": "nature_reserves_026",
-      "title": "自然保护区 - 图片27",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往知识海洋的大门，充满了宁静与美好感受。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_026.png",
+      "title": "察沃",
+      "summary": "察沃国家公园红色大象在泥潭中打滚降温",
+      "full_text": "察沃国家公园红色大象在泥潭中打滚降温",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "nature_reserves_026_4",
         "nature_reserves_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_026_pixel.jpg"
     },
     {
       "id": "nature_reserves_027",
-      "title": "自然保护区 - 图片28",
-      "summary": "自然保护区相关图片",
-      "full_text": "科学不仅创造了艺术真谛，更传递了智慧的光芒，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_027.png",
+      "title": "安博塞利",
+      "summary": "安博塞利象群在乞力马扎罗雪山前缓缓行进",
+      "full_text": "安博塞利象群在乞力马扎罗雪山前缓缓行进",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "nature_reserves_027_4",
         "nature_reserves_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_027_pixel.jpg"
     },
     {
       "id": "nature_reserves_028",
-      "title": "自然保护区 - 图片29",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往精神家园的大门，充满了震撼与审美体验。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_028.png",
+      "title": "奥卡万戈",
+      "summary": "奥卡万戈三角洲洪水涌入卡拉哈里沙漠形成绿洲",
+      "full_text": "奥卡万戈三角洲洪水涌入卡拉哈里沙漠形成绿洲",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "nature_reserves_028_4",
         "nature_reserves_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_028_pixel.jpg"
     },
     {
       "id": "nature_reserves_029",
-      "title": "自然保护区 - 图片30",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往历史长河的大门，充满了好奇与美好感受。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_029.png",
+      "title": "纳米布诺克路福",
+      "summary": "纳米布沙漠中剑羚在红色沙丘间优雅地行走",
+      "full_text": "纳米布沙漠中剑羚在红色沙丘间优雅地行走",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "nature_reserves_029_4",
         "nature_reserves_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_029_pixel.jpg"
     },
     {
       "id": "nature_reserves_030",
-      "title": "自然保护区 - 图片31",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然是人类智慧的结晶，它引领着社会的进步，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_030.png",
+      "title": "马纳普尔斯",
+      "summary": "马纳普尔斯保护区大象在赞比西河岸觅食",
+      "full_text": "马纳普尔斯保护区大象在赞比西河岸觅食",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "nature_reserves_030_4",
         "nature_reserves_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_030_pixel.jpg"
     },
     {
       "id": "nature_reserves_031",
-      "title": "自然保护区 - 图片32",
-      "summary": "自然保护区相关图片",
-      "full_text": "在科学的领域里，科学发现展现得淋漓尽致，每一个线条都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_031.png",
+      "title": "乞力马扎罗",
+      "summary": "乞力马扎罗国家公园从热带到冰川垂直带谱完整",
+      "full_text": "乞力马扎罗国家公园从热带到冰川垂直带谱完整",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "nature_reserves_031_4",
         "nature_reserves_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_031_pixel.jpg"
     },
     {
       "id": "nature_reserves_032",
-      "title": "自然保护区 - 图片33",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术不仅诠释了生活哲理，更传递了美的真谛，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_032.png",
+      "title": "鲁阿哈",
+      "summary": "鲁阿哈国家公园非洲野犬群协作围捕猎物",
+      "full_text": "鲁阿哈国家公园非洲野犬群协作围捕猎物",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "nature_reserves_032_4",
         "nature_reserves_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_032_pixel.jpg"
     },
     {
       "id": "nature_reserves_033",
-      "title": "自然保护区 - 图片34",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了惊叹与知识启迪。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_033.png",
+      "title": "塞隆盖拉",
+      "summary": "塞隆盖拉湿地中河马群在水中露出眼睛和鼻孔",
+      "full_text": "塞隆盖拉湿地中河马群在水中露出眼睛和鼻孔",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "nature_reserves_033_4",
         "nature_reserves_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_033_pixel.jpg"
     },
     {
       "id": "nature_reserves_034",
-      "title": "自然保护区 - 图片35",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往神秘国度的大门，充满了震撼与精神升华。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_034.png",
+      "title": "马达加斯加雨林",
+      "summary": "马达加斯加雨林中狐猴在树间跳跃如杂技演员",
+      "full_text": "马达加斯加雨林中狐猴在树间跳跃如杂技演员",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "nature_reserves_034_4",
         "nature_reserves_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_034_pixel.jpg"
     },
     {
       "id": "nature_reserves_035",
-      "title": "自然保护区 - 图片36",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往美好家园的大门，充满了温馨与精神升华。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_035.png",
+      "title": "阿尔达布拉",
+      "summary": "阿尔达布拉环礁上巨龟缓慢爬行如远古遗民",
+      "full_text": "阿尔达布拉环礁上巨龟缓慢爬行如远古遗民",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "nature_reserves_035_4",
         "nature_reserves_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_035_pixel.jpg"
     },
     {
       "id": "nature_reserves_036",
-      "title": "自然保护区 - 图片37",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它绚丽地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_036.png",
+      "title": "达喀尔湿地",
+      "summary": "达喀尔湿地火烈鸟成群在浅水中滤食如粉色云霞",
+      "full_text": "达喀尔湿地火烈鸟成群在浅水中滤食如粉色云霞",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "nature_reserves_036_4",
         "nature_reserves_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_036_pixel.jpg"
     },
     {
       "id": "nature_reserves_037",
-      "title": "自然保护区 - 图片38",
-      "summary": "自然保护区相关图片",
-      "full_text": "文化是历史积淀的结晶，它诠释着人文的关怀，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_037.png",
+      "title": "撒哈拉岩画区",
+      "summary": "塔西利纳杰尔岩画记录撒哈拉从绿洲到沙漠的变迁",
+      "full_text": "塔西利纳杰尔岩画记录撒哈拉从绿洲到沙漠的变迁",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "nature_reserves_037_4",
         "nature_reserves_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_037_pixel.jpg"
     },
     {
       "id": "nature_reserves_038",
-      "title": "自然保护区 - 图片39",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然是人类智慧的结晶，它诠释着人文的关怀，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_038.png",
+      "title": "阿哈加尔",
+      "summary": "阿哈加尔山脉花岗岩针峰如黑手矗立沙漠中",
+      "full_text": "阿哈加尔山脉花岗岩针峰如黑手矗立沙漠中",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "nature_reserves_038_4",
         "nature_reserves_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_038_pixel.jpg"
     },
     {
       "id": "nature_reserves_039",
-      "title": "自然保护区 - 图片40",
-      "summary": "自然保护区相关图片",
-      "full_text": "在科学的领域里，人类智慧展现得淋漓尽致，每一个历史印记都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_039.png",
+      "title": "辛巴威保护区",
+      "summary": "津巴布韦保护区中非洲水牛群在草原上移动",
+      "full_text": "津巴布韦保护区中非洲水牛群在草原上移动",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "nature_reserves_039_4",
         "nature_reserves_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_039_pixel.jpg"
     },
     {
       "id": "nature_reserves_040",
-      "title": "自然保护区 - 图片41",
-      "summary": "自然保护区相关图片",
-      "full_text": "在艺术的领域里，历史变迁展现得淋漓尽致，每一个色彩都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_040.png",
+      "title": "黄石",
+      "summary": "黄石公园大棱镜温泉色彩斑斓如巨眼凝视大地",
+      "full_text": "黄石公园大棱镜温泉色彩斑斓如巨眼凝视大地",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "nature_reserves_040_4",
         "nature_reserves_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_040_pixel.jpg"
     },
     {
       "id": "nature_reserves_041",
-      "title": "自然保护区 - 图片42",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往知识海洋的大门，充满了怀念与审美体验。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_041.png",
+      "title": "大峡谷",
+      "summary": "大峡谷层层岩壁如地球地质历史的壮丽书页",
+      "full_text": "大峡谷层层岩壁如地球地质历史的壮丽书页",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "nature_reserves_041_4",
         "nature_reserves_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_041_pixel.jpg"
     },
     {
       "id": "nature_reserves_042",
-      "title": "自然保护区 - 图片43",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然是生活体验的结晶，它启迪着生活的智慧，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_042.png",
+      "title": "优胜美地",
+      "summary": "优胜美地半圆丘花岗岩巨壁在夕阳下金光闪耀",
+      "full_text": "优胜美地半圆丘花岗岩巨壁在夕阳下金光闪耀",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "nature_reserves_042_4",
         "nature_reserves_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_042_pixel.jpg"
     },
     {
       "id": "nature_reserves_043",
-      "title": "自然保护区 - 图片44",
-      "summary": "自然保护区相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它壮观地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_043.png",
+      "title": "冰川国家公园",
+      "summary": "冰川国家公园雪山冰川倒映在碧蓝山间湖泊中",
+      "full_text": "冰川国家公园雪山冰川倒映在碧蓝山间湖泊中",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "nature_reserves_043_4",
         "nature_reserves_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_043_pixel.jpg"
     },
     {
       "id": "nature_reserves_044",
-      "title": "自然保护区 - 图片45",
-      "summary": "自然保护区相关图片",
-      "full_text": "在艺术的领域里，人类智慧展现得淋漓尽致，每一个情感都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_044.png",
+      "title": "大沼泽地",
+      "summary": "大沼泽地中短吻鳄潜伏水面白鹭栖息红树林",
+      "full_text": "大沼泽地中短吻鳄潜伏水面白鹭栖息红树林",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "nature_reserves_044_4",
         "nature_reserves_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_044_pixel.jpg"
     },
     {
       "id": "nature_reserves_045",
-      "title": "自然保护区 - 图片46",
-      "summary": "自然保护区相关图片",
-      "full_text": "文化是情感表达的结晶，它引领着深刻的思考，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_045.png",
+      "title": "加拉帕戈斯",
+      "summary": "加拉帕戈斯巨龟在火山岩上缓慢爬行如活化石",
+      "full_text": "加拉帕戈斯巨龟在火山岩上缓慢爬行如活化石",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "nature_reserves_045_4",
         "nature_reserves_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_045_pixel.jpg"
     },
     {
       "id": "nature_reserves_046",
-      "title": "自然保护区 - 图片47",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然不仅创造了生活哲理，更传递了奋斗的意义，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_046.png",
+      "title": "亚马逊保护区",
+      "summary": "亚马逊保护区金刚鹦鹉在雨林树冠上色彩斑斓",
+      "full_text": "亚马逊保护区金刚鹦鹉在雨林树冠上色彩斑斓",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "nature_reserves_046_4",
         "nature_reserves_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_046_pixel.jpg"
     },
     {
       "id": "nature_reserves_047",
-      "title": "自然保护区 - 图片48",
-      "summary": "自然保护区相关图片",
-      "full_text": "科学是历史积淀的结晶，它传递着人文的关怀，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_047.png",
+      "title": "伊瓜苏",
+      "summary": "伊瓜苏瀑布群如水帘般倾泻雨林环绕壮观",
+      "full_text": "伊瓜苏瀑布群如水帘般倾泻雨林环绕壮观",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "nature_reserves_047_4",
         "nature_reserves_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_047_pixel.jpg"
     },
     {
       "id": "nature_reserves_048",
-      "title": "自然保护区 - 图片49",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术不仅传递了艺术真谛，更传递了创新的精神，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_048.png",
+      "title": "潘塔纳尔",
+      "summary": "潘塔纳尔湿地水豚群在水中嬉戏美洲豹潜伏岸边",
+      "full_text": "潘塔纳尔湿地水豚群在水中嬉戏美洲豹潜伏岸边",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "nature_reserves_048_4",
         "nature_reserves_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_048_pixel.jpg"
     },
     {
       "id": "nature_reserves_049",
-      "title": "自然保护区 - 图片50",
-      "summary": "自然保护区相关图片",
-      "full_text": "文化不仅诠释了美好瞬间，更传递了生命的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_049.png",
+      "title": "科科岛",
+      "summary": "科科岛周围锤头鲨群在深蓝海水中环绕游弋",
+      "full_text": "科科岛周围锤头鲨群在深蓝海水中环绕游弋",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "nature_reserves_049_4",
         "nature_reserves_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_049_pixel.jpg"
     },
     {
       "id": "nature_reserves_050",
-      "title": "自然保护区 - 图片51",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它灵动地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_050.png",
+      "title": "卡奈马",
+      "summary": "卡奈马平顶山上安赫尔瀑布从云端直落而下",
+      "full_text": "卡奈马平顶山上安赫尔瀑布从云端直落而下",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "nature_reserves_050_4",
         "nature_reserves_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_050_pixel.jpg"
     },
     {
       "id": "nature_reserves_051",
-      "title": "自然保护区 - 图片52",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往智慧天地的大门，充满了惊叹与艺术熏陶。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_051.png",
+      "title": "纳斯卡",
+      "summary": "纳斯卡线条从空中俯瞰巨大地画神秘莫测",
+      "full_text": "纳斯卡线条从空中俯瞰巨大地画神秘莫测",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "nature_reserves_051_4",
         "nature_reserves_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_051_pixel.jpg"
     },
     {
       "id": "nature_reserves_052",
-      "title": "自然保护区 - 图片53",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术是人类智慧的结晶，它创造着创新的理念，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_052.png",
+      "title": "马努",
+      "summary": "马努保护区从安第斯到亚马逊生物多样性极丰富",
+      "full_text": "马努保护区从安第斯到亚马逊生物多样性极丰富",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "nature_reserves_052_4",
         "nature_reserves_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_052_pixel.jpg"
     },
     {
       "id": "nature_reserves_053",
-      "title": "自然保护区 - 图片54",
-      "summary": "自然保护区相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了沉醉与美好感受。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_053.png",
+      "title": "百内国家公园",
+      "summary": "百内三塔花岗岩尖峰在巴塔哥尼亚风中矗立",
+      "full_text": "百内三塔花岗岩尖峰在巴塔哥尼亚风中矗立",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "nature_reserves_053_4",
         "nature_reserves_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_053_pixel.jpg"
     },
     {
       "id": "nature_reserves_054",
-      "title": "自然保护区 - 图片55",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它绚丽地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_054.png",
+      "title": "托雷斯德尔潘恩",
+      "summary": "托雷斯德尔潘恩冰川崩裂入湖溅起巨浪轰鸣",
+      "full_text": "托雷斯德尔潘恩冰川崩裂入湖溅起巨浪轰鸣",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "nature_reserves_054_4",
         "nature_reserves_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_054_pixel.jpg"
     },
     {
       "id": "nature_reserves_055",
-      "title": "自然保护区 - 图片56",
-      "summary": "自然保护区相关图片",
-      "full_text": "科学是艺术创造的结晶，它激励着科学的精神，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_055.png",
+      "title": "纳汉尼",
+      "summary": "纳汉尼国家公园弗吉尼亚瀑布水帘从高处倾泻",
+      "full_text": "纳汉尼国家公园弗吉尼亚瀑布水帘从高处倾泻",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "nature_reserves_055_4",
         "nature_reserves_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_055_pixel.jpg"
     },
     {
       "id": "nature_reserves_056",
-      "title": "自然保护区 - 图片57",
-      "summary": "自然保护区相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它优美地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_056.png",
+      "title": "伍德布法罗",
+      "summary": "伍德布法罗是北美最大的国家公园野牛群漫步",
+      "full_text": "伍德布法罗是北美最大的国家公园野牛群漫步",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "nature_reserves_056_4",
         "nature_reserves_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_056_pixel.jpg"
     },
     {
       "id": "nature_reserves_057",
-      "title": "自然保护区 - 图片58",
-      "summary": "自然保护区相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它庄重地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_057.png",
+      "title": "班夫",
+      "summary": "班夫国家公园路易斯湖碧蓝如翡翠倒映雪山",
+      "full_text": "班夫国家公园路易斯湖碧蓝如翡翠倒映雪山",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "nature_reserves_057_4",
         "nature_reserves_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_057_pixel.jpg"
     },
     {
       "id": "nature_reserves_058",
-      "title": "自然保护区 - 图片59",
-      "summary": "自然保护区相关图片",
-      "full_text": "自然不仅塑造了时代精神，更传递了人与自然的和谐，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_058.png",
+      "title": "贾斯珀",
+      "summary": "贾斯珀国家公园哥伦比亚冰原壮阔辽远",
+      "full_text": "贾斯珀国家公园哥伦比亚冰原壮阔辽远",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "nature_reserves_058_4",
         "nature_reserves_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_058_pixel.jpg"
     },
     {
       "id": "nature_reserves_059",
-      "title": "自然保护区 - 图片60",
-      "summary": "自然保护区相关图片",
-      "full_text": "科学是思想升华的结晶，它引领着人文的关怀，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_059.png",
+      "title": "沃特顿湖",
+      "summary": "沃特顿湖国际和平公园横跨美加两国如画",
+      "full_text": "沃特顿湖国际和平公园横跨美加两国如画",
+      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,7 +1258,8 @@
         "nature_reserves_059_4",
         "nature_reserves_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_059_pixel.jpg"
     }
   ]
 }

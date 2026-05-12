@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "insects_000",
-      "title": "昆虫 - 图片1",
-      "summary": "昆虫相关图片",
-      "full_text": "蝴蝶虽然体型微小，但作用非凡，在生态系统中扮演着重要角色。",
-      "image": "res://assets/images/illustrations/insects/insects_000.png",
+      "title": "帝王蝶",
+      "summary": "帝王蝶从加拿大迁徙至墨西哥如橙色风暴如潮",
+      "full_text": "帝王蝶从加拿大迁徙至墨西哥如橙色风暴如潮",
+      "image": "res://assets/images/illustrations/insects/insects_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "insects_000_4",
         "insects_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_000_pixel.jpg"
     },
     {
       "id": "insects_001",
-      "title": "昆虫 - 图片2",
-      "summary": "昆虫相关图片",
-      "full_text": "蜜蜂辛勤劳作，修长的触角，在翠绿的草地中悠闲地生活。",
-      "image": "res://assets/images/illustrations/insects/insects_001.png",
+      "title": "蓝闪蝶",
+      "summary": "蓝闪蝶翅膀金属蓝色如蓝宝石在雨林中如飞钻",
+      "full_text": "蓝闪蝶翅膀金属蓝色如蓝宝石在雨林中如飞钻",
+      "image": "res://assets/images/illustrations/insects/insects_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "insects_001_4",
         "insects_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_001_pixel.jpg"
     },
     {
       "id": "insects_002",
-      "title": "昆虫 - 图片3",
-      "summary": "昆虫相关图片",
-      "full_text": "蜻蜓轻盈飞舞，独特的外形，在阴暗的角落中辛勤地觅食。",
-      "image": "res://assets/images/illustrations/insects/insects_002.png",
+      "title": "凤蝶",
+      "summary": "凤蝶后翅尾突如凤尾在花丛中如黑色丝绸",
+      "full_text": "凤蝶后翅尾突如凤尾在花丛中如黑色丝绸",
+      "image": "res://assets/images/illustrations/insects/insects_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "insects_002_4",
         "insects_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_002_pixel.jpg"
     },
     {
       "id": "insects_003",
-      "title": "昆虫 - 图片4",
-      "summary": "昆虫相关图片",
-      "full_text": "甲虫缓慢爬行，精巧的身体，在潮湿的土壤中快乐地飞舞。",
-      "image": "res://assets/images/illustrations/insects/insects_003.png",
+      "title": "粉蝶",
+      "summary": "粉蝶白色翅膀如花瓣在油菜花田中如雪如花",
+      "full_text": "粉蝶白色翅膀如花瓣在油菜花田中如雪如花",
+      "image": "res://assets/images/illustrations/insects/insects_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "insects_003_4",
         "insects_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_003_pixel.jpg"
     },
     {
       "id": "insects_004",
-      "title": "昆虫 - 图片5",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蝉，小巧可爱，巧妙伪装，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_004.png",
+      "title": "蛱蝶",
+      "summary": "蛱蝶翅缘如锯齿花斑如画在林间如飞花如画",
+      "full_text": "蛱蝶翅缘如锯齿花斑如画在林间如飞花如画",
+      "image": "res://assets/images/illustrations/insects/insects_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "insects_004_4",
         "insects_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_004_pixel.jpg"
     },
     {
       "id": "insects_005",
-      "title": "昆虫 - 图片6",
-      "summary": "昆虫相关图片",
-      "full_text": "螳螂在花园里里采集花蜜，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_005.png",
+      "title": "斑蝶",
+      "summary": "斑蝶橙黑花纹如虎纹有毒警戒色如警告如旗",
+      "full_text": "斑蝶橙黑花纹如虎纹有毒警戒色如警告如旗",
+      "image": "res://assets/images/illustrations/insects/insects_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "insects_005_4",
         "insects_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_005_pixel.jpg"
     },
     {
       "id": "insects_006",
-      "title": "昆虫 - 图片7",
-      "summary": "昆虫相关图片",
-      "full_text": "萤火虫在树林中里建造巢穴，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_006.png",
+      "title": "环蝶",
+      "summary": "环蝶翅上眼斑如猫头鹰眼在雨林如假眼如盾",
+      "full_text": "环蝶翅上眼斑如猫头鹰眼在雨林如假眼如盾",
+      "image": "res://assets/images/illustrations/insects/insects_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "insects_006_4",
         "insects_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_006_pixel.jpg"
     },
     {
       "id": "insects_007",
-      "title": "昆虫 - 图片8",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蚂蚁有着伪装技巧，形态各异，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_007.png",
+      "title": "灰蝶",
+      "summary": "灰蝶小巧如指甲翅面如金属光泽如小精灵",
+      "full_text": "灰蝶小巧如指甲翅面如金属光泽如小精灵",
+      "image": "res://assets/images/illustrations/insects/insects_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "insects_007_4",
         "insects_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_007_pixel.jpg"
     },
     {
       "id": "insects_008",
-      "title": "昆虫 - 图片9",
-      "summary": "昆虫相关图片",
-      "full_text": "蜘蛛虽然身形玲珑，但意义重大，在生态系统中扮演着重要角色。",
-      "image": "res://assets/images/illustrations/insects/insects_008.png",
+      "title": "弄蝶",
+      "summary": "弄蝶如小飞机在花间快速穿梭如迷你战斗机",
+      "full_text": "弄蝶如小飞机在花间快速穿梭如迷你战斗机",
+      "image": "res://assets/images/illustrations/insects/insects_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "insects_008_4",
         "insects_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_008_pixel.jpg"
     },
     {
       "id": "insects_009",
-      "title": "昆虫 - 图片10",
-      "summary": "昆虫相关图片",
-      "full_text": "蟋蟀在土壤里里探索世界，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_009.png",
+      "title": "天蛾",
+      "summary": "天蛾如蜂鸟悬停吸蜜如夜间蜂鸟如幽灵如风",
+      "full_text": "天蛾如蜂鸟悬停吸蜜如夜间蜂鸟如幽灵如风",
+      "image": "res://assets/images/illustrations/insects/insects_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "insects_009_4",
         "insects_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_009_pixel.jpg"
     },
     {
       "id": "insects_010",
-      "title": "昆虫 - 图片11",
-      "summary": "昆虫相关图片",
-      "full_text": "看那瓢虫，美丽动人，勤劳工作，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_010.png",
+      "title": "蚕蛾",
+      "summary": "蚕蛾如白色丝绸从蚕茧中羽化如丝如雪如仙",
+      "full_text": "蚕蛾如白色丝绸从蚕茧中羽化如丝如雪如仙",
+      "image": "res://assets/images/illustrations/insects/insects_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "insects_010_4",
         "insects_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_010_pixel.jpg"
     },
     {
       "id": "insects_011",
-      "title": "昆虫 - 图片12",
-      "summary": "昆虫相关图片",
-      "full_text": "蚊子辛勤劳作，修长的触角，在翠绿的草地中悠闲地生活。",
-      "image": "res://assets/images/illustrations/insects/insects_011.png",
+      "title": "月蛾",
+      "summary": "月蛾淡绿色翅膀如月光如仙如月夜精灵如绿",
+      "full_text": "月蛾淡绿色翅膀如月光如仙如月夜精灵如绿",
+      "image": "res://assets/images/illustrations/insects/insects_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "insects_011_4",
         "insects_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_011_pixel.jpg"
     },
     {
       "id": "insects_012",
-      "title": "昆虫 - 图片13",
-      "summary": "昆虫相关图片",
-      "full_text": "苍蝇在草地上里寻找食物，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_012.png",
+      "title": "枯叶蛾",
+      "summary": "枯叶蛾翅膀如枯叶在林中如隐形如落叶如影",
+      "full_text": "枯叶蛾翅膀如枯叶在林中如隐形如落叶如影",
+      "image": "res://assets/images/illustrations/insects/insects_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "insects_012_4",
         "insects_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_012_pixel.jpg"
     },
     {
       "id": "insects_013",
-      "title": "昆虫 - 图片14",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蟑螂，形态优雅，精心筑巢，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_013.png",
+      "title": "灯蛾",
+      "summary": "灯蛾如飞蛾扑火鲜艳警告色如信号灯如旗",
+      "full_text": "灯蛾如飞蛾扑火鲜艳警告色如信号灯如旗",
+      "image": "res://assets/images/illustrations/insects/insects_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "insects_013_4",
         "insects_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_013_pixel.jpg"
     },
     {
       "id": "insects_014",
-      "title": "昆虫 - 图片15",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蜈蚣，小巧可爱，巧妙伪装，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_014.png",
+      "title": "尺蛾",
+      "summary": "尺蛾幼虫如尺量步翅如枯叶如隐形如影如叶",
+      "full_text": "尺蛾幼虫如尺量步翅如枯叶如隐形如影如叶",
+      "image": "res://assets/images/illustrations/insects/insects_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "insects_014_4",
         "insects_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_014_pixel.jpg"
     },
     {
       "id": "insects_015",
-      "title": "昆虫 - 图片16",
-      "summary": "昆虫相关图片",
-      "full_text": "蝎子在花园里里采集花蜜，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_015.png",
+      "title": "夜蛾",
+      "summary": "夜蛾在月光下飞舞如暗夜精灵如影如墨如风",
+      "full_text": "夜蛾在月光下飞舞如暗夜精灵如影如墨如风",
+      "image": "res://assets/images/illustrations/insects/insects_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "insects_015_4",
         "insects_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_015_pixel.jpg"
     },
     {
       "id": "insects_016",
-      "title": "昆虫 - 图片17",
-      "summary": "昆虫相关图片",
-      "full_text": "蚯蚓在树林中里建造巢穴，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_016.png",
+      "title": "天蚕蛾",
+      "summary": "天蚕蛾巨大如手掌眼斑如猫头鹰如巨眼如盾",
+      "full_text": "天蚕蛾巨大如手掌眼斑如猫头鹰如巨眼如盾",
+      "image": "res://assets/images/illustrations/insects/insects_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "insects_016_4",
         "insects_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_016_pixel.jpg"
     },
     {
       "id": "insects_017",
-      "title": "昆虫 - 图片18",
-      "summary": "昆虫相关图片",
-      "full_text": "蜗牛虽然个头小巧，但至关重要，在生态系统中扮演着重要角色。",
-      "image": "res://assets/images/illustrations/insects/insects_017.png",
+      "title": "大蚕蛾",
+      "summary": "大蚕蛾翅展如扇如画如丝如仙如彩虹如花",
+      "full_text": "大蚕蛾翅展如扇如画如丝如仙如彩虹如花",
+      "image": "res://assets/images/illustrations/insects/insects_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "insects_017_4",
         "insects_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_017_pixel.jpg"
     },
     {
       "id": "insects_018",
-      "title": "昆虫 - 图片19",
-      "summary": "昆虫相关图片",
-      "full_text": "毛毛虫在池塘边里抚育后代，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_018.png",
+      "title": "毒蛾",
+      "summary": "毒蛾幼虫毒毛如针触碰如火烧如红色警告如刺",
+      "full_text": "毒蛾幼虫毒毛如针触碰如火烧如红色警告如刺",
+      "image": "res://assets/images/illustrations/insects/insects_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "insects_018_4",
         "insects_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_018_pixel.jpg"
     },
     {
       "id": "insects_019",
-      "title": "昆虫 - 图片20",
-      "summary": "昆虫相关图片",
-      "full_text": "蚱蜢快速奔跑，闪亮的外壳，在温暖的阳光下中安静地休息。",
-      "image": "res://assets/images/illustrations/insects/insects_019.png",
+      "title": "刺蛾",
+      "summary": "刺蛾幼虫如彩色仙人掌毒刺如针如刺猬如刺",
+      "full_text": "刺蛾幼虫如彩色仙人掌毒刺如针如刺猬如刺",
+      "image": "res://assets/images/illustrations/insects/insects_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "insects_019_4",
         "insects_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_019_pixel.jpg"
     },
     {
       "id": "insects_020",
-      "title": "昆虫 - 图片21",
-      "summary": "昆虫相关图片",
-      "full_text": "蝴蝶虽然体型微小，但作用非凡，在生态系统中扮演着重要角色。",
-      "image": "res://assets/images/illustrations/insects/insects_020.png",
+      "title": "独角仙",
+      "summary": "独角仙头顶独角如战车在夏季树林如坦克如角",
+      "full_text": "独角仙头顶独角如战车在夏季树林如坦克如角",
+      "image": "res://assets/images/illustrations/insects/insects_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "insects_020_4",
         "insects_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_020_pixel.jpg"
     },
     {
       "id": "insects_021",
-      "title": "昆虫 - 图片22",
-      "summary": "昆虫相关图片",
-      "full_text": "蜜蜂在树林中里建造巢穴，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_021.png",
+      "title": "萤火虫",
+      "summary": "萤火虫在夏夜如星星点点如银河如灯如梦如幻",
+      "full_text": "萤火虫在夏夜如星星点点如银河如灯如梦如幻",
+      "image": "res://assets/images/illustrations/insects/insects_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "insects_021_4",
         "insects_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_021_pixel.jpg"
     },
     {
       "id": "insects_022",
-      "title": "昆虫 - 图片23",
-      "summary": "昆虫相关图片",
-      "full_text": "蜻蜓在草地上里寻找食物，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_022.png",
+      "title": "瓢虫",
+      "summary": "瓢虫红色鞘翅黑点如波尔卡圆点如红宝石如珠",
+      "full_text": "瓢虫红色鞘翅黑点如波尔卡圆点如红宝石如珠",
+      "image": "res://assets/images/illustrations/insects/insects_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "insects_022_4",
         "insects_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_022_pixel.jpg"
     },
     {
       "id": "insects_023",
-      "title": "昆虫 - 图片24",
-      "summary": "昆虫相关图片",
-      "full_text": "甲虫缓慢爬行，精巧的身体，在潮湿的土壤中快乐地飞舞。",
-      "image": "res://assets/images/illustrations/insects/insects_023.png",
+      "title": "锹甲",
+      "summary": "锹甲大颚如鹿角在树干上如角斗士如武士如角",
+      "full_text": "锹甲大颚如鹿角在树干上如角斗士如武士如角",
+      "image": "res://assets/images/illustrations/insects/insects_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "insects_023_4",
         "insects_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_023_pixel.jpg"
     },
     {
       "id": "insects_024",
-      "title": "昆虫 - 图片25",
-      "summary": "昆虫相关图片",
-      "full_text": "蝉在土壤里里探索世界，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_024.png",
+      "title": "金龟子",
+      "summary": "金龟子金属光泽如珠宝在花间如绿色宝石如钻",
+      "full_text": "金龟子金属光泽如珠宝在花间如绿色宝石如钻",
+      "image": "res://assets/images/illustrations/insects/insects_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "insects_024_4",
         "insects_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_024_pixel.jpg"
     },
     {
       "id": "insects_025",
-      "title": "昆虫 - 图片26",
-      "summary": "昆虫相关图片",
-      "full_text": "螳螂在花园里里采集花蜜，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_025.png",
+      "title": "天牛",
+      "summary": "天牛触角如长鞭在树干上如木匠如锯如钻如工",
+      "full_text": "天牛触角如长鞭在树干上如木匠如锯如钻如工",
+      "image": "res://assets/images/illustrations/insects/insects_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "insects_025_4",
         "insects_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_025_pixel.jpg"
     },
     {
       "id": "insects_026",
-      "title": "昆虫 - 图片27",
-      "summary": "昆虫相关图片",
-      "full_text": "看那萤火虫，奇特怪异，悠闲漫步，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_026.png",
+      "title": "象甲",
+      "summary": "象甲长吻如象鼻在种子上如小象如管如鼻如针",
+      "full_text": "象甲长吻如象鼻在种子上如小象如管如鼻如针",
+      "image": "res://assets/images/illustrations/insects/insects_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "insects_026_4",
         "insects_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_026_pixel.jpg"
     },
     {
       "id": "insects_027",
-      "title": "昆虫 - 图片28",
-      "summary": "昆虫相关图片",
-      "full_text": "蚂蚁在草地上里寻找食物，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_027.png",
+      "title": "叶甲",
+      "summary": "叶甲如金属光泽如珠宝在叶片上如金色宝石如钻",
+      "full_text": "叶甲如金属光泽如珠宝在叶片上如金色宝石如钻",
+      "image": "res://assets/images/illustrations/insects/insects_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "insects_027_4",
         "insects_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_027_pixel.jpg"
     },
     {
       "id": "insects_028",
-      "title": "昆虫 - 图片29",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蜘蛛有着繁殖能力，聪明勤劳，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_028.png",
+      "title": "龙虱",
+      "summary": "龙虱在水中如鱼雷如潜艇如水中猎手如箭如电",
+      "full_text": "龙虱在水中如鱼雷如潜艇如水中猎手如箭如电",
+      "image": "res://assets/images/illustrations/insects/insects_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "insects_028_4",
         "insects_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_028_pixel.jpg"
     },
     {
       "id": "insects_029",
-      "title": "昆虫 - 图片30",
-      "summary": "昆虫相关图片",
-      "full_text": "蟋蟀虽然体态轻盈，但影响深远，在生态系统中扮演着重要角色。",
-      "image": "res://assets/images/illustrations/insects/insects_029.png",
+      "title": "步甲",
+      "summary": "步甲如地面猎手在落叶层如黑色闪电如猎如电",
+      "full_text": "步甲如地面猎手在落叶层如黑色闪电如猎如电",
+      "image": "res://assets/images/illustrations/insects/insects_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "insects_029_4",
         "insects_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_029_pixel.jpg"
     },
     {
       "id": "insects_030",
-      "title": "昆虫 - 图片31",
-      "summary": "昆虫相关图片",
-      "full_text": "瓢虫虽然体型微小，但作用非凡，在生态系统中扮演着重要角色。",
-      "image": "res://assets/images/illustrations/insects/insects_030.png",
+      "title": "虎甲",
+      "summary": "虎甲如地面猎豹奔跑如飞如铜色闪电如猎如风",
+      "full_text": "虎甲如地面猎豹奔跑如飞如铜色闪电如猎如风",
+      "image": "res://assets/images/illustrations/insects/insects_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "insects_030_4",
         "insects_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_030_pixel.jpg"
     },
     {
       "id": "insects_031",
-      "title": "昆虫 - 图片32",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蚊子有着搬运能力，色彩斑斓，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_031.png",
+      "title": "葬甲",
+      "summary": "葬甲如殡葬师埋葬动物尸体如黑衣如暗如夜",
+      "full_text": "葬甲如殡葬师埋葬动物尸体如黑衣如暗如夜",
+      "image": "res://assets/images/illustrations/insects/insects_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "insects_031_4",
         "insects_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_031_pixel.jpg"
     },
     {
       "id": "insects_032",
-      "title": "昆虫 - 图片33",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的苍蝇有着伪装技巧，形态各异，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_032.png",
+      "title": "叩头甲",
+      "summary": "叩头甲如弹跳翻身后弹如杂技演员如弹如跳",
+      "full_text": "叩头甲如弹跳翻身后弹如杂技演员如弹如跳",
+      "image": "res://assets/images/illustrations/insects/insects_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "insects_032_4",
         "insects_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_032_pixel.jpg"
     },
     {
       "id": "insects_033",
-      "title": "昆虫 - 图片34",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蟑螂有着繁殖能力，聪明勤劳，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_033.png",
+      "title": "吉丁虫",
+      "summary": "吉丁虫如珠宝金属光泽如彩虹如钻如宝石如珠",
+      "full_text": "吉丁虫如珠宝金属光泽如彩虹如钻如宝石如珠",
+      "image": "res://assets/images/illustrations/insects/insects_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "insects_033_4",
         "insects_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_033_pixel.jpg"
     },
     {
       "id": "insects_034",
-      "title": "昆虫 - 图片35",
-      "summary": "昆虫相关图片",
-      "full_text": "蜈蚣虽然体态轻盈，但影响深远，在生态系统中扮演着重要角色。",
-      "image": "res://assets/images/illustrations/insects/insects_034.png",
+      "title": "花金龟",
+      "summary": "花金龟如花间珠宝在花朵上如金色宝石如钻",
+      "full_text": "花金龟如花间珠宝在花朵上如金色宝石如钻",
+      "image": "res://assets/images/illustrations/insects/insects_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "insects_034_4",
         "insects_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_034_pixel.jpg"
     },
     {
       "id": "insects_035",
-      "title": "昆虫 - 图片36",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蝎子，美丽动人，勤劳工作，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_035.png",
+      "title": "犀金龟",
+      "summary": "犀金龟头角如犀牛如战车如坦克如角如盾",
+      "full_text": "犀金龟头角如犀牛如战车如坦克如角如盾",
+      "image": "res://assets/images/illustrations/insects/insects_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "insects_035_4",
         "insects_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_035_pixel.jpg"
     },
     {
       "id": "insects_036",
-      "title": "昆虫 - 图片37",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蚯蚓，奇特怪异，悠闲漫步，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_036.png",
+      "title": "拟步甲",
+      "summary": "拟步甲如黑色小坦克在沙漠中如装甲如铁如钢",
+      "full_text": "拟步甲如黑色小坦克在沙漠中如装甲如铁如钢",
+      "image": "res://assets/images/illustrations/insects/insects_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "insects_036_4",
         "insects_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_036_pixel.jpg"
     },
     {
       "id": "insects_037",
-      "title": "昆虫 - 图片38",
-      "summary": "昆虫相关图片",
-      "full_text": "蜗牛轻盈飞舞，独特的外形，在阴暗的角落中辛勤地觅食。",
-      "image": "res://assets/images/illustrations/insects/insects_037.png",
+      "title": "隐翅虫",
+      "summary": "隐翅虫鞘翅极短如隐翅体液如酸如灼如毒如火",
+      "full_text": "隐翅虫鞘翅极短如隐翅体液如酸如灼如毒如火",
+      "image": "res://assets/images/illustrations/insects/insects_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "insects_037_4",
         "insects_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_037_pixel.jpg"
     },
     {
       "id": "insects_038",
-      "title": "昆虫 - 图片39",
-      "summary": "昆虫相关图片",
-      "full_text": "看那毛毛虫，形态优雅，精心筑巢，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_038.png",
+      "title": "谷象",
+      "summary": "谷象如粮仓害虫在谷物中如小象如管如鼻如针",
+      "full_text": "谷象如粮仓害虫在谷物中如小象如管如鼻如针",
+      "image": "res://assets/images/illustrations/insects/insects_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "insects_038_4",
         "insects_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_038_pixel.jpg"
     },
     {
       "id": "insects_039",
-      "title": "昆虫 - 图片40",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蚱蜢，小巧可爱，巧妙伪装，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_039.png",
+      "title": "皮蠹",
+      "summary": "皮蠹如标本杀手在干燥标本上如黑色如蛀如蚀",
+      "full_text": "皮蠹如标本杀手在干燥标本上如黑色如蛀如蚀",
+      "image": "res://assets/images/illustrations/insects/insects_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "insects_039_4",
         "insects_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_039_pixel.jpg"
     },
     {
       "id": "insects_040",
-      "title": "昆虫 - 图片41",
-      "summary": "昆虫相关图片",
-      "full_text": "蝴蝶虽然体型微小，但作用非凡，在生态系统中扮演着重要角色。",
-      "image": "res://assets/images/illustrations/insects/insects_040.png",
+      "title": "蜜蜂",
+      "summary": "蜜蜂跳八字舞告知同伴花蜜位置如导航如舞",
+      "full_text": "蜜蜂跳八字舞告知同伴花蜜位置如导航如舞",
+      "image": "res://assets/images/illustrations/insects/insects_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "insects_040_4",
         "insects_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_040_pixel.jpg"
     },
     {
       "id": "insects_041",
-      "title": "昆虫 - 图片42",
-      "summary": "昆虫相关图片",
-      "full_text": "蜜蜂辛勤劳作，修长的触角，在翠绿的草地中悠闲地生活。",
-      "image": "res://assets/images/illustrations/insects/insects_041.png",
+      "title": "胡蜂",
+      "summary": "胡蜂如纸巢建筑师在屋檐下如纸如巢如堡如塔",
+      "full_text": "胡蜂如纸巢建筑师在屋檐下如纸如巢如堡如塔",
+      "image": "res://assets/images/illustrations/insects/insects_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "insects_041_4",
         "insects_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_041_pixel.jpg"
     },
     {
       "id": "insects_042",
-      "title": "昆虫 - 图片43",
-      "summary": "昆虫相关图片",
-      "full_text": "蜻蜓轻盈飞舞，独特的外形，在阴暗的角落中辛勤地觅食。",
-      "image": "res://assets/images/illustrations/insects/insects_042.png",
+      "title": "大黄蜂",
+      "summary": "大黄蜂如毛绒轰炸机在花间如橙色如绒如球",
+      "full_text": "大黄蜂如毛绒轰炸机在花间如橙色如绒如球",
+      "image": "res://assets/images/illustrations/insects/insects_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "insects_042_4",
         "insects_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_042_pixel.jpg"
     },
     {
       "id": "insects_043",
-      "title": "昆虫 - 图片44",
-      "summary": "昆虫相关图片",
-      "full_text": "甲虫在池塘边里抚育后代，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_043.png",
+      "title": "马蜂",
+      "summary": "马蜂如空中猎手捕食毛虫如橙色如箭如刀如风",
+      "full_text": "马蜂如空中猎手捕食毛虫如橙色如箭如刀如风",
+      "image": "res://assets/images/illustrations/insects/insects_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "insects_043_4",
         "insects_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_043_pixel.jpg"
     },
     {
       "id": "insects_044",
-      "title": "昆虫 - 图片45",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蝉，小巧可爱，巧妙伪装，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_044.png",
+      "title": "切叶蚁",
+      "summary": "切叶蚁扛叶片如伞在雨林如绿色如河如流如潮",
+      "full_text": "切叶蚁扛叶片如伞在雨林如绿色如河如流如潮",
+      "image": "res://assets/images/illustrations/insects/insects_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "insects_044_4",
         "insects_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_044_pixel.jpg"
     },
     {
       "id": "insects_045",
-      "title": "昆虫 - 图片46",
-      "summary": "昆虫相关图片",
-      "full_text": "螳螂翩翩起舞，绚丽的翅膀，在茂密的花丛中忙碌地工作。",
-      "image": "res://assets/images/illustrations/insects/insects_045.png",
+      "title": "行军蚁",
+      "summary": "行军蚁百万大军如河在雨林如红色如潮如河",
+      "full_text": "行军蚁百万大军如河在雨林如红色如潮如河",
+      "image": "res://assets/images/illustrations/insects/insects_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "insects_045_4",
         "insects_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_045_pixel.jpg"
     },
     {
       "id": "insects_046",
-      "title": "昆虫 - 图片47",
-      "summary": "昆虫相关图片",
-      "full_text": "看那萤火虫，奇特怪异，悠闲漫步，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_046.png",
+      "title": "织叶蚁",
+      "summary": "织叶蚁用幼虫丝缝叶片如巢如缝如织如工",
+      "full_text": "织叶蚁用幼虫丝缝叶片如巢如缝如织如工",
+      "image": "res://assets/images/illustrations/insects/insects_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "insects_046_4",
         "insects_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_046_pixel.jpg"
     },
     {
       "id": "insects_047",
-      "title": "昆虫 - 图片48",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蚂蚁，色彩鲜艳，快速飞行，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_047.png",
+      "title": "收获蚁",
+      "summary": "收获蚁在沙漠中收集种子如农如仓如库如粮",
+      "full_text": "收获蚁在沙漠中收集种子如农如仓如库如粮",
+      "image": "res://assets/images/illustrations/insects/insects_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "insects_047_4",
         "insects_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_047_pixel.jpg"
     },
     {
       "id": "insects_048",
-      "title": "昆虫 - 图片49",
-      "summary": "昆虫相关图片",
-      "full_text": "蜘蛛在池塘边里抚育后代，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_048.png",
+      "title": "弓背蚁",
+      "summary": "弓背蚁在朽木中筑巢如木匠如工如筑如建",
+      "full_text": "弓背蚁在朽木中筑巢如木匠如工如筑如建",
+      "image": "res://assets/images/illustrations/insects/insects_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "insects_048_4",
         "insects_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_048_pixel.jpg"
     },
     {
       "id": "insects_049",
-      "title": "昆虫 - 图片50",
-      "summary": "昆虫相关图片",
-      "full_text": "蟋蟀在土壤里里探索世界，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_049.png",
+      "title": "红火蚁",
+      "summary": "红火蚁如入侵者蜇人如火如灼如烧如痛如火",
+      "full_text": "红火蚁如入侵者蜇人如火如灼如烧如痛如火",
+      "image": "res://assets/images/illustrations/insects/insects_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "insects_049_4",
         "insects_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_049_pixel.jpg"
     },
     {
       "id": "insects_050",
-      "title": "昆虫 - 图片51",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的瓢虫有着飞行能力，小巧玲珑，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_050.png",
+      "title": "白蚁",
+      "summary": "白蚁筑土丘如城堡在非洲草原如塔如堡如城",
+      "full_text": "白蚁筑土丘如城堡在非洲草原如塔如堡如城",
+      "image": "res://assets/images/illustrations/insects/insects_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "insects_050_4",
         "insects_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_050_pixel.jpg"
     },
     {
       "id": "insects_051",
-      "title": "昆虫 - 图片52",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蚊子有着搬运能力，色彩斑斓，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_051.png",
+      "title": "木蚁",
+      "summary": "木蚁在松树中筑巢如木匠如筑如建如工如匠",
+      "full_text": "木蚁在松树中筑巢如木匠如筑如建如工如匠",
+      "image": "res://assets/images/illustrations/insects/insects_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "insects_051_4",
         "insects_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_051_pixel.jpg"
     },
     {
       "id": "insects_052",
-      "title": "昆虫 - 图片53",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的苍蝇有着伪装技巧，形态各异，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_052.png",
+      "title": "蜜蚁",
+      "summary": "蜜蚁腹部如蜜罐悬挂在巢顶如珠如罐如蜜",
+      "full_text": "蜜蚁腹部如蜜罐悬挂在巢顶如珠如罐如蜜",
+      "image": "res://assets/images/illustrations/insects/insects_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "insects_052_4",
         "insects_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_052_pixel.jpg"
     },
     {
       "id": "insects_053",
-      "title": "昆虫 - 图片54",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蟑螂有着繁殖能力，聪明勤劳，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_053.png",
+      "title": "蓄奴蚁",
+      "summary": "蓄奴蚁劫掠他蚁蛹如奴如兵如战如侵如夺",
+      "full_text": "蓄奴蚁劫掠他蚁蛹如奴如兵如战如侵如夺",
+      "image": "res://assets/images/illustrations/insects/insects_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "insects_053_4",
         "insects_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_053_pixel.jpg"
     },
     {
       "id": "insects_054",
-      "title": "昆虫 - 图片55",
-      "summary": "昆虫相关图片",
-      "full_text": "蜈蚣虽然体态轻盈，但影响深远，在生态系统中扮演着重要角色。",
-      "image": "res://assets/images/illustrations/insects/insects_054.png",
+      "title": "阿根廷蚁",
+      "summary": "阿根廷蚁如超级群落全球入侵如潮如河如流",
+      "full_text": "阿根廷蚁如超级群落全球入侵如潮如河如流",
+      "image": "res://assets/images/illustrations/insects/insects_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "insects_054_4",
         "insects_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_054_pixel.jpg"
     },
     {
       "id": "insects_055",
-      "title": "昆虫 - 图片56",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蝎子，美丽动人，勤劳工作，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_055.png",
+      "title": "蜻蜓",
+      "summary": "蜻蜓如直升机在池塘上空悬停捕蚊如箭如电",
+      "full_text": "蜻蜓如直升机在池塘上空悬停捕蚊如箭如电",
+      "image": "res://assets/images/illustrations/insects/insects_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "insects_055_4",
         "insects_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_055_pixel.jpg"
     },
     {
       "id": "insects_056",
-      "title": "昆虫 - 图片57",
-      "summary": "昆虫相关图片",
-      "full_text": "蚯蚓在树林中里建造巢穴，展现出微观世界的奇妙与精彩。",
-      "image": "res://assets/images/illustrations/insects/insects_056.png",
+      "title": "螳螂",
+      "summary": "螳螂前臂如镰刀在花间如僧如猎如刀如镰",
+      "full_text": "螳螂前臂如镰刀在花间如僧如猎如刀如镰",
+      "image": "res://assets/images/illustrations/insects/insects_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "insects_056_4",
         "insects_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_056_pixel.jpg"
     },
     {
       "id": "insects_057",
-      "title": "昆虫 - 图片58",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蜗牛有着伪装技巧，形态各异，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_057.png",
+      "title": "蟋蟀",
+      "summary": "蟋蟀摩擦翅膀如琴在秋夜如歌如乐如鸣如唱",
+      "full_text": "蟋蟀摩擦翅膀如琴在秋夜如歌如乐如鸣如唱",
+      "image": "res://assets/images/illustrations/insects/insects_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "insects_057_4",
         "insects_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_057_pixel.jpg"
     },
     {
       "id": "insects_058",
-      "title": "昆虫 - 图片59",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的毛毛虫有着繁殖能力，聪明勤劳，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_058.png",
+      "title": "蝗虫",
+      "summary": "蝗虫群如乌云遮天蔽日如灾如祸如风如暴",
+      "full_text": "蝗虫群如乌云遮天蔽日如灾如祸如风如暴",
+      "image": "res://assets/images/illustrations/insects/insects_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "insects_058_4",
         "insects_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_058_pixel.jpg"
     },
     {
       "id": "insects_059",
-      "title": "昆虫 - 图片60",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蚱蜢，小巧可爱，巧妙伪装，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_059.png",
+      "title": "蝉",
+      "summary": "蝉在地下十七年后破土羽化如歌如鸣如唱如夏",
+      "full_text": "蝉在地下十七年后破土羽化如歌如鸣如唱如夏",
+      "image": "res://assets/images/illustrations/insects/insects_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "insects_059_4",
         "insects_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_059_pixel.jpg"
     },
     {
       "id": "insects_060",
-      "title": "昆虫 - 图片61",
-      "summary": "昆虫相关图片",
-      "full_text": "蝴蝶翩翩起舞，绚丽的翅膀，在茂密的花丛中忙碌地工作。",
-      "image": "res://assets/images/illustrations/insects/insects_060.png",
+      "title": "蚱蜢",
+      "summary": "蚱蜢如绿色弹簧在草丛中如跳如跃如弹如飞",
+      "full_text": "蚱蜢如绿色弹簧在草丛中如跳如跃如弹如飞",
+      "image": "res://assets/images/illustrations/insects/insects_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "insects_060_4",
         "insects_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_060_pixel.jpg"
     },
     {
       "id": "insects_061",
-      "title": "昆虫 - 图片62",
-      "summary": "昆虫相关图片",
-      "full_text": "蜜蜂辛勤劳作，修长的触角，在翠绿的草地中悠闲地生活。",
-      "image": "res://assets/images/illustrations/insects/insects_061.png",
+      "title": "蝼蛄",
+      "summary": "蝼蛄如地下矿工在土壤中如铲如掘如挖如钻",
+      "full_text": "蝼蛄如地下矿工在土壤中如铲如掘如挖如钻",
+      "image": "res://assets/images/illustrations/insects/insects_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "insects_061_4",
         "insects_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_061_pixel.jpg"
     },
     {
       "id": "insects_062",
-      "title": "昆虫 - 图片63",
-      "summary": "昆虫相关图片",
-      "full_text": "看那蜻蜓，色彩鲜艳，快速飞行，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_062.png",
+      "title": "蚜虫",
+      "summary": "蚜虫如绿色小点在嫩芽上如群如聚如密如潮",
+      "full_text": "蚜虫如绿色小点在嫩芽上如群如聚如密如潮",
+      "image": "res://assets/images/illustrations/insects/insects_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "insects_062_4",
         "insects_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_062_pixel.jpg"
     },
     {
       "id": "insects_063",
-      "title": "昆虫 - 图片64",
-      "summary": "昆虫相关图片",
-      "full_text": "看那甲虫，形态优雅，精心筑巢，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_063.png",
+      "title": "蜉蝣",
+      "summary": "蜉蝣朝生暮死如丝如纱如仙如梦如幻如烟",
+      "full_text": "蜉蝣朝生暮死如丝如纱如仙如梦如幻如烟",
+      "image": "res://assets/images/illustrations/insects/insects_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "insects_063_4",
         "insects_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_063_pixel.jpg"
     },
     {
       "id": "insects_064",
-      "title": "昆虫 - 图片65",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蝉有着生存智慧，神秘莫测，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_064.png",
+      "title": "石蝇",
+      "summary": "石蝇如水质指示在清澈溪流如丝如纱如仙",
+      "full_text": "石蝇如水质指示在清澈溪流如丝如纱如仙",
+      "image": "res://assets/images/illustrations/insects/insects_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "insects_064_4",
         "insects_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_064_pixel.jpg"
     },
     {
       "id": "insects_065",
-      "title": "昆虫 - 图片66",
-      "summary": "昆虫相关图片",
-      "full_text": "看那螳螂，美丽动人，勤劳工作，让人感叹大自然的神奇。",
-      "image": "res://assets/images/illustrations/insects/insects_065.png",
+      "title": "草蛉",
+      "summary": "草蛉绿色翅膀如纱如蕾丝如仙如绿如梦如纱",
+      "full_text": "草蛉绿色翅膀如纱如蕾丝如仙如绿如梦如纱",
+      "image": "res://assets/images/illustrations/insects/insects_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "insects_065_4",
         "insects_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_065_pixel.jpg"
     },
     {
       "id": "insects_066",
-      "title": "昆虫 - 图片67",
-      "summary": "昆虫相关图片",
-      "full_text": "萤火虫辛勤劳作，修长的触角，在翠绿的草地中悠闲地生活。",
-      "image": "res://assets/images/illustrations/insects/insects_066.png",
+      "title": "蝎蛉",
+      "summary": "蝎蛉雄虫尾部如蝎如钳如夹如武如士如战",
+      "full_text": "蝎蛉雄虫尾部如蝎如钳如夹如武如士如战",
+      "image": "res://assets/images/illustrations/insects/insects_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "insects_066_4",
         "insects_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_066_pixel.jpg"
     },
     {
       "id": "insects_067",
-      "title": "昆虫 - 图片68",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蚂蚁有着伪装技巧，形态各异，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_067.png",
+      "title": "跳蚤",
+      "summary": "跳蚤如弹跳冠军跳跃高度超自身百倍如弹如飞",
+      "full_text": "跳蚤如弹跳冠军跳跃高度超自身百倍如弹如飞",
+      "image": "res://assets/images/illustrations/insects/insects_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "insects_067_4",
         "insects_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_067_pixel.jpg"
     },
     {
       "id": "insects_068",
-      "title": "昆虫 - 图片69",
-      "summary": "昆虫相关图片",
-      "full_text": "蜘蛛缓慢爬行，精巧的身体，在潮湿的土壤中快乐地飞舞。",
-      "image": "res://assets/images/illustrations/insects/insects_068.png",
+      "title": "虱子",
+      "summary": "虱子如寄生者爪如钩如钳如夹如附如贴如吸",
+      "full_text": "虱子如寄生者爪如钩如钳如夹如附如贴如吸",
+      "image": "res://assets/images/illustrations/insects/insects_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "insects_068_4",
         "insects_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_068_pixel.jpg"
     },
     {
       "id": "insects_069",
-      "title": "昆虫 - 图片70",
-      "summary": "昆虫相关图片",
-      "full_text": "小小的蟋蟀有着生存智慧，神秘莫测，是大自然中不可或缺的一员。",
-      "image": "res://assets/images/illustrations/insects/insects_069.png",
+      "title": "衣鱼",
+      "summary": "衣鱼如银色鱼在旧书中如银如鳞如鱼如影",
+      "full_text": "衣鱼如银色鱼在旧书中如银如鳞如鱼如影",
+      "image": "res://assets/images/illustrations/insects/insects_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "insects_069_4",
         "insects_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/insects/insects_069_pixel.jpg"
     }
   ]
 }

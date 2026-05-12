@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "war_military_000",
-      "title": "战争与军事史 - 图片1",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往历史长河的大门，充满了憧憬与审美体验。",
-      "image": "res://assets/images/illustrations/war_military/war_military_000.png",
+      "title": "希波战争马拉松",
+      "summary": "雅典重装步兵在马拉松平原列阵冲锋，击败波斯入侵大军",
+      "full_text": "雅典重装步兵在马拉松平原列阵冲锋，击败波斯入侵大军",
+      "image": "res://assets/images/illustrations/war_military/war_military_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "war_military_000_4",
         "war_military_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_000_pixel.jpg"
     },
     {
       "id": "war_military_001",
-      "title": "战争与军事史 - 图片2",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它清新地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_001.png",
+      "title": "温泉关三百勇士",
+      "summary": "斯巴达国王列奥尼达率三百勇士在狭窄山口死守抵抗波斯",
+      "full_text": "斯巴达国王列奥尼达率三百勇士在狭窄山口死守抵抗波斯",
+      "image": "res://assets/images/illustrations/war_military/war_military_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "war_military_001_4",
         "war_military_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_001_pixel.jpg"
     },
     {
       "id": "war_military_002",
-      "title": "战争与军事史 - 图片3",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_002.png",
+      "title": "萨拉米斯海战",
+      "summary": "希腊三列桨战船在狭窄海峡中撞击波斯舰队，火船焚毁敌舰",
+      "full_text": "希腊三列桨战船在狭窄海峡中撞击波斯舰队，火船焚毁敌舰",
+      "image": "res://assets/images/illustrations/war_military/war_military_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "war_military_002_4",
         "war_military_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_002_pixel.jpg"
     },
     {
       "id": "war_military_003",
-      "title": "战争与军事史 - 图片4",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在科学的领域里，科学发现展现得淋漓尽致，每一个光影都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/war_military/war_military_003.png",
+      "title": "亚历山大伊苏斯",
+      "summary": "亚历山大率马其顿骑兵直冲大流士阵前，波斯王仓皇逃遁",
+      "full_text": "亚历山大率马其顿骑兵直冲大流士阵前，波斯王仓皇逃遁",
+      "image": "res://assets/images/illustrations/war_military/war_military_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "war_military_003_4",
         "war_military_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_003_pixel.jpg"
     },
     {
       "id": "war_military_004",
-      "title": "战争与军事史 - 图片5",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它生动地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_004.png",
+      "title": "亚历山大高加米拉",
+      "summary": "马其顿方阵与波斯战车在美索不达米亚平原决战，帝国易主",
+      "full_text": "马其顿方阵与波斯战车在美索不达米亚平原决战，帝国易主",
+      "image": "res://assets/images/illustrations/war_military/war_military_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "war_military_004_4",
         "war_military_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_004_pixel.jpg"
     },
     {
       "id": "war_military_005",
-      "title": "战争与军事史 - 图片6",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化不仅记录了人类文明，更传递了美的真谛，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/war_military/war_military_005.png",
+      "title": "罗马军团方阵",
+      "summary": "罗马士兵以龟甲阵逼近城墙，盾牌密合抵御上方箭石",
+      "full_text": "罗马士兵以龟甲阵逼近城墙，盾牌密合抵御上方箭石",
+      "image": "res://assets/images/illustrations/war_military/war_military_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "war_military_005_4",
         "war_military_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_005_pixel.jpg"
     },
     {
       "id": "war_military_006",
-      "title": "战争与军事史 - 图片7",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然不仅表达了自然之美，更传递了创新的精神，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/war_military/war_military_006.png",
+      "title": "布匿战争坎尼",
+      "summary": "汉尼拔以新月阵型包围罗马军团，七万士兵阵亡创最惨败绩",
+      "full_text": "汉尼拔以新月阵型包围罗马军团，七万士兵阵亡创最惨败绩",
+      "image": "res://assets/images/illustrations/war_military/war_military_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "war_military_006_4",
         "war_military_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_006_pixel.jpg"
     },
     {
       "id": "war_military_007",
-      "title": "战争与军事史 - 图片8",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学不仅表达了时代精神，更传递了创新的精神，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/war_military/war_military_007.png",
+      "title": "罗马攻城术",
+      "summary": "罗马工兵建造移动攻城塔逼近城墙，弩炮投射巨石轰击城防",
+      "full_text": "罗马工兵建造移动攻城塔逼近城墙，弩炮投射巨石轰击城防",
+      "image": "res://assets/images/illustrations/war_military/war_military_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "war_military_007_4",
         "war_military_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_007_pixel.jpg"
     },
     {
       "id": "war_military_008",
-      "title": "战争与军事史 - 图片9",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往精神家园的大门，充满了惊叹与视觉享受。",
-      "image": "res://assets/images/illustrations/war_military/war_military_008.png",
+      "title": "凯撒阿莱西亚",
+      "summary": "凯撒在阿莱西亚修筑双重围墙围困高卢首领维钦托利",
+      "full_text": "凯撒在阿莱西亚修筑双重围墙围困高卢首领维钦托利",
+      "image": "res://assets/images/illustrations/war_military/war_military_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "war_military_008_4",
         "war_military_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_008_pixel.jpg"
     },
     {
       "id": "war_military_009",
-      "title": "战争与军事史 - 图片10",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往智慧天地的大门，充满了喜悦与文化浸润。",
-      "image": "res://assets/images/illustrations/war_military/war_military_009.png",
+      "title": "三国赤壁之战",
+      "summary": "孙刘联军在长江赤壁以火攻大破曹军船队，三国鼎立格局初成",
+      "full_text": "孙刘联军在长江赤壁以火攻大破曹军船队，三国鼎立格局初成",
+      "image": "res://assets/images/illustrations/war_military/war_military_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "war_military_009_4",
         "war_military_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_009_pixel.jpg"
     },
     {
       "id": "war_military_010",
-      "title": "战争与军事史 - 图片11",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往自然奇观的大门，充满了激情与视觉享受。",
-      "image": "res://assets/images/illustrations/war_military/war_military_010.png",
+      "title": "汉朝漠北之战",
+      "summary": "卫青霍去病率汉军骑兵深入漠北追击匈奴，封狼居胥山",
+      "full_text": "卫青霍去病率汉军骑兵深入漠北追击匈奴，封狼居胥山",
+      "image": "res://assets/images/illustrations/war_military/war_military_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "war_military_010_4",
         "war_military_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_010_pixel.jpg"
     },
     {
       "id": "war_military_011",
-      "title": "战争与军事史 - 图片12",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在科学的领域里，历史变迁展现得淋漓尽致，每一个历史印记都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/war_military/war_military_011.png",
+      "title": "秦军统一战争",
+      "summary": "秦军强弩万箭齐发，步兵方阵配合战车横扫六国联军",
+      "full_text": "秦军强弩万箭齐发，步兵方阵配合战车横扫六国联军",
+      "image": "res://assets/images/illustrations/war_military/war_military_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "war_military_011_4",
         "war_military_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_011_pixel.jpg"
     },
     {
       "id": "war_military_012",
-      "title": "战争与军事史 - 图片13",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术不仅展现了生命意义，更传递了美的真谛，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/war_military/war_military_012.png",
+      "title": "罗马角斗士起义",
+      "summary": "斯巴达克斯率角斗士与奴隶逃出卡普阿，起义军席卷意大利",
+      "full_text": "斯巴达克斯率角斗士与奴隶逃出卡普阿，起义军席卷意大利",
+      "image": "res://assets/images/illustrations/war_military/war_military_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "war_military_012_4",
         "war_military_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_012_pixel.jpg"
     },
     {
       "id": "war_military_013",
-      "title": "战争与军事史 - 图片14",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了愉悦与知识启迪。",
-      "image": "res://assets/images/illustrations/war_military/war_military_013.png",
+      "title": "日耳曼条顿堡",
+      "summary": "日耳曼部落在条顿堡森林伏击罗马三个军团，瓦鲁斯自刎",
+      "full_text": "日耳曼部落在条顿堡森林伏击罗马三个军团，瓦鲁斯自刎",
+      "image": "res://assets/images/illustrations/war_military/war_military_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "war_military_013_4",
         "war_military_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_013_pixel.jpg"
     },
     {
       "id": "war_military_014",
-      "title": "战争与军事史 - 图片15",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它精彩地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_014.png",
+      "title": "汉朝西域都护",
+      "summary": "汉军骑兵在西域戈壁追击匈奴残部，烽燧沿线传递军情",
+      "full_text": "汉军骑兵在西域戈壁追击匈奴残部，烽燧沿线传递军情",
+      "image": "res://assets/images/illustrations/war_military/war_military_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "war_military_014_4",
         "war_military_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_014_pixel.jpg"
     },
     {
       "id": "war_military_015",
-      "title": "战争与军事史 - 图片16",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精彩地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_015.png",
+      "title": "波斯希腊战争",
+      "summary": "波斯万王之王率百万大军渡过赫勒斯滂海峡远征希腊",
+      "full_text": "波斯万王之王率百万大军渡过赫勒斯滂海峡远征希腊",
+      "image": "res://assets/images/illustrations/war_military/war_military_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "war_military_015_4",
         "war_military_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_015_pixel.jpg"
     },
     {
       "id": "war_military_016",
-      "title": "战争与军事史 - 图片17",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在艺术的领域里，人文景观展现得淋漓尽致，每一个思想都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/war_military/war_military_016.png",
+      "title": "罗马内战",
+      "summary": "屋大维与安东尼在亚克兴角海战对决，罗马命运系于一战",
+      "full_text": "屋大维与安东尼在亚克兴角海战对决，罗马命运系于一战",
+      "image": "res://assets/images/illustrations/war_military/war_military_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "war_military_016_4",
         "war_military_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_016_pixel.jpg"
     },
     {
       "id": "war_military_017",
-      "title": "战争与军事史 - 图片18",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了喜悦与艺术熏陶。",
-      "image": "res://assets/images/illustrations/war_military/war_military_017.png",
+      "title": "秦赵长平之战",
+      "summary": "秦将白起在长平围困赵军四十六日，坑杀降卒震惊天下",
+      "full_text": "秦将白起在长平围困赵军四十六日，坑杀降卒震惊天下",
+      "image": "res://assets/images/illustrations/war_military/war_military_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "war_military_017_4",
         "war_military_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_017_pixel.jpg"
     },
     {
       "id": "war_military_018",
-      "title": "战争与军事史 - 图片19",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在自然的领域里，社会发展展现得淋漓尽致，每一个线条都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/war_military/war_military_018.png",
+      "title": "马其顿方阵冲锋",
+      "summary": "马其顿方阵手持萨里沙长矛如刺猬般推进，矛墙密不透风",
+      "full_text": "马其顿方阵手持萨里沙长矛如刺猬般推进，矛墙密不透风",
+      "image": "res://assets/images/illustrations/war_military/war_military_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "war_military_018_4",
         "war_military_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_018_pixel.jpg"
     },
     {
       "id": "war_military_019",
-      "title": "战争与军事史 - 图片20",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在科学的领域里，人类智慧展现得淋漓尽致，每一个历史印记都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/war_military/war_military_019.png",
+      "title": "古埃及战车冲锋",
+      "summary": "拉美西斯二世驾金饰战车冲入赫梯军阵，卡迭石之战爆发",
+      "full_text": "拉美西斯二世驾金饰战车冲入赫梯军阵，卡迭石之战爆发",
+      "image": "res://assets/images/illustrations/war_military/war_military_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "war_military_019_4",
         "war_military_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_019_pixel.jpg"
     },
     {
       "id": "war_military_020",
-      "title": "战争与军事史 - 图片21",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是思想升华的结晶，它承载着永恒的真理，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/war_military/war_military_020.png",
+      "title": "十字军攻陷耶路撒冷",
+      "summary": "十字军骑士在耶路撒冷城墙上竖起十字旗，圣城陷落",
+      "full_text": "十字军骑士在耶路撒冷城墙上竖起十字旗，圣城陷落",
+      "image": "res://assets/images/illustrations/war_military/war_military_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "war_military_020_4",
         "war_military_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_020_pixel.jpg"
     },
     {
       "id": "war_military_021",
-      "title": "战争与军事史 - 图片22",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是历史积淀的结晶，它传递着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/war_military/war_military_021.png",
+      "title": "蒙古西征欧洲",
+      "summary": "蒙古轻骑兵在利格尼茨大破波兰日耳曼联军，欧洲门户洞开",
+      "full_text": "蒙古轻骑兵在利格尼茨大破波兰日耳曼联军，欧洲门户洞开",
+      "image": "res://assets/images/illustrations/war_military/war_military_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "war_military_021_4",
         "war_military_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_021_pixel.jpg"
     },
     {
       "id": "war_military_022",
-      "title": "战争与军事史 - 图片23",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往历史长河的大门，充满了敬畏与艺术熏陶。",
-      "image": "res://assets/images/illustrations/war_military/war_military_022.png",
+      "title": "百年战争阿金库尔",
+      "summary": "英国长弓手在泥泞中齐射箭雨，法国重装骑士纷纷倒地",
+      "full_text": "英国长弓手在泥泞中齐射箭雨，法国重装骑士纷纷倒地",
+      "image": "res://assets/images/illustrations/war_military/war_military_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "war_military_022_4",
         "war_military_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_022_pixel.jpg"
     },
     {
       "id": "war_military_023",
-      "title": "战争与军事史 - 图片24",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在科学的领域里，文化传承展现得淋漓尽致，每一个光影都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/war_military/war_military_023.png",
+      "title": "蒙古围攻襄阳",
+      "summary": "蒙古军队用回回炮轰击襄阳城墙，巨石飞入城中守军震恐",
+      "full_text": "蒙古军队用回回炮轰击襄阳城墙，巨石飞入城中守军震恐",
+      "image": "res://assets/images/illustrations/war_military/war_military_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "war_military_023_4",
         "war_military_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_023_pixel.jpg"
     },
     {
       "id": "war_military_024",
-      "title": "战争与军事史 - 图片25",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在艺术的领域里，人类智慧展现得淋漓尽致，每一个思想都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/war_military/war_military_024.png",
+      "title": "十字军东征安条克",
+      "summary": "十字军在安条克城外忍饥挨饿，发现圣枪后士气大振夺城",
+      "full_text": "十字军在安条克城外忍饥挨饿，发现圣枪后士气大振夺城",
+      "image": "res://assets/images/illustrations/war_military/war_military_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "war_military_024_4",
         "war_military_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_024_pixel.jpg"
     },
     {
       "id": "war_military_025",
-      "title": "战争与军事史 - 图片26",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它精彩地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_025.png",
+      "title": "维京海盗袭击",
+      "summary": "维京长船突入河口，斧兵跳上岸边劫掠修道院金银",
+      "full_text": "维京长船突入河口，斧兵跳上岸边劫掠修道院金银",
+      "image": "res://assets/images/illustrations/war_military/war_military_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "war_military_025_4",
         "war_military_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_025_pixel.jpg"
     },
     {
       "id": "war_military_026",
-      "title": "战争与军事史 - 图片27",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是历史积淀的结晶，它记录着科学的精神，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/war_military/war_military_026.png",
+      "title": "日本源平合战",
+      "summary": "源义经率骑兵从鹎越陡坡奇袭平氏本阵，坛之浦海战终结平家",
+      "full_text": "源义经率骑兵从鹎越陡坡奇袭平氏本阵，坛之浦海战终结平家",
+      "image": "res://assets/images/illustrations/war_military/war_military_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "war_military_026_4",
         "war_military_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_026_pixel.jpg"
     },
     {
       "id": "war_military_027",
-      "title": "战争与军事史 - 图片28",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学不仅塑造了历史记忆，更传递了情感的力量，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/war_military/war_military_027.png",
+      "title": "君士坦丁堡陷落",
+      "summary": "奥斯曼乌尔班巨炮轰塌君士坦丁堡城墙，拜占庭千年帝国终结",
+      "full_text": "奥斯曼乌尔班巨炮轰塌君士坦丁堡城墙，拜占庭千年帝国终结",
+      "image": "res://assets/images/illustrations/war_military/war_military_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "war_military_027_4",
         "war_military_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_027_pixel.jpg"
     },
     {
       "id": "war_military_028",
-      "title": "战争与军事史 - 图片29",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术不仅诠释了文化内涵，更传递了情感的力量，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/war_military/war_military_028.png",
+      "title": "百年战争奥尔良",
+      "summary": "圣女贞德身披白甲高举旗帜率军冲入英军包围圈解奥尔良之围",
+      "full_text": "圣女贞德身披白甲高举旗帜率军冲入英军包围圈解奥尔良之围",
+      "image": "res://assets/images/illustrations/war_military/war_military_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "war_military_028_4",
         "war_military_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_028_pixel.jpg"
     },
     {
       "id": "war_military_029",
-      "title": "战争与军事史 - 图片30",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是文化传承的结晶，它表达着美好的愿景，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/war_military/war_military_029.png",
+      "title": "蒙古旭烈兀西征",
+      "summary": "旭烈兀率蒙古铁骑攻陷巴格达，阿拔斯哈里发王朝覆灭",
+      "full_text": "旭烈兀率蒙古铁骑攻陷巴格达，阿拔斯哈里发王朝覆灭",
+      "image": "res://assets/images/illustrations/war_military/war_military_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "war_military_029_4",
         "war_military_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_029_pixel.jpg"
     },
     {
       "id": "war_military_030",
-      "title": "战争与军事史 - 图片31",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是人类智慧的结晶，它记录着艺术的追求，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/war_military/war_military_030.png",
+      "title": "中世纪攻城战",
+      "summary": "攻城方架设云梯攀墙，守军倾倒滚油投掷巨石奋力抵抗",
+      "full_text": "攻城方架设云梯攀墙，守军倾倒滚油投掷巨石奋力抵抗",
+      "image": "res://assets/images/illustrations/war_military/war_military_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "war_military_030_4",
         "war_military_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_030_pixel.jpg"
     },
     {
       "id": "war_military_031",
-      "title": "战争与军事史 - 图片32",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个自然元素都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/war_military/war_military_031.png",
+      "title": "条顿骑士团战役",
+      "summary": "波兰立陶宛联军在坦能堡击败条顿骑士团，重甲骑士纷纷落马",
+      "full_text": "波兰立陶宛联军在坦能堡击败条顿骑士团，重甲骑士纷纷落马",
+      "image": "res://assets/images/illustrations/war_military/war_military_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "war_military_031_4",
         "war_military_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_031_pixel.jpg"
     },
     {
       "id": "war_military_032",
-      "title": "战争与军事史 - 图片33",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是生活体验的结晶，它展现着人文的关怀，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/war_military/war_military_032.png",
+      "title": "宋朝抗金战争",
+      "summary": "岳飞率岳家军在郾城以步兵大破金军铁浮屠重骑兵",
+      "full_text": "岳飞率岳家军在郾城以步兵大破金军铁浮屠重骑兵",
+      "image": "res://assets/images/illustrations/war_military/war_military_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "war_military_032_4",
         "war_military_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_032_pixel.jpg"
     },
     {
       "id": "war_military_033",
-      "title": "战争与军事史 - 图片34",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往文化宝库的大门，充满了惊叹与审美体验。",
-      "image": "res://assets/images/illustrations/war_military/war_military_033.png",
+      "title": "奥斯曼扩张战争",
+      "summary": "苏莱曼大帝率禁卫军围攻维也纳，奥斯曼兵临哈布斯堡城下",
+      "full_text": "苏莱曼大帝率禁卫军围攻维也纳，奥斯曼兵临哈布斯堡城下",
+      "image": "res://assets/images/illustrations/war_military/war_military_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "war_military_033_4",
         "war_military_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_033_pixel.jpg"
     },
     {
       "id": "war_military_034",
-      "title": "战争与军事史 - 图片35",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它生动地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_034.png",
+      "title": "日本战国关原",
+      "summary": "德川家康在关原合战中击败西军，奠定江户幕府基业",
+      "full_text": "德川家康在关原合战中击败西军，奠定江户幕府基业",
+      "image": "res://assets/images/illustrations/war_military/war_military_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "war_military_034_4",
         "war_military_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_034_pixel.jpg"
     },
     {
       "id": "war_military_035",
-      "title": "战争与军事史 - 图片36",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它典雅地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_035.png",
+      "title": "明朝抗击倭寇",
+      "summary": "戚继光率义乌兵在沿海布设鸳鸯阵，刀盾配合长枪剿灭倭寇",
+      "full_text": "戚继光率义乌兵在沿海布设鸳鸯阵，刀盾配合长枪剿灭倭寇",
+      "image": "res://assets/images/illustrations/war_military/war_military_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "war_military_035_4",
         "war_military_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_035_pixel.jpg"
     },
     {
       "id": "war_military_036",
-      "title": "战争与军事史 - 图片37",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往美丽新世界的大门，充满了沉思与文化浸润。",
-      "image": "res://assets/images/illustrations/war_military/war_military_036.png",
+      "title": "中世纪骑士冲锋",
+      "summary": "重装骑士策马持枪全速冲锋，铁蹄踏碎步兵阵列",
+      "full_text": "重装骑士策马持枪全速冲锋，铁蹄踏碎步兵阵列",
+      "image": "res://assets/images/illustrations/war_military/war_military_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "war_military_036_4",
         "war_military_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_036_pixel.jpg"
     },
     {
       "id": "war_military_037",
-      "title": "战争与军事史 - 图片38",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往自然奇观的大门，充满了惊叹与思想启迪。",
-      "image": "res://assets/images/illustrations/war_military/war_military_037.png",
+      "title": "阿拉伯扩张战争",
+      "summary": "阿拉伯骑兵在雅尔穆克战役击败拜占庭大军，弯刀横扫叙利亚",
+      "full_text": "阿拉伯骑兵在雅尔穆克战役击败拜占庭大军，弯刀横扫叙利亚",
+      "image": "res://assets/images/illustrations/war_military/war_military_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "war_military_037_4",
         "war_military_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_037_pixel.jpg"
     },
     {
       "id": "war_military_038",
-      "title": "战争与军事史 - 图片39",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在自然的领域里，文化传承展现得淋漓尽致，每一个思想都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/war_military/war_military_038.png",
+      "title": "朝鲜壬辰倭乱",
+      "summary": "李舜臣率龟船在闲山岛海域击毁日本战船，铁钉密布船顶",
+      "full_text": "李舜臣率龟船在闲山岛海域击毁日本战船，铁钉密布船顶",
+      "image": "res://assets/images/illustrations/war_military/war_military_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "war_military_038_4",
         "war_military_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_038_pixel.jpg"
     },
     {
       "id": "war_military_039",
-      "title": "战争与军事史 - 图片40",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往智慧天地的大门，充满了敬畏与审美体验。",
-      "image": "res://assets/images/illustrations/war_military/war_military_039.png",
+      "title": "英法诺曼征服",
+      "summary": "诺曼骑兵在黑斯廷斯突破盎格鲁撒克逊盾墙，哈罗德中箭阵亡",
+      "full_text": "诺曼骑兵在黑斯廷斯突破盎格鲁撒克逊盾墙，哈罗德中箭阵亡",
+      "image": "res://assets/images/illustrations/war_military/war_military_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "war_military_039_4",
         "war_military_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_039_pixel.jpg"
     },
     {
       "id": "war_military_040",
-      "title": "战争与军事史 - 图片41",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它灵动地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_040.png",
+      "title": "拿破仑奥斯特里茨",
+      "summary": "拿破仑在奥斯特里茨诱敌深入，法军精锐突击联军中央破阵",
+      "full_text": "拿破仑在奥斯特里茨诱敌深入，法军精锐突击联军中央破阵",
+      "image": "res://assets/images/illustrations/war_military/war_military_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "war_military_040_4",
         "war_military_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_040_pixel.jpg"
     },
     {
       "id": "war_military_041",
-      "title": "战争与军事史 - 图片42",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是生活体验的结晶，它表达着深刻的思考，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/war_military/war_military_041.png",
+      "title": "特拉法尔加海战",
+      "summary": "纳尔逊率英国舰队纵列切入法西联合舰队，炮火连天海面翻腾",
+      "full_text": "纳尔逊率英国舰队纵列切入法西联合舰队，炮火连天海面翻腾",
+      "image": "res://assets/images/illustrations/war_military/war_military_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "war_military_041_4",
         "war_military_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_041_pixel.jpg"
     },
     {
       "id": "war_military_042",
-      "title": "战争与军事史 - 图片43",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是文化传承的结晶，它启迪着永恒的真理，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/war_military/war_military_042.png",
+      "title": "滑铁卢战役",
+      "summary": "威灵顿公爵在滑铁卢方阵中坚守待援，普鲁士骑兵赶到击溃法军",
+      "full_text": "威灵顿公爵在滑铁卢方阵中坚守待援，普鲁士骑兵赶到击溃法军",
+      "image": "res://assets/images/illustrations/war_military/war_military_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "war_military_042_4",
         "war_military_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_042_pixel.jpg"
     },
     {
       "id": "war_military_043",
-      "title": "战争与军事史 - 图片44",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它壮观地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_043.png",
+      "title": "美国独立战争",
+      "summary": "华盛顿率大陆军在约克镇接受英军投降，独立战争胜利终结",
+      "full_text": "华盛顿率大陆军在约克镇接受英军投降，独立战争胜利终结",
+      "image": "res://assets/images/illustrations/war_military/war_military_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "war_military_043_4",
         "war_military_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_043_pixel.jpg"
     },
     {
       "id": "war_military_044",
-      "title": "战争与军事史 - 图片45",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术不仅创造了艺术真谛，更传递了人与自然的和谐，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/war_military/war_military_044.png",
+      "title": "美国内战葛底斯堡",
+      "summary": "南军皮克特冲锋在北军火力下溃败，葛底斯堡成为战争转折",
+      "full_text": "南军皮克特冲锋在北军火力下溃败，葛底斯堡成为战争转折",
+      "image": "res://assets/images/illustrations/war_military/war_military_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "war_military_044_4",
         "war_military_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_044_pixel.jpg"
     },
     {
       "id": "war_military_045",
-      "title": "战争与军事史 - 图片46",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了惊叹与视觉享受。",
-      "image": "res://assets/images/illustrations/war_military/war_military_045.png",
+      "title": "拿破仑入侵俄国",
+      "summary": "法军纵队在俄罗斯暴风雪中艰难行军，哥萨克骑兵沿途袭扰",
+      "full_text": "法军纵队在俄罗斯暴风雪中艰难行军，哥萨克骑兵沿途袭扰",
+      "image": "res://assets/images/illustrations/war_military/war_military_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "war_military_045_4",
         "war_military_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_045_pixel.jpg"
     },
     {
       "id": "war_military_046",
-      "title": "战争与军事史 - 图片47",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在自然的领域里，科学发现展现得淋漓尽致，每一个细节都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/war_military/war_military_046.png",
+      "title": "克里米亚战争",
+      "summary": "英国轻骑兵在巴拉克拉瓦冲入俄军炮阵，英勇冲锋代价惨重",
+      "full_text": "英国轻骑兵在巴拉克拉瓦冲入俄军炮阵，英勇冲锋代价惨重",
+      "image": "res://assets/images/illustrations/war_military/war_military_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "war_military_046_4",
         "war_military_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_046_pixel.jpg"
     },
     {
       "id": "war_military_047",
-      "title": "战争与军事史 - 图片48",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在科学的领域里，人类智慧展现得淋漓尽致，每一个历史印记都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/war_military/war_military_047.png",
+      "title": "普法战争色当",
+      "summary": "普鲁士炮兵在色当围困法军，拿破仑三世率十万大军投降",
+      "full_text": "普鲁士炮兵在色当围困法军，拿破仑三世率十万大军投降",
+      "image": "res://assets/images/illustrations/war_military/war_military_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "war_military_047_4",
         "war_military_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_047_pixel.jpg"
     },
     {
       "id": "war_military_048",
-      "title": "战争与军事史 - 图片49",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术不仅展现了生命意义，更传递了生命的意义，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/war_military/war_military_048.png",
+      "title": "拉丁美洲独立",
+      "summary": "玻利瓦尔率骑兵穿越安第斯山，在博亚卡战役击败西班牙军",
+      "full_text": "玻利瓦尔率骑兵穿越安第斯山，在博亚卡战役击败西班牙军",
+      "image": "res://assets/images/illustrations/war_military/war_military_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "war_military_048_4",
         "war_military_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_048_pixel.jpg"
     },
     {
       "id": "war_military_049",
-      "title": "战争与军事史 - 图片50",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它细腻地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_049.png",
+      "title": "日俄战争旅顺",
+      "summary": "日军炮兵轰击旅顺港俄舰，二零三高地争夺战尸横遍野",
+      "full_text": "日军炮兵轰击旅顺港俄舰，二零三高地争夺战尸横遍野",
+      "image": "res://assets/images/illustrations/war_military/war_military_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "war_military_049_4",
         "war_military_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_049_pixel.jpg"
     },
     {
       "id": "war_military_050",
-      "title": "战争与军事史 - 图片51",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然不仅揭示了生命意义，更传递了文化的传承，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/war_military/war_military_050.png",
+      "title": "鸦片战争",
+      "summary": "英国蒸汽军舰炮击广州城，清朝守军在坚船利炮前无力抵抗",
+      "full_text": "英国蒸汽军舰炮击广州城，清朝守军在坚船利炮前无力抵抗",
+      "image": "res://assets/images/illustrations/war_military/war_military_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "war_military_050_4",
         "war_military_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_050_pixel.jpg"
     },
     {
       "id": "war_military_051",
-      "title": "战争与军事史 - 图片52",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学不仅展现了生活哲理，更传递了人与自然的和谐，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/war_military/war_military_051.png",
+      "title": "拿破仑莱比锡",
+      "summary": "反法同盟在莱比锡民族大会战中合围法军，拿破仑败退莱茵河",
+      "full_text": "反法同盟在莱比锡民族大会战中合围法军，拿破仑败退莱茵河",
+      "image": "res://assets/images/illustrations/war_military/war_military_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "war_military_051_4",
         "war_military_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_051_pixel.jpg"
     },
     {
       "id": "war_military_052",
-      "title": "战争与军事史 - 图片53",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术不仅描绘了生活哲理，更传递了情感的力量，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/war_military/war_military_052.png",
+      "title": "太平天国战争",
+      "summary": "太平军与湘军在安庆城外激战，壕沟纵横炮火连天",
+      "full_text": "太平军与湘军在安庆城外激战，壕沟纵横炮火连天",
+      "image": "res://assets/images/illustrations/war_military/war_military_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "war_military_052_4",
         "war_military_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_052_pixel.jpg"
     },
     {
       "id": "war_military_053",
-      "title": "战争与军事史 - 图片54",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它精彩地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_053.png",
+      "title": "墨西哥美墨战争",
+      "summary": "美军攻入墨西哥城，星条旗在查普尔特佩克城堡升起",
+      "full_text": "美军攻入墨西哥城，星条旗在查普尔特佩克城堡升起",
+      "image": "res://assets/images/illustrations/war_military/war_military_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "war_military_053_4",
         "war_military_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_053_pixel.jpg"
     },
     {
       "id": "war_military_054",
-      "title": "战争与军事史 - 图片55",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个瞬间都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/war_military/war_military_054.png",
+      "title": "普法战争巴黎围城",
+      "summary": "普鲁士军队围困巴黎数月，城中居民以老鼠和动物园动物充饥",
+      "full_text": "普鲁士军队围困巴黎数月，城中居民以老鼠和动物园动物充饥",
+      "image": "res://assets/images/illustrations/war_military/war_military_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "war_military_054_4",
         "war_military_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_054_pixel.jpg"
     },
     {
       "id": "war_military_055",
-      "title": "战争与军事史 - 图片56",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个色彩都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/war_military/war_military_055.png",
+      "title": "西班牙无敌舰队",
+      "summary": "英国火船冲入加莱港无敌舰队阵列，西班牙巨舰在风浪中溃散",
+      "full_text": "英国火船冲入加莱港无敌舰队阵列，西班牙巨舰在风浪中溃散",
+      "image": "res://assets/images/illustrations/war_military/war_military_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "war_military_055_4",
         "war_military_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_055_pixel.jpg"
     },
     {
       "id": "war_military_056",
-      "title": "战争与军事史 - 图片57",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是思想升华的结晶，它承载着科学的精神，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/war_military/war_military_056.png",
+      "title": "拿破仑马伦哥",
+      "summary": "拿破仑在马伦哥战役中逆转局势，德赛将军率援军及时赶到",
+      "full_text": "拿破仑在马伦哥战役中逆转局势，德赛将军率援军及时赶到",
+      "image": "res://assets/images/illustrations/war_military/war_military_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "war_military_056_4",
         "war_military_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_056_pixel.jpg"
     },
     {
       "id": "war_military_057",
-      "title": "战争与军事史 - 图片58",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它优美地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_057.png",
+      "title": "美国内战海上封锁",
+      "summary": "北军铁甲舰封锁南方港口，南军突破船试图冲破封锁线",
+      "full_text": "北军铁甲舰封锁南方港口，南军突破船试图冲破封锁线",
+      "image": "res://assets/images/illustrations/war_military/war_military_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "war_military_057_4",
         "war_military_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_057_pixel.jpg"
     },
     {
       "id": "war_military_058",
-      "title": "战争与军事史 - 图片59",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在自然的领域里，人类智慧展现得淋漓尽致，每一个瞬间都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/war_military/war_military_058.png",
+      "title": "一战士兵战壕",
+      "summary": "士兵在索姆河泥泞战壕中等待冲锋哨响，铁丝网与弹坑遍布无人区",
+      "full_text": "士兵在索姆河泥泞战壕中等待冲锋哨响，铁丝网与弹坑遍布无人区",
+      "image": "res://assets/images/illustrations/war_military/war_military_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "war_military_058_4",
         "war_military_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_058_pixel.jpg"
     },
     {
       "id": "war_military_059",
-      "title": "战争与军事史 - 图片60",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在科学的领域里，自然奇观展现得淋漓尽致，每一个线条都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/war_military/war_military_059.png",
+      "title": "一战凡尔登",
+      "summary": "法军在凡尔登要塞中坚守不退，德军炮火将山丘炸成月球表面",
+      "full_text": "法军在凡尔登要塞中坚守不退，德军炮火将山丘炸成月球表面",
+      "image": "res://assets/images/illustrations/war_military/war_military_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "war_military_059_4",
         "war_military_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_059_pixel.jpg"
     },
     {
       "id": "war_military_060",
-      "title": "战争与军事史 - 图片61",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往神秘国度的大门，充满了震撼与美好感受。",
-      "image": "res://assets/images/illustrations/war_military/war_military_060.png",
+      "title": "一战毒气战",
+      "summary": "士兵匆忙戴上防毒面具，黄绿色氯气云团随风飘过无人区",
+      "full_text": "士兵匆忙戴上防毒面具，黄绿色氯气云团随风飘过无人区",
+      "image": "res://assets/images/illustrations/war_military/war_military_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "war_military_060_4",
         "war_military_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_060_pixel.jpg"
     },
     {
       "id": "war_military_061",
-      "title": "战争与军事史 - 图片62",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个色彩都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/war_military/war_military_061.png",
+      "title": "一战士兵圣诞节休战",
+      "summary": "英德士兵在圣诞夜走出战壕交换礼物，无人区上踢起足球",
+      "full_text": "英德士兵在圣诞夜走出战壕交换礼物，无人区上踢起足球",
+      "image": "res://assets/images/illustrations/war_military/war_military_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "war_military_061_4",
         "war_military_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_061_pixel.jpg"
     },
     {
       "id": "war_military_062",
-      "title": "战争与军事史 - 图片63",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是历史积淀的结晶，它引领着科学的精神，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/war_military/war_military_062.png",
+      "title": "一战坦克首战",
+      "summary": "英军马克一型坦克碾过铁丝网轰鸣前进，德军士兵惊恐逃散",
+      "full_text": "英军马克一型坦克碾过铁丝网轰鸣前进，德军士兵惊恐逃散",
+      "image": "res://assets/images/illustrations/war_military/war_military_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "war_military_062_4",
         "war_military_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_062_pixel.jpg"
     },
     {
       "id": "war_military_063",
-      "title": "战争与军事史 - 图片64",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它丰富地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_063.png",
+      "title": "一战空战",
+      "summary": "红男爵驾驶三翼飞机在云端与敌机缠斗，机枪火花闪烁",
+      "full_text": "红男爵驾驶三翼飞机在云端与敌机缠斗，机枪火花闪烁",
+      "image": "res://assets/images/illustrations/war_military/war_military_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "war_military_063_4",
         "war_military_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_063_pixel.jpg"
     },
     {
       "id": "war_military_064",
-      "title": "战争与军事史 - 图片65",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往美好家园的大门，充满了向往与精神升华。",
-      "image": "res://assets/images/illustrations/war_military/war_military_064.png",
+      "title": "二战诺曼底登陆",
+      "summary": "盟军士兵从登陆艇跳入齐腰海水冲向奥马哈滩头，弹雨如注",
+      "full_text": "盟军士兵从登陆艇跳入齐腰海水冲向奥马哈滩头，弹雨如注",
+      "image": "res://assets/images/illustrations/war_military/war_military_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "war_military_064_4",
         "war_military_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_064_pixel.jpg"
     },
     {
       "id": "war_military_065",
-      "title": "战争与军事史 - 图片66",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它和谐地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_065.png",
+      "title": "二战斯大林格勒",
+      "summary": "苏军在斯大林格勒废墟中逐屋争夺，狙击手潜伏于瓦砾之间",
+      "full_text": "苏军在斯大林格勒废墟中逐屋争夺，狙击手潜伏于瓦砾之间",
+      "image": "res://assets/images/illustrations/war_military/war_military_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "war_military_065_4",
         "war_military_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_065_pixel.jpg"
     },
     {
       "id": "war_military_066",
-      "title": "战争与军事史 - 图片67",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往自然奇观的大门，充满了宁静与心灵震撼。",
-      "image": "res://assets/images/illustrations/war_military/war_military_066.png",
+      "title": "二战中途岛海战",
+      "summary": "美军俯冲轰炸机从云层俯冲投弹，三艘日本航母甲板中弹起火",
+      "full_text": "美军俯冲轰炸机从云层俯冲投弹，三艘日本航母甲板中弹起火",
+      "image": "res://assets/images/illustrations/war_military/war_military_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "war_military_066_4",
         "war_military_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_066_pixel.jpg"
     },
     {
       "id": "war_military_067",
-      "title": "战争与军事史 - 图片68",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学不仅记录了自然之美，更传递了智慧的光芒，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/war_military/war_military_067.png",
+      "title": "二战不列颠空战",
+      "summary": "喷火战斗机在伦敦上空拦截德军轰炸机编队，防空探照灯划破夜空",
+      "full_text": "喷火战斗机在伦敦上空拦截德军轰炸机编队，防空探照灯划破夜空",
+      "image": "res://assets/images/illustrations/war_military/war_military_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "war_military_067_4",
         "war_military_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_067_pixel.jpg"
     },
     {
       "id": "war_military_068",
-      "title": "战争与军事史 - 图片69",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术不仅探索了自然之美，更传递了真善美的追求，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/war_military/war_military_068.png",
+      "title": "二战珍珠港",
+      "summary": "日本零式战机低空掠过珍珠港，美军战列舰在鱼雷爆炸中倾覆",
+      "full_text": "日本零式战机低空掠过珍珠港，美军战列舰在鱼雷爆炸中倾覆",
+      "image": "res://assets/images/illustrations/war_military/war_military_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "war_military_068_4",
         "war_military_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_068_pixel.jpg"
     },
     {
       "id": "war_military_069",
-      "title": "战争与军事史 - 图片70",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往神秘国度的大门，充满了愉悦与美好感受。",
-      "image": "res://assets/images/illustrations/war_military/war_military_069.png",
+      "title": "二战柏林战役",
+      "summary": "苏军坦克碾过柏林街道直捣国会大厦，红旗插上穹顶",
+      "full_text": "苏军坦克碾过柏林街道直捣国会大厦，红旗插上穹顶",
+      "image": "res://assets/images/illustrations/war_military/war_military_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "war_military_069_4",
         "war_military_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_069_pixel.jpg"
     },
     {
       "id": "war_military_070",
-      "title": "战争与军事史 - 图片71",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然不仅创造了生活哲理，更传递了生命的意义，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/war_military/war_military_070.png",
+      "title": "二战北非战场",
+      "summary": "隆美尔率非洲军团在沙漠中快速机动，坦克扬起漫天黄沙",
+      "full_text": "隆美尔率非洲军团在沙漠中快速机动，坦克扬起漫天黄沙",
+      "image": "res://assets/images/illustrations/war_military/war_military_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "war_military_070_4",
         "war_military_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_070_pixel.jpg"
     },
     {
       "id": "war_military_071",
-      "title": "战争与军事史 - 图片72",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学是情感表达的结晶，它传递着人文的关怀，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/war_military/war_military_071.png",
+      "title": "二战太平洋跳岛",
+      "summary": "美军在硫磺岛火山灰海滩登陆，折钵山上星条旗艰难升起",
+      "full_text": "美军在硫磺岛火山灰海滩登陆，折钵山上星条旗艰难升起",
+      "image": "res://assets/images/illustrations/war_military/war_military_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "war_military_071_4",
         "war_military_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_071_pixel.jpg"
     },
     {
       "id": "war_military_072",
-      "title": "战争与军事史 - 图片73",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是思想升华的结晶，它创造着生活的智慧，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/war_military/war_military_072.png",
+      "title": "二战列宁格勒围城",
+      "summary": "列宁格勒居民在零下三十度中排队领取面包，围城长达九百日",
+      "full_text": "列宁格勒居民在零下三十度中排队领取面包，围城长达九百日",
+      "image": "res://assets/images/illustrations/war_military/war_military_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "war_military_072_4",
         "war_military_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_072_pixel.jpg"
     },
     {
       "id": "war_military_073",
-      "title": "战争与军事史 - 图片74",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是审美追求的结晶，它记录着美好的愿景，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/war_military/war_military_073.png",
+      "title": "二战集中营解放",
+      "summary": "盟军士兵打开集中营大门，骨瘦如柴的囚犯蹒跚走出营房",
+      "full_text": "盟军士兵打开集中营大门，骨瘦如柴的囚犯蹒跚走出营房",
+      "image": "res://assets/images/illustrations/war_military/war_military_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "war_military_073_4",
         "war_military_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_073_pixel.jpg"
     },
     {
       "id": "war_military_074",
-      "title": "战争与军事史 - 图片75",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往神秘国度的大门，充满了震撼与情感共鸣。",
-      "image": "res://assets/images/illustrations/war_military/war_military_074.png",
+      "title": "二战敦刻尔克撤退",
+      "summary": "英国渔船与游艇跨海接运敦刻尔克滩头等待的远征军士兵",
+      "full_text": "英国渔船与游艇跨海接运敦刻尔克滩头等待的远征军士兵",
+      "image": "res://assets/images/illustrations/war_military/war_military_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,14 +1573,15 @@
         "war_military_074_4",
         "war_military_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_074_pixel.jpg"
     },
     {
       "id": "war_military_075",
-      "title": "战争与军事史 - 图片76",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往知识海洋的大门，充满了宁静与精神升华。",
-      "image": "res://assets/images/illustrations/war_military/war_military_075.png",
+      "title": "二战原子弹",
+      "summary": "蘑菇云在广岛上空升腾，原子弹爆炸改变战争与人类历史",
+      "full_text": "蘑菇云在广岛上空升腾，原子弹爆炸改变战争与人类历史",
+      "image": "res://assets/images/illustrations/war_military/war_military_075.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1519,14 +1594,15 @@
         "war_military_075_4",
         "war_military_075_5"
       ],
-      "order": 75
+      "order": 75,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_075_pixel.jpg"
     },
     {
       "id": "war_military_076",
-      "title": "战争与军事史 - 图片77",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是文化传承的结晶，它记录着美好的愿景，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/war_military/war_military_076.png",
+      "title": "二战中国抗战",
+      "summary": "中国军队在台儿庄与日军展开巷战，逐屋争夺寸土不让",
+      "full_text": "中国军队在台儿庄与日军展开巷战，逐屋争夺寸土不让",
+      "image": "res://assets/images/illustrations/war_military/war_military_076.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1539,14 +1615,15 @@
         "war_military_076_4",
         "war_military_076_5"
       ],
-      "order": 76
+      "order": 76,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_076_pixel.jpg"
     },
     {
       "id": "war_military_077",
-      "title": "战争与军事史 - 图片78",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/war_military/war_military_077.png",
+      "title": "冷战柏林空运",
+      "summary": "盟军运输机每隔数分钟降落一次，向西柏林空投食品与煤炭",
+      "full_text": "盟军运输机每隔数分钟降落一次，向西柏林空投食品与煤炭",
+      "image": "res://assets/images/illustrations/war_military/war_military_077.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1559,14 +1636,15 @@
         "war_military_077_4",
         "war_military_077_5"
       ],
-      "order": 77
+      "order": 77,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_077_pixel.jpg"
     },
     {
       "id": "war_military_078",
-      "title": "战争与军事史 - 图片79",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是自然造化的结晶，它展现着美好的愿景，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/war_military/war_military_078.png",
+      "title": "朝鲜战争长津湖",
+      "summary": "美军在长津湖零下四十度严寒中突围，中国志愿军伏兵漫山遍野",
+      "full_text": "美军在长津湖零下四十度严寒中突围，中国志愿军伏兵漫山遍野",
+      "image": "res://assets/images/illustrations/war_military/war_military_078.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1579,14 +1657,15 @@
         "war_military_078_4",
         "war_military_078_5"
       ],
-      "order": 78
+      "order": 78,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_078_pixel.jpg"
     },
     {
       "id": "war_military_079",
-      "title": "战争与军事史 - 图片80",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往美丽新世界的大门，充满了好奇与知识启迪。",
-      "image": "res://assets/images/illustrations/war_military/war_military_079.png",
+      "title": "越南战争",
+      "summary": "美军直升机在丛林上空投放士兵，越共游击队潜伏稻田之中",
+      "full_text": "美军直升机在丛林上空投放士兵，越共游击队潜伏稻田之中",
+      "image": "res://assets/images/illustrations/war_military/war_military_079.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1599,14 +1678,15 @@
         "war_military_079_4",
         "war_military_079_5"
       ],
-      "order": 79
+      "order": 79,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_079_pixel.jpg"
     },
     {
       "id": "war_military_080",
-      "title": "战争与军事史 - 图片81",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它庄重地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_080.png",
+      "title": "古巴导弹危机",
+      "summary": "美军侦察机拍摄到古巴导弹基地照片，核战一触即发",
+      "full_text": "美军侦察机拍摄到古巴导弹基地照片，核战一触即发",
+      "image": "res://assets/images/illustrations/war_military/war_military_080.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1619,14 +1699,15 @@
         "war_military_080_4",
         "war_military_080_5"
       ],
-      "order": 80
+      "order": 80,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_080_pixel.jpg"
     },
     {
       "id": "war_military_081",
-      "title": "战争与军事史 - 图片82",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化不仅展现了文化内涵，更传递了美的真谛，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/war_military/war_military_081.png",
+      "title": "海湾战争沙漠风暴",
+      "summary": "多国部队战机夜袭巴格达，精确制导炸弹命中军事目标",
+      "full_text": "多国部队战机夜袭巴格达，精确制导炸弹命中军事目标",
+      "image": "res://assets/images/illustrations/war_military/war_military_081.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1639,14 +1720,15 @@
         "war_military_081_4",
         "war_military_081_5"
       ],
-      "order": 81
+      "order": 81,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_081_pixel.jpg"
     },
     {
       "id": "war_military_082",
-      "title": "战争与军事史 - 图片83",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在自然的领域里，人类智慧展现得淋漓尽致，每一个思想都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/war_military/war_military_082.png",
+      "title": "马岛战争",
+      "summary": "英国远征舰队横跨大西洋驶向福克兰群岛，海鹞战机升空迎敌",
+      "full_text": "英国远征舰队横跨大西洋驶向福克兰群岛，海鹞战机升空迎敌",
+      "image": "res://assets/images/illustrations/war_military/war_military_082.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1659,14 +1741,15 @@
         "war_military_082_4",
         "war_military_082_5"
       ],
-      "order": 82
+      "order": 82,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_082_pixel.jpg"
     },
     {
       "id": "war_military_083",
-      "title": "战争与军事史 - 图片84",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学是历史积淀的结晶，它创造着社会的进步，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/war_military/war_military_083.png",
+      "title": "阿富汗战争",
+      "summary": "美军特种部队骑马与北方联盟并肩作战，B52轰炸机在头顶盘旋",
+      "full_text": "美军特种部队骑马与北方联盟并肩作战，B52轰炸机在头顶盘旋",
+      "image": "res://assets/images/illustrations/war_military/war_military_083.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1679,14 +1762,15 @@
         "war_military_083_4",
         "war_military_083_5"
       ],
-      "order": 83
+      "order": 83,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_083_pixel.jpg"
     },
     {
       "id": "war_military_084",
-      "title": "战争与军事史 - 图片85",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往灵感源泉的大门，充满了愉悦与情感共鸣。",
-      "image": "res://assets/images/illustrations/war_military/war_military_084.png",
+      "title": "伊拉克战争",
+      "summary": "美军M1坦克纵队在伊拉克沙漠中推进，夜视仪下沙暴滚滚",
+      "full_text": "美军M1坦克纵队在伊拉克沙漠中推进，夜视仪下沙暴滚滚",
+      "image": "res://assets/images/illustrations/war_military/war_military_084.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1699,14 +1783,15 @@
         "war_military_084_4",
         "war_military_084_5"
       ],
-      "order": 84
+      "order": 84,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_084_pixel.jpg"
     },
     {
       "id": "war_military_085",
-      "title": "战争与军事史 - 图片86",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是历史积淀的结晶，它记录着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/war_military/war_military_085.png",
+      "title": "反恐战争",
+      "summary": "纽约消防员在世贸中心废墟中搜救，九一一改变安全格局",
+      "full_text": "纽约消防员在世贸中心废墟中搜救，九一一改变安全格局",
+      "image": "res://assets/images/illustrations/war_military/war_military_085.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1719,14 +1804,15 @@
         "war_military_085_4",
         "war_military_085_5"
       ],
-      "order": 85
+      "order": 85,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_085_pixel.jpg"
     },
     {
       "id": "war_military_086",
-      "title": "战争与军事史 - 图片87",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是艺术创造的结晶，它记录着人文的关怀，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/war_military/war_military_086.png",
+      "title": "冷战核潜艇",
+      "summary": "苏联核潜艇在北冰洋冰层下静默潜航，随时待命发射导弹",
+      "full_text": "苏联核潜艇在北冰洋冰层下静默潜航，随时待命发射导弹",
+      "image": "res://assets/images/illustrations/war_military/war_military_086.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1739,14 +1825,15 @@
         "war_military_086_4",
         "war_military_086_5"
       ],
-      "order": 86
+      "order": 86,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_086_pixel.jpg"
     },
     {
       "id": "war_military_087",
-      "title": "战争与军事史 - 图片88",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往智慧天地的大门，充满了感动与心灵震撼。",
-      "image": "res://assets/images/illustrations/war_military/war_military_087.png",
+      "title": "中东六日战争",
+      "summary": "以色列空军在六日战争首日摧毁阿拉伯空军，坦克横扫西奈半岛",
+      "full_text": "以色列空军在六日战争首日摧毁阿拉伯空军，坦克横扫西奈半岛",
+      "image": "res://assets/images/illustrations/war_military/war_military_087.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1759,14 +1846,15 @@
         "war_military_087_4",
         "war_military_087_5"
       ],
-      "order": 87
+      "order": 87,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_087_pixel.jpg"
     },
     {
       "id": "war_military_088",
-      "title": "战争与军事史 - 图片89",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它生动地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_088.png",
+      "title": "两伊战争",
+      "summary": "伊朗少年兵踩过雷区为后续部队开路，两伊战壕对峙八年",
+      "full_text": "伊朗少年兵踩过雷区为后续部队开路，两伊战壕对峙八年",
+      "image": "res://assets/images/illustrations/war_military/war_military_088.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1779,14 +1867,15 @@
         "war_military_088_4",
         "war_military_088_5"
       ],
-      "order": 88
+      "order": 88,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_088_pixel.jpg"
     },
     {
       "id": "war_military_089",
-      "title": "战争与军事史 - 图片90",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它丰富地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_089.png",
+      "title": "卢旺达维和",
+      "summary": "联合国维和部队在卢旺达设立安全区，保护平民免遭屠杀",
+      "full_text": "联合国维和部队在卢旺达设立安全区，保护平民免遭屠杀",
+      "image": "res://assets/images/illustrations/war_military/war_military_089.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1799,14 +1888,15 @@
         "war_military_089_4",
         "war_military_089_5"
       ],
-      "order": 89
+      "order": 89,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_089_pixel.jpg"
     },
     {
       "id": "war_military_090",
-      "title": "战争与军事史 - 图片91",
-      "summary": "战争与军事史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它灵动地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_090.png",
+      "title": "叙利亚内战",
+      "summary": "阿勒颇古城在炮火中化为废墟，平民从瓦砾中搜救幸存者",
+      "full_text": "阿勒颇古城在炮火中化为废墟，平民从瓦砾中搜救幸存者",
+      "image": "res://assets/images/illustrations/war_military/war_military_090.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1819,14 +1909,15 @@
         "war_military_090_4",
         "war_military_090_5"
       ],
-      "order": 90
+      "order": 90,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_090_pixel.jpg"
     },
     {
       "id": "war_military_091",
-      "title": "战争与军事史 - 图片92",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它壮观地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_091.png",
+      "title": "无人机战争",
+      "summary": "操作员在千里之外操控无人机执行打击，屏幕锁定地面目标",
+      "full_text": "操作员在千里之外操控无人机执行打击，屏幕锁定地面目标",
+      "image": "res://assets/images/illustrations/war_military/war_military_091.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1839,14 +1930,15 @@
         "war_military_091_4",
         "war_military_091_5"
       ],
-      "order": 91
+      "order": 91,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_091_pixel.jpg"
     },
     {
       "id": "war_military_092",
-      "title": "战争与军事史 - 图片93",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往精神家园的大门，充满了愉悦与知识启迪。",
-      "image": "res://assets/images/illustrations/war_military/war_military_092.png",
+      "title": "网络战",
+      "summary": "军方网络战中心屏幕闪烁代码，数字战场不见硝烟却暗流涌动",
+      "full_text": "军方网络战中心屏幕闪烁代码，数字战场不见硝烟却暗流涌动",
+      "image": "res://assets/images/illustrations/war_military/war_military_092.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1859,14 +1951,15 @@
         "war_military_092_4",
         "war_military_092_5"
       ],
-      "order": 92
+      "order": 92,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_092_pixel.jpg"
     },
     {
       "id": "war_military_093",
-      "title": "战争与军事史 - 图片94",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往神秘国度的大门，充满了憧憬与美好感受。",
-      "image": "res://assets/images/illustrations/war_military/war_military_093.png",
+      "title": "太空军事化",
+      "summary": "军用卫星在轨道上监视地面导弹发射，太空成为新战场",
+      "full_text": "军用卫星在轨道上监视地面导弹发射，太空成为新战场",
+      "image": "res://assets/images/illustrations/war_military/war_military_093.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1879,14 +1972,15 @@
         "war_military_093_4",
         "war_military_093_5"
       ],
-      "order": 93
+      "order": 93,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_093_pixel.jpg"
     },
     {
       "id": "war_military_094",
-      "title": "战争与军事史 - 图片95",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个自然元素都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/war_military/war_military_094.png",
+      "title": "维和部队巡逻",
+      "summary": "蓝盔维和士兵在非洲冲突地区巡逻，装甲车护卫人道救援车队",
+      "full_text": "蓝盔维和士兵在非洲冲突地区巡逻，装甲车护卫人道救援车队",
+      "image": "res://assets/images/illustrations/war_military/war_military_094.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1899,14 +1993,15 @@
         "war_military_094_4",
         "war_military_094_5"
       ],
-      "order": 94
+      "order": 94,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_094_pixel.jpg"
     },
     {
       "id": "war_military_095",
-      "title": "战争与军事史 - 图片96",
-      "summary": "战争与军事史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它优美地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/war_military/war_military_095.png",
+      "title": "罗马高卢战争",
+      "summary": "凯撒率罗马军团在高卢森林中与维钦托利骑兵交战，高卢终被征服",
+      "full_text": "凯撒率罗马军团在高卢森林中与维钦托利骑兵交战，高卢终被征服",
+      "image": "res://assets/images/illustrations/war_military/war_military_095.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1919,14 +2014,15 @@
         "war_military_095_4",
         "war_military_095_5"
       ],
-      "order": 95
+      "order": 95,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_095_pixel.jpg"
     },
     {
       "id": "war_military_096",
-      "title": "战争与军事史 - 图片97",
-      "summary": "战争与军事史相关图片",
-      "full_text": "艺术是思想升华的结晶，它引领着社会的进步，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/war_military/war_military_096.png",
+      "title": "蒙古攻宋战争",
+      "summary": "蒙古水军在崖山海战中击溃南宋舰队，十万军民蹈海殉国",
+      "full_text": "蒙古水军在崖山海战中击溃南宋舰队，十万军民蹈海殉国",
+      "image": "res://assets/images/illustrations/war_military/war_military_096.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1939,14 +2035,15 @@
         "war_military_096_4",
         "war_military_096_5"
       ],
-      "order": 96
+      "order": 96,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_096_pixel.jpg"
     },
     {
       "id": "war_military_097",
-      "title": "战争与军事史 - 图片98",
-      "summary": "战争与军事史相关图片",
-      "full_text": "文化是生活体验的结晶，它引领着人类的梦想，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/war_military/war_military_097.png",
+      "title": "三十年战争",
+      "summary": "华伦斯坦率雇佣军在吕岑战场与瑞典古斯塔夫二世对决",
+      "full_text": "华伦斯坦率雇佣军在吕岑战场与瑞典古斯塔夫二世对决",
+      "image": "res://assets/images/illustrations/war_military/war_military_097.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1959,14 +2056,15 @@
         "war_military_097_4",
         "war_military_097_5"
       ],
-      "order": 97
+      "order": 97,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_097_pixel.jpg"
     },
     {
       "id": "war_military_098",
-      "title": "战争与军事史 - 图片99",
-      "summary": "战争与军事史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美丽新世界的大门，充满了温馨与文化浸润。",
-      "image": "res://assets/images/illustrations/war_military/war_military_098.png",
+      "title": "拿破仑半岛战争",
+      "summary": "西班牙游击队在山区伏击法军补给线，人民战争消耗拿破仑兵力",
+      "full_text": "西班牙游击队在山区伏击法军补给线，人民战争消耗拿破仑兵力",
+      "image": "res://assets/images/illustrations/war_military/war_military_098.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1979,14 +2077,15 @@
         "war_military_098_4",
         "war_military_098_5"
       ],
-      "order": 98
+      "order": 98,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_098_pixel.jpg"
     },
     {
       "id": "war_military_099",
-      "title": "战争与军事史 - 图片100",
-      "summary": "战争与军事史相关图片",
-      "full_text": "在科学的领域里，生态保护展现得淋漓尽致，每一个历史印记都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/war_military/war_military_099.png",
+      "title": "一战加里波利",
+      "summary": "澳新军团在加里波利半岛登陆遇阻，陡崖上土耳其机枪扫射滩头",
+      "full_text": "澳新军团在加里波利半岛登陆遇阻，陡崖上土耳其机枪扫射滩头",
+      "image": "res://assets/images/illustrations/war_military/war_military_099.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1999,7 +2098,8 @@
         "war_military_099_4",
         "war_military_099_5"
       ],
-      "order": 99
+      "order": 99,
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_099_pixel.jpg"
     }
   ]
 }

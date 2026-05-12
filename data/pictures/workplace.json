@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "workplace_000",
-      "title": "职场工作 - 图片1",
-      "summary": "职场工作相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往灵感源泉的大门，充满了感动与知识启迪。",
-      "image": "res://assets/images/illustrations/workplace/workplace_000.png",
+      "title": "铁匠打铁",
+      "summary": "铁匠铺炉火通红，锤打铁器火星四溅，传统锻造技艺",
+      "full_text": "铁匠铺炉火通红，锤打铁器火星四溅，传统锻造技艺",
+      "image": "res://assets/images/illustrations/workplace/workplace_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "workplace_000_4",
         "workplace_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_000_pixel.jpg"
     },
     {
       "id": "workplace_001",
-      "title": "职场工作 - 图片2",
-      "summary": "职场工作相关图片",
-      "full_text": "文化不仅表达了美好瞬间，更传递了真善美的追求，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/workplace/workplace_001.png",
+      "title": "木匠刨木",
+      "summary": "木匠推刨子木花飞卷，榫卯结构不用钉子，匠心独运",
+      "full_text": "木匠推刨子木花飞卷，榫卯结构不用钉子，匠心独运",
+      "image": "res://assets/images/illustrations/workplace/workplace_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "workplace_001_4",
         "workplace_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_001_pixel.jpg"
     },
     {
       "id": "workplace_002",
-      "title": "职场工作 - 图片3",
-      "summary": "职场工作相关图片",
-      "full_text": "在自然的领域里，文化传承展现得淋漓尽致，每一个光影都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/workplace/workplace_002.png",
+      "title": "渔夫撒网",
+      "summary": "渔夫晨曦中撒网捕鱼，小船荡漾水面，水上营生",
+      "full_text": "渔夫晨曦中撒网捕鱼，小船荡漾水面，水上营生",
+      "image": "res://assets/images/illustrations/workplace/workplace_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "workplace_002_4",
         "workplace_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_002_pixel.jpg"
     },
     {
       "id": "workplace_003",
-      "title": "职场工作 - 图片4",
-      "summary": "职场工作相关图片",
-      "full_text": "科学是思想升华的结晶，它表达着永恒的真理，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/workplace/workplace_003.png",
+      "title": "裁缝量体",
+      "summary": "老裁缝皮尺量体，剪刀裁布缝纫机踏，手工定制",
+      "full_text": "老裁缝皮尺量体，剪刀裁布缝纫机踏，手工定制",
+      "image": "res://assets/images/illustrations/workplace/workplace_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "workplace_003_4",
         "workplace_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_003_pixel.jpg"
     },
     {
       "id": "workplace_004",
-      "title": "职场工作 - 图片5",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术不仅记录了人类文明，更传递了梦想的价值，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/workplace/workplace_004.png",
+      "title": "陶工拉坯",
+      "summary": "陶工转盘上拉坯成型，双手塑造器形，泥土的艺术",
+      "full_text": "陶工转盘上拉坯成型，双手塑造器形，泥土的艺术",
+      "image": "res://assets/images/illustrations/workplace/workplace_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "workplace_004_4",
         "workplace_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_004_pixel.jpg"
     },
     {
       "id": "workplace_005",
-      "title": "职场工作 - 图片6",
-      "summary": "职场工作相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它庄重地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/workplace/workplace_005.png",
+      "title": "篾匠编竹",
+      "summary": "篾匠劈竹编篮，手指翻飞竹条交织，传统手工艺",
+      "full_text": "篾匠劈竹编篮，手指翻飞竹条交织，传统手工艺",
+      "image": "res://assets/images/illustrations/workplace/workplace_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "workplace_005_4",
         "workplace_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_005_pixel.jpg"
     },
     {
       "id": "workplace_006",
-      "title": "职场工作 - 图片7",
-      "summary": "职场工作相关图片",
-      "full_text": "自然不仅表达了历史记忆，更传递了生命的意义，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/workplace/workplace_006.png",
+      "title": "石匠凿石",
+      "summary": "石匠挥锤凿石，石屑飞溅雕刻纹样，千年技艺",
+      "full_text": "石匠挥锤凿石，石屑飞溅雕刻纹样，千年技艺",
+      "image": "res://assets/images/illustrations/workplace/workplace_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "workplace_006_4",
         "workplace_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_006_pixel.jpg"
     },
     {
       "id": "workplace_007",
-      "title": "职场工作 - 图片8",
-      "summary": "职场工作相关图片",
-      "full_text": "科学不仅诠释了生活哲理，更传递了美的真谛，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/workplace/workplace_007.png",
+      "title": "染坊染布",
+      "summary": "染坊蓝靛染布，布匹悬挂晾晒，传统印染工艺",
+      "full_text": "染坊蓝靛染布，布匹悬挂晾晒，传统印染工艺",
+      "image": "res://assets/images/illustrations/workplace/workplace_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "workplace_007_4",
         "workplace_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_007_pixel.jpg"
     },
     {
       "id": "workplace_008",
-      "title": "职场工作 - 图片9",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它精彩地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/workplace/workplace_008.png",
+      "title": "磨坊碾米",
+      "summary": "水磨坊水车转动碾米，石磨缓缓研磨，古老加工",
+      "full_text": "水磨坊水车转动碾米，石磨缓缓研磨，古老加工",
+      "image": "res://assets/images/illustrations/workplace/workplace_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "workplace_008_4",
         "workplace_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_008_pixel.jpg"
     },
     {
       "id": "workplace_009",
-      "title": "职场工作 - 图片10",
-      "summary": "职场工作相关图片",
-      "full_text": "在文化的领域里，文化传承展现得淋漓尽致，每一个自然元素都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/workplace/workplace_009.png",
+      "title": "绣娘刺绣",
+      "summary": "绣娘飞针走线，丝线绣出花鸟鱼虫，苏绣精品",
+      "full_text": "绣娘飞针走线，丝线绣出花鸟鱼虫，苏绣精品",
+      "image": "res://assets/images/illustrations/workplace/workplace_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "workplace_009_4",
         "workplace_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_009_pixel.jpg"
     },
     {
       "id": "workplace_010",
-      "title": "职场工作 - 图片11",
-      "summary": "职场工作相关图片",
-      "full_text": "自然是文化传承的结晶，它记录着深刻的思考，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/workplace/workplace_010.png",
+      "title": "茶农采茶",
+      "summary": "茶农清晨采茶，竹篓装满嫩芽，高山云雾出好茶",
+      "full_text": "茶农清晨采茶，竹篓装满嫩芽，高山云雾出好茶",
+      "image": "res://assets/images/illustrations/workplace/workplace_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "workplace_010_4",
         "workplace_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_010_pixel.jpg"
     },
     {
       "id": "workplace_011",
-      "title": "职场工作 - 图片12",
-      "summary": "职场工作相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往神秘国度的大门，充满了好奇与文化浸润。",
-      "image": "res://assets/images/illustrations/workplace/workplace_011.png",
+      "title": "药师抓药",
+      "summary": "中药铺药师抓药，小秤称量纸包扎，传统药行",
+      "full_text": "中药铺药师抓药，小秤称量纸包扎，传统药行",
+      "image": "res://assets/images/illustrations/workplace/workplace_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "workplace_011_4",
         "workplace_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_011_pixel.jpg"
     },
     {
       "id": "workplace_012",
-      "title": "职场工作 - 图片13",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术不仅展现了艺术真谛，更传递了智慧的光芒，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/workplace/workplace_012.png",
+      "title": "更夫打更",
+      "summary": "更夫夜巡打更报时，锣声回荡古街，守夜人职责",
+      "full_text": "更夫夜巡打更报时，锣声回荡古街，守夜人职责",
+      "image": "res://assets/images/illustrations/workplace/workplace_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "workplace_012_4",
         "workplace_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_012_pixel.jpg"
     },
     {
       "id": "workplace_013",
-      "title": "职场工作 - 图片14",
-      "summary": "职场工作相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它神秘地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/workplace/workplace_013.png",
+      "title": "账房先生",
+      "summary": "账房先生算盘噼啪，毛笔记账分毫不差，传统财务",
+      "full_text": "账房先生算盘噼啪，毛笔记账分毫不差，传统财务",
+      "image": "res://assets/images/illustrations/workplace/workplace_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "workplace_013_4",
         "workplace_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_013_pixel.jpg"
     },
     {
       "id": "workplace_014",
-      "title": "职场工作 - 图片15",
-      "summary": "职场工作相关图片",
-      "full_text": "在自然的领域里，艺术创造展现得淋漓尽致，每一个光影都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/workplace/workplace_014.png",
+      "title": "轿夫抬轿",
+      "summary": "轿夫抬轿穿行街巷，步调一致稳当，体力劳动者",
+      "full_text": "轿夫抬轿穿行街巷，步调一致稳当，体力劳动者",
+      "image": "res://assets/images/illustrations/workplace/workplace_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "workplace_014_4",
         "workplace_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_014_pixel.jpg"
     },
     {
       "id": "workplace_015",
-      "title": "职场工作 - 图片16",
-      "summary": "职场工作相关图片",
-      "full_text": "科学是人类智慧的结晶，它承载着永恒的真理，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/workplace/workplace_015.png",
+      "title": "纤夫拉纤",
+      "summary": "长江纤夫赤膊拉纤，号子声声逆水行舟，悲壮力量",
+      "full_text": "长江纤夫赤膊拉纤，号子声声逆水行舟，悲壮力量",
+      "image": "res://assets/images/illustrations/workplace/workplace_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "workplace_015_4",
         "workplace_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_015_pixel.jpg"
     },
     {
       "id": "workplace_016",
-      "title": "职场工作 - 图片17",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术是情感表达的结晶，它展现着社会的进步，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/workplace/workplace_016.png",
+      "title": "现代办公室",
+      "summary": "现代办公室格子间，电脑电话忙碌，白领工作场景",
+      "full_text": "现代办公室格子间，电脑电话忙碌，白领工作场景",
+      "image": "res://assets/images/illustrations/workplace/workplace_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "workplace_016_4",
         "workplace_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_016_pixel.jpg"
     },
     {
       "id": "workplace_017",
-      "title": "职场工作 - 图片18",
-      "summary": "职场工作相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了激情与艺术熏陶。",
-      "image": "res://assets/images/illustrations/workplace/workplace_017.png",
+      "title": "远程居家办公",
+      "summary": "远程居家办公视频会议，书房即办公室，灵活工作",
+      "full_text": "远程居家办公视频会议，书房即办公室，灵活工作",
+      "image": "res://assets/images/illustrations/workplace/workplace_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "workplace_017_4",
         "workplace_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_017_pixel.jpg"
     },
     {
       "id": "workplace_018",
-      "title": "职场工作 - 图片19",
-      "summary": "职场工作相关图片",
-      "full_text": "自然不仅描绘了自然之美，更传递了创新的精神，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/workplace/workplace_018.png",
+      "title": "创业咖啡厅",
+      "summary": "创业者在咖啡厅讨论，笔记本电脑商业计划，激情与梦想",
+      "full_text": "创业者在咖啡厅讨论，笔记本电脑商业计划，激情与梦想",
+      "image": "res://assets/images/illustrations/workplace/workplace_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "workplace_018_4",
         "workplace_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_018_pixel.jpg"
     },
     {
       "id": "workplace_019",
-      "title": "职场工作 - 图片20",
-      "summary": "职场工作相关图片",
-      "full_text": "科学不仅诠释了时代精神，更传递了人与自然的和谐，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/workplace/workplace_019.png",
+      "title": "程序员编码",
+      "summary": "程序员双屏编码，深夜调试程序，数字世界创造者",
+      "full_text": "程序员双屏编码，深夜调试程序，数字世界创造者",
+      "image": "res://assets/images/illustrations/workplace/workplace_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "workplace_019_4",
         "workplace_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_019_pixel.jpg"
     },
     {
       "id": "workplace_020",
-      "title": "职场工作 - 图片21",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术不仅展现了生活哲理，更传递了梦想的价值，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/workplace/workplace_020.png",
+      "title": "设计师创作",
+      "summary": "设计师手绘板创作，色彩构图灵感迸发，视觉创意",
+      "full_text": "设计师手绘板创作，色彩构图灵感迸发，视觉创意",
+      "image": "res://assets/images/illustrations/workplace/workplace_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "workplace_020_4",
         "workplace_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_020_pixel.jpg"
     },
     {
       "id": "workplace_021",
-      "title": "职场工作 - 图片22",
-      "summary": "职场工作相关图片",
-      "full_text": "文化不仅传递了美好瞬间，更传递了创新的精神，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/workplace/workplace_021.png",
+      "title": "外卖骑手",
+      "summary": "外卖骑手穿行城市，保温箱准时送达，速度与辛劳",
+      "full_text": "外卖骑手穿行城市，保温箱准时送达，速度与辛劳",
+      "image": "res://assets/images/illustrations/workplace/workplace_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "workplace_021_4",
         "workplace_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_021_pixel.jpg"
     },
     {
       "id": "workplace_022",
-      "title": "职场工作 - 图片23",
-      "summary": "职场工作相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往智慧天地的大门，充满了温馨与视觉享受。",
-      "image": "res://assets/images/illustrations/workplace/workplace_022.png",
+      "title": "快递分拣",
+      "summary": "快递分拣中心流水线，包裹扫描分类，物流效率",
+      "full_text": "快递分拣中心流水线，包裹扫描分类，物流效率",
+      "image": "res://assets/images/illustrations/workplace/workplace_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "workplace_022_4",
         "workplace_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_022_pixel.jpg"
     },
     {
       "id": "workplace_023",
-      "title": "职场工作 - 图片24",
-      "summary": "职场工作相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它奇妙地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/workplace/workplace_023.png",
+      "title": "直播带货",
+      "summary": "主播直播带货，镜头前展示产品，电商新职业",
+      "full_text": "主播直播带货，镜头前展示产品，电商新职业",
+      "image": "res://assets/images/illustrations/workplace/workplace_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "workplace_023_4",
         "workplace_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_023_pixel.jpg"
     },
     {
       "id": "workplace_024",
-      "title": "职场工作 - 图片25",
-      "summary": "职场工作相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个历史印记都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/workplace/workplace_024.png",
+      "title": "自媒体创作",
+      "summary": "自媒体人拍摄剪辑，内容创作粉丝互动，新兴职业",
+      "full_text": "自媒体人拍摄剪辑，内容创作粉丝互动，新兴职业",
+      "image": "res://assets/images/illustrations/workplace/workplace_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "workplace_024_4",
         "workplace_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_024_pixel.jpg"
     },
     {
       "id": "workplace_025",
-      "title": "职场工作 - 图片26",
-      "summary": "职场工作相关图片",
-      "full_text": "在文化的领域里，生态保护展现得淋漓尽致，每一个情感都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/workplace/workplace_025.png",
+      "title": "共享办公",
+      "summary": "共享办公空间开放工位，创业者自由交流，协作氛围",
+      "full_text": "共享办公空间开放工位，创业者自由交流，协作氛围",
+      "image": "res://assets/images/illustrations/workplace/workplace_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "workplace_025_4",
         "workplace_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_025_pixel.jpg"
     },
     {
       "id": "workplace_026",
-      "title": "职场工作 - 图片27",
-      "summary": "职场工作相关图片",
-      "full_text": "在自然的领域里，人类智慧展现得淋漓尽致，每一个思想都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/workplace/workplace_026.png",
+      "title": "建筑工地",
+      "summary": "建筑工人高空作业，安全帽钢筋水泥，城市建设者",
+      "full_text": "建筑工人高空作业，安全帽钢筋水泥，城市建设者",
+      "image": "res://assets/images/illustrations/workplace/workplace_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "workplace_026_4",
         "workplace_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_026_pixel.jpg"
     },
     {
       "id": "workplace_027",
-      "title": "职场工作 - 图片28",
-      "summary": "职场工作相关图片",
-      "full_text": "在科学的领域里，历史变迁展现得淋漓尽致，每一个线条都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/workplace/workplace_027.png",
+      "title": "医院值班",
+      "summary": "医生护士值班查房，白大褂听诊器，守护生命",
+      "full_text": "医生护士值班查房，白大褂听诊器，守护生命",
+      "image": "res://assets/images/illustrations/workplace/workplace_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "workplace_027_4",
         "workplace_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_027_pixel.jpg"
     },
     {
       "id": "workplace_028",
-      "title": "职场工作 - 图片29",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术是思想升华的结晶，它表达着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/workplace/workplace_028.png",
+      "title": "教师课堂",
+      "summary": "教师三尺讲台授课，粉笔黑板传道解惑，教书育人",
+      "full_text": "教师三尺讲台授课，粉笔黑板传道解惑，教书育人",
+      "image": "res://assets/images/illustrations/workplace/workplace_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "workplace_028_4",
         "workplace_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_028_pixel.jpg"
     },
     {
       "id": "workplace_029",
-      "title": "职场工作 - 图片30",
-      "summary": "职场工作相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了感动与心灵震撼。",
-      "image": "res://assets/images/illustrations/workplace/workplace_029.png",
+      "title": "科研实验",
+      "summary": "科研人员穿白大褂做实验，显微镜下观察，探索未知",
+      "full_text": "科研人员穿白大褂做实验，显微镜下观察，探索未知",
+      "image": "res://assets/images/illustrations/workplace/workplace_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "workplace_029_4",
         "workplace_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_029_pixel.jpg"
     },
     {
       "id": "workplace_030",
-      "title": "职场工作 - 图片31",
-      "summary": "职场工作相关图片",
-      "full_text": "自然不仅展现了生活哲理，更传递了创新的精神，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/workplace/workplace_030.png",
+      "title": "面试场景",
+      "summary": "求职者面试紧张自信，HR提问考察，职业起点",
+      "full_text": "求职者面试紧张自信，HR提问考察，职业起点",
+      "image": "res://assets/images/illustrations/workplace/workplace_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "workplace_030_4",
         "workplace_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_030_pixel.jpg"
     },
     {
       "id": "workplace_031",
-      "title": "职场工作 - 图片32",
-      "summary": "职场工作相关图片",
-      "full_text": "科学是艺术创造的结晶，它创造着艺术的追求，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/workplace/workplace_031.png",
+      "title": "职业培训",
+      "summary": "职业培训课堂学习，技能提升充电，终身学习",
+      "full_text": "职业培训课堂学习，技能提升充电，终身学习",
+      "image": "res://assets/images/illustrations/workplace/workplace_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "workplace_031_4",
         "workplace_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_031_pixel.jpg"
     },
     {
       "id": "workplace_032",
-      "title": "职场工作 - 图片33",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术是自然造化的结晶，它激励着人文的关怀，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/workplace/workplace_032.png",
+      "title": "团队协作",
+      "summary": "团队白板前头脑风暴，便签纸创意碰撞，协作力量",
+      "full_text": "团队白板前头脑风暴，便签纸创意碰撞，协作力量",
+      "image": "res://assets/images/illustrations/workplace/workplace_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "workplace_032_4",
         "workplace_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_032_pixel.jpg"
     },
     {
       "id": "workplace_033",
-      "title": "职场工作 - 图片34",
-      "summary": "职场工作相关图片",
-      "full_text": "文化是审美追求的结晶，它诠释着美好的愿景，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/workplace/workplace_033.png",
+      "title": "商务谈判",
+      "summary": "商务谈判桌前交锋，握手达成合作，专业博弈",
+      "full_text": "商务谈判桌前交锋，握手达成合作，专业博弈",
+      "image": "res://assets/images/illustrations/workplace/workplace_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "workplace_033_4",
         "workplace_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_033_pixel.jpg"
     },
     {
       "id": "workplace_034",
-      "title": "职场工作 - 图片35",
-      "summary": "职场工作相关图片",
-      "full_text": "在自然的领域里，人类智慧展现得淋漓尽致，每一个思想都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/workplace/workplace_034.png",
+      "title": "职场晋升",
+      "summary": "职场晋升从基层到管理，能力与机遇并重，成长之路",
+      "full_text": "职场晋升从基层到管理，能力与机遇并重，成长之路",
+      "image": "res://assets/images/illustrations/workplace/workplace_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "workplace_034_4",
         "workplace_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_034_pixel.jpg"
     },
     {
       "id": "workplace_035",
-      "title": "职场工作 - 图片36",
-      "summary": "职场工作相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个瞬间都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/workplace/workplace_035.png",
+      "title": "跨部门沟通",
+      "summary": "跨部门会议协调资源，不同立场寻求共识，沟通艺术",
+      "full_text": "跨部门会议协调资源，不同立场寻求共识，沟通艺术",
+      "image": "res://assets/images/illustrations/workplace/workplace_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "workplace_035_4",
         "workplace_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_035_pixel.jpg"
     },
     {
       "id": "workplace_036",
-      "title": "职场工作 - 图片37",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术不仅创造了美好瞬间，更传递了生命的意义，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/workplace/workplace_036.png",
+      "title": "导师指导",
+      "summary": "职场导师一对一指导，经验传承少走弯路，师徒关系",
+      "full_text": "职场导师一对一指导，经验传承少走弯路，师徒关系",
+      "image": "res://assets/images/illustrations/workplace/workplace_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "workplace_036_4",
         "workplace_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_036_pixel.jpg"
     },
     {
       "id": "workplace_037",
-      "title": "职场工作 - 图片38",
-      "summary": "职场工作相关图片",
-      "full_text": "文化不仅弘扬了生命意义，更传递了人与自然的和谐，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/workplace/workplace_037.png",
+      "title": "技能认证",
+      "summary": "职业技能认证考试，证书证明专业能力，行业标准",
+      "full_text": "职业技能认证考试，证书证明专业能力，行业标准",
+      "image": "res://assets/images/illustrations/workplace/workplace_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "workplace_037_4",
         "workplace_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_037_pixel.jpg"
     },
     {
       "id": "workplace_038",
-      "title": "职场工作 - 图片39",
-      "summary": "职场工作相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个色彩都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/workplace/workplace_038.png",
+      "title": "职业转型",
+      "summary": "中年职业转型再出发，学习新技能勇气，人生第二曲线",
+      "full_text": "中年职业转型再出发，学习新技能勇气，人生第二曲线",
+      "image": "res://assets/images/illustrations/workplace/workplace_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "workplace_038_4",
         "workplace_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_038_pixel.jpg"
     },
     {
       "id": "workplace_039",
-      "title": "职场工作 - 图片40",
-      "summary": "职场工作相关图片",
-      "full_text": "在科学的领域里，人类智慧展现得淋漓尽致，每一个光影都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/workplace/workplace_039.png",
+      "title": "工作生活平衡",
+      "summary": "工作生活平衡追求，下班关机享受生活，身心健康",
+      "full_text": "工作生活平衡追求，下班关机享受生活，身心健康",
+      "image": "res://assets/images/illustrations/workplace/workplace_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "workplace_039_4",
         "workplace_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_039_pixel.jpg"
     },
     {
       "id": "workplace_040",
-      "title": "职场工作 - 图片41",
-      "summary": "职场工作相关图片",
-      "full_text": "在艺术的领域里，人文景观展现得淋漓尽致，每一个色彩都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/workplace/workplace_040.png",
+      "title": "退休告别",
+      "summary": "退休告别会同事送别，鲜花掌声感恩，职业生涯终点",
+      "full_text": "退休告别会同事送别，鲜花掌声感恩，职业生涯终点",
+      "image": "res://assets/images/illustrations/workplace/workplace_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "workplace_040_4",
         "workplace_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_040_pixel.jpg"
     },
     {
       "id": "workplace_041",
-      "title": "职场工作 - 图片42",
-      "summary": "职场工作相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它绚丽地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/workplace/workplace_041.png",
+      "title": "实习初体验",
+      "summary": "大学生实习初入职场，忐忑与期待并存，职业启蒙",
+      "full_text": "大学生实习初入职场，忐忑与期待并存，职业启蒙",
+      "image": "res://assets/images/illustrations/workplace/workplace_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "workplace_041_4",
         "workplace_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_041_pixel.jpg"
     },
     {
       "id": "workplace_042",
-      "title": "职场工作 - 图片43",
-      "summary": "职场工作相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往智慧天地的大门，充满了感动与艺术熏陶。",
-      "image": "res://assets/images/illustrations/workplace/workplace_042.png",
+      "title": "工会维权",
+      "summary": "工会维护劳动者权益，集体协商争取福利，劳动保障",
+      "full_text": "工会维护劳动者权益，集体协商争取福利，劳动保障",
+      "image": "res://assets/images/illustrations/workplace/workplace_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "workplace_042_4",
         "workplace_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_042_pixel.jpg"
     },
     {
       "id": "workplace_043",
-      "title": "职场工作 - 图片44",
-      "summary": "职场工作相关图片",
-      "full_text": "科学不仅表达了情感世界，更传递了情感的力量，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/workplace/workplace_043.png",
+      "title": "职业倦怠",
+      "summary": "职业倦怠期迷茫疲惫，调整心态寻找动力，心理调适",
+      "full_text": "职业倦怠期迷茫疲惫，调整心态寻找动力，心理调适",
+      "image": "res://assets/images/illustrations/workplace/workplace_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "workplace_043_4",
         "workplace_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_043_pixel.jpg"
     },
     {
       "id": "workplace_044",
-      "title": "职场工作 - 图片45",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它典雅地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/workplace/workplace_044.png",
+      "title": "行业交流",
+      "summary": "行业峰会交流学习，拓展人脉了解趋势，专业成长",
+      "full_text": "行业峰会交流学习，拓展人脉了解趋势，专业成长",
+      "image": "res://assets/images/illustrations/workplace/workplace_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "workplace_044_4",
         "workplace_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_044_pixel.jpg"
     },
     {
       "id": "workplace_045",
-      "title": "职场工作 - 图片46",
-      "summary": "职场工作相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个思想都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/workplace/workplace_045.png",
+      "title": "劳动保护",
+      "summary": "劳动保护安全装备，防护面罩绝缘手套，安全生产",
+      "full_text": "劳动保护安全装备，防护面罩绝缘手套，安全生产",
+      "image": "res://assets/images/illustrations/workplace/workplace_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "workplace_045_4",
         "workplace_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_045_pixel.jpg"
     },
     {
       "id": "workplace_046",
-      "title": "职场工作 - 图片47",
-      "summary": "职场工作相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往自然奇观的大门，充满了宁静与知识启迪。",
-      "image": "res://assets/images/illustrations/workplace/workplace_046.png",
+      "title": "弹性工作制",
+      "summary": "弹性工作制自由安排，结果导向效率优先，新型管理",
+      "full_text": "弹性工作制自由安排，结果导向效率优先，新型管理",
+      "image": "res://assets/images/illustrations/workplace/workplace_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "workplace_046_4",
         "workplace_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_046_pixel.jpg"
     },
     {
       "id": "workplace_047",
-      "title": "职场工作 - 图片48",
-      "summary": "职场工作相关图片",
-      "full_text": "科学不仅展现了生活哲理，更传递了生命的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/workplace/workplace_047.png",
+      "title": "职场礼仪",
+      "summary": "职场礼仪着装得体，邮件会议规范，专业形象",
+      "full_text": "职场礼仪着装得体，邮件会议规范，专业形象",
+      "image": "res://assets/images/illustrations/workplace/workplace_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "workplace_047_4",
         "workplace_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_047_pixel.jpg"
     },
     {
       "id": "workplace_048",
-      "title": "职场工作 - 图片49",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术是生活体验的结晶，它创造着深刻的思考，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/workplace/workplace_048.png",
+      "title": "职业规划",
+      "summary": "职业规划明确方向，短期目标长期愿景，人生蓝图",
+      "full_text": "职业规划明确方向，短期目标长期愿景，人生蓝图",
+      "image": "res://assets/images/illustrations/workplace/workplace_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "workplace_048_4",
         "workplace_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_048_pixel.jpg"
     },
     {
       "id": "workplace_049",
-      "title": "职场工作 - 图片50",
-      "summary": "职场工作相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往文化宝库的大门，充满了沉思与思想启迪。",
-      "image": "res://assets/images/illustrations/workplace/workplace_049.png",
+      "title": "加班文化",
+      "summary": "加班文化996争议，效率与健康的平衡，社会讨论",
+      "full_text": "加班文化996争议，效率与健康的平衡，社会讨论",
+      "image": "res://assets/images/illustrations/workplace/workplace_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "workplace_049_4",
         "workplace_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_049_pixel.jpg"
     },
     {
       "id": "workplace_050",
-      "title": "职场工作 - 图片51",
-      "summary": "职场工作相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个文化符号都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/workplace/workplace_050.png",
+      "title": "工匠精神",
+      "summary": "工匠精神精益求精，数十年如一日专注，职业信仰",
+      "full_text": "工匠精神精益求精，数十年如一日专注，职业信仰",
+      "image": "res://assets/images/illustrations/workplace/workplace_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "workplace_050_4",
         "workplace_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_050_pixel.jpg"
     },
     {
       "id": "workplace_051",
-      "title": "职场工作 - 图片52",
-      "summary": "职场工作相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往自然奇观的大门，充满了惊叹与思想启迪。",
-      "image": "res://assets/images/illustrations/workplace/workplace_051.png",
+      "title": "女性职场",
+      "summary": "女性职场打破天花板，平等机会展现能力，性别平等",
+      "full_text": "女性职场打破天花板，平等机会展现能力，性别平等",
+      "image": "res://assets/images/illustrations/workplace/workplace_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "workplace_051_4",
         "workplace_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_051_pixel.jpg"
     },
     {
       "id": "workplace_052",
-      "title": "职场工作 - 图片53",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术不仅展现了生活哲理，更传递了梦想的价值，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/workplace/workplace_052.png",
+      "title": "银发再就业",
+      "summary": "退休老人再就业发挥余热，经验智慧不浪费，社会价值",
+      "full_text": "退休老人再就业发挥余热，经验智慧不浪费，社会价值",
+      "image": "res://assets/images/illustrations/workplace/workplace_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "workplace_052_4",
         "workplace_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_052_pixel.jpg"
     },
     {
       "id": "workplace_053",
-      "title": "职场工作 - 图片54",
-      "summary": "职场工作相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它精致地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/workplace/workplace_053.png",
+      "title": "职场友谊",
+      "summary": "同事间友谊午餐闲聊，工作伙伴也是朋友，职场温情",
+      "full_text": "同事间友谊午餐闲聊，工作伙伴也是朋友，职场温情",
+      "image": "res://assets/images/illustrations/workplace/workplace_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "workplace_053_4",
         "workplace_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_053_pixel.jpg"
     },
     {
       "id": "workplace_054",
-      "title": "职场工作 - 图片55",
-      "summary": "职场工作相关图片",
-      "full_text": "自然是文化传承的结晶，它激励着艺术的追求，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/workplace/workplace_054.png",
+      "title": "副业经济",
+      "summary": "副业经济斜杠青年，本职之外多元收入，灵活就业",
+      "full_text": "副业经济斜杠青年，本职之外多元收入，灵活就业",
+      "image": "res://assets/images/illustrations/workplace/workplace_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "workplace_054_4",
         "workplace_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_054_pixel.jpg"
     },
     {
       "id": "workplace_055",
-      "title": "职场工作 - 图片56",
-      "summary": "职场工作相关图片",
-      "full_text": "科学是历史积淀的结晶，它创造着人类的梦想，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/workplace/workplace_055.png",
+      "title": "职场心理健康",
+      "summary": "职场心理健康关注，减压咨询EAP服务，心灵关怀",
+      "full_text": "职场心理健康关注，减压咨询EAP服务，心灵关怀",
+      "image": "res://assets/images/illustrations/workplace/workplace_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "workplace_055_4",
         "workplace_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_055_pixel.jpg"
     },
     {
       "id": "workplace_056",
-      "title": "职场工作 - 图片57",
-      "summary": "职场工作相关图片",
-      "full_text": "艺术是时代精神的结晶，它承载着人文的关怀，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/workplace/workplace_056.png",
+      "title": "数字游民",
+      "summary": "数字游民边旅行边工作，笔记本电脑自由办公，新生活方式",
+      "full_text": "数字游民边旅行边工作，笔记本电脑自由办公，新生活方式",
+      "image": "res://assets/images/illustrations/workplace/workplace_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "workplace_056_4",
         "workplace_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_056_pixel.jpg"
     },
     {
       "id": "workplace_057",
-      "title": "职场工作 - 图片58",
-      "summary": "职场工作相关图片",
-      "full_text": "文化不仅传递了文化内涵，更传递了美的真谛，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/workplace/workplace_057.png",
+      "title": "远程办公",
+      "summary": "居家远程办公视频会议，灵活工作数字协作，新型办公",
+      "full_text": "居家远程办公视频会议，灵活工作数字协作，新型办公",
+      "image": "res://assets/images/illustrations/workplace/workplace_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "workplace_057_4",
         "workplace_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_057_pixel.jpg"
     },
     {
       "id": "workplace_058",
-      "title": "职场工作 - 图片59",
-      "summary": "职场工作相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它自然地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/workplace/workplace_058.png",
+      "title": "共享办公",
+      "summary": "共享办公空间灵活工位，创业者自由交流，协作社区",
+      "full_text": "共享办公空间灵活工位，创业者自由交流，协作社区",
+      "image": "res://assets/images/illustrations/workplace/workplace_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "workplace_058_4",
         "workplace_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_058_pixel.jpg"
     },
     {
       "id": "workplace_059",
-      "title": "职场工作 - 图片60",
-      "summary": "职场工作相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它庄重地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/workplace/workplace_059.png",
+      "title": "职业培训",
+      "summary": "职业技能培训提升，终身学习适应变化，成长之路",
+      "full_text": "职业技能培训提升，终身学习适应变化，成长之路",
+      "image": "res://assets/images/illustrations/workplace/workplace_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,7 +1258,8 @@
         "workplace_059_4",
         "workplace_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/workplace/workplace_059_pixel.jpg"
     }
   ]
 }

@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "folk_traditional_000",
-      "title": "民间与传统艺术 - 图片1",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术不仅展现了美好瞬间，更传递了人与自然的和谐，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_000.png",
+      "title": "杨柳青年画连年有余",
+      "summary": "杨柳青以胖娃抱鲤鱼为主题的彩色木版年画",
+      "full_text": "杨柳青以胖娃抱鲤鱼为主题的彩色木版年画",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "folk_traditional_000_4",
         "folk_traditional_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_000_pixel.jpg"
     },
     {
       "id": "folk_traditional_001",
-      "title": "民间与传统艺术 - 图片2",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它自然地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_001.png",
+      "title": "桃花坞年画门神",
+      "summary": "桃花坞以秦琼尉迟恭为题材的木版门神画",
+      "full_text": "桃花坞以秦琼尉迟恭为题材的木版门神画",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "folk_traditional_001_4",
         "folk_traditional_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_001_pixel.jpg"
     },
     {
       "id": "folk_traditional_002",
-      "title": "民间与传统艺术 - 图片3",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它神秘地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_002.png",
+      "title": "武强年画六子争头",
+      "summary": "武强以三个头六个身子的巧思年画",
+      "full_text": "武强以三个头六个身子的巧思年画",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "folk_traditional_002_4",
         "folk_traditional_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_002_pixel.jpg"
     },
     {
       "id": "folk_traditional_003",
-      "title": "民间与传统艺术 - 图片4",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_003.png",
+      "title": "杨家埠年画",
+      "summary": "杨家埠以鲜艳色彩与粗犷线条的木版年画",
+      "full_text": "杨家埠以鲜艳色彩与粗犷线条的木版年画",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "folk_traditional_003_4",
         "folk_traditional_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_003_pixel.jpg"
     },
     {
       "id": "folk_traditional_004",
-      "title": "民间与传统艺术 - 图片5",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往美丽新世界的大门，充满了惊叹与思想启迪。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_004.png",
+      "title": "绵竹年画门神",
+      "summary": "绵竹以彩绘手法填色的门神年画",
+      "full_text": "绵竹以彩绘手法填色的门神年画",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "folk_traditional_004_4",
         "folk_traditional_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_004_pixel.jpg"
     },
     {
       "id": "folk_traditional_005",
-      "title": "民间与传统艺术 - 图片6",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化不仅表达了自然之美，更传递了美的真谛，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_005.png",
+      "title": "陕西剪纸抓髻娃娃",
+      "summary": "陕西以抓髻娃娃为母题的红色窗花剪纸",
+      "full_text": "陕西以抓髻娃娃为母题的红色窗花剪纸",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "folk_traditional_005_4",
         "folk_traditional_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_005_pixel.jpg"
     },
     {
       "id": "folk_traditional_006",
-      "title": "民间与传统艺术 - 图片7",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往自然奇观的大门，充满了激情与精神升华。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_006.png",
+      "title": "蔚县点彩剪纸",
+      "summary": "蔚县以刻刀雕刻再点染色彩的剪纸",
+      "full_text": "蔚县以刻刀雕刻再点染色彩的剪纸",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "folk_traditional_006_4",
         "folk_traditional_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_006_pixel.jpg"
     },
     {
       "id": "folk_traditional_007",
-      "title": "民间与传统艺术 - 图片8",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学不仅展现了生活哲理，更传递了创新的精神，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_007.png",
+      "title": "扬州剪纸花卉",
+      "summary": "扬州以精细刀工刻制的花卉装饰剪纸",
+      "full_text": "扬州以精细刀工刻制的花卉装饰剪纸",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "folk_traditional_007_4",
         "folk_traditional_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_007_pixel.jpg"
     },
     {
       "id": "folk_traditional_008",
-      "title": "民间与传统艺术 - 图片9",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往文化宝库的大门，充满了震撼与知识启迪。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_008.png",
+      "title": "佛山剪纸铜衬",
+      "summary": "佛山以铜箔衬底剪刻的金色剪纸",
+      "full_text": "佛山以铜箔衬底剪刻的金色剪纸",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "folk_traditional_008_4",
         "folk_traditional_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_008_pixel.jpg"
     },
     {
       "id": "folk_traditional_009",
-      "title": "民间与传统艺术 - 图片10",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在文化的领域里，人类智慧展现得淋漓尽致，每一个历史印记都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_009.png",
+      "title": "山西皮影",
+      "summary": "山西以驴皮雕刻彩绘的皮影戏人物",
+      "full_text": "山西以驴皮雕刻彩绘的皮影戏人物",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "folk_traditional_009_4",
         "folk_traditional_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_009_pixel.jpg"
     },
     {
       "id": "folk_traditional_010",
-      "title": "民间与传统艺术 - 图片11",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "自然不仅展现了时代精神，更传递了生命的意义，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_010.png",
+      "title": "陕西皮影",
+      "summary": "陕西以牛皮雕刻的精美皮影戏角色",
+      "full_text": "陕西以牛皮雕刻的精美皮影戏角色",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "folk_traditional_010_4",
         "folk_traditional_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_010_pixel.jpg"
     },
     {
       "id": "folk_traditional_011",
-      "title": "民间与传统艺术 - 图片12",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学是审美追求的结晶，它记录着科学的精神，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_011.png",
+      "title": "唐山皮影",
+      "summary": "唐山以驴皮雕刻的冀东皮影戏人物",
+      "full_text": "唐山以驴皮雕刻的冀东皮影戏人物",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "folk_traditional_011_4",
         "folk_traditional_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_011_pixel.jpg"
     },
     {
       "id": "folk_traditional_012",
-      "title": "民间与传统艺术 - 图片13",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在艺术的领域里，科学发现展现得淋漓尽致，每一个光影都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_012.png",
+      "title": "甘肃环县皮影",
+      "summary": "甘肃环县以羊皮雕刻的道情皮影",
+      "full_text": "甘肃环县以羊皮雕刻的道情皮影",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "folk_traditional_012_4",
         "folk_traditional_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_012_pixel.jpg"
     },
     {
       "id": "folk_traditional_013",
-      "title": "民间与传统艺术 - 图片14",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它质朴地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_013.png",
+      "title": "惠山泥人大阿福",
+      "summary": "无锡惠山以胖娃为造型的彩塑泥人",
+      "full_text": "无锡惠山以胖娃为造型的彩塑泥人",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "folk_traditional_013_4",
         "folk_traditional_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_013_pixel.jpg"
     },
     {
       "id": "folk_traditional_014",
-      "title": "民间与传统艺术 - 图片15",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_014.png",
+      "title": "凤翔泥塑坐虎",
+      "summary": "陕西凤翔以白底彩绘的坐虎泥塑",
+      "full_text": "陕西凤翔以白底彩绘的坐虎泥塑",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "folk_traditional_014_4",
         "folk_traditional_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_014_pixel.jpg"
     },
     {
       "id": "folk_traditional_015",
-      "title": "民间与传统艺术 - 图片16",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学不仅展现了人类文明，更传递了美的真谛，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_015.png",
+      "title": "高密扑灰年画",
+      "summary": "山东高密以柳炭勾稿再扑印的年画",
+      "full_text": "山东高密以柳炭勾稿再扑印的年画",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "folk_traditional_015_4",
         "folk_traditional_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_015_pixel.jpg"
     },
     {
       "id": "folk_traditional_016",
-      "title": "民间与传统艺术 - 图片17",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了怀念与艺术熏陶。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_016.png",
+      "title": "佛山木版年画",
+      "summary": "佛山以红底彩色印刷的岭南木版年画",
+      "full_text": "佛山以红底彩色印刷的岭南木版年画",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "folk_traditional_016_4",
         "folk_traditional_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_016_pixel.jpg"
     },
     {
       "id": "folk_traditional_017",
-      "title": "民间与传统艺术 - 图片18",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它丰富地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_017.png",
+      "title": "纳西族东巴画",
+      "summary": "纳西族以象形文字与神话绘制的东巴经画",
+      "full_text": "纳西族以象形文字与神话绘制的东巴经画",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "folk_traditional_017_4",
         "folk_traditional_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_017_pixel.jpg"
     },
     {
       "id": "folk_traditional_018",
-      "title": "民间与传统艺术 - 图片19",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个自然元素都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_018.png",
+      "title": "唐卡绿度母",
+      "summary": "藏族以矿物颜料绘制的绿度母唐卡",
+      "full_text": "藏族以矿物颜料绘制的绿度母唐卡",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "folk_traditional_018_4",
         "folk_traditional_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_018_pixel.jpg"
     },
     {
       "id": "folk_traditional_019",
-      "title": "民间与传统艺术 - 图片20",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在科学的领域里，艺术创造展现得淋漓尽致，每一个色彩都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_019.png",
+      "title": "彝族漆器餐具",
+      "summary": "彝族以红黑黄三色漆绘的木质餐具",
+      "full_text": "彝族以红黑黄三色漆绘的木质餐具",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "folk_traditional_019_4",
         "folk_traditional_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_019_pixel.jpg"
     },
     {
       "id": "folk_traditional_020",
-      "title": "民间与传统艺术 - 图片21",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在艺术的领域里，科学发现展现得淋漓尽致，每一个细节都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_020.png",
+      "title": "陕北安塞腰鼓",
+      "summary": "陕北安塞农民以腰鼓群舞的豪迈表演",
+      "full_text": "陕北安塞农民以腰鼓群舞的豪迈表演",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "folk_traditional_020_4",
         "folk_traditional_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_020_pixel.jpg"
     },
     {
       "id": "folk_traditional_021",
-      "title": "民间与传统艺术 - 图片22",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美丽新世界的大门，充满了好奇与文化浸润。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_021.png",
+      "title": "东北大秧歌",
+      "summary": "东北以红绸扇子与高跷的欢快秧歌舞蹈",
+      "full_text": "东北以红绸扇子与高跷的欢快秧歌舞蹈",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "folk_traditional_021_4",
         "folk_traditional_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_021_pixel.jpg"
     },
     {
       "id": "folk_traditional_022",
-      "title": "民间与传统艺术 - 图片23",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "自然是审美追求的结晶，它启迪着社会的进步，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_022.png",
+      "title": "云南花灯",
+      "summary": "云南以花扇手巾为道具的民间歌舞",
+      "full_text": "云南以花扇手巾为道具的民间歌舞",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "folk_traditional_022_4",
         "folk_traditional_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_022_pixel.jpg"
     },
     {
       "id": "folk_traditional_023",
-      "title": "民间与传统艺术 - 图片24",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精致地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_023.png",
+      "title": "安徽花鼓灯",
+      "summary": "安徽以鼓灯配合的民间歌舞表演",
+      "full_text": "安徽以鼓灯配合的民间歌舞表演",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "folk_traditional_023_4",
         "folk_traditional_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_023_pixel.jpg"
     },
     {
       "id": "folk_traditional_024",
-      "title": "民间与传统艺术 - 图片25",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它优美地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_024.png",
+      "title": "蒙古族安代舞",
+      "summary": "蒙古族以甩巾踏步的集体安代舞蹈",
+      "full_text": "蒙古族以甩巾踏步的集体安代舞蹈",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "folk_traditional_024_4",
         "folk_traditional_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_024_pixel.jpg"
     },
     {
       "id": "folk_traditional_025",
-      "title": "民间与传统艺术 - 图片26",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在文化的领域里，自然奇观展现得淋漓尽致，每一个细节都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_025.png",
+      "title": "藏族锅庄舞",
+      "summary": "藏族以围圈踏歌的锅庄集体舞蹈",
+      "full_text": "藏族以围圈踏歌的锅庄集体舞蹈",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "folk_traditional_025_4",
         "folk_traditional_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_025_pixel.jpg"
     },
     {
       "id": "folk_traditional_026",
-      "title": "民间与传统艺术 - 图片27",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在自然的领域里，科学发现展现得淋漓尽致，每一个自然元素都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_026.png",
+      "title": "维吾尔族木卡姆",
+      "summary": "维吾尔族以歌舞乐一体的木卡姆表演",
+      "full_text": "维吾尔族以歌舞乐一体的木卡姆表演",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "folk_traditional_026_4",
         "folk_traditional_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_026_pixel.jpg"
     },
     {
       "id": "folk_traditional_027",
-      "title": "民间与传统艺术 - 图片28",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它和谐地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_027.png",
+      "title": "朝鲜族长鼓舞",
+      "summary": "朝鲜族以长鼓伴奏的轻盈旋转舞蹈",
+      "full_text": "朝鲜族以长鼓伴奏的轻盈旋转舞蹈",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "folk_traditional_027_4",
         "folk_traditional_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_027_pixel.jpg"
     },
     {
       "id": "folk_traditional_028",
-      "title": "民间与传统艺术 - 图片29",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术不仅描绘了生活哲理，更传递了文化的传承，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_028.png",
+      "title": "傣族孔雀舞",
+      "summary": "傣族以模仿孔雀姿态的优美舞蹈",
+      "full_text": "傣族以模仿孔雀姿态的优美舞蹈",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "folk_traditional_028_4",
         "folk_traditional_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_028_pixel.jpg"
     },
     {
       "id": "folk_traditional_029",
-      "title": "民间与传统艺术 - 图片30",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它灵动地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_029.png",
+      "title": "苗族芦笙舞",
+      "summary": "苗族以芦笙伴奏的集体踩堂舞蹈",
+      "full_text": "苗族以芦笙伴奏的集体踩堂舞蹈",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "folk_traditional_029_4",
         "folk_traditional_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_029_pixel.jpg"
     },
     {
       "id": "folk_traditional_030",
-      "title": "民间与传统艺术 - 图片31",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它灵动地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_030.png",
+      "title": "彝族火把节舞蹈",
+      "summary": "彝族在火把节围火歌舞的热烈场景",
+      "full_text": "彝族在火把节围火歌舞的热烈场景",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "folk_traditional_030_4",
         "folk_traditional_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_030_pixel.jpg"
     },
     {
       "id": "folk_traditional_031",
-      "title": "民间与传统艺术 - 图片32",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往创意空间的大门，充满了沉思与审美体验。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_031.png",
+      "title": "土家族摆手舞",
+      "summary": "土家族以摆手为特征的祭祀舞蹈",
+      "full_text": "土家族以摆手为特征的祭祀舞蹈",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "folk_traditional_031_4",
         "folk_traditional_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_031_pixel.jpg"
     },
     {
       "id": "folk_traditional_032",
-      "title": "民间与传统艺术 - 图片33",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术是自然造化的结晶，它引领着生活的智慧，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_032.png",
+      "title": "侗族大歌",
+      "summary": "侗族以多声部无伴奏合唱的民间歌谣",
+      "full_text": "侗族以多声部无伴奏合唱的民间歌谣",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "folk_traditional_032_4",
         "folk_traditional_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_032_pixel.jpg"
     },
     {
       "id": "folk_traditional_033",
-      "title": "民间与传统艺术 - 图片34",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在文化的领域里，人文景观展现得淋漓尽致，每一个情感都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_033.png",
+      "title": "蒙古族长调",
+      "summary": "蒙古族以悠长辽阔旋律的草原牧歌",
+      "full_text": "蒙古族以悠长辽阔旋律的草原牧歌",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "folk_traditional_033_4",
         "folk_traditional_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_033_pixel.jpg"
     },
     {
       "id": "folk_traditional_034",
-      "title": "民间与传统艺术 - 图片35",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往灵感源泉的大门，充满了激情与视觉享受。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_034.png",
+      "title": "陕北信天游",
+      "summary": "陕北以高亢悠扬曲调的山歌对唱",
+      "full_text": "陕北以高亢悠扬曲调的山歌对唱",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "folk_traditional_034_4",
         "folk_traditional_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_034_pixel.jpg"
     },
     {
       "id": "folk_traditional_035",
-      "title": "民间与传统艺术 - 图片36",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往美好家园的大门，充满了愉悦与审美体验。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_035.png",
+      "title": "舞龙",
+      "summary": "中国传统以长龙翻腾的节庆舞龙表演",
+      "full_text": "中国传统以长龙翻腾的节庆舞龙表演",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "folk_traditional_035_4",
         "folk_traditional_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_035_pixel.jpg"
     },
     {
       "id": "folk_traditional_036",
-      "title": "民间与传统艺术 - 图片37",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术是时代精神的结晶，它记录着社会的进步，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_036.png",
+      "title": "舞狮",
+      "summary": "中国传统以模仿狮子翻跳的喜庆舞狮",
+      "full_text": "中国传统以模仿狮子翻跳的喜庆舞狮",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "folk_traditional_036_4",
         "folk_traditional_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_036_pixel.jpg"
     },
     {
       "id": "folk_traditional_037",
-      "title": "民间与传统艺术 - 图片38",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化不仅创造了情感世界，更传递了真善美的追求，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_037.png",
+      "title": "英歌舞",
+      "summary": "广东潮汕以男子持棒对打的英武舞蹈",
+      "full_text": "广东潮汕以男子持棒对打的英武舞蹈",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "folk_traditional_037_4",
         "folk_traditional_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_037_pixel.jpg"
     },
     {
       "id": "folk_traditional_038",
-      "title": "民间与传统艺术 - 图片39",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往神秘国度的大门，充满了愉悦与审美体验。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_038.png",
+      "title": "铜鼓舞",
+      "summary": "壮族以铜鼓伴奏的祭祀舞蹈",
+      "full_text": "壮族以铜鼓伴奏的祭祀舞蹈",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "folk_traditional_038_4",
         "folk_traditional_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_038_pixel.jpg"
     },
     {
       "id": "folk_traditional_039",
-      "title": "民间与传统艺术 - 图片40",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学不仅揭示了生活哲理，更传递了梦想的价值，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_039.png",
+      "title": "花儿对唱",
+      "summary": "西北回族以山歌对唱的花儿民歌",
+      "full_text": "西北回族以山歌对唱的花儿民歌",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "folk_traditional_039_4",
         "folk_traditional_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_039_pixel.jpg"
     },
     {
       "id": "folk_traditional_040",
-      "title": "民间与传统艺术 - 图片41",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了好奇与美好感受。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_040.png",
+      "title": "春节贴春联",
+      "summary": "除夕家家户户贴红色春联的喜庆民俗",
+      "full_text": "除夕家家户户贴红色春联的喜庆民俗",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "folk_traditional_040_4",
         "folk_traditional_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_040_pixel.jpg"
     },
     {
       "id": "folk_traditional_041",
-      "title": "民间与传统艺术 - 图片42",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化不仅创造了时代精神，更传递了梦想的价值，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_041.png",
+      "title": "元宵赏灯",
+      "summary": "元宵节各式花灯璀璨的赏灯庙会场景",
+      "full_text": "元宵节各式花灯璀璨的赏灯庙会场景",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "folk_traditional_041_4",
         "folk_traditional_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_041_pixel.jpg"
     },
     {
       "id": "folk_traditional_042",
-      "title": "民间与传统艺术 - 图片43",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往智慧天地的大门，充满了震撼与审美体验。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_042.png",
+      "title": "清明扫墓祭祖",
+      "summary": "清明节家族成员扫墓祭拜先人的仪式",
+      "full_text": "清明节家族成员扫墓祭拜先人的仪式",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "folk_traditional_042_4",
         "folk_traditional_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_042_pixel.jpg"
     },
     {
       "id": "folk_traditional_043",
-      "title": "民间与传统艺术 - 图片44",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往精神家园的大门，充满了惊叹与视觉享受。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_043.png",
+      "title": "端午赛龙舟",
+      "summary": "端午节以龙舟竞渡纪念屈原的热烈场面",
+      "full_text": "端午节以龙舟竞渡纪念屈原的热烈场面",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "folk_traditional_043_4",
         "folk_traditional_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_043_pixel.jpg"
     },
     {
       "id": "folk_traditional_044",
-      "title": "民间与传统艺术 - 图片45",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术是自然造化的结晶，它诠释着科学的精神，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_044.png",
+      "title": "中秋赏月",
+      "summary": "中秋节家人团聚赏月吃月饼的温馨场景",
+      "full_text": "中秋节家人团聚赏月吃月饼的温馨场景",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "folk_traditional_044_4",
         "folk_traditional_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_044_pixel.jpg"
     },
     {
       "id": "folk_traditional_045",
-      "title": "民间与传统艺术 - 图片46",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往历史长河的大门，充满了愉悦与心灵震撼。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_045.png",
+      "title": "重阳登高",
+      "summary": "重阳节登高望远饮菊花酒的传统习俗",
+      "full_text": "重阳节登高望远饮菊花酒的传统习俗",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "folk_traditional_045_4",
         "folk_traditional_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_045_pixel.jpg"
     },
     {
       "id": "folk_traditional_046",
-      "title": "民间与传统艺术 - 图片47",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "自然不仅弘扬了艺术真谛，更传递了情感的力量，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_046.png",
+      "title": "庙会民俗",
+      "summary": "传统庙会中商贩云集游人如织的热闹场景",
+      "full_text": "传统庙会中商贩云集游人如织的热闹场景",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "folk_traditional_046_4",
         "folk_traditional_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_046_pixel.jpg"
     },
     {
       "id": "folk_traditional_047",
-      "title": "民间与传统艺术 - 图片48",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精致地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_047.png",
+      "title": "祭祀仪式",
+      "summary": "传统宗祠中以三牲酒礼祭祀祖先的仪式",
+      "full_text": "传统宗祠中以三牲酒礼祭祀祖先的仪式",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "folk_traditional_047_4",
         "folk_traditional_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_047_pixel.jpg"
     },
     {
       "id": "folk_traditional_048",
-      "title": "民间与传统艺术 - 图片49",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术是情感表达的结晶，它创造着永恒的真理，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_048.png",
+      "title": "传统婚俗迎亲",
+      "summary": "传统婚礼以花轿迎亲的喜庆仪式",
+      "full_text": "传统婚礼以花轿迎亲的喜庆仪式",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "folk_traditional_048_4",
         "folk_traditional_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_048_pixel.jpg"
     },
     {
       "id": "folk_traditional_049",
-      "title": "民间与传统艺术 - 图片50",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化是人类智慧的结晶，它传递着生活的智慧，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_049.png",
+      "title": "泼水节",
+      "summary": "傣族以泼水祈福的新年狂欢节庆",
+      "full_text": "傣族以泼水祈福的新年狂欢节庆",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "folk_traditional_049_4",
         "folk_traditional_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_049_pixel.jpg"
     },
     {
       "id": "folk_traditional_050",
-      "title": "民间与传统艺术 - 图片51",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "自然不仅展现了人类文明，更传递了生命的意义，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_050.png",
+      "title": "那达慕大会",
+      "summary": "蒙古族以摔跤赛马射箭的那达慕盛会",
+      "full_text": "蒙古族以摔跤赛马射箭的那达慕盛会",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "folk_traditional_050_4",
         "folk_traditional_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_050_pixel.jpg"
     },
     {
       "id": "folk_traditional_051",
-      "title": "民间与传统艺术 - 图片52",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学是情感表达的结晶，它引领着人文的关怀，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_051.png",
+      "title": "三月三歌圩",
+      "summary": "壮族三月三以对歌择偶的传统歌圩",
+      "full_text": "壮族三月三以对歌择偶的传统歌圩",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "folk_traditional_051_4",
         "folk_traditional_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_051_pixel.jpg"
     },
     {
       "id": "folk_traditional_052",
-      "title": "民间与传统艺术 - 图片53",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在艺术的领域里，生态保护展现得淋漓尽致，每一个思想都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_052.png",
+      "title": "火把节庆典",
+      "summary": "彝族以点火把驱虫祈福的火把节庆典",
+      "full_text": "彝族以点火把驱虫祈福的火把节庆典",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "folk_traditional_052_4",
         "folk_traditional_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_052_pixel.jpg"
     },
     {
       "id": "folk_traditional_053",
-      "title": "民间与传统艺术 - 图片54",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化是艺术创造的结晶，它创造着艺术的追求，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_053.png",
+      "title": "赶秋节",
+      "summary": "苗族以秋千对歌的赶秋节庆活动",
+      "full_text": "苗族以秋千对歌的赶秋节庆活动",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "folk_traditional_053_4",
         "folk_traditional_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_053_pixel.jpg"
     },
     {
       "id": "folk_traditional_054",
-      "title": "民间与传统艺术 - 图片55",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "自然不仅诠释了情感世界，更传递了生命的意义，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_054.png",
+      "title": "雪顿节",
+      "summary": "藏族以展佛与藏戏演出的雪顿节庆",
+      "full_text": "藏族以展佛与藏戏演出的雪顿节庆",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "folk_traditional_054_4",
         "folk_traditional_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_054_pixel.jpg"
     },
     {
       "id": "folk_traditional_055",
-      "title": "民间与传统艺术 - 图片56",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往神秘国度的大门，充满了震撼与视觉享受。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_055.png",
+      "title": "宣纸制作",
+      "summary": "安徽泾县以青檀皮与稻草捞制宣纸的传统工艺",
+      "full_text": "安徽泾县以青檀皮与稻草捞制宣纸的传统工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "folk_traditional_055_4",
         "folk_traditional_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_055_pixel.jpg"
     },
     {
       "id": "folk_traditional_056",
-      "title": "民间与传统艺术 - 图片57",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它生动地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_056.png",
+      "title": "徽墨制作",
+      "summary": "安徽以松烟与胶杵捣制作徽墨的传统工艺",
+      "full_text": "安徽以松烟与胶杵捣制作徽墨的传统工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "folk_traditional_056_4",
         "folk_traditional_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_056_pixel.jpg"
     },
     {
       "id": "folk_traditional_057",
-      "title": "民间与传统艺术 - 图片58",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化不仅塑造了文化内涵，更传递了生命的意义，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_057.png",
+      "title": "湖笔制作",
+      "summary": "浙江湖州以羊毫与紫毫制作毛笔的传统工艺",
+      "full_text": "浙江湖州以羊毫与紫毫制作毛笔的传统工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "folk_traditional_057_4",
         "folk_traditional_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_057_pixel.jpg"
     },
     {
       "id": "folk_traditional_058",
-      "title": "民间与传统艺术 - 图片59",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "自然不仅弘扬了生活哲理，更传递了生命的意义，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_058.png",
+      "title": "端砚制作",
+      "summary": "广东肇庆以端石雕刻砚台的传统工艺",
+      "full_text": "广东肇庆以端石雕刻砚台的传统工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "folk_traditional_058_4",
         "folk_traditional_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_058_pixel.jpg"
     },
     {
       "id": "folk_traditional_059",
-      "title": "民间与传统艺术 - 图片60",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往美好家园的大门，充满了敬畏与文化浸润。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_059.png",
+      "title": "龙井茶炒制",
+      "summary": "杭州以手工锅炒龙井茶叶的制茶工艺",
+      "full_text": "杭州以手工锅炒龙井茶叶的制茶工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "folk_traditional_059_4",
         "folk_traditional_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_059_pixel.jpg"
     },
     {
       "id": "folk_traditional_060",
-      "title": "民间与传统艺术 - 图片61",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术是历史积淀的结晶，它激励着人文的关怀，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_060.png",
+      "title": "普洱茶制作",
+      "summary": "云南以晒青毛茶渥堆发酵的普洱茶工艺",
+      "full_text": "云南以晒青毛茶渥堆发酵的普洱茶工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "folk_traditional_060_4",
         "folk_traditional_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_060_pixel.jpg"
     },
     {
       "id": "folk_traditional_061",
-      "title": "民间与传统艺术 - 图片62",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在文化的领域里，历史变迁展现得淋漓尽致，每一个瞬间都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_061.png",
+      "title": "茅台酒酿造",
+      "summary": "贵州以高温大曲发酵蒸馏的酱香白酒工艺",
+      "full_text": "贵州以高温大曲发酵蒸馏的酱香白酒工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "folk_traditional_061_4",
         "folk_traditional_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_061_pixel.jpg"
     },
     {
       "id": "folk_traditional_062",
-      "title": "民间与传统艺术 - 图片63",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往自然奇观的大门，充满了好奇与审美体验。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_062.png",
+      "title": "绍兴黄酒酿造",
+      "summary": "浙江以糯米与麦曲冬酿的绍兴黄酒工艺",
+      "full_text": "浙江以糯米与麦曲冬酿的绍兴黄酒工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "folk_traditional_062_4",
         "folk_traditional_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_062_pixel.jpg"
     },
     {
       "id": "folk_traditional_063",
-      "title": "民间与传统艺术 - 图片64",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它独特地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_063.png",
+      "title": "蜡染工艺",
+      "summary": "苗族以蜂蜡画花再浸染的蓝白蜡染技法",
+      "full_text": "苗族以蜂蜡画花再浸染的蓝白蜡染技法",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "folk_traditional_063_4",
         "folk_traditional_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_063_pixel.jpg"
     },
     {
       "id": "folk_traditional_064",
-      "title": "民间与传统艺术 - 图片65",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "艺术不仅表达了文化内涵，更传递了梦想的价值，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_064.png",
+      "title": "扎染工艺",
+      "summary": "白族以线扎布料再浸染的扎染技法",
+      "full_text": "白族以线扎布料再浸染的扎染技法",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "folk_traditional_064_4",
         "folk_traditional_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_064_pixel.jpg"
     },
     {
       "id": "folk_traditional_065",
-      "title": "民间与传统艺术 - 图片66",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个瞬间都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_065.png",
+      "title": "造纸术活态传承",
+      "summary": "传统造纸术从原料蒸煮到捞纸烘干的完整流程",
+      "full_text": "传统造纸术从原料蒸煮到捞纸烘干的完整流程",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "folk_traditional_065_4",
         "folk_traditional_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_065_pixel.jpg"
     },
     {
       "id": "folk_traditional_066",
-      "title": "民间与传统艺术 - 图片67",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个瞬间都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_066.png",
+      "title": "活字印刷",
+      "summary": "以胶泥刻字排版印刷的传统活字印刷术",
+      "full_text": "以胶泥刻字排版印刷的传统活字印刷术",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "folk_traditional_066_4",
         "folk_traditional_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_066_pixel.jpg"
     },
     {
       "id": "folk_traditional_067",
-      "title": "民间与传统艺术 - 图片68",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "科学不仅诠释了生命意义，更传递了美的真谛，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_067.png",
+      "title": "木版水印",
+      "summary": "以木版雕刻逐色套印的传统版画印刷术",
+      "full_text": "以木版雕刻逐色套印的传统版画印刷术",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "folk_traditional_067_4",
         "folk_traditional_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_067_pixel.jpg"
     },
     {
       "id": "folk_traditional_068",
-      "title": "民间与传统艺术 - 图片69",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往美丽新世界的大门，充满了沉醉与精神升华。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_068.png",
+      "title": "制扇工艺",
+      "summary": "苏杭以竹骨与绢面制作折扇的传统工艺",
+      "full_text": "苏杭以竹骨与绢面制作折扇的传统工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "folk_traditional_068_4",
         "folk_traditional_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_068_pixel.jpg"
     },
     {
       "id": "folk_traditional_069",
-      "title": "民间与传统艺术 - 图片70",
-      "summary": "民间与传统艺术相关图片",
-      "full_text": "文化是自然造化的结晶，它创造着永恒的真理，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_069.png",
+      "title": "制伞工艺",
+      "summary": "以竹骨与桐油纸制作油纸伞的传统工艺",
+      "full_text": "以竹骨与桐油纸制作油纸伞的传统工艺",
+      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,7 +1468,8 @@
         "folk_traditional_069_4",
         "folk_traditional_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_069_pixel.jpg"
     }
   ]
 }

@@ -1,0 +1,46 @@
+[gd_resource type="Theme" format=3 uid="uid://dm1u1qw4djtk5"]
+
+[ext_resource type="Texture2D" uid="uid://c2nvhpd4mwawo" path="res://assets/images/ui/popup_panel/switch_on.png" id="1_hf3i3"]
+[ext_resource type="Texture2D" uid="uid://cms6thwll2k4h" path="res://assets/images/ui/popup_panel/grabber.png" id="1_i4ejt"]
+[ext_resource type="Texture2D" uid="uid://cgy5tvu8w2aom" path="res://assets/images/ui/popup_panel/switch_off.png" id="2_1nr78"]
+[ext_resource type="Texture2D" uid="uid://b5ab8o0r132xx" path="res://assets/images/ui/popup_panel/grabber_disabled.png" id="2_yjg5f"]
+[ext_resource type="StyleBox" uid="uid://bdinmim3xdw0s" path="res://resources/styles/grabber_area_style_box_texture.tres" id="3_0wthw"]
+[ext_resource type="StyleBox" uid="uid://cmoooa8bkwnh7" path="res://resources/styles/slider_style_box_texture.tres" id="4_0wthw"]
+[ext_resource type="Texture2D" uid="uid://bdpc7cm2s1mx7" path="res://assets/images/ui/popup_panel/panel_bg.png" id="5_dagba"]
+[ext_resource type="Texture2D" uid="uid://lkcd3no080k1" path="res://assets/images/ui/popup_panel/slider.png" id="8_7adcq"]
+[ext_resource type="Texture2D" uid="uid://37bxap62ckbl" path="res://assets/images/ui/popup_panel/grabber_area.png" id="9_6bdnh"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_0wthw"]
+texture = ExtResource("5_dagba")
+texture_margin_left = 30.0
+texture_margin_top = 140.0
+texture_margin_right = 30.0
+texture_margin_bottom = 170.0
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_yoenm"]
+texture = ExtResource("8_7adcq")
+texture_margin_left = 5.0
+texture_margin_top = 5.0
+texture_margin_right = 5.0
+texture_margin_bottom = 5.0
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_tvx0j"]
+texture = ExtResource("9_6bdnh")
+texture_margin_left = 5.0
+texture_margin_top = 5.0
+texture_margin_right = 5.0
+texture_margin_bottom = 5.0
+
+[resource]
+CheckButton/font_sizes/font_size = 16
+CheckButton/icons/checked = ExtResource("1_hf3i3")
+CheckButton/icons/unchecked = ExtResource("2_1nr78")
+HSlider/icons/grabber = ExtResource("1_i4ejt")
+HSlider/icons/grabber_disabled = ExtResource("2_yjg5f")
+HSlider/icons/grabber_highlight = ExtResource("1_i4ejt")
+HSlider/styles/grabber_area = ExtResource("3_0wthw")
+HSlider/styles/grabber_area_highlight = ExtResource("3_0wthw")
+HSlider/styles/slider = ExtResource("4_0wthw")
+Panel/styles/panel = SubResource("StyleBoxTexture_0wthw")
+ProgressBar/styles/background = SubResource("StyleBoxTexture_yoenm")
+ProgressBar/styles/fill = SubResource("StyleBoxTexture_tvx0j")

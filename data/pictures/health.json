@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "health_000",
-      "title": "健康医疗 - 图片1",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活不仅诠释了文化内涵，更传递了梦想的价值，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/health/health_000.png",
+      "title": "中医望闻问切",
+      "summary": "中医望闻问切四诊合参，老中医把脉看舌苔，辨证论治",
+      "full_text": "中医望闻问切四诊合参，老中医把脉看舌苔，辨证论治",
+      "image": "res://assets/images/illustrations/health/health_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "health_000_4",
         "health_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/health/health_000_pixel.jpg"
     },
     {
       "id": "health_001",
-      "title": "健康医疗 - 图片2",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道不仅传递了美好瞬间，更传递了美的真谛，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/health/health_001.png",
+      "title": "针灸治疗",
+      "summary": "针灸银针刺入穴位，酸麻胀感循经传导，疏通经络",
+      "full_text": "针灸银针刺入穴位，酸麻胀感循经传导，疏通经络",
+      "image": "res://assets/images/illustrations/health/health_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "health_001_4",
         "health_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/health/health_001_pixel.jpg"
     },
     {
       "id": "health_002",
-      "title": "健康医疗 - 图片3",
-      "summary": "健康医疗相关图片",
-      "full_text": "身心和谐不仅探索了时代精神，更传递了文化的传承，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/health/health_002.png",
+      "title": "中药煎煮",
+      "summary": "中药砂锅文火煎煮，药香弥漫苦口良药，草本疗愈",
+      "full_text": "中药砂锅文火煎煮，药香弥漫苦口良药，草本疗愈",
+      "image": "res://assets/images/illustrations/health/health_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "health_002_4",
         "health_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/health/health_002_pixel.jpg"
     },
     {
       "id": "health_003",
-      "title": "健康医疗 - 图片4",
-      "summary": "健康医疗相关图片",
-      "full_text": "在美好生活的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/health/health_003.png",
+      "title": "拔罐疗法",
+      "summary": "拔罐玻璃罐吸附皮肤，淤血紫印祛湿散寒，传统理疗",
+      "full_text": "拔罐玻璃罐吸附皮肤，淤血紫印祛湿散寒，传统理疗",
+      "image": "res://assets/images/illustrations/health/health_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "health_003_4",
         "health_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/health/health_003_pixel.jpg"
     },
     {
       "id": "health_004",
-      "title": "健康医疗 - 图片5",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康理念是人类文明的重要组成部分，它生动地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/health/health_004.png",
+      "title": "推拿按摩",
+      "summary": "推拿师手法揉按穴位，舒筋活络缓解疲劳，手到病除",
+      "full_text": "推拿师手法揉按穴位，舒筋活络缓解疲劳，手到病除",
+      "image": "res://assets/images/illustrations/health/health_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "health_004_4",
         "health_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/health/health_004_pixel.jpg"
     },
     {
       "id": "health_005",
-      "title": "健康医疗 - 图片6",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是人类文明的重要组成部分，它灵动地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/health/health_005.png",
+      "title": "艾灸温通",
+      "summary": "艾灸艾条熏灼穴位，温热感渗透肌肤，温经散寒",
+      "full_text": "艾灸艾条熏灼穴位，温热感渗透肌肤，温经散寒",
+      "image": "res://assets/images/illustrations/health/health_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "health_005_4",
         "health_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/health/health_005_pixel.jpg"
     },
     {
       "id": "health_006",
-      "title": "健康医疗 - 图片7",
-      "summary": "健康医疗相关图片",
-      "full_text": "在养生之道的领域里，科学发现展现得淋漓尽致，每一个情感都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/health/health_006.png",
+      "title": "刮痧疗法",
+      "summary": "刮痧板刮拭皮肤出痧，红色痧点排毒解表，民间疗法",
+      "full_text": "刮痧板刮拭皮肤出痧，红色痧点排毒解表，民间疗法",
+      "image": "res://assets/images/illustrations/health/health_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "health_006_4",
         "health_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/health/health_006_pixel.jpg"
     },
     {
       "id": "health_007",
-      "title": "健康医疗 - 图片8",
-      "summary": "健康医疗相关图片",
-      "full_text": "探索身心和谐的世界，仿佛打开了一扇通往梦想世界的大门，充满了激情与精神升华。",
-      "image": "res://assets/images/illustrations/health/health_007.png",
+      "title": "藏医尿诊",
+      "summary": "藏医尿诊观察尿液，颜色泡沫判断病情，独特诊断",
+      "full_text": "藏医尿诊观察尿液，颜色泡沫判断病情，独特诊断",
+      "image": "res://assets/images/illustrations/health/health_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "health_007_4",
         "health_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/health/health_007_pixel.jpg"
     },
     {
       "id": "health_008",
-      "title": "健康医疗 - 图片9",
-      "summary": "健康医疗相关图片",
-      "full_text": "美好生活是人类文明的重要组成部分，它质朴地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/health/health_008.png",
+      "title": "苗医熏蒸",
+      "summary": "苗医草药熏蒸疗法，药汽蒸腾渗透肌肤，民族医药",
+      "full_text": "苗医草药熏蒸疗法，药汽蒸腾渗透肌肤，民族医药",
+      "image": "res://assets/images/illustrations/health/health_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "health_008_4",
         "health_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/health/health_008_pixel.jpg"
     },
     {
       "id": "health_009",
-      "title": "健康医疗 - 图片10",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康理念不仅传承了情感世界，更传递了智慧的光芒，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/health/health_009.png",
+      "title": "中药材市场",
+      "summary": "中药材市场人参鹿茸，摊位陈列琳琅满目，药都盛景",
+      "full_text": "中药材市场人参鹿茸，摊位陈列琳琅满目，药都盛景",
+      "image": "res://assets/images/illustrations/health/health_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "health_009_4",
         "health_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/health/health_009_pixel.jpg"
     },
     {
       "id": "health_010",
-      "title": "健康医疗 - 图片11",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是历史积淀的结晶，它引领着人文的关怀，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/health/health_010.png",
+      "title": "药膳养生",
+      "summary": "药膳当归黄芪炖鸡，食疗养生药食同源，滋补调理",
+      "full_text": "药膳当归黄芪炖鸡，食疗养生药食同源，滋补调理",
+      "image": "res://assets/images/illustrations/health/health_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "health_010_4",
         "health_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/health/health_010_pixel.jpg"
     },
     {
       "id": "health_011",
-      "title": "健康医疗 - 图片12",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道是人类文明的重要组成部分，它生动地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/health/health_011.png",
+      "title": "太极养生",
+      "summary": "太极拳晨练养生，动作缓慢呼吸深长，身心调和",
+      "full_text": "太极拳晨练养生，动作缓慢呼吸深长，身心调和",
+      "image": "res://assets/images/illustrations/health/health_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "health_011_4",
         "health_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/health/health_011_pixel.jpg"
     },
     {
       "id": "health_012",
-      "title": "健康医疗 - 图片13",
-      "summary": "健康医疗相关图片",
-      "full_text": "在身心和谐的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/health/health_012.png",
+      "title": "经络穴位图",
+      "summary": "人体经络穴位图，十四经脉循行路线，中医理论基础",
+      "full_text": "人体经络穴位图，十四经脉循行路线，中医理论基础",
+      "image": "res://assets/images/illustrations/health/health_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "health_012_4",
         "health_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/health/health_012_pixel.jpg"
     },
     {
       "id": "health_013",
-      "title": "健康医疗 - 图片14",
-      "summary": "健康医疗相关图片",
-      "full_text": "在美好生活的领域里，社会发展展现得淋漓尽致，每一个自然元素都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/health/health_013.png",
+      "title": "古代医书",
+      "summary": "本草纲目黄帝内经，古籍线装医理深邃，医学经典",
+      "full_text": "本草纲目黄帝内经，古籍线装医理深邃，医学经典",
+      "image": "res://assets/images/illustrations/health/health_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "health_013_4",
         "health_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/health/health_013_pixel.jpg"
     },
     {
       "id": "health_014",
-      "title": "健康医疗 - 图片15",
-      "summary": "健康医疗相关图片",
-      "full_text": "探索健康理念的世界，仿佛打开了一扇通往精神家园的大门，充满了惊叹与心灵震撼。",
-      "image": "res://assets/images/illustrations/health/health_014.png",
+      "title": "坐堂行医",
+      "summary": "古代医馆坐堂大夫，望诊开方抓药，悬壶济世",
+      "full_text": "古代医馆坐堂大夫，望诊开方抓药，悬壶济世",
+      "image": "res://assets/images/illustrations/health/health_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "health_014_4",
         "health_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/health/health_014_pixel.jpg"
     },
     {
       "id": "health_015",
-      "title": "健康医疗 - 图片16",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是人类文明的重要组成部分，它神秘地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/health/health_015.png",
+      "title": "阿育吠陀",
+      "summary": "印度阿育吠陀草药油疗，身心平衡三Dosha，古老医学",
+      "full_text": "印度阿育吠陀草药油疗，身心平衡三Dosha，古老医学",
+      "image": "res://assets/images/illustrations/health/health_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "health_015_4",
         "health_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/health/health_015_pixel.jpg"
     },
     {
       "id": "health_016",
-      "title": "健康医疗 - 图片17",
-      "summary": "健康医疗相关图片",
-      "full_text": "在养生之道的领域里，文化传承展现得淋漓尽致，每一个光影都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/health/health_016.png",
+      "title": "X光检查",
+      "summary": "X光透视骨骼影像，黑白底片诊断骨折，医学影像",
+      "full_text": "X光透视骨骼影像，黑白底片诊断骨折，医学影像",
+      "image": "res://assets/images/illustrations/health/health_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "health_016_4",
         "health_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/health/health_016_pixel.jpg"
     },
     {
       "id": "health_017",
-      "title": "健康医疗 - 图片18",
-      "summary": "健康医疗相关图片",
-      "full_text": "在身心和谐的领域里，文化传承展现得淋漓尽致，每一个线条都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/health/health_017.png",
+      "title": "CT扫描",
+      "summary": "CT扫描断层成像，环形机器旋转拍摄，精准诊断",
+      "full_text": "CT扫描断层成像，环形机器旋转拍摄，精准诊断",
+      "image": "res://assets/images/illustrations/health/health_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "health_017_4",
         "health_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/health/health_017_pixel.jpg"
     },
     {
       "id": "health_018",
-      "title": "健康医疗 - 图片19",
-      "summary": "健康医疗相关图片",
-      "full_text": "美好生活是人类文明的重要组成部分，它精致地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/health/health_018.png",
+      "title": "核磁共振",
+      "summary": "核磁共振MRI成像，强磁场扫描软组织，无创检查",
+      "full_text": "核磁共振MRI成像，强磁场扫描软组织，无创检查",
+      "image": "res://assets/images/illustrations/health/health_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "health_018_4",
         "health_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/health/health_018_pixel.jpg"
     },
     {
       "id": "health_019",
-      "title": "健康医疗 - 图片20",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康理念不仅传递了时代精神，更传递了生命的意义，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/health/health_019.png",
+      "title": "外科手术",
+      "summary": "手术室无影灯下，主刀医生精细操作，挽救生命",
+      "full_text": "手术室无影灯下，主刀医生精细操作，挽救生命",
+      "image": "res://assets/images/illustrations/health/health_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "health_019_4",
         "health_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/health/health_019_pixel.jpg"
     },
     {
       "id": "health_020",
-      "title": "健康医疗 - 图片21",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是艺术创造的结晶，它激励着社会的进步，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/health/health_020.png",
+      "title": "微创手术",
+      "summary": "微创手术腹腔镜操作，小切口恢复快，精准治疗",
+      "full_text": "微创手术腹腔镜操作，小切口恢复快，精准治疗",
+      "image": "res://assets/images/illustrations/health/health_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "health_020_4",
         "health_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/health/health_020_pixel.jpg"
     },
     {
       "id": "health_021",
-      "title": "健康医疗 - 图片22",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道是历史积淀的结晶，它承载着人文的关怀，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/health/health_021.png",
+      "title": "达芬奇机器人",
+      "summary": "达芬奇手术机器人，机械臂灵活操作，远程精准手术",
+      "full_text": "达芬奇手术机器人，机械臂灵活操作，远程精准手术",
+      "image": "res://assets/images/illustrations/health/health_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "health_021_4",
         "health_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/health/health_021_pixel.jpg"
     },
     {
       "id": "health_022",
-      "title": "健康医疗 - 图片23",
-      "summary": "健康医疗相关图片",
-      "full_text": "身心和谐是自然造化的结晶，它承载着人文的关怀，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/health/health_022.png",
+      "title": "心脏搭桥",
+      "summary": "心脏搭桥手术血管重建，体外循环支持，攻克心脏病",
+      "full_text": "心脏搭桥手术血管重建，体外循环支持，攻克心脏病",
+      "image": "res://assets/images/illustrations/health/health_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "health_022_4",
         "health_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/health/health_022_pixel.jpg"
     },
     {
       "id": "health_023",
-      "title": "健康医疗 - 图片24",
-      "summary": "健康医疗相关图片",
-      "full_text": "美好生活不仅诠释了情感世界，更传递了文化的传承，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/health/health_023.png",
+      "title": "器官移植",
+      "summary": "器官移植肾脏心脏，供体匹配免疫抑制，生命接力",
+      "full_text": "器官移植肾脏心脏，供体匹配免疫抑制，生命接力",
+      "image": "res://assets/images/illustrations/health/health_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "health_023_4",
         "health_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/health/health_023_pixel.jpg"
     },
     {
       "id": "health_024",
-      "title": "健康医疗 - 图片25",
-      "summary": "健康医疗相关图片",
-      "full_text": "探索健康理念的世界，仿佛打开了一扇通往知识海洋的大门，充满了震撼与艺术熏陶。",
-      "image": "res://assets/images/illustrations/health/health_024.png",
+      "title": "疫苗接种",
+      "summary": "疫苗接种针剂注射，预防传染病群体免疫，公共卫生",
+      "full_text": "疫苗接种针剂注射，预防传染病群体免疫，公共卫生",
+      "image": "res://assets/images/illustrations/health/health_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "health_024_4",
         "health_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/health/health_024_pixel.jpg"
     },
     {
       "id": "health_025",
-      "title": "健康医疗 - 图片26",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是思想升华的结晶，它展现着人类的梦想，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/health/health_025.png",
+      "title": "抗生素发现",
+      "summary": "青霉素发现弗莱明，抗生素杀菌消炎，医学里程碑",
+      "full_text": "青霉素发现弗莱明，抗生素杀菌消炎，医学里程碑",
+      "image": "res://assets/images/illustrations/health/health_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "health_025_4",
         "health_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/health/health_025_pixel.jpg"
     },
     {
       "id": "health_026",
-      "title": "健康医疗 - 图片27",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道是艺术创造的结晶，它展现着人类的梦想，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/health/health_026.png",
+      "title": "ICU重症监护",
+      "summary": "ICU重症监护室，生命体征监测仪报警，生死一线",
+      "full_text": "ICU重症监护室，生命体征监测仪报警，生死一线",
+      "image": "res://assets/images/illustrations/health/health_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "health_026_4",
         "health_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/health/health_026_pixel.jpg"
     },
     {
       "id": "health_027",
-      "title": "健康医疗 - 图片28",
-      "summary": "健康医疗相关图片",
-      "full_text": "在身心和谐的领域里，生态保护展现得淋漓尽致，每一个光影都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/health/health_027.png",
+      "title": "产房分娩",
+      "summary": "产房新生儿啼哭，助产士迎接新生命，生命诞生",
+      "full_text": "产房新生儿啼哭，助产士迎接新生命，生命诞生",
+      "image": "res://assets/images/illustrations/health/health_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "health_027_4",
         "health_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/health/health_027_pixel.jpg"
     },
     {
       "id": "health_028",
-      "title": "健康医疗 - 图片29",
-      "summary": "健康医疗相关图片",
-      "full_text": "在美好生活的领域里，人类智慧展现得淋漓尽致，每一个光影都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/health/health_028.png",
+      "title": "基因检测",
+      "summary": "基因检测DNA测序，遗传病风险评估，精准医学",
+      "full_text": "基因检测DNA测序，遗传病风险评估，精准医学",
+      "image": "res://assets/images/illustrations/health/health_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "health_028_4",
         "health_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/health/health_028_pixel.jpg"
     },
     {
       "id": "health_029",
-      "title": "健康医疗 - 图片30",
-      "summary": "健康医疗相关图片",
-      "full_text": "探索健康理念的世界，仿佛打开了一扇通往梦想世界的大门，充满了好奇与情感共鸣。",
-      "image": "res://assets/images/illustrations/health/health_029.png",
+      "title": "靶向治疗",
+      "summary": "靶向药物精准攻击癌细胞，减少副作用，个体化治疗",
+      "full_text": "靶向药物精准攻击癌细胞，减少副作用，个体化治疗",
+      "image": "res://assets/images/illustrations/health/health_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "health_029_4",
         "health_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/health/health_029_pixel.jpg"
     },
     {
       "id": "health_030",
-      "title": "健康医疗 - 图片31",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是人类文明的重要组成部分，它优美地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/health/health_030.png",
+      "title": "免疫疗法",
+      "summary": "免疫疗法激活T细胞，自身免疫杀灭肿瘤，抗癌新希望",
+      "full_text": "免疫疗法激活T细胞，自身免疫杀灭肿瘤，抗癌新希望",
+      "image": "res://assets/images/illustrations/health/health_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "health_030_4",
         "health_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/health/health_030_pixel.jpg"
     },
     {
       "id": "health_031",
-      "title": "健康医疗 - 图片32",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道不仅展现了美好瞬间，更传递了人与自然的和谐，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/health/health_031.png",
+      "title": "干细胞研究",
+      "summary": "干细胞培养分化，组织再生修复，再生医学前景",
+      "full_text": "干细胞培养分化，组织再生修复，再生医学前景",
+      "image": "res://assets/images/illustrations/health/health_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "health_031_4",
         "health_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/health/health_031_pixel.jpg"
     },
     {
       "id": "health_032",
-      "title": "健康医疗 - 图片33",
-      "summary": "健康医疗相关图片",
-      "full_text": "在身心和谐的领域里，历史变迁展现得淋漓尽致，每一个细节都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/health/health_032.png",
+      "title": "远程医疗",
+      "summary": "远程医疗视频问诊，专家远程会诊，医疗资源下沉",
+      "full_text": "远程医疗视频问诊，专家远程会诊，医疗资源下沉",
+      "image": "res://assets/images/illustrations/health/health_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "health_032_4",
         "health_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/health/health_032_pixel.jpg"
     },
     {
       "id": "health_033",
-      "title": "健康医疗 - 图片34",
-      "summary": "健康医疗相关图片",
-      "full_text": "美好生活不仅记录了自然之美，更传递了智慧的光芒，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/health/health_033.png",
+      "title": "可穿戴健康",
+      "summary": "智能手环监测心率步数，健康数据实时追踪，自我管理",
+      "full_text": "智能手环监测心率步数，健康数据实时追踪，自我管理",
+      "image": "res://assets/images/illustrations/health/health_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "health_033_4",
         "health_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/health/health_033_pixel.jpg"
     },
     {
       "id": "health_034",
-      "title": "健康医疗 - 图片35",
-      "summary": "健康医疗相关图片",
-      "full_text": "探索健康理念的世界，仿佛打开了一扇通往智慧天地的大门，充满了宁静与精神升华。",
-      "image": "res://assets/images/illustrations/health/health_034.png",
+      "title": "3D打印假肢",
+      "summary": "3D打印假肢定制，轻便灵活价格低，残障人士福音",
+      "full_text": "3D打印假肢定制，轻便灵活价格低，残障人士福音",
+      "image": "res://assets/images/illustrations/health/health_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "health_034_4",
         "health_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/health/health_034_pixel.jpg"
     },
     {
       "id": "health_035",
-      "title": "健康医疗 - 图片36",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是自然造化的结晶，它传递着社会的进步，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/health/health_035.png",
+      "title": "急救培训",
+      "summary": "急救培训心肺复苏，AED使用黄金四分钟，人人学急救",
+      "full_text": "急救培训心肺复苏，AED使用黄金四分钟，人人学急救",
+      "image": "res://assets/images/illustrations/health/health_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "health_035_4",
         "health_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/health/health_035_pixel.jpg"
     },
     {
       "id": "health_036",
-      "title": "健康医疗 - 图片37",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道是生活体验的结晶，它表达着人类的梦想，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/health/health_036.png",
+      "title": "瑜伽冥想",
+      "summary": "瑜伽冥想身心放松，树式平衡呼吸调息，内在健康",
+      "full_text": "瑜伽冥想身心放松，树式平衡呼吸调息，内在健康",
+      "image": "res://assets/images/illustrations/health/health_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "health_036_4",
         "health_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/health/health_036_pixel.jpg"
     },
     {
       "id": "health_037",
-      "title": "健康医疗 - 图片38",
-      "summary": "健康医疗相关图片",
-      "full_text": "探索身心和谐的世界，仿佛打开了一扇通往美丽新世界的大门，充满了温馨与文化浸润。",
-      "image": "res://assets/images/illustrations/health/health_037.png",
+      "title": "跑步健身",
+      "summary": "晨跑者公园跑道，耳机音乐节奏迈步，有氧运动",
+      "full_text": "晨跑者公园跑道，耳机音乐节奏迈步，有氧运动",
+      "image": "res://assets/images/illustrations/health/health_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "health_037_4",
         "health_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/health/health_037_pixel.jpg"
     },
     {
       "id": "health_038",
-      "title": "健康医疗 - 图片39",
-      "summary": "健康医疗相关图片",
-      "full_text": "美好生活不仅传承了生命意义，更传递了生命的意义，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/health/health_038.png",
+      "title": "均衡饮食",
+      "summary": "均衡饮食蔬果蛋白质，食物金字塔营养搭配，健康基石",
+      "full_text": "均衡饮食蔬果蛋白质，食物金字塔营养搭配，健康基石",
+      "image": "res://assets/images/illustrations/health/health_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "health_038_4",
         "health_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/health/health_038_pixel.jpg"
     },
     {
       "id": "health_039",
-      "title": "健康医疗 - 图片40",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康理念是人类文明的重要组成部分，它质朴地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/health/health_039.png",
+      "title": "睡眠健康",
+      "summary": "充足睡眠七至八小时，深度睡眠修复身体，休息之道",
+      "full_text": "充足睡眠七至八小时，深度睡眠修复身体，休息之道",
+      "image": "res://assets/images/illustrations/health/health_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "health_039_4",
         "health_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/health/health_039_pixel.jpg"
     },
     {
       "id": "health_040",
-      "title": "健康医疗 - 图片41",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是人类文明的重要组成部分，它绚丽地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/health/health_040.png",
+      "title": "心理健康",
+      "summary": "心理咨询师倾听疏导，情绪管理压力释放，心灵健康",
+      "full_text": "心理咨询师倾听疏导，情绪管理压力释放，心灵健康",
+      "image": "res://assets/images/illustrations/health/health_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "health_040_4",
         "health_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/health/health_040_pixel.jpg"
     },
     {
       "id": "health_041",
-      "title": "健康医疗 - 图片42",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道是人类智慧的结晶，它诠释着生活的智慧，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/health/health_041.png",
+      "title": "戒烟限酒",
+      "summary": "戒烟限酒健康生活，尼古丁酒精危害，自律养生",
+      "full_text": "戒烟限酒健康生活，尼古丁酒精危害，自律养生",
+      "image": "res://assets/images/illustrations/health/health_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "health_041_4",
         "health_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/health/health_041_pixel.jpg"
     },
     {
       "id": "health_042",
-      "title": "健康医疗 - 图片43",
-      "summary": "健康医疗相关图片",
-      "full_text": "身心和谐是文化传承的结晶，它引领着人文的关怀，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/health/health_042.png",
+      "title": "体检筛查",
+      "summary": "定期体检早期筛查，早发现早治疗，预防医学",
+      "full_text": "定期体检早期筛查，早发现早治疗，预防医学",
+      "image": "res://assets/images/illustrations/health/health_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "health_042_4",
         "health_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/health/health_042_pixel.jpg"
     },
     {
       "id": "health_043",
-      "title": "健康医疗 - 图片44",
-      "summary": "健康医疗相关图片",
-      "full_text": "美好生活是人类文明的重要组成部分，它庄重地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/health/health_043.png",
+      "title": "太极拳晨练",
+      "summary": "公园老人太极拳晨练，动作柔和气定神闲，传统养生",
+      "full_text": "公园老人太极拳晨练，动作柔和气定神闲，传统养生",
+      "image": "res://assets/images/illustrations/health/health_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "health_043_4",
         "health_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/health/health_043_pixel.jpg"
     },
     {
       "id": "health_044",
-      "title": "健康医疗 - 图片45",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康理念是思想升华的结晶，它引领着人文的关怀，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/health/health_044.png",
+      "title": "游泳健身",
+      "summary": "游泳馆自由泳锻炼，全身运动关节无负担，水中健身",
+      "full_text": "游泳馆自由泳锻炼，全身运动关节无负担，水中健身",
+      "image": "res://assets/images/illustrations/health/health_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "health_044_4",
         "health_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/health/health_044_pixel.jpg"
     },
     {
       "id": "health_045",
-      "title": "健康医疗 - 图片46",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活不仅传递了人类文明，更传递了梦想的价值，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/health/health_045.png",
+      "title": "登山远足",
+      "summary": "登山远足亲近自然，山顶远眺心旷神怡，户外运动",
+      "full_text": "登山远足亲近自然，山顶远眺心旷神怡，户外运动",
+      "image": "res://assets/images/illustrations/health/health_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "health_045_4",
         "health_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/health/health_045_pixel.jpg"
     },
     {
       "id": "health_046",
-      "title": "健康医疗 - 图片47",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道是生活体验的结晶，它诠释着科学的精神，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/health/health_046.png",
+      "title": "冥想减压",
+      "summary": "冥想打坐闭目调息，正念觉察当下，减压放松",
+      "full_text": "冥想打坐闭目调息，正念觉察当下，减压放松",
+      "image": "res://assets/images/illustrations/health/health_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "health_046_4",
         "health_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/health/health_046_pixel.jpg"
     },
     {
       "id": "health_047",
-      "title": "健康医疗 - 图片48",
-      "summary": "健康医疗相关图片",
-      "full_text": "身心和谐是情感表达的结晶，它展现着人类的梦想，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/health/health_047.png",
+      "title": "健康饮食金字塔",
+      "summary": "健康饮食金字塔，谷物蔬果蛋白质，科学营养",
+      "full_text": "健康饮食金字塔，谷物蔬果蛋白质，科学营养",
+      "image": "res://assets/images/illustrations/health/health_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "health_047_4",
         "health_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/health/health_047_pixel.jpg"
     },
     {
       "id": "health_048",
-      "title": "健康医疗 - 图片49",
-      "summary": "健康医疗相关图片",
-      "full_text": "美好生活不仅塑造了历史记忆，更传递了文化的传承，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/health/health_048.png",
+      "title": "职业病防治",
+      "summary": "职业病防治尘肺颈椎病，劳动保护定期检查，关爱劳动者",
+      "full_text": "职业病防治尘肺颈椎病，劳动保护定期检查，关爱劳动者",
+      "image": "res://assets/images/illustrations/health/health_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "health_048_4",
         "health_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/health/health_048_pixel.jpg"
     },
     {
       "id": "health_049",
-      "title": "健康医疗 - 图片50",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康理念不仅记录了人类文明，更传递了创新的精神，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/health/health_049.png",
+      "title": "中医治未病",
+      "summary": "中医治未病预防为主，体质调理养生保健，未病先防",
+      "full_text": "中医治未病预防为主，体质调理养生保健，未病先防",
+      "image": "res://assets/images/illustrations/health/health_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "health_049_4",
         "health_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/health/health_049_pixel.jpg"
     },
     {
       "id": "health_050",
-      "title": "健康医疗 - 图片51",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是情感表达的结晶，它创造着人类的梦想，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/health/health_050.png",
+      "title": "康复训练",
+      "summary": "康复训练师指导患者，步态训练肌力恢复，重获功能",
+      "full_text": "康复训练师指导患者，步态训练肌力恢复，重获功能",
+      "image": "res://assets/images/illustrations/health/health_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "health_050_4",
         "health_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/health/health_050_pixel.jpg"
     },
     {
       "id": "health_051",
-      "title": "健康医疗 - 图片52",
-      "summary": "健康医疗相关图片",
-      "full_text": "在养生之道的领域里，科技进步展现得淋漓尽致，每一个思想都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/health/health_051.png",
+      "title": "口腔健康",
+      "summary": "口腔健康刷牙洗牙，龋齿预防牙周护理，牙齿保健",
+      "full_text": "口腔健康刷牙洗牙，龋齿预防牙周护理，牙齿保健",
+      "image": "res://assets/images/illustrations/health/health_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "health_051_4",
         "health_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/health/health_051_pixel.jpg"
     },
     {
       "id": "health_052",
-      "title": "健康医疗 - 图片53",
-      "summary": "健康医疗相关图片",
-      "full_text": "身心和谐是人类文明的重要组成部分，它庄重地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/health/health_052.png",
+      "title": "视力保护",
+      "summary": "视力保护眼保健操，减少屏幕时间户外活动，护眼之道",
+      "full_text": "视力保护眼保健操，减少屏幕时间户外活动，护眼之道",
+      "image": "res://assets/images/illustrations/health/health_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "health_052_4",
         "health_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/health/health_052_pixel.jpg"
     },
     {
       "id": "health_053",
-      "title": "健康医疗 - 图片54",
-      "summary": "健康医疗相关图片",
-      "full_text": "美好生活不仅揭示了文化内涵，更传递了梦想的价值，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/health/health_053.png",
+      "title": "老年健康",
+      "summary": "老年健康防跌倒慢病管理，定期体检适度运动，安享晚年",
+      "full_text": "老年健康防跌倒慢病管理，定期体检适度运动，安享晚年",
+      "image": "res://assets/images/illustrations/health/health_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "health_053_4",
         "health_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/health/health_053_pixel.jpg"
     },
     {
       "id": "health_054",
-      "title": "健康医疗 - 图片55",
-      "summary": "健康医疗相关图片",
-      "full_text": "在健康理念的领域里，社会发展展现得淋漓尽致，每一个历史印记都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/health/health_054.png",
+      "title": "妇幼保健",
+      "summary": "妇幼保健产前检查，新生儿筛查疫苗接种，母婴安全",
+      "full_text": "妇幼保健产前检查，新生儿筛查疫苗接种，母婴安全",
+      "image": "res://assets/images/illustrations/health/health_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "health_054_4",
         "health_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/health/health_054_pixel.jpg"
     },
     {
       "id": "health_055",
-      "title": "健康医疗 - 图片56",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活不仅塑造了生命意义，更传递了智慧的光芒，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/health/health_055.png",
+      "title": "传染病防控",
+      "summary": "传染病防控隔离消毒，疫苗研发流行病学，公共卫生",
+      "full_text": "传染病防控隔离消毒，疫苗研发流行病学，公共卫生",
+      "image": "res://assets/images/illustrations/health/health_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "health_055_4",
         "health_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/health/health_055_pixel.jpg"
     },
     {
       "id": "health_056",
-      "title": "健康医疗 - 图片57",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道不仅塑造了人类文明，更传递了创新的精神，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/health/health_056.png",
+      "title": "急救直升机",
+      "summary": "医疗救援直升机转运，黄金一小时抢救，空中生命线",
+      "full_text": "医疗救援直升机转运，黄金一小时抢救，空中生命线",
+      "image": "res://assets/images/illustrations/health/health_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "health_056_4",
         "health_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/health/health_056_pixel.jpg"
     },
     {
       "id": "health_057",
-      "title": "健康医疗 - 图片58",
-      "summary": "健康医疗相关图片",
-      "full_text": "身心和谐是人类文明的重要组成部分，它和谐地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/health/health_057.png",
+      "title": "中药现代化",
+      "summary": "中药现代化提取纯化，有效成分量化分析，传统与现代",
+      "full_text": "中药现代化提取纯化，有效成分量化分析，传统与现代",
+      "image": "res://assets/images/illustrations/health/health_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "health_057_4",
         "health_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/health/health_057_pixel.jpg"
     },
     {
       "id": "health_058",
-      "title": "健康医疗 - 图片59",
-      "summary": "健康医疗相关图片",
-      "full_text": "探索美好生活的世界，仿佛打开了一扇通往历史长河的大门，充满了好奇与审美体验。",
-      "image": "res://assets/images/illustrations/health/health_058.png",
+      "title": "全球健康",
+      "summary": "全球健康WHO协调，消除传染病健康公平，人类命运",
+      "full_text": "全球健康WHO协调，消除传染病健康公平，人类命运",
+      "image": "res://assets/images/illustrations/health/health_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "health_058_4",
         "health_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/health/health_058_pixel.jpg"
     },
     {
       "id": "health_059",
-      "title": "健康医疗 - 图片60",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康理念是思想升华的结晶，它记录着美好的愿景，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/health/health_059.png",
+      "title": "医疗人工智能",
+      "summary": "AI辅助诊断影像识别，深度学习分析病理，智慧医疗",
+      "full_text": "AI辅助诊断影像识别，深度学习分析病理，智慧医疗",
+      "image": "res://assets/images/illustrations/health/health_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "health_059_4",
         "health_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/health/health_059_pixel.jpg"
     },
     {
       "id": "health_060",
-      "title": "健康医疗 - 图片61",
-      "summary": "健康医疗相关图片",
-      "full_text": "健康生活是人类文明的重要组成部分，它精彩地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/health/health_060.png",
+      "title": "古代药房",
+      "summary": "古代药房百子柜排列，中药饮片琳琅满目，传统药铺",
+      "full_text": "古代药房百子柜排列，中药饮片琳琅满目，传统药铺",
+      "image": "res://assets/images/illustrations/health/health_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "health_060_4",
         "health_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/health/health_060_pixel.jpg"
     },
     {
       "id": "health_061",
-      "title": "健康医疗 - 图片62",
-      "summary": "健康医疗相关图片",
-      "full_text": "养生之道不仅弘扬了美好瞬间，更传递了人与自然的和谐，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/health/health_061.png",
+      "title": "藏药炮制",
+      "summary": "藏药炮制金银矿物入药，独特工艺高原药材，民族医药瑰宝",
+      "full_text": "藏药炮制金银矿物入药，独特工艺高原药材，民族医药瑰宝",
+      "image": "res://assets/images/illustrations/health/health_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "health_061_4",
         "health_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/health/health_061_pixel.jpg"
     },
     {
       "id": "health_062",
-      "title": "健康医疗 - 图片63",
-      "summary": "健康医疗相关图片",
-      "full_text": "身心和谐不仅展现了自然之美，更传递了创新的精神，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/health/health_062.png",
+      "title": "医疗下乡",
+      "summary": "医疗队下乡义诊，偏远山村送医送药，健康扶贫",
+      "full_text": "医疗队下乡义诊，偏远山村送医送药，健康扶贫",
+      "image": "res://assets/images/illustrations/health/health_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "health_062_4",
         "health_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/health/health_062_pixel.jpg"
     },
     {
       "id": "health_063",
-      "title": "健康医疗 - 图片64",
-      "summary": "健康医疗相关图片",
-      "full_text": "探索美好生活的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了沉思与文化浸润。",
-      "image": "res://assets/images/illustrations/health/health_063.png",
+      "title": "运动康复",
+      "summary": "运动康复理疗师指导，运动员伤后恢复训练，重返赛场",
+      "full_text": "运动康复理疗师指导，运动员伤后恢复训练，重返赛场",
+      "image": "res://assets/images/illustrations/health/health_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "health_063_4",
         "health_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/health/health_063_pixel.jpg"
     },
     {
       "id": "health_064",
-      "title": "健康医疗 - 图片65",
-      "summary": "健康医疗相关图片",
-      "full_text": "在健康理念的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/health/health_064.png",
+      "title": "医疗人文关怀",
+      "summary": "医生握住患者的手安慰，医患信任温暖，医学温度",
+      "full_text": "医生握住患者的手安慰，医患信任温暖，医学温度",
+      "image": "res://assets/images/illustrations/health/health_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,7 +1363,8 @@
         "health_064_4",
         "health_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/health/health_064_pixel.jpg"
     }
   ]
 }

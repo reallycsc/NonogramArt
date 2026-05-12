@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "crops_000",
-      "title": "农作物 - 图片1",
-      "summary": "农作物相关图片",
-      "full_text": "艺术是生活体验的结晶，它记录着人文的关怀，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/crops/crops_000.png",
+      "title": "水稻",
+      "summary": "水稻梯田如绿色阶梯在龙脊层层叠叠延伸",
+      "full_text": "水稻梯田如绿色阶梯在龙脊层层叠叠延伸",
+      "image": "res://assets/images/illustrations/crops/crops_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "crops_000_4",
         "crops_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_000_pixel.jpg"
     },
     {
       "id": "crops_001",
-      "title": "农作物 - 图片2",
-      "summary": "农作物相关图片",
-      "full_text": "文化不仅诠释了时代精神，更传递了文化的传承，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/crops/crops_001.png",
+      "title": "小麦",
+      "summary": "小麦如金色海洋在华北平原如海如金如黄",
+      "full_text": "小麦如金色海洋在华北平原如海如金如黄",
+      "image": "res://assets/images/illustrations/crops/crops_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "crops_001_4",
         "crops_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_001_pixel.jpg"
     },
     {
       "id": "crops_002",
-      "title": "农作物 - 图片3",
-      "summary": "农作物相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往灵感源泉的大门，充满了憧憬与思想启迪。",
-      "image": "res://assets/images/illustrations/crops/crops_002.png",
+      "title": "玉米",
+      "summary": "玉米如金色如柱在东北如柱如金如黄如高",
+      "full_text": "玉米如金色如柱在东北如柱如金如黄如高",
+      "image": "res://assets/images/illustrations/crops/crops_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "crops_002_4",
         "crops_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_002_pixel.jpg"
     },
     {
       "id": "crops_003",
-      "title": "农作物 - 图片4",
-      "summary": "农作物相关图片",
-      "full_text": "科学不仅描绘了自然之美，更传递了智慧的光芒，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/crops/crops_003.png",
+      "title": "高粱",
+      "summary": "高粱如红色火炬在华北如炬如火如红如高",
+      "full_text": "高粱如红色火炬在华北如炬如火如红如高",
+      "image": "res://assets/images/illustrations/crops/crops_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "crops_003_4",
         "crops_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_003_pixel.jpg"
     },
     {
       "id": "crops_004",
-      "title": "农作物 - 图片5",
-      "summary": "农作物相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个线条都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/crops/crops_004.png",
+      "title": "大麦",
+      "summary": "大麦如金色如麦在西北如金如黄如粮如食",
+      "full_text": "大麦如金色如麦在西北如金如黄如粮如食",
+      "image": "res://assets/images/illustrations/crops/crops_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "crops_004_4",
         "crops_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_004_pixel.jpg"
     },
     {
       "id": "crops_005",
-      "title": "农作物 - 图片6",
-      "summary": "农作物相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它灵动地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_005.png",
+      "title": "燕麦",
+      "summary": "燕麦如金色如波在内蒙古如波如金如黄如食",
+      "full_text": "燕麦如金色如波在内蒙古如波如金如黄如食",
+      "image": "res://assets/images/illustrations/crops/crops_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "crops_005_4",
         "crops_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_005_pixel.jpg"
     },
     {
       "id": "crops_006",
-      "title": "农作物 - 图片7",
-      "summary": "农作物相关图片",
-      "full_text": "自然不仅塑造了历史记忆，更传递了人与自然的和谐，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/crops/crops_006.png",
+      "title": "黑麦",
+      "summary": "黑麦如灰绿色如浪在东北欧如浪如灰如绿",
+      "full_text": "黑麦如灰绿色如浪在东北欧如浪如灰如绿",
+      "image": "res://assets/images/illustrations/crops/crops_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "crops_006_4",
         "crops_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_006_pixel.jpg"
     },
     {
       "id": "crops_007",
-      "title": "农作物 - 图片8",
-      "summary": "农作物相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它绚丽地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_007.png",
+      "title": "小米",
+      "summary": "小米如金色如珠在黄土高原如珠如金如黄",
+      "full_text": "小米如金色如珠在黄土高原如珠如金如黄",
+      "image": "res://assets/images/illustrations/crops/crops_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "crops_007_4",
         "crops_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_007_pixel.jpg"
     },
     {
       "id": "crops_008",
-      "title": "农作物 - 图片9",
-      "summary": "农作物相关图片",
-      "full_text": "在艺术的领域里，人类智慧展现得淋漓尽致，每一个历史印记都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/crops/crops_008.png",
+      "title": "黍子",
+      "summary": "黍子如金色如穗在北方如穗如金如黄如食",
+      "full_text": "黍子如金色如穗在北方如穗如金如黄如食",
+      "image": "res://assets/images/illustrations/crops/crops_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "crops_008_4",
         "crops_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_008_pixel.jpg"
     },
     {
       "id": "crops_009",
-      "title": "农作物 - 图片10",
-      "summary": "农作物相关图片",
-      "full_text": "在文化的领域里，艺术创造展现得淋漓尽致，每一个瞬间都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/crops/crops_009.png",
+      "title": "荞麦",
+      "summary": "荞麦如白色如花在秋季如花如白如粉如食",
+      "full_text": "荞麦如白色如花在秋季如花如白如粉如食",
+      "image": "res://assets/images/illustrations/crops/crops_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "crops_009_4",
         "crops_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_009_pixel.jpg"
     },
     {
       "id": "crops_010",
-      "title": "农作物 - 图片11",
-      "summary": "农作物相关图片",
-      "full_text": "自然不仅展现了艺术真谛，更传递了创新的精神，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/crops/crops_010.png",
+      "title": "薏米",
+      "summary": "薏米如白色如珠在南方如珠如白如食如药",
+      "full_text": "薏米如白色如珠在南方如珠如白如食如药",
+      "image": "res://assets/images/illustrations/crops/crops_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "crops_010_4",
         "crops_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_010_pixel.jpg"
     },
     {
       "id": "crops_011",
-      "title": "农作物 - 图片12",
-      "summary": "农作物相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精致地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_011.png",
+      "title": "藜麦",
+      "summary": "藜麦如彩色如穗在安第斯如穗如彩如红如黄",
+      "full_text": "藜麦如彩色如穗在安第斯如穗如彩如红如黄",
+      "image": "res://assets/images/illustrations/crops/crops_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "crops_011_4",
         "crops_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_011_pixel.jpg"
     },
     {
       "id": "crops_012",
-      "title": "农作物 - 图片13",
-      "summary": "农作物相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它丰富地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_012.png",
+      "title": "青稞",
+      "summary": "青稞如金色如浪在西藏如浪如金如黄如食",
+      "full_text": "青稞如金色如浪在西藏如浪如金如黄如食",
+      "image": "res://assets/images/illustrations/crops/crops_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "crops_012_4",
         "crops_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_012_pixel.jpg"
     },
     {
       "id": "crops_013",
-      "title": "农作物 - 图片14",
-      "summary": "农作物相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了愉悦与心灵震撼。",
-      "image": "res://assets/images/illustrations/crops/crops_013.png",
+      "title": "谷子",
+      "summary": "谷子如金色如穗在黄土高原如穗如金如黄",
+      "full_text": "谷子如金色如穗在黄土高原如穗如金如黄",
+      "image": "res://assets/images/illustrations/crops/crops_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "crops_013_4",
         "crops_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_013_pixel.jpg"
     },
     {
       "id": "crops_014",
-      "title": "农作物 - 图片15",
-      "summary": "农作物相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美丽新世界的大门，充满了感动与视觉享受。",
-      "image": "res://assets/images/illustrations/crops/crops_014.png",
+      "title": "糜子",
+      "summary": "糜子如金色如穗在西北如穗如金如黄如食",
+      "full_text": "糜子如金色如穗在西北如穗如金如黄如食",
+      "image": "res://assets/images/illustrations/crops/crops_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "crops_014_4",
         "crops_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_014_pixel.jpg"
     },
     {
       "id": "crops_015",
-      "title": "农作物 - 图片16",
-      "summary": "农作物相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个历史印记都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/crops/crops_015.png",
+      "title": "珍珠粟",
+      "summary": "珍珠粟如绿色如珠在非洲如珠如绿如食如粮",
+      "full_text": "珍珠粟如绿色如珠在非洲如珠如绿如食如粮",
+      "image": "res://assets/images/illustrations/crops/crops_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "crops_015_4",
         "crops_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_015_pixel.jpg"
     },
     {
       "id": "crops_016",
-      "title": "农作物 - 图片17",
-      "summary": "农作物相关图片",
-      "full_text": "艺术不仅传承了时代精神，更传递了人与自然的和谐，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/crops/crops_016.png",
+      "title": "画眉草",
+      "summary": "画眉草如细小如粒在埃塞俄比如粒如细如食",
+      "full_text": "画眉草如细小如粒在埃塞俄比如粒如细如食",
+      "image": "res://assets/images/illustrations/crops/crops_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "crops_016_4",
         "crops_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_016_pixel.jpg"
     },
     {
       "id": "crops_017",
-      "title": "农作物 - 图片18",
-      "summary": "农作物相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它质朴地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_017.png",
+      "title": "苋米",
+      "summary": "苋米如红色如穗在美洲如穗如红如食如粮",
+      "full_text": "苋米如红色如穗在美洲如穗如红如食如粮",
+      "image": "res://assets/images/illustrations/crops/crops_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "crops_017_4",
         "crops_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_017_pixel.jpg"
     },
     {
       "id": "crops_018",
-      "title": "农作物 - 图片19",
-      "summary": "农作物相关图片",
-      "full_text": "在自然的领域里，人类智慧展现得淋漓尽致，每一个线条都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/crops/crops_018.png",
+      "title": "穗醋栗",
+      "summary": "穗醋栗如黑色如珠在北方如珠如黑如果如酸",
+      "full_text": "穗醋栗如黑色如珠在北方如珠如黑如果如酸",
+      "image": "res://assets/images/illustrations/crops/crops_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "crops_018_4",
         "crops_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_018_pixel.jpg"
     },
     {
       "id": "crops_019",
-      "title": "农作物 - 图片20",
-      "summary": "农作物相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个线条都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/crops/crops_019.png",
+      "title": "稗子",
+      "summary": "稗子如绿色如草在稻田如草如绿如杂如食",
+      "full_text": "稗子如绿色如草在稻田如草如绿如杂如食",
+      "image": "res://assets/images/illustrations/crops/crops_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "crops_019_4",
         "crops_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_019_pixel.jpg"
     },
     {
       "id": "crops_020",
-      "title": "农作物 - 图片21",
-      "summary": "农作物相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/crops/crops_020.png",
+      "title": "白菜",
+      "summary": "白菜如绿色如玉在菜园如玉如绿如白如菜",
+      "full_text": "白菜如绿色如玉在菜园如玉如绿如白如菜",
+      "image": "res://assets/images/illustrations/crops/crops_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "crops_020_4",
         "crops_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_020_pixel.jpg"
     },
     {
       "id": "crops_021",
-      "title": "农作物 - 图片22",
-      "summary": "农作物相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它典雅地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_021.png",
+      "title": "番茄",
+      "summary": "番茄如红色如珠在菜园如珠如红如果如食",
+      "full_text": "番茄如红色如珠在菜园如珠如红如果如食",
+      "image": "res://assets/images/illustrations/crops/crops_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "crops_021_4",
         "crops_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_021_pixel.jpg"
     },
     {
       "id": "crops_022",
-      "title": "农作物 - 图片23",
-      "summary": "农作物相关图片",
-      "full_text": "自然是自然造化的结晶，它展现着人文的关怀，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/crops/crops_022.png",
+      "title": "辣椒",
+      "summary": "辣椒如红色如火在菜园如火如红如绿如辣",
+      "full_text": "辣椒如红色如火在菜园如火如红如绿如辣",
+      "image": "res://assets/images/illustrations/crops/crops_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "crops_022_4",
         "crops_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_022_pixel.jpg"
     },
     {
       "id": "crops_023",
-      "title": "农作物 - 图片24",
-      "summary": "农作物相关图片",
-      "full_text": "科学是时代精神的结晶，它激励着人类的梦想，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/crops/crops_023.png",
+      "title": "黄瓜",
+      "summary": "黄瓜如绿色如蛇在藤架如蛇如绿如翠如食",
+      "full_text": "黄瓜如绿色如蛇在藤架如蛇如绿如翠如食",
+      "image": "res://assets/images/illustrations/crops/crops_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "crops_023_4",
         "crops_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_023_pixel.jpg"
     },
     {
       "id": "crops_024",
-      "title": "农作物 - 图片25",
-      "summary": "农作物相关图片",
-      "full_text": "艺术不仅描绘了历史记忆，更传递了智慧的光芒，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/crops/crops_024.png",
+      "title": "茄子",
+      "summary": "茄子如紫色如玉在菜园如玉如紫如黑如食",
+      "full_text": "茄子如紫色如玉在菜园如玉如紫如黑如食",
+      "image": "res://assets/images/illustrations/crops/crops_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "crops_024_4",
         "crops_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_024_pixel.jpg"
     },
     {
       "id": "crops_025",
-      "title": "农作物 - 图片26",
-      "summary": "农作物相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往文化宝库的大门，充满了宁静与思想启迪。",
-      "image": "res://assets/images/illustrations/crops/crops_025.png",
+      "title": "豆角",
+      "summary": "豆角如绿色如鞭在藤架如鞭如绿如翠如食",
+      "full_text": "豆角如绿色如鞭在藤架如鞭如绿如翠如食",
+      "image": "res://assets/images/illustrations/crops/crops_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "crops_025_4",
         "crops_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_025_pixel.jpg"
     },
     {
       "id": "crops_026",
-      "title": "农作物 - 图片27",
-      "summary": "农作物相关图片",
-      "full_text": "自然不仅表达了自然之美，更传递了人与自然的和谐，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/crops/crops_026.png",
+      "title": "土豆",
+      "summary": "土豆如金色如蛋在地下如蛋如金如黄如食",
+      "full_text": "土豆如金色如蛋在地下如蛋如金如黄如食",
+      "image": "res://assets/images/illustrations/crops/crops_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "crops_026_4",
         "crops_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_026_pixel.jpg"
     },
     {
       "id": "crops_027",
-      "title": "农作物 - 图片28",
-      "summary": "农作物相关图片",
-      "full_text": "在科学的领域里，文化传承展现得淋漓尽致，每一个瞬间都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/crops/crops_027.png",
+      "title": "萝卜",
+      "summary": "萝卜如白色如玉在菜园如玉如白如红如食",
+      "full_text": "萝卜如白色如玉在菜园如玉如白如红如食",
+      "image": "res://assets/images/illustrations/crops/crops_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "crops_027_4",
         "crops_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_027_pixel.jpg"
     },
     {
       "id": "crops_028",
-      "title": "农作物 - 图片29",
-      "summary": "农作物相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往美丽新世界的大门，充满了喜悦与视觉享受。",
-      "image": "res://assets/images/illustrations/crops/crops_028.png",
+      "title": "胡萝卜",
+      "summary": "胡萝卜如橙色如锥在地下如锥如橙如红如食",
+      "full_text": "胡萝卜如橙色如锥在地下如锥如橙如红如食",
+      "image": "res://assets/images/illustrations/crops/crops_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "crops_028_4",
         "crops_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_028_pixel.jpg"
     },
     {
       "id": "crops_029",
-      "title": "农作物 - 图片30",
-      "summary": "农作物相关图片",
-      "full_text": "在文化的领域里，自然奇观展现得淋漓尽致，每一个自然元素都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/crops/crops_029.png",
+      "title": "洋葱",
+      "summary": "洋葱如紫色如球在菜园如球如紫如白如食",
+      "full_text": "洋葱如紫色如球在菜园如球如紫如白如食",
+      "image": "res://assets/images/illustrations/crops/crops_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "crops_029_4",
         "crops_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_029_pixel.jpg"
     },
     {
       "id": "crops_030",
-      "title": "农作物 - 图片31",
-      "summary": "农作物相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往灵感源泉的大门，充满了沉醉与文化浸润。",
-      "image": "res://assets/images/illustrations/crops/crops_030.png",
+      "title": "大蒜",
+      "summary": "大蒜如白色如珠在菜园如珠如白如辛如食",
+      "full_text": "大蒜如白色如珠在菜园如珠如白如辛如食",
+      "image": "res://assets/images/illustrations/crops/crops_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "crops_030_4",
         "crops_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_030_pixel.jpg"
     },
     {
       "id": "crops_031",
-      "title": "农作物 - 图片32",
-      "summary": "农作物相关图片",
-      "full_text": "科学是时代精神的结晶，它诠释着社会的进步，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/crops/crops_031.png",
+      "title": "菠菜",
+      "summary": "菠菜如绿色如扇在菜园如扇如绿如翠如食",
+      "full_text": "菠菜如绿色如扇在菜园如扇如绿如翠如食",
+      "image": "res://assets/images/illustrations/crops/crops_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "crops_031_4",
         "crops_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_031_pixel.jpg"
     },
     {
       "id": "crops_032",
-      "title": "农作物 - 图片33",
-      "summary": "农作物相关图片",
-      "full_text": "艺术是审美追求的结晶，它表达着人类的梦想，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/crops/crops_032.png",
+      "title": "生菜",
+      "summary": "生菜如绿色如花在菜园如花如绿如翠如食",
+      "full_text": "生菜如绿色如花在菜园如花如绿如翠如食",
+      "image": "res://assets/images/illustrations/crops/crops_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "crops_032_4",
         "crops_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_032_pixel.jpg"
     },
     {
       "id": "crops_033",
-      "title": "农作物 - 图片34",
-      "summary": "农作物相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美好家园的大门，充满了震撼与精神升华。",
-      "image": "res://assets/images/illustrations/crops/crops_033.png",
+      "title": "芹菜",
+      "summary": "芹菜如绿色如茎在菜园如茎如绿如翠如食",
+      "full_text": "芹菜如绿色如茎在菜园如茎如绿如翠如食",
+      "image": "res://assets/images/illustrations/crops/crops_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "crops_033_4",
         "crops_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_033_pixel.jpg"
     },
     {
       "id": "crops_034",
-      "title": "农作物 - 图片35",
-      "summary": "农作物相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它壮观地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_034.png",
+      "title": "南瓜",
+      "summary": "南瓜如橙色如球在菜园如球如橙如黄如食",
+      "full_text": "南瓜如橙色如球在菜园如球如橙如黄如食",
+      "image": "res://assets/images/illustrations/crops/crops_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "crops_034_4",
         "crops_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_034_pixel.jpg"
     },
     {
       "id": "crops_035",
-      "title": "农作物 - 图片36",
-      "summary": "农作物相关图片",
-      "full_text": "科学不仅展现了自然之美，更传递了智慧的光芒，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/crops/crops_035.png",
+      "title": "冬瓜",
+      "summary": "冬瓜如白色如枕在菜园如枕如白如绿如食",
+      "full_text": "冬瓜如白色如枕在菜园如枕如白如绿如食",
+      "image": "res://assets/images/illustrations/crops/crops_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "crops_035_4",
         "crops_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_035_pixel.jpg"
     },
     {
       "id": "crops_036",
-      "title": "农作物 - 图片37",
-      "summary": "农作物相关图片",
-      "full_text": "艺术是自然造化的结晶，它激励着生活的智慧，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/crops/crops_036.png",
+      "title": "丝瓜",
+      "summary": "丝瓜如绿色如蛇在藤架如蛇如绿如翠如食",
+      "full_text": "丝瓜如绿色如蛇在藤架如蛇如绿如翠如食",
+      "image": "res://assets/images/illustrations/crops/crops_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "crops_036_4",
         "crops_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_036_pixel.jpg"
     },
     {
       "id": "crops_037",
-      "title": "农作物 - 图片38",
-      "summary": "农作物相关图片",
-      "full_text": "在文化的领域里，历史变迁展现得淋漓尽致，每一个自然元素都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/crops/crops_037.png",
+      "title": "苦瓜",
+      "summary": "苦瓜如绿色如瘤在藤架如瘤如绿如翠如食",
+      "full_text": "苦瓜如绿色如瘤在藤架如瘤如绿如翠如食",
+      "image": "res://assets/images/illustrations/crops/crops_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "crops_037_4",
         "crops_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_037_pixel.jpg"
     },
     {
       "id": "crops_038",
-      "title": "农作物 - 图片39",
-      "summary": "农作物相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它奇妙地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_038.png",
+      "title": "西葫芦",
+      "summary": "西葫芦如绿色如瓶在菜园如瓶如绿如翠如食",
+      "full_text": "西葫芦如绿色如瓶在菜园如瓶如绿如翠如食",
+      "image": "res://assets/images/illustrations/crops/crops_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "crops_038_4",
         "crops_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_038_pixel.jpg"
     },
     {
       "id": "crops_039",
-      "title": "农作物 - 图片40",
-      "summary": "农作物相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它灵动地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_039.png",
+      "title": "花椰菜",
+      "summary": "花椰菜如白色如花在菜园如花如白如绿如食",
+      "full_text": "花椰菜如白色如花在菜园如花如白如绿如食",
+      "image": "res://assets/images/illustrations/crops/crops_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "crops_039_4",
         "crops_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_039_pixel.jpg"
     },
     {
       "id": "crops_040",
-      "title": "农作物 - 图片41",
-      "summary": "农作物相关图片",
-      "full_text": "在艺术的领域里，生态保护展现得淋漓尽致，每一个光影都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/crops/crops_040.png",
+      "title": "棉花",
+      "summary": "棉花如白色如云在棉田如云如白如绒如棉",
+      "full_text": "棉花如白色如云在棉田如云如白如绒如棉",
+      "image": "res://assets/images/illustrations/crops/crops_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "crops_040_4",
         "crops_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_040_pixel.jpg"
     },
     {
       "id": "crops_041",
-      "title": "农作物 - 图片42",
-      "summary": "农作物相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往灵感源泉的大门，充满了愉悦与艺术熏陶。",
-      "image": "res://assets/images/illustrations/crops/crops_041.png",
+      "title": "茶叶",
+      "summary": "茶叶如绿色如芽在茶园如芽如绿如翠如香",
+      "full_text": "茶叶如绿色如芽在茶园如芽如绿如翠如香",
+      "image": "res://assets/images/illustrations/crops/crops_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "crops_041_4",
         "crops_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_041_pixel.jpg"
     },
     {
       "id": "crops_042",
-      "title": "农作物 - 图片43",
-      "summary": "农作物相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它灵动地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/crops/crops_042.png",
+      "title": "咖啡",
+      "summary": "咖啡如红色果实在云南如果如红如珠如香",
+      "full_text": "咖啡如红色果实在云南如果如红如珠如香",
+      "image": "res://assets/images/illustrations/crops/crops_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "crops_042_4",
         "crops_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_042_pixel.jpg"
     },
     {
       "id": "crops_043",
-      "title": "农作物 - 图片44",
-      "summary": "农作物相关图片",
-      "full_text": "科学不仅传承了生活哲理，更传递了美的真谛，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/crops/crops_043.png",
+      "title": "可可",
+      "summary": "可可如棕色果实在热带如果如棕如巧如食",
+      "full_text": "可可如棕色果实在热带如果如棕如巧如食",
+      "image": "res://assets/images/illustrations/crops/crops_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "crops_043_4",
         "crops_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_043_pixel.jpg"
     },
     {
       "id": "crops_044",
-      "title": "农作物 - 图片45",
-      "summary": "农作物相关图片",
-      "full_text": "艺术不仅创造了艺术真谛，更传递了情感的力量，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/crops/crops_044.png",
+      "title": "甘蔗",
+      "summary": "甘蔗如绿色如竹在甘蔗田如竹如绿如甜如食",
+      "full_text": "甘蔗如绿色如竹在甘蔗田如竹如绿如甜如食",
+      "image": "res://assets/images/illustrations/crops/crops_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "crops_044_4",
         "crops_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_044_pixel.jpg"
     },
     {
       "id": "crops_045",
-      "title": "农作物 - 图片46",
-      "summary": "农作物相关图片",
-      "full_text": "文化是人类智慧的结晶，它激励着艺术的追求，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/crops/crops_045.png",
+      "title": "甜菜",
+      "summary": "甜菜如红色如球在地下如球如红如甜如食",
+      "full_text": "甜菜如红色如球在地下如球如红如甜如食",
+      "image": "res://assets/images/illustrations/crops/crops_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "crops_045_4",
         "crops_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_045_pixel.jpg"
     },
     {
       "id": "crops_046",
-      "title": "农作物 - 图片47",
-      "summary": "农作物相关图片",
-      "full_text": "自然不仅诠释了生命意义，更传递了生命的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/crops/crops_046.png",
+      "title": "烟草",
+      "summary": "烟草如绿色如叶在烟田如叶如绿如黄如烟",
+      "full_text": "烟草如绿色如叶在烟田如叶如绿如黄如烟",
+      "image": "res://assets/images/illustrations/crops/crops_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "crops_046_4",
         "crops_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_046_pixel.jpg"
     },
     {
       "id": "crops_047",
-      "title": "农作物 - 图片48",
-      "summary": "农作物相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个色彩都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/crops/crops_047.png",
+      "title": "橡胶",
+      "summary": "橡胶如白色乳汁在海南如乳如白如胶如弹",
+      "full_text": "橡胶如白色乳汁在海南如乳如白如胶如弹",
+      "image": "res://assets/images/illustrations/crops/crops_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "crops_047_4",
         "crops_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_047_pixel.jpg"
     },
     {
       "id": "crops_048",
-      "title": "农作物 - 图片49",
-      "summary": "农作物相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往知识海洋的大门，充满了憧憬与心灵震撼。",
-      "image": "res://assets/images/illustrations/crops/crops_048.png",
+      "title": "大豆",
+      "summary": "大豆如黄色如珠在东北如珠如黄如食如粮",
+      "full_text": "大豆如黄色如珠在东北如珠如黄如食如粮",
+      "image": "res://assets/images/illustrations/crops/crops_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "crops_048_4",
         "crops_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_048_pixel.jpg"
     },
     {
       "id": "crops_049",
-      "title": "农作物 - 图片50",
-      "summary": "农作物相关图片",
-      "full_text": "文化是情感表达的结晶，它激励着永恒的真理，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/crops/crops_049.png",
+      "title": "花生",
+      "summary": "花生如金色如茧在地下如茧如金如黄如食",
+      "full_text": "花生如金色如茧在地下如茧如金如黄如食",
+      "image": "res://assets/images/illustrations/crops/crops_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "crops_049_4",
         "crops_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_049_pixel.jpg"
     },
     {
       "id": "crops_050",
-      "title": "农作物 - 图片51",
-      "summary": "农作物相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往智慧天地的大门，充满了怀念与心灵震撼。",
-      "image": "res://assets/images/illustrations/crops/crops_050.png",
+      "title": "油菜",
+      "summary": "油菜如金色如花在春季如花如金如黄如油",
+      "full_text": "油菜如金色如花在春季如花如金如黄如油",
+      "image": "res://assets/images/illustrations/crops/crops_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "crops_050_4",
         "crops_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_050_pixel.jpg"
     },
     {
       "id": "crops_051",
-      "title": "农作物 - 图片52",
-      "summary": "农作物相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往历史长河的大门，充满了感动与知识启迪。",
-      "image": "res://assets/images/illustrations/crops/crops_051.png",
+      "title": "芝麻",
+      "summary": "芝麻如黑色如粒在茎上如粒如黑如白如香",
+      "full_text": "芝麻如黑色如粒在茎上如粒如黑如白如香",
+      "image": "res://assets/images/illustrations/crops/crops_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "crops_051_4",
         "crops_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_051_pixel.jpg"
     },
     {
       "id": "crops_052",
-      "title": "农作物 - 图片53",
-      "summary": "农作物相关图片",
-      "full_text": "在艺术的领域里，艺术创造展现得淋漓尽致，每一个思想都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/crops/crops_052.png",
+      "title": "向日葵",
+      "summary": "向日葵如金色如盘在花田如盘如金如黄如油",
+      "full_text": "向日葵如金色如盘在花田如盘如金如黄如油",
+      "image": "res://assets/images/illustrations/crops/crops_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "crops_052_4",
         "crops_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_052_pixel.jpg"
     },
     {
       "id": "crops_053",
-      "title": "农作物 - 图片54",
-      "summary": "农作物相关图片",
-      "full_text": "文化不仅记录了自然之美，更传递了情感的力量，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/crops/crops_053.png",
+      "title": "亚麻",
+      "summary": "亚麻如蓝色如花在花田如花如蓝如纤如麻",
+      "full_text": "亚麻如蓝色如花在花田如花如蓝如纤如麻",
+      "image": "res://assets/images/illustrations/crops/crops_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "crops_053_4",
         "crops_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_053_pixel.jpg"
     },
     {
       "id": "crops_054",
-      "title": "农作物 - 图片55",
-      "summary": "农作物相关图片",
-      "full_text": "自然是人类智慧的结晶，它引领着社会的进步，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/crops/crops_054.png",
+      "title": "大麻",
+      "summary": "大麻如绿色如掌在田野如掌如绿如纤如麻",
+      "full_text": "大麻如绿色如掌在田野如掌如绿如纤如麻",
+      "image": "res://assets/images/illustrations/crops/crops_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "crops_054_4",
         "crops_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_054_pixel.jpg"
     },
     {
       "id": "crops_055",
-      "title": "农作物 - 图片56",
-      "summary": "农作物相关图片",
-      "full_text": "科学不仅探索了时代精神，更传递了真善美的追求，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/crops/crops_055.png",
+      "title": "剑麻",
+      "summary": "剑麻如绿色如剑在热带如剑如绿如纤如麻",
+      "full_text": "剑麻如绿色如剑在热带如剑如绿如纤如麻",
+      "image": "res://assets/images/illustrations/crops/crops_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "crops_055_4",
         "crops_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_055_pixel.jpg"
     },
     {
       "id": "crops_056",
-      "title": "农作物 - 图片57",
-      "summary": "农作物相关图片",
-      "full_text": "在艺术的领域里，科学发现展现得淋漓尽致，每一个情感都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/crops/crops_056.png",
+      "title": "胡椒",
+      "summary": "胡椒如绿色如珠在藤架如珠如绿如黑如辣",
+      "full_text": "胡椒如绿色如珠在藤架如珠如绿如黑如辣",
+      "image": "res://assets/images/illustrations/crops/crops_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "crops_056_4",
         "crops_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_056_pixel.jpg"
     },
     {
       "id": "crops_057",
-      "title": "农作物 - 图片58",
-      "summary": "农作物相关图片",
-      "full_text": "文化是文化传承的结晶，它传递着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/crops/crops_057.png",
+      "title": "肉桂",
+      "summary": "肉桂如棕色如皮在热带如皮如棕如香如料",
+      "full_text": "肉桂如棕色如皮在热带如皮如棕如香如料",
+      "image": "res://assets/images/illustrations/crops/crops_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "crops_057_4",
         "crops_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_057_pixel.jpg"
     },
     {
       "id": "crops_058",
-      "title": "农作物 - 图片59",
-      "summary": "农作物相关图片",
-      "full_text": "自然是情感表达的结晶，它激励着生活的智慧，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/crops/crops_058.png",
+      "title": "八角",
+      "summary": "八角如棕色如星在广西如星如棕如香如料",
+      "full_text": "八角如棕色如星在广西如星如棕如香如料",
+      "image": "res://assets/images/illustrations/crops/crops_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "crops_058_4",
         "crops_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_058_pixel.jpg"
     },
     {
       "id": "crops_059",
-      "title": "农作物 - 图片60",
-      "summary": "农作物相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往创意空间的大门，充满了沉醉与视觉享受。",
-      "image": "res://assets/images/illustrations/crops/crops_059.png",
+      "title": "香草",
+      "summary": "香草如绿色如荚在热带如荚如绿如香如料",
+      "full_text": "香草如绿色如荚在热带如荚如绿如香如料",
+      "image": "res://assets/images/illustrations/crops/crops_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,7 +1258,8 @@
         "crops_059_4",
         "crops_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/crops/crops_059_pixel.jpg"
     }
   ]
 }

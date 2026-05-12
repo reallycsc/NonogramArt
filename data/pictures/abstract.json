@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "abstract_000",
-      "title": "抽象图案 - 图片1",
-      "summary": "抽象图案相关图片",
-      "full_text": "抽象艺术是时代精神的结晶，它承载着深刻的思考，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/abstract/abstract_000.png",
+      "title": "同心圆环",
+      "summary": "同心圆由内向外扩展，色彩渐变层次分明，几何韵律",
+      "full_text": "同心圆由内向外扩展，色彩渐变层次分明，几何韵律",
+      "image": "res://assets/images/illustrations/abstract/abstract_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "abstract_000_4",
         "abstract_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_000_pixel.jpg"
     },
     {
       "id": "abstract_001",
-      "title": "抽象图案 - 图片2",
-      "summary": "抽象图案相关图片",
-      "full_text": "在色彩构成的领域里，生态保护展现得淋漓尽致，每一个情感都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/abstract/abstract_001.png",
+      "title": "黄金螺旋",
+      "summary": "黄金螺旋对数曲线，贝壳星系自然之美，数学之美",
+      "full_text": "黄金螺旋对数曲线，贝壳星系自然之美，数学之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "abstract_001_4",
         "abstract_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_001_pixel.jpg"
     },
     {
       "id": "abstract_002",
-      "title": "抽象图案 - 图片3",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术不仅展现了生活哲理，更传递了生命的意义，让人感受到无限的遐想。",
-      "image": "res://assets/images/illustrations/abstract/abstract_002.png",
+      "title": "等边三角形",
+      "summary": "等边三角形完美对称，三条边等长三个角等，稳定结构",
+      "full_text": "等边三角形完美对称，三条边等长三个角等，稳定结构",
+      "image": "res://assets/images/illustrations/abstract/abstract_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "abstract_002_4",
         "abstract_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_002_pixel.jpg"
     },
     {
       "id": "abstract_003",
-      "title": "抽象图案 - 图片4",
-      "summary": "抽象图案相关图片",
-      "full_text": "在几何图形的领域里，社会发展展现得淋漓尽致，每一个思想都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/abstract/abstract_003.png",
+      "title": "正六边形蜂巢",
+      "summary": "正六边形蜂巢排列，空间利用率最高，自然几何",
+      "full_text": "正六边形蜂巢排列，空间利用率最高，自然几何",
+      "image": "res://assets/images/illustrations/abstract/abstract_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "abstract_003_4",
         "abstract_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_003_pixel.jpg"
     },
     {
       "id": "abstract_004",
-      "title": "抽象图案 - 图片5",
-      "summary": "抽象图案相关图片",
-      "full_text": "视觉艺术不仅传承了美好瞬间，更传递了创新的精神，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/abstract/abstract_004.png",
+      "title": "分形树",
+      "summary": "分形树自相似分支，枝干递归无限延伸，分形之美",
+      "full_text": "分形树自相似分支，枝干递归无限延伸，分形之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "abstract_004_4",
         "abstract_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_004_pixel.jpg"
     },
     {
       "id": "abstract_005",
-      "title": "抽象图案 - 图片6",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索抽象艺术的世界，仿佛打开了一扇通往知识海洋的大门，充满了憧憬与审美体验。",
-      "image": "res://assets/images/illustrations/abstract/abstract_005.png",
+      "title": "曼德博集合",
+      "summary": "曼德博集合边界无限，缩放后细节涌现，数学奇观",
+      "full_text": "曼德博集合边界无限，缩放后细节涌现，数学奇观",
+      "image": "res://assets/images/illustrations/abstract/abstract_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "abstract_005_4",
         "abstract_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_005_pixel.jpg"
     },
     {
       "id": "abstract_006",
-      "title": "抽象图案 - 图片7",
-      "summary": "抽象图案相关图片",
-      "full_text": "色彩构成不仅诠释了时代精神，更传递了奋斗的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/abstract/abstract_006.png",
+      "title": "谢尔宾斯基三角",
+      "summary": "谢尔宾斯基三角形递归，挖空后自相似结构，分形经典",
+      "full_text": "谢尔宾斯基三角形递归，挖空后自相似结构，分形经典",
+      "image": "res://assets/images/illustrations/abstract/abstract_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "abstract_006_4",
         "abstract_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_006_pixel.jpg"
     },
     {
       "id": "abstract_007",
-      "title": "抽象图案 - 图片8",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术是文化传承的结晶，它激励着科学的精神，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/abstract/abstract_007.png",
+      "title": "科赫雪花",
+      "summary": "科赫雪花曲线无限长，围成有限面积，分形悖论",
+      "full_text": "科赫雪花曲线无限长，围成有限面积，分形悖论",
+      "image": "res://assets/images/illustrations/abstract/abstract_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "abstract_007_4",
         "abstract_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_007_pixel.jpg"
     },
     {
       "id": "abstract_008",
-      "title": "抽象图案 - 图片9",
-      "summary": "抽象图案相关图片",
-      "full_text": "几何图形是人类文明的重要组成部分，它神秘地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/abstract/abstract_008.png",
+      "title": "螺旋线",
+      "summary": "阿基米德螺旋等距展开，向日葵花盘排列，旋转韵律",
+      "full_text": "阿基米德螺旋等距展开，向日葵花盘排列，旋转韵律",
+      "image": "res://assets/images/illustrations/abstract/abstract_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "abstract_008_4",
         "abstract_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_008_pixel.jpg"
     },
     {
       "id": "abstract_009",
-      "title": "抽象图案 - 图片10",
-      "summary": "抽象图案相关图片",
-      "full_text": "在视觉艺术的领域里，自然奇观展现得淋漓尽致，每一个线条都诉说着温暖的记忆。",
-      "image": "res://assets/images/illustrations/abstract/abstract_009.png",
+      "title": "莫比乌斯带",
+      "summary": "莫比乌斯带扭转连接，单面单边拓扑奇观，数学魔术",
+      "full_text": "莫比乌斯带扭转连接，单面单边拓扑奇观，数学魔术",
+      "image": "res://assets/images/illustrations/abstract/abstract_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "abstract_009_4",
         "abstract_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_009_pixel.jpg"
     },
     {
       "id": "abstract_010",
-      "title": "抽象图案 - 图片11",
-      "summary": "抽象图案相关图片",
-      "full_text": "抽象艺术不仅传承了艺术真谛，更传递了梦想的价值，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/abstract/abstract_010.png",
+      "title": "正多面体",
+      "summary": "五种正多面体完美对称，柏拉图立体哲学象征",
+      "full_text": "五种正多面体完美对称，柏拉图立体哲学象征",
+      "image": "res://assets/images/illustrations/abstract/abstract_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "abstract_010_4",
         "abstract_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_010_pixel.jpg"
     },
     {
       "id": "abstract_011",
-      "title": "抽象图案 - 图片12",
-      "summary": "抽象图案相关图片",
-      "full_text": "在色彩构成的领域里，自然奇观展现得淋漓尽致，每一个线条都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/abstract/abstract_011.png",
+      "title": "椭圆曲线",
+      "summary": "椭圆曲线优雅弧线，行星轨道数学描述，曲线之美",
+      "full_text": "椭圆曲线优雅弧线，行星轨道数学描述，曲线之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "abstract_011_4",
         "abstract_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_011_pixel.jpg"
     },
     {
       "id": "abstract_012",
-      "title": "抽象图案 - 图片13",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术是人类文明的重要组成部分，它精彩地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/abstract/abstract_012.png",
+      "title": "双曲线",
+      "summary": "双曲线两支无限延伸，冷却塔外形双曲面，曲线应用",
+      "full_text": "双曲线两支无限延伸，冷却塔外形双曲面，曲线应用",
+      "image": "res://assets/images/illustrations/abstract/abstract_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "abstract_012_4",
         "abstract_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_012_pixel.jpg"
     },
     {
       "id": "abstract_013",
-      "title": "抽象图案 - 图片14",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索几何图形的世界，仿佛打开了一扇通往美好家园的大门，充满了沉醉与精神升华。",
-      "image": "res://assets/images/illustrations/abstract/abstract_013.png",
+      "title": "抛物线",
+      "summary": "抛物线对称弧形，抛物运动天线形状，物理曲线",
+      "full_text": "抛物线对称弧形，抛物运动天线形状，物理曲线",
+      "image": "res://assets/images/illustrations/abstract/abstract_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "abstract_013_4",
         "abstract_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_013_pixel.jpg"
     },
     {
       "id": "abstract_014",
-      "title": "抽象图案 - 图片15",
-      "summary": "抽象图案相关图片",
-      "full_text": "在视觉艺术的领域里，艺术创造展现得淋漓尽致，每一个瞬间都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/abstract/abstract_014.png",
+      "title": "正弦波",
+      "summary": "正弦波周期振荡，声波光波数学表达，波动之美",
+      "full_text": "正弦波周期振荡，声波光波数学表达，波动之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "abstract_014_4",
         "abstract_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_014_pixel.jpg"
     },
     {
       "id": "abstract_015",
-      "title": "抽象图案 - 图片16",
-      "summary": "抽象图案相关图片",
-      "full_text": "抽象艺术不仅塑造了生活哲理，更传递了智慧的光芒，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/abstract/abstract_015.png",
+      "title": "渐开线",
+      "summary": "渐开线齿轮齿形曲线，基圆展开精确啮合，工程曲线",
+      "full_text": "渐开线齿轮齿形曲线，基圆展开精确啮合，工程曲线",
+      "image": "res://assets/images/illustrations/abstract/abstract_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "abstract_015_4",
         "abstract_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_015_pixel.jpg"
     },
     {
       "id": "abstract_016",
-      "title": "抽象图案 - 图片17",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索色彩构成的世界，仿佛打开了一扇通往文化宝库的大门，充满了惊叹与思想启迪。",
-      "image": "res://assets/images/illustrations/abstract/abstract_016.png",
+      "title": "摆线",
+      "summary": "摆线滚动圆上一点轨迹，最速降线问题，数学曲线",
+      "full_text": "摆线滚动圆上一点轨迹，最速降线问题，数学曲线",
+      "image": "res://assets/images/illustrations/abstract/abstract_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "abstract_016_4",
         "abstract_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_016_pixel.jpg"
     },
     {
       "id": "abstract_017",
-      "title": "抽象图案 - 图片18",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术不仅表达了时代精神，更传递了美的真谛，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/abstract/abstract_017.png",
+      "title": "利萨如图形",
+      "summary": "利萨如图形频率比，示波器上优美图案，振动合成",
+      "full_text": "利萨如图形频率比，示波器上优美图案，振动合成",
+      "image": "res://assets/images/illustrations/abstract/abstract_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "abstract_017_4",
         "abstract_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_017_pixel.jpg"
     },
     {
       "id": "abstract_018",
-      "title": "抽象图案 - 图片19",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索几何图形的世界，仿佛打开了一扇通往精神家园的大门，充满了向往与美好感受。",
-      "image": "res://assets/images/illustrations/abstract/abstract_018.png",
+      "title": "斐波那契数列",
+      "summary": "斐波那契数列1 1 2 3 5 8，黄金比例逼近，数列之美",
+      "full_text": "斐波那契数列1 1 2 3 5 8，黄金比例逼近，数列之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "abstract_018_4",
         "abstract_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_018_pixel.jpg"
     },
     {
       "id": "abstract_019",
-      "title": "抽象图案 - 图片20",
-      "summary": "抽象图案相关图片",
-      "full_text": "视觉艺术不仅创造了生命意义，更传递了智慧的光芒，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/abstract/abstract_019.png",
+      "title": "渐变色过渡",
+      "summary": "渐变色从暖到冷过渡，色彩流动柔和变化，色彩韵律",
+      "full_text": "渐变色从暖到冷过渡，色彩流动柔和变化，色彩韵律",
+      "image": "res://assets/images/illustrations/abstract/abstract_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "abstract_019_4",
         "abstract_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_019_pixel.jpg"
     },
     {
       "id": "abstract_020",
-      "title": "抽象图案 - 图片21",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索抽象艺术的世界，仿佛打开了一扇通往知识海洋的大门，充满了愉悦与心灵震撼。",
-      "image": "res://assets/images/illustrations/abstract/abstract_020.png",
+      "title": "对比色碰撞",
+      "summary": "红绿对比色强烈碰撞，视觉冲击力十足，色彩张力",
+      "full_text": "红绿对比色强烈碰撞，视觉冲击力十足，色彩张力",
+      "image": "res://assets/images/illustrations/abstract/abstract_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "abstract_020_4",
         "abstract_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_020_pixel.jpg"
     },
     {
       "id": "abstract_021",
-      "title": "抽象图案 - 图片22",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索色彩构成的世界，仿佛打开了一扇通往美好家园的大门，充满了喜悦与情感共鸣。",
-      "image": "res://assets/images/illustrations/abstract/abstract_021.png",
+      "title": "冷暖色调",
+      "summary": "冷色调蓝紫宁静，暖色调红橙热情，色彩情感",
+      "full_text": "冷色调蓝紫宁静，暖色调红橙热情，色彩情感",
+      "image": "res://assets/images/illustrations/abstract/abstract_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "abstract_021_4",
         "abstract_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_021_pixel.jpg"
     },
     {
       "id": "abstract_022",
-      "title": "抽象图案 - 图片23",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术是历史积淀的结晶，它创造着社会的进步，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/abstract/abstract_022.png",
+      "title": "三原色混合",
+      "summary": "红黄蓝三原色混合，间色复色无穷变化，色彩基础",
+      "full_text": "红黄蓝三原色混合，间色复色无穷变化，色彩基础",
+      "image": "res://assets/images/illustrations/abstract/abstract_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "abstract_022_4",
         "abstract_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_022_pixel.jpg"
     },
     {
       "id": "abstract_023",
-      "title": "抽象图案 - 图片24",
-      "summary": "抽象图案相关图片",
-      "full_text": "几何图形是人类文明的重要组成部分，它深刻地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/abstract/abstract_023.png",
+      "title": "黑白灰层次",
+      "summary": "黑白灰无彩色层次，明暗对比光影变化，极简色彩",
+      "full_text": "黑白灰无彩色层次，明暗对比光影变化，极简色彩",
+      "image": "res://assets/images/illustrations/abstract/abstract_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "abstract_023_4",
         "abstract_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_023_pixel.jpg"
     },
     {
       "id": "abstract_024",
-      "title": "抽象图案 - 图片25",
-      "summary": "抽象图案相关图片",
-      "full_text": "视觉艺术不仅记录了生活哲理，更传递了真善美的追求，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/abstract/abstract_024.png",
+      "title": "彩虹光谱",
+      "summary": "彩虹七色光谱排列，红橙黄绿蓝靛紫，自然色彩",
+      "full_text": "彩虹七色光谱排列，红橙黄绿蓝靛紫，自然色彩",
+      "image": "res://assets/images/illustrations/abstract/abstract_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "abstract_024_4",
         "abstract_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_024_pixel.jpg"
     },
     {
       "id": "abstract_025",
-      "title": "抽象图案 - 图片26",
-      "summary": "抽象图案相关图片",
-      "full_text": "在抽象艺术的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/abstract/abstract_025.png",
+      "title": "莫兰迪色系",
+      "summary": "莫兰迪色系灰调低饱和，温柔内敛高级感，优雅色彩",
+      "full_text": "莫兰迪色系灰调低饱和，温柔内敛高级感，优雅色彩",
+      "image": "res://assets/images/illustrations/abstract/abstract_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "abstract_025_4",
         "abstract_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_025_pixel.jpg"
     },
     {
       "id": "abstract_026",
-      "title": "抽象图案 - 图片27",
-      "summary": "抽象图案相关图片",
-      "full_text": "色彩构成是生活体验的结晶，它诠释着永恒的真理，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/abstract/abstract_026.png",
+      "title": "荧光色",
+      "summary": "荧光色高饱和发光感，赛博朋克科技感，前卫色彩",
+      "full_text": "荧光色高饱和发光感，赛博朋克科技感，前卫色彩",
+      "image": "res://assets/images/illustrations/abstract/abstract_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "abstract_026_4",
         "abstract_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_026_pixel.jpg"
     },
     {
       "id": "abstract_027",
-      "title": "抽象图案 - 图片28",
-      "summary": "抽象图案相关图片",
-      "full_text": "在线条艺术的领域里，人类智慧展现得淋漓尽致，每一个情感都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/abstract/abstract_027.png",
+      "title": "金属色光泽",
+      "summary": "金属色金银铜光泽，反射光线质感奢华，光泽色彩",
+      "full_text": "金属色金银铜光泽，反射光线质感奢华，光泽色彩",
+      "image": "res://assets/images/illustrations/abstract/abstract_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "abstract_027_4",
         "abstract_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_027_pixel.jpg"
     },
     {
       "id": "abstract_028",
-      "title": "抽象图案 - 图片29",
-      "summary": "抽象图案相关图片",
-      "full_text": "几何图形不仅塑造了文化内涵，更传递了奋斗的意义，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/abstract/abstract_028.png",
+      "title": "透明色叠加",
+      "summary": "透明色层层叠加，混合出新色彩效果，透叠之美",
+      "full_text": "透明色层层叠加，混合出新色彩效果，透叠之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "abstract_028_4",
         "abstract_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_028_pixel.jpg"
     },
     {
       "id": "abstract_029",
-      "title": "抽象图案 - 图片30",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索视觉艺术的世界，仿佛打开了一扇通往神秘国度的大门，充满了喜悦与文化浸润。",
-      "image": "res://assets/images/illustrations/abstract/abstract_029.png",
+      "title": "色彩心理学",
+      "summary": "色彩心理学红热情蓝冷静，颜色影响情绪，色彩语言",
+      "full_text": "色彩心理学红热情蓝冷静，颜色影响情绪，色彩语言",
+      "image": "res://assets/images/illustrations/abstract/abstract_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "abstract_029_4",
         "abstract_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_029_pixel.jpg"
     },
     {
       "id": "abstract_030",
-      "title": "抽象图案 - 图片31",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索抽象艺术的世界，仿佛打开了一扇通往创意空间的大门，充满了温馨与心灵震撼。",
-      "image": "res://assets/images/illustrations/abstract/abstract_030.png",
+      "title": "互补色和谐",
+      "summary": "互补色对面相配，对比强烈又和谐，色彩平衡",
+      "full_text": "互补色对面相配，对比强烈又和谐，色彩平衡",
+      "image": "res://assets/images/illustrations/abstract/abstract_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "abstract_030_4",
         "abstract_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_030_pixel.jpg"
     },
     {
       "id": "abstract_031",
-      "title": "抽象图案 - 图片32",
-      "summary": "抽象图案相关图片",
-      "full_text": "在色彩构成的领域里，历史变迁展现得淋漓尽致，每一个瞬间都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/abstract/abstract_031.png",
+      "title": "单色渐变",
+      "summary": "单色从深到浅渐变，同色系层次丰富，统一色彩",
+      "full_text": "单色从深到浅渐变，同色系层次丰富，统一色彩",
+      "image": "res://assets/images/illustrations/abstract/abstract_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "abstract_031_4",
         "abstract_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_031_pixel.jpg"
     },
     {
       "id": "abstract_032",
-      "title": "抽象图案 - 图片33",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术不仅弘扬了艺术真谛，更传递了创新的精神，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/abstract/abstract_032.png",
+      "title": "波洛克滴画",
+      "summary": "波洛克行动绘画滴洒，颜料飞溅自由奔放，抽象表现",
+      "full_text": "波洛克行动绘画滴洒，颜料飞溅自由奔放，抽象表现",
+      "image": "res://assets/images/illustrations/abstract/abstract_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "abstract_032_4",
         "abstract_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_032_pixel.jpg"
     },
     {
       "id": "abstract_033",
-      "title": "抽象图案 - 图片34",
-      "summary": "抽象图案相关图片",
-      "full_text": "几何图形是人类文明的重要组成部分，它质朴地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/abstract/abstract_033.png",
+      "title": "蒙德里安方格",
+      "summary": "蒙德里安红黄蓝构图，直线色块极简纯粹，几何抽象",
+      "full_text": "蒙德里安红黄蓝构图，直线色块极简纯粹，几何抽象",
+      "image": "res://assets/images/illustrations/abstract/abstract_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "abstract_033_4",
         "abstract_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_033_pixel.jpg"
     },
     {
       "id": "abstract_034",
-      "title": "抽象图案 - 图片35",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索视觉艺术的世界，仿佛打开了一扇通往美好家园的大门，充满了感动与思想启迪。",
-      "image": "res://assets/images/illustrations/abstract/abstract_034.png",
+      "title": "马列维奇方块",
+      "summary": "马列维奇至上主义方块，纯色几何纯粹感觉，绝对抽象",
+      "full_text": "马列维奇至上主义方块，纯色几何纯粹感觉，绝对抽象",
+      "image": "res://assets/images/illustrations/abstract/abstract_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "abstract_034_4",
         "abstract_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_034_pixel.jpg"
     },
     {
       "id": "abstract_035",
-      "title": "抽象图案 - 图片36",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索抽象艺术的世界，仿佛打开了一扇通往文化宝库的大门，充满了感动与文化浸润。",
-      "image": "res://assets/images/illustrations/abstract/abstract_035.png",
+      "title": "康定斯基点线面",
+      "summary": "康定斯基点线面构成，音乐节奏视觉化，抽象先驱",
+      "full_text": "康定斯基点线面构成，音乐节奏视觉化，抽象先驱",
+      "image": "res://assets/images/illustrations/abstract/abstract_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "abstract_035_4",
         "abstract_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_035_pixel.jpg"
     },
     {
       "id": "abstract_036",
-      "title": "抽象图案 - 图片37",
-      "summary": "抽象图案相关图片",
-      "full_text": "色彩构成是自然造化的结晶，它引领着人类的梦想，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/abstract/abstract_036.png",
+      "title": "极简主义白画",
+      "summary": "极简主义留白空灵，少即是多纯粹体验，极简美学",
+      "full_text": "极简主义留白空灵，少即是多纯粹体验，极简美学",
+      "image": "res://assets/images/illustrations/abstract/abstract_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "abstract_036_4",
         "abstract_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_036_pixel.jpg"
     },
     {
       "id": "abstract_037",
-      "title": "抽象图案 - 图片38",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术是人类智慧的结晶，它启迪着美好的愿景，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/abstract/abstract_037.png",
+      "title": "光效应艺术",
+      "summary": "光效应艺术视错觉，几何图案产生动感，视觉魔术",
+      "full_text": "光效应艺术视错觉，几何图案产生动感，视觉魔术",
+      "image": "res://assets/images/illustrations/abstract/abstract_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "abstract_037_4",
         "abstract_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_037_pixel.jpg"
     },
     {
       "id": "abstract_038",
-      "title": "抽象图案 - 图片39",
-      "summary": "抽象图案相关图片",
-      "full_text": "几何图形是文化传承的结晶，它承载着生活的智慧，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/abstract/abstract_038.png",
+      "title": "罗斯科色域",
+      "summary": "罗斯科色域绘画，大块色彩冥想体验，精神抽象",
+      "full_text": "罗斯科色域绘画，大块色彩冥想体验，精神抽象",
+      "image": "res://assets/images/illustrations/abstract/abstract_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "abstract_038_4",
         "abstract_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_038_pixel.jpg"
     },
     {
       "id": "abstract_039",
-      "title": "抽象图案 - 图片40",
-      "summary": "抽象图案相关图片",
-      "full_text": "在视觉艺术的领域里，历史变迁展现得淋漓尽致，每一个光影都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/abstract/abstract_039.png",
+      "title": "克莱因蓝",
+      "summary": "克莱因蓝纯粹深邃，国际克莱因蓝专利，绝对色彩",
+      "full_text": "克莱因蓝纯粹深邃，国际克莱因蓝专利，绝对色彩",
+      "image": "res://assets/images/illustrations/abstract/abstract_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "abstract_039_4",
         "abstract_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_039_pixel.jpg"
     },
     {
       "id": "abstract_040",
-      "title": "抽象图案 - 图片41",
-      "summary": "抽象图案相关图片",
-      "full_text": "抽象艺术是人类文明的重要组成部分，它清新地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/abstract/abstract_040.png",
+      "title": "草间弥生圆点",
+      "summary": "草间弥生无限圆点，重复排列迷幻空间，波点女王",
+      "full_text": "草间弥生无限圆点，重复排列迷幻空间，波点女王",
+      "image": "res://assets/images/illustrations/abstract/abstract_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "abstract_040_4",
         "abstract_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_040_pixel.jpg"
     },
     {
       "id": "abstract_041",
-      "title": "抽象图案 - 图片42",
-      "summary": "抽象图案相关图片",
-      "full_text": "色彩构成不仅传承了自然之美，更传递了人与自然的和谐，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/abstract/abstract_041.png",
+      "title": "抽象表现主义",
+      "summary": "抽象表现主义情感宣泄，大笔触浓色彩，内在力量",
+      "full_text": "抽象表现主义情感宣泄，大笔触浓色彩，内在力量",
+      "image": "res://assets/images/illustrations/abstract/abstract_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "abstract_041_4",
         "abstract_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_041_pixel.jpg"
     },
     {
       "id": "abstract_042",
-      "title": "抽象图案 - 图片43",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术是人类文明的重要组成部分，它绚丽地展现了文明瑰宝的魅力。",
-      "image": "res://assets/images/illustrations/abstract/abstract_042.png",
+      "title": "构成主义",
+      "summary": "构成主义几何结构，工业材料社会功能，革命艺术",
+      "full_text": "构成主义几何结构，工业材料社会功能，革命艺术",
+      "image": "res://assets/images/illustrations/abstract/abstract_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "abstract_042_4",
         "abstract_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_042_pixel.jpg"
     },
     {
       "id": "abstract_043",
-      "title": "抽象图案 - 图片44",
-      "summary": "抽象图案相关图片",
-      "full_text": "几何图形是历史积淀的结晶，它诠释着深刻的思考，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/abstract/abstract_043.png",
+      "title": "欧普艺术",
+      "summary": "欧普艺术光学幻象，黑白几何视觉振动，眼睛魔术",
+      "full_text": "欧普艺术光学幻象，黑白几何视觉振动，眼睛魔术",
+      "image": "res://assets/images/illustrations/abstract/abstract_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "abstract_043_4",
         "abstract_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_043_pixel.jpg"
     },
     {
       "id": "abstract_044",
-      "title": "抽象图案 - 图片45",
-      "summary": "抽象图案相关图片",
-      "full_text": "视觉艺术不仅诠释了时代精神，更传递了真善美的追求，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/abstract/abstract_044.png",
+      "title": "动态雕塑",
+      "summary": "考尔德动态雕塑，风力驱动平衡运动，移动艺术",
+      "full_text": "考尔德动态雕塑，风力驱动平衡运动，移动艺术",
+      "image": "res://assets/images/illustrations/abstract/abstract_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "abstract_044_4",
         "abstract_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_044_pixel.jpg"
     },
     {
       "id": "abstract_045",
-      "title": "抽象图案 - 图片46",
-      "summary": "抽象图案相关图片",
-      "full_text": "在抽象艺术的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/abstract/abstract_045.png",
+      "title": "数字生成艺术",
+      "summary": "算法生成抽象图案，代码创作无限变化，数字抽象",
+      "full_text": "算法生成抽象图案，代码创作无限变化，数字抽象",
+      "image": "res://assets/images/illustrations/abstract/abstract_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "abstract_045_4",
         "abstract_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_045_pixel.jpg"
     },
     {
       "id": "abstract_046",
-      "title": "抽象图案 - 图片47",
-      "summary": "抽象图案相关图片",
-      "full_text": "色彩构成是生活体验的结晶，它创造着美好的愿景，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/abstract/abstract_046.png",
+      "title": "流体艺术",
+      "summary": "流体艺术颜料倾倒，自然流动不可预测，偶然之美",
+      "full_text": "流体艺术颜料倾倒，自然流动不可预测，偶然之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "abstract_046_4",
         "abstract_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_046_pixel.jpg"
     },
     {
       "id": "abstract_047",
-      "title": "抽象图案 - 图片48",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术不仅塑造了艺术真谛，更传递了人与自然的和谐，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/abstract/abstract_047.png",
+      "title": "几何拼贴",
+      "summary": "几何形状拼贴组合，色块叠加错位排列，构成之美",
+      "full_text": "几何形状拼贴组合，色块叠加错位排列，构成之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "abstract_047_4",
         "abstract_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_047_pixel.jpg"
     },
     {
       "id": "abstract_048",
-      "title": "抽象图案 - 图片49",
-      "summary": "抽象图案相关图片",
-      "full_text": "在几何图形的领域里，生态保护展现得淋漓尽致，每一个细节都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/abstract/abstract_048.png",
+      "title": "光影抽象",
+      "summary": "光影投射抽象图案，明暗交错虚实相生，光之艺术",
+      "full_text": "光影投射抽象图案，明暗交错虚实相生，光之艺术",
+      "image": "res://assets/images/illustrations/abstract/abstract_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "abstract_048_4",
         "abstract_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_048_pixel.jpg"
     },
     {
       "id": "abstract_049",
-      "title": "抽象图案 - 图片50",
-      "summary": "抽象图案相关图片",
-      "full_text": "视觉艺术是艺术创造的结晶，它激励着人文的关怀，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/abstract/abstract_049.png",
+      "title": "声音可视化",
+      "summary": "声波频谱可视化，音频信号变图形，听觉转视觉",
+      "full_text": "声波频谱可视化，音频信号变图形，听觉转视觉",
+      "image": "res://assets/images/illustrations/abstract/abstract_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "abstract_049_4",
         "abstract_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_049_pixel.jpg"
     },
     {
       "id": "abstract_050",
-      "title": "抽象图案 - 图片51",
-      "summary": "抽象图案相关图片",
-      "full_text": "抽象艺术是人类文明的重要组成部分，它优雅地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/abstract/abstract_050.png",
+      "title": "数据可视化",
+      "summary": "数据可视化图表，信息图形美观清晰，数据之美",
+      "full_text": "数据可视化图表，信息图形美观清晰，数据之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "abstract_050_4",
         "abstract_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_050_pixel.jpg"
     },
     {
       "id": "abstract_051",
-      "title": "抽象图案 - 图片52",
-      "summary": "抽象图案相关图片",
-      "full_text": "色彩构成是人类文明的重要组成部分，它灵动地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/abstract/abstract_051.png",
+      "title": "分形艺术",
+      "summary": "分形艺术无限细节，缩放后涌现新图案，数学美学",
+      "full_text": "分形艺术无限细节，缩放后涌现新图案，数学美学",
+      "image": "res://assets/images/illustrations/abstract/abstract_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "abstract_051_4",
         "abstract_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_051_pixel.jpg"
     },
     {
       "id": "abstract_052",
-      "title": "抽象图案 - 图片53",
-      "summary": "抽象图案相关图片",
-      "full_text": "线条艺术是人类文明的重要组成部分，它典雅地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/abstract/abstract_052.png",
+      "title": "对称图案",
+      "summary": "对称图案镜像反射，左右上下对称和谐，秩序之美",
+      "full_text": "对称图案镜像反射，左右上下对称和谐，秩序之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "abstract_052_4",
         "abstract_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_052_pixel.jpg"
     },
     {
       "id": "abstract_053",
-      "title": "抽象图案 - 图片54",
-      "summary": "抽象图案相关图片",
-      "full_text": "在几何图形的领域里，文化传承展现得淋漓尽致，每一个文化符号都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/abstract/abstract_053.png",
+      "title": "非对称平衡",
+      "summary": "非对称平衡构图，大小疏密视觉均衡，动态平衡",
+      "full_text": "非对称平衡构图，大小疏密视觉均衡，动态平衡",
+      "image": "res://assets/images/illustrations/abstract/abstract_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "abstract_053_4",
         "abstract_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_053_pixel.jpg"
     },
     {
       "id": "abstract_054",
-      "title": "抽象图案 - 图片55",
-      "summary": "抽象图案相关图片",
-      "full_text": "在视觉艺术的领域里，历史变迁展现得淋漓尽致，每一个线条都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/abstract/abstract_054.png",
+      "title": "节奏与韵律",
+      "summary": "重复元素创造节奏，疏密变化形成韵律，视觉音乐",
+      "full_text": "重复元素创造节奏，疏密变化形成韵律，视觉音乐",
+      "image": "res://assets/images/illustrations/abstract/abstract_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "abstract_054_4",
         "abstract_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_054_pixel.jpg"
     },
     {
       "id": "abstract_055",
-      "title": "抽象图案 - 图片56",
-      "summary": "抽象图案相关图片",
-      "full_text": "在抽象艺术的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着动人的故事。",
-      "image": "res://assets/images/illustrations/abstract/abstract_055.png",
+      "title": "留白艺术",
+      "summary": "留白艺术空即是色，虚实相生意境深远，东方美学",
+      "full_text": "留白艺术空即是色，虚实相生意境深远，东方美学",
+      "image": "res://assets/images/illustrations/abstract/abstract_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "abstract_055_4",
         "abstract_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_055_pixel.jpg"
     },
     {
       "id": "abstract_056",
-      "title": "抽象图案 - 图片57",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索色彩构成的世界，仿佛打开了一扇通往自然奇观的大门，充满了向往与审美体验。",
-      "image": "res://assets/images/illustrations/abstract/abstract_056.png",
+      "title": "抽象与自然",
+      "summary": "从自然中提取抽象，云纹水波山形简化，意象之美",
+      "full_text": "从自然中提取抽象，云纹水波山形简化，意象之美",
+      "image": "res://assets/images/illustrations/abstract/abstract_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "abstract_056_4",
         "abstract_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_056_pixel.jpg"
     },
     {
       "id": "abstract_057",
-      "title": "抽象图案 - 图片58",
-      "summary": "抽象图案相关图片",
-      "full_text": "探索线条艺术的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了温馨与视觉享受。",
-      "image": "res://assets/images/illustrations/abstract/abstract_057.png",
+      "title": "抽象与情感",
+      "summary": "抽象艺术表达情感，色彩线条传递情绪，心灵对话",
+      "full_text": "抽象艺术表达情感，色彩线条传递情绪，心灵对话",
+      "image": "res://assets/images/illustrations/abstract/abstract_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "abstract_057_4",
         "abstract_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_057_pixel.jpg"
     },
     {
       "id": "abstract_058",
-      "title": "抽象图案 - 图片59",
-      "summary": "抽象图案相关图片",
-      "full_text": "几何图形是审美追求的结晶，它诠释着人类的梦想，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/abstract/abstract_058.png",
+      "title": "混沌之美",
+      "summary": "混沌之美蝴蝶效应，有序中诞生无序，复杂系统",
+      "full_text": "混沌之美蝴蝶效应，有序中诞生无序，复杂系统",
+      "image": "res://assets/images/illustrations/abstract/abstract_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "abstract_058_4",
         "abstract_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_058_pixel.jpg"
     },
     {
       "id": "abstract_059",
-      "title": "抽象图案 - 图片60",
-      "summary": "抽象图案相关图片",
-      "full_text": "在视觉艺术的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/abstract/abstract_059.png",
+      "title": "抽象与音乐",
+      "summary": "康定斯基音乐与色彩，听觉视觉通感联觉，跨感官抽象",
+      "full_text": "康定斯基音乐与色彩，听觉视觉通感联觉，跨感官抽象",
+      "image": "res://assets/images/illustrations/abstract/abstract_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,7 +1258,8 @@
         "abstract_059_4",
         "abstract_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_059_pixel.jpg"
     }
   ]
 }

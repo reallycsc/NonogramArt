@@ -4,37 +4,12 @@ signal restart_requested
 signal exit_requested
 
 @onready var dim_overlay: ColorRect = $DimOverlay
-@onready var panel: PanelContainer = $PanelContainer
-@onready var title_label: Label = $PanelContainer/MarginContainer/VBoxContainer/TitleLabel
-@onready var message_label: Label = $PanelContainer/MarginContainer/VBoxContainer/MessageLabel
-@onready var restart_button: Button = $PanelContainer/MarginContainer/VBoxContainer/ButtonContainer/RestartButton
-@onready var exit_button: Button = $PanelContainer/MarginContainer/VBoxContainer/ButtonContainer/ExitButton
+@onready var panel: Panel = $PanelContainer
 
 func _ready() -> void:
 	visible = false
-	restart_button.pressed.connect(_on_restart_pressed)
-	exit_button.pressed.connect(_on_exit_pressed)
-	GameManager.language_changed.connect(_on_language_changed)
-	_update_language()
-
-func _on_language_changed(_lang: int) -> void:
-	_update_language()
-
-func _update_language() -> void:
-	match GameManager.current_language:
-		GameManager.Language.CHINESE:
-			title_label.text = "游戏结束"
-			message_label.text = "生命值耗尽，再试一次吧！"
-			restart_button.text = "重新开始"
-			exit_button.text = "退出"
-		_:
-			title_label.text = "Game Over"
-			message_label.text = "Out of lives! Try again!"
-			restart_button.text = "Restart"
-			exit_button.text = "Exit"
 
 func show_game_over() -> void:
-	_update_language()
 	visible = true
 	panel.scale = Vector2(0.8, 0.8)
 	panel.modulate.a = 0.0

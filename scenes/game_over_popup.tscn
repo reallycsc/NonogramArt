@@ -1,44 +1,21 @@
 [gd_scene format=3 uid="uid://b1uflmkyfb3ij"]
 
 [ext_resource type="Script" uid="uid://cyhw5wmanib47" path="res://scripts/ui/game_over_popup.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://cepqq41h8ot06" path="res://assets/images/ui/popup_panel/panel_bg_small.png" id="2_4grfj"]
+[ext_resource type="Texture2D" uid="uid://b4b7iwvl4hsdl" path="res://assets/images/ui/cancel_button.png" id="3_4grfj"]
+[ext_resource type="Texture2D" uid="uid://fho3wordxnjl" path="res://assets/images/ui/popup_panel/game_over_icon.png" id="3_j1gf8"]
+[ext_resource type="Texture2D" uid="uid://c66qupglt6mcq" path="res://assets/images/ui/cancel_button_pressed.png" id="4_j1gf8"]
+[ext_resource type="Texture2D" uid="uid://bfr8qf5l72x86" path="res://assets/images/ui/cancel_button_hover.png" id="5_orse4"]
+[ext_resource type="Texture2D" uid="uid://eo20wrtf5oxs" path="res://assets/images/ui/nonogram/retry_button.png" id="6_smj8y"]
+[ext_resource type="Texture2D" uid="uid://tvfn1lvvpvlx" path="res://assets/images/ui/nonogram/retry_button_pressed.png" id="7_25h5n"]
+[ext_resource type="Texture2D" uid="uid://c8uhyyheinssy" path="res://assets/images/ui/nonogram/retry_button_hover.png" id="8_pe7ta"]
 
-[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_Panel"]
-content_margin_left = 24.0
-content_margin_top = 20.0
-content_margin_right = 24.0
-content_margin_bottom = 20.0
-bg_color = Color(0.96, 0.87, 0.71, 0.98)
-border_width_left = 3
-border_width_top = 3
-border_width_right = 3
-border_width_bottom = 3
-border_color = Color(0.38, 0.23, 0.07, 1)
-corner_radius_top_left = 12
-corner_radius_top_right = 12
-corner_radius_bottom_right = 12
-corner_radius_bottom_left = 12
-
-[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_RestartBtn"]
-content_margin_left = 16.0
-content_margin_top = 10.0
-content_margin_right = 16.0
-content_margin_bottom = 10.0
-bg_color = Color(0.38, 0.23, 0.07, 1)
-corner_radius_top_left = 8
-corner_radius_top_right = 8
-corner_radius_bottom_right = 8
-corner_radius_bottom_left = 8
-
-[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ExitBtn"]
-content_margin_left = 16.0
-content_margin_top = 10.0
-content_margin_right = 16.0
-content_margin_bottom = 10.0
-bg_color = Color(0.55, 0.36, 0.17, 1)
-corner_radius_top_left = 8
-corner_radius_top_right = 8
-corner_radius_bottom_right = 8
-corner_radius_bottom_left = 8
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_j1gf8"]
+texture = ExtResource("2_4grfj")
+texture_margin_left = 35.0
+texture_margin_top = 70.0
+texture_margin_right = 35.0
+texture_margin_bottom = 35.0
 
 [node name="GameOverPopup" type="Control" unique_id=1755290115]
 layout_mode = 3
@@ -59,7 +36,7 @@ grow_horizontal = 2
 grow_vertical = 2
 color = Color(0, 0, 0, 0.6)
 
-[node name="PanelContainer" type="PanelContainer" parent="." unique_id=1399073665]
+[node name="PanelContainer" type="Panel" parent="." unique_id=767783417]
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -69,66 +46,112 @@ anchor_bottom = 0.5
 offset_left = -200.0
 offset_top = -160.0
 offset_right = 200.0
-offset_bottom = 160.0
+offset_bottom = 280.0
 grow_horizontal = 2
 grow_vertical = 2
 pivot_offset = Vector2(202, 160)
-theme_override_styles/panel = SubResource("StyleBoxFlat_Panel")
+theme_override_styles/panel = SubResource("StyleBoxTexture_j1gf8")
 
-[node name="MarginContainer" type="MarginContainer" parent="PanelContainer" unique_id=117786569]
-layout_mode = 2
-theme_override_constants/margin_left = 28
-theme_override_constants/margin_top = 24
-theme_override_constants/margin_right = 28
-theme_override_constants/margin_bottom = 24
+[node name="TitleLabel" type="Label" parent="PanelContainer" unique_id=824370169]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -76.0
+offset_top = 26.0
+offset_right = 76.0
+offset_bottom = 79.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(0.38, 0.15, 0.05, 1)
+theme_override_font_sizes/font_size = 38
+text = "游戏结束"
+horizontal_alignment = 1
+vertical_alignment = 1
 
-[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/MarginContainer" unique_id=462852497]
-layout_mode = 2
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer" unique_id=462852497]
+layout_mode = 0
+offset_left = 52.0
+offset_top = 90.0
+offset_right = 352.0
+offset_bottom = 322.0
 theme_override_constants/separation = 16
 alignment = 1
 
-[node name="TitleLabel" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer" unique_id=824370169]
+[node name="TextureRect" type="TextureRect" parent="PanelContainer/VBoxContainer" unique_id=121690090]
 layout_mode = 2
-theme_override_colors/font_color = Color(0.38, 0.15, 0.05, 1)
-theme_override_font_sizes/font_size = 36
-text = "游戏结束"
-horizontal_alignment = 1
+texture = ExtResource("3_j1gf8")
 
-[node name="HSeparator" type="HSeparator" parent="PanelContainer/MarginContainer/VBoxContainer" unique_id=1010265109]
-custom_minimum_size = Vector2(0, 2)
-layout_mode = 2
-
-[node name="MessageLabel" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer" unique_id=1448875426]
+[node name="MessageLabel" type="Label" parent="PanelContainer/VBoxContainer" unique_id=1448875426]
+custom_minimum_size = Vector2(300, 0)
 layout_mode = 2
 theme_override_colors/font_color = Color(0.45, 0.25, 0.08, 1)
 theme_override_font_sizes/font_size = 22
-text = "生命值耗尽，再试一次吧！"
+text = "生命值耗尽，请再试一次吧！"
 horizontal_alignment = 1
-autowrap_mode = 2
+vertical_alignment = 1
+autowrap_mode = 3
 
-[node name="VSpacer" type="Control" parent="PanelContainer/MarginContainer/VBoxContainer" unique_id=296584182]
-custom_minimum_size = Vector2(0, 12)
-layout_mode = 2
-
-[node name="ButtonContainer" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer" unique_id=2090079078]
-layout_mode = 2
+[node name="ButtonContainer" type="HBoxContainer" parent="PanelContainer" unique_id=2090079078]
+layout_mode = 0
+offset_left = 25.0
+offset_top = 340.0
+offset_right = 522.0
+offset_bottom = 451.0
+scale = Vector2(0.7, 0.7)
 theme_override_constants/separation = 20
 alignment = 1
 
-[node name="RestartButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/ButtonContainer" unique_id=1649314518]
+[node name="ExitButton" type="TextureButton" parent="PanelContainer/ButtonContainer" unique_id=120916649]
 custom_minimum_size = Vector2(140, 52)
 layout_mode = 2
-theme_override_colors/font_color = Color(1, 1, 1, 1)
-theme_override_colors/font_hover_color = Color(1, 0.95, 0.85, 1)
-theme_override_font_sizes/font_size = 24
-theme_override_styles/normal = SubResource("StyleBoxFlat_RestartBtn")
-text = "重新开始"
+texture_normal = ExtResource("3_4grfj")
+texture_pressed = ExtResource("4_j1gf8")
+texture_hover = ExtResource("5_orse4")
 
-[node name="ExitButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/ButtonContainer" unique_id=1787470079]
+[node name="Label" type="Label" parent="PanelContainer/ButtonContainer/ExitButton" unique_id=2014534824]
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -130.0
+offset_top = -30.5
+offset_right = -54.0
+offset_bottom = 22.5
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.38039216, 0.22745098, 0.09019608, 1)
+theme_override_font_sizes/font_size = 38
+text = "退出"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="RestartButton" type="TextureButton" parent="PanelContainer/ButtonContainer" unique_id=799565177]
 custom_minimum_size = Vector2(140, 52)
 layout_mode = 2
-theme_override_colors/font_color = Color(1, 1, 1, 1)
-theme_override_colors/font_hover_color = Color(1, 0.95, 0.85, 1)
-theme_override_font_sizes/font_size = 24
-theme_override_styles/normal = SubResource("StyleBoxFlat_ExitBtn")
-text = "退出"
+texture_normal = ExtResource("6_smj8y")
+texture_pressed = ExtResource("7_25h5n")
+texture_hover = ExtResource("8_pe7ta")
+
+[node name="Label" type="Label" parent="PanelContainer/ButtonContainer/RestartButton" unique_id=1324451848]
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -130.0
+offset_top = -30.5
+offset_right = -54.0
+offset_bottom = 22.5
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.24705882, 0.34901962, 0.13333334, 1)
+theme_override_font_sizes/font_size = 38
+text = "重试"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[connection signal="pressed" from="PanelContainer/ButtonContainer/ExitButton" to="." method="_on_exit_pressed"]
+[connection signal="pressed" from="PanelContainer/ButtonContainer/RestartButton" to="." method="_on_restart_pressed"]

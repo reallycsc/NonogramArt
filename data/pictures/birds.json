@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "birds_000",
-      "title": "鸟类 - 图片1",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的孔雀，如同天空中的精灵，自由翱翔。它的善于开屏令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_000.png",
+      "title": "金雕",
+      "summary": "金雕从高空俯冲而下利爪精准捕获山地野兔",
+      "full_text": "金雕从高空俯冲而下利爪精准捕获山地野兔",
+      "image": "res://assets/images/illustrations/birds/birds_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "birds_000_4",
         "birds_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_000_pixel.jpg"
     },
     {
       "id": "birds_001",
-      "title": "鸟类 - 图片2",
-      "summary": "鸟类相关图片",
-      "full_text": "老鹰的羽毛深棕灰色，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_001.png",
+      "title": "白头海雕",
+      "summary": "白头海雕从水面掠过利爪抓起活鱼翱翔而去",
+      "full_text": "白头海雕从水面掠过利爪抓起活鱼翱翔而去",
+      "image": "res://assets/images/illustrations/birds/birds_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "birds_001_4",
         "birds_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_001_pixel.jpg"
     },
     {
       "id": "birds_002",
-      "title": "鸟类 - 图片3",
-      "summary": "鸟类相关图片",
-      "full_text": "鸽子在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那洁白羽毛的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_002.png",
+      "title": "游隼",
+      "summary": "游隼以时速三百公里俯冲是速度最快的鸟类",
+      "full_text": "游隼以时速三百公里俯冲是速度最快的鸟类",
+      "image": "res://assets/images/illustrations/birds/birds_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "birds_002_4",
         "birds_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_002_pixel.jpg"
     },
     {
       "id": "birds_003",
-      "title": "鸟类 - 图片4",
-      "summary": "鸟类相关图片",
-      "full_text": "鹦鹉的羽毛五彩斑斓，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_003.png",
+      "title": "苍鹰",
+      "summary": "苍鹰在密林中灵活穿梭短翅长尾适合林间追猎",
+      "full_text": "苍鹰在密林中灵活穿梭短翅长尾适合林间追猎",
+      "image": "res://assets/images/illustrations/birds/birds_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "birds_003_4",
         "birds_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_003_pixel.jpg"
     },
     {
       "id": "birds_004",
-      "title": "鸟类 - 图片5",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的麻雀，如同天空中的精灵，自由翱翔。它的适应力强令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_004.png",
+      "title": "红尾鵟",
+      "summary": "红尾鵟在电线杆上俯瞰田野红色尾羽如旗帜",
+      "full_text": "红尾鵟在电线杆上俯瞰田野红色尾羽如旗帜",
+      "image": "res://assets/images/illustrations/birds/birds_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "birds_004_4",
         "birds_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_004_pixel.jpg"
     },
     {
       "id": "birds_005",
-      "title": "鸟类 - 图片6",
-      "summary": "鸟类相关图片",
-      "full_text": "燕子在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那剪刀尾巴的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_005.png",
+      "title": "鱼鹰",
+      "summary": "鱼鹰全身扎入水中捕鱼出水时抖落水珠如银",
+      "full_text": "鱼鹰全身扎入水中捕鱼出水时抖落水珠如银",
+      "image": "res://assets/images/illustrations/birds/birds_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "birds_005_4",
         "birds_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_005_pixel.jpg"
     },
     {
       "id": "birds_006",
-      "title": "鸟类 - 图片7",
-      "summary": "鸟类相关图片",
-      "full_text": "看那黄鹂，歌声婉转，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_006.png",
+      "title": "猎鹰",
+      "summary": "猎鹰在阿拉伯沙漠中被训练用于传统鹰猎",
+      "full_text": "猎鹰在阿拉伯沙漠中被训练用于传统鹰猎",
+      "image": "res://assets/images/illustrations/birds/birds_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "birds_006_4",
         "birds_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_006_pixel.jpg"
     },
     {
       "id": "birds_007",
-      "title": "鸟类 - 图片8",
-      "summary": "鸟类相关图片",
-      "full_text": "看那喜鹊，吉祥喜庆，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_007.png",
+      "title": "猫头鹰",
+      "summary": "猫头鹰无声飞行在月夜中捕鼠是暗夜猎手",
+      "full_text": "猫头鹰无声飞行在月夜中捕鼠是暗夜猎手",
+      "image": "res://assets/images/illustrations/birds/birds_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "birds_007_4",
         "birds_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_007_pixel.jpg"
     },
     {
       "id": "birds_008",
-      "title": "鸟类 - 图片9",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的乌鸦，如同天空中的精灵，自由翱翔。它的聪明机智令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_008.png",
+      "title": "雪鸮",
+      "summary": "雪鸮白色羽毛在北极苔原雪地中完美伪装",
+      "full_text": "雪鸮白色羽毛在北极苔原雪地中完美伪装",
+      "image": "res://assets/images/illustrations/birds/birds_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "birds_008_4",
         "birds_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_008_pixel.jpg"
     },
     {
       "id": "birds_009",
-      "title": "鸟类 - 图片10",
-      "summary": "鸟类相关图片",
-      "full_text": "啄木鸟是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_009.png",
+      "title": "雕鸮",
+      "summary": "雕鸮是最大猫头鹰橙色眼睛如火炬在夜间凝视",
+      "full_text": "雕鸮是最大猫头鹰橙色眼睛如火炬在夜间凝视",
+      "image": "res://assets/images/illustrations/birds/birds_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "birds_009_4",
         "birds_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_009_pixel.jpg"
     },
     {
       "id": "birds_010",
-      "title": "鸟类 - 图片11",
-      "summary": "鸟类相关图片",
-      "full_text": "翠鸟的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_010.png",
+      "title": "仓鸮",
+      "summary": "仓鸮心形白色面盘如幽灵在谷仓中无声飞行",
+      "full_text": "仓鸮心形白色面盘如幽灵在谷仓中无声飞行",
+      "image": "res://assets/images/illustrations/birds/birds_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "birds_010_4",
         "birds_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_010_pixel.jpg"
     },
     {
       "id": "birds_011",
-      "title": "鸟类 - 图片12",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的白鹭，如同天空中的精灵，自由翱翔。它的优雅飞翔令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_011.png",
+      "title": "长耳鸮",
+      "summary": "长耳鸮耳簇如角在白天紧贴树干伪装如树皮",
+      "full_text": "长耳鸮耳簇如角在白天紧贴树干伪装如树皮",
+      "image": "res://assets/images/illustrations/birds/birds_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "birds_011_4",
         "birds_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_011_pixel.jpg"
     },
     {
       "id": "birds_012",
-      "title": "鸟类 - 图片13",
-      "summary": "鸟类相关图片",
-      "full_text": "天鹅的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_012.png",
+      "title": "短耳鸮",
+      "summary": "短耳鸮在黄昏草原上低飞搜索鼠类猎物",
+      "full_text": "短耳鸮在黄昏草原上低飞搜索鼠类猎物",
+      "image": "res://assets/images/illustrations/birds/birds_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "birds_012_4",
         "birds_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_012_pixel.jpg"
     },
     {
       "id": "birds_013",
-      "title": "鸟类 - 图片14",
-      "summary": "鸟类相关图片",
-      "full_text": "鸳鸯的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_013.png",
+      "title": "猛鸮",
+      "summary": "猛鸮在北方针叶林中猎杀其他猫头鹰凶猛异常",
+      "full_text": "猛鸮在北方针叶林中猎杀其他猫头鹰凶猛异常",
+      "image": "res://assets/images/illustrations/birds/birds_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "birds_013_4",
         "birds_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_013_pixel.jpg"
     },
     {
       "id": "birds_014",
-      "title": "鸟类 - 图片15",
-      "summary": "鸟类相关图片",
-      "full_text": "看那大雁，形态优美，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_014.png",
+      "title": "鹰鸮",
+      "summary": "鹰鸮外形如鹰长尾尖翅在森林中追猎飞鸟",
+      "full_text": "鹰鸮外形如鹰长尾尖翅在森林中追猎飞鸟",
+      "image": "res://assets/images/illustrations/birds/birds_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "birds_014_4",
         "birds_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_014_pixel.jpg"
     },
     {
       "id": "birds_015",
-      "title": "鸟类 - 图片16",
-      "summary": "鸟类相关图片",
-      "full_text": "企鹅的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_015.png",
+      "title": "褐林鸮",
+      "summary": "褐林鸮深褐色羽毛在热带密林中如树影隐秘",
+      "full_text": "褐林鸮深褐色羽毛在热带密林中如树影隐秘",
+      "image": "res://assets/images/illustrations/birds/birds_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "birds_015_4",
         "birds_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_015_pixel.jpg"
     },
     {
       "id": "birds_016",
-      "title": "鸟类 - 图片17",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的鸵鸟，如同天空中的精灵，自由翱翔。它的独特习性令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_016.png",
+      "title": "领角鸮",
+      "summary": "领角鸮小巧可爱在公园树洞中繁殖如精灵",
+      "full_text": "领角鸮小巧可爱在公园树洞中繁殖如精灵",
+      "image": "res://assets/images/illustrations/birds/birds_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "birds_016_4",
         "birds_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_016_pixel.jpg"
     },
     {
       "id": "birds_017",
-      "title": "鸟类 - 图片18",
-      "summary": "鸟类相关图片",
-      "full_text": "看那蜂鸟，形态优美，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_017.png",
+      "title": "斑头鸺鹠",
+      "summary": "斑头鸺鹠是小型猫头鹰白天也活跃于林间捕食",
+      "full_text": "斑头鸺鹠是小型猫头鹰白天也活跃于林间捕食",
+      "image": "res://assets/images/illustrations/birds/birds_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "birds_017_4",
         "birds_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_017_pixel.jpg"
     },
     {
       "id": "birds_018",
-      "title": "鸟类 - 图片19",
-      "summary": "鸟类相关图片",
-      "full_text": "看那猫头鹰，形态优美，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_018.png",
+      "title": "凤头鹰",
+      "summary": "凤头鹰后脑勺羽冠如凤在亚热带森林中猎食",
+      "full_text": "凤头鹰后脑勺羽冠如凤在亚热带森林中猎食",
+      "image": "res://assets/images/illustrations/birds/birds_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "birds_018_4",
         "birds_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_018_pixel.jpg"
     },
     {
       "id": "birds_019",
-      "title": "鸟类 - 图片20",
-      "summary": "鸟类相关图片",
-      "full_text": "看那夜莺，形态优美，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_019.png",
+      "title": "蛇雕",
+      "summary": "蛇雕在空中盘旋发现蛇后俯冲用脚爪攫取",
+      "full_text": "蛇雕在空中盘旋发现蛇后俯冲用脚爪攫取",
+      "image": "res://assets/images/illustrations/birds/birds_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "birds_019_4",
         "birds_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_019_pixel.jpg"
     },
     {
       "id": "birds_020",
-      "title": "鸟类 - 图片21",
-      "summary": "鸟类相关图片",
-      "full_text": "孔雀是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_020.png",
+      "title": "画眉",
+      "summary": "画眉鸟婉转歌声在江南竹林中回荡如天籁之音",
+      "full_text": "画眉鸟婉转歌声在江南竹林中回荡如天籁之音",
+      "image": "res://assets/images/illustrations/birds/birds_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "birds_020_4",
         "birds_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_020_pixel.jpg"
     },
     {
       "id": "birds_021",
-      "title": "鸟类 - 图片22",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的老鹰，如同天空中的精灵，自由翱翔。它的目光锐利令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_021.png",
+      "title": "百灵",
+      "summary": "百灵鸟在草原上空悬停鸣唱如空中音乐家",
+      "full_text": "百灵鸟在草原上空悬停鸣唱如空中音乐家",
+      "image": "res://assets/images/illustrations/birds/birds_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "birds_021_4",
         "birds_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_021_pixel.jpg"
     },
     {
       "id": "birds_022",
-      "title": "鸟类 - 图片23",
-      "summary": "鸟类相关图片",
-      "full_text": "鸽子在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那洁白羽毛的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_022.png",
+      "title": "鹦鹉",
+      "summary": "金刚鹦鹉在亚马逊雨林中色彩斑斓如飞行宝石",
+      "full_text": "金刚鹦鹉在亚马逊雨林中色彩斑斓如飞行宝石",
+      "image": "res://assets/images/illustrations/birds/birds_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "birds_022_4",
         "birds_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_022_pixel.jpg"
     },
     {
       "id": "birds_023",
-      "title": "鸟类 - 图片24",
-      "summary": "鸟类相关图片",
-      "full_text": "看那鹦鹉，聪明伶俐，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_023.png",
+      "title": "黄鹂",
+      "summary": "黄鹂金黄色羽毛在柳枝间鸣叫如金色音符",
+      "full_text": "黄鹂金黄色羽毛在柳枝间鸣叫如金色音符",
+      "image": "res://assets/images/illustrations/birds/birds_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "birds_023_4",
         "birds_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_023_pixel.jpg"
     },
     {
       "id": "birds_024",
-      "title": "鸟类 - 图片25",
-      "summary": "鸟类相关图片",
-      "full_text": "看那麻雀，活泼可爱，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_024.png",
+      "title": "喜鹊",
+      "summary": "喜鹊在枝头筑巢黑白羽色在阳光下泛蓝光",
+      "full_text": "喜鹊在枝头筑巢黑白羽色在阳光下泛蓝光",
+      "image": "res://assets/images/illustrations/birds/birds_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "birds_024_4",
         "birds_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_024_pixel.jpg"
     },
     {
       "id": "birds_025",
-      "title": "鸟类 - 图片26",
-      "summary": "鸟类相关图片",
-      "full_text": "燕子在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那剪刀尾巴的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_025.png",
+      "title": "乌鸦",
+      "summary": "乌鸦是智力最高的鸟类之一能使用工具解决难题",
+      "full_text": "乌鸦是智力最高的鸟类之一能使用工具解决难题",
+      "image": "res://assets/images/illustrations/birds/birds_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "birds_025_4",
         "birds_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_025_pixel.jpg"
     },
     {
       "id": "birds_026",
-      "title": "鸟类 - 图片27",
-      "summary": "鸟类相关图片",
-      "full_text": "黄鹂的羽毛金黄亮丽，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_026.png",
+      "title": "燕子",
+      "summary": "家燕在屋檐下筑泥巢春天归来如报春使者",
+      "full_text": "家燕在屋檐下筑泥巢春天归来如报春使者",
+      "image": "res://assets/images/illustrations/birds/birds_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "birds_026_4",
         "birds_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_026_pixel.jpg"
     },
     {
       "id": "birds_027",
-      "title": "鸟类 - 图片28",
-      "summary": "鸟类相关图片",
-      "full_text": "看那喜鹊，吉祥喜庆，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_027.png",
+      "title": "麻雀",
+      "summary": "麻雀在城镇中群居生活是最常见的伴人鸟类",
+      "full_text": "麻雀在城镇中群居生活是最常见的伴人鸟类",
+      "image": "res://assets/images/illustrations/birds/birds_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "birds_027_4",
         "birds_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_027_pixel.jpg"
     },
     {
       "id": "birds_028",
-      "title": "鸟类 - 图片29",
-      "summary": "鸟类相关图片",
-      "full_text": "看那乌鸦，神秘睿智，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_028.png",
+      "title": "知更鸟",
+      "summary": "知更鸟橙色胸前在英伦花园中如冬日暖阳",
+      "full_text": "知更鸟橙色胸前在英伦花园中如冬日暖阳",
+      "image": "res://assets/images/illustrations/birds/birds_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "birds_028_4",
         "birds_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_028_pixel.jpg"
     },
     {
       "id": "birds_029",
-      "title": "鸟类 - 图片30",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的啄木鸟，如同天空中的精灵，自由翱翔。它的善于啄木令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_029.png",
+      "title": "夜莺",
+      "summary": "夜莺在月夜中以动人歌声吸引配偶如诗人吟唱",
+      "full_text": "夜莺在月夜中以动人歌声吸引配偶如诗人吟唱",
+      "image": "res://assets/images/illustrations/birds/birds_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "birds_029_4",
         "birds_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_029_pixel.jpg"
     },
     {
       "id": "birds_030",
-      "title": "鸟类 - 图片31",
-      "summary": "鸟类相关图片",
-      "full_text": "翠鸟在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那翠绿羽毛的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_030.png",
+      "title": "云雀",
+      "summary": "云雀从地面直冲云霄边飞边唱如天际歌者",
+      "full_text": "云雀从地面直冲云霄边飞边唱如天际歌者",
+      "image": "res://assets/images/illustrations/birds/birds_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "birds_030_4",
         "birds_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_030_pixel.jpg"
     },
     {
       "id": "birds_031",
-      "title": "鸟类 - 图片32",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的白鹭，如同天空中的精灵，自由翱翔。它的优雅飞翔令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_031.png",
+      "title": "金丝雀",
+      "summary": "金丝雀黄色羽毛如阳光曾是矿工的瓦斯预警鸟",
+      "full_text": "金丝雀黄色羽毛如阳光曾是矿工的瓦斯预警鸟",
+      "image": "res://assets/images/illustrations/birds/birds_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "birds_031_4",
         "birds_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_031_pixel.jpg"
     },
     {
       "id": "birds_032",
-      "title": "鸟类 - 图片33",
-      "summary": "鸟类相关图片",
-      "full_text": "天鹅是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_032.png",
+      "title": "红嘴蓝鹊",
+      "summary": "红嘴蓝鹊长尾如飘带在山林间滑翔如蓝色闪电",
+      "full_text": "红嘴蓝鹊长尾如飘带在山林间滑翔如蓝色闪电",
+      "image": "res://assets/images/illustrations/birds/birds_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "birds_032_4",
         "birds_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_032_pixel.jpg"
     },
     {
       "id": "birds_033",
-      "title": "鸟类 - 图片34",
-      "summary": "鸟类相关图片",
-      "full_text": "鸳鸯的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_033.png",
+      "title": "白头鹎",
+      "summary": "白头鹎头顶白色如老者是中国城市常见鸟类",
+      "full_text": "白头鹎头顶白色如老者是中国城市常见鸟类",
+      "image": "res://assets/images/illustrations/birds/birds_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "birds_033_4",
         "birds_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_033_pixel.jpg"
     },
     {
       "id": "birds_034",
-      "title": "鸟类 - 图片35",
-      "summary": "鸟类相关图片",
-      "full_text": "看那大雁，形态优美，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_034.png",
+      "title": "翠鸟",
+      "summary": "翠鸟如蓝色箭矢扎入水中捕鱼出水如宝石闪耀",
+      "full_text": "翠鸟如蓝色箭矢扎入水中捕鱼出水如宝石闪耀",
+      "image": "res://assets/images/illustrations/birds/birds_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "birds_034_4",
         "birds_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_034_pixel.jpg"
     },
     {
       "id": "birds_035",
-      "title": "鸟类 - 图片36",
-      "summary": "鸟类相关图片",
-      "full_text": "看那企鹅，形态优美，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_035.png",
+      "title": "蜂虎",
+      "summary": "蜂虎在空中捕捉蜜蜂如彩色飞镖精准而美丽",
+      "full_text": "蜂虎在空中捕捉蜜蜂如彩色飞镖精准而美丽",
+      "image": "res://assets/images/illustrations/birds/birds_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "birds_035_4",
         "birds_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_035_pixel.jpg"
     },
     {
       "id": "birds_036",
-      "title": "鸟类 - 图片37",
-      "summary": "鸟类相关图片",
-      "full_text": "看那鸵鸟，形态优美，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_036.png",
+      "title": "伯劳",
+      "summary": "伯劳将猎物挂在荆棘上储存被称为屠夫鸟",
+      "full_text": "伯劳将猎物挂在荆棘上储存被称为屠夫鸟",
+      "image": "res://assets/images/illustrations/birds/birds_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "birds_036_4",
         "birds_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_036_pixel.jpg"
     },
     {
       "id": "birds_037",
-      "title": "鸟类 - 图片38",
-      "summary": "鸟类相关图片",
-      "full_text": "蜂鸟的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_037.png",
+      "title": "太平鸟",
+      "summary": "太平鸟头顶凤冠如贵妇冬季成群啄食浆果",
+      "full_text": "太平鸟头顶凤冠如贵妇冬季成群啄食浆果",
+      "image": "res://assets/images/illustrations/birds/birds_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "birds_037_4",
         "birds_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_037_pixel.jpg"
     },
     {
       "id": "birds_038",
-      "title": "鸟类 - 图片39",
-      "summary": "鸟类相关图片",
-      "full_text": "猫头鹰的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_038.png",
+      "title": "绣眼鸟",
+      "summary": "绣眼鸟眼周白色如绣花圈在花枝间灵巧觅食",
+      "full_text": "绣眼鸟眼周白色如绣花圈在花枝间灵巧觅食",
+      "image": "res://assets/images/illustrations/birds/birds_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "birds_038_4",
         "birds_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_038_pixel.jpg"
     },
     {
       "id": "birds_039",
-      "title": "鸟类 - 图片40",
-      "summary": "鸟类相关图片",
-      "full_text": "夜莺是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_039.png",
+      "title": "红腹锦鸡",
+      "summary": "红腹锦鸡如凤凰般华丽金冠红腹如神话之鸟",
+      "full_text": "红腹锦鸡如凤凰般华丽金冠红腹如神话之鸟",
+      "image": "res://assets/images/illustrations/birds/birds_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "birds_039_4",
         "birds_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_039_pixel.jpg"
     },
     {
       "id": "birds_040",
-      "title": "鸟类 - 图片41",
-      "summary": "鸟类相关图片",
-      "full_text": "看那孔雀，色彩斑斓，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_040.png",
+      "title": "天鹅",
+      "summary": "疣鼻天鹅在湖面上优雅滑行如白色精灵如梦",
+      "full_text": "疣鼻天鹅在湖面上优雅滑行如白色精灵如梦",
+      "image": "res://assets/images/illustrations/birds/birds_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "birds_040_4",
         "birds_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_040_pixel.jpg"
     },
     {
       "id": "birds_041",
-      "title": "鸟类 - 图片42",
-      "summary": "鸟类相关图片",
-      "full_text": "老鹰的羽毛深棕灰色，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_041.png",
+      "title": "丹顶鹤",
+      "summary": "丹顶鹤在扎龙湿地中翩翩起舞头顶红冠如仙",
+      "full_text": "丹顶鹤在扎龙湿地中翩翩起舞头顶红冠如仙",
+      "image": "res://assets/images/illustrations/birds/birds_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "birds_041_4",
         "birds_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_041_pixel.jpg"
     },
     {
       "id": "birds_042",
-      "title": "鸟类 - 图片43",
-      "summary": "鸟类相关图片",
-      "full_text": "看那鸽子，和平友好，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_042.png",
+      "title": "白鹤",
+      "summary": "白鹤在鄱阳湖越冬如白色雕塑般优雅伫立",
+      "full_text": "白鹤在鄱阳湖越冬如白色雕塑般优雅伫立",
+      "image": "res://assets/images/illustrations/birds/birds_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "birds_042_4",
         "birds_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_042_pixel.jpg"
     },
     {
       "id": "birds_043",
-      "title": "鸟类 - 图片44",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的鹦鹉，如同天空中的精灵，自由翱翔。它的能言善语令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_043.png",
+      "title": "火烈鸟",
+      "summary": "火烈鸟成群站在盐湖中如粉色云霞倒映水面",
+      "full_text": "火烈鸟成群站在盐湖中如粉色云霞倒映水面",
+      "image": "res://assets/images/illustrations/birds/birds_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "birds_043_4",
         "birds_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_043_pixel.jpg"
     },
     {
       "id": "birds_044",
-      "title": "鸟类 - 图片45",
-      "summary": "鸟类相关图片",
-      "full_text": "麻雀在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那小巧玲珑的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_044.png",
+      "title": "鹈鹕",
+      "summary": "鹈鹕喉囊如渔网从水面捞鱼大嘴容量惊人",
+      "full_text": "鹈鹕喉囊如渔网从水面捞鱼大嘴容量惊人",
+      "image": "res://assets/images/illustrations/birds/birds_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "birds_044_4",
         "birds_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_044_pixel.jpg"
     },
     {
       "id": "birds_045",
-      "title": "鸟类 - 图片46",
-      "summary": "鸟类相关图片",
-      "full_text": "燕子是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_045.png",
+      "title": "鸬鹚",
+      "summary": "鸬鹚在漓江上被渔人训练潜水捕鱼古老传统",
+      "full_text": "鸬鹚在漓江上被渔人训练潜水捕鱼古老传统",
+      "image": "res://assets/images/illustrations/birds/birds_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "birds_045_4",
         "birds_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_045_pixel.jpg"
     },
     {
       "id": "birds_046",
-      "title": "鸟类 - 图片47",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的黄鹂，如同天空中的精灵，自由翱翔。它的歌声动听令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_046.png",
+      "title": "白鹭",
+      "summary": "白鹭在水田中优雅觅食如白色仙子如诗如画",
+      "full_text": "白鹭在水田中优雅觅食如白色仙子如诗如画",
+      "image": "res://assets/images/illustrations/birds/birds_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "birds_046_4",
         "birds_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_046_pixel.jpg"
     },
     {
       "id": "birds_047",
-      "title": "鸟类 - 图片48",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的喜鹊，如同天空中的精灵，自由翱翔。它的叫声悦耳令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_047.png",
+      "title": "苍鹭",
+      "summary": "苍鹭如雕塑般在浅水中静立等待猎物如老僧入定",
+      "full_text": "苍鹭如雕塑般在浅水中静立等待猎物如老僧入定",
+      "image": "res://assets/images/illustrations/birds/birds_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "birds_047_4",
         "birds_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_047_pixel.jpg"
     },
     {
       "id": "birds_048",
-      "title": "鸟类 - 图片49",
-      "summary": "鸟类相关图片",
-      "full_text": "看那乌鸦，神秘睿智，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_048.png",
+      "title": "朱鹮",
+      "summary": "朱鹮曾濒临灭绝在洋县重新繁育如红色宝石",
+      "full_text": "朱鹮曾濒临灭绝在洋县重新繁育如红色宝石",
+      "image": "res://assets/images/illustrations/birds/birds_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "birds_048_4",
         "birds_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_048_pixel.jpg"
     },
     {
       "id": "birds_049",
-      "title": "鸟类 - 图片50",
-      "summary": "鸟类相关图片",
-      "full_text": "看那啄木鸟，勤劳有益，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_049.png",
+      "title": "白鹳",
+      "summary": "白鹳在欧洲屋顶筑巢被视为送子鸟如吉祥象征",
+      "full_text": "白鹳在欧洲屋顶筑巢被视为送子鸟如吉祥象征",
+      "image": "res://assets/images/illustrations/birds/birds_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "birds_049_4",
         "birds_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_049_pixel.jpg"
     },
     {
       "id": "birds_050",
-      "title": "鸟类 - 图片51",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的翠鸟，如同天空中的精灵，自由翱翔。它的捕鱼能手令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_050.png",
+      "title": "黑鹳",
+      "summary": "黑鹳在悬崖上筑巢数量稀少如黑色隐士神秘",
+      "full_text": "黑鹳在悬崖上筑巢数量稀少如黑色隐士神秘",
+      "image": "res://assets/images/illustrations/birds/birds_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "birds_050_4",
         "birds_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_050_pixel.jpg"
     },
     {
       "id": "birds_051",
-      "title": "鸟类 - 图片52",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的白鹭，如同天空中的精灵，自由翱翔。它的优雅飞翔令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_051.png",
+      "title": "鸳鸯",
+      "summary": "鸳鸯在湖面上成双成对如爱情象征色彩绚丽",
+      "full_text": "鸳鸯在湖面上成双成对如爱情象征色彩绚丽",
+      "image": "res://assets/images/illustrations/birds/birds_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "birds_051_4",
         "birds_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_051_pixel.jpg"
     },
     {
       "id": "birds_052",
-      "title": "鸟类 - 图片53",
-      "summary": "鸟类相关图片",
-      "full_text": "天鹅的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_052.png",
+      "title": "绿头鸭",
+      "summary": "绿头鸭雄鸟绿色头颈在公园湖中最常见",
+      "full_text": "绿头鸭雄鸟绿色头颈在公园湖中最常见",
+      "image": "res://assets/images/illustrations/birds/birds_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "birds_052_4",
         "birds_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_052_pixel.jpg"
     },
     {
       "id": "birds_053",
-      "title": "鸟类 - 图片54",
-      "summary": "鸟类相关图片",
-      "full_text": "鸳鸯是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_053.png",
+      "title": "中华秋沙鸭",
+      "summary": "中华秋沙鸭在溪流中潜水捕鱼是珍稀国宝",
+      "full_text": "中华秋沙鸭在溪流中潜水捕鱼是珍稀国宝",
+      "image": "res://assets/images/illustrations/birds/birds_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "birds_053_4",
         "birds_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_053_pixel.jpg"
     },
     {
       "id": "birds_054",
-      "title": "鸟类 - 图片55",
-      "summary": "鸟类相关图片",
-      "full_text": "大雁在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那整齐队形的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_054.png",
+      "title": "海鸥",
+      "summary": "海鸥在海岸上空翱翔跟随渔船争抢鱼获如白云",
+      "full_text": "海鸥在海岸上空翱翔跟随渔船争抢鱼获如白云",
+      "image": "res://assets/images/illustrations/birds/birds_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "birds_054_4",
         "birds_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_054_pixel.jpg"
     },
     {
       "id": "birds_055",
-      "title": "鸟类 - 图片56",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的企鹅，如同天空中的精灵，自由翱翔。它的独特习性令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_055.png",
+      "title": "信天翁",
+      "summary": "信天翁翼展三米以上在洋面上滑翔如滑翔机",
+      "full_text": "信天翁翼展三米以上在洋面上滑翔如滑翔机",
+      "image": "res://assets/images/illustrations/birds/birds_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "birds_055_4",
         "birds_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_055_pixel.jpg"
     },
     {
       "id": "birds_056",
-      "title": "鸟类 - 图片57",
-      "summary": "鸟类相关图片",
-      "full_text": "看那鸵鸟，形态优美，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_056.png",
+      "title": "企鹅",
+      "summary": "企鹅在南极冰原上列队行走如穿燕尾服绅士",
+      "full_text": "企鹅在南极冰原上列队行走如穿燕尾服绅士",
+      "image": "res://assets/images/illustrations/birds/birds_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "birds_056_4",
         "birds_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_056_pixel.jpg"
     },
     {
       "id": "birds_057",
-      "title": "鸟类 - 图片58",
-      "summary": "鸟类相关图片",
-      "full_text": "蜂鸟的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_057.png",
+      "title": "帝企鹅",
+      "summary": "帝企鹅在极夜暴风雪中孵化蛋如最伟大的父母",
+      "full_text": "帝企鹅在极夜暴风雪中孵化蛋如最伟大的父母",
+      "image": "res://assets/images/illustrations/birds/birds_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "birds_057_4",
         "birds_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_057_pixel.jpg"
     },
     {
       "id": "birds_058",
-      "title": "鸟类 - 图片59",
-      "summary": "鸟类相关图片",
-      "full_text": "猫头鹰是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_058.png",
+      "title": "蓝眼鸬鹚",
+      "summary": "蓝眼鸬鹚在南乔治亚岛筑巢蓝色眼圈如蓝宝石",
+      "full_text": "蓝眼鸬鹚在南乔治亚岛筑巢蓝色眼圈如蓝宝石",
+      "image": "res://assets/images/illustrations/birds/birds_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "birds_058_4",
         "birds_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_058_pixel.jpg"
     },
     {
       "id": "birds_059",
-      "title": "鸟类 - 图片60",
-      "summary": "鸟类相关图片",
-      "full_text": "夜莺在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那独特外形的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_059.png",
+      "title": "剪嘴鸥",
+      "summary": "剪嘴鸥下颌长于上颌在水面低飞剪切捕鱼独特",
+      "full_text": "剪嘴鸥下颌长于上颌在水面低飞剪切捕鱼独特",
+      "image": "res://assets/images/illustrations/birds/birds_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "birds_059_4",
         "birds_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_059_pixel.jpg"
     },
     {
       "id": "birds_060",
-      "title": "鸟类 - 图片61",
-      "summary": "鸟类相关图片",
-      "full_text": "展翅高飞的孔雀，如同天空中的精灵，自由翱翔。它的善于开屏令人赞叹不已。",
-      "image": "res://assets/images/illustrations/birds/birds_060.png",
+      "title": "蜂鸟",
+      "summary": "蜂鸟悬停在花前吸蜜翅膀每秒振动八十次如宝石",
+      "full_text": "蜂鸟悬停在花前吸蜜翅膀每秒振动八十次如宝石",
+      "image": "res://assets/images/illustrations/birds/birds_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "birds_060_4",
         "birds_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_060_pixel.jpg"
     },
     {
       "id": "birds_061",
-      "title": "鸟类 - 图片62",
-      "summary": "鸟类相关图片",
-      "full_text": "看那老鹰，威武雄壮，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_061.png",
+      "title": "鸵鸟",
+      "summary": "鸵鸟是最大鸟类时速七十公里奔跑如沙漠快车",
+      "full_text": "鸵鸟是最大鸟类时速七十公里奔跑如沙漠快车",
+      "image": "res://assets/images/illustrations/birds/birds_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "birds_061_4",
         "birds_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_061_pixel.jpg"
     },
     {
       "id": "birds_062",
-      "title": "鸟类 - 图片63",
-      "summary": "鸟类相关图片",
-      "full_text": "鸽子是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_062.png",
+      "title": "啄木鸟",
+      "summary": "啄木鸟如鼓手般敲击树干寻找树皮下的虫子",
+      "full_text": "啄木鸟如鼓手般敲击树干寻找树皮下的虫子",
+      "image": "res://assets/images/illustrations/birds/birds_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "birds_062_4",
         "birds_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_062_pixel.jpg"
     },
     {
       "id": "birds_063",
-      "title": "鸟类 - 图片64",
-      "summary": "鸟类相关图片",
-      "full_text": "鹦鹉的羽毛五彩斑斓，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_063.png",
+      "title": "巨嘴鸟",
+      "summary": "巨嘴鸟彩色巨嘴如调色板在雨林中如彩虹鸟",
+      "full_text": "巨嘴鸟彩色巨嘴如调色板在雨林中如彩虹鸟",
+      "image": "res://assets/images/illustrations/birds/birds_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "birds_063_4",
         "birds_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_063_pixel.jpg"
     },
     {
       "id": "birds_064",
-      "title": "鸟类 - 图片65",
-      "summary": "鸟类相关图片",
-      "full_text": "麻雀是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_064.png",
+      "title": "犀鸟",
+      "summary": "犀鸟头顶盔突如犀牛角在热带雨林中如奇观",
+      "full_text": "犀鸟头顶盔突如犀牛角在热带雨林中如奇观",
+      "image": "res://assets/images/illustrations/birds/birds_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "birds_064_4",
         "birds_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_064_pixel.jpg"
     },
     {
       "id": "birds_065",
-      "title": "鸟类 - 图片66",
-      "summary": "鸟类相关图片",
-      "full_text": "看那燕子，轻盈灵巧，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_065.png",
+      "title": "翠鸟捕鱼",
+      "summary": "翠鸟蓝色背部如宝石在溪流边如蓝色闪电入水",
+      "full_text": "翠鸟蓝色背部如宝石在溪流边如蓝色闪电入水",
+      "image": "res://assets/images/illustrations/birds/birds_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "birds_065_4",
         "birds_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_065_pixel.jpg"
     },
     {
       "id": "birds_066",
-      "title": "鸟类 - 图片67",
-      "summary": "鸟类相关图片",
-      "full_text": "黄鹂的羽毛金黄亮丽，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_066.png",
+      "title": "极乐鸟",
+      "summary": "极乐鸟华丽羽毛如天堂之鸟在巴布亚雨林中炫舞",
+      "full_text": "极乐鸟华丽羽毛如天堂之鸟在巴布亚雨林中炫舞",
+      "image": "res://assets/images/illustrations/birds/birds_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "birds_066_4",
         "birds_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_066_pixel.jpg"
     },
     {
       "id": "birds_067",
-      "title": "鸟类 - 图片68",
-      "summary": "鸟类相关图片",
-      "full_text": "喜鹊在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那黑白相间的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_067.png",
+      "title": "琴鸟",
+      "summary": "琴鸟尾羽如竖琴能模仿各种声音如自然录音机",
+      "full_text": "琴鸟尾羽如竖琴能模仿各种声音如自然录音机",
+      "image": "res://assets/images/illustrations/birds/birds_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "birds_067_4",
         "birds_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_067_pixel.jpg"
     },
     {
       "id": "birds_068",
-      "title": "鸟类 - 图片69",
-      "summary": "鸟类相关图片",
-      "full_text": "乌鸦的羽毛漆黑如墨，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_068.png",
+      "title": "园丁鸟",
+      "summary": "园丁鸟建造精致凉亭收集蓝色物品求偶如艺术家",
+      "full_text": "园丁鸟建造精致凉亭收集蓝色物品求偶如艺术家",
+      "image": "res://assets/images/illustrations/birds/birds_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "birds_068_4",
         "birds_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_068_pixel.jpg"
     },
     {
       "id": "birds_069",
-      "title": "鸟类 - 图片70",
-      "summary": "鸟类相关图片",
-      "full_text": "看那啄木鸟，勤劳有益，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_069.png",
+      "title": "几维鸟",
+      "summary": "几维鸟无翼如毛球在新西兰夜间用长喙探土觅食",
+      "full_text": "几维鸟无翼如毛球在新西兰夜间用长喙探土觅食",
+      "image": "res://assets/images/illustrations/birds/birds_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "birds_069_4",
         "birds_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_069_pixel.jpg"
     },
     {
       "id": "birds_070",
-      "title": "鸟类 - 图片71",
-      "summary": "鸟类相关图片",
-      "full_text": "翠鸟在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那翠绿羽毛的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_070.png",
+      "title": "渡渡鸟模型",
+      "summary": "渡渡鸟模型再现了这种已灭绝的毛里求斯特有鸟",
+      "full_text": "渡渡鸟模型再现了这种已灭绝的毛里求斯特有鸟",
+      "image": "res://assets/images/illustrations/birds/birds_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "birds_070_4",
         "birds_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_070_pixel.jpg"
     },
     {
       "id": "birds_071",
-      "title": "鸟类 - 图片72",
-      "summary": "鸟类相关图片",
-      "full_text": "白鹭是大自然的歌唱家，每当清晨来临，它便用婉转的歌声唤醒沉睡的大地，带来新一天的希望。",
-      "image": "res://assets/images/illustrations/birds/birds_071.png",
+      "title": "雷鸟",
+      "summary": "雷鸟冬季白色夏季棕色羽毛随季节变色如魔术",
+      "full_text": "雷鸟冬季白色夏季棕色羽毛随季节变色如魔术",
+      "image": "res://assets/images/illustrations/birds/birds_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "birds_071_4",
         "birds_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_071_pixel.jpg"
     },
     {
       "id": "birds_072",
-      "title": "鸟类 - 图片73",
-      "summary": "鸟类相关图片",
-      "full_text": "天鹅在枝头欢快地歌唱，清脆的鸣叫声打破了清晨的宁静。它那优雅长颈的身影，在阳光下格外动人。",
-      "image": "res://assets/images/illustrations/birds/birds_072.png",
+      "title": "岩雷鸟",
+      "summary": "岩雷鸟在北极苔原碎石间白色羽毛如雪如石",
+      "full_text": "岩雷鸟在北极苔原碎石间白色羽毛如雪如石",
+      "image": "res://assets/images/illustrations/birds/birds_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "birds_072_4",
         "birds_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_072_pixel.jpg"
     },
     {
       "id": "birds_073",
-      "title": "鸟类 - 图片74",
-      "summary": "鸟类相关图片",
-      "full_text": "看那鸳鸯，形态优美，在林间穿梭，在云端起舞，展现着生命的灵动与美好。",
-      "image": "res://assets/images/illustrations/birds/birds_073.png",
+      "title": "潜鸟",
+      "summary": "潜鸟在北方湖泊中潜水捕鱼叫声如狼嚎悠远",
+      "full_text": "潜鸟在北方湖泊中潜水捕鱼叫声如狼嚎悠远",
+      "image": "res://assets/images/illustrations/birds/birds_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "birds_073_4",
         "birds_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_073_pixel.jpg"
     },
     {
       "id": "birds_074",
-      "title": "鸟类 - 图片75",
-      "summary": "鸟类相关图片",
-      "full_text": "大雁的羽毛色彩独特，在阳光照耀下闪烁着迷人的光芒，宛如一件精美的艺术品。",
-      "image": "res://assets/images/illustrations/birds/birds_074.png",
+      "title": "麝雉",
+      "summary": "麝雉幼鸟翅上有爪如始祖鸟在亚马逊雨林中如化石",
+      "full_text": "麝雉幼鸟翅上有爪如始祖鸟在亚马逊雨林中如化石",
+      "image": "res://assets/images/illustrations/birds/birds_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,7 +1573,8 @@
         "birds_074_4",
         "birds_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/birds/birds_074_pixel.jpg"
     }
   ]
 }

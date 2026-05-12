@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "asian_civilization_000",
-      "title": "亚洲文明史 - 图片1",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个历史印记都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_000.png",
+      "title": "两河流域早期村落",
+      "summary": "苏美尔人在幼发拉底河畔建立村落，泥砖房屋沿河而建，灌溉渠道纵...",
+      "full_text": "苏美尔人在幼发拉底河畔建立村落，泥砖房屋沿河而建，灌溉渠道纵横交错",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "asian_civilization_000_4",
         "asian_civilization_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_000_pixel.jpg"
     },
     {
       "id": "asian_civilization_001",
-      "title": "亚洲文明史 - 图片2",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它神秘地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_001.png",
+      "title": "印度河城市雏形",
+      "summary": "哈拉帕人在印度河流域建造规划整齐的砖城，街道呈网格状布局",
+      "full_text": "哈拉帕人在印度河流域建造规划整齐的砖城，街道呈网格状布局",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "asian_civilization_001_4",
         "asian_civilization_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_001_pixel.jpg"
     },
     {
       "id": "asian_civilization_002",
-      "title": "亚洲文明史 - 图片3",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了情感表达的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_002.png",
+      "title": "黄河仰韶聚落",
+      "summary": "仰韶先民在黄河岸边建造半地穴式房屋，彩陶器皿陈列于居室之中",
+      "full_text": "仰韶先民在黄河岸边建造半地穴式房屋，彩陶器皿陈列于居室之中",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "asian_civilization_002_4",
         "asian_civilization_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_002_pixel.jpg"
     },
     {
       "id": "asian_civilization_003",
-      "title": "亚洲文明史 - 图片4",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往知识海洋的大门，充满了温馨与思想启迪。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_003.png",
+      "title": "美索不达米亚城邦",
+      "summary": "乌鲁克城邦矗立于两河之间，白色神庙高踞台地之上俯瞰城区",
+      "full_text": "乌鲁克城邦矗立于两河之间，白色神庙高踞台地之上俯瞰城区",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "asian_civilization_003_4",
         "asian_civilization_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_003_pixel.jpg"
     },
     {
       "id": "asian_civilization_004",
-      "title": "亚洲文明史 - 图片5",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术是自然造化的结晶，它传递着科学的精神，引领我们走向科技进步的明天。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_004.png",
+      "title": "印度河印章文明",
+      "summary": "哈拉帕商人使用刻有独角兽图案的滑石印章标记货物归属",
+      "full_text": "哈拉帕商人使用刻有独角兽图案的滑石印章标记货物归属",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "asian_civilization_004_4",
         "asian_civilization_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_004_pixel.jpg"
     },
     {
       "id": "asian_civilization_005",
-      "title": "亚洲文明史 - 图片6",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化不仅探索了自然之美，更传递了奋斗的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_005.png",
+      "title": "长江河姆渡水乡",
+      "summary": "河姆渡人在长江三角洲搭建干栏式木构居所，稻田环绕四周",
+      "full_text": "河姆渡人在长江三角洲搭建干栏式木构居所，稻田环绕四周",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "asian_civilization_005_4",
         "asian_civilization_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_005_pixel.jpg"
     },
     {
       "id": "asian_civilization_006",
-      "title": "亚洲文明史 - 图片7",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是自然造化的结晶，它创造着美好的愿景，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_006.png",
+      "title": "苏美尔楔形文字",
+      "summary": "书吏在湿泥板上压印楔形符号，记录谷物数量与交易契约",
+      "full_text": "书吏在湿泥板上压印楔形符号，记录谷物数量与交易契约",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "asian_civilization_006_4",
         "asian_civilization_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_006_pixel.jpg"
     },
     {
       "id": "asian_civilization_007",
-      "title": "亚洲文明史 - 图片8",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往神秘国度的大门，充满了怀念与精神升华。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_007.png",
+      "title": "摩亨佐达罗大浴场",
+      "summary": "印度河古城中心建有无缝砖砌浴池，四周环绕回廊与更衣室",
+      "full_text": "印度河古城中心建有无缝砖砌浴池，四周环绕回廊与更衣室",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "asian_civilization_007_4",
         "asian_civilization_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_007_pixel.jpg"
     },
     {
       "id": "asian_civilization_008",
-      "title": "亚洲文明史 - 图片9",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它细腻地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_008.png",
+      "title": "良渚古城与玉器",
+      "summary": "良渚先民修筑大型城墙与水利系统，玉琮玉璧彰显礼制文明",
+      "full_text": "良渚先民修筑大型城墙与水利系统，玉琮玉璧彰显礼制文明",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "asian_civilization_008_4",
         "asian_civilization_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_008_pixel.jpg"
     },
     {
       "id": "asian_civilization_009",
-      "title": "亚洲文明史 - 图片10",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了好奇与文化浸润。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_009.png",
+      "title": "两河流域灌溉农业",
+      "summary": "苏美尔农民开凿运河引河水灌溉麦田，收获大麦与小麦",
+      "full_text": "苏美尔农民开凿运河引河水灌溉麦田，收获大麦与小麦",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "asian_civilization_009_4",
         "asian_civilization_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_009_pixel.jpg"
     },
     {
       "id": "asian_civilization_010",
-      "title": "亚洲文明史 - 图片11",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往文化宝库的大门，充满了愉悦与艺术熏陶。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_010.png",
+      "title": "印度河贸易港口",
+      "summary": "洛塔尔港口停泊商船，码头仓库堆满等待海运的天青石与象牙",
+      "full_text": "洛塔尔港口停泊商船，码头仓库堆满等待海运的天青石与象牙",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "asian_civilization_010_4",
         "asian_civilization_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_010_pixel.jpg"
     },
     {
       "id": "asian_civilization_011",
-      "title": "亚洲文明史 - 图片12",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精彩地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_011.png",
+      "title": "红山文化祭坛",
+      "summary": "红山先民在山丘上筑圆形祭坛，玉龙与女神塑像供奉于神殿",
+      "full_text": "红山先民在山丘上筑圆形祭坛，玉龙与女神塑像供奉于神殿",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "asian_civilization_011_4",
         "asian_civilization_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_011_pixel.jpg"
     },
     {
       "id": "asian_civilization_012",
-      "title": "亚洲文明史 - 图片13",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术是历史积淀的结晶，它引领着创新的理念，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_012.png",
+      "title": "苏美尔神庙经济",
+      "summary": "神庙祭司主持粮食分配，仓廪中堆满信徒奉献的谷物与牲畜",
+      "full_text": "神庙祭司主持粮食分配，仓廪中堆满信徒奉献的谷物与牲畜",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "asian_civilization_012_4",
         "asian_civilization_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_012_pixel.jpg"
     },
     {
       "id": "asian_civilization_013",
-      "title": "亚洲文明史 - 图片14",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它神秘地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_013.png",
+      "title": "恒河早期定居点",
+      "summary": "雅利安人在恒河沿岸建立村落，牛群在河畔草地悠闲吃草",
+      "full_text": "雅利安人在恒河沿岸建立村落，牛群在河畔草地悠闲吃草",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "asian_civilization_013_4",
         "asian_civilization_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_013_pixel.jpg"
     },
     {
       "id": "asian_civilization_014",
-      "title": "亚洲文明史 - 图片15",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了自然之美的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_014.png",
+      "title": "龙山黑陶工艺",
+      "summary": "龙山工匠在窑炉旁制作蛋壳黑陶杯，器壁薄如蝉翼光可鉴人",
+      "full_text": "龙山工匠在窑炉旁制作蛋壳黑陶杯，器壁薄如蝉翼光可鉴人",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "asian_civilization_014_4",
         "asian_civilization_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_014_pixel.jpg"
     },
     {
       "id": "asian_civilization_015",
-      "title": "亚洲文明史 - 图片16",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往自然奇观的大门，充满了温馨与知识启迪。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_015.png",
+      "title": "两河早期车轮",
+      "summary": "苏美尔人将实心木轮安装于驴车上，运输建材与农产品",
+      "full_text": "苏美尔人将实心木轮安装于驴车上，运输建材与农产品",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "asian_civilization_015_4",
         "asian_civilization_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_015_pixel.jpg"
     },
     {
       "id": "asian_civilization_016",
-      "title": "亚洲文明史 - 图片17",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它庄重地展现了生命力量的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_016.png",
+      "title": "东南亚稻作起源",
+      "summary": "东南亚先民在湄公河畔开垦水田，驯化野生稻种进行种植",
+      "full_text": "东南亚先民在湄公河畔开垦水田，驯化野生稻种进行种植",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "asian_civilization_016_4",
         "asian_civilization_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_016_pixel.jpg"
     },
     {
       "id": "asian_civilization_017",
-      "title": "亚洲文明史 - 图片18",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往智慧天地的大门，充满了惊叹与文化浸润。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_017.png",
+      "title": "印度河度量衡",
+      "summary": "哈拉帕商人使用标准化的石制砝码与象牙尺进行精确交易",
+      "full_text": "哈拉帕商人使用标准化的石制砝码与象牙尺进行精确交易",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "asian_civilization_017_4",
         "asian_civilization_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_017_pixel.jpg"
     },
     {
       "id": "asian_civilization_018",
-      "title": "亚洲文明史 - 图片19",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它清新地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_018.png",
+      "title": "黄河早期青铜器",
+      "summary": "齐家文化工匠熔铸铜镜与铜刀，开启东亚青铜文明先声",
+      "full_text": "齐家文化工匠熔铸铜镜与铜刀，开启东亚青铜文明先声",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "asian_civilization_018_4",
         "asian_civilization_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_018_pixel.jpg"
     },
     {
       "id": "asian_civilization_019",
-      "title": "亚洲文明史 - 图片20",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是生活体验的结晶，它承载着人文的关怀，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_019.png",
+      "title": "苏美尔金银工艺",
+      "summary": "工匠在作坊中锤制金盔与银瓶，精美纹饰展现早期金属工艺",
+      "full_text": "工匠在作坊中锤制金盔与银瓶，精美纹饰展现早期金属工艺",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "asian_civilization_019_4",
         "asian_civilization_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_019_pixel.jpg"
     },
     {
       "id": "asian_civilization_020",
-      "title": "亚洲文明史 - 图片21",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它深刻地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_020.png",
+      "title": "苏美尔城邦争霸",
+      "summary": "拉格什与乌玛城邦在边境交战，方阵步兵手持长矛与盾牌对峙",
+      "full_text": "拉格什与乌玛城邦在边境交战，方阵步兵手持长矛与盾牌对峙",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "asian_civilization_020_4",
         "asian_civilization_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_020_pixel.jpg"
     },
     {
       "id": "asian_civilization_021",
-      "title": "亚洲文明史 - 图片22",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在文化的领域里，文化传承展现得淋漓尽致，每一个思想都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_021.png",
+      "title": "阿卡德帝国统一",
+      "summary": "萨尔贡大帝率军征服苏美尔诸城，建立史上首个跨区域帝国",
+      "full_text": "萨尔贡大帝率军征服苏美尔诸城，建立史上首个跨区域帝国",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "asian_civilization_021_4",
         "asian_civilization_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_021_pixel.jpg"
     },
     {
       "id": "asian_civilization_022",
-      "title": "亚洲文明史 - 图片23",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类智慧的结晶，它创造着科学的精神，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_022.png",
+      "title": "乌尔第三王朝",
+      "summary": "乌尔纳姆在乌尔城兴建金字形神塔，颁布已知最古老成文法典",
+      "full_text": "乌尔纳姆在乌尔城兴建金字形神塔，颁布已知最古老成文法典",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "asian_civilization_022_4",
         "asian_civilization_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_022_pixel.jpg"
     },
     {
       "id": "asian_civilization_023",
-      "title": "亚洲文明史 - 图片24",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往自然奇观的大门，充满了沉醉与文化浸润。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_023.png",
+      "title": "汉谟拉比法典",
+      "summary": "古巴比伦国王在神庙中颁布成文法典，石柱上刻有律法条文",
+      "full_text": "古巴比伦国王在神庙中颁布成文法典，石柱上刻有律法条文",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "asian_civilization_023_4",
         "asian_civilization_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_023_pixel.jpg"
     },
     {
       "id": "asian_civilization_024",
-      "title": "亚洲文明史 - 图片25",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往精神家园的大门，充满了愉悦与视觉享受。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_024.png",
+      "title": "巴比伦空中花园",
+      "summary": "尼布甲尼撒二世为王妃建造层叠花园，引幼发拉底河水灌溉绿植",
+      "full_text": "尼布甲尼撒二世为王妃建造层叠花园，引幼发拉底河水灌溉绿植",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "asian_civilization_024_4",
         "asian_civilization_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_024_pixel.jpg"
     },
     {
       "id": "asian_civilization_025",
-      "title": "亚洲文明史 - 图片26",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在文化的领域里，历史变迁展现得淋漓尽致，每一个文化符号都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_025.png",
+      "title": "赫梯铁器革命",
+      "summary": "赫梯铁匠在炉火中锻打铁制武器，铁剑锋利程度远超青铜",
+      "full_text": "赫梯铁匠在炉火中锻打铁制武器，铁剑锋利程度远超青铜",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "asian_civilization_025_4",
         "asian_civilization_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_025_pixel.jpg"
     },
     {
       "id": "asian_civilization_026",
-      "title": "亚洲文明史 - 图片27",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是文化传承的结晶，它传递着科学的精神，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_026.png",
+      "title": "亚述帝国征伐",
+      "summary": "亚述军队驾驶战车横扫美索不达米亚，攻城锤撞击敌国城墙",
+      "full_text": "亚述军队驾驶战车横扫美索不达米亚，攻城锤撞击敌国城墙",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "asian_civilization_026_4",
         "asian_civilization_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_026_pixel.jpg"
     },
     {
       "id": "asian_civilization_027",
-      "title": "亚洲文明史 - 图片28",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往智慧天地的大门，充满了惊叹与心灵震撼。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_027.png",
+      "title": "亚述巴尼拔图书馆",
+      "summary": "亚述国王在尼尼微收集两万余块泥板，建立古代最大图书馆",
+      "full_text": "亚述国王在尼尼微收集两万余块泥板，建立古代最大图书馆",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "asian_civilization_027_4",
         "asian_civilization_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_027_pixel.jpg"
     },
     {
       "id": "asian_civilization_028",
-      "title": "亚洲文明史 - 图片29",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在艺术的领域里，自然奇观展现得淋漓尽致，每一个自然元素都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_028.png",
+      "title": "波斯帝国崛起",
+      "summary": "居鲁士大帝率波斯骑兵攻入巴比伦城，释放被囚犹太人归国",
+      "full_text": "居鲁士大帝率波斯骑兵攻入巴比伦城，释放被囚犹太人归国",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "asian_civilization_028_4",
         "asian_civilization_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_028_pixel.jpg"
     },
     {
       "id": "asian_civilization_029",
-      "title": "亚洲文明史 - 图片30",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它丰富地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_029.png",
+      "title": "波斯波利斯宫殿",
+      "summary": "大流士一世建造万国朝觐宫殿，百柱厅中各国使臣献上贡品",
+      "full_text": "大流士一世建造万国朝觐宫殿，百柱厅中各国使臣献上贡品",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "asian_civilization_029_4",
         "asian_civilization_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_029_pixel.jpg"
     },
     {
       "id": "asian_civilization_030",
-      "title": "亚洲文明史 - 图片31",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然不仅探索了自然之美，更传递了文化的传承，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_030.png",
+      "title": "波斯御道",
+      "summary": "大流士修筑从苏萨到萨迪斯的御道，驿站快马传递帝国政令",
+      "full_text": "大流士修筑从苏萨到萨迪斯的御道，驿站快马传递帝国政令",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "asian_civilization_030_4",
         "asian_civilization_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_030_pixel.jpg"
     },
     {
       "id": "asian_civilization_031",
-      "title": "亚洲文明史 - 图片32",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是审美追求的结晶，它记录着创新的理念，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_031.png",
+      "title": "琐罗亚斯德教祭火",
+      "summary": "波斯祭司在火庙中守护永恒圣火，向善神阿胡拉马兹达祈祷",
+      "full_text": "波斯祭司在火庙中守护永恒圣火，向善神阿胡拉马兹达祈祷",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "asian_civilization_031_4",
         "asian_civilization_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_031_pixel.jpg"
     },
     {
       "id": "asian_civilization_032",
-      "title": "亚洲文明史 - 图片33",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在艺术的领域里，科学发现展现得淋漓尽致，每一个色彩都诉说着深刻的哲理。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_032.png",
+      "title": "帕提亚骑兵",
+      "summary": "帕提亚弓骑兵在草原上回身射箭，以游击战术击败罗马军团",
+      "full_text": "帕提亚弓骑兵在草原上回身射箭，以游击战术击败罗马军团",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "asian_civilization_032_4",
         "asian_civilization_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_032_pixel.jpg"
     },
     {
       "id": "asian_civilization_033",
-      "title": "亚洲文明史 - 图片34",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往文化宝库的大门，充满了震撼与文化浸润。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_033.png",
+      "title": "萨珊波斯宫廷",
+      "summary": "萨珊国王在泰西封拱形宫殿中接见群臣，银盘上镌刻狩猎场景",
+      "full_text": "萨珊国王在泰西封拱形宫殿中接见群臣，银盘上镌刻狩猎场景",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "asian_civilization_033_4",
         "asian_civilization_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_033_pixel.jpg"
     },
     {
       "id": "asian_civilization_034",
-      "title": "亚洲文明史 - 图片35",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然不仅展现了生命意义，更传递了情感的力量，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_034.png",
+      "title": "巴比伦天文观测",
+      "summary": "巴比伦祭司在观星台上记录天体运行，预测日食与月食",
+      "full_text": "巴比伦祭司在观星台上记录天体运行，预测日食与月食",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "asian_civilization_034_4",
         "asian_civilization_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_034_pixel.jpg"
     },
     {
       "id": "asian_civilization_035",
-      "title": "亚洲文明史 - 图片36",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它自然地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_035.png",
+      "title": "腓尼基航海商船",
+      "summary": "腓尼基水手驾驶桨帆船穿越地中海，在沿岸建立贸易据点",
+      "full_text": "腓尼基水手驾驶桨帆船穿越地中海，在沿岸建立贸易据点",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "asian_civilization_035_4",
         "asian_civilization_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_035_pixel.jpg"
     },
     {
       "id": "asian_civilization_036",
-      "title": "亚洲文明史 - 图片37",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术不仅表达了人类文明，更传递了情感的力量，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_036.png",
+      "title": "腓尼基字母传播",
+      "summary": "腓尼基书吏在蜡板上书写字母文字，这套字母成为西方文字源头",
+      "full_text": "腓尼基书吏在蜡板上书写字母文字，这套字母成为西方文字源头",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "asian_civilization_036_4",
         "asian_civilization_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_036_pixel.jpg"
     },
     {
       "id": "asian_civilization_037",
-      "title": "亚洲文明史 - 图片38",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它生动地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_037.png",
+      "title": "新巴比伦城墙",
+      "summary": "尼布甲尼撒修筑伊什塔尔城门，蓝色琉璃砖上浮雕神兽图案",
+      "full_text": "尼布甲尼撒修筑伊什塔尔城门，蓝色琉璃砖上浮雕神兽图案",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "asian_civilization_037_4",
         "asian_civilization_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_037_pixel.jpg"
     },
     {
       "id": "asian_civilization_038",
-      "title": "亚洲文明史 - 图片39",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然不仅探索了历史记忆，更传递了智慧的光芒，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_038.png",
+      "title": "波斯海军远征",
+      "summary": "薛西斯一世集结千艘战船横渡爱琴海，试图征服希腊城邦",
+      "full_text": "薛西斯一世集结千艘战船横渡爱琴海，试图征服希腊城邦",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "asian_civilization_038_4",
         "asian_civilization_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_038_pixel.jpg"
     },
     {
       "id": "asian_civilization_039",
-      "title": "亚洲文明史 - 图片40",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是思想升华的结晶，它启迪着创新的理念，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_039.png",
+      "title": "阿拉伯半岛商路",
+      "summary": "贝都因商队牵着骆驼穿越沙漠，将乳香与没药运往北方市场",
+      "full_text": "贝都因商队牵着骆驼穿越沙漠，将乳香与没药运往北方市场",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "asian_civilization_039_4",
         "asian_civilization_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_039_pixel.jpg"
     },
     {
       "id": "asian_civilization_040",
-      "title": "亚洲文明史 - 图片41",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术是文化传承的结晶，它激励着人文的关怀，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_040.png",
+      "title": "吠陀时代祭祀",
+      "summary": "雅利安祭司在圣火旁吟诵吠陀经文，向因陀罗神献上苏摩酒",
+      "full_text": "雅利安祭司在圣火旁吟诵吠陀经文，向因陀罗神献上苏摩酒",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "asian_civilization_040_4",
         "asian_civilization_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_040_pixel.jpg"
     },
     {
       "id": "asian_civilization_041",
-      "title": "亚洲文明史 - 图片42",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化是艺术创造的结晶，它表达着人文的关怀，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_041.png",
+      "title": "种姓制度形成",
+      "summary": "印度社会划分为婆罗门、刹帝利、吠舍、首陀罗四个等级",
+      "full_text": "印度社会划分为婆罗门、刹帝利、吠舍、首陀罗四个等级",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "asian_civilization_041_4",
         "asian_civilization_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_041_pixel.jpg"
     },
     {
       "id": "asian_civilization_042",
-      "title": "亚洲文明史 - 图片43",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在自然的领域里，文化传承展现得淋漓尽致，每一个文化符号都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_042.png",
+      "title": "佛陀菩提悟道",
+      "summary": "悉达多太子在菩提伽耶菩提树下冥想四十九日，终获正等正觉",
+      "full_text": "悉达多太子在菩提伽耶菩提树下冥想四十九日，终获正等正觉",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "asian_civilization_042_4",
         "asian_civilization_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_042_pixel.jpg"
     },
     {
       "id": "asian_civilization_043",
-      "title": "亚洲文明史 - 图片44",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它深刻地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_043.png",
+      "title": "鹿野苑初转法轮",
+      "summary": "佛陀在鹿野苑向五位苦行者首次宣讲四圣谛与八正道",
+      "full_text": "佛陀在鹿野苑向五位苦行者首次宣讲四圣谛与八正道",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "asian_civilization_043_4",
         "asian_civilization_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_043_pixel.jpg"
     },
     {
       "id": "asian_civilization_044",
-      "title": "亚洲文明史 - 图片45",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术不仅传承了时代精神，更传递了梦想的价值，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_044.png",
+      "title": "阿育王弘法",
+      "summary": "阿育王在全国竖立石柱敕令，派遣僧侣向四方传播佛法",
+      "full_text": "阿育王在全国竖立石柱敕令，派遣僧侣向四方传播佛法",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "asian_civilization_044_4",
         "asian_civilization_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_044_pixel.jpg"
     },
     {
       "id": "asian_civilization_045",
-      "title": "亚洲文明史 - 图片46",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化不仅揭示了自然之美，更传递了情感的力量，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_045.png",
+      "title": "孔雀王朝鼎盛",
+      "summary": "旃陀罗笈多统一印度次大陆，华氏城成为帝国辉煌都城",
+      "full_text": "旃陀罗笈多统一印度次大陆，华氏城成为帝国辉煌都城",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "asian_civilization_045_4",
         "asian_civilization_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_045_pixel.jpg"
     },
     {
       "id": "asian_civilization_046",
-      "title": "亚洲文明史 - 图片47",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类智慧的结晶，它展现着科学的精神，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_046.png",
+      "title": "巽伽王朝佛教",
+      "summary": "巽伽时期工匠在桑奇大塔上雕刻佛传故事，信徒绕塔礼拜",
+      "full_text": "巽伽时期工匠在桑奇大塔上雕刻佛传故事，信徒绕塔礼拜",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "asian_civilization_046_4",
         "asian_civilization_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_046_pixel.jpg"
     },
     {
       "id": "asian_civilization_047",
-      "title": "亚洲文明史 - 图片48",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_047.png",
+      "title": "贵霜帝国贸易",
+      "summary": "贵霜商人沿丝绸之路运送丝绸与香料，金币上铸有佛陀形象",
+      "full_text": "贵霜商人沿丝绸之路运送丝绸与香料，金币上铸有佛陀形象",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "asian_civilization_047_4",
         "asian_civilization_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_047_pixel.jpg"
     },
     {
       "id": "asian_civilization_048",
-      "title": "亚洲文明史 - 图片49",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在艺术的领域里，科学发现展现得淋漓尽致，每一个线条都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_048.png",
+      "title": "笈多王朝黄金期",
+      "summary": "旃陀罗笈多二世治下印度文化繁荣，那烂陀寺学者云集",
+      "full_text": "旃陀罗笈多二世治下印度文化繁荣，那烂陀寺学者云集",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "asian_civilization_048_4",
         "asian_civilization_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_048_pixel.jpg"
     },
     {
       "id": "asian_civilization_049",
-      "title": "亚洲文明史 - 图片50",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化不仅表达了历史记忆，更传递了生命的意义，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_049.png",
+      "title": "印度教复兴",
+      "summary": "印度教神庙中供奉湿婆林伽，信徒以鲜花与酥油献祭神灵",
+      "full_text": "印度教神庙中供奉湿婆林伽，信徒以鲜花与酥油献祭神灵",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "asian_civilization_049_4",
         "asian_civilization_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_049_pixel.jpg"
     },
     {
       "id": "asian_civilization_050",
-      "title": "亚洲文明史 - 图片51",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然不仅诠释了艺术真谛，更传递了真善美的追求，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_050.png",
+      "title": "阿旃陀石窟壁画",
+      "summary": "画师在阿旃陀石窟中绘制佛陀本生故事，色彩历经千年犹存",
+      "full_text": "画师在阿旃陀石窟中绘制佛陀本生故事，色彩历经千年犹存",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "asian_civilization_050_4",
         "asian_civilization_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_050_pixel.jpg"
     },
     {
       "id": "asian_civilization_051",
-      "title": "亚洲文明史 - 图片52",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是时代精神的结晶，它引领着生活的智慧，引领我们走向充满希望的未来。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_051.png",
+      "title": "戒日王时期",
+      "summary": "戒日王在曲女城举行无遮大会，玄奘法师宣读《制恶见论》",
+      "full_text": "戒日王在曲女城举行无遮大会，玄奘法师宣读《制恶见论》",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "asian_civilization_051_4",
         "asian_civilization_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_051_pixel.jpg"
     },
     {
       "id": "asian_civilization_052",
-      "title": "亚洲文明史 - 图片53",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它典雅地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_052.png",
+      "title": "朱罗王朝海权",
+      "summary": "朱罗海军横跨印度洋远征东南亚，战船满载士兵与战象",
+      "full_text": "朱罗海军横跨印度洋远征东南亚，战船满载士兵与战象",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "asian_civilization_052_4",
         "asian_civilization_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_052_pixel.jpg"
     },
     {
       "id": "asian_civilization_053",
-      "title": "亚洲文明史 - 图片54",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了好奇与文化浸润。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_053.png",
+      "title": "德里苏丹国",
+      "summary": "突厥骑兵攻入北印度建立苏丹政权，库特布塔高耸入云",
+      "full_text": "突厥骑兵攻入北印度建立苏丹政权，库特布塔高耸入云",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "asian_civilization_053_4",
         "asian_civilization_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_053_pixel.jpg"
     },
     {
       "id": "asian_civilization_054",
-      "title": "亚洲文明史 - 图片55",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在自然的领域里，人文景观展现得淋漓尽致，每一个历史印记都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_054.png",
+      "title": "莫卧儿帝国建立",
+      "summary": "巴布尔在帕尼帕特战役中击败洛迪王朝，奠定莫卧儿帝国基业",
+      "full_text": "巴布尔在帕尼帕特战役中击败洛迪王朝，奠定莫卧儿帝国基业",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "asian_civilization_054_4",
         "asian_civilization_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_054_pixel.jpg"
     },
     {
       "id": "asian_civilization_055",
-      "title": "亚洲文明史 - 图片56",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是历史积淀的结晶，它诠释着人类的梦想，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_055.png",
+      "title": "阿克巴大帝治国",
+      "summary": "阿克巴在法塔赫布尔西格里召集各宗教领袖进行对话",
+      "full_text": "阿克巴在法塔赫布尔西格里召集各宗教领袖进行对话",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "asian_civilization_055_4",
         "asian_civilization_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_055_pixel.jpg"
     },
     {
       "id": "asian_civilization_056",
-      "title": "亚洲文明史 - 图片57",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往创意空间的大门，充满了好奇与思想启迪。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_056.png",
+      "title": "泰姬陵建造",
+      "summary": "沙贾汗为亡妻修建白色大理石陵墓，镶嵌宝石辉映月色",
+      "full_text": "沙贾汗为亡妻修建白色大理石陵墓，镶嵌宝石辉映月色",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "asian_civilization_056_4",
         "asian_civilization_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_056_pixel.jpg"
     },
     {
       "id": "asian_civilization_057",
-      "title": "亚洲文明史 - 图片58",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了激情与文化浸润。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_057.png",
+      "title": "印度数学成就",
+      "summary": "印度数学家在棕榈叶上书写零的符号与十进制运算规则",
+      "full_text": "印度数学家在棕榈叶上书写零的符号与十进制运算规则",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "asian_civilization_057_4",
         "asian_civilization_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_057_pixel.jpg"
     },
     {
       "id": "asian_civilization_058",
-      "title": "亚洲文明史 - 图片59",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然不仅弘扬了文化内涵，更传递了美的真谛，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_058.png",
+      "title": "商朝甲骨占卜",
+      "summary": "商王在龟甲兽骨上钻凿灼烧，根据裂纹判断吉凶并刻辞记录",
+      "full_text": "商王在龟甲兽骨上钻凿灼烧，根据裂纹判断吉凶并刻辞记录",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "asian_civilization_058_4",
         "asian_civilization_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_058_pixel.jpg"
     },
     {
       "id": "asian_civilization_059",
-      "title": "亚洲文明史 - 图片60",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往创意空间的大门，充满了沉醉与精神升华。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_059.png",
+      "title": "西周分封诸侯",
+      "summary": "周天子在镐京大殿分封宗室与功臣，赐予土地与青铜礼器",
+      "full_text": "周天子在镐京大殿分封宗室与功臣，赐予土地与青铜礼器",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,14 +1258,15 @@
         "asian_civilization_059_4",
         "asian_civilization_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_059_pixel.jpg"
     },
     {
       "id": "asian_civilization_060",
-      "title": "亚洲文明史 - 图片61",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往智慧天地的大门，充满了宁静与精神升华。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_060.png",
+      "title": "春秋百家争鸣",
+      "summary": "诸子百家在稷下学宫辩论治国之道，儒墨道法各抒己见",
+      "full_text": "诸子百家在稷下学宫辩论治国之道，儒墨道法各抒己见",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_060.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1219,14 +1279,15 @@
         "asian_civilization_060_4",
         "asian_civilization_060_5"
       ],
-      "order": 60
+      "order": 60,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_060_pixel.jpg"
     },
     {
       "id": "asian_civilization_061",
-      "title": "亚洲文明史 - 图片62",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在文化的领域里，生态保护展现得淋漓尽致，每一个光影都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_061.png",
+      "title": "秦始皇统一六国",
+      "summary": "秦军铁骑横扫六国，嬴政在咸阳宫称始皇帝统一文字度量衡",
+      "full_text": "秦军铁骑横扫六国，嬴政在咸阳宫称始皇帝统一文字度量衡",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_061.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1239,14 +1300,15 @@
         "asian_civilization_061_4",
         "asian_civilization_061_5"
       ],
-      "order": 61
+      "order": 61,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_061_pixel.jpg"
     },
     {
       "id": "asian_civilization_062",
-      "title": "亚洲文明史 - 图片63",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它庄重地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_062.png",
+      "title": "秦始皇兵马俑",
+      "summary": "陶工烧制数千真人大小的兵马俑，列阵守护秦始皇陵墓",
+      "full_text": "陶工烧制数千真人大小的兵马俑，列阵守护秦始皇陵墓",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_062.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1259,14 +1321,15 @@
         "asian_civilization_062_4",
         "asian_civilization_062_5"
       ],
-      "order": 62
+      "order": 62,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_062_pixel.jpg"
     },
     {
       "id": "asian_civilization_063",
-      "title": "亚洲文明史 - 图片64",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是文化传承的结晶，它承载着社会的进步，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_063.png",
+      "title": "汉武帝开疆拓土",
+      "summary": "汉军骑兵深入漠北追击匈奴，张骞持节出使西域开辟丝路",
+      "full_text": "汉军骑兵深入漠北追击匈奴，张骞持节出使西域开辟丝路",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_063.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1279,14 +1342,15 @@
         "asian_civilization_063_4",
         "asian_civilization_063_5"
       ],
-      "order": 63
+      "order": 63,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_063_pixel.jpg"
     },
     {
       "id": "asian_civilization_064",
-      "title": "亚洲文明史 - 图片65",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术不仅展现了艺术真谛，更传递了人与自然的和谐，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_064.png",
+      "title": "丝绸之路驿站",
+      "summary": "西域都护府辖区内驼队穿行绿洲，驿站中丝绸与香料交换",
+      "full_text": "西域都护府辖区内驼队穿行绿洲，驿站中丝绸与香料交换",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_064.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1299,14 +1363,15 @@
         "asian_civilization_064_4",
         "asian_civilization_064_5"
       ],
-      "order": 64
+      "order": 64,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_064_pixel.jpg"
     },
     {
       "id": "asian_civilization_065",
-      "title": "亚洲文明史 - 图片66",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化不仅表达了艺术真谛，更传递了人与自然的和谐，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_065.png",
+      "title": "魏晋玄学清谈",
+      "summary": "名士竹林中抚琴长啸，清谈老庄玄理以避乱世纷争",
+      "full_text": "名士竹林中抚琴长啸，清谈老庄玄理以避乱世纷争",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_065.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1319,14 +1384,15 @@
         "asian_civilization_065_4",
         "asian_civilization_065_5"
       ],
-      "order": 65
+      "order": 65,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_065_pixel.jpg"
     },
     {
       "id": "asian_civilization_066",
-      "title": "亚洲文明史 - 图片67",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然不仅揭示了时代精神，更传递了智慧的光芒，让人感受到情感的升华。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_066.png",
+      "title": "南北朝佛教兴盛",
+      "summary": "工匠在云冈石窟中雕凿大佛，信徒络绎不绝前来朝拜",
+      "full_text": "工匠在云冈石窟中雕凿大佛，信徒络绎不绝前来朝拜",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_066.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1339,14 +1405,15 @@
         "asian_civilization_066_4",
         "asian_civilization_066_5"
       ],
-      "order": 66
+      "order": 66,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_066_pixel.jpg"
     },
     {
       "id": "asian_civilization_067",
-      "title": "亚洲文明史 - 图片68",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学不仅弘扬了美好瞬间，更传递了创新的精神，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_067.png",
+      "title": "隋朝大运河",
+      "summary": "百万民夫开凿贯通南北的大运河，龙舟自扬州驶向洛阳",
+      "full_text": "百万民夫开凿贯通南北的大运河，龙舟自扬州驶向洛阳",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_067.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1359,14 +1426,15 @@
         "asian_civilization_067_4",
         "asian_civilization_067_5"
       ],
-      "order": 67
+      "order": 67,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_067_pixel.jpg"
     },
     {
       "id": "asian_civilization_068",
-      "title": "亚洲文明史 - 图片69",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术不仅传承了自然之美，更传递了文化的传承，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_068.png",
+      "title": "大唐长安盛景",
+      "summary": "长安城东西两市商贾云集，胡商驼队穿过朱雀大街",
+      "full_text": "长安城东西两市商贾云集，胡商驼队穿过朱雀大街",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_068.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1379,14 +1447,15 @@
         "asian_civilization_068_4",
         "asian_civilization_068_5"
       ],
-      "order": 68
+      "order": 68,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_068_pixel.jpg"
     },
     {
       "id": "asian_civilization_069",
-      "title": "亚洲文明史 - 图片70",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往创意空间的大门，充满了激情与心灵震撼。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_069.png",
+      "title": "遣唐使渡海",
+      "summary": "日本遣唐使船队在惊涛中驶向明州港，僧侣学者同舟求法",
+      "full_text": "日本遣唐使船队在惊涛中驶向明州港，僧侣学者同舟求法",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_069.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1399,14 +1468,15 @@
         "asian_civilization_069_4",
         "asian_civilization_069_5"
       ],
-      "order": 69
+      "order": 69,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_069_pixel.jpg"
     },
     {
       "id": "asian_civilization_070",
-      "title": "亚洲文明史 - 图片71",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它奇妙地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_070.png",
+      "title": "宋代商业繁荣",
+      "summary": "汴京夜市灯火通明，商贩沿街叫卖，纸币交子流通市面",
+      "full_text": "汴京夜市灯火通明，商贩沿街叫卖，纸币交子流通市面",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_070.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1419,14 +1489,15 @@
         "asian_civilization_070_4",
         "asian_civilization_070_5"
       ],
-      "order": 70
+      "order": 70,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_070_pixel.jpg"
     },
     {
       "id": "asian_civilization_071",
-      "title": "亚洲文明史 - 图片72",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学不仅探索了生命意义，更传递了情感的力量，让人感受到艺术的震撼。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_071.png",
+      "title": "蒙古帝国西征",
+      "summary": "成吉思汗率蒙古铁骑横扫欧亚草原，弯刀所向无坚不摧",
+      "full_text": "成吉思汗率蒙古铁骑横扫欧亚草原，弯刀所向无坚不摧",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_071.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1439,14 +1510,15 @@
         "asian_civilization_071_4",
         "asian_civilization_071_5"
       ],
-      "order": 71
+      "order": 71,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_071_pixel.jpg"
     },
     {
       "id": "asian_civilization_072",
-      "title": "亚洲文明史 - 图片73",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在艺术的领域里，历史变迁展现得淋漓尽致，每一个文化符号都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_072.png",
+      "title": "朝鲜三国时代",
+      "summary": "新罗、百济、高句丽三足鼎立，佛寺与山城遍布半岛",
+      "full_text": "新罗、百济、高句丽三足鼎立，佛寺与山城遍布半岛",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_072.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1459,14 +1531,15 @@
         "asian_civilization_072_4",
         "asian_civilization_072_5"
       ],
-      "order": 72
+      "order": 72,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_072_pixel.jpg"
     },
     {
       "id": "asian_civilization_073",
-      "title": "亚洲文明史 - 图片74",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往灵感源泉的大门，充满了震撼与思想启迪。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_073.png",
+      "title": "日本平安京",
+      "summary": "平安京宫廷贵族书写和歌，紫式部在纸扇上描绘源氏物语",
+      "full_text": "平安京宫廷贵族书写和歌，紫式部在纸扇上描绘源氏物语",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_073.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1479,14 +1552,15 @@
         "asian_civilization_073_4",
         "asian_civilization_073_5"
       ],
-      "order": 73
+      "order": 73,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_073_pixel.jpg"
     },
     {
       "id": "asian_civilization_074",
-      "title": "亚洲文明史 - 图片75",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往创意空间的大门，充满了惊叹与视觉享受。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_074.png",
+      "title": "日本战国群雄",
+      "summary": "织田信长在桶狭间奇袭今川义元，铁炮火光映照战场",
+      "full_text": "织田信长在桶狭间奇袭今川义元，铁炮火光映照战场",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_074.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1499,14 +1573,15 @@
         "asian_civilization_074_4",
         "asian_civilization_074_5"
       ],
-      "order": 74
+      "order": 74,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_074_pixel.jpg"
     },
     {
       "id": "asian_civilization_075",
-      "title": "亚洲文明史 - 图片76",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它精彩地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_075.png",
+      "title": "明清紫禁城",
+      "summary": "永乐帝迁都北京，紫禁城中太和殿金銮宝座威仪天下",
+      "full_text": "永乐帝迁都北京，紫禁城中太和殿金銮宝座威仪天下",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_075.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1519,14 +1594,15 @@
         "asian_civilization_075_4",
         "asian_civilization_075_5"
       ],
-      "order": 75
+      "order": 75,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_075_pixel.jpg"
     },
     {
       "id": "asian_civilization_076",
-      "title": "亚洲文明史 - 图片77",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索艺术的世界，仿佛打开了一扇通往神秘国度的大门，充满了震撼与视觉享受。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_076.png",
+      "title": "郑和下西洋",
+      "summary": "郑和宝船舰队驶入西洋港口，满载瓷器丝绸宣示国威",
+      "full_text": "郑和宝船舰队驶入西洋港口，满载瓷器丝绸宣示国威",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_076.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1539,14 +1615,15 @@
         "asian_civilization_076_4",
         "asian_civilization_076_5"
       ],
-      "order": 76
+      "order": 76,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_076_pixel.jpg"
     },
     {
       "id": "asian_civilization_077",
-      "title": "亚洲文明史 - 图片78",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它独特地展现了心灵触动的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_077.png",
+      "title": "朝鲜李朝科举",
+      "summary": "李朝儒生在汉城参加科举考试，以汉文书写策论文章",
+      "full_text": "李朝儒生在汉城参加科举考试，以汉文书写策论文章",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_077.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1559,14 +1636,15 @@
         "asian_civilization_077_4",
         "asian_civilization_077_5"
       ],
-      "order": 77
+      "order": 77,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_077_pixel.jpg"
     },
     {
       "id": "asian_civilization_078",
-      "title": "亚洲文明史 - 图片79",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它独特地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_078.png",
+      "title": "吴哥窟日出",
+      "summary": "高棉国王在吴哥建造毗湿奴神庙，五座塔楼倒映护城河中",
+      "full_text": "高棉国王在吴哥建造毗湿奴神庙，五座塔楼倒映护城河中",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_078.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1579,14 +1657,15 @@
         "asian_civilization_078_4",
         "asian_civilization_078_5"
       ],
-      "order": 78
+      "order": 78,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_078_pixel.jpg"
     },
     {
       "id": "asian_civilization_079",
-      "title": "亚洲文明史 - 图片80",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它奇妙地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_079.png",
+      "title": "吴哥通王城",
+      "summary": "阇耶跋摩七世修筑吴哥通王城，四面佛微笑俯瞰众生",
+      "full_text": "阇耶跋摩七世修筑吴哥通王城，四面佛微笑俯瞰众生",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_079.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1599,14 +1678,15 @@
         "asian_civilization_079_4",
         "asian_civilization_079_5"
       ],
-      "order": 79
+      "order": 79,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_079_pixel.jpg"
     },
     {
       "id": "asian_civilization_080",
-      "title": "亚洲文明史 - 图片81",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在艺术的领域里，自然奇观展现得淋漓尽致，每一个色彩都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_080.png",
+      "title": "蒲甘佛塔平原",
+      "summary": "蒲甘平原上数千座佛塔林立，僧侣在晨雾中托钵化缘",
+      "full_text": "蒲甘平原上数千座佛塔林立，僧侣在晨雾中托钵化缘",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_080.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1619,14 +1699,15 @@
         "asian_civilization_080_4",
         "asian_civilization_080_5"
       ],
-      "order": 80
+      "order": 80,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_080_pixel.jpg"
     },
     {
       "id": "asian_civilization_081",
-      "title": "亚洲文明史 - 图片82",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它优美地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_081.png",
+      "title": "暹罗素可泰王朝",
+      "summary": "兰甘亨国王创造泰文字母，素可泰石碑铭刻第一部泰文",
+      "full_text": "兰甘亨国王创造泰文字母，素可泰石碑铭刻第一部泰文",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_081.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1639,14 +1720,15 @@
         "asian_civilization_081_4",
         "asian_civilization_081_5"
       ],
-      "order": 81
+      "order": 81,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_081_pixel.jpg"
     },
     {
       "id": "asian_civilization_082",
-      "title": "亚洲文明史 - 图片83",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它神秘地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_082.png",
+      "title": "越南李朝升龙城",
+      "summary": "李公蕴在红河三角洲建都升龙，修建文庙崇儒兴学",
+      "full_text": "李公蕴在红河三角洲建都升龙，修建文庙崇儒兴学",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_082.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1659,14 +1741,15 @@
         "asian_civilization_082_4",
         "asian_civilization_082_5"
       ],
-      "order": 82
+      "order": 82,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_082_pixel.jpg"
     },
     {
       "id": "asian_civilization_083",
-      "title": "亚洲文明史 - 图片84",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它独特地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_083.png",
+      "title": "满者伯夷海港",
+      "summary": "满者伯夷控制香料贸易航线，满载胡椒与丁香的商船出入港口",
+      "full_text": "满者伯夷控制香料贸易航线，满载胡椒与丁香的商船出入港口",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_083.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1679,14 +1762,15 @@
         "asian_civilization_083_4",
         "asian_civilization_083_5"
       ],
-      "order": 83
+      "order": 83,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_083_pixel.jpg"
     },
     {
       "id": "asian_civilization_084",
-      "title": "亚洲文明史 - 图片85",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术是历史积淀的结晶，它展现着深刻的思考，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_084.png",
+      "title": "三佛齐海上霸权",
+      "summary": "三佛齐海军巡逻马六甲海峡，向过往商船征收通行税",
+      "full_text": "三佛齐海军巡逻马六甲海峡，向过往商船征收通行税",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_084.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1699,14 +1783,15 @@
         "asian_civilization_084_4",
         "asian_civilization_084_5"
       ],
-      "order": 84
+      "order": 84,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_084_pixel.jpg"
     },
     {
       "id": "asian_civilization_085",
-      "title": "亚洲文明史 - 图片86",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化不仅记录了艺术真谛，更传递了美的真谛，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_085.png",
+      "title": "丝绸之路中亚段",
+      "summary": "粟特商队穿越帕米尔高原，在撒马尔罕集市交易丝绸与宝石",
+      "full_text": "粟特商队穿越帕米尔高原，在撒马尔罕集市交易丝绸与宝石",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_085.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1719,14 +1804,15 @@
         "asian_civilization_085_4",
         "asian_civilization_085_5"
       ],
-      "order": 85
+      "order": 85,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_085_pixel.jpg"
     },
     {
       "id": "asian_civilization_086",
-      "title": "亚洲文明史 - 图片87",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它丰富地展现了文化精髓的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_086.png",
+      "title": "敦煌莫高窟",
+      "summary": "画师在莫高窟洞壁绘制飞天壁画，藻井图案绚丽多彩",
+      "full_text": "画师在莫高窟洞壁绘制飞天壁画，藻井图案绚丽多彩",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_086.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1739,14 +1825,15 @@
         "asian_civilization_086_4",
         "asian_civilization_086_5"
       ],
-      "order": 86
+      "order": 86,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_086_pixel.jpg"
     },
     {
       "id": "asian_civilization_087",
-      "title": "亚洲文明史 - 图片88",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往美丽新世界的大门，充满了愉悦与审美体验。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_087.png",
+      "title": "中亚帖木儿帝国",
+      "summary": "帖木儿在撒马尔罕建造蓝色清真寺，穹顶镶嵌琉璃马赛克",
+      "full_text": "帖木儿在撒马尔罕建造蓝色清真寺，穹顶镶嵌琉璃马赛克",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_087.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1759,14 +1846,15 @@
         "asian_civilization_087_4",
         "asian_civilization_087_5"
       ],
-      "order": 87
+      "order": 87,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_087_pixel.jpg"
     },
     {
       "id": "asian_civilization_088",
-      "title": "亚洲文明史 - 图片89",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它奇妙地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_088.png",
+      "title": "爪哇婆罗浮屠",
+      "summary": "夏连特拉王朝建造金字塔形佛塔，千余浮雕讲述佛陀一生",
+      "full_text": "夏连特拉王朝建造金字塔形佛塔，千余浮雕讲述佛陀一生",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_088.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1779,14 +1867,15 @@
         "asian_civilization_088_4",
         "asian_civilization_088_5"
       ],
-      "order": 88
+      "order": 88,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_088_pixel.jpg"
     },
     {
       "id": "asian_civilization_089",
-      "title": "亚洲文明史 - 图片90",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "文化不仅展现了生命意义，更传递了人与自然的和谐，让人感受到心灵的共鸣。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_089.png",
+      "title": "马来马六甲港",
+      "summary": "马六甲港口停泊各国商船，中国瓷器与印度棉布在此交换",
+      "full_text": "马六甲港口停泊各国商船，中国瓷器与印度棉布在此交换",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_089.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1799,14 +1888,15 @@
         "asian_civilization_089_4",
         "asian_civilization_089_5"
       ],
-      "order": 89
+      "order": 89,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_089_pixel.jpg"
     },
     {
       "id": "asian_civilization_090",
-      "title": "亚洲文明史 - 图片91",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它生动地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_090.png",
+      "title": "琉球首里城",
+      "summary": "琉球国王在首里城接见中日使节，融合风格的宫殿矗立山巅",
+      "full_text": "琉球国王在首里城接见中日使节，融合风格的宫殿矗立山巅",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_090.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1819,14 +1909,15 @@
         "asian_civilization_090_4",
         "asian_civilization_090_5"
       ],
-      "order": 90
+      "order": 90,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_090_pixel.jpg"
     },
     {
       "id": "asian_civilization_091",
-      "title": "亚洲文明史 - 图片92",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个历史印记都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_091.png",
+      "title": "老挝澜沧王国",
+      "summary": "澜沧国王在琅勃拉邦修建金色佛塔，僧侣每日沿街化缘",
+      "full_text": "澜沧国王在琅勃拉邦修建金色佛塔，僧侣每日沿街化缘",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_091.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1839,14 +1930,15 @@
         "asian_civilization_091_4",
         "asian_civilization_091_5"
       ],
-      "order": 91
+      "order": 91,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_091_pixel.jpg"
     },
     {
       "id": "asian_civilization_092",
-      "title": "亚洲文明史 - 图片93",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "在艺术的领域里，生态保护展现得淋漓尽致，每一个自然元素都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_092.png",
+      "title": "中亚游牧毡帐",
+      "summary": "哈萨克牧民在草原上搭建白色毡帐，马群在天山脚下奔驰",
+      "full_text": "哈萨克牧民在草原上搭建白色毡帐，马群在天山脚下奔驰",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_092.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1859,14 +1951,15 @@
         "asian_civilization_092_4",
         "asian_civilization_092_5"
       ],
-      "order": 92
+      "order": 92,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_092_pixel.jpg"
     },
     {
       "id": "asian_civilization_093",
-      "title": "亚洲文明史 - 图片94",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往梦想世界的大门，充满了敬畏与心灵震撼。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_093.png",
+      "title": "高棉巴戎寺",
+      "summary": "巴戎寺石雕记录高棉军队出征，战象方阵浩浩荡荡",
+      "full_text": "巴戎寺石雕记录高棉军队出征，战象方阵浩浩荡荡",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_093.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1879,14 +1972,15 @@
         "asian_civilization_093_4",
         "asian_civilization_093_5"
       ],
-      "order": 93
+      "order": 93,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_093_pixel.jpg"
     },
     {
       "id": "asian_civilization_094",
-      "title": "亚洲文明史 - 图片95",
-      "summary": "亚洲文明史相关图片",
-      "full_text": "自然是生活体验的结晶，它引领着深刻的思考，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_094.png",
+      "title": "中亚丝路绿洲",
+      "summary": "于阗绿洲中胡商在巴扎交易玉石与丝绸，驼队歇息于葡萄架下",
+      "full_text": "于阗绿洲中胡商在巴扎交易玉石与丝绸，驼队歇息于葡萄架下",
+      "image": "res://assets/images/illustrations/asian_civilization/asian_civilization_094.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1899,7 +1993,8 @@
         "asian_civilization_094_4",
         "asian_civilization_094_5"
       ],
-      "order": 94
+      "order": 94,
+      "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_094_pixel.jpg"
     }
   ]
 }

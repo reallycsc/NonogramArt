@@ -3,10 +3,10 @@
   "pictures": [
     {
       "id": "miscellaneous_000",
-      "title": "综合素材 - 图片1",
-      "summary": "综合素材相关图片",
-      "full_text": "在艺术的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_000.png",
+      "title": "万花筒图案",
+      "summary": "万花筒镜像对称图案，彩色碎片旋转组合，缤纷世界",
+      "full_text": "万花筒镜像对称图案，彩色碎片旋转组合，缤纷世界",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_000.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -19,14 +19,15 @@
         "miscellaneous_000_4",
         "miscellaneous_000_5"
       ],
-      "order": 0
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_000_pixel.jpg"
     },
     {
       "id": "miscellaneous_001",
-      "title": "综合素材 - 图片2",
-      "summary": "综合素材相关图片",
-      "full_text": "文化不仅探索了历史记忆，更传递了文化的传承，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_001.png",
+      "title": "棋盘格纹",
+      "summary": "黑白棋盘格交替排列，规则重复视觉节奏，经典图案",
+      "full_text": "黑白棋盘格交替排列，规则重复视觉节奏，经典图案",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_001.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -39,14 +40,15 @@
         "miscellaneous_001_4",
         "miscellaneous_001_5"
       ],
-      "order": 1
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_001_pixel.jpg"
     },
     {
       "id": "miscellaneous_002",
-      "title": "综合素材 - 图片3",
-      "summary": "综合素材相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往美丽新世界的大门，充满了感动与文化浸润。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_002.png",
+      "title": "拼贴画组合",
+      "summary": "拼贴画碎片组合，不同材质色彩拼合，创意拼贴",
+      "full_text": "拼贴画碎片组合，不同材质色彩拼合，创意拼贴",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_002.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -59,14 +61,15 @@
         "miscellaneous_002_4",
         "miscellaneous_002_5"
       ],
-      "order": 2
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_002_pixel.jpg"
     },
     {
       "id": "miscellaneous_003",
-      "title": "综合素材 - 图片4",
-      "summary": "综合素材相关图片",
-      "full_text": "科学是自然造化的结晶，它表达着艺术的追求，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_003.png",
+      "title": "马赛克方格",
+      "summary": "马赛克小方块拼图，色彩渐变构成图像，像素风格",
+      "full_text": "马赛克小方块拼图，色彩渐变构成图像，像素风格",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_003.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -79,14 +82,15 @@
         "miscellaneous_003_4",
         "miscellaneous_003_5"
       ],
-      "order": 3
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_003_pixel.jpg"
     },
     {
       "id": "miscellaneous_004",
-      "title": "综合素材 - 图片5",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术是情感表达的结晶，它传递着永恒的真理，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_004.png",
+      "title": "迷彩图案",
+      "summary": "迷彩不规则色块，军事伪装融入环境，功能图案",
+      "full_text": "迷彩不规则色块，军事伪装融入环境，功能图案",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_004.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -99,14 +103,15 @@
         "miscellaneous_004_4",
         "miscellaneous_004_5"
       ],
-      "order": 4
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_004_pixel.jpg"
     },
     {
       "id": "miscellaneous_005",
-      "title": "综合素材 - 图片6",
-      "summary": "综合素材相关图片",
-      "full_text": "在文化的领域里，科学发现展现得淋漓尽致，每一个思想都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_005.png",
+      "title": "波普圆点",
+      "summary": "波普艺术规则圆点，明快色彩重复排列，流行图案",
+      "full_text": "波普艺术规则圆点，明快色彩重复排列，流行图案",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_005.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -119,14 +124,15 @@
         "miscellaneous_005_4",
         "miscellaneous_005_5"
       ],
-      "order": 5
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_005_pixel.jpg"
     },
     {
       "id": "miscellaneous_006",
-      "title": "综合素材 - 图片7",
-      "summary": "综合素材相关图片",
-      "full_text": "在自然的领域里，自然奇观展现得淋漓尽致，每一个历史印记都诉说着悠久的历史。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_006.png",
+      "title": "条纹图案",
+      "summary": "条纹横竖宽窄变化，色彩搭配节奏感强，经典图案",
+      "full_text": "条纹横竖宽窄变化，色彩搭配节奏感强，经典图案",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_006.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -139,14 +145,15 @@
         "miscellaneous_006_4",
         "miscellaneous_006_5"
       ],
-      "order": 6
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_006_pixel.jpg"
     },
     {
       "id": "miscellaneous_007",
-      "title": "综合素材 - 图片8",
-      "summary": "综合素材相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_007.png",
+      "title": "格纹图案",
+      "summary": "格纹纵横交错，苏格兰格千鸟格，经典纹样",
+      "full_text": "格纹纵横交错，苏格兰格千鸟格，经典纹样",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_007.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -159,14 +166,15 @@
         "miscellaneous_007_4",
         "miscellaneous_007_5"
       ],
-      "order": 7
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_007_pixel.jpg"
     },
     {
       "id": "miscellaneous_008",
-      "title": "综合素材 - 图片9",
-      "summary": "综合素材相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个细节都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_008.png",
+      "title": "碎花图案",
+      "summary": "碎花小花朵散布，清新淡雅田园风格，花卉图案",
+      "full_text": "碎花小花朵散布，清新淡雅田园风格，花卉图案",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_008.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -179,14 +187,15 @@
         "miscellaneous_008_4",
         "miscellaneous_008_5"
       ],
-      "order": 8
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_008_pixel.jpg"
     },
     {
       "id": "miscellaneous_009",
-      "title": "综合素材 - 图片10",
-      "summary": "综合素材相关图片",
-      "full_text": "文化是时代精神的结晶，它启迪着创新的理念，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_009.png",
+      "title": "扎染图案",
+      "summary": "扎染晕染不规则纹，色彩渗透自然变化，手工图案",
+      "full_text": "扎染晕染不规则纹，色彩渗透自然变化，手工图案",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_009.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -199,14 +208,15 @@
         "miscellaneous_009_4",
         "miscellaneous_009_5"
       ],
-      "order": 9
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_009_pixel.jpg"
     },
     {
       "id": "miscellaneous_010",
-      "title": "综合素材 - 图片11",
-      "summary": "综合素材相关图片",
-      "full_text": "自然不仅表达了生命意义，更传递了情感的力量，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_010.png",
+      "title": "剪纸图案",
+      "summary": "剪纸镂空对称图案，红色喜庆民俗艺术，传统纹样",
+      "full_text": "剪纸镂空对称图案，红色喜庆民俗艺术，传统纹样",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_010.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -219,14 +229,15 @@
         "miscellaneous_010_4",
         "miscellaneous_010_5"
       ],
-      "order": 10
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_010_pixel.jpg"
     },
     {
       "id": "miscellaneous_011",
-      "title": "综合素材 - 图片12",
-      "summary": "综合素材相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它质朴地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_011.png",
+      "title": "青花瓷纹",
+      "summary": "青花瓷蓝白相间，缠枝莲纹牡丹纹样，陶瓷图案",
+      "full_text": "青花瓷蓝白相间，缠枝莲纹牡丹纹样，陶瓷图案",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_011.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -239,14 +250,15 @@
         "miscellaneous_011_4",
         "miscellaneous_011_5"
       ],
-      "order": 11
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_011_pixel.jpg"
     },
     {
       "id": "miscellaneous_012",
-      "title": "综合素材 - 图片13",
-      "summary": "综合素材相关图片",
-      "full_text": "在艺术的领域里，文化传承展现得淋漓尽致，每一个情感都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_012.png",
+      "title": "回纹图案",
+      "summary": "回纹几何连续纹样，方形回旋吉祥寓意，传统纹样",
+      "full_text": "回纹几何连续纹样，方形回旋吉祥寓意，传统纹样",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_012.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -259,14 +271,15 @@
         "miscellaneous_012_4",
         "miscellaneous_012_5"
       ],
-      "order": 12
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_012_pixel.jpg"
     },
     {
       "id": "miscellaneous_013",
-      "title": "综合素材 - 图片14",
-      "summary": "综合素材相关图片",
-      "full_text": "在文化的领域里，艺术创造展现得淋漓尽致，每一个细节都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_013.png",
+      "title": "云雷纹",
+      "summary": "云雷纹螺旋卷曲，青铜器装饰纹样，古代图案",
+      "full_text": "云雷纹螺旋卷曲，青铜器装饰纹样，古代图案",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_013.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -279,14 +292,15 @@
         "miscellaneous_013_4",
         "miscellaneous_013_5"
       ],
-      "order": 13
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_013_pixel.jpg"
     },
     {
       "id": "miscellaneous_014",
-      "title": "综合素材 - 图片15",
-      "summary": "综合素材相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它庄重地展现了思想内涵的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_014.png",
+      "title": "敦煌藻井",
+      "summary": "敦煌藻井莲花纹，天井装饰华丽图案，佛教纹样",
+      "full_text": "敦煌藻井莲花纹，天井装饰华丽图案，佛教纹样",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_014.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -299,14 +313,15 @@
         "miscellaneous_014_4",
         "miscellaneous_014_5"
       ],
-      "order": 14
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_014_pixel.jpg"
     },
     {
       "id": "miscellaneous_015",
-      "title": "综合素材 - 图片16",
-      "summary": "综合素材相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往创意空间的大门，充满了喜悦与艺术熏陶。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_015.png",
+      "title": "波斯花纹",
+      "summary": "波斯花纹繁复精美，藤蔓卷曲对称排列，伊斯兰纹样",
+      "full_text": "波斯花纹繁复精美，藤蔓卷曲对称排列，伊斯兰纹样",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_015.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -319,14 +334,15 @@
         "miscellaneous_015_4",
         "miscellaneous_015_5"
       ],
-      "order": 15
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_015_pixel.jpg"
     },
     {
       "id": "miscellaneous_016",
-      "title": "综合素材 - 图片17",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术不仅记录了情感世界，更传递了情感的力量，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_016.png",
+      "title": "凯尔特结",
+      "summary": "凯尔特结交织线条，无始无终永恒象征，编织图案",
+      "full_text": "凯尔特结交织线条，无始无终永恒象征，编织图案",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_016.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -339,14 +355,15 @@
         "miscellaneous_016_4",
         "miscellaneous_016_5"
       ],
-      "order": 16
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_016_pixel.jpg"
     },
     {
       "id": "miscellaneous_017",
-      "title": "综合素材 - 图片18",
-      "summary": "综合素材相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往美丽新世界的大门，充满了好奇与文化浸润。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_017.png",
+      "title": "曼陀罗",
+      "summary": "曼陀罗圆形对称图案，层层环绕冥想中心，宗教纹样",
+      "full_text": "曼陀罗圆形对称图案，层层环绕冥想中心，宗教纹样",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_017.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -359,14 +376,15 @@
         "miscellaneous_017_4",
         "miscellaneous_017_5"
       ],
-      "order": 17
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_017_pixel.jpg"
     },
     {
       "id": "miscellaneous_018",
-      "title": "综合素材 - 图片19",
-      "summary": "综合素材相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往自然奇观的大门，充满了温馨与视觉享受。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_018.png",
+      "title": "春夏交替",
+      "summary": "春天花朵绽放过渡到夏天绿荫，季节变换自然过渡",
+      "full_text": "春天花朵绽放过渡到夏天绿荫，季节变换自然过渡",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_018.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -379,14 +397,15 @@
         "miscellaneous_018_4",
         "miscellaneous_018_5"
       ],
-      "order": 18
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_018_pixel.jpg"
     },
     {
       "id": "miscellaneous_019",
-      "title": "综合素材 - 图片20",
-      "summary": "综合素材相关图片",
-      "full_text": "在科学的领域里，艺术创造展现得淋漓尽致，每一个瞬间都诉说着勇敢的探索。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_019.png",
+      "title": "秋收冬藏",
+      "summary": "秋天金黄落叶过渡到冬天白雪，季节循环更替",
+      "full_text": "秋天金黄落叶过渡到冬天白雪，季节循环更替",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_019.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -399,14 +418,15 @@
         "miscellaneous_019_4",
         "miscellaneous_019_5"
       ],
-      "order": 19
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_019_pixel.jpg"
     },
     {
       "id": "miscellaneous_020",
-      "title": "综合素材 - 图片21",
-      "summary": "综合素材相关图片",
-      "full_text": "在艺术的领域里，科技进步展现得淋漓尽致，每一个历史印记都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_020.png",
+      "title": "日出日落",
+      "summary": "清晨朝霞到傍晚夕阳，天空色彩从暖到冷变化",
+      "full_text": "清晨朝霞到傍晚夕阳，天空色彩从暖到冷变化",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_020.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -419,14 +439,15 @@
         "miscellaneous_020_4",
         "miscellaneous_020_5"
       ],
-      "order": 20
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_020_pixel.jpg"
     },
     {
       "id": "miscellaneous_021",
-      "title": "综合素材 - 图片22",
-      "summary": "综合素材相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它典雅地展现了视觉盛宴的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_021.png",
+      "title": "月相变化",
+      "summary": "新月上弦满月下弦，月亮圆缺周期变化，天文周期",
+      "full_text": "新月上弦满月下弦，月亮圆缺周期变化，天文周期",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_021.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -439,14 +460,15 @@
         "miscellaneous_021_4",
         "miscellaneous_021_5"
       ],
-      "order": 21
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_021_pixel.jpg"
     },
     {
       "id": "miscellaneous_022",
-      "title": "综合素材 - 图片23",
-      "summary": "综合素材相关图片",
-      "full_text": "在自然的领域里，历史变迁展现得淋漓尽致，每一个自然元素都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_022.png",
+      "title": "潮涨潮落",
+      "summary": "海水涨潮退潮交替，沙滩时宽时窄变化，海洋节奏",
+      "full_text": "海水涨潮退潮交替，沙滩时宽时窄变化，海洋节奏",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_022.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -459,14 +481,15 @@
         "miscellaneous_022_4",
         "miscellaneous_022_5"
       ],
-      "order": 22
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_022_pixel.jpg"
     },
     {
       "id": "miscellaneous_023",
-      "title": "综合素材 - 图片24",
-      "summary": "综合素材相关图片",
-      "full_text": "在科学的领域里，艺术创造展现得淋漓尽致，每一个色彩都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_023.png",
+      "title": "城市与乡村",
+      "summary": "高楼大厦与田园风光对比，城市乡村不同面貌",
+      "full_text": "高楼大厦与田园风光对比，城市乡村不同面貌",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_023.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -479,14 +502,15 @@
         "miscellaneous_023_4",
         "miscellaneous_023_5"
       ],
-      "order": 23
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_023_pixel.jpg"
     },
     {
       "id": "miscellaneous_024",
-      "title": "综合素材 - 图片25",
-      "summary": "综合素材相关图片",
-      "full_text": "在艺术的领域里，人类智慧展现得淋漓尽致，每一个色彩都诉说着美好的梦想。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_024.png",
+      "title": "室内与室外",
+      "summary": "温馨室内空间与广阔室外天地，内外空间对比",
+      "full_text": "温馨室内空间与广阔室外天地，内外空间对比",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_024.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -499,14 +523,15 @@
         "miscellaneous_024_4",
         "miscellaneous_024_5"
       ],
-      "order": 24
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_024_pixel.jpg"
     },
     {
       "id": "miscellaneous_025",
-      "title": "综合素材 - 图片26",
-      "summary": "综合素材相关图片",
-      "full_text": "文化是自然造化的结晶，它诠释着深刻的思考，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_025.png",
+      "title": "微观与宏观",
+      "summary": "显微镜下细胞到太空星系，尺度跨越微观宏观",
+      "full_text": "显微镜下细胞到太空星系，尺度跨越微观宏观",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_025.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -519,14 +544,15 @@
         "miscellaneous_025_4",
         "miscellaneous_025_5"
       ],
-      "order": 25
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_025_pixel.jpg"
     },
     {
       "id": "miscellaneous_026",
-      "title": "综合素材 - 图片27",
-      "summary": "综合素材相关图片",
-      "full_text": "自然是人类文明的重要组成部分，它细腻地展现了审美情趣的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_026.png",
+      "title": "水与火",
+      "summary": "水的柔与火的刚对比，冰蓝与火红色彩碰撞",
+      "full_text": "水的柔与火的刚对比，冰蓝与火红色彩碰撞",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_026.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -539,14 +565,15 @@
         "miscellaneous_026_4",
         "miscellaneous_026_5"
       ],
-      "order": 26
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_026_pixel.jpg"
     },
     {
       "id": "miscellaneous_027",
-      "title": "综合素材 - 图片28",
-      "summary": "综合素材相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它神秘地展现了时代印记的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_027.png",
+      "title": "光与影",
+      "summary": "光明与阴影交织，光处明亮暗处深邃，光影对比",
+      "full_text": "光明与阴影交织，光处明亮暗处深邃，光影对比",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_027.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -559,14 +586,15 @@
         "miscellaneous_027_4",
         "miscellaneous_027_5"
       ],
-      "order": 27
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_027_pixel.jpg"
     },
     {
       "id": "miscellaneous_028",
-      "title": "综合素材 - 图片29",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术不仅诠释了艺术真谛，更传递了奋斗的意义，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_028.png",
+      "title": "动与静",
+      "summary": "飞鸟掠过与山石静立，动态与静态对比之美",
+      "full_text": "飞鸟掠过与山石静立，动态与静态对比之美",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_028.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -579,14 +607,15 @@
         "miscellaneous_028_4",
         "miscellaneous_028_5"
       ],
-      "order": 28
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_028_pixel.jpg"
     },
     {
       "id": "miscellaneous_029",
-      "title": "综合素材 - 图片30",
-      "summary": "综合素材相关图片",
-      "full_text": "探索文化的世界，仿佛打开了一扇通往精神家园的大门，充满了喜悦与知识启迪。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_029.png",
+      "title": "繁华与宁静",
+      "summary": "都市霓虹喧嚣与山林幽静，两种生活节奏",
+      "full_text": "都市霓虹喧嚣与山林幽静，两种生活节奏",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_029.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -599,14 +628,15 @@
         "miscellaneous_029_4",
         "miscellaneous_029_5"
       ],
-      "order": 29
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_029_pixel.jpg"
     },
     {
       "id": "miscellaneous_030",
-      "title": "综合素材 - 图片31",
-      "summary": "综合素材相关图片",
-      "full_text": "自然是审美追求的结晶，它启迪着美好的愿景，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_030.png",
+      "title": "幻想城堡",
+      "summary": "云端的幻想城堡，尖塔吊桥魔法光芒，奇幻建筑",
+      "full_text": "云端的幻想城堡，尖塔吊桥魔法光芒，奇幻建筑",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_030.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -619,14 +649,15 @@
         "miscellaneous_030_4",
         "miscellaneous_030_5"
       ],
-      "order": 30
+      "order": 30,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_030_pixel.jpg"
     },
     {
       "id": "miscellaneous_031",
-      "title": "综合素材 - 图片32",
-      "summary": "综合素材相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它庄重地展现了艺术魅力的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_031.png",
+      "title": "梦境花园",
+      "summary": "梦境中的花园，巨大花朵发光蝴蝶，超现实场景",
+      "full_text": "梦境中的花园，巨大花朵发光蝴蝶，超现实场景",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_031.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -639,14 +670,15 @@
         "miscellaneous_031_4",
         "miscellaneous_031_5"
       ],
-      "order": 31
+      "order": 31,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_031_pixel.jpg"
     },
     {
       "id": "miscellaneous_032",
-      "title": "综合素材 - 图片33",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术是人类智慧的结晶，它展现着生活的智慧，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_032.png",
+      "title": "未来城市",
+      "summary": "未来城市飞行汽车，摩天塔楼全息投影，科幻都市",
+      "full_text": "未来城市飞行汽车，摩天塔楼全息投影，科幻都市",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_032.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -659,14 +691,15 @@
         "miscellaneous_032_4",
         "miscellaneous_032_5"
       ],
-      "order": 32
+      "order": 32,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_032_pixel.jpg"
     },
     {
       "id": "miscellaneous_033",
-      "title": "综合素材 - 图片34",
-      "summary": "综合素材相关图片",
-      "full_text": "文化是文化传承的结晶，它激励着科学的精神，引领我们走向文化繁荣的未来。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_033.png",
+      "title": "海底王国",
+      "summary": "海底王国珊瑚宫殿，美人鱼发光水母，水下幻想",
+      "full_text": "海底王国珊瑚宫殿，美人鱼发光水母，水下幻想",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_033.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -679,14 +712,15 @@
         "miscellaneous_033_4",
         "miscellaneous_033_5"
       ],
-      "order": 33
+      "order": 33,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_033_pixel.jpg"
     },
     {
       "id": "miscellaneous_034",
-      "title": "综合素材 - 图片35",
-      "summary": "综合素材相关图片",
-      "full_text": "在自然的领域里，科技进步展现得淋漓尽致，每一个瞬间都诉说着美好的传说。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_034.png",
+      "title": "太空站",
+      "summary": "太空站环绕行星，穹顶观景舱外星空，太空生活",
+      "full_text": "太空站环绕行星，穹顶观景舱外星空，太空生活",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_034.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -699,14 +733,15 @@
         "miscellaneous_034_4",
         "miscellaneous_034_5"
       ],
-      "order": 34
+      "order": 34,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_034_pixel.jpg"
     },
     {
       "id": "miscellaneous_035",
-      "title": "综合素材 - 图片36",
-      "summary": "综合素材相关图片",
-      "full_text": "科学是时代精神的结晶，它激励着生活的智慧，引领我们走向无限可能的世界。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_035.png",
+      "title": "魔法森林",
+      "summary": "魔法森林发光蘑菇，精灵小屋古树参天，奇幻自然",
+      "full_text": "魔法森林发光蘑菇，精灵小屋古树参天，奇幻自然",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_035.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -719,14 +754,15 @@
         "miscellaneous_035_4",
         "miscellaneous_035_5"
       ],
-      "order": 35
+      "order": 35,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_035_pixel.jpg"
     },
     {
       "id": "miscellaneous_036",
-      "title": "综合素材 - 图片37",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术不仅展现了美好瞬间，更传递了美的真谛，让人感受到精神的愉悦。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_036.png",
+      "title": "蒸汽朋克",
+      "summary": "蒸汽朋克齿轮铜管，维多利亚机械美学，复古未来",
+      "full_text": "蒸汽朋克齿轮铜管，维多利亚机械美学，复古未来",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_036.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -739,14 +775,15 @@
         "miscellaneous_036_4",
         "miscellaneous_036_5"
       ],
-      "order": 36
+      "order": 36,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_036_pixel.jpg"
     },
     {
       "id": "miscellaneous_037",
-      "title": "综合素材 - 图片38",
-      "summary": "综合素材相关图片",
-      "full_text": "文化是思想升华的结晶，它承载着生活的智慧，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_037.png",
+      "title": "赛博朋克",
+      "summary": "赛博朋克霓虹雨夜，全息广告机械义体，数字未来",
+      "full_text": "赛博朋克霓虹雨夜，全息广告机械义体，数字未来",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_037.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -759,14 +796,15 @@
         "miscellaneous_037_4",
         "miscellaneous_037_5"
       ],
-      "order": 37
+      "order": 37,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_037_pixel.jpg"
     },
     {
       "id": "miscellaneous_038",
-      "title": "综合素材 - 图片39",
-      "summary": "综合素材相关图片",
-      "full_text": "自然是思想升华的结晶，它创造着美好的愿景，引领我们走向生态文明的未来。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_038.png",
+      "title": "末日废土",
+      "summary": "末日废土荒芜废墟，残破建筑风沙漫天，后启示录",
+      "full_text": "末日废土荒芜废墟，残破建筑风沙漫天，后启示录",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_038.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -779,14 +817,15 @@
         "miscellaneous_038_4",
         "miscellaneous_038_5"
       ],
-      "order": 38
+      "order": 38,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_038_pixel.jpg"
     },
     {
       "id": "miscellaneous_039",
-      "title": "综合素材 - 图片40",
-      "summary": "综合素材相关图片",
-      "full_text": "在科学的领域里，人文景观展现得淋漓尽致，每一个光影都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_039.png",
+      "title": "浮空岛屿",
+      "summary": "浮空岛屿瀑布倾泻，云海之上绿树成荫，天空之城",
+      "full_text": "浮空岛屿瀑布倾泻，云海之上绿树成荫，天空之城",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_039.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -799,14 +838,15 @@
         "miscellaneous_039_4",
         "miscellaneous_039_5"
       ],
-      "order": 39
+      "order": 39,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_039_pixel.jpg"
     },
     {
       "id": "miscellaneous_040",
-      "title": "综合素材 - 图片41",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术不仅展现了人类文明，更传递了文化的传承，让人感受到思想的启迪。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_040.png",
+      "title": "时间裂缝",
+      "summary": "时间裂缝钟表碎片，过去未来交错重叠，时间幻想",
+      "full_text": "时间裂缝钟表碎片，过去未来交错重叠，时间幻想",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_040.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -819,14 +859,15 @@
         "miscellaneous_040_4",
         "miscellaneous_040_5"
       ],
-      "order": 40
+      "order": 40,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_040_pixel.jpg"
     },
     {
       "id": "miscellaneous_041",
-      "title": "综合素材 - 图片42",
-      "summary": "综合素材相关图片",
-      "full_text": "文化是艺术创造的结晶，它表达着深刻的思考，引领我们走向和谐共生的时代。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_041.png",
+      "title": "镜像世界",
+      "summary": "镜像世界上下颠倒，水面倒影虚实难辨，对称幻想",
+      "full_text": "镜像世界上下颠倒，水面倒影虚实难辨，对称幻想",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_041.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -839,14 +880,15 @@
         "miscellaneous_041_4",
         "miscellaneous_041_5"
       ],
-      "order": 41
+      "order": 41,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_041_pixel.jpg"
     },
     {
       "id": "miscellaneous_042",
-      "title": "综合素材 - 图片43",
-      "summary": "综合素材相关图片",
-      "full_text": "在自然的领域里，社会发展展现得淋漓尽致，每一个瞬间都诉说着真挚的情感。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_042.png",
+      "title": "元素世界",
+      "summary": "火焰冰晶雷电大地，四大元素力量碰撞，元素幻想",
+      "full_text": "火焰冰晶雷电大地，四大元素力量碰撞，元素幻想",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_042.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -859,14 +901,15 @@
         "miscellaneous_042_4",
         "miscellaneous_042_5"
       ],
-      "order": 42
+      "order": 42,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_042_pixel.jpg"
     },
     {
       "id": "miscellaneous_043",
-      "title": "综合素材 - 图片44",
-      "summary": "综合素材相关图片",
-      "full_text": "科学不仅塑造了时代精神，更传递了美的真谛，让人感受到由衷的赞叹。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_043.png",
+      "title": "微观宇宙",
+      "summary": "微观宇宙原子轨道，电子云量子世界，科学幻想",
+      "full_text": "微观宇宙原子轨道，电子云量子世界，科学幻想",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_043.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -879,14 +922,15 @@
         "miscellaneous_043_4",
         "miscellaneous_043_5"
       ],
-      "order": 43
+      "order": 43,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_043_pixel.jpg"
     },
     {
       "id": "miscellaneous_044",
-      "title": "综合素材 - 图片45",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术不仅诠释了文化内涵，更传递了美的真谛，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_044.png",
+      "title": "平行世界",
+      "summary": "平行世界分岔路口，不同选择不同人生，多元宇宙",
+      "full_text": "平行世界分岔路口，不同选择不同人生，多元宇宙",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_044.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -899,14 +943,15 @@
         "miscellaneous_044_4",
         "miscellaneous_044_5"
       ],
-      "order": 44
+      "order": 44,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_044_pixel.jpg"
     },
     {
       "id": "miscellaneous_045",
-      "title": "综合素材 - 图片46",
-      "summary": "综合素材相关图片",
-      "full_text": "在文化的领域里，人类智慧展现得淋漓尽致，每一个光影都诉说着伟大的创造。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_045.png",
+      "title": "意识空间",
+      "summary": "意识空间抽象形态，思维流动记忆碎片，心灵世界",
+      "full_text": "意识空间抽象形态，思维流动记忆碎片，心灵世界",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_045.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -919,14 +964,15 @@
         "miscellaneous_045_4",
         "miscellaneous_045_5"
       ],
-      "order": 45
+      "order": 45,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_045_pixel.jpg"
     },
     {
       "id": "miscellaneous_046",
-      "title": "综合素材 - 图片47",
-      "summary": "综合素材相关图片",
-      "full_text": "在自然的领域里，文化传承展现得淋漓尽致，每一个自然元素都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_046.png",
+      "title": "数字矩阵",
+      "summary": "数字矩阵代码瀑布，绿色字符信息洪流，虚拟世界",
+      "full_text": "数字矩阵代码瀑布，绿色字符信息洪流，虚拟世界",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_046.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -939,14 +985,15 @@
         "miscellaneous_046_4",
         "miscellaneous_046_5"
       ],
-      "order": 46
+      "order": 46,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_046_pixel.jpg"
     },
     {
       "id": "miscellaneous_047",
-      "title": "综合素材 - 图片48",
-      "summary": "综合素材相关图片",
-      "full_text": "科学不仅弘扬了人类文明，更传递了情感的力量，让人感受到深深的感动。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_047.png",
+      "title": "混沌之境",
+      "summary": "混沌之境色彩漩涡，无序中诞生有序，创世幻想",
+      "full_text": "混沌之境色彩漩涡，无序中诞生有序，创世幻想",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_047.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -959,14 +1006,15 @@
         "miscellaneous_047_4",
         "miscellaneous_047_5"
       ],
-      "order": 47
+      "order": 47,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_047_pixel.jpg"
     },
     {
       "id": "miscellaneous_048",
-      "title": "综合素材 - 图片49",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它细腻地展现了人类智慧的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_048.png",
+      "title": "永恒之树",
+      "summary": "永恒之树根深叶茂，连接天地万物之灵，生命象征",
+      "full_text": "永恒之树根深叶茂，连接天地万物之灵，生命象征",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_048.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -979,14 +1027,15 @@
         "miscellaneous_048_4",
         "miscellaneous_048_5"
       ],
-      "order": 48
+      "order": 48,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_048_pixel.jpg"
     },
     {
       "id": "miscellaneous_049",
-      "title": "综合素材 - 图片50",
-      "summary": "综合素材相关图片",
-      "full_text": "文化是文化传承的结晶，它激励着科学的精神，引领我们走向创新发展的道路。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_049.png",
+      "title": "星际之门",
+      "summary": "星际之门圆形传送，光柱连接遥远星系，宇宙通道",
+      "full_text": "星际之门圆形传送，光柱连接遥远星系，宇宙通道",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_049.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -999,14 +1048,15 @@
         "miscellaneous_049_4",
         "miscellaneous_049_5"
       ],
-      "order": 49
+      "order": 49,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_049_pixel.jpg"
     },
     {
       "id": "miscellaneous_050",
-      "title": "综合素材 - 图片51",
-      "summary": "综合素材相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了惊叹与审美体验。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_050.png",
+      "title": "龙之领域",
+      "summary": "龙之领域巨龙飞翔，火山熔岩龙巢宝藏，神话场景",
+      "full_text": "龙之领域巨龙飞翔，火山熔岩龙巢宝藏，神话场景",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_050.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1019,14 +1069,15 @@
         "miscellaneous_050_4",
         "miscellaneous_050_5"
       ],
-      "order": 50
+      "order": 50,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_050_pixel.jpg"
     },
     {
       "id": "miscellaneous_051",
-      "title": "综合素材 - 图片52",
-      "summary": "综合素材相关图片",
-      "full_text": "科学不仅探索了时代精神，更传递了梦想的价值，让人感受到美好的回味。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_051.png",
+      "title": "水晶洞穴",
+      "summary": "水晶洞穴巨大晶簇，折射光芒色彩斑斓，地下奇观",
+      "full_text": "水晶洞穴巨大晶簇，折射光芒色彩斑斓，地下奇观",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_051.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1039,14 +1090,15 @@
         "miscellaneous_051_4",
         "miscellaneous_051_5"
       ],
-      "order": 51
+      "order": 51,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_051_pixel.jpg"
     },
     {
       "id": "miscellaneous_052",
-      "title": "综合素材 - 图片53",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术是历史积淀的结晶，它引领着生活的智慧，引领我们走向更加美好的明天。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_052.png",
+      "title": "极光之境",
+      "summary": "极光之境天空绚烂，绿色紫色光幕舞动，极地幻想",
+      "full_text": "极光之境天空绚烂，绿色紫色光幕舞动，极地幻想",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_052.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1059,14 +1111,15 @@
         "miscellaneous_052_4",
         "miscellaneous_052_5"
       ],
-      "order": 52
+      "order": 52,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_052_pixel.jpg"
     },
     {
       "id": "miscellaneous_053",
-      "title": "综合素材 - 图片54",
-      "summary": "综合素材相关图片",
-      "full_text": "文化是人类文明的重要组成部分，它精致地展现了创造精神的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_053.png",
+      "title": "机械花园",
+      "summary": "机械花园齿轮花朵，铜质藤条发条蝴蝶，机械自然",
+      "full_text": "机械花园齿轮花朵，铜质藤条发条蝴蝶，机械自然",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_053.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1079,14 +1132,15 @@
         "miscellaneous_053_4",
         "miscellaneous_053_5"
       ],
-      "order": 53
+      "order": 53,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_053_pixel.jpg"
     },
     {
       "id": "miscellaneous_054",
-      "title": "综合素材 - 图片55",
-      "summary": "综合素材相关图片",
-      "full_text": "在自然的领域里，艺术创造展现得淋漓尽致，每一个自然元素都诉说着无私的奉献。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_054.png",
+      "title": "音乐可视化",
+      "summary": "音乐可视化声波图形，节奏旋律变色彩，听觉转视觉",
+      "full_text": "音乐可视化声波图形，节奏旋律变色彩，听觉转视觉",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_054.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1099,14 +1153,15 @@
         "miscellaneous_054_4",
         "miscellaneous_054_5"
       ],
-      "order": 54
+      "order": 54,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_054_pixel.jpg"
     },
     {
       "id": "miscellaneous_055",
-      "title": "综合素材 - 图片56",
-      "summary": "综合素材相关图片",
-      "full_text": "科学是人类文明的重要组成部分，它壮观地展现了精神寄托的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_055.png",
+      "title": "量子花园",
+      "summary": "量子花园叠加态花朵，观测即坍缩不确定，量子幻想",
+      "full_text": "量子花园叠加态花朵，观测即坍缩不确定，量子幻想",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_055.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1119,14 +1174,15 @@
         "miscellaneous_055_4",
         "miscellaneous_055_5"
       ],
-      "order": 55
+      "order": 55,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_055_pixel.jpg"
     },
     {
       "id": "miscellaneous_056",
-      "title": "综合素材 - 图片57",
-      "summary": "综合素材相关图片",
-      "full_text": "艺术是人类文明的重要组成部分，它自然地展现了历史传承的魅力。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_056.png",
+      "title": "记忆宫殿",
+      "summary": "记忆宫殿房间无数，每间存放一段记忆，心灵建筑",
+      "full_text": "记忆宫殿房间无数，每间存放一段记忆，心灵建筑",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_056.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1139,14 +1195,15 @@
         "miscellaneous_056_4",
         "miscellaneous_056_5"
       ],
-      "order": 56
+      "order": 56,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_056_pixel.jpg"
     },
     {
       "id": "miscellaneous_057",
-      "title": "综合素材 - 图片58",
-      "summary": "综合素材相关图片",
-      "full_text": "文化不仅展现了生命意义，更传递了美的真谛，让人感受到文化的熏陶。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_057.png",
+      "title": "无限图书馆",
+      "summary": "无限图书馆书架延伸，包含一切可能之书，博尔赫斯",
+      "full_text": "无限图书馆书架延伸，包含一切可能之书，博尔赫斯",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_057.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1159,14 +1216,15 @@
         "miscellaneous_057_4",
         "miscellaneous_057_5"
       ],
-      "order": 57
+      "order": 57,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_057_pixel.jpg"
     },
     {
       "id": "miscellaneous_058",
-      "title": "综合素材 - 图片59",
-      "summary": "综合素材相关图片",
-      "full_text": "探索自然的世界，仿佛打开了一扇通往精神家园的大门，充满了感动与思想启迪。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_058.png",
+      "title": "时间沙漏",
+      "summary": "沙漏细沙缓缓流下，上半部空下半部满，时间流逝",
+      "full_text": "沙漏细沙缓缓流下，上半部空下半部满，时间流逝",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_058.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1179,14 +1237,15 @@
         "miscellaneous_058_4",
         "miscellaneous_058_5"
       ],
-      "order": 58
+      "order": 58,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_058_pixel.jpg"
     },
     {
       "id": "miscellaneous_059",
-      "title": "综合素材 - 图片60",
-      "summary": "综合素材相关图片",
-      "full_text": "探索科学的世界，仿佛打开了一扇通往艺术殿堂的大门，充满了温馨与文化浸润。",
-      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_059.png",
+      "title": "万花筒世界",
+      "summary": "万花筒碎片镜像反射，旋转变化无穷图案，缤纷视界",
+      "full_text": "万花筒碎片镜像反射，旋转变化无穷图案，缤纷视界",
+      "image": "res://assets/images/illustrations/miscellaneous/miscellaneous_059.jpg",
       "image_grid": {
         "x": 3,
         "y": 2
@@ -1199,7 +1258,8 @@
         "miscellaneous_059_4",
         "miscellaneous_059_5"
       ],
-      "order": 59
+      "order": 59,
+      "pixel_image": "res://assets/images/illustrations/miscellaneous/miscellaneous_059_pixel.jpg"
     }
   ]
 }
