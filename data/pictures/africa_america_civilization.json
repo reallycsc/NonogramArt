@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "africa_america_civilization_000",
-      "title": "古埃及金字塔建造",
-      "summary": "数万工人在吉萨高原拖拽巨石建造金字塔，尼罗河上运输石料",
-      "full_text": "数万工人在吉萨高原拖拽巨石建造金字塔，尼罗河上运输石料",
+      "title": "东非大裂谷的人类起源",
+      "summary": "在东非大裂谷的广袤草原上，早期人类从树冠走向大地，开始了直立...",
+      "full_text": "在东非大裂谷的广袤草原上，早期人类从树冠走向大地，开始了直立行走的伟大历程。距今约三百万年前，南方古猿在这片土地上迈出了人类进化的第一步，人类文明的火种从此点燃。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "africa_america_civilization_001",
-      "title": "法老王权象征",
-      "summary": "法老头戴双冠手持权杖端坐王座，荷鲁斯之眼守护王权",
-      "full_text": "法老头戴双冠手持权杖端坐王座，荷鲁斯之眼守护王权",
+      "title": "露西化石的发现",
+      "summary": "一九七四年考古学家在埃塞俄比亚阿法尔地区发掘出距今三百二十万...",
+      "full_text": "一九七四年考古学家在埃塞俄比亚阿法尔地区发掘出距今三百二十万年的南方古猿化石，命名为露西。她身高仅一米出头却已具备直立行走能力，成为人类演化史上最著名的化石标本。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "africa_america_civilization_002",
-      "title": "尼罗河泛滥耕作",
-      "summary": "埃及农民在尼罗河退水后的沃土上播种，莎草纸记录收成",
-      "full_text": "埃及农民在尼罗河退水后的沃土上播种，莎草纸记录收成",
+      "title": "旧石器时代的非洲",
+      "summary": "非洲是石器技术的发源地，奥杜瓦伊峡谷出土了最早的打制石器。能...",
+      "full_text": "非洲是石器技术的发源地，奥杜瓦伊峡谷出土了最早的打制石器。能人用石片切割猎物，直立人掌握了用火技术，非洲大陆上的人类一步步发展出更精密的工具与更复杂的社会组织。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "africa_america_civilization_003",
-      "title": "努比亚金字塔群",
-      "summary": "库施王国在麦罗埃建造陡峭金字塔，黑色花岗岩矗立沙漠之中",
-      "full_text": "库施王国在麦罗埃建造陡峭金字塔，黑色花岗岩矗立沙漠之中",
+      "title": "撒哈拉的绿色时期",
+      "summary": "六千年前的撒哈拉并非沙漠，岩画上描绘着长颈鹿与河马在湖泊边饮...",
+      "full_text": "六千年前的撒哈拉并非沙漠，岩画上描绘着长颈鹿与河马在湖泊边饮水。牧民赶着牛群在草原上放牧，渔夫在湖中撒网，气候变迁让绿色撒哈拉逐渐干涸，居民被迫向尼罗河与西非迁徙。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "africa_america_civilization_004",
-      "title": "迦太基海港",
-      "summary": "迦太基圆形军港停泊数百战船，商人在集市交易非洲象牙与黄金",
-      "full_text": "迦太基圆形军港停泊数百战船，商人在集市交易非洲象牙与黄金",
+      "title": "尼罗河畔的早期定居",
+      "summary": "尼罗河每年定期泛滥带来肥沃淤泥，两岸的先民在洪退后播种大麦与...",
+      "full_text": "尼罗河每年定期泛滥带来肥沃淤泥，两岸的先民在洪退后播种大麦与小麦。渔夫在河中撒网捕鱼，芦苇船载着陶罐顺流而下，尼罗河的恩赐催生了古埃及文明，河谷成为非洲最古老的文明摇篮。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "africa_america_civilization_005",
-      "title": "埃及木乃伊制作",
-      "summary": "祭司在防腐作坊中用泡碱处理遗体，亚麻布层层包裹法老",
-      "full_text": "祭司在防腐作坊中用泡碱处理遗体，亚麻布层层包裹法老",
+      "title": "非洲岩画的艺术",
+      "summary": "从撒哈拉的塔西利岩画到南非的德拉肯斯堡岩绘，非洲先民用赭石颜...",
+      "full_text": "从撒哈拉的塔西利岩画到南非的德拉肯斯堡岩绘，非洲先民用赭石颜料描绘狩猎与舞蹈场景。布须曼人画中奔跑的猎人与神秘的精灵形象，记录了数万年间非洲大陆的生态变迁与精神世界。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "africa_america_civilization_006",
-      "title": "埃及象形文字",
-      "summary": "书吏在神庙墙壁上刻写象形文字，鸟兽符号记录法老功绩",
-      "full_text": "书吏在神庙墙壁上刻写象形文字，鸟兽符号记录法老功绩",
+      "title": "努比亚的早期王国",
+      "summary": "尼罗河上游的努比亚人建立了克尔玛王国，控制着从南方运往埃及的...",
+      "full_text": "尼罗河上游的努比亚人建立了克尔玛王国，控制着从南方运往埃及的黄金与象牙贸易。克尔玛的泥砖神庙规模宏大，墓葬中出土精美的陶器与武器，努比亚文明是非洲最早的国家形态之一。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "africa_america_civilization_007",
-      "title": "阿克苏姆方尖碑",
-      "summary": "阿克苏姆工匠竖立花岗岩方尖碑，纪念王国海上贸易的辉煌",
-      "full_text": "阿克苏姆工匠竖立花岗岩方尖碑，纪念王国海上贸易的辉煌",
+      "title": "非洲铁器的独立起源",
+      "summary": "撒哈拉以南非洲可能独立发明了冶铁技术，诺克文化的铁匠在尼日利...",
+      "full_text": "撒哈拉以南非洲可能独立发明了冶铁技术，诺克文化的铁匠在尼日利亚高原上用土炉冶炼铁矿石。铁制锄头让热带雨林得以开垦，铁制武器增强了部落的战斗力，铁器技术深刻改变了非洲的社会面貌。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "africa_america_civilization_008",
-      "title": "撒哈拉岩画",
-      "summary": "远古牧人在撒哈拉岩壁上绘制长角牛群与狩猎场景",
-      "full_text": "远古牧人在撒哈拉岩壁上绘制长角牛群与狩猎场景",
+      "title": "班图人的大迁徙",
+      "summary": "公元前一千年起，班图人从尼日利亚高原出发，携带铁器与农业技术...",
+      "full_text": "公元前一千年起，班图人从尼日利亚高原出发，携带铁器与农业技术向东南迁徙。他们穿越赤道雨林，抵达东非大湖与南非高原，班图语系覆盖了撒哈拉以南大部分地区，这是非洲历史上最大规模的人口迁移。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "africa_america_civilization_009",
-      "title": "埃及神庙祭祀",
-      "summary": "大祭司在卡纳克神庙中向阿蒙神献祭，焚香袅袅钟鼓齐鸣",
-      "full_text": "大祭司在卡纳克神庙中向阿蒙神献祭，焚香袅袅钟鼓齐鸣",
+      "title": "诺克文化的陶塑",
+      "summary": "尼日利亚中部出土的诺克陶塑以夸张的眼孔与精细的发型著称，人像...",
+      "full_text": "尼日利亚中部出土的诺克陶塑以夸张的眼孔与精细的发型著称，人像表情庄重而神秘。诺克文化是撒哈拉以南最早掌握冶铁技术的文明，陶塑与铁器的同时出现标志着西非社会复杂化的开端。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "africa_america_civilization_010",
-      "title": "努比亚淘金",
-      "summary": "努比亚矿工在东部沙漠矿坑中淘洗金沙，黄金运往埃及进贡",
-      "full_text": "努比亚矿工在东部沙漠矿坑中淘洗金沙，黄金运往埃及进贡",
+      "title": "非洲的口头传统",
+      "summary": "在文字尚未传入的地区，格里奥说唱者世代传诵着部落的历史与英雄...",
+      "full_text": "在文字尚未传入的地区，格里奥说唱者世代传诵着部落的历史与英雄传说。他们用科拉琴伴奏吟唱帝国的兴衰，口述传统保存了非洲的历史记忆，是撒哈拉以南最重要的知识传承方式。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "africa_america_civilization_011",
-      "title": "迦太基将军汉尼拔",
-      "summary": "汉尼拔率战象翻越阿尔卑斯山，在坎尼战役包围罗马军团",
-      "full_text": "汉尼拔率战象翻越阿尔卑斯山，在坎尼战役包围罗马军团",
+      "title": "库施特王国的崛起",
+      "summary": "库施特王国在纳帕塔建立后南下征服埃及，库施特法老统治了埃及近...",
+      "full_text": "库施特王国在纳帕塔建立后南下征服埃及，库施特法老统治了埃及近百年。他们建造了比埃及更陡峭的金字塔，在麦罗埃发展出独特的文字系统，库施特是非洲第一个统治外国的本土政权。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "africa_america_civilization_012",
-      "title": "埃及纸莎草造船",
-      "summary": "工匠捆扎纸莎草杆建造轻舟，渔夫在尼罗河上撒网捕鱼",
-      "full_text": "工匠捆扎纸莎草杆建造轻舟，渔夫在尼罗河上撒网捕鱼",
+      "title": "阿克苏姆的方尖碑",
+      "summary": "埃塞俄比亚高原上的阿克苏姆王国竖立起高达二十四米的花岗岩方尖...",
+      "full_text": "埃塞俄比亚高原上的阿克苏姆王国竖立起高达二十四米的花岗岩方尖碑，作为王室墓葬的标志。阿克苏姆控制着红海贸易，铸造自己的货币，四世纪皈依基督教，是非洲最古老的基督教国家。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "africa_america_civilization_013",
-      "title": "西非早期铁器",
-      "summary": "诺克文化工匠在熔炉旁锻打铁器，赤陶人像展现精湛技艺",
-      "full_text": "诺克文化工匠在熔炉旁锻打铁器，赤陶人像展现精湛技艺",
+      "title": "西非的早期农业",
+      "summary": "尼日尔河畔的先民驯化了非洲稻与珍珠粟，在萨赫勒地带发展出适应...",
+      "full_text": "尼日尔河畔的先民驯化了非洲稻与珍珠粟，在萨赫勒地带发展出适应干旱的农业体系。妇女在田边种植秋葵与豇豆，牧民在旱季赶牛群南下觅食，西非农业为后来诸帝国的兴起奠定了基础。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "africa_america_civilization_014",
-      "title": "埃及来世信仰",
-      "summary": "亡灵书中绘制称量心脏仪式，阿努比斯以羽毛衡量灵魂善恶",
-      "full_text": "亡灵书中绘制称量心脏仪式，阿努比斯以羽毛衡量灵魂善恶",
+      "title": "非洲的鼓乐传统",
+      "summary": "非洲鼓手用双手与木棒敲击出复杂的节奏，说话鼓模仿声调传递信息...",
+      "full_text": "非洲鼓手用双手与木棒敲击出复杂的节奏，说话鼓模仿声调传递信息。鼓乐是宗教仪式的灵魂，是社区聚会的纽带，是战士出征的号角，非洲鼓乐传统影响了全球音乐，是非洲文化最鲜活的表达。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "africa_america_civilization_015",
-      "title": "迦太基贸易网络",
-      "summary": "迦太基商船沿非洲西海岸航行，用玻璃珠交换黄金与奴隶",
-      "full_text": "迦太基商船沿非洲西海岸航行，用玻璃珠交换黄金与奴隶",
+      "title": "大津巴布韦的石墙",
+      "summary": "绍纳人在南非高原上用花岗岩砌成不施灰浆的椭圆围墙，墙体精巧契...",
+      "full_text": "绍纳人在南非高原上用花岗岩砌成不施灰浆的椭圆围墙，墙体精巧契合屹立数百年。大津巴布韦控制着印度洋贸易，黄金与象牙换取中国的瓷器与波斯玻璃，石城是非洲中世纪最壮观的建筑遗产。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "africa_america_civilization_016",
-      "title": "库施王国都城",
-      "summary": "库施国王在纳帕塔统治尼罗河上游，埃及风格神庙矗立河畔",
-      "full_text": "库施国王在纳帕塔统治尼罗河上游，埃及风格神庙矗立河畔",
+      "title": "斯瓦希里海岸的城邦",
+      "summary": "从摩加迪沙到基尔瓦，斯瓦希里海岸串联起数十个贸易城邦。阿拉伯...",
+      "full_text": "从摩加迪沙到基尔瓦，斯瓦希里海岸串联起数十个贸易城邦。阿拉伯单桅帆船乘季风而来，交换黄金、象牙与奴隶，斯瓦希里语融合了班图语与阿拉伯语，海岸城邦是非洲与印度洋世界的交汇点。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "africa_america_civilization_017",
-      "title": "埃及新王国扩张",
-      "summary": "图特摩斯三世率战车部队征战叙利亚，埃及版图达到极盛",
-      "full_text": "图特摩斯三世率战车部队征战叙利亚，埃及版图达到极盛",
+      "title": "非洲的纺织传统",
+      "summary": "加纳的肯特布以鲜艳色条交织出象征性图案，马里的泥染布用发酵泥...",
+      "full_text": "加纳的肯特布以鲜艳色条交织出象征性图案，马里的泥染布用发酵泥浆绘出几何纹样。织工在窄幅织机上织出长条布幅，缝合成华贵的袍服，非洲纺织品既是日常穿着也是文化身份的标志。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "africa_america_civilization_018",
-      "title": "拉美西斯二世神庙",
-      "summary": "阿布辛贝岩窟神庙四尊巨像端坐崖壁，阳光直射圣殿深处",
-      "full_text": "阿布辛贝岩窟神庙四尊巨像端坐崖壁，阳光直射圣殿深处",
+      "title": "非洲的面具文化",
+      "summary": "约鲁巴木雕师雕刻出色彩斑斓的仪式面具，戴上面具的舞者化身为祖...",
+      "full_text": "约鲁巴木雕师雕刻出色彩斑斓的仪式面具，戴上面具的舞者化身为祖先灵魂或森林精灵。面具在成年礼、葬礼与丰收祭中扮演核心角色，非洲面具艺术影响了毕加索与西方现代主义，是非洲最具辨识度的文化符号。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "africa_america_civilization_019",
-      "title": "阿克苏姆贸易",
-      "summary": "阿克苏姆商人用象牙与香料交换罗马金币，红海商路繁忙",
-      "full_text": "阿克苏姆商人用象牙与香料交换罗马金币，红海商路繁忙",
+      "title": "马达加斯加的南岛移民",
+      "summary": "两千年前来自婆罗洲的南岛语系航海者横渡印度洋抵达马达加斯加，...",
+      "full_text": "两千年前来自婆罗洲的南岛语系航海者横渡印度洋抵达马达加斯加，带来了水稻种植与独木舟。他们与东非班图移民融合，形成了独特的马尔加什文化，马达加斯加是非洲与东南亚文明相遇的奇迹。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "africa_america_civilization_020",
-      "title": "马里帝国黄金",
-      "summary": "曼萨穆萨在开罗散发黄金，朝圣队伍中骆驼满载金砂",
-      "full_text": "曼萨穆萨在开罗散发黄金，朝圣队伍中骆驼满载金砂",
+      "title": "加纳帝国的黄金贸易",
+      "summary": "加纳帝国控制着撒哈拉以南的黄金与北方盐的贸易，国王被称为黄金...",
+      "full_text": "加纳帝国控制着撒哈拉以南的黄金与北方盐的贸易，国王被称为黄金之王。柏柏尔商队用骆驼驮盐南下换取黄金，国王对每头盐驴征税，黄金让加纳成为西非最富有的国家，声名远播阿拉伯世界。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "africa_america_civilization_021",
-      "title": "桑海帝国鼎盛",
-      "summary": "阿斯基亚大帝在加奥修建清真寺，廷巴克图学者云集讲学",
-      "full_text": "阿斯基亚大帝在加奥修建清真寺，廷巴克图学者云集讲学",
+      "title": "马里帝国的曼萨穆萨",
+      "summary": "一三二四年曼萨穆萨赴麦加朝觐，沿途散发黄金令开罗金价暴跌十年...",
+      "full_text": "一三二四年曼萨穆萨赴麦加朝觐，沿途散发黄金令开罗金价暴跌十年。廷巴克图的桑科雷大学吸引学者与商人，马里帝国疆域从大西洋延伸到尼日尔河弯，是西非最辉煌的伊斯兰帝国。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "africa_america_civilization_022",
-      "title": "大津巴布韦石城",
-      "summary": "绍纳人在花岗岩山丘上砌筑椭圆形石墙，不施灰浆严丝合缝",
-      "full_text": "绍纳人在花岗岩山丘上砌筑椭圆形石墙，不施灰浆严丝合缝",
+      "title": "桑海帝国的学术中心",
+      "summary": "桑海帝国统治下廷巴克图成为非洲的学术中心，桑科雷大学收藏数十...",
+      "full_text": "桑海帝国统治下廷巴克图成为非洲的学术中心，桑科雷大学收藏数十万册手稿。学者用阿拉伯语撰写天文学与法学著作，商人在集市上交易盐块与黄金，廷巴克图是伊斯兰世界知识与财富的重镇。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "africa_america_civilization_023",
-      "title": "廷巴克图学府",
-      "summary": "桑科尔大学学者在清真寺中研读手稿，藏书数十万卷",
-      "full_text": "桑科尔大学学者在清真寺中研读手稿，藏书数十万卷",
+      "title": "贝宁王国的青铜铸造",
+      "summary": "贝宁王国的铸造师用失蜡法铸造出精美的青铜饰板，描绘国王与贵族...",
+      "full_text": "贝宁王国的铸造师用失蜡法铸造出精美的青铜饰板，描绘国王与贵族的仪式场景。葡萄牙商人抵达后用铜块换取胡椒与象牙，贝宁青铜是非洲艺术的巅峰之作，一八九七年英军劫掠后流散世界各地。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "africa_america_civilization_024",
-      "title": "刚果王国宫廷",
-      "summary": "刚果国王身披豹皮接见葡萄牙使节，象牙与铜器陈列殿中",
-      "full_text": "刚果国王身披豹皮接见葡萄牙使节，象牙与铜器陈列殿中",
+      "title": "刚果王国的外交",
+      "summary": "刚果国王恩津加·姆本巴皈依基督教后与葡萄牙建立外交关系，派遣...",
+      "full_text": "刚果国王恩津加·姆本巴皈依基督教后与葡萄牙建立外交关系，派遣使节前往罗马。但葡萄牙奴隶贸易逐渐侵蚀王国根基，刚果在安哥拉战役后走向衰落，非洲王国与欧洲的早期接触充满了希望与悲剧。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "africa_america_civilization_025",
-      "title": "贝宁青铜铸造",
-      "summary": "贝宁工匠用失蜡法铸造精美铜饰板，浮雕记录宫廷仪式",
-      "full_text": "贝宁工匠用失蜡法铸造精美铜饰板，浮雕记录宫廷仪式",
+      "title": "阿散蒂王国的金凳",
+      "summary": "阿散蒂人相信金凳从天而降承载着全民族的灵魂，国王是金凳的守护...",
+      "full_text": "阿散蒂人相信金凳从天而降承载着全民族的灵魂，国王是金凳的守护者而非所有者。阿散蒂军队与英国殖民者爆发多次战争，王太后雅·阿散蒂瓦率军抗击英军，金凳是阿散蒂民族精神的不朽象征。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "africa_america_civilization_026",
-      "title": "埃塞俄比亚石教堂",
-      "summary": "拉利贝拉工匠从整块岩石中凿出十字形教堂，地下通道相连",
-      "full_text": "拉利贝拉工匠从整块岩石中凿出十字形教堂，地下通道相连",
+      "title": "祖鲁王国的军事改革",
+      "summary": "沙卡祖鲁改革军事制度，以公牛角阵型包围敌军，短矛与牛皮盾取代...",
+      "full_text": "沙卡祖鲁改革军事制度，以公牛角阵型包围敌军，短矛与牛皮盾取代长矛。祖鲁战士在伊桑德尔瓦纳战役中全歼英军一个营，沙卡的军事天才让祖鲁成为南非高原最强大的王国。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "africa_america_civilization_027",
-      "title": "马里帝国盐金贸易",
-      "summary": "商队穿越撒哈拉用盐块交换黄金，骆驼驮运货物穿越沙海",
-      "full_text": "商队穿越撒哈拉用盐块交换黄金，骆驼驮运货物穿越沙海",
+      "title": "埃塞俄比亚的抗争",
+      "summary": "阿杜瓦战役中孟尼利克二世率埃塞俄比亚军队大败意大利侵略者，非...",
+      "full_text": "阿杜瓦战役中孟尼利克二世率埃塞俄比亚军队大败意大利侵略者，非洲国家首次在正面战场上击败欧洲列强。埃塞俄比亚从未被殖民，海尔·塞拉西在国联发表演说抗议意大利入侵，成为非洲独立的象征。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "africa_america_civilization_028",
-      "title": "加纳帝国关税",
-      "summary": "加纳国王对每头驮盐骆驼征收金币关税，王库充盈富甲西非",
-      "full_text": "加纳国王对每头驮盐骆驼征收金币关税，王库充盈富甲西非",
+      "title": "摩洛哥的帝国传统",
+      "summary": "非斯与马拉喀什交替作为摩洛哥首都，穆拉比特与穆瓦希德王朝先后...",
+      "full_text": "非斯与马拉喀什交替作为摩洛哥首都，穆拉比特与穆瓦希德王朝先后统治北非与西班牙。苏丹在王宫中接见各国使节，工匠在麦地那中编织地毯与烧制马赛克，摩洛哥是非洲与欧洲文明交融的前沿。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "africa_america_civilization_029",
-      "title": "斯瓦希里城邦",
-      "summary": "基尔瓦商人用非洲黄金交换中国瓷器，珊瑚石建筑临海而立",
-      "full_text": "基尔瓦商人用非洲黄金交换中国瓷器，珊瑚石建筑临海而立",
+      "title": "西非的伊斯兰学术",
+      "summary": "廷巴克图与杰内的伊斯兰学院教授古兰经注学与马利基法学，学者抄...",
+      "full_text": "廷巴克图与杰内的伊斯兰学院教授古兰经注学与马利基法学，学者抄写与注释阿拉伯语手稿。图书馆收藏天文学与医学典籍，学术传统延续数百年，西非伊斯兰学术是非洲知识史的重要篇章。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "africa_america_civilization_030",
-      "title": "祖鲁王国军事",
-      "summary": "沙卡祖鲁训练青年军团使用短矛与牛皮盾，方阵战术威震南非",
-      "full_text": "沙卡祖鲁训练青年军团使用短矛与牛皮盾，方阵战术威震南非",
+      "title": "大湖地区的王国",
+      "summary": "维多利亚湖畔的布干达王国拥有精密的行政体系，卡巴卡国王通过酋...",
+      "full_text": "维多利亚湖畔的布干达王国拥有精密的行政体系，卡巴卡国王通过酋长治理各省。工匠编织精美的树皮布，渔夫在湖中捕捞罗非鱼，大湖王国是东非最复杂的前殖民政治体系。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "africa_america_civilization_031",
-      "title": "阿散蒂金凳",
-      "summary": "阿散蒂国王在仪式中端坐金凳，金匠打造精美金饰象征王权",
-      "full_text": "阿散蒂国王在仪式中端坐金凳，金匠打造精美金饰象征王权",
+      "title": "豪萨城邦的商业",
+      "summary": "卡诺与卡齐纳等豪萨城邦控制着跨撒哈拉贸易的南端，商人在集市上...",
+      "full_text": "卡诺与卡齐纳等豪萨城邦控制着跨撒哈拉贸易的南端，商人在集市上交易靛蓝与皮革。城邦之间竞争激烈但共享豪萨语与伊斯兰信仰，豪萨商人网络遍布西非，是撒哈拉以南最活跃的商业群体。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "africa_america_civilization_032",
-      "title": "摩洛哥远征桑海",
-      "summary": "摩洛哥火枪手跨越撒哈拉进攻桑海帝国，火器优势击溃骑兵",
-      "full_text": "摩洛哥火枪手跨越撒哈拉进攻桑海帝国，火器优势击溃骑兵",
+      "title": "非洲的象牙与奴隶贸易",
+      "summary": "东非的斯瓦希里商队深入内陆猎取象牙与贩运奴隶，桑给巴尔成为奴...",
+      "full_text": "东非的斯瓦希里商队深入内陆猎取象牙与贩运奴隶，桑给巴尔成为奴隶贸易的中转站。奴隶被运往阿拉伯与印度洋岛屿种植园，非洲人口流失与社会破坏持续了数百年，这是非洲历史上最黑暗的篇章。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "africa_america_civilization_033",
-      "title": "库施女王统治",
-      "summary": "坎达凯女王率军抵抗罗马入侵，努比亚女战士手持弓箭守卫疆土",
-      "full_text": "坎达凯女王率军抵抗罗马入侵，努比亚女战士手持弓箭守卫疆土",
+      "title": "恩德贝莱的迁徙",
+      "summary": "姆齐利卡齐率恩德贝莱人从祖鲁兰北迁至津巴布韦高原，建立了军事...",
+      "full_text": "姆齐利卡齐率恩德贝莱人从祖鲁兰北迁至津巴布韦高原，建立了军事化的王国。战士按年龄编团居住，国王通过征收牲畜维持统治，恩德贝莱迁徙是姆菲卡尼大动荡的一部分，重塑了南部非洲的政治版图。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "africa_america_civilization_034",
-      "title": "西非纺织工艺",
-      "summary": "曼丁哥织工在织机上编织肯特布，彩色条纹象征氏族身份",
-      "full_text": "曼丁哥织工在织机上编织肯特布，彩色条纹象征氏族身份",
+      "title": "非洲的黄金工艺",
+      "summary": "阿散蒂金匠用失蜡法铸造出精美的黄金饰物，重量与纯度以达姆砝码...",
+      "full_text": "阿散蒂金匠用失蜡法铸造出精美的黄金饰物，重量与纯度以达姆砝码精确计量。黄金是国王权力的象征，也是与欧洲商人交易的硬通货，西非黄金工艺是非洲冶金与艺术成就的杰出代表。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "africa_america_civilization_035",
-      "title": "东非象牙贸易",
-      "summary": "阿拉伯商人在桑给巴尔收购象牙与丁香，帆船满载驶向波斯湾",
-      "full_text": "阿拉伯商人在桑给巴尔收购象牙与丁香，帆船满载驶向波斯湾",
+      "title": "塞内冈比亚的城堡",
+      "summary": "葡萄牙与法国在西非海岸修建城堡作为贸易据点，戈雷岛的奴隶屋关...",
+      "full_text": "葡萄牙与法国在西非海岸修建城堡作为贸易据点，戈雷岛的奴隶屋关押着等待运往美洲的奴隶。穿过不归门的奴隶再也无法回到非洲，城堡是跨大西洋奴隶贸易的铁证，也是人类苦难的永恒纪念。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "africa_america_civilization_036",
-      "title": "马里帝国版图",
-      "summary": "曼萨穆萨统治下的马里帝国横跨西非，版图从大西洋到尼日尔河",
-      "full_text": "曼萨穆萨统治下的马里帝国横跨西非，版图从大西洋到尼日尔河",
+      "title": "非洲的伊斯兰化",
+      "summary": "阿拉伯商人穿越撒哈拉将伊斯兰教带入西非，马里与桑海国王相继皈...",
+      "full_text": "阿拉伯商人穿越撒哈拉将伊斯兰教带入西非，马里与桑海国王相继皈依。清真寺在廷巴克图与杰内拔地而起，古兰经学校教授阿拉伯语，伊斯兰教与非洲传统信仰融合，形成了独特的非洲伊斯兰文化。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "africa_america_civilization_037",
-      "title": "豪萨城邦贸易",
-      "summary": "卡诺城集市上棉花与皮革堆积如山，商贩用贝壳货币交易",
-      "full_text": "卡诺城集市上棉花与皮革堆积如山，商贩用贝壳货币交易",
+      "title": "东非的贸易网络",
+      "summary": "斯瓦希里商人用单桅帆船沿印度洋海岸航行，将非洲内陆的黄金与象...",
+      "full_text": "斯瓦希里商人用单桅帆船沿印度洋海岸航行，将非洲内陆的黄金与象牙运往波斯与印度。季风驱动着贸易循环，中国瓷器在基尔瓦出土，东非贸易网络将非洲大陆与印度洋世界紧密相连。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "africa_america_civilization_038",
-      "title": "大津巴布韦贸易",
-      "summary": "大津巴布韦商人将黄金与铜锭运往海岸，换回波斯玻璃珠",
-      "full_text": "大津巴布韦商人将黄金与铜锭运往海岸，换回波斯玻璃珠",
+      "title": "非洲的治铁传统",
+      "summary": "非洲铁匠在土炉中用木炭冶炼铁矿石，风箱鼓风提高炉温，铁水流入...",
+      "full_text": "非洲铁匠在土炉中用木炭冶炼铁矿石，风箱鼓风提高炉温，铁水流入模具成形。铁制锄头开垦了热带雨林，铁制长矛改变了战争形态，冶铁技术在非洲各地独立发展，是非洲技术创新的杰出范例。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "africa_america_civilization_039",
-      "title": "贝宁象牙雕刻",
-      "summary": "贝宁工匠在象牙上精雕葡萄牙骑士形象，盐罐与手镯远销欧洲",
-      "full_text": "贝宁工匠在象牙上精雕葡萄牙骑士形象，盐罐与手镯远销欧洲",
+      "title": "姆菲卡尼大动荡",
+      "summary": "沙卡祖鲁的军事扩张引发连锁反应，各部落被迫迁徙引发南部非洲的...",
+      "full_text": "沙卡祖鲁的军事扩张引发连锁反应，各部落被迫迁徙引发南部非洲的大规模动荡。恩德贝莱与科萨人向北与向东迁移，原有政治秩序土崩瓦解，姆菲卡尼重塑了南非的民族分布，也为殖民者入侵创造了机会。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_039.jpg",
       "image_grid": {
         "x": 3,
@@ -844,8 +844,8 @@
     {
       "id": "africa_america_civilization_040",
       "title": "奥尔梅克巨石头像",
-      "summary": "奥尔梅克人从火山岩中雕刻巨大人头像，头盔面容庄严肃穆",
-      "full_text": "奥尔梅克人从火山岩中雕刻巨大人头像，头盔面容庄严肃穆",
+      "summary": "墨西哥湾沿岸的热带雨林中，奥尔梅克人从数十公里外运来玄武岩雕...",
+      "full_text": "墨西哥湾沿岸的热带雨林中，奥尔梅克人从数十公里外运来玄武岩雕刻出高达三米的巨石头像。头像面容敦厚戴着头盔，被认为是统治者的肖像，奥尔梅克文明由此成为中美洲一切文明的母体。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "africa_america_civilization_041",
-      "title": "玛雅金字塔神庙",
-      "summary": "玛雅祭司在奇琴伊察金字塔顶端举行祭祀，阶梯投下羽蛇阴影",
-      "full_text": "玛雅祭司在奇琴伊察金字塔顶端举行祭祀，阶梯投下羽蛇阴影",
+      "title": "玛雅金字塔天文台",
+      "summary": "玛雅祭司在奇琴伊察的圆形天文台中观测金星运行，计算出五百八十...",
+      "full_text": "玛雅祭司在奇琴伊察的圆形天文台中观测金星运行，计算出五百八十四天的会合周期。历法精确到可以预测日食，二十进位制与零的概念独立发明，玛雅天文学是前哥伦布时代最精密的科学成就。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "africa_america_civilization_042",
-      "title": "玛雅天文历法",
-      "summary": "玛雅天文学家在观象台中推算金星周期，象形数字刻于石碑",
-      "full_text": "玛雅天文学家在观象台中推算金星周期，象形数字刻于石碑",
+      "title": "特奥蒂瓦坎的太阳金字塔",
+      "summary": "特奥蒂瓦坎的太阳金字塔高六十五米，矗立于亡者大道尽头。二十万...",
+      "full_text": "特奥蒂瓦坎的太阳金字塔高六十五米，矗立于亡者大道尽头。二十万居民的城市是美洲最大的前哥伦布聚落，商人在羽蛇神庙前交易黑曜石与陶器，特奥蒂瓦坎是中美洲古典时代的权力中心。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "africa_america_civilization_043",
-      "title": "阿兹特克太阳石",
-      "summary": "阿兹特克工匠雕刻太阳历石，中央太阳神舌伸如刃象征献祭",
-      "full_text": "阿兹特克工匠雕刻太阳历石，中央太阳神舌伸如刃象征献祭",
+      "title": "阿兹特克的特诺奇蒂特兰",
+      "summary": "阿兹特克人在特斯科科湖中填湖建城，堤道连接岛屿与大陆，运河穿...",
+      "full_text": "阿兹特克人在特斯科科湖中填湖建城，堤道连接岛屿与大陆，运河穿行于城区之间。大金字塔顶献祭的鲜血染红石阶，集市上可可豆充当货币，特诺奇蒂特兰是美洲最壮观的城市，人口达二十万。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "africa_america_civilization_044",
-      "title": "阿兹特克特诺奇蒂特兰",
-      "summary": "阿兹特克人在湖岛上建造水上都城，堤道与运河纵横交错",
-      "full_text": "阿兹特克人在湖岛上建造水上都城，堤道与运河纵横交错",
+      "title": "印加帝国的道路系统",
+      "summary": "印加帝国修建了总长四万公里的道路网络，从哥伦比亚延伸到智利。...",
+      "full_text": "印加帝国修建了总长四万公里的道路网络，从哥伦比亚延伸到智利。信使接力奔跑日行二百四十公里传递结绳记事，沿途驿站提供食宿，道路系统维系着从库斯科到帝国边陲的有效统治。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "africa_america_civilization_045",
-      "title": "印加帝国路网",
-      "summary": "印加信使在安第斯山脊道路上接力奔跑，传递结绳记事信息",
-      "full_text": "印加信使在安第斯山脊道路上接力奔跑，传递结绳记事信息",
+      "title": "纳斯卡地画的谜团",
+      "summary": "秘鲁纳斯卡高原的地面上刻划着巨大的蜂鸟与蜘蛛图案，线条绵延数...",
+      "full_text": "秘鲁纳斯卡高原的地面上刻划着巨大的蜂鸟与蜘蛛图案，线条绵延数公里只有从空中才能辨识全貌。这些地画是宗教仪式的产物还是天文历法的标记至今众说纷纭，纳斯卡地画是美洲最神秘的考古遗产。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "africa_america_civilization_046",
-      "title": "印加马丘比丘",
-      "summary": "印加工匠在安第斯山巅砌筑梯田与神庙，云雾缭绕石墙之间",
-      "full_text": "印加工匠在安第斯山巅砌筑梯田与神庙，云雾缭绕石墙之间",
+      "title": "莫切文化的陶艺",
+      "summary": "秘鲁北部的莫切工匠烧制出写实的肖像陶罐，人物表情各异栩栩如生...",
+      "full_text": "秘鲁北部的莫切工匠烧制出写实的肖像陶罐，人物表情各异栩栩如生。陶器上描绘着武士搏斗与祭祀仪式，西潘王墓中出土了精美的黄金面具与绿松石饰物，莫切文化是安第斯山脉最早的高级文明。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "africa_america_civilization_047",
-      "title": "玛雅球赛仪式",
-      "summary": "玛雅球员在球场中用臀部击打橡胶球，胜负关乎祭祀命运",
-      "full_text": "玛雅球员在球场中用臀部击打橡胶球，胜负关乎祭祀命运",
+      "title": "奇穆王国的昌昌城",
+      "summary": "奇穆人在秘鲁海岸用土砖建造了昌昌城，城墙上的浮雕装饰着鱼鸟与...",
+      "full_text": "奇穆人在秘鲁海岸用土砖建造了昌昌城，城墙上的浮雕装饰着鱼鸟与波浪图案。城市划分为九个宫殿区，每个区域属于一位已故国王，灌溉系统将河水引入干旱的农田，昌昌是美洲最大的土砖城市。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "africa_america_civilization_048",
-      "title": "奥尔梅克美洲豹崇拜",
-      "summary": "奥尔梅克祭司身披美洲豹皮举行仪式，婴儿面美洲豹石像守护神庙",
-      "full_text": "奥尔梅克祭司身披美洲豹皮举行仪式，婴儿面美洲豹石像守护神庙",
+      "title": "托尔特克的武士柱",
+      "summary": "图拉城的金字塔顶矗立着四米高的武士石柱，战士手持投枪器与盾牌...",
+      "full_text": "图拉城的金字塔顶矗立着四米高的武士石柱，战士手持投枪器与盾牌面朝四方。托尔特克人继承了特奥蒂瓦坎的传统，将军事崇拜与羽蛇信仰传播到尤卡坦，深刻影响了后古典时代的玛雅文明。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "africa_america_civilization_049",
-      "title": "阿兹特克献祭",
-      "summary": "阿兹特克祭司在太阳金字塔顶剖出人心献祭，鲜血沿阶梯流淌",
-      "full_text": "阿兹特克祭司在太阳金字塔顶剖出人心献祭，鲜血沿阶梯流淌",
+      "title": "阿纳萨齐的悬崖民居",
+      "summary": "美国西南部的阿纳萨齐人在峡谷悬崖上修建多层石屋，用梯子出入以...",
+      "full_text": "美国西南部的阿纳萨齐人在峡谷悬崖上修建多层石屋，用梯子出入以防敌袭。居民在台地上种植玉米与南瓜，在岩壁上绘制几何图案，干旱迫使他们在十三世纪放弃了这些壮观的聚落，留下未解之谜。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "africa_america_civilization_050",
-      "title": "印加黄金工艺",
-      "summary": "印加金匠锤制黄金面具与羊驼塑像，太阳神庙中金光璀璨",
-      "full_text": "印加金匠锤制黄金面具与羊驼塑像，太阳神庙中金光璀璨",
+      "title": "卡霍基亚的土丘",
+      "summary": "密西西比河畔的卡霍基亚人堆砌出美洲最大的土丘，僧侣丘基底面积...",
+      "full_text": "密西西比河畔的卡霍基亚人堆砌出美洲最大的土丘，僧侣丘基底面积超过吉萨金字塔。两万居民的城市在公元一一〇〇年达到鼎盛，铜器与贝壳饰品从远方运来，卡霍基亚是北美洲最复杂的前哥伦布社会。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "africa_america_civilization_051",
-      "title": "玛雅象形文字",
-      "summary": "玛雅书吏在石灰岩碑上刻写象形铭文，记录王朝历史与天文事件",
-      "full_text": "玛雅书吏在石灰岩碑上刻写象形铭文，记录王朝历史与天文事件",
+      "title": "易洛魁联盟",
+      "summary": "五大湖区的易洛魁部落组成联盟，以大和平法令维系内部和谐。联盟...",
+      "full_text": "五大湖区的易洛魁部落组成联盟，以大和平法令维系内部和谐。联盟议事会由各族母系长老推选代表，决策须达成共识，本杰明·富兰克林从中汲取灵感设计联邦制度，易洛魁联盟是北美最早的民主实践。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "africa_america_civilization_052",
-      "title": "托尔特克武士像",
-      "summary": "托尔特克工匠雕刻查克莫尔武士石像，腹托祭盘承接供品",
-      "full_text": "托尔特克工匠雕刻查克莫尔武士石像，腹托祭盘承接供品",
+      "title": "玛雅的象形文字",
+      "summary": "玛雅书吏在石碑与陶器上刻写象形文字，记录王朝历史与天文计算。...",
+      "full_text": "玛雅书吏在石碑与陶器上刻写象形文字，记录王朝历史与天文计算。八百余个字符组合表达复杂含义，祭司用红色墨水在无花果树皮纸上书写历法，玛雅文字是美洲唯一完整的书写系统。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "africa_america_civilization_053",
-      "title": "阿兹特克浮动花园",
-      "summary": "阿兹特克农民在湖面搭建奇南帕浮岛，四季蔬菜丰收不断",
-      "full_text": "阿兹特克农民在湖面搭建奇南帕浮岛，四季蔬菜丰收不断",
+      "title": "印加的结绳记事",
+      "summary": "印加会计用彩色绳结记录人口统计与税收信息，不同颜色与结距代表...",
+      "full_text": "印加会计用彩色绳结记录人口统计与税收信息，不同颜色与结距代表不同类别与数量。结绳记事是印加帝国行政管理的核心工具，在没有文字的帝国中维系着复杂的经济运转，是信息存储的独特发明。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "africa_america_civilization_054",
-      "title": "印加奇普记事",
-      "summary": "印加会计在彩色绳结奇普上记录人口与税收，结绳编码信息",
-      "full_text": "印加会计在彩色绳结奇普上记录人口与税收，结绳编码信息",
+      "title": "美洲的玉米文明",
+      "summary": "墨西哥先民将野生蜀黍驯化为玉米，经过数千年选育穗轴增大数十倍...",
+      "full_text": "墨西哥先民将野生蜀黍驯化为玉米，经过数千年选育穗轴增大数十倍。玉米从墨西哥传播到南北美洲，支撑了从玛雅到印加的各大文明，玉米是美洲文明的物质根基，也是对人类农业最伟大的贡献之一。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "africa_america_civilization_055",
-      "title": "玛雅帕伦克宫殿",
-      "summary": "帕卡尔大帝在帕伦克宫殿中接见贵族，翡翠面具陪葬陵墓",
-      "full_text": "帕卡尔大帝在帕伦克宫殿中接见贵族，翡翠面具陪葬陵墓",
+      "title": "阿兹特克的献祭文化",
+      "summary": "阿兹特克祭司在金字塔顶将战俘的心脏献给太阳神维齐洛波奇特利，...",
+      "full_text": "阿兹特克祭司在金字塔顶将战俘的心脏献给太阳神维齐洛波奇特利，鲜血沿石阶流淌。他们相信只有不断献祭才能维持太阳运转，花之战专为捕获献祭战俘而发动，献祭文化是阿兹特克信仰体系的核心。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "africa_america_civilization_056",
-      "title": "纳斯卡地画",
-      "summary": "纳斯卡人在荒漠地表刮出巨鸟与蜘蛛图案，线条绵延数公里",
-      "full_text": "纳斯卡人在荒漠地表刮出巨鸟与蜘蛛图案，线条绵延数公里",
+      "title": "印加的梯田农业",
+      "summary": "印加农民在安第斯山坡上修筑层层梯田，石墙挡土防止水土流失。不...",
+      "full_text": "印加农民在安第斯山坡上修筑层层梯田，石墙挡土防止水土流失。不同海拔种植马铃薯、玉米与藜麦，灌溉渠道将雪水引入田地，梯田农业让帝国在崎岖山地中养活了一千万人口。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "africa_america_civilization_057",
-      "title": "莫切文化陶器",
-      "summary": "莫切工匠烧制写实肖像陶壶，人物面容各异栩栩如生",
-      "full_text": "莫切工匠烧制写实肖像陶壶，人物面容各异栩栩如生",
+      "title": "玛雅的球赛仪式",
+      "summary": "玛雅人在I形球场上用臀部与膝盖击打橡胶球，球赛具有深刻的宗教...",
+      "full_text": "玛雅人在I形球场上用臀部与膝盖击打橡胶球，球赛具有深刻的宗教象征意义。失败者有时被献祭，球代表太阳，球场是冥界的入口，球赛仪式是玛雅宇宙观在现实中的演绎。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "africa_america_civilization_058",
-      "title": "蒂亚瓦纳科石门",
-      "summary": "蒂亚瓦纳科工匠在太阳门上雕刻持杖神像，安第斯高原寒风呼啸",
-      "full_text": "蒂亚瓦纳科工匠在太阳门上雕刻持杖神像，安第斯高原寒风呼啸",
+      "title": "美洲的黄金工艺",
+      "summary": "哥伦比亚的穆伊斯卡人用失蜡法铸造黄金饰物，埃尔多拉多传说中酋...",
+      "full_text": "哥伦比亚的穆伊斯卡人用失蜡法铸造黄金饰物，埃尔多拉多传说中酋长全身涂金跳入瓜塔维塔湖。秘鲁与哥伦比亚的黄金工艺精美绝伦，西班牙征服者将大量黄金饰品熔铸为锭运回欧洲，美洲黄金工艺遭受毁灭性破坏。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "africa_america_civilization_059",
-      "title": "阿兹特克市场",
-      "summary": "特诺奇蒂特兰大市场中可可豆充当货币，商贩叫卖羽毛与陶器",
-      "full_text": "特诺奇蒂特兰大市场中可可豆充当货币，商贩叫卖羽毛与陶器",
+      "title": "北美的图腾柱",
+      "summary": "西北海岸的特林吉特与海达人用红杉木雕刻出高耸的图腾柱，上面叠...",
+      "full_text": "西北海岸的特林吉特与海达人用红杉木雕刻出高耸的图腾柱，上面叠雕着雷鸟、熊与鲸鱼。图腾柱记录家族谱系与特权，在赠财宴上竖立，是北美原住民最壮观的艺术形式与身份标识。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "africa_america_civilization_060",
-      "title": "跨大西洋奴隶船",
-      "summary": "奴隶船甲板下拥挤着被锁链束缚的非洲人，中间航路横渡大西洋",
-      "full_text": "奴隶船甲板下拥挤着被锁链束缚的非洲人，中间航路横渡大西洋",
+      "title": "哥伦布抵达美洲",
+      "summary": "一四九二年哥伦布率三艘帆船在巴哈马群岛登陆，将此地命名为圣萨...",
+      "full_text": "一四九二年哥伦布率三艘帆船在巴哈马群岛登陆，将此地命名为圣萨尔瓦多。他以为到达了印度，称原住民为印第安人，欧洲与美洲的碰撞从此改变了两个大陆的命运，殖民时代拉开序幕。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "africa_america_civilization_061",
-      "title": "海地革命",
-      "summary": "杜桑卢维杜尔率海地黑奴起义军击败法军，加勒比首个黑人共和国诞...",
-      "full_text": "杜桑卢维杜尔率海地黑奴起义军击败法军，加勒比首个黑人共和国诞生",
+      "title": "科尔特斯征服阿兹特克",
+      "summary": "西班牙征服者科尔特斯率六百人进入特诺奇蒂特兰，阿兹特克皇帝蒙...",
+      "full_text": "西班牙征服者科尔特斯率六百人进入特诺奇蒂特兰，阿兹特克皇帝蒙特祖马误以为羽蛇神降临。科尔特斯利用部落矛盾与天花瘟疫摧毁了阿兹特克帝国，美洲最强大的王国在两年内土崩瓦解。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "africa_america_civilization_062",
-      "title": "南非种族隔离",
-      "summary": "曼德拉在罗本岛监狱中坚持抗争，南非黑人争取平等权利",
-      "full_text": "曼德拉在罗本岛监狱中坚持抗争，南非黑人争取平等权利",
+      "title": "皮萨罗征服印加",
+      "summary": "皮萨罗率一百六十八名西班牙人伏击印加皇帝阿塔瓦尔帕，在卡哈马...",
+      "full_text": "皮萨罗率一百六十八名西班牙人伏击印加皇帝阿塔瓦尔帕，在卡哈马卡广场上屠杀数千印加武士。皇帝被俘后以满屋黄金赎身仍遭处死，印加帝国在火枪与骑兵面前轰然倒塌。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "africa_america_civilization_063",
-      "title": "拉美独立运动",
-      "summary": "玻利瓦尔骑马率军穿越安第斯山，解放南美西班牙殖民地",
-      "full_text": "玻利瓦尔骑马率军穿越安第斯山，解放南美西班牙殖民地",
+      "title": "跨大西洋奴隶贸易",
+      "summary": "欧洲商人从西非海岸购买奴隶，用船运往美洲种植园，中间航程死亡...",
+      "full_text": "欧洲商人从西非海岸购买奴隶，用船运往美洲种植园，中间航程死亡率高达百分之十五。三角贸易将非洲奴隶、美洲蔗糖与欧洲制成品连接起来，一千二百万非洲人被贩运，这是人类历史上最大规模的强制迁徙。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "africa_america_civilization_064",
-      "title": "非洲殖民瓜分",
-      "summary": "欧洲列强在柏林会议上用直尺划分非洲边界，无视部族分布",
-      "full_text": "欧洲列强在柏林会议上用直尺划分非洲边界，无视部族分布",
+      "title": "海地独立革命",
+      "summary": "一七九一年杜桑·卢维杜尔领导海地黑奴起义，击败法国西班牙与英...",
+      "full_text": "一七九一年杜桑·卢维杜尔领导海地黑奴起义，击败法国西班牙与英国军队。一八〇四年海地宣告独立，成为世界上第一个由黑人建立的共和国，海地革命证明了被压迫者有能力争取自由与尊严。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_064.jpg",
       "image_grid": {
         "x": 3,
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "africa_america_civilization_065",
-      "title": "巴西废奴运动",
-      "summary": "巴西废奴主义者游行要求终结奴隶制，黄金法终获签署",
-      "full_text": "巴西废奴主义者游行要求终结奴隶制，黄金法终获签署",
+      "title": "拉丁美洲独立运动",
+      "summary": "玻利瓦尔从委内瑞拉出发解放了哥伦比亚、厄瓜多尔与秘鲁，圣马丁...",
+      "full_text": "玻利瓦尔从委内瑞拉出发解放了哥伦比亚、厄瓜多尔与秘鲁，圣马丁从阿根廷北上解放了智利。一八二〇年代西班牙在美洲的统治土崩瓦解，拉丁美洲各国相继独立，但殖民遗产仍深刻影响着社会结构。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_065.jpg",
       "image_grid": {
         "x": 3,
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "africa_america_civilization_066",
-      "title": "印度独立运动",
-      "summary": "甘地在食盐长征中弯腰拾盐，非暴力不合作震撼大英帝国",
-      "full_text": "甘地在食盐长征中弯腰拾盐，非暴力不合作震撼大英帝国",
+      "title": "非洲的殖民瓜分",
+      "summary": "一八八四年柏林会议上欧洲列强在地图上瓜分非洲，不考虑民族与语...",
+      "full_text": "一八八四年柏林会议上欧洲列强在地图上瓜分非洲，不考虑民族与语言边界。英国从开普到开罗，法国占据西非，比利时国王将刚果变为私人领地，殖民统治给非洲带来深重灾难，边界问题至今困扰非洲。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_066.jpg",
       "image_grid": {
         "x": 3,
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "africa_america_civilization_067",
-      "title": "阿尔及利亚独立",
-      "summary": "阿尔及利亚民族解放军在卡比利亚山区与法军作战",
-      "full_text": "阿尔及利亚民族解放军在卡比利亚山区与法军作战",
+      "title": "南非的种族隔离",
+      "summary": "一九四八年南非国民党推行种族隔离制度，将人口按种族分类限制居...",
+      "full_text": "一九四八年南非国民党推行种族隔离制度，将人口按种族分类限制居住与行动自由。曼德拉入狱二十七年从未放弃抗争，一九九四年种族隔离终结，曼德拉当选首位黑人总统，南非实现了和平转型。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_067.jpg",
       "image_grid": {
         "x": 3,
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "africa_america_civilization_068",
-      "title": "加纳独立",
-      "summary": "恩克鲁玛在阿克拉宣布加纳独立，非洲去殖民化浪潮开启",
-      "full_text": "恩克鲁玛在阿克拉宣布加纳独立，非洲去殖民化浪潮开启",
+      "title": "非洲独立浪潮",
+      "summary": "一九五〇至六〇年代非洲殖民地纷纷独立，加纳率先于一九五七年摆...",
+      "full_text": "一九五〇至六〇年代非洲殖民地纷纷独立，加纳率先于一九五七年摆脱英国统治。恩克鲁玛、尼雷尔与塞古·杜尔领导各自国家走向自主，非洲独立年一九六〇年有十七国独立，殖民体系在十年间土崩瓦解。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_068.jpg",
       "image_grid": {
         "x": 3,
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "africa_america_civilization_069",
-      "title": "巴拿马运河",
-      "summary": "工程人员在热带丛林中开凿运河，船闸提升船只穿越大陆分水岭",
-      "full_text": "工程人员在热带丛林中开凿运河，船闸提升船只穿越大陆分水岭",
+      "title": "巴拿马运河的修建",
+      "summary": "美国在巴拿马地峡开凿运河，连接大西洋与太平洋，一九一四年通航...",
+      "full_text": "美国在巴拿马地峡开凿运河，连接大西洋与太平洋，一九一四年通航。运河修建过程中数万工人死于疟疾与黄热病，巴拿马运河是全球贸易的关键水道，一九九九年主权终于归还巴拿马。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_069.jpg",
       "image_grid": {
         "x": 3,
@@ -1473,9 +1473,9 @@
     },
     {
       "id": "africa_america_civilization_070",
-      "title": "古巴革命",
-      "summary": "卡斯特罗与格瓦拉率游击队从山区进军哈瓦那，推翻巴蒂斯塔",
-      "full_text": "卡斯特罗与格瓦拉率游击队从山区进军哈瓦那，推翻巴蒂斯塔",
+      "title": "美国南北战争",
+      "summary": "一八六一年南北战争爆发，林肯颁布解放宣言宣布废除奴隶制。葛底...",
+      "full_text": "一八六一年南北战争爆发，林肯颁布解放宣言宣布废除奴隶制。葛底斯堡战役成为转折点，北军最终获胜，六十二万人阵亡，奴隶制在美国被彻底废除，但种族平等的实现仍需漫长的斗争。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_070.jpg",
       "image_grid": {
         "x": 3,
@@ -1494,9 +1494,9 @@
     },
     {
       "id": "africa_america_civilization_071",
-      "title": "刚果独立",
-      "summary": "卢蒙巴在独立典礼上控诉殖民暴行，刚果踏上自主之路",
-      "full_text": "卢蒙巴在独立典礼上控诉殖民暴行，刚果踏上自主之路",
+      "title": "古巴革命",
+      "summary": "卡斯特罗与格瓦拉率游击队从马埃斯特拉山出发，一九五九年推翻巴...",
+      "full_text": "卡斯特罗与格瓦拉率游击队从马埃斯特拉山出发，一九五九年推翻巴蒂斯塔独裁政权。古巴成为西半球第一个社会主义国家，导弹危机将世界推向核战边缘，古巴革命深刻影响了拉美左翼运动。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_071.jpg",
       "image_grid": {
         "x": 3,
@@ -1515,9 +1515,9 @@
     },
     {
       "id": "africa_america_civilization_072",
-      "title": "墨西哥革命",
-      "summary": "潘乔维拉率骑兵在北方驰骋，农民军为土地与自由而战",
-      "full_text": "潘乔维拉率骑兵在北方驰骋，农民军为土地与自由而战",
+      "title": "刚果的悲剧",
+      "summary": "比利时国王利奥波德二世将刚果自由邦变为私人领地，强制采集橡胶...",
+      "full_text": "比利时国王利奥波德二世将刚果自由邦变为私人领地，强制采集橡胶导致千万刚果人死亡。殖民暴行被曝光后国际舆论哗然，刚果成为比利时的殖民地，独立后仍深陷内战与资源争夺的泥潭。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_072.jpg",
       "image_grid": {
         "x": 3,
@@ -1536,9 +1536,9 @@
     },
     {
       "id": "africa_america_civilization_073",
-      "title": "非洲联盟成立",
-      "summary": "非洲各国领导人在亚的斯亚贝巴签署宪章，非盟取代统一组织",
-      "full_text": "非洲各国领导人在亚的斯亚贝巴签署宪章，非盟取代统一组织",
+      "title": "卢旺达大屠杀",
+      "summary": "一九九四年胡图族极端分子在一百天内屠杀了约八十万图西族人，联...",
+      "full_text": "一九九四年胡图族极端分子在一百天内屠杀了约八十万图西族人，联合国维和部队未能阻止惨剧。大屠杀是殖民者人为划分种族身份的恶果，国际社会的冷漠令人痛心，卢旺达在废墟中艰难重建。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_073.jpg",
       "image_grid": {
         "x": 3,
@@ -1557,9 +1557,9 @@
     },
     {
       "id": "africa_america_civilization_074",
-      "title": "南非民主转型",
-      "summary": "曼德拉在首次民主选举中投票，彩虹国度迎来新纪元",
-      "full_text": "曼德拉在首次民主选举中投票，彩虹国度迎来新纪元",
+      "title": "非盟的成立",
+      "summary": "二〇〇二年非洲联盟取代非洲统一组织，致力于推动非洲一体化与和...",
+      "full_text": "二〇〇二年非洲联盟取代非洲统一组织，致力于推动非洲一体化与和平安全。非盟部署维和部队干预达尔富尔与索马里冲突，推动非洲大陆自由贸易区建设，非洲国家在联合自强中探索发展道路。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_074.jpg",
       "image_grid": {
         "x": 3,
@@ -1578,9 +1578,9 @@
     },
     {
       "id": "africa_america_civilization_075",
-      "title": "拉美经济发展",
-      "summary": "圣保罗金融区摩天大楼拔地而起，巴西跻身新兴经济体行列",
-      "full_text": "圣保罗金融区摩天大楼拔地而起，巴西跻身新兴经济体行列",
+      "title": "巴西的废奴运动",
+      "summary": "巴西是美洲最后一个废除奴隶制的国家，一八八八年黄金法案终于宣...",
+      "full_text": "巴西是美洲最后一个废除奴隶制的国家，一八八八年黄金法案终于宣告奴隶制非法。四百万非洲奴隶的后代构成了巴西人口的重要组成，废奴后黑人面临严重的社会不平等，种族问题至今仍是巴西的深层挑战。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_075.jpg",
       "image_grid": {
         "x": 3,
@@ -1599,9 +1599,9 @@
     },
     {
       "id": "africa_america_civilization_076",
-      "title": "非洲数字经济",
-      "summary": "内罗毕科技园中程序员编写移动支付代码，非洲跳过PC时代",
-      "full_text": "内罗毕科技园中程序员编写移动支付代码，非洲跳过PC时代",
+      "title": "墨西哥革命",
+      "summary": "一九一〇年墨西哥革命爆发，萨帕塔与比利亚率农民军为土地与自由...",
+      "full_text": "一九一〇年墨西哥革命爆发，萨帕塔与比利亚率农民军为土地与自由而战。革命推翻了迪亚斯独裁政权，一九一七年宪法确立了土地改革与劳工权利，墨西哥革命是拉丁美洲最深刻的社会变革之一。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_076.jpg",
       "image_grid": {
         "x": 3,
@@ -1620,9 +1620,9 @@
     },
     {
       "id": "africa_america_civilization_077",
-      "title": "拉美文化复兴",
-      "summary": "墨西哥城壁画运动再现阿兹特克辉煌，本土文化重新焕发生机",
-      "full_text": "墨西哥城壁画运动再现阿兹特克辉煌，本土文化重新焕发生机",
+      "title": "非洲的反殖民抗争",
+      "summary": "肯尼亚的茅茅起义、阿尔及利亚独立战争与安哥拉武装斗争，非洲人...",
+      "full_text": "肯尼亚的茅茅起义、阿尔及利亚独立战争与安哥拉武装斗争，非洲人民以鲜血为代价挣脱殖民枷锁。法国在阿尔及利亚战争中动用酷刑与军事镇压仍无法阻止独立，反殖民抗争是二十世纪最壮烈的解放运动。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_077.jpg",
       "image_grid": {
         "x": 3,
@@ -1641,9 +1641,9 @@
     },
     {
       "id": "africa_america_civilization_078",
-      "title": "非洲野生动物保护",
-      "summary": "护林员在塞伦盖蒂草原巡逻保护犀牛，对抗盗猎守护自然遗产",
-      "full_text": "护林员在塞伦盖蒂草原巡逻保护犀牛，对抗盗猎守护自然遗产",
+      "title": "美洲原住民的抗争",
+      "summary": "从伤膝河大屠杀到站立岩抗议，美洲原住民从未停止为土地与权利而...",
+      "full_text": "从伤膝河大屠杀到站立岩抗议，美洲原住民从未停止为土地与权利而战。印第安人权利运动争取部落主权与文化复兴，保留地上的贫困与失根仍是美国社会的伤疤，原住民的尊严与正义仍在路上。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_078.jpg",
       "image_grid": {
         "x": 3,
@@ -1662,9 +1662,9 @@
     },
     {
       "id": "africa_america_civilization_079",
-      "title": "加勒比文化融合",
-      "summary": "特立尼达狂欢节上钢鼓乐队演奏，非洲与印度文化交融共舞",
-      "full_text": "特立尼达狂欢节上钢鼓乐队演奏，非洲与印度文化交融共舞",
+      "title": "非洲的文化复兴",
+      "summary": "桑戈尔倡导的黑人传统运动颂扬非洲文化的独特价值，钦努阿·阿契...",
+      "full_text": "桑戈尔倡导的黑人传统运动颂扬非洲文化的独特价值，钦努阿·阿契贝用英语书写非洲的故事。非洲文学、音乐与电影在世界舞台上崭露头角，文化复兴是非洲摆脱殖民阴影、重建自信的重要途径。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_079.jpg",
       "image_grid": {
         "x": 3,
@@ -1683,9 +1683,9 @@
     },
     {
       "id": "africa_america_civilization_080",
-      "title": "埃及艳后克娄巴特拉",
-      "summary": "克娄巴特拉乘金色画舫驶入亚历山大港，罗马与埃及的政治联姻",
-      "full_text": "克娄巴特拉乘金色画舫驶入亚历山大港，罗马与埃及的政治联姻",
+      "title": "非洲的经济崛起",
+      "summary": "二十一世纪非洲经济增速领先全球，移动支付在肯尼亚率先普及，卢...",
+      "full_text": "二十一世纪非洲经济增速领先全球，移动支付在肯尼亚率先普及，卢旺达成为非洲的科技中心。中国投资修建铁路与港口，青年人口红利释放，非洲正从贫困大陆走向充满希望的新兴经济体。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_080.jpg",
       "image_grid": {
         "x": 3,
@@ -1704,9 +1704,9 @@
     },
     {
       "id": "africa_america_civilization_081",
-      "title": "加纳帝国黄金贸易",
-      "summary": "加纳国王以黄金换取北非盐与铜器，西非黄金帝国富甲一方",
-      "full_text": "加纳国王以黄金换取北非盐与铜器，西非黄金帝国富甲一方",
+      "title": "拉美左翼浪潮",
+      "summary": "二十一世纪初拉美多国选出左翼领导人，查韦斯在委内瑞拉推行玻利...",
+      "full_text": "二十一世纪初拉美多国选出左翼领导人，查韦斯在委内瑞拉推行玻利瓦尔革命。巴西卢拉政府减少贫困人口五千万，玻利维亚莫拉莱斯赋予原住民更多权利，左翼浪潮在经济增长与社会公平间寻求平衡。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_081.jpg",
       "image_grid": {
         "x": 3,
@@ -1725,9 +1725,9 @@
     },
     {
       "id": "africa_america_civilization_082",
-      "title": "非洲岩画艺术",
-      "summary": "布须曼人在德拉肯斯堡岩壁上绘制狩猎与舞蹈场景",
-      "full_text": "布须曼人在德拉肯斯堡岩壁上绘制狩猎与舞蹈场景",
+      "title": "非洲的野生动物保护",
+      "summary": "偷猎让非洲象与犀牛数量骤降，肯尼亚与坦桑尼亚建立国家公园保护...",
+      "full_text": "偷猎让非洲象与犀牛数量骤降，肯尼亚与坦桑尼亚建立国家公园保护野生动物。反偷猎巡逻队日夜守护，社区参与保护让居民从旅游业中获益，野生动物保护是非洲可持续发展的关键课题。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_082.jpg",
       "image_grid": {
         "x": 3,
@@ -1746,9 +1746,9 @@
     },
     {
       "id": "africa_america_civilization_083",
-      "title": "印加帝国扩张",
-      "summary": "印加皇帝帕查库提率军征服安第斯诸国，太阳帝国版图达于极盛",
-      "full_text": "印加皇帝帕查库提率军征服安第斯诸国，太阳帝国版图达于极盛",
+      "title": "美洲的移民问题",
+      "summary": "中美洲移民北上穿越墨西哥抵达美国边境，寻求逃离暴力与贫困。家...",
+      "full_text": "中美洲移民北上穿越墨西哥抵达美国边境，寻求逃离暴力与贫困。家庭分离政策引发人道主义危机，移民问题成为美国政治的焦点，美洲的贫富差距与治理失败是移民潮的根本原因。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_083.jpg",
       "image_grid": {
         "x": 3,
@@ -1767,9 +1767,9 @@
     },
     {
       "id": "africa_america_civilization_084",
-      "title": "莫切金字塔",
-      "summary": "莫切人在河谷中建造太阳金字塔与月亮金字塔，土砖神庙巍然矗立",
-      "full_text": "莫切人在河谷中建造太阳金字塔与月亮金字塔，土砖神庙巍然矗立",
+      "title": "非洲的数字经济",
+      "summary": "肯尼亚的M-Pesa移动支付系统让数百万无银行账户的人享受金...",
+      "full_text": "肯尼亚的M-Pesa移动支付系统让数百万无银行账户的人享受金融服务，尼日利亚的科技创业公司吸引全球投资。非洲跳过固定电话直接进入移动时代，数字经济为非洲发展提供了新的可能。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_084.jpg",
       "image_grid": {
         "x": 3,
@@ -1788,9 +1788,9 @@
     },
     {
       "id": "africa_america_civilization_085",
-      "title": "非洲独立浪潮",
-      "summary": "十七个非洲国家在一九六零年独立，非洲年改变大陆政治版图",
-      "full_text": "十七个非洲国家在一九六零年独立，非洲年改变大陆政治版图",
+      "title": "拉美的文化输出",
+      "summary": "哥伦比亚作家马尔克斯以《百年孤独》开创魔幻现实主义，巴西桑巴...",
+      "full_text": "哥伦比亚作家马尔克斯以《百年孤独》开创魔幻现实主义，巴西桑巴与阿根廷探戈风靡全球。拉美文学爆炸与音乐电影走向世界，文化输出让拉美在全球文化版图上占据独特而重要的位置。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_085.jpg",
       "image_grid": {
         "x": 3,
@@ -1809,9 +1809,9 @@
     },
     {
       "id": "africa_america_civilization_086",
-      "title": "卢旺达重建",
-      "summary": "卢旺达人在种族屠杀后重建社区，和解法庭促进族群对话",
-      "full_text": "卢旺达人在种族屠杀后重建社区，和解法庭促进族群对话",
+      "title": "非洲的公共卫生挑战",
+      "summary": "埃博拉疫情在西非夺走上万生命，艾滋病在南部非洲造成严重的社会...",
+      "full_text": "埃博拉疫情在西非夺走上万生命，艾滋病在南部非洲造成严重的社会危机。国际援助与本地医疗体系在危机中成长，疫苗研发与社区教育逐步改善公共卫生，非洲在挑战中积累着应对经验。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_086.jpg",
       "image_grid": {
         "x": 3,
@@ -1830,9 +1830,9 @@
     },
     {
       "id": "africa_america_civilization_087",
-      "title": "拉美左翼运动",
-      "summary": "拉美民众选举左翼领袖执政，社会改革与资源国有化浪潮兴起",
-      "full_text": "拉美民众选举左翼领袖执政，社会改革与资源国有化浪潮兴起",
+      "title": "亚马逊雨林的危机",
+      "summary": "巴西亚马逊雨林以每秒一个足球场的速度被砍伐，牧场与大豆田吞噬...",
+      "full_text": "巴西亚马逊雨林以每秒一个足球场的速度被砍伐，牧场与大豆田吞噬着地球之肺。原住民守护着最后的森林，国际社会呼吁保护生物多样性，雨林保护与经济发展的矛盾是拉美最紧迫的环境议题。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_087.jpg",
       "image_grid": {
         "x": 3,
@@ -1851,9 +1851,9 @@
     },
     {
       "id": "africa_america_civilization_088",
-      "title": "非洲基础设施",
-      "summary": "中国工程师在肯尼亚修建蒙内铁路，东非交通现代化加速推进",
-      "full_text": "中国工程师在肯尼亚修建蒙内铁路，东非交通现代化加速推进",
+      "title": "非洲的青年与未来",
+      "summary": "非洲拥有世界上最年轻的人口，到二〇五〇年四分之一的人类将生活...",
+      "full_text": "非洲拥有世界上最年轻的人口，到二〇五〇年四分之一的人类将生活在非洲。教育投资与就业创造是决定未来的关键，非洲青年正用创业与创新书写属于自己的故事，大陆的未来充满挑战与希望。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_088.jpg",
       "image_grid": {
         "x": 3,
@@ -1872,9 +1872,9 @@
     },
     {
       "id": "africa_america_civilization_089",
-      "title": "美洲原住民文化复兴",
-      "summary": "印第安人在保留地复兴传统语言与仪式，原住民文化重获生机",
-      "full_text": "印第安人在保留地复兴传统语言与仪式，原住民文化重获生机",
+      "title": "美洲的民主与挑战",
+      "summary": "从智利抗议到美国国会山事件，美洲民主制度面临严峻考验。贫富差...",
+      "full_text": "从智利抗议到美国国会山事件，美洲民主制度面临严峻考验。贫富差距扩大与政治极化侵蚀社会共识，但公民社会与新闻自由仍在坚守，美洲民主在阵痛中寻求更新与重塑。",
       "image": "res://assets/images/illustrations/africa_america_civilization/africa_america_civilization_089.jpg",
       "image_grid": {
         "x": 3,

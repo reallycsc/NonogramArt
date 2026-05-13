@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "reptiles_000",
-      "title": "变色龙",
-      "summary": "变色龙双眼可独立转动舌头弹射捕虫如闪电",
-      "full_text": "变色龙双眼可独立转动舌头弹射捕虫如闪电",
+      "title": "科莫多巨蜥",
+      "summary": "科莫多巨蜥是现存最大的蜥蜴体长达三米，唾液含剧毒细菌和抗凝血...",
+      "full_text": "科莫多巨蜥是现存最大的蜥蜴体长达三米，唾液含剧毒细菌和抗凝血成分。巨蜥耐心追踪被咬猎物数日直至倒下如追踪者，印尼科莫多岛是其唯一家园如活恐龙。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "reptiles_001",
-      "title": "壁虎",
-      "summary": "壁虎脚趾微毛吸附墙壁在天花板上自由行走",
-      "full_text": "壁虎脚趾微毛吸附墙壁在天花板上自由行走",
+      "title": "湾鳄咸水王",
+      "summary": "湾鳄是现存最大的爬行动物体长可达七米，咬合力达两吨是动物界之...",
+      "full_text": "湾鳄是现存最大的爬行动物体长可达七米，咬合力达两吨是动物界之最。湾鳄从恐龙时代存活至今两亿年如活化石，咸水鳄可在海中长途游泳如航海家。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "reptiles_002",
-      "title": "科莫多龙",
-      "summary": "科莫多巨蜥是最大蜥蜴唾液含毒如史前巨兽",
-      "full_text": "科莫多巨蜥是最大蜥蜴唾液含毒如史前巨兽",
+      "title": "尼罗鳄河霸",
+      "summary": "尼罗鳄是非洲最大的爬行动物体长六米，死亡翻滚撕碎猎物如绞肉机...",
+      "full_text": "尼罗鳄是非洲最大的爬行动物体长六米，死亡翻滚撕碎猎物如绞肉机。尼罗鳄在河滩晒太阳如装甲战车，鳄鱼与牙签鸟共生如牙医与患者。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "reptiles_003",
-      "title": "鬣蜥",
-      "summary": "海鬣蜥在加拉帕戈斯海边啃食海藻如海龙",
-      "full_text": "海鬣蜥在加拉帕戈斯海边啃食海藻如海龙",
+      "title": "扬子鳄中国",
+      "summary": "扬子鳄是中国特有的鳄鱼体长两米如温驯如君子。扬子鳄在冬季挖洞...",
+      "full_text": "扬子鳄是中国特有的鳄鱼体长两米如温驯如君子。扬子鳄在冬季挖洞冬眠如穴居如隐士，扬子鳄濒临灭绝保护如国宝如珍如稀。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "reptiles_004",
-      "title": "角蜥",
-      "summary": "角蜥受威胁时从眼角喷射血液如奇特防御",
-      "full_text": "角蜥受威胁时从眼角喷射血液如奇特防御",
+      "title": "海龟迁徙",
+      "summary": "棱皮龟是最大的海龟体重达九百公斤，迁徙距离达一万六千公里如航...",
+      "full_text": "棱皮龟是最大的海龟体重达九百公斤，迁徙距离达一万六千公里如航海家。海龟出生后游回出生地产卵如归如家如乡，海龟寿命可达百年如寿如星如老。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "reptiles_005",
-      "title": "飞蜥",
-      "summary": "飞蜥肋骨展开如翼在雨林树间滑翔如飞龙",
-      "full_text": "飞蜥肋骨展开如翼在雨林树间滑翔如飞龙",
+      "title": "加拉帕戈斯象",
+      "summary": "加拉帕戈斯象龟是最大的陆龟体重达四百公斤，寿命超一百七十年如...",
+      "full_text": "加拉帕戈斯象龟是最大的陆龟体重达四百公斤，寿命超一百七十年如寿如仙。象龟在干旱季节可数月不饮水如耐如旱如驼如峰，达尔文在此获得进化论灵感如启如蒙。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "reptiles_006",
-      "title": "石龙子",
-      "summary": "石龙子如蛇般光滑在草丛中快速滑行如铜条",
-      "full_text": "石龙子如蛇般光滑在草丛中快速滑行如铜条",
+      "title": "变色龙伪装",
+      "summary": "变色龙可在二十秒内改变体色如变如脸如术，变色用于交流和调节体...",
+      "full_text": "变色龙可在二十秒内改变体色如变如脸如术，变色用于交流和调节体温而非伪装。变色龙双眼可独立转动三百六十度如雷如达如扫如描，舌头如弹如射如捕如虫如闪如电。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "reptiles_007",
-      "title": "守宫",
-      "summary": "豹纹守宫是受欢迎的宠物如迷你恐龙般可爱",
-      "full_text": "豹纹守宫是受欢迎的宠物如迷你恐龙般可爱",
+      "title": "眼镜蛇立威",
+      "summary": "眼镜蛇展开颈部皮褶如眼镜如帽如扇如威如慑，毒液可致人呼吸麻痹...",
+      "full_text": "眼镜蛇展开颈部皮褶如眼镜如帽如扇如威如慑，毒液可致人呼吸麻痹如死如亡。印度耍蛇人用眼镜蛇表演如传如统如艺如术，眼镜蛇如被如印如度如教如视如为如神。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "reptiles_008",
-      "title": "蛇蜥",
-      "summary": "蛇蜥无脚如蛇实为蜥蜴有眼睑可眨眼区别",
-      "full_text": "蛇蜥无脚如蛇实为蜥蜴有眼睑可眨眼区别",
+      "title": "蟒蛇巨蟒",
+      "summary": "网纹蟒是世界上最长的蛇体长可达十米如巨如蟒如龙。蟒蛇无毒以缠...",
+      "full_text": "网纹蟒是世界上最长的蛇体长可达十米如巨如蟒如龙。蟒蛇无毒以缠绕窒息猎物如绞如杀如勒如死，蟒蛇可吞食整只鹿如大如口如吞如天。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "reptiles_009",
-      "title": "巨蜥",
-      "summary": "水巨蜥在东南亚河流中游泳如水中蛟龙",
-      "full_text": "水巨蜥在东南亚河流中游泳如水中蛟龙",
+      "title": "响尾蛇警告",
+      "summary": "响尾蛇尾部角质环震动发出警告声如摇如铃如警如报。响尾蛇颊窝如...",
+      "full_text": "响尾蛇尾部角质环震动发出警告声如摇如铃如警如报。响尾蛇颊窝如红如外如探如测如器可在黑暗中感知猎物体温，响尾蛇毒液如破如坏如血如液如凝如固。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "reptiles_010",
-      "title": "避役",
-      "summary": "避役即变色龙两指对握如钳在树枝上如杂技演员",
-      "full_text": "避役即变色龙两指对握如钳在树枝上如杂技演员",
+      "title": "海蛇剧毒",
+      "summary": "贝尔彻海蛇是世界上最毒的蛇如剧如毒如致如命，毒液比眼镜蛇强百...",
+      "full_text": "贝尔彻海蛇是世界上最毒的蛇如剧如毒如致如命，毒液比眼镜蛇强百倍如毒如王。海蛇在海洋中生活如鱼如水如适如应，海蛇如扁如平如尾如巴如桨如舵如推如进。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "reptiles_011",
-      "title": "安乐蜥",
-      "summary": "安乐蜥在加勒比热带叶上变色如绿色宝石",
-      "full_text": "安乐蜥在加勒比热带叶上变色如绿色宝石",
+      "title": "壁虎攀墙",
+      "summary": "壁虎脚趾如数如百如万如根如纳如米如毛如细如丝如可如攀如附如任...",
+      "full_text": "壁虎脚趾如数如百如万如根如纳如米如毛如细如丝如可如攀如附如任如何如表如面。壁虎如断如尾如自如割如逃如生如再如生如奇如迹，壁虎如夜如行如捕如食如昆如虫如益如虫。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "reptiles_012",
-      "title": "蓝舌蜥",
-      "summary": "蓝舌蜥伸出蓝色舌头吓退天敌如蓝色警告",
-      "full_text": "蓝舌蜥伸出蓝色舌头吓退天敌如蓝色警告",
+      "title": "鬣蜥绿色",
+      "summary": "绿鬣蜥在中美洲雨林中如绿如色如巨如大如树如栖如蜥如蜴。绿鬣蜥...",
+      "full_text": "绿鬣蜥在中美洲雨林中如绿如色如巨如大如树如栖如蜥如蜴。绿鬣蜥如长如尾如巴如鞭如子如防如御如武如器，绿鬣蜥如善如游如泳如逃如避如天如敌如水如中如逃如跑。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "reptiles_013",
-      "title": "豹纹守宫",
-      "summary": "豹纹守宫斑点如豹纹尾巴储存脂肪如粮仓",
-      "full_text": "豹纹守宫斑点如豹纹尾巴储存脂肪如粮仓",
+      "title": "海鬣蜥食海",
+      "summary": "加拉帕戈斯海鬣蜥是唯一在海底觅食的蜥蜴如潜如水如高如手。海鬣...",
+      "full_text": "加拉帕戈斯海鬣蜥是唯一在海底觅食的蜥蜴如潜如水如高如手。海鬣蜥如吃如海如藻如排如出如多如余如盐如分如鼻如子如喷如盐，海鬣蜥如黑如色如吸如收如热如量如御如寒。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "reptiles_014",
-      "title": "绿鬣蜥",
-      "summary": "绿鬣蜥在雨林树冠上晒太阳如绿色恐龙",
-      "full_text": "绿鬣蜥在雨林树冠上晒太阳如绿色恐龙",
+      "title": "角蜥喷血",
+      "summary": "角蜥如遇如到如危如险如从如眼如睛如喷如射如血如液如吓如退如捕...",
+      "full_text": "角蜥如遇如到如危如险如从如眼如睛如喷如射如血如液如吓如退如捕如食如者。角蜥如全如身如覆如盖如尖如刺如铠如甲如防如御，角蜥如在如北如美如沙如漠如中如生如活。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "reptiles_015",
-      "title": "棘蜥",
-      "summary": "棘蜥全身棘刺如魔鬼在澳洲沙漠中吸水生存",
-      "full_text": "棘蜥全身棘刺如魔鬼在澳洲沙漠中吸水生存",
+      "title": "飞蜥滑翔",
+      "summary": "飞蜥如肋如骨如延如伸如皮如膜如滑如翔如伞如在如树如间如滑如翔...",
+      "full_text": "飞蜥如肋如骨如延如伸如皮如膜如滑如翔如伞如在如树如间如滑如翔。飞蜥如滑如翔如距如离如可如达如六如十如米如空如中如滑如翔如机，飞蜥如在如东如南如亚如雨如林。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "reptiles_016",
-      "title": "伞蜥",
-      "summary": "伞蜥颈褶如伞张开奔跑时如恐龙般威吓敌人",
-      "full_text": "伞蜥颈褶如伞张开奔跑时如恐龙般威吓敌人",
+      "title": "鳄蜥活化石",
+      "summary": "鳄蜥如被如称如为如爬如行如动如物如中如的如大如熊如猫如活如化...",
+      "full_text": "鳄蜥如被如称如为如爬如行如动如物如中如的如大如熊如猫如活如化如石。鳄蜥如在如广如西如特如有如分如布如濒如危如保如护，鳄蜥如从如恐如龙如时如代如存如活如至如今。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "reptiles_017",
-      "title": "吉拉毒蜥",
-      "summary": "吉拉毒蜥是北美唯一毒蜥如珠串花纹如宝石",
-      "full_text": "吉拉毒蜥是北美唯一毒蜥如珠串花纹如宝石",
+      "title": "巨蜥监控",
+      "summary": "尼罗河巨蜥是非洲最大的蜥蜴体长两米如巨如大如强如壮。科莫多巨...",
+      "full_text": "尼罗河巨蜥是非洲最大的蜥蜴体长两米如巨如大如强如壮。科莫多巨蜥如被如称如为如监如控如蜥如蜴如英如文如名如由如来，巨蜥如分如叉如舌如头如探如测如气如味如嗅如觉。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "reptiles_018",
-      "title": "墨西哥毒蜥",
-      "summary": "墨西哥毒蜥黑黄珠状鳞片如串珠如吉拉近亲",
-      "full_text": "墨西哥毒蜥黑黄珠状鳞片如串珠如吉拉近亲",
+      "title": "陆龟长寿",
+      "summary": "阿尔达布拉象龟寿命超二百五十岁如长如寿如冠如军。陆龟如行如动...",
+      "full_text": "阿尔达布拉象龟寿命超二百五十岁如长如寿如冠如军。陆龟如行如动如缓如慢如悠如闲如禅如定如静，陆龟如壳如可如承如受如自如身如十如倍如重如量如坚如固。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "reptiles_019",
-      "title": "瑶山鳄蜥",
-      "summary": "瑶山鳄蜥是中国珍稀物种如鳄鱼般鳞甲如活化石",
-      "full_text": "瑶山鳄蜥是中国珍稀物种如鳄鱼般鳞甲如活化石",
+      "title": "鳄龟伏击",
+      "summary": "大鳄龟是北美最大的淡水龟体重达一百公斤如巨如大。大鳄龟如嘴如...",
+      "full_text": "大鳄龟是北美最大的淡水龟体重达一百公斤如巨如大。大鳄龟如嘴如内如红如色如肉如突如诱如饵如钓如鱼如法如捕如猎，大鳄龟如咬如合如力如惊如人如可如咬如断如扫如帚。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "reptiles_020",
-      "title": "眼镜蛇",
-      "summary": "眼镜蛇展开颈部皮褶如眼镜如死亡之舞威吓",
-      "full_text": "眼镜蛇展开颈部皮褶如眼镜如死亡之舞威吓",
+      "title": "绿海龟草食",
+      "summary": "绿海龟是最大的硬壳海龟体重达三百公斤如巨如大。绿海龟如以如海...",
+      "full_text": "绿海龟是最大的硬壳海龟体重达三百公斤如巨如大。绿海龟如以如海如草如和如藻如类如为如食如唯如一如草如食如海如龟，绿海龟如产如卵如时如泪如流如满如面如排如盐。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "reptiles_021",
-      "title": "蟒蛇",
-      "summary": "缅甸蟒缠绕猎物如绞索收缩窒息是最大蛇类之一",
-      "full_text": "缅甸蟒缠绕猎物如绞索收缩窒息是最大蛇类之一",
+      "title": "玳瑁珊瑚",
+      "summary": "玳瑁如嘴如巴如鹰如喙如可如伸如入如珊如瑚如缝如隙如觅如食。玳...",
+      "full_text": "玳瑁如嘴如巴如鹰如喙如可如伸如入如珊如瑚如缝如隙如觅如食。玳瑁如食如海如绵如毒如素如积如累如体如内如壳如有如毒，玳瑁如壳如被如制如成如装如饰如品如偷如猎如灾。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "reptiles_022",
-      "title": "响尾蛇",
-      "summary": "响尾蛇尾端角质环摇动如响板警告入侵者",
-      "full_text": "响尾蛇尾端角质环摇动如响板警告入侵者",
+      "title": "棱皮龟深潜",
+      "summary": "棱皮龟可潜至一千二百米深海如深如潜如冠如军。棱皮龟如无如硬如...",
+      "full_text": "棱皮龟可潜至一千二百米深海如深如潜如冠如军。棱皮龟如无如硬如壳如皮如肤如革如质如保如温如适如应如深如海，棱皮龟如以如水如母如为如食如控如制如水如母如数如量。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "reptiles_023",
-      "title": "银环蛇",
-      "summary": "银环蛇黑白环纹如银链是亚洲最毒蛇之一",
-      "full_text": "银环蛇黑白环纹如银链是亚洲最毒蛇之一",
+      "title": "蝰蛇毒牙",
+      "summary": "蝰蛇如管如状如毒如牙如可如折如叠如收如起如如如折如刀。蝰蛇如...",
+      "full_text": "蝰蛇如管如状如毒如牙如可如折如叠如收如起如如如折如刀。蝰蛇如热如感如应如颊如窝如探如测如温如血如动如物如红如外，蝰蛇如攻如击如速如度如极如快如如如闪如电。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "reptiles_024",
-      "title": "金环蛇",
-      "summary": "金环蛇金黑环纹如金链毒性极强夜间出没",
-      "full_text": "金环蛇金黑环纹如金链毒性极强夜间出没",
+      "title": "森蚺南美",
+      "summary": "绿森蚺是世界上最重的蛇体重达二百五十公斤如巨如重。森蚺如在如...",
+      "full_text": "绿森蚺是世界上最重的蛇体重达二百五十公斤如巨如重。森蚺如在如亚如马如逊如河如中如潜如伏如等如待如如如水如中如霸如主，森蚺如眼如睛如鼻如孔如在如头如顶如潜如水。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "reptiles_025",
-      "title": "竹叶青",
-      "summary": "竹叶青翠绿如竹叶红色眼睛在竹林中如幽灵",
-      "full_text": "竹叶青翠绿如竹叶红色眼睛在竹林中如幽灵",
+      "title": "黑曼巴速蛇",
+      "summary": "黑曼巴是非洲最危险的蛇如速如度如最如快如攻如击如如如闪如电。...",
+      "full_text": "黑曼巴是非洲最危险的蛇如速如度如最如快如攻如击如如如闪如电。黑曼巴如口如腔如黑如色如名如字如由如来如威如慑，黑曼巴如毒如液如可如在如三如十如分如钟如内如致如死。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "reptiles_026",
-      "title": "蝮蛇",
-      "summary": "蝮蛇头部颊窝如红外探测器在夜间精确定位猎物",
-      "full_text": "蝮蛇头部颊窝如红外探测器在夜间精确定位猎物",
+      "title": "王蛇免疫",
+      "summary": "王蛇如对如毒如蛇如毒如液如免如疫如可如捕如食如响如尾如蛇如天...",
+      "full_text": "王蛇如对如毒如蛇如毒如液如免如疫如可如捕如食如响如尾如蛇如天如敌。王蛇如无如毒如以如缠如绕如窒如息如猎如物如绞如杀，王蛇如色如彩如鲜如艳如模如仿如毒如蛇如贝如氏。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "reptiles_027",
-      "title": "王蛇",
-      "summary": "王蛇以其他蛇类为食对毒蛇毒液免疫如蛇中之王",
-      "full_text": "王蛇以其他蛇类为食对毒蛇毒液免疫如蛇中之王",
+      "title": "蓝舌石龙子",
+      "summary": "蓝舌石龙子如吐如出如蓝如色如舌如头如吓如退如捕如食如者如威如...",
+      "full_text": "蓝舌石龙子如吐如出如蓝如色如舌如头如吓如退如捕如食如者如威如慑。蓝舌石龙子如在如澳如大如利如亚如常如见如宠如物如温如驯，蓝舌石龙子如杂如食如性如适如应如能如力。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "reptiles_028",
-      "title": "玉米蛇",
-      "summary": "玉米蛇橙红花纹如玉米粒是受欢迎的宠物蛇",
-      "full_text": "玉米蛇橙红花纹如玉米粒是受欢迎的宠物蛇",
+      "title": "伞蜥领圈",
+      "summary": "伞蜥如颈如部如皮如褶如伞如展如开如吓如退如敌如人如威如慑。伞...",
+      "full_text": "伞蜥如颈如部如皮如褶如伞如展如开如吓如退如敌如人如威如慑。伞蜥如受如惊如时如用如后如腿如奔如跑如如如双如脚如恐如龙，伞蜥如在如澳如大如利如亚如北如部如生如活。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "reptiles_029",
-      "title": "黑曼巴",
-      "summary": "黑曼巴是非洲最快最毒蛇如黑色死神如风",
-      "full_text": "黑曼巴是非洲最快最毒蛇如黑色死神如风",
+      "title": "龟壳保护",
+      "summary": "龟壳由五十块骨头融合而成如装如甲如盾如防如御如坚如固。龟壳如...",
+      "full_text": "龟壳由五十块骨头融合而成如装如甲如盾如防如御如坚如固。龟壳如肋如骨如脊如椎如融如合如进如化如奇如迹，龟如可如缩如入如壳如中如完如美如防如御如无如懈如可如击。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "reptiles_030",
-      "title": "绿树蟒",
-      "summary": "绿树蟒翠绿如翡翠盘绕在雨林枝头如宝石",
-      "full_text": "绿树蟒翠绿如翡翠盘绕在雨林枝头如宝石",
+      "title": "蜥蜴再生尾",
+      "summary": "许多蜥蜴如断如尾如自如割如逃如生如再如生如奇如迹如自如愈。蜥...",
+      "full_text": "许多蜥蜴如断如尾如自如割如逃如生如再如生如奇如迹如自如愈。蜥蜴如再如生如尾如巴如软如骨如替如代如骨如骼如不如完如美，蜥蜴如脱如皮如生如长如蜕如变如新如生。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "reptiles_031",
-      "title": "森蚺",
-      "summary": "森蚺是世界上最重蛇类在亚马逊河中如水怪",
-      "full_text": "森蚺是世界上最重蛇类在亚马逊河中如水怪",
+      "title": "蛇类蜕皮",
+      "summary": "蛇类如定如期如蜕如皮如生如长如新如生如蜕如变如重如生。蛇类如...",
+      "full_text": "蛇类如定如期如蜕如皮如生如长如新如生如蜕如变如重如生。蛇类如蜕如皮如从如头如部如开如始如如如脱如袜如子如完如整，蛇类如眼如睛如覆如盖如透如明如鳞如片如无如眼如睑。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "reptiles_032",
-      "title": "赤链蛇",
-      "summary": "赤链蛇红黑相间如铁链在农田中捕食蛙类",
-      "full_text": "赤链蛇红黑相间如铁链在农田中捕食蛙类",
+      "title": "鳄鱼母爱",
+      "summary": "鳄鱼如母如亲如将如幼如崽如含如在如嘴如中如保如护如搬如运如慈...",
+      "full_text": "鳄鱼如母如亲如将如幼如崽如含如在如嘴如中如保如护如搬如运如慈如母。鳄鱼如孵如化如性如别如由如温如度如决如定如温如度如依如赖，鳄鱼如在如恐如龙如灭如绝如中如存如活。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "reptiles_033",
-      "title": "虎斑游蛇",
-      "summary": "虎斑游蛇颈部如眼镜蛇般膨大假死防御如戏精",
-      "full_text": "虎斑游蛇颈部如眼镜蛇般膨大假死防御如戏精",
+      "title": "壁虎夜行",
+      "summary": "壁虎如夜如行如性如大如眼如睛如夜如视如能如力如强如暗如夜。壁...",
+      "full_text": "壁虎如夜如行如性如大如眼如睛如夜如视如能如力如强如暗如夜。壁虎如叫如声如响如亮如与如其如他如壁如虎如交如流如通如讯，壁虎如捕如食如蚊如虫如人如类如好如邻如居。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "reptiles_034",
-      "title": "乌梢蛇",
-      "summary": "乌梢蛇乌黑如墨在中国丘陵地带如黑色闪电",
-      "full_text": "乌梢蛇乌黑如墨在中国丘陵地带如黑色闪电",
+      "title": "石龙子光滑",
+      "summary": "石龙子如体如表如光如滑如鳞如片如闪如烁如金如属如光如泽。石龙...",
+      "full_text": "石龙子如体如表如光如滑如鳞如片如闪如烁如金如属如光如泽。石龙子如四如肢如退如化如种如类如如如蛇如蜥如过如渡，石龙子如在如全如球如温如带如热如带如广如泛如分如布。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "reptiles_035",
-      "title": "翠青蛇",
-      "summary": "翠青蛇通体翠绿如竹叶温顺无毒常被误认",
-      "full_text": "翠青蛇通体翠绿如竹叶温顺无毒常被误认",
+      "title": "避役变色",
+      "summary": "避役如色如素如细如胞如扩如张如收如缩如改如变如体如色如变。避...",
+      "full_text": "避役如色如素如细如胞如扩如张如收如缩如改如变如体如色如变。避役如左如右如眼如独如立如转如动如视如野如广如阔如三如百如六如十，避役如舌如弹如射如捕如虫如精如准如闪。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "reptiles_036",
-      "title": "滑鼠蛇",
-      "summary": "滑鼠蛇体型粗壮在东南亚农田中捕鼠如猎手",
-      "full_text": "滑鼠蛇体型粗壮在东南亚农田中捕鼠如猎手",
+      "title": "蟒蛇红外",
+      "summary": "蟒蛇如唇如鳞如红如外如感如应如器如在如黑如暗如中如感如知如猎...",
+      "full_text": "蟒蛇如唇如鳞如红如外如感如应如器如在如黑如暗如中如感如知如猎如物。蟒蛇如无如毒如以如缠如绕如力如量如窒如息如猎如物如绞，蟒蛇如可如感如知如猎如物如心如跳。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "reptiles_037",
-      "title": "舟山眼镜蛇",
-      "summary": "舟山眼镜蛇是中国最常见的眼镜蛇如眼镜状颈膨",
-      "full_text": "舟山眼镜蛇是中国最常见的眼镜蛇如眼镜状颈膨",
+      "title": "毒蜥北美",
+      "summary": "吉拉毒蜥如和如墨如西如哥如毒如蜥如是如唯如二如有如毒如蜥如蜴...",
+      "full_text": "吉拉毒蜥如和如墨如西如哥如毒如蜥如是如唯如二如有如毒如蜥如蜴。毒蜥如咬如合如力如强如不如轻如易如松如口如顽如固，毒蜥如在如沙如漠如中如生如活如行如动如缓。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "reptiles_038",
-      "title": "海蛇",
-      "summary": "海蛇在珊瑚礁间游泳如鳗鱼毒性是陆地蛇十倍",
-      "full_text": "海蛇在珊瑚礁间游泳如鳗鱼毒性是陆地蛇十倍",
+      "title": "喙头蜥活化",
+      "summary": "喙头蜥如被如称如为如活如化如石如两如亿如年如未如变如古如老。...",
+      "full_text": "喙头蜥如被如称如为如活如化如石如两如亿如年如未如变如古如老。喙头蜥如仅如在如新如西如兰如小如岛如上如生如活如稀如少，喙头蜥如第如三如只如眼如顶如眼如感如光。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "reptiles_039",
-      "title": "盲蛇",
-      "summary": "盲蛇如蚯蚓般细小在地下生活如地底隐士",
-      "full_text": "盲蛇如蚯蚓般细小在地下生活如地底隐士",
+      "title": "蛇蜥无脚",
+      "summary": "蛇蜥如无如脚如如如蛇如却如是如蜥如蜴如进如化如失如去如四如肢...",
+      "full_text": "蛇蜥如无如脚如如如蛇如却如是如蜥如蜴如进如化如失如去如四如肢。蛇蜥如可如如蜥如蜴如般如断如尾如再如生如与如蛇如不如同，蛇蜥如有如眼如睑如和如耳如孔如区如别。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "reptiles_040",
-      "title": "绿海龟",
-      "summary": "绿海龟在大洋中长途迁徙返回出生地产卵如归乡",
-      "full_text": "绿海龟在大洋中长途迁徙返回出生地产卵如归乡",
+      "title": "盲蛇地下",
+      "summary": "盲蛇如体如长如仅如十如五如厘如米如世如界如最如小如蛇如之如一...",
+      "full_text": "盲蛇如体如长如仅如十如五如厘如米如世如界如最如小如蛇如之如一。盲蛇如眼如睛如退如化如仅如感如光如地如下如生如活如盲，盲蛇如以如蚂如蚁如白如蚁如为如食如益如虫。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "reptiles_041",
-      "title": "陆龟",
-      "summary": "加拉帕戈斯象龟如移动堡垒在火山岛上缓慢行走",
-      "full_text": "加拉帕戈斯象龟如移动堡垒在火山岛上缓慢行走",
+      "title": "绿蟒雨林",
+      "summary": "绿树蟒如在如新如几如内如亚如雨如林如树如冠如层如生如活如绿。...",
+      "full_text": "绿树蟒如在如新如几如内如亚如雨如林如树如冠如层如生如活如绿。绿树蟒如幼如体如黄如色如成如体如变如绿如色如变如色如奇，绿树蟒如盘如绕如在如树如枝如上如休如息。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "reptiles_042",
-      "title": "鳄龟",
-      "summary": "鳄龟如史前怪兽张嘴诱鱼如死亡陷阱凶猛",
-      "full_text": "鳄龟如史前怪兽张嘴诱鱼如死亡陷阱凶猛",
+      "title": "红尾蟒宠物",
+      "summary": "红尾蟒如是如最如受如欢如迎如的如宠如物如蛇如之如一如温如驯。...",
+      "full_text": "红尾蟒如是如最如受如欢如迎如的如宠如物如蛇如之如一如温如驯。红尾蟒如体如长如可如达如四如米如中如美如南如美如分如布，红尾蟒如花如纹如美如丽如红如色如尾如巴。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "reptiles_043",
-      "title": "玳瑁",
-      "summary": "玳瑁龟壳如琥珀般美丽因盗猎而濒临灭绝",
-      "full_text": "玳瑁龟壳如琥珀般美丽因盗猎而濒临灭绝",
+      "title": "猪鼻龟独特",
+      "summary": "猪鼻龟如鼻如子如如如猪如鼻如独如特如外如形如奇如特如怪。猪鼻...",
+      "full_text": "猪鼻龟如鼻如子如如如猪如鼻如独如特如外如形如奇如特如怪。猪鼻龟如鳍如状如四如肢如如如海如龟如适如应如水如中，猪鼻龟如在如淡如水如中如生如活如潜如水如高如手。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "reptiles_044",
-      "title": "棱皮龟",
-      "summary": "棱皮龟是最大海龟无硬壳如皮革深潜如潜艇",
-      "full_text": "棱皮龟是最大海龟无硬壳如皮革深潜如潜艇",
+      "title": "枫叶龟伪装",
+      "summary": "枫叶龟如壳如如如枯如叶如完如美如伪如装如隐如蔽如大如师。枫叶...",
+      "full_text": "枫叶龟如壳如如如枯如叶如完如美如伪如装如隐如蔽如大如师。枫叶龟如在如东如南如亚如雨如林如底如层如生如活如隐，枫叶龟如嘴如巴如如如吸如管如捕如食如鱼如类。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "reptiles_045",
-      "title": "中华草龟",
-      "summary": "中华草龟是常见淡水龟在池塘中如黑色卵石",
-      "full_text": "中华草龟是常见淡水龟在池塘中如黑色卵石",
+      "title": "玛塔龟枯叶",
+      "summary": "玛塔龟如被如称如为如枯如叶如龟如亚如马如逊如河如底如层如伪如...",
+      "full_text": "玛塔龟如被如称如为如枯如叶如龟如亚如马如逊如河如底如层如伪如装。玛塔龟如皮如肤如凸如起如如如藻如类如完如美如隐如蔽，玛塔龟如张如嘴如吸如入如猎如物如吸如尘。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "reptiles_046",
-      "title": "巴西龟",
-      "summary": "巴西龟红耳如红宝石入侵性极强如生态杀手",
-      "full_text": "巴西龟红耳如红宝石入侵性极强如生态杀手",
+      "title": "鳄鱼泪",
+      "summary": "鳄鱼如进如食如时如流如泪如排如泄如盐如分如生如理如现如象。鳄...",
+      "full_text": "鳄鱼如进如食如时如流如泪如排如泄如盐如分如生如理如现如象。鳄鱼如泪如成如为如虚如伪如如悲如伤如的如代如名如词如寓如言，鳄鱼如在如水如中如闭如合如耳如鼻如瓣如膜。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "reptiles_047",
-      "title": "鳖",
-      "summary": "中华鳖在河底泥沙中潜伏如隐形猎手如忍者",
-      "full_text": "中华鳖在河底泥沙中潜伏如隐形猎手如忍者",
+      "title": "蜥蜴太阳能",
+      "summary": "蜥蜴如变如温如动如物如早如晨如晒如太如阳如升如温如启如动。蜥...",
+      "full_text": "蜥蜴如变如温如动如物如早如晨如晒如太如阳如升如温如启如动。蜥蜴如调如节如体如温如行如为如如如太如阳如能如板如充如电，蜥蜴如体如温如过如高如寻如找如阴如凉如散。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "reptiles_048",
-      "title": "鼋",
-      "summary": "鼋是最大淡水鳖如水中巨兽已极度濒危",
-      "full_text": "鼋是最大淡水鳖如水中巨兽已极度濒危",
+      "title": "蛇毒医药",
+      "summary": "蛇如毒如液如中如的如蛋如白如质如可如制如造如药如物如救如命。...",
+      "full_text": "蛇如毒如液如中如的如蛋如白如质如可如制如造如药如物如救如命。蛇如毒如抗如凝如血如成如分如治如疗如心如血如管如疾如病如药，蛇如毒如镇如痛如成如分如比如吗如啡如强。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "reptiles_049",
-      "title": "加拉帕戈斯象龟",
-      "summary": "加拉帕戈斯象龟如移动城堡寿命超过百年如活化石",
-      "full_text": "加拉帕戈斯象龟如移动城堡寿命超过百年如活化石",
+      "title": "蜥蜴语言",
+      "summary": "蜥蜴如通如过如头如部如点如动如展如示如喉如部如颜如色如交如流...",
+      "full_text": "蜥蜴如通如过如头如部如点如动如展如示如喉如部如颜如色如交如流。蜥蜴如领如地如展如示如如如旗如帜如展如示如威如慑如警如告，蜥蜴如求如偶如展如示如如如求如婚如仪。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "reptiles_050",
-      "title": "苏卡达陆龟",
-      "summary": "苏卡达陆龟是非洲最大陆龟如沙漠坦克如堡垒",
-      "full_text": "苏卡达陆龟是非洲最大陆龟如沙漠坦克如堡垒",
+      "title": "龟类导航",
+      "summary": "海龟如利如用地如磁如场如导如航如找如到如出如生如地如产如卵。...",
+      "full_text": "海龟如利如用地如磁如场如导如航如找如到如出如生如地如产如卵。海龟如可如感如知如地如球如磁如场如方如向如强如度如指如南，海龟如化如学如记如忆如识如别如出如生。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "reptiles_051",
-      "title": "豹纹陆龟",
-      "summary": "豹纹陆龟壳上豹纹如迷彩在非洲草原上如宝石",
-      "full_text": "豹纹陆龟壳上豹纹如迷彩在非洲草原上如宝石",
+      "title": "蛇类感应",
+      "summary": "蛇如分如叉如舌如头如收如集如气如味如分如子如传如递如雅如各如...",
+      "full_text": "蛇如分如叉如舌如头如收如集如气如味如分如子如传如递如雅如各如布。蛇如舌如头如如如化如学如探如测如器如嗅如觉如超如强，蛇如身如体如贴如地如感如知如振如动如触。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "reptiles_052",
-      "title": "辐射陆龟",
-      "summary": "辐射陆龟壳上星形放射纹如宇宙射线如艺术品",
-      "full_text": "辐射陆龟壳上星形放射纹如宇宙射线如艺术品",
+      "title": "鳄鱼伏击",
+      "summary": "鳄鱼如在如水如边如潜如伏如数如小如时如等如待如猎如物如耐如心...",
+      "full_text": "鳄鱼如在如水如边如潜如伏如数如小如时如等如待如猎如物如耐如心。鳄鱼如爆如发如速如度如惊如人如从如静如止如到如攻如击如瞬如间，鳄鱼如死如亡如翻如滚如撕如碎。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "reptiles_053",
-      "title": "大头龟",
-      "summary": "大头龟头大不能缩回壳内如倔强的战士如斗士",
-      "full_text": "大头龟头大不能缩回壳内如倔强的战士如斗士",
+      "title": "蜥蜴奔跑",
+      "summary": "双冠蜥如可如在如水如面如上如奔如跑如如如耶如稣如步如水。双冠...",
+      "full_text": "双冠蜥如可如在如水如面如上如奔如跑如如如耶如稣如步如水。双冠蜥如后如腿如长如而如有如力如快如速如踏如水如面如不如沉，双冠蜥如在如中如美如河如流如边如生如活。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "reptiles_054",
-      "title": "鹰嘴龟",
-      "summary": "鹰嘴龟嘴如鹰钩在山涧溪流中如水中猎手",
-      "full_text": "鹰嘴龟嘴如鹰钩在山涧溪流中如水中猎手",
+      "title": "蛇类繁殖",
+      "summary": "某些蛇如孤如雌如生如殖如无如需如雄如性如可如产如卵如奇。蛇如...",
+      "full_text": "某些蛇如孤如雌如生如殖如无如需如雄如性如可如产如卵如奇。蛇如卵如生如或如卵如胎如生如不如同如种如类如策如略如适如应，蛇如幼如崽如出如壳如即如独如立如无如需。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "reptiles_055",
-      "title": "尼罗鳄",
-      "summary": "尼罗鳄在河岸边潜伏如原木等待角马渡河如死神",
-      "full_text": "尼罗鳄在河岸边潜伏如原木等待角马渡河如死神",
+      "title": "蜥蜴防御",
+      "summary": "角蜥如从如眼如喷如血如吓如退如捕如食如者如极如端如防如御。角...",
+      "full_text": "角蜥如从如眼如喷如血如吓如退如捕如食如者如极如端如防如御。角蜥如全如身如尖如刺如如如铠如甲如物如理如防如御如坚如固，蜥蜴如膨如胀如身如体如显如得如更如大。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "reptiles_056",
-      "title": "扬子鳄",
-      "summary": "扬子鳄是中国特有鳄鱼如活化石在宣城湿地中",
-      "full_text": "扬子鳄是中国特有鳄鱼如活化石在宣城湿地中",
+      "title": "蛇类冬眠",
+      "summary": "蛇如在如冬如季如聚如集如在如洞如穴如中如冬如眠如群如居。蛇如...",
+      "full_text": "蛇如在如冬如季如聚如集如在如洞如穴如中如冬如眠如群如居。蛇如冬如眠如洞如可如容如纳如数如千如条如蛇如如如蛇如球，蛇如冬如眠如期如体如温如降如至如环如境。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "reptiles_057",
-      "title": "美洲鳄",
-      "summary": "美洲鳄在佛罗里达沼泽中如绿色潜艇如幽灵",
-      "full_text": "美洲鳄在佛罗里达沼泽中如绿色潜艇如幽灵",
+      "title": "龟类呼吸",
+      "summary": "龟如无如横如膈如膜如靠如四如块如腹如肌如呼如吸如独如特。海龟...",
+      "full_text": "龟如无如横如膈如膜如靠如四如块如腹如肌如呼如吸如独如特。海龟如在如水如下如可如通如过如泄如殖如腔如呼如吸如如如肛如门，龟如呼如吸如方如式如是如进如化如奇。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "reptiles_058",
-      "title": "湾鳄",
-      "summary": "湾鳄是最大爬行动物体长可达七米如水中霸王",
-      "full_text": "湾鳄是最大爬行动物体长可达七米如水中霸王",
+      "title": "蜥蜴视觉",
+      "summary": "蜥蜴如视如觉如色如彩如丰如富如可如看如到如紫如外如线如超。变...",
+      "full_text": "蜥蜴如视如觉如色如彩如丰如富如可如看如到如紫如外如线如超。变色龙如双如眼如独如立如转如动如全如景如视如野如监如控，蜥蜴如第如三如只如眼如顶如眼如感如光。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "reptiles_059",
-      "title": "恒河鳄",
-      "summary": "恒河鳄细长吻部如鱼叉专捕鱼类如水中标枪",
-      "full_text": "恒河鳄细长吻部如鱼叉专捕鱼类如水中标枪",
+      "title": "蛇类吞食",
+      "summary": "蛇如可如吞如食如比如自如己如头如部如大如数如倍如的如猎如物。...",
+      "full_text": "蛇如可如吞如食如比如自如己如头如部如大如数如倍如的如猎如物。蛇如下如颌如骨如两如半如可如独如立如移如动如如如铰如链，蛇如肋如骨如不如固如定如可如扩如张如伸。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "reptiles_060",
-      "title": "马来鳄",
-      "summary": "马来鳄在东南亚河流中如水中蛟龙如远古遗民",
-      "full_text": "马来鳄在东南亚河流中如水中蛟龙如远古遗民",
+      "title": "鳄鱼心跳",
+      "summary": "鳄鱼如潜如水如时如心如率如降如至如每如分如钟如两如次如节。鳄...",
+      "full_text": "鳄鱼如潜如水如时如心如率如降如至如每如分如钟如两如次如节。鳄鱼如可如将如血如液如集如中如供如应如大如脑如和如心如脏，鳄鱼如在如水如下如可如停如止如呼如吸。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "reptiles_061",
-      "title": "短吻鳄",
-      "summary": "美国短吻鳄在大沼泽地中如绿色装甲车如坦克",
-      "full_text": "美国短吻鳄在大沼泽地中如绿色装甲车如坦克",
+      "title": "蜥蜴再生",
+      "summary": "某些蜥蜴如可如再如生如断如尾如甚如至如部如分如脊如髓如奇。蜥...",
+      "full_text": "某些蜥蜴如可如再如生如断如尾如甚如至如部如分如脊如髓如奇。蜥蜴如再如生如能如力如为如人如类如医如学如研如究如提如供如灵如感，蜥蜴如干如细如胞如在如再如生如中。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "reptiles_062",
-      "title": "凯门鳄",
-      "summary": "凯门鳄在亚马逊河中如水中伏兵如绿色死神",
-      "full_text": "凯门鳄在亚马逊河中如水中伏兵如绿色死神",
+      "title": "蛇类滑行",
+      "summary": "蛇如无如脚如却如能如以如每如小如时如二如十如公如里如速如度如...",
+      "full_text": "蛇如无如脚如却如能如以如每如小如时如二如十如公如里如速如度如滑如行。蛇如腹如鳞如如如履如带如提如供如摩如擦如力如推如进，蛇如侧如行如运如动如在如沙如漠如中如适如应。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "reptiles_063",
-      "title": "食鱼鳄",
-      "summary": "食鱼鳄细长吻部如筷子在印度河流中专捕鱼类",
-      "full_text": "食鱼鳄细长吻部如筷子在印度河流中专捕鱼类",
+      "title": "龟类长寿",
+      "summary": "龟如是如脊如椎如动如物如中如寿如命如最如长如的如类如群如之如...",
+      "full_text": "龟如是如脊如椎如动如物如中如寿如命如最如长如的如类如群如之如一。乔如纳如森如象如龟如活如了如一如百如九如十如岁如世如界如最如老，龟如缓如慢如代如谢如低如氧如消如耗。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "reptiles_064",
-      "title": "黑鳄",
-      "summary": "黑鳄是亚马逊顶级掠食者如黑色死神如暗影",
-      "full_text": "黑鳄是亚马逊顶级掠食者如黑色死神如暗影",
+      "title": "蜥蜴适应",
+      "summary": "蜥蜴如是如爬如行如动如物如中如分如布如最如广如的如类如群如适...",
+      "full_text": "蜥蜴如是如爬如行如动如物如中如分如布如最如广如的如类如群如适如应。蜥蜴如从如沙如漠如到如雨如林如从如海如拔如零如到如五如千如米，蜥蜴如多如样如性如超如过如六如千如种。",
       "image": "res://assets/images/illustrations/reptiles/reptiles_064.jpg",
       "image_grid": {
         "x": 3,

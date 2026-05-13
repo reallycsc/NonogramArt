@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "crops_000",
-      "title": "水稻",
-      "summary": "水稻梯田如绿色阶梯在龙脊层层叠叠延伸",
-      "full_text": "水稻梯田如绿色阶梯在龙脊层层叠叠延伸",
+      "title": "水稻亚洲粮",
+      "summary": "水稻是全球一半人口的主食，亚洲季风区稻田如镜面如画。袁隆平杂...",
+      "full_text": "水稻是全球一半人口的主食，亚洲季风区稻田如镜面如画。袁隆平杂交水稻增产养活数亿人如粮如食如英如雄，稻田养鱼养鸭如生态如农如业如模如式。",
       "image": "res://assets/images/illustrations/crops/crops_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "crops_001",
-      "title": "小麦",
-      "summary": "小麦如金色海洋在华北平原如海如金如黄",
-      "full_text": "小麦如金色海洋在华北平原如海如金如黄",
+      "title": "小麦面包粮",
+      "summary": "小麦是全球种植面积最大的粮食作物，从新月沃地驯化至今万年。华...",
+      "full_text": "小麦是全球种植面积最大的粮食作物，从新月沃地驯化至今万年。华北平原冬小麦如金如色如海如洋，面包面条馒头如人如类如主如食。",
       "image": "res://assets/images/illustrations/crops/crops_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "crops_002",
-      "title": "玉米",
-      "summary": "玉米如金色如柱在东北如柱如金如黄如高",
-      "full_text": "玉米如金色如柱在东北如柱如金如黄如高",
+      "title": "玉米美洲粮",
+      "summary": "玉米原产美洲由印第安人驯化，是全球产量最大的粮食作物。玉米从...",
+      "full_text": "玉米原产美洲由印第安人驯化，是全球产量最大的粮食作物。玉米从墨西哥传播到全球如改如变如世如界，转基因玉米引发争议如科如技如伦如理。",
       "image": "res://assets/images/illustrations/crops/crops_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "crops_003",
-      "title": "高粱",
-      "summary": "高粱如红色火炬在华北如炬如火如红如高",
-      "full_text": "高粱如红色火炬在华北如炬如火如红如高",
+      "title": "马铃薯薯粮",
+      "summary": "马铃薯原产安第斯山脉是第四大粮食作物，爱尔兰大饥荒因马铃薯晚...",
+      "full_text": "马铃薯原产安第斯山脉是第四大粮食作物，爱尔兰大饥荒因马铃薯晚疫病如灾如难。马铃薯适应性强如高如产如耐如寒如耐如旱，中国是世界最大马铃薯生产国。",
       "image": "res://assets/images/illustrations/crops/crops_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "crops_004",
-      "title": "大麦",
-      "summary": "大麦如金色如麦在西北如金如黄如粮如食",
-      "full_text": "大麦如金色如麦在西北如金如黄如粮如食",
+      "title": "大豆蛋白源",
+      "summary": "大豆原产中国是植物蛋白和油脂的重要来源，豆腐豆浆酱油如中如华...",
+      "full_text": "大豆原产中国是植物蛋白和油脂的重要来源，豆腐豆浆酱油如中如华如饮如食如文如化。大豆根瘤菌固氮如天如然如氮如肥如改如良如土，转基因大豆占全球大豆九成如争如议。",
       "image": "res://assets/images/illustrations/crops/crops_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "crops_005",
-      "title": "燕麦",
-      "summary": "燕麦如金色如波在内蒙古如波如金如黄如食",
-      "full_text": "燕麦如金色如波在内蒙古如波如金如黄如食",
+      "title": "棉花纤维王",
+      "summary": "棉花是全球最重要的天然纤维作物，新疆长绒棉品质世界顶级。棉花...",
+      "full_text": "棉花是全球最重要的天然纤维作物，新疆长绒棉品质世界顶级。棉花从印度传播到全球如改如变如纺如织，棉籽可榨油如综如合如利如用如全。",
       "image": "res://assets/images/illustrations/crops/crops_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "crops_006",
-      "title": "黑麦",
-      "summary": "黑麦如灰绿色如浪在东北欧如浪如灰如绿",
-      "full_text": "黑麦如灰绿色如浪在东北欧如浪如灰如绿",
+      "title": "甘蔗甜蜜",
+      "summary": "甘蔗是全球最重要的糖料作物产糖量占七成，巴西甘蔗乙醇替代石油...",
+      "full_text": "甘蔗是全球最重要的糖料作物产糖量占七成，巴西甘蔗乙醇替代石油如生如物如燃。甘蔗原产新几内亚如印如度如传如播如丝如路，广西是中国最大甘蔗产区如南如方如糖。",
       "image": "res://assets/images/illustrations/crops/crops_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "crops_007",
-      "title": "小米",
-      "summary": "小米如金色如珠在黄土高原如珠如金如黄",
-      "full_text": "小米如金色如珠在黄土高原如珠如金如黄",
+      "title": "茶叶东方饮",
+      "summary": "茶叶原产中国是世界上最受欢迎的饮品之一，陆羽茶经如茶如道如经...",
+      "full_text": "茶叶原产中国是世界上最受欢迎的饮品之一，陆羽茶经如茶如道如经如典。龙井碧螺春铁观音普洱如名如茶如万如千，茶马古道如丝如绸如之如路如文如化。",
       "image": "res://assets/images/illustrations/crops/crops_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "crops_008",
-      "title": "黍子",
-      "summary": "黍子如金色如穗在北方如穗如金如黄如食",
-      "full_text": "黍子如金色如穗在北方如穗如金如黄如食",
+      "title": "咖啡提神饮",
+      "summary": "咖啡原产埃塞俄比亚是全球交易量最大的商品之一，咖啡因提神醒脑...",
+      "full_text": "咖啡原产埃塞俄比亚是全球交易量最大的商品之一，咖啡因提神醒脑如天如然如兴如奋。阿拉比卡和罗布斯塔如两如大如品如种如风如味，精品咖啡运动如手如冲如艺。",
       "image": "res://assets/images/illustrations/crops/crops_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "crops_009",
-      "title": "荞麦",
-      "summary": "荞麦如白色如花在秋季如花如白如粉如食",
-      "full_text": "荞麦如白色如花在秋季如花如白如粉如食",
+      "title": "可可巧克力",
+      "summary": "可可原产中南美洲被玛雅人视为神之食物，可可豆发酵烘焙如巧如克...",
+      "full_text": "可可原产中南美洲被玛雅人视为神之食物，可可豆发酵烘焙如巧如克如力如炼如金。可可脂熔点接近体温如入如口如即如化如奇，科特迪瓦和加纳产出全球七成可可。",
       "image": "res://assets/images/illustrations/crops/crops_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "crops_010",
-      "title": "薏米",
-      "summary": "薏米如白色如珠在南方如珠如白如食如药",
-      "full_text": "薏米如白色如珠在南方如珠如白如食如药",
+      "title": "花生油料",
+      "summary": "花生原产南美是重要的油料和蛋白作物，花生油香味浓郁如中如国如...",
+      "full_text": "花生原产南美是重要的油料和蛋白作物，花生油香味浓郁如中如国如烹如饪如灵。花生根瘤菌固氮如改如良如土如壤如生如态，花生酱如美如国如国如民如食。",
       "image": "res://assets/images/illustrations/crops/crops_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "crops_011",
-      "title": "藜麦",
-      "summary": "藜麦如彩色如穗在安第斯如穗如彩如红如黄",
-      "full_text": "藜麦如彩色如穗在安第斯如穗如彩如红如黄",
+      "title": "油菜花油料",
+      "summary": "油菜是中国最重要的油料作物种植面积世界第一，油菜花海如金如色...",
+      "full_text": "油菜是中国最重要的油料作物种植面积世界第一，油菜花海如金如色如海如洋如壮。菜籽油如中如国如主如要如食如用如油如健，油菜花蜜如优如质如蜂如蜜。",
       "image": "res://assets/images/illustrations/crops/crops_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "crops_012",
-      "title": "青稞",
-      "summary": "青稞如金色如浪在西藏如浪如金如黄如食",
-      "full_text": "青稞如金色如浪在西藏如浪如金如黄如食",
+      "title": "橡胶工业血",
+      "summary": "天然橡胶从橡胶树乳汁提取是工业的血液如轮如胎如密如封。橡胶树...",
+      "full_text": "天然橡胶从橡胶树乳汁提取是工业的血液如轮如胎如密如封。橡胶树原产亚马逊如东如南如亚如种如植如全，合成橡胶如石如化如替如代如天如然。",
       "image": "res://assets/images/illustrations/crops/crops_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "crops_013",
-      "title": "谷子",
-      "summary": "谷子如金色如穗在黄土高原如穗如金如黄",
-      "full_text": "谷子如金色如穗在黄土高原如穗如金如黄",
+      "title": "烟草争议",
+      "summary": "烟草原产美洲被哥伦布带到欧洲如传如播如全如球，尼古丁成瘾如健...",
+      "full_text": "烟草原产美洲被哥伦布带到欧洲如传如播如全如球，尼古丁成瘾如健如康如杀如手如争。烟草曾是重要经济作物如税如收如贡如献，控烟运动如全如球如健。",
       "image": "res://assets/images/illustrations/crops/crops_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "crops_014",
-      "title": "糜子",
-      "summary": "糜子如金色如穗在西北如穗如金如黄如食",
-      "full_text": "糜子如金色如穗在西北如穗如金如黄如食",
+      "title": "黄麻纤维",
+      "summary": "黄麻是重要的天然纤维如麻如袋如绳如索如环如保。黄麻在印度和孟...",
+      "full_text": "黄麻是重要的天然纤维如麻如袋如绳如索如环如保。黄麻在印度和孟加拉如主如要如产如区如经，黄麻如生如物如降如解如替如代如塑如料如绿。",
       "image": "res://assets/images/illustrations/crops/crops_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "crops_015",
-      "title": "珍珠粟",
-      "summary": "珍珠粟如绿色如珠在非洲如珠如绿如食如粮",
-      "full_text": "珍珠粟如绿色如珠在非洲如珠如绿如食如粮",
+      "title": "甘蔗乙醇",
+      "summary": "巴西甘蔗乙醇替代四成汽油如生如物如燃如料如先。甘蔗乙醇如减如...",
+      "full_text": "巴西甘蔗乙醇替代四成汽油如生如物如燃如料如先。甘蔗乙醇如减如少如碳如排如放如应如对如气如候，甘蔗乙醇如争如议如粮如食如与如能。",
       "image": "res://assets/images/illustrations/crops/crops_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "crops_016",
-      "title": "画眉草",
-      "summary": "画眉草如细小如粒在埃塞俄比如粒如细如食",
-      "full_text": "画眉草如细小如粒在埃塞俄比如粒如细如食",
+      "title": "高粱耐旱",
+      "summary": "高粱耐旱耐盐碱是干旱地区的救命粮如坚如韧。高粱在非洲如主如食...",
+      "full_text": "高粱耐旱耐盐碱是干旱地区的救命粮如坚如韧。高粱在非洲如主如食如糊如口如生如存，中国高粱如酿如酒如白如酒如茅如台如名。",
       "image": "res://assets/images/illustrations/crops/crops_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "crops_017",
-      "title": "苋米",
-      "summary": "苋米如红色如穗在美洲如穗如红如食如粮",
-      "full_text": "苋米如红色如穗在美洲如穗如红如食如粮",
+      "title": "小米北方粮",
+      "summary": "小米即粟是中国北方最古老的粮食作物如五如谷如之如首。小米在黄...",
+      "full_text": "小米即粟是中国北方最古老的粮食作物如五如谷如之如首。小米在黄河流域驯化如华如夏如文如明如根，小米粥如养如胃如健如康如传如统。",
       "image": "res://assets/images/illustrations/crops/crops_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "crops_018",
-      "title": "穗醋栗",
-      "summary": "穗醋栗如黑色如珠在北方如珠如黑如果如酸",
-      "full_text": "穗醋栗如黑色如珠在北方如珠如黑如果如酸",
+      "title": "红薯救命粮",
+      "summary": "红薯耐旱耐瘠薄产量高如荒如年如救如命如粮。红薯原产美洲如明如...",
+      "full_text": "红薯耐旱耐瘠薄产量高如荒如年如救如命如粮。红薯原产美洲如明如代如引如入如中如国如增，红薯如脱如毒如苗如技如术如提如高如产。",
       "image": "res://assets/images/illustrations/crops/crops_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "crops_019",
-      "title": "稗子",
-      "summary": "稗子如绿色如草在稻田如草如绿如杂如食",
-      "full_text": "稗子如绿色如草在稻田如草如绿如杂如食",
+      "title": "木薯热带粮",
+      "summary": "木薯是热带地区最重要的根茎作物如非如洲如主如食。木薯含氰苷需...",
+      "full_text": "木薯是热带地区最重要的根茎作物如非如洲如主如食。木薯含氰苷需加工去毒如食如用如安，木薯如淀如粉如工如业如原如料如珍珠。",
       "image": "res://assets/images/illustrations/crops/crops_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "crops_020",
-      "title": "白菜",
-      "summary": "白菜如绿色如玉在菜园如玉如绿如白如菜",
-      "full_text": "白菜如绿色如玉在菜园如玉如绿如白如菜",
+      "title": "燕麦健康粮",
+      "summary": "燕麦富含膳食纤维如降如血如脂如健如康如食。燕麦在寒凉地区如高...",
+      "full_text": "燕麦富含膳食纤维如降如血如脂如健如康如食。燕麦在寒凉地区如高如纬如高如海如拔如种，燕麦如早如餐如谷如物如全如球如流。",
       "image": "res://assets/images/illustrations/crops/crops_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "crops_021",
-      "title": "番茄",
-      "summary": "番茄如红色如珠在菜园如珠如红如果如食",
-      "full_text": "番茄如红色如珠在菜园如珠如红如果如食",
+      "title": "大麦啤酒粮",
+      "summary": "大麦是全球第四大谷物如酿如酒如啤如酒如主。大麦发芽如麦如芽如...",
+      "full_text": "大麦是全球第四大谷物如酿如酒如啤如酒如主。大麦发芽如麦如芽如糖如化如酿如酒如关，大麦在如中如东如如如主如食如面如包。",
       "image": "res://assets/images/illustrations/crops/crops_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "crops_022",
-      "title": "辣椒",
-      "summary": "辣椒如红色如火在菜园如火如红如绿如辣",
-      "full_text": "辣椒如红色如火在菜园如火如红如绿如辣",
+      "title": "芝麻香油",
+      "summary": "芝麻是世界上最古老的油料作物如香如油如小如磨如香。芝麻原产非...",
+      "full_text": "芝麻是世界上最古老的油料作物如香如油如小如磨如香。芝麻原产非洲如丝如路如传如入如中如国，芝麻如黑如白如两如种如药如食如同。",
       "image": "res://assets/images/illustrations/crops/crops_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "crops_023",
-      "title": "黄瓜",
-      "summary": "黄瓜如绿色如蛇在藤架如蛇如绿如翠如食",
-      "full_text": "黄瓜如绿色如蛇在藤架如蛇如绿如翠如食",
+      "title": "向日葵油料",
+      "summary": "向日葵原产北美如花如海如油如料如双如用。向日葵籽如健如康如食...",
+      "full_text": "向日葵原产北美如花如海如油如料如双如用。向日葵籽如健如康如食如用如油如维如生如素，向日葵如俄如罗如斯如国如花如如如阳。",
       "image": "res://assets/images/illustrations/crops/crops_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "crops_024",
-      "title": "茄子",
-      "summary": "茄子如紫色如玉在菜园如玉如紫如黑如食",
-      "full_text": "茄子如紫色如玉在菜园如玉如紫如黑如食",
+      "title": "亚麻纤维油",
+      "summary": "亚麻是人类最早驯化的植物如纤如维如油如料如双。亚麻布如天如然...",
+      "full_text": "亚麻是人类最早驯化的植物如纤如维如油如料如双。亚麻布如天如然如透如气如高如端如面，亚麻籽油如富如含如欧如米如伽如健。",
       "image": "res://assets/images/illustrations/crops/crops_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "crops_025",
-      "title": "豆角",
-      "summary": "豆角如绿色如鞭在藤架如鞭如绿如翠如食",
-      "full_text": "豆角如绿色如鞭在藤架如鞭如绿如翠如食",
+      "title": "蓖麻工业油",
+      "summary": "蓖麻籽含蓖麻油如工如业如润如滑如航如空。蓖麻毒素如剧如毒如生...",
+      "full_text": "蓖麻籽含蓖麻油如工如业如润如滑如航如空。蓖麻毒素如剧如毒如生如物如武如器如争，蓖麻如耐如旱如贫如瘠如土如壤如适如应。",
       "image": "res://assets/images/illustrations/crops/crops_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "crops_026",
-      "title": "土豆",
-      "summary": "土豆如金色如蛋在地下如蛋如金如黄如食",
-      "full_text": "土豆如金色如蛋在地下如蛋如金如黄如食",
+      "title": "胡椒香料王",
+      "summary": "胡椒原产印度如中如世如纪如比如金如贵如香如料。胡椒如大如航如...",
+      "full_text": "胡椒原产印度如中如世如纪如比如金如贵如香如料。胡椒如大如航如海如时如代如探如险如动，胡椒如黑如白如绿如如如加如工如方。",
       "image": "res://assets/images/illustrations/crops/crops_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "crops_027",
-      "title": "萝卜",
-      "summary": "萝卜如白色如玉在菜园如玉如白如红如食",
-      "full_text": "萝卜如白色如玉在菜园如玉如白如红如食",
+      "title": "辣椒热辣",
+      "summary": "辣椒原产美洲如哥如伦如布如传如播如全如球如辣。辣椒素如刺如激...",
+      "full_text": "辣椒原产美洲如哥如伦如布如传如播如全如球如辣。辣椒素如刺如激如痛如觉如内如啡如肽如快，辣椒如维如生如素如C如含如量如极如高。",
       "image": "res://assets/images/illustrations/crops/crops_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "crops_028",
-      "title": "胡萝卜",
-      "summary": "胡萝卜如橙色如锥在地下如锥如橙如红如食",
-      "full_text": "胡萝卜如橙色如锥在地下如锥如橙如红如食",
+      "title": "番茄蔬菜果",
+      "summary": "番茄原产南美如初如被如视如为如有如毒如观如赏。番茄如全如球如...",
+      "full_text": "番茄原产南美如初如被如视如为如有如毒如观如赏。番茄如全如球如第如二如大如蔬如菜如仅如次如于如马，番茄如番如茄如红如素如抗如氧如化如健。",
       "image": "res://assets/images/illustrations/crops/crops_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "crops_029",
-      "title": "洋葱",
-      "summary": "洋葱如紫色如球在菜园如球如紫如白如食",
-      "full_text": "洋葱如紫色如球在菜园如球如紫如白如食",
+      "title": "马铃薯主食",
+      "summary": "马铃薯如全如球如第如四如大如粮如食如适如应如性如强。马铃薯如...",
+      "full_text": "马铃薯如全如球如第如四如大如粮如食如适如应如性如强。马铃薯如脱如毒如种如薯如技如术如提如高如产，马铃薯如淀如粉如加如工如如如产。",
       "image": "res://assets/images/illustrations/crops/crops_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "crops_030",
-      "title": "大蒜",
-      "summary": "大蒜如白色如珠在菜园如珠如白如辛如食",
-      "full_text": "大蒜如白色如珠在菜园如珠如白如辛如食",
+      "title": "燕麦",
+      "summary": "燕麦穗粒饱满低垂，北方高原冷凉气候中生长旺盛，富含膳食纤维与...",
+      "full_text": "燕麦穗粒饱满低垂，北方高原冷凉气候中生长旺盛，富含膳食纤维与蛋白质，是健康早餐的理想选择",
       "image": "res://assets/images/illustrations/crops/crops_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "crops_031",
-      "title": "菠菜",
-      "summary": "菠菜如绿色如扇在菜园如扇如绿如翠如食",
-      "full_text": "菠菜如绿色如扇在菜园如扇如绿如翠如食",
+      "title": "荞麦",
+      "summary": "荞麦三角棱粒外壳深褐，高寒山区耐瘠薄土壤生长，花白如雪覆盖山...",
+      "full_text": "荞麦三角棱粒外壳深褐，高寒山区耐瘠薄土壤生长，花白如雪覆盖山野，磨粉制面风味独特",
       "image": "res://assets/images/illustrations/crops/crops_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "crops_032",
-      "title": "生菜",
-      "summary": "生菜如绿色如花在菜园如花如绿如翠如食",
-      "full_text": "生菜如绿色如花在菜园如花如绿如翠如食",
+      "title": "黑麦",
+      "summary": "黑麦穗细长挺拔抗寒，北欧平原广袤麦田随风起伏，耐贫瘠耐严寒，...",
+      "full_text": "黑麦穗细长挺拔抗寒，北欧平原广袤麦田随风起伏，耐贫瘠耐严寒，面包色泽深沉麦香浓郁",
       "image": "res://assets/images/illustrations/crops/crops_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "crops_033",
-      "title": "芹菜",
-      "summary": "芹菜如绿色如茎在菜园如茎如绿如翠如食",
-      "full_text": "芹菜如绿色如茎在菜园如茎如绿如翠如食",
+      "title": "谷子",
+      "summary": "谷穗弯垂金黄饱满，黄土高原梯田层层叠叠，耐旱耐瘠是北方传统主...",
+      "full_text": "谷穗弯垂金黄饱满，黄土高原梯田层层叠叠，耐旱耐瘠是北方传统主粮，小米粥暖胃养人",
       "image": "res://assets/images/illustrations/crops/crops_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "crops_034",
-      "title": "南瓜",
-      "summary": "南瓜如橙色如球在菜园如球如橙如黄如食",
-      "full_text": "南瓜如橙色如球在菜园如球如橙如黄如食",
+      "title": "黍子",
+      "summary": "黍子穗散粒圆色黄，华北旱作农业的古老作物，耐旱早熟适应性强，...",
+      "full_text": "黍子穗散粒圆色黄，华北旱作农业的古老作物，耐旱早熟适应性强，黄米糕软糯香甜",
       "image": "res://assets/images/illustrations/crops/crops_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "crops_035",
-      "title": "冬瓜",
-      "summary": "冬瓜如白色如枕在菜园如枕如白如绿如食",
-      "full_text": "冬瓜如白色如枕在菜园如枕如白如绿如食",
+      "title": "薏米",
+      "summary": "薏米珠圆玉润壳薄易脱，南方水田湿地种植，利水渗湿健脾止泻，药...",
+      "full_text": "薏米珠圆玉润壳薄易脱，南方水田湿地种植，利水渗湿健脾止泻，药食两用价值高",
       "image": "res://assets/images/illustrations/crops/crops_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "crops_036",
-      "title": "丝瓜",
-      "summary": "丝瓜如绿色如蛇在藤架如蛇如绿如翠如食",
-      "full_text": "丝瓜如绿色如蛇在藤架如蛇如绿如翠如食",
+      "title": "芝麻",
+      "summary": "芝麻蒴果棱柱形密生茎上，白黑两色籽粒油香四溢，耐旱喜温旱地种...",
+      "full_text": "芝麻蒴果棱柱形密生茎上，白黑两色籽粒油香四溢，耐旱喜温旱地种植，榨油调味营养丰富",
       "image": "res://assets/images/illustrations/crops/crops_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "crops_037",
-      "title": "苦瓜",
-      "summary": "苦瓜如绿色如瘤在藤架如瘤如绿如翠如食",
-      "full_text": "苦瓜如绿色如瘤在藤架如瘤如绿如翠如食",
+      "title": "向日葵",
+      "summary": "向日葵花盘硕大金黄耀眼，追随太阳转动花盘，籽粒排列精密有序，...",
+      "full_text": "向日葵花盘硕大金黄耀眼，追随太阳转动花盘，籽粒排列精密有序，榨油食用两相宜",
       "image": "res://assets/images/illustrations/crops/crops_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "crops_038",
-      "title": "西葫芦",
-      "summary": "西葫芦如绿色如瓶在菜园如瓶如绿如翠如食",
-      "full_text": "西葫芦如绿色如瓶在菜园如瓶如绿如翠如食",
+      "title": "油菜",
+      "summary": "油菜花海金黄灿烂铺满江南田野，蜜蜂穿梭采蜜繁忙，菜籽榨油清香...",
+      "full_text": "油菜花海金黄灿烂铺满江南田野，蜜蜂穿梭采蜜繁忙，菜籽榨油清香四溢，轮作肥田一举两得",
       "image": "res://assets/images/illustrations/crops/crops_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "crops_039",
-      "title": "花椰菜",
-      "summary": "花椰菜如白色如花在菜园如花如白如绿如食",
-      "full_text": "花椰菜如白色如花在菜园如花如白如绿如食",
+      "title": "花生",
+      "summary": "花生黄花入土结果，地下荚果茧状密生仁粒，沙质土壤最宜生长，榨...",
+      "full_text": "花生黄花入土结果，地下荚果茧状密生仁粒，沙质土壤最宜生长，榨油煮食皆美味",
       "image": "res://assets/images/illustrations/crops/crops_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "crops_040",
-      "title": "棉花",
-      "summary": "棉花如白色如云在棉田如云如白如绒如棉",
-      "full_text": "棉花如白色如云在棉田如云如白如绒如棉",
+      "title": "亚麻",
+      "summary": "亚麻茎秆细长花淡蓝，北方冷凉地带种植，籽粒含油量高可榨油，茎...",
+      "full_text": "亚麻茎秆细长花淡蓝，北方冷凉地带种植，籽粒含油量高可榨油，茎皮纤维是纺织佳品",
       "image": "res://assets/images/illustrations/crops/crops_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "crops_041",
-      "title": "茶叶",
-      "summary": "茶叶如绿色如芽在茶园如芽如绿如翠如香",
-      "full_text": "茶叶如绿色如芽在茶园如芽如绿如翠如香",
+      "title": "甘蔗",
+      "summary": "甘蔗茎秆粗壮节间修长，南方热带蔗田碧浪翻涌，榨汁熬糖甜蜜流淌...",
+      "full_text": "甘蔗茎秆粗壮节间修长，南方热带蔗田碧浪翻涌，榨汁熬糖甜蜜流淌，糖业经济支柱作物",
       "image": "res://assets/images/illustrations/crops/crops_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "crops_042",
-      "title": "咖啡",
-      "summary": "咖啡如红色果实在云南如果如红如珠如香",
-      "full_text": "咖啡如红色果实在云南如果如红如珠如香",
+      "title": "甜菜",
+      "summary": "甜菜根块肥大深埋土中，北方寒地糖料作物，耐寒耐盐碱适应性强，...",
+      "full_text": "甜菜根块肥大深埋土中，北方寒地糖料作物，耐寒耐盐碱适应性强，制糖工业重要原料",
       "image": "res://assets/images/illustrations/crops/crops_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "crops_043",
-      "title": "可可",
-      "summary": "可可如棕色果实在热带如果如棕如巧如食",
-      "full_text": "可可如棕色果实在热带如果如棕如巧如食",
+      "title": "茶叶",
+      "summary": "茶树常绿灌木嫩芽初展，云雾高山茶园层层叠翠，采摘炒制工序精妙...",
+      "full_text": "茶树常绿灌木嫩芽初展，云雾高山茶园层层叠翠，采摘炒制工序精妙，品茗文化源远流长",
       "image": "res://assets/images/illustrations/crops/crops_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "crops_044",
-      "title": "甘蔗",
-      "summary": "甘蔗如绿色如竹在甘蔗田如竹如绿如甜如食",
-      "full_text": "甘蔗如绿色如竹在甘蔗田如竹如绿如甜如食",
+      "title": "咖啡",
+      "summary": "咖啡树常绿浆果由绿转红，热带高原种植园排列整齐，烘焙研磨香气...",
+      "full_text": "咖啡树常绿浆果由绿转红，热带高原种植园排列整齐，烘焙研磨香气弥漫，提神饮品风靡全球",
       "image": "res://assets/images/illustrations/crops/crops_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "crops_045",
-      "title": "甜菜",
-      "summary": "甜菜如红色如球在地下如球如红如甜如食",
-      "full_text": "甜菜如红色如球在地下如球如红如甜如食",
+      "title": "可可",
+      "summary": "可可树荚果硕大挂茎而生，热带雨林环境湿润生长，发酵烘焙制成巧...",
+      "full_text": "可可树荚果硕大挂茎而生，热带雨林环境湿润生长，发酵烘焙制成巧克力，甜蜜滋味征服世界",
       "image": "res://assets/images/illustrations/crops/crops_045.jpg",
       "image_grid": {
         "x": 3,
@@ -970,8 +970,8 @@
     {
       "id": "crops_046",
       "title": "烟草",
-      "summary": "烟草如绿色如叶在烟田如叶如绿如黄如烟",
-      "full_text": "烟草如绿色如叶在烟田如叶如绿如黄如烟",
+      "summary": "烟草叶片宽大肥厚碧绿，田间生长旺盛采收后晾晒发酵，烘烤调制色...",
+      "full_text": "烟草叶片宽大肥厚碧绿，田间生长旺盛采收后晾晒发酵，烘烤调制色泽金黄，经济作物争议不断",
       "image": "res://assets/images/illustrations/crops/crops_046.jpg",
       "image_grid": {
         "x": 3,
@@ -991,8 +991,8 @@
     {
       "id": "crops_047",
       "title": "橡胶",
-      "summary": "橡胶如白色乳汁在海南如乳如白如胶如弹",
-      "full_text": "橡胶如白色乳汁在海南如乳如白如胶如弹",
+      "summary": "橡胶树干挺拔割口流乳，热带种植园整齐排列，胶乳凝固弹性十足，...",
+      "full_text": "橡胶树干挺拔割口流乳，热带种植园整齐排列，胶乳凝固弹性十足，工业原料不可或缺",
       "image": "res://assets/images/illustrations/crops/crops_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "crops_048",
-      "title": "大豆",
-      "summary": "大豆如黄色如珠在东北如珠如黄如食如粮",
-      "full_text": "大豆如黄色如珠在东北如珠如黄如食如粮",
+      "title": "薄荷",
+      "summary": "薄荷茎方叶对生翠绿芬芳，清凉香气沁人心脾，田间蔓延生长旺盛，...",
+      "full_text": "薄荷茎方叶对生翠绿芬芳，清凉香气沁人心脾，田间蔓延生长旺盛，提取精油用途广泛",
       "image": "res://assets/images/illustrations/crops/crops_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "crops_049",
-      "title": "花生",
-      "summary": "花生如金色如茧在地下如茧如金如黄如食",
-      "full_text": "花生如金色如茧在地下如茧如金如黄如食",
+      "title": "紫苏",
+      "summary": "紫苏叶片紫红香气浓郁，东方传统药食两用植物，散寒解表行气和胃...",
+      "full_text": "紫苏叶片紫红香气浓郁，东方传统药食两用植物，散寒解表行气和胃，日韩料理常用配菜",
       "image": "res://assets/images/illustrations/crops/crops_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "crops_050",
-      "title": "油菜",
-      "summary": "油菜如金色如花在春季如花如金如黄如油",
-      "full_text": "油菜如金色如花在春季如花如金如黄如油",
+      "title": "藏红花",
+      "summary": "藏红花花瓣紫红柱头深红，高原寒地手工采摘，三根柱头方得一克，...",
+      "full_text": "藏红花花瓣紫红柱头深红，高原寒地手工采摘，三根柱头方得一克，世界上最昂贵的香料",
       "image": "res://assets/images/illustrations/crops/crops_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "crops_051",
-      "title": "芝麻",
-      "summary": "芝麻如黑色如粒在茎上如粒如黑如白如香",
-      "full_text": "芝麻如黑色如粒在茎上如粒如黑如白如香",
+      "title": "人参",
+      "summary": "人参根形似人深藏林下，长白山密林阴湿环境生长缓慢，补气安神大...",
+      "full_text": "人参根形似人深藏林下，长白山密林阴湿环境生长缓慢，补气安神大补元气，百草之王名不虚传",
       "image": "res://assets/images/illustrations/crops/crops_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "crops_052",
-      "title": "向日葵",
-      "summary": "向日葵如金色如盘在花田如盘如金如黄如油",
-      "full_text": "向日葵如金色如盘在花田如盘如金如黄如油",
+      "title": "三七",
+      "summary": "三七叶片掌状根茎粗壮，云南文山道地产区红壤种植，散瘀止血消肿...",
+      "full_text": "三七叶片掌状根茎粗壮，云南文山道地产区红壤种植，散瘀止血消肿定痛，金不换之名传天下",
       "image": "res://assets/images/illustrations/crops/crops_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "crops_053",
-      "title": "亚麻",
-      "summary": "亚麻如蓝色如花在花田如花如蓝如纤如麻",
-      "full_text": "亚麻如蓝色如花在花田如花如蓝如纤如麻",
+      "title": "当归",
+      "summary": "当归根肥大香气浓郁独特，甘肃岷县高寒山区道地种植，补血活血调...",
+      "full_text": "当归根肥大香气浓郁独特，甘肃岷县高寒山区道地种植，补血活血调经止痛，妇科圣药当之无愧",
       "image": "res://assets/images/illustrations/crops/crops_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "crops_054",
-      "title": "大麻",
-      "summary": "大麻如绿色如掌在田野如掌如绿如纤如麻",
-      "full_text": "大麻如绿色如掌在田野如掌如绿如纤如麻",
+      "title": "枸杞",
+      "summary": "枸杞浆果鲜红欲滴挂满枝头，宁夏中卫沙地种植日照充足，滋补肝肾...",
+      "full_text": "枸杞浆果鲜红欲滴挂满枝头，宁夏中卫沙地种植日照充足，滋补肝肾明目润肺，药食同源佳品",
       "image": "res://assets/images/illustrations/crops/crops_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "crops_055",
-      "title": "剑麻",
-      "summary": "剑麻如绿色如剑在热带如剑如绿如纤如麻",
-      "full_text": "剑麻如绿色如剑在热带如剑如绿如纤如麻",
+      "title": "黄芪",
+      "summary": "黄芪根长皮糙断面绵韧，内蒙古草原沙地深根生长，补气升阳固表止...",
+      "full_text": "黄芪根长皮糙断面绵韧，内蒙古草原沙地深根生长，补气升阳固表止汗，补药之长名扬天下",
       "image": "res://assets/images/illustrations/crops/crops_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "crops_056",
-      "title": "胡椒",
-      "summary": "胡椒如绿色如珠在藤架如珠如绿如黑如辣",
-      "full_text": "胡椒如绿色如珠在藤架如珠如绿如黑如辣",
+      "title": "甘草",
+      "summary": "甘草根茎粗壮甜味悠长，西北荒漠沙地深根耐旱，调和诸药解毒止咳...",
+      "full_text": "甘草根茎粗壮甜味悠长，西北荒漠沙地深根耐旱，调和诸药解毒止咳，国老之称当之无愧",
       "image": "res://assets/images/illustrations/crops/crops_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "crops_057",
-      "title": "肉桂",
-      "summary": "肉桂如棕色如皮在热带如皮如棕如香如料",
-      "full_text": "肉桂如棕色如皮在热带如皮如棕如香如料",
+      "title": "板蓝根",
+      "summary": "板蓝根叶片肥阔根深粗壮，华北平原大田种植采收，清热解毒凉血利...",
+      "full_text": "板蓝根叶片肥阔根深粗壮，华北平原大田种植采收，清热解毒凉血利咽，抗病毒良药功不可没",
       "image": "res://assets/images/illustrations/crops/crops_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "crops_058",
-      "title": "八角",
-      "summary": "八角如棕色如星在广西如星如棕如香如料",
-      "full_text": "八角如棕色如星在广西如星如棕如香如料",
+      "title": "金银花",
+      "summary": "金银花初白后黄成对开放，山东平邑丘陵梯田遍植，清热解毒疏散风...",
+      "full_text": "金银花初白后黄成对开放，山东平邑丘陵梯田遍植，清热解毒疏散风热，夏日凉茶必备良方",
       "image": "res://assets/images/illustrations/crops/crops_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "crops_059",
-      "title": "香草",
-      "summary": "香草如绿色如荚在热带如荚如绿如香如料",
-      "full_text": "香草如绿色如荚在热带如荚如绿如香如料",
+      "title": "百合",
+      "summary": "百合鳞茎层层抱合洁白如玉，兰州河谷沙壤种植品质上乘，润肺止咳...",
+      "full_text": "百合鳞茎层层抱合洁白如玉，兰州河谷沙壤种植品质上乘，润肺止咳清心安神，观赏食用两相宜",
       "image": "res://assets/images/illustrations/crops/crops_059.jpg",
       "image_grid": {
         "x": 3,

@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "rivers_lakes_000",
-      "title": "尼罗河",
-      "summary": "尼罗河纵贯非洲大陆绿色走廊穿越沙漠生机盎然",
-      "full_text": "尼罗河纵贯非洲大陆绿色走廊穿越沙漠生机盎然",
+      "title": "亚马逊河洪泛",
+      "summary": "亚马逊河是世界流量最大的河流占全球淡水入海量五分之一，洪水季...",
+      "full_text": "亚马逊河是世界流量最大的河流占全球淡水入海量五分之一，洪水季河面宽达四十公里。粉红河豚在树冠间游弋，巨骨舌鱼体长三米跃出水面，黑水河与白水河交汇而不混合。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "rivers_lakes_001",
-      "title": "亚马逊河",
-      "summary": "亚马逊河水量世界第一热带雨林密布两岸",
-      "full_text": "亚马逊河水量世界第一热带雨林密布两岸",
+      "title": "尼罗河长流",
+      "summary": "尼罗河全长6650公里是世界最长河流之一，从维多利亚湖流经十...",
+      "full_text": "尼罗河全长6650公里是世界最长河流之一，从维多利亚湖流经十一国注入地中海。阿斯旺大坝控制洪水发电灌溉，纸莎草在河岸摇曳，尼罗鳄在河滩晒太阳，古埃及文明因河而生。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "rivers_lakes_002",
-      "title": "长江",
-      "summary": "长江三峡两岸峭壁耸立江水奔涌气势磅礴",
-      "full_text": "长江三峡两岸峭壁耸立江水奔涌气势磅礴",
+      "title": "长江三峡",
+      "summary": "长江三峡瞿塘峡巫峡西陵峡全长193公里，两岸峭壁如削江水奔腾...",
+      "full_text": "长江三峡瞿塘峡巫峡西陵峡全长193公里，两岸峭壁如削江水奔腾。三峡大坝高181米是世界最大水利枢纽，白帝城在瞿塘峡口矗立千年，神女峰在云雾中若隐若现。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "rivers_lakes_003",
-      "title": "黄河",
-      "summary": "黄河壶口瀑布浊浪翻滚展现母亲河磅礴力量",
-      "full_text": "黄河壶口瀑布浊浪翻滚展现母亲河磅礴力量",
+      "title": "密西西比河蜿蜒",
+      "summary": "密西西比河是美国最大河流从明尼苏达流向墨西哥湾，三角洲如鸟足...",
+      "full_text": "密西西比河是美国最大河流从明尼苏达流向墨西哥湾，三角洲如鸟足伸入大海。蒸汽船在河上航行如马克吐温时代，短吻鳄在沼泽中潜伏，蓝鹭在河岸涉水，洪水季节河面宽阔如海。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "rivers_lakes_004",
-      "title": "密西西比河",
-      "summary": "密西西比河蜿蜒流过美国中部平原注入墨西哥湾",
-      "full_text": "密西西比河蜿蜒流过美国中部平原注入墨西哥湾",
+      "title": "伏尔加河母亲",
+      "summary": "伏尔加河是欧洲最长河流全长3690公里，被俄罗斯人称为母亲河...",
+      "full_text": "伏尔加河是欧洲最长河流全长3690公里，被俄罗斯人称为母亲河。伏尔加格勒英雄雕像矗立山头，白桦林在河岸排列如卫兵，鲟鱼在河中产卵鱼子酱珍贵，冬季河面封冻如镜。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "rivers_lakes_005",
-      "title": "湄公河",
-      "summary": "湄公河流经东南亚六国是重要的国际河流",
-      "full_text": "湄公河流经东南亚六国是重要的国际河流",
+      "title": "多瑙河蓝波",
+      "summary": "多瑙河是欧洲第二长河流经十国，蓝色的多瑙河圆舞曲传遍世界。维...",
+      "full_text": "多瑙河是欧洲第二长河流经十国，蓝色的多瑙河圆舞曲传遍世界。维也纳在河畔奏响华尔兹，布达佩斯被多瑙河分为布达和佩斯，铁门峡谷水电站壮观，白鹳在河岸筑巢。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "rivers_lakes_006",
-      "title": "刚果河",
-      "summary": "刚果河穿越赤道雨林水量仅次于亚马逊河",
-      "full_text": "刚果河穿越赤道雨林水量仅次于亚马逊河",
+      "title": "黄河壶口瀑布",
+      "summary": "黄河壶口瀑布是黄河最壮观之处，河水收窄至三十米倾泻而下如万马...",
+      "full_text": "黄河壶口瀑布是黄河最壮观之处，河水收窄至三十米倾泻而下如万马奔腾。瀑布声震数里水雾弥漫如烟，彩虹在瀑布上方常现，黄河在此切割黄土高原携带泥沙滚滚东流。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "rivers_lakes_007",
-      "title": "恒河",
-      "summary": "恒河是印度圣河晨曦中信徒在河中沐浴祈祷",
-      "full_text": "恒河是印度圣河晨曦中信徒在河中沐浴祈祷",
+      "title": "湄公河三角洲",
+      "summary": "湄公河从青藏高原流经六国注入南海，在越南形成九龙江三角洲。水...",
+      "full_text": "湄公河从青藏高原流经六国注入南海，在越南形成九龙江三角洲。水上市场船贩叫卖热带水果，稻田一年三熟产量惊人，伊洛瓦底江豚在河中出没，水椰在河道两岸葱郁。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "rivers_lakes_008",
-      "title": "多瑙河",
-      "summary": "多瑙河流经十国是欧洲最重要的国际河流",
-      "full_text": "多瑙河流经十国是欧洲最重要的国际河流",
+      "title": "刚果河急流",
+      "summary": "刚果河是世界最深河流最深处达220米，因博马急流而无法航行至...",
+      "full_text": "刚果河是世界最深河流最深处达220米，因博马急流而无法航行至入海口。河水穿越赤道雨林水量仅次于亚马逊，山地大猩猩在河源区生活，因加利急流落差巨大水能丰富。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "rivers_lakes_009",
-      "title": "伏尔加河",
-      "summary": "伏尔加河是欧洲最长河流滋润俄罗斯大地",
-      "full_text": "伏尔加河是欧洲最长河流滋润俄罗斯大地",
+      "title": "恒河圣浴",
+      "summary": "恒河被印度教徒视为圣河，瓦拉纳西河坛上信徒虔诚沐浴净化灵魂。...",
+      "full_text": "恒河被印度教徒视为圣河，瓦拉纳西河坛上信徒虔诚沐浴净化灵魂。晨曦中祭火在河坛点燃，花灯在河面漂浮如星，火葬台日夜不停，恒河豚在浑浊河水中潜游濒临灭绝。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "rivers_lakes_010",
-      "title": "莱茵河",
-      "summary": "莱茵河畔古堡矗立葡萄园梯田层层叠叠",
-      "full_text": "莱茵河畔古堡矗立葡萄园梯田层层叠叠",
+      "title": "鄂毕河冻土",
+      "summary": "鄂毕河是西西伯利亚最大河流，流经世界最大平原注入北冰洋。冬季...",
+      "full_text": "鄂毕河是西西伯利亚最大河流，流经世界最大平原注入北冰洋。冬季河面封冻冰厚可行卡车，春季融冰形成巨大凌汛洪水，天然气从永冻土下开采，驯鹿在苔原上迁徙。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "rivers_lakes_011",
-      "title": "幼发拉底河",
-      "summary": "幼发拉底河孕育了美索不达米亚古老文明",
-      "full_text": "幼发拉底河孕育了美索不达米亚古老文明",
+      "title": "拉普拉塔河口",
+      "summary": "拉普拉塔河口是世界最宽河口宽达220公里如内海，布宜诺斯艾利...",
+      "full_text": "拉普拉塔河口是世界最宽河口宽达220公里如内海，布宜诺斯艾利斯与蒙得维的亚隔河相望。淡水与海水交汇形成独特生态，南美鼠海豚在河口游弋，河岸湿地候鸟群飞。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "rivers_lakes_012",
-      "title": "底格里斯河",
-      "summary": "底格里斯河与幼发拉底河共同塑造两河文明",
-      "full_text": "底格里斯河与幼发拉底河共同塑造两河文明",
+      "title": "黑龙江冰封",
+      "summary": "黑龙江是中俄界河全长4370公里，冬季封冻冰厚超过一米可通行...",
+      "full_text": "黑龙江是中俄界河全长4370公里，冬季封冻冰厚超过一米可通行车辆。冰雕节在黑河举办，鲟鱼在冰下缓慢游动，春季开江时冰排碰撞轰鸣如雷，赫哲人在冰上凿洞捕鱼。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "rivers_lakes_013",
-      "title": "雅鲁藏布江",
-      "summary": "雅鲁藏布江大拐弯处峡谷深邃水流湍急震撼",
-      "full_text": "雅鲁藏布江大拐弯处峡谷深邃水流湍急震撼",
+      "title": "底格里斯河古城",
+      "summary": "底格里斯河与幼发拉底河孕育美索不达米亚文明，巴格达在河畔矗立...",
+      "full_text": "底格里斯河与幼发拉底河孕育美索不达米亚文明，巴格达在河畔矗立千年。摩苏尔大坝是伊拉克最大水利设施，楔形文字泥板记录两河流域辉煌历史，椰枣林在河岸连绵。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "rivers_lakes_014",
-      "title": "黑龙江",
-      "summary": "黑龙江蜿蜒流过中俄边境冬季冰封银装素裹",
-      "full_text": "黑龙江蜿蜒流过中俄边境冬季冰封银装素裹",
+      "title": "印度河文明",
+      "summary": "印度河是巴基斯坦生命线，摩亨佐达罗古城展现五千年城市规划。印...",
+      "full_text": "印度河是巴基斯坦生命线，摩亨佐达罗古城展现五千年城市规划。印度河从喀喇昆仑山流下灌溉平原，河豚在浑浊河水中出没，旁遮普五河交汇之地最为肥沃，棉花田沿河铺展。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "rivers_lakes_015",
-      "title": "珠江",
-      "summary": "珠江三角洲水网密布是中国经济最活跃地区",
-      "full_text": "珠江三角洲水网密布是中国经济最活跃地区",
+      "title": "赞比西河瀑布",
+      "summary": "赞比西河上维多利亚瀑布宽1700米是世界最大瀑布之一，水雾升...",
+      "full_text": "赞比西河上维多利亚瀑布宽1700米是世界最大瀑布之一，水雾升腾高达三百米如云。魔鬼泳池在瀑布边缘可俯瞰深渊，彩虹在月夜也可看见，河马在瀑布上游悠闲吃草。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "rivers_lakes_016",
-      "title": "怒江",
-      "summary": "怒江大峡谷中江水咆哮奔涌两岸峭壁千仞",
-      "full_text": "怒江大峡谷中江水咆哮奔涌两岸峭壁千仞",
+      "title": "科罗拉多大峡谷",
+      "summary": "科罗拉多河切割出大峡谷深达1800米，二十亿年地质历史在岩壁...",
+      "full_text": "科罗拉多河切割出大峡谷深达1800米，二十亿年地质历史在岩壁中层叠。河面在峡谷深处如绿色丝带，漂流者穿越急流险滩，峡谷岩层从红色渐变为紫色，日落时光彩绚烂。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "rivers_lakes_017",
-      "title": "澜沧江",
-      "summary": "澜沧江在横断山脉间奔流南下注入东南亚",
-      "full_text": "澜沧江在横断山脉间奔流南下注入东南亚",
+      "title": "莱茵河古堡",
+      "summary": "莱茵河是欧洲最繁忙水道，两岸古堡如珠串矗立悬崖之上。罗蕾莱礁...",
+      "full_text": "莱茵河是欧洲最繁忙水道，两岸古堡如珠串矗立悬崖之上。罗蕾莱礁石传说女妖以歌声引诱水手，葡萄园沿河坡地排列产出雷司令美酒，科隆大教堂在河畔如石刺破天。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "rivers_lakes_018",
-      "title": "印度河",
-      "summary": "印度河滋养巴基斯坦平原是古印度文明摇篮",
-      "full_text": "印度河滋养巴基斯坦平原是古印度文明摇篮",
+      "title": "贝加尔湖深蓝",
+      "summary": "贝加尔湖是世界最深湖泊最深处1642米，储存全球地表淡水五分...",
+      "full_text": "贝加尔湖是世界最深湖泊最深处1642米，储存全球地表淡水五分之一。湖中贝加尔海豹是唯一淡水海豹，秋白鲑是当地美味，冬季冰面如蓝宝石透明可见湖底，气泡冰如艺术品。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "rivers_lakes_019",
-      "title": "鄂毕河",
-      "summary": "鄂毕河流经西西伯利亚平原注入北冰洋",
-      "full_text": "鄂毕河流经西西伯利亚平原注入北冰洋",
+      "title": "里海世界最大湖",
+      "summary": "里海是世界最大湖泊面积37万平方公里，是古特提斯海残余。鲟鱼...",
+      "full_text": "里海是世界最大湖泊面积37万平方公里，是古特提斯海残余。鲟鱼产出世界最珍贵的鱼子酱，里海海豹在湖中栖息，石油和天然气在湖底蕴藏，伏尔加河贡献百分之八十入湖水量。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "rivers_lakes_020",
-      "title": "叶尼塞河",
-      "summary": "叶尼塞河是俄罗斯水量最大河流北流注入北冰洋",
-      "full_text": "叶尼塞河是俄罗斯水量最大河流北流注入北冰洋",
+      "title": "苏必利尔湖风暴",
+      "summary": "苏必利尔湖是世界最大淡水湖面积82400平方公里，湖面如海可...",
+      "full_text": "苏必利尔湖是世界最大淡水湖面积82400平方公里，湖面如海可掀起六米巨浪。埃德蒙德菲茨杰拉德号货轮在此沉没如铁达尼，画石国家湖岸彩色砂岩如画卷，秋色绚烂。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "rivers_lakes_021",
-      "title": "勒拿河",
-      "summary": "勒拿河冬季冰封春季凌汛形成壮观冰坝景观",
-      "full_text": "勒拿河冬季冰封春季凌汛形成壮观冰坝景观",
+      "title": "维多利亚湖渔歌",
+      "summary": "维多利亚湖是非洲最大湖泊面积68870平方公里，尼罗河从此流...",
+      "full_text": "维多利亚湖是非洲最大湖泊面积68870平方公里，尼罗河从此流出。尼罗河鲈鱼入侵使数百种慈鲷灭绝，水葫芦在湖面蔓延如绿色地毯，渔民在传统独木舟上撒网，湖上日落壮美。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "rivers_lakes_022",
-      "title": "圣劳伦斯河",
-      "summary": "圣劳伦斯河连接五大湖与大西洋是重要航道",
-      "full_text": "圣劳伦斯河连接五大湖与大西洋是重要航道",
+      "title": "坦噶尼喀湖深",
+      "summary": "坦噶尼喀湖是世界第二深湖最深处1470米，湖中慈鲷种类超过二...",
+      "full_text": "坦噶尼喀湖是世界第二深湖最深处1470米，湖中慈鲷种类超过二百种。水母在淡水湖中罕见地生存，蛇鹈在湖面潜水捕鱼，简·古道尔在湖畔研究黑猩猩，湖水如蓝宝石深邃。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "rivers_lakes_023",
-      "title": "巴拉那河",
-      "summary": "巴拉那河上伊泰普水电站是世界第二大水电站",
-      "full_text": "巴拉那河上伊泰普水电站是世界第二大水电站",
+      "title": "喀纳斯湖怪",
+      "summary": "喀纳斯湖深188米是中国最深高山湖泊，传说中有巨型水怪出没。...",
+      "full_text": "喀纳斯湖深188米是中国最深高山湖泊，传说中有巨型水怪出没。湖水随季节变换颜色如翡翠如蓝宝，图瓦人在湖畔木屋中生活，白哈巴村在秋色中如童话，禾木晨雾如仙境。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "rivers_lakes_024",
-      "title": "墨累河",
-      "summary": "墨累河是澳大利亚最长河流滋润内陆干旱地区",
-      "full_text": "墨累河是澳大利亚最长河流滋润内陆干旱地区",
+      "title": "青海湖鸟岛",
+      "summary": "青海湖是中国最大咸水湖面积4500平方公里，鸟岛上十万只候鸟...",
+      "full_text": "青海湖是中国最大咸水湖面积4500平方公里，鸟岛上十万只候鸟繁殖。斑头雁在湖面成群飞翔如白云，鸬鹚在岩石上展翅晾晒，湟鱼在湖中洄游产卵，油菜花田在湖岸金黄灿烂。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "rivers_lakes_025",
-      "title": "贝加尔湖",
-      "summary": "贝加尔湖是世界最深湖泊冬季蓝冰晶莹剔透",
-      "full_text": "贝加尔湖是世界最深湖泊冬季蓝冰晶莹剔透",
+      "title": "纳木错天湖",
+      "summary": "纳木错海拔4718米是世界最高大湖，藏语意为天湖如蓝宝石镶嵌...",
+      "full_text": "纳木错海拔4718米是世界最高大湖，藏语意为天湖如蓝宝石镶嵌高原。念青唐古拉雪山倒映湖面如镜，经幡在湖岸风中猎猎，牦牛在湖边吃草，转湖朝圣者虔诚行走。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "rivers_lakes_026",
-      "title": "死海",
-      "summary": "死海是地球最低点人在水面漂浮不沉盐晶遍布",
-      "full_text": "死海是地球最低点人在水面漂浮不沉盐晶遍布",
+      "title": "死海漂浮",
+      "summary": "死海是地球最低点海拔负430米，盐度高达34%人可轻松漂浮水...",
+      "full_text": "死海是地球最低点海拔负430米，盐度高达34%人可轻松漂浮水面。黑泥富含矿物质可护肤美容，死海每年下降一米面临消失危机，约旦河注入量锐减，恩戈迪绿洲在死海西岸。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "rivers_lakes_027",
-      "title": "五大湖",
-      "summary": "北美五大湖是世界最大淡水湖群碧波万顷",
-      "full_text": "北美五大湖是世界最大淡水湖群碧波万顷",
+      "title": "日内瓦湖喷泉",
+      "summary": "日内瓦湖喷泉水柱高达140米如白龙腾空，是日内瓦标志景观。阿...",
+      "full_text": "日内瓦湖喷泉水柱高达140米如白龙腾空，是日内瓦标志景观。阿尔卑斯雪山倒映湖面如画，拉沃葡萄园梯田沿湖坡排列产出美酒，西庸城堡矗立湖中如童话，天鹅在湖面游弋。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "rivers_lakes_028",
-      "title": "里海",
-      "summary": "里海是世界最大内陆湖石油平台矗立水面",
-      "full_text": "里海是世界最大内陆湖石油平台矗立水面",
+      "title": "洞庭湖碧波",
+      "summary": "洞庭湖是中国第二大淡水湖八百里洞庭碧波万顷，岳阳楼在湖畔矗立...",
+      "full_text": "洞庭湖是中国第二大淡水湖八百里洞庭碧波万顷，岳阳楼在湖畔矗立千年。范仲淹先天下之忧而忧传颂至今，江豚在湖中出没如水中大熊猫，芦苇荡在秋风中如金色海洋。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "rivers_lakes_029",
-      "title": "维多利亚湖",
-      "summary": "维多利亚湖是非洲最大湖泊日落时分金光粼粼",
-      "full_text": "维多利亚湖是非洲最大湖泊日落时分金光粼粼",
+      "title": "鄱阳湖候鸟",
+      "summary": "鄱阳湖是中国最大淡水湖，冬季候鸟数量超过百万只。白鹤在浅滩翩...",
+      "full_text": "鄱阳湖是中国最大淡水湖，冬季候鸟数量超过百万只。白鹤在浅滩翩翩起舞如仙，东方白鹳在芦苇中筑巢，长江江豚在湖口出没，枯水期湖底草原如绿色地毯，丰水期碧波万顷。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "rivers_lakes_030",
-      "title": "坦噶尼喀湖",
-      "summary": "坦噶尼喀湖是世界第二深湖湖水清澈深邃",
-      "full_text": "坦噶尼喀湖是世界第二深湖湖水清澈深邃",
+      "title": "的的喀喀湖芦苇",
+      "summary": "的的喀喀湖海拔3812米是世界最高可航行大湖，乌鲁斯人在芦苇...",
+      "full_text": "的的喀喀湖海拔3812米是世界最高可航行大湖，乌鲁斯人在芦苇浮岛上生活。芦苇船在湖面如金色月牙，印加传说太阳和月亮从湖中诞生，的的喀喀湖水蛙是最大的蛙类之一。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "rivers_lakes_031",
-      "title": "青海湖",
-      "summary": "青海湖是中国最大内陆湖夏季油菜花环湖盛开",
-      "full_text": "青海湖是中国最大内陆湖夏季油菜花环湖盛开",
+      "title": "长白山天池水",
+      "summary": "长白山天池是火山口湖海拔2189米，是中国最深火山口湖最深处...",
+      "full_text": "长白山天池是火山口湖海拔2189米，是中国最深火山口湖最深处373米。十六峰环抱如盆，湖水如蓝宝石镶嵌火山口，传说水怪在湖中出没，瀑布从天池缺口倾泻而下如白练。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "rivers_lakes_032",
-      "title": "纳木错",
-      "summary": "纳木错圣湖碧蓝如镜念青唐古拉山倒映其中",
-      "full_text": "纳木错圣湖碧蓝如镜念青唐古拉山倒映其中",
+      "title": "博登湖三岸",
+      "summary": "博登湖横跨德国奥地利瑞士三国，是莱茵河上的明珠。美瑙岛花岛如...",
+      "full_text": "博登湖横跨德国奥地利瑞士三国，是莱茵河上的明珠。美瑙岛花岛如伊甸园四季鲜花盛开，腓特烈港齐柏林飞艇在此诞生，康斯坦茨中世纪古城在湖畔，帆船在湖面如白蝶飞舞。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "rivers_lakes_033",
-      "title": "洞庭湖",
-      "summary": "洞庭湖浩瀚如海是长江重要的调蓄湖泊",
-      "full_text": "洞庭湖浩瀚如海是长江重要的调蓄湖泊",
+      "title": "马拉维湖慈鲷",
+      "summary": "马拉维湖是世界第三深湖，湖中慈鲷种类超过一千种是进化论活教材...",
+      "full_text": "马拉维湖是世界第三深湖，湖中慈鲷种类超过一千种是进化论活教材。有些慈鲷将鱼卵含在口中孵化，湖面如蓝宝石在阳光下闪耀，渔民在独木舟上点灯夜钓，大卫·利文斯通到此。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "rivers_lakes_034",
-      "title": "鄱阳湖",
-      "summary": "鄱阳湖冬季枯水期形成广阔湿地候鸟翔集",
-      "full_text": "鄱阳湖冬季枯水期形成广阔湿地候鸟翔集",
+      "title": "大盐湖粉红",
+      "summary": "美国大盐湖因嗜盐菌使湖水呈粉红色如草莓牛奶，是西半球最大咸水...",
+      "full_text": "美国大盐湖因嗜盐菌使湖水呈粉红色如草莓牛奶，是西半球最大咸水湖。螺旋藻在湖中大量繁殖，鹈鹕在湖岛繁殖，铁路堤道将湖分为颜色不同的两半，日落时粉色湖面如梦。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "rivers_lakes_035",
-      "title": "太湖",
-      "summary": "太湖烟波浩渺江南水乡渔帆点点如诗如画",
-      "full_text": "太湖烟波浩渺江南水乡渔帆点点如诗如画",
+      "title": "伊塞克湖不冻",
+      "summary": "伊塞克湖是中亚最大湖泊海拔1607米终年不冻，被称为中亚明珠...",
+      "full_text": "伊塞克湖是中亚最大湖泊海拔1607米终年不冻，被称为中亚明珠。天山雪山倒映碧蓝湖面，古突厥人在湖畔留下岩画，苏联时期鱼雷试验场在湖中，如今度假村沿湖而建。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "rivers_lakes_036",
-      "title": "西湖",
-      "summary": "西湖断桥残雪苏堤春晓展现江南园林之美",
-      "full_text": "西湖断桥残雪苏堤春晓展现江南园林之美",
+      "title": "洱海苍山月",
+      "summary": "洱海形如耳朵是云南第二大淡水湖，苍山十九峰倒映湖面如画。下关...",
+      "full_text": "洱海形如耳朵是云南第二大淡水湖，苍山十九峰倒映湖面如画。下关风上关花苍山雪洱海月合称大理风花雪月，白族三塔在湖畔矗立千年，渔船在夕阳下如金色剪影。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "rivers_lakes_037",
-      "title": "日内瓦湖",
-      "summary": "日内瓦湖中喷泉直冲天际阿尔卑斯山环抱湖畔",
-      "full_text": "日内瓦湖中喷泉直冲天际阿尔卑斯山环抱湖畔",
+      "title": "茶卡盐湖镜面",
+      "summary": "茶卡盐湖被称为天空之镜，湖面如镜倒映蓝天白云如梦如幻。小火车...",
+      "full_text": "茶卡盐湖被称为天空之镜，湖面如镜倒映蓝天白云如梦如幻。小火车在盐湖上缓缓行驶如驶向天际，盐雕在湖面矗立如白色宫殿，赤脚走在盐晶上如漫步云端，日落时金光万丈。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "rivers_lakes_038",
-      "title": "科莫湖",
-      "summary": "科莫湖畔别墅花园掩映在青山绿水之间",
-      "full_text": "科莫湖畔别墅花园掩映在青山绿水之间",
+      "title": "安大略湖千岛",
+      "summary": "安大略湖千岛区有1864个岛屿如翡翠散落湖面，心岛上博尔特城...",
+      "full_text": "安大略湖千岛区有1864个岛屿如翡翠散落湖面，心岛上博尔特城堡如童话。千岛桥连接美加两国，潜水者探索湖底沉船，鲑鱼在湖中洄游，秋季枫叶如火焰倒映湖面。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "rivers_lakes_039",
-      "title": "加尔达湖",
-      "summary": "加尔达湖是意大利最大湖泊湖滨柠檬园飘香",
-      "full_text": "加尔达湖是意大利最大湖泊湖滨柠檬园飘香",
+      "title": "密歇根湖畔城",
+      "summary": "密歇根湖是北美五大湖中唯一全在美国境内的湖泊，芝加哥天际线在...",
+      "full_text": "密歇根湖是北美五大湖中唯一全在美国境内的湖泊，芝加哥天际线在湖畔如水晶森林。湖面如海可掀起巨浪，灯塔在风暴中坚守，沙丘在湖岸如金色波浪，冬季湖面结冰如极地。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "rivers_lakes_040",
-      "title": "琵琶湖",
-      "summary": "琵琶湖是日本最大淡水湖晨雾笼罩如仙境",
-      "full_text": "琵琶湖是日本最大淡水湖晨雾笼罩如仙境",
+      "title": "休伦湖沉船",
+      "summary": "休伦湖是五大湖中面积最大的湖泊，湖底沉船超过千艘如水下墓地。...",
+      "full_text": "休伦湖是五大湖中面积最大的湖泊，湖底沉船超过千艘如水下墓地。花港岛野马在湖边自由奔跑，布鲁斯半岛碧蓝湖水如加勒比海，灯塔在风暴中如守望者，秋色绚烂如画。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "rivers_lakes_041",
-      "title": "的的喀喀湖",
-      "summary": "的的喀喀湖上芦苇浮岛居民生活其上独特",
-      "full_text": "的的喀喀湖上芦苇浮岛居民生活其上独特",
+      "title": "西湖十景",
+      "summary": "西湖是中国最著名的湖泊之一，苏堤春晓断桥残雪雷峰夕照构成十景...",
+      "full_text": "西湖是中国最著名的湖泊之一，苏堤春晓断桥残雪雷峰夕照构成十景。白娘子传说在湖畔流传千年，荷花在盛夏铺满湖面如翠盘，三潭印月在月夜如梦，龙井茶香飘溢湖畔。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "rivers_lakes_042",
-      "title": "喀纳斯湖",
-      "summary": "喀纳斯湖秋日层林尽染湖水碧绿如翡翠",
-      "full_text": "喀纳斯湖秋日层林尽染湖水碧绿如翡翠",
+      "title": "太湖烟波",
+      "summary": "太湖是中国第三大淡水湖面积2427平方公里，烟波浩渺如海。鼋...",
+      "full_text": "太湖是中国第三大淡水湖面积2427平方公里，烟波浩渺如海。鼋头渚樱花在春季如云如霞，洞庭碧螺春茶产自湖畔山丘，白鱼白虾银鱼称太湖三白，渔帆在夕阳下如画。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "rivers_lakes_043",
-      "title": "天池",
-      "summary": "长白山天池火山口湖碧蓝深邃云雾缭绕其间",
-      "full_text": "长白山天池火山口湖碧蓝深邃云雾缭绕其间",
+      "title": "滇池红嘴鸥",
+      "summary": "滇池是云南最大淡水湖，每年冬季数万只红嘴鸥从西伯利亚飞来越冬...",
+      "full_text": "滇池是云南最大淡水湖，每年冬季数万只红嘴鸥从西伯利亚飞来越冬。海鸥在游客手中啄食如雪片纷飞，西山龙门俯瞰滇池如镜，大观楼长联天下第一，春城四季如春花开不断。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "rivers_lakes_044",
-      "title": "泸沽湖",
-      "summary": "泸沽湖清澈见底摩梭人猪槽船荡漾湖面",
-      "full_text": "泸沽湖清澈见底摩梭人猪槽船荡漾湖面",
+      "title": "抚仙湖深蓝",
+      "summary": "抚仙湖是中国最深淡水湖最深处155米，湖水如蓝宝石深邃透明。...",
+      "full_text": "抚仙湖是中国最深淡水湖最深处155米，湖水如蓝宝石深邃透明。水下古城遗址可能是古滇国都城，抗浪鱼在湖中独特产卵，湖畔樱花在春季如云，禄充渔村古朴宁静。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "rivers_lakes_045",
-      "title": "尼亚加拉瀑布",
-      "summary": "尼亚加拉瀑布马蹄形水帘轰鸣水雾弥漫壮观",
-      "full_text": "尼亚加拉瀑布马蹄形水帘轰鸣水雾弥漫壮观",
+      "title": "赛里木湖蓝冰",
+      "summary": "赛里木湖海拔2073米是新疆海拔最高大湖，冬季蓝冰如翡翠如钻...",
+      "full_text": "赛里木湖海拔2073米是新疆海拔最高大湖，冬季蓝冰如翡翠如钻石。冰泡如珍珠排列湖底，天鹅在冰缝中游弋，雪山环抱如银冠，春季融冰时湖面如碎蓝宝石闪烁，牧歌悠扬。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "rivers_lakes_046",
-      "title": "维多利亚瀑布",
-      "summary": "维多利亚瀑布宽达一公里水雾升腾如烟云",
-      "full_text": "维多利亚瀑布宽达一公里水雾升腾如烟云",
+      "title": "泸沽湖走婚",
+      "summary": "泸沽湖横跨云南四川海拔2690米，摩梭人保留母系社会走婚习俗...",
+      "full_text": "泸沽湖横跨云南四川海拔2690米，摩梭人保留母系社会走婚习俗。猪槽船在碧蓝湖面如叶飘荡，格姆女神山倒映湖中如镜，篝火晚会上摩梭青年手拉手跳锅庄，湖水清澈见底。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "rivers_lakes_047",
-      "title": "伊瓜苏瀑布",
-      "summary": "伊瓜苏瀑布由275道瀑布组成如水帘般壮观",
-      "full_text": "伊瓜苏瀑布由275道瀑布组成如水帘般壮观",
+      "title": "纳木错星空",
+      "summary": "纳木错海拔4718米是世界最高大湖，银河在无光害夜空如瀑布倾...",
+      "full_text": "纳木错海拔4718米是世界最高大湖，银河在无光害夜空如瀑布倾泻。合掌石在湖岸如双手合十祈祷，经幡在风中猎猎作响，牦牛在星空下如黑色剪影，高原星空触手可及。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "rivers_lakes_048",
-      "title": "安赫尔瀑布",
-      "summary": "安赫尔瀑布是世界最高瀑布从桌山直落979米",
-      "full_text": "安赫尔瀑布是世界最高瀑布从桌山直落979米",
+      "title": "咸海消亡",
+      "summary": "咸海曾是世界第四大湖如今面积缩小九成成为生态灾难，苏联引水灌...",
+      "full_text": "咸海曾是世界第四大湖如今面积缩小九成成为生态灾难，苏联引水灌溉棉花使湖面萎缩。船只搁浅在干涸湖底如幽灵，盐尘暴卷起有毒盐粒危害健康，联合国称之为最严重环境灾难。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "rivers_lakes_049",
-      "title": "黄果树瀑布",
-      "summary": "黄果树瀑布水帘洞可从瀑布背后观赏水帘奇观",
-      "full_text": "黄果树瀑布水帘洞可从瀑布背后观赏水帘奇观",
+      "title": "图尔卡纳湖鳄",
+      "summary": "图尔卡纳湖是肯尼亚最大湖泊被称为碧玉海，湖中鳄鱼数量世界最多...",
+      "full_text": "图尔卡纳湖是肯尼亚最大湖泊被称为碧玉海，湖中鳄鱼数量世界最多。图尔卡纳男孩头骨在此发现距今160万年，火山岛在湖中如黑色珍珠，尼罗河鲈鱼体长两米，烈日下湖面如镜。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "rivers_lakes_050",
-      "title": "壶口瀑布",
-      "summary": "黄河壶口瀑布浊浪排空声如万马奔腾震撼",
-      "full_text": "黄河壶口瀑布浊浪排空声如万马奔腾震撼",
+      "title": "青海湖环湖",
+      "summary": "青海湖环湖公路全长360公里，骑行者在油菜花田与碧蓝湖水间穿...",
+      "full_text": "青海湖环湖公路全长360公里，骑行者在油菜花田与碧蓝湖水间穿行。牦牛在湖边草甸上吃草，经幡在山口猎猎作响，日月山在湖东如天然屏障，环湖赛是亚洲顶级自行车赛事。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "rivers_lakes_051",
-      "title": "德天瀑布",
-      "summary": "德天跨国瀑布三级跌落中越边境青山翠谷间",
-      "full_text": "德天跨国瀑布三级跌落中越边境青山翠谷间",
+      "title": "洞里萨湖浮村",
+      "summary": "柬埔寨洞里萨湖是东南亚最大湖泊，旱季面积缩小五倍如呼吸的湖。...",
+      "full_text": "柬埔寨洞里萨湖是东南亚最大湖泊，旱季面积缩小五倍如呼吸的湖。浮村房屋在湖面随水位升降，鳄鱼养殖场在浮村中，湄公河倒灌使湖成为天然水库，水上人家生活独特。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "rivers_lakes_052",
-      "title": "亚马逊湿地",
-      "summary": "亚马逊湿地雨季泛滥水面覆盖森林树冠露出",
-      "full_text": "亚马逊湿地雨季泛滥水面覆盖森林树冠露出",
+      "title": "琵琶湖古都",
+      "summary": "琵琶湖是日本最大湖泊面积670平方公里，供应京都大阪千万人口...",
+      "full_text": "琵琶湖是日本最大湖泊面积670平方公里，供应京都大阪千万人口饮用水。比叡山延历寺在湖畔矗立千年，浮御堂在湖面如画，樱花在春季沿湖盛开如云，琵琶湖疏水道百年仍在运行。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "rivers_lakes_053",
-      "title": "潘塔纳尔湿地",
-      "summary": "潘塔纳尔湿地是世界最大湿地水豚在水中嬉戏",
-      "full_text": "潘塔纳尔湿地是世界最大湿地水豚在水中嬉戏",
+      "title": "五大连池火山",
+      "summary": "五大连池由火山熔岩堵塞河道形成五个串珠状湖泊，如蓝宝石镶嵌黑...",
+      "full_text": "五大连池由火山熔岩堵塞河道形成五个串珠状湖泊，如蓝宝石镶嵌黑色玄武岩。火山口如碗如盆保存完好，矿泉水含丰富矿物质可饮可浴，熔岩台地如黑色石海翻涌凝固。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "rivers_lakes_054",
-      "title": "孙德尔本斯湿地",
-      "summary": "孙德尔本斯红树林湿地是孟加拉虎的栖息地",
-      "full_text": "孙德尔本斯红树林湿地是孟加拉虎的栖息地",
+      "title": "镜泊湖瀑布",
+      "summary": "镜泊湖是中国最大火山堰塞湖，吊水楼瀑布从玄武岩崖壁倾泻而下如...",
+      "full_text": "镜泊湖是中国最大火山堰塞湖，吊水楼瀑布从玄武岩崖壁倾泻而下如白练。冬季瀑布结冰形成壮观冰瀑如水晶宫殿，毛皮鲑鱼在湖中跳跃，地下森林在火山口中如秘境。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "rivers_lakes_055",
-      "title": "大沼泽地",
-      "summary": "佛罗里达大沼泽地中鳄鱼潜伏水面白鹭栖息",
-      "full_text": "佛罗里达大沼泽地中鳄鱼潜伏水面白鹭栖息",
+      "title": "天山天池",
+      "summary": "天山天池海拔1910米如蓝宝石镶嵌博格达峰下，传说西王母在此...",
+      "full_text": "天山天池海拔1910米如蓝宝石镶嵌博格达峰下，传说西王母在此设蟠桃宴。雪岭云杉环抱湖畔如绿色长城，哈萨克毡房在草甸上如白蘑菇，马鹿在林间出没，冬季银装素裹。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "rivers_lakes_056",
-      "title": "若尔盖湿地",
-      "summary": "若尔盖湿地是黄河上游重要水源涵养地",
-      "full_text": "若尔盖湿地是黄河上游重要水源涵养地",
+      "title": "羊卓雍错碧玉",
+      "summary": "羊卓雍错海拔4441米如碧玉镶嵌雪山之间，湖岸线蜿蜒如珊瑚枝...",
+      "full_text": "羊卓雍错海拔4441米如碧玉镶嵌雪山之间，湖岸线蜿蜒如珊瑚枝。宁金抗沙雪山倒映湖面如镜，藏民在湖边放牧牦牛，水鸟在湖面嬉戏，从岗巴拉山口俯瞰湖面如蓝绸铺展。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "rivers_lakes_057",
-      "title": "三江源湿地",
-      "summary": "三江源湿地是长江黄河澜沧江的发源地",
-      "full_text": "三江源湿地是长江黄河澜沧江的发源地",
+      "title": "拉多加湖围城",
+      "summary": "拉多加湖是欧洲最大湖泊，二战列宁格勒围城时生命之路在冰面上开...",
+      "full_text": "拉多加湖是欧洲最大湖泊，二战列宁格勒围城时生命之路在冰面上开辟。卡车在薄冰上运输物资如走钢丝，无数车辆沉入湖底，胜利纪念碑在湖畔矗立，拉多加海豹在湖中栖息。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "rivers_lakes_058",
-      "title": "扎龙湿地",
-      "summary": "扎龙湿地是丹顶鹤的重要繁殖栖息地",
-      "full_text": "扎龙湿地是丹顶鹤的重要繁殖栖息地",
+      "title": "阿萨勒湖盐",
+      "summary": "吉布提阿萨勒湖是非洲最低点海拔负155米，盐度是海洋十倍如死...",
+      "full_text": "吉布提阿萨勒湖是非洲最低点海拔负155米，盐度是海洋十倍如死海。盐工在烈日下手工采盐，地热温泉在湖边涌出，火山在远处冒烟，骆驼驮运盐块穿越荒原如古商队。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "rivers_lakes_059",
-      "title": "鄱阳湖湿地",
-      "summary": "鄱阳湖湿地冬季白鹤成群越冬场面壮观",
-      "full_text": "鄱阳湖湿地冬季白鹤成群越冬场面壮观",
+      "title": "奥霍斯德尔萨",
+      "summary": "巴塔哥尼亚奥霍斯德尔萨拉多山麓湖泊群如蓝宝石散布荒原，世界最...",
+      "full_text": "巴塔哥尼亚奥霍斯德尔萨拉多山麓湖泊群如蓝宝石散布荒原，世界最高的活火山在此。咸水湖中火烈鸟在海拔四千米处觅食，间歇泉喷出沸水如烟，安第斯山脉如屏障环抱。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "rivers_lakes_060",
-      "title": "米埔湿地",
-      "summary": "香港米埔湿地是候鸟迁徙路线上的重要驿站",
-      "full_text": "香港米埔湿地是候鸟迁徙路线上的重要驿站",
+      "title": "色林错黑颈鹤",
+      "summary": "色林错是西藏第一大湖面积2391平方公里，黑颈鹤在湖边湿地中...",
+      "full_text": "色林错是西藏第一大湖面积2391平方公里，黑颈鹤在湖边湿地中翩翩起舞。藏羚羊在湖畔草原上奔跑，棕头鸥在湖面成群飞翔，湖水在阳光下如蓝宝石闪烁，高原风在湖面吹起涟漪。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "rivers_lakes_061",
-      "title": "卡卡杜湿地",
-      "summary": "卡卡杜湿地雨季洪水泛滥鳄鱼出没其中",
-      "full_text": "卡卡杜湿地雨季洪水泛滥鳄鱼出没其中",
+      "title": "班公湖半淡半咸",
+      "summary": "班公湖横跨中印边境，东部淡水西部咸水同一湖中水质截然不同。淡...",
+      "full_text": "班公湖横跨中印边境，东部淡水西部咸水同一湖中水质截然不同。淡水区鱼类丰富水鸟成群，咸水区寸草不生荒凉如月面，天鹅在淡水区繁殖，湖面如蓝宝石镶嵌喀喇昆仑山间。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "rivers_lakes_062",
-      "title": "奥克弗诺基沼泽",
-      "summary": "奥克弗诺基沼泽中柏树从黑水中矗立如幽灵",
-      "full_text": "奥克弗诺基沼泽中柏树从黑水中矗立如幽灵",
+      "title": "玛旁雍错圣湖",
+      "summary": "玛旁雍错海拔4588米是藏传佛教圣湖，湖水透明度达14米是中...",
+      "full_text": "玛旁雍错海拔4588米是藏传佛教圣湖，湖水透明度达14米是中国最清澈的湖泊。冈仁波齐在湖北如银色金字塔，纳木那尼峰在湖南如白色屏风，朝圣者绕湖转经虔诚无比。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "rivers_lakes_063",
-      "title": "乞力马扎罗冰川融水",
-      "summary": "乞力马扎罗冰川融水形成溪流滋养山下草原",
-      "full_text": "乞力马扎罗冰川融水形成溪流滋养山下草原",
+      "title": "呼伦湖草原明珠",
+      "summary": "呼伦湖是内蒙古最大湖泊面积2339平方公里，被称为草原明珠。...",
+      "full_text": "呼伦湖是内蒙古最大湖泊面积2339平方公里，被称为草原明珠。贝尔湖在南方如姊妹湖，呼伦贝尔草原在湖边如绿色海洋，鸥鸟在湖面飞翔，渔船在夕阳下如金色剪影，冬捕壮观。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "rivers_lakes_064",
-      "title": "冰川湖",
-      "summary": "冰川湖碧蓝如宝石周围雪山环抱景色绝美",
-      "full_text": "冰川湖碧蓝如宝石周围雪山环抱景色绝美",
+      "title": "博斯腾湖芦苇",
+      "summary": "博斯腾湖是中国最大内陆淡水湖面积1066平方公里，芦苇荡绵延...",
+      "full_text": "博斯腾湖是中国最大内陆淡水湖面积1066平方公里，芦苇荡绵延如绿色长城。西海渔歌在湖面回荡，睡莲在浅滩绽放如仙，博斯腾湖是开都河终点孔雀河起点，沙漠中的绿洲明珠。",
       "image": "res://assets/images/illustrations/rivers_lakes/rivers_lakes_064.jpg",
       "image_grid": {
         "x": 3,

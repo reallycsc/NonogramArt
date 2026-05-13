@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "sculpture_000",
-      "title": "纳尔迈调色板",
-      "summary": "古埃及统一王朝的纪念石板，刻有纳尔迈王形象",
-      "full_text": "古埃及统一王朝的纪念石板，刻有纳尔迈王形象",
+      "title": "苏美尔祈祷者像",
+      "summary": "伊拉克阿布神庙出土苏美尔人像，双手合十跪地祈祷，大眼镶嵌贝壳...",
+      "full_text": "伊拉克阿布神庙出土苏美尔人像，双手合十跪地祈祷，大眼镶嵌贝壳与天青石凝视神灵，身体简括而眼神炽烈，反映早期文明对神灵的虔诚敬畏，为人类最早的大型雕塑之一。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "sculpture_001",
-      "title": "吉萨大狮身人面像",
-      "summary": "古埃及吉萨高原上的人面狮身巨像守护法老陵墓",
-      "full_text": "古埃及吉萨高原上的人面狮身巨像守护法老陵墓",
+      "title": "埃及狮身人面像",
+      "summary": "吉萨高原上哈夫拉法老的守护神像，人面狮身长五十七米高二十米，...",
+      "full_text": "吉萨高原上哈夫拉法老的守护神像，人面狮身长五十七米高二十米，面朝东方守卫金字塔，以整座石灰岩山丘雕成，是古埃及王权与神性合一的永恒象征。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_001.jpg",
       "image_grid": {
         "x": 3,
@@ -46,8 +46,8 @@
     {
       "id": "sculpture_002",
       "title": "埃及书记员坐像",
-      "summary": "古埃及石灰岩绘彩书记员盘腿书写的写实坐像",
-      "full_text": "古埃及石灰岩绘彩书记员盘腿书写的写实坐像",
+      "summary": "萨卡拉出土古王国书记员彩绘石灰岩像，盘腿而坐手执纸草，面容专...",
+      "full_text": "萨卡拉出土古王国书记员彩绘石灰岩像，盘腿而坐手执纸草，面容专注双眼以水晶镶嵌炯炯有神，体态写实不事美化，为古埃及最生动的人物肖像雕塑。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "sculpture_003",
-      "title": "图坦卡蒙黄金面具",
-      "summary": "古埃及法老图坦卡蒙的纯金殡葬面具",
-      "full_text": "古埃及法老图坦卡蒙的纯金殡葬面具",
+      "title": "埃及纳芙蒂蒂胸像",
+      "summary": "古埃及第十八王朝王后纳芙蒂蒂彩绘石灰岩胸像，高冠直额修长颈项...",
+      "full_text": "古埃及第十八王朝王后纳芙蒂蒂彩绘石灰岩胸像，高冠直额修长颈项，面容端庄绝美肤色温润，为古埃及雕塑的审美巅峰，被誉为古代世界最美的女子肖像。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "sculpture_004",
-      "title": "苏美尔乌鲁克瓶",
-      "summary": "苏美尔文明浮雕石瓶描绘祭祀仪式场景",
-      "full_text": "苏美尔文明浮雕石瓶描绘祭祀仪式场景",
+      "title": "希腊库罗斯青年像",
+      "summary": "古风时期希腊青年裸体立像，左脚前迈双臂垂握拳，面带古风微笑体...",
+      "full_text": "古风时期希腊青年裸体立像，左脚前迈双臂垂握拳，面带古风微笑体态僵硬如埃及原型，却已迈出自由步伐，标志着希腊人体雕塑独立探索的起点。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "sculpture_005",
-      "title": "波斯波利斯浮雕",
-      "summary": "波斯帝国宫殿阶梯上的朝贡队伍浮雕",
-      "full_text": "波斯帝国宫殿阶梯上的朝贡队伍浮雕",
+      "title": "希腊掷铁饼者",
+      "summary": "希腊雕塑家米隆绘青铜原作，运动员掷铁饼前最紧张瞬间，身体扭转...",
+      "full_text": "希腊雕塑家米隆绘青铜原作，运动员掷铁饼前最紧张瞬间，身体扭转双臂展开如满弓，肌肉绷紧动态平衡，罗马大理石复制品传世，为古典运动人体美学的典范。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "sculpture_006",
-      "title": "萨莫色雷斯胜利女神",
-      "summary": "希腊化时期胜利女神立于船头的飘逸大理石像",
-      "full_text": "希腊化时期胜利女神立于船头的飘逸大理石像",
+      "title": "希腊持矛者",
+      "summary": "希腊雕塑家波利克里托斯创人体比例法则，持矛青年重心落于右腿左...",
+      "full_text": "希腊雕塑家波利克里托斯创人体比例法则，持矛青年重心落于右腿左腿放松，形成对立平衡姿态，肌肉骨骼结构精确，为古典人体比例与和谐的理论实践。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "sculpture_007",
-      "title": "米洛的维纳斯",
-      "summary": "古希腊断臂维纳斯站立的大理石雕像",
-      "full_text": "古希腊断臂维纳斯站立的大理石雕像",
+      "title": "希腊米洛的维纳斯",
+      "summary": "米洛斯岛出土希腊化时期大理石女神像，半裸上身衣褶滑落髋部，面...",
+      "full_text": "米洛斯岛出土希腊化时期大理石女神像，半裸上身衣褶滑落髋部，面容宁静体态呈S形曲线，双臂残缺反增想象空间，为西方女性人体美的永恒象征。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "sculpture_008",
-      "title": "希腊掷铁饼者",
-      "summary": "古希腊米隆塑造运动员掷铁饼瞬间的青铜原作",
-      "full_text": "古希腊米隆塑造运动员掷铁饼瞬间的青铜原作",
+      "title": "希腊萨莫色雷斯胜利女神",
+      "summary": "萨莫色雷斯岛出土大理石像，胜利女神立于船头迎风而立，衣衫被海...",
+      "full_text": "萨莫色雷斯岛出土大理石像，胜利女神立于船头迎风而立，衣衫被海风吹贴身体如湿衣效果，双翼展开气势如虹，为希腊化时期最具动感的雕塑杰作。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "sculpture_009",
-      "title": "帕特农神庙浮雕",
-      "summary": "雅典帕特农神庙檐壁上的泛雅典娜节游行浮雕",
-      "full_text": "雅典帕特农神庙檐壁上的泛雅典娜节游行浮雕",
+      "title": "希腊拉奥孔群像",
+      "summary": "希腊化时期大理石群像，特洛伊祭司拉奥孔与两子被巨蛇缠绕，肌肉...",
+      "full_text": "希腊化时期大理石群像，特洛伊祭司拉奥孔与两子被巨蛇缠绕，肌肉扭曲痛苦挣扎，温克尔曼称其高贵的单纯与静穆的伟大，为古典悲剧美学的极致。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "sculpture_010",
-      "title": "拉奥孔群像",
-      "summary": "希腊化时期拉奥孔父子被海蛇缠绕的痛苦群像",
-      "full_text": "希腊化时期拉奥孔父子被海蛇缠绕的痛苦群像",
+      "title": "秦始皇兵马俑",
+      "summary": "陕西临潼秦始皇陵出土陶俑军阵，八千余真人大小的武士列阵以待，...",
+      "full_text": "陕西临潼秦始皇陵出土陶俑军阵，八千余真人大小的武士列阵以待，面容各异发型甲胄精细可辨，战车战马栩栩如生，为世界最大规模的古代雕塑群，被誉为世界第八奇迹。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "sculpture_011",
-      "title": "奥古斯都像",
-      "summary": "罗马帝国开国皇帝身着铠甲的威严全身像",
-      "full_text": "罗马帝国开国皇帝身着铠甲的威严全身像",
+      "title": "汉代说唱俑",
+      "summary": "四川成都天回山汉墓出土陶俑，说唱艺人上身赤裸大腹便便，左臂挟...",
+      "full_text": "四川成都天回山汉墓出土陶俑，说唱艺人上身赤裸大腹便便，左臂挟鼓右手举槌仰头张口大笑，动作夸张神态诙谐，以极度写意的手法捕捉市井欢乐瞬间。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "sculpture_012",
-      "title": "罗马肖像胸像",
-      "summary": "罗马写实主义贵族男性面部特征的逼真胸像",
-      "full_text": "罗马写实主义贵族男性面部特征的逼真胸像",
+      "title": "汉代马踏飞燕",
+      "summary": "甘肃武威雷台汉墓出土青铜马，骏马昂首嘶鸣三足腾空，一足踏飞燕...",
+      "full_text": "甘肃武威雷台汉墓出土青铜马，骏马昂首嘶鸣三足腾空，一足踏飞燕凌空飞驰，以力学平衡与浪漫想象完美结合，为中国青铜雕塑的巅峰之作，被定为中国旅游标志。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "sculpture_013",
-      "title": "秦始皇兵马俑",
-      "summary": "秦代大规模陶制武士列阵守护帝陵的壮观场景",
-      "full_text": "秦代大规模陶制武士列阵守护帝陵的壮观场景",
+      "title": "云冈石窟大佛",
+      "summary": "山西大同云冈石窟第二十窟露天大佛，高十三点七米面相方圆双目微...",
+      "full_text": "山西大同云冈石窟第二十窟露天大佛，高十三点七米面相方圆双目微垂，袒右肩袈裟贴体衣纹如毛质，融合犍陀罗与中原风格，为北魏皇家石窟造像的恢弘巨制。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "sculpture_014",
-      "title": "汉代说唱俑",
-      "summary": "四川出土汉代陶俑击鼓说唱的生动欢乐姿态",
-      "full_text": "四川出土汉代陶俑击鼓说唱的生动欢乐姿态",
+      "title": "龙门石窟卢舍那大佛",
+      "summary": "河南洛阳龙门石窟奉先寺大佛，高十七米面容丰润含笑，据说以武则...",
+      "full_text": "河南洛阳龙门石窟奉先寺大佛，高十七米面容丰润含笑，据说以武则天为原型，两侧天王力士弟子菩萨环列如朝堂，为唐代石刻造像的最高成就。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "sculpture_015",
-      "title": "汉代铜奔马",
-      "summary": "甘肃武威出土铜马踏飞燕的凌空奔腾造型",
-      "full_text": "甘肃武威出土铜马踏飞燕的凌空奔腾造型",
+      "title": "乐山大佛",
+      "summary": "四川乐山凌云寺弥勒佛坐像，依岷江畔山崖雕成，高七十一米为世界...",
+      "full_text": "四川乐山凌云寺弥勒佛坐像，依岷江畔山崖雕成，高七十一米为世界最大石刻佛像，肩宽二十四米脚背可围坐百人，历经九十年完工，以宏伟尺度镇守三江汇流。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "sculpture_016",
-      "title": "印度桑奇大塔浮雕",
-      "summary": "印度孔雀王朝佛塔塔门上的精美佛教浮雕",
-      "full_text": "印度孔雀王朝佛塔塔门上的精美佛教浮雕",
+      "title": "晋祠侍女像",
+      "summary": "山西太原晋祠圣母殿内宋代彩塑侍女，四十三尊侍女分列两侧，或喜...",
+      "full_text": "山西太原晋祠圣母殿内宋代彩塑侍女，四十三尊侍女分列两侧，或喜或悲或嗔或思，面容丰润衣饰华丽，如真人般生动，为中国古代彩塑人物画的巅峰。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "sculpture_017",
-      "title": "键陀罗佛陀立像",
-      "summary": "键陀罗艺术融合希腊风格塑造的佛陀形象",
-      "full_text": "键陀罗艺术融合希腊风格塑造的佛陀形象",
+      "title": "罗马奥古斯都像",
+      "summary": "罗马第一皇帝奥古斯都大理石像，身着铠甲右手高举如演说，胸甲浮...",
+      "full_text": "罗马第一皇帝奥古斯都大理石像，身着铠甲右手高举如演说，胸甲浮雕描绘帕提亚归还军旗，赤足如神像般崇高，将皇帝塑造为英明统帅与神之子的完美形象。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "sculpture_018",
-      "title": "复活节岛摩艾石像",
-      "summary": "太平洋复活节岛上巨型人头石像的神秘面容",
-      "full_text": "太平洋复活节岛上巨型人头石像的神秘面容",
+      "title": "罗马图拉真柱浮雕",
+      "summary": "罗马图拉真纪念柱上螺旋浮雕带，连续叙述达契亚战争场景，士兵行...",
+      "full_text": "罗马图拉真纪念柱上螺旋浮雕带，连续叙述达契亚战争场景，士兵行军攻城渡河战斗，人物逾两千五百个如史诗画卷展开，为罗马叙事浮雕的最高成就。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "sculpture_019",
-      "title": "奥尔梅克巨石头像",
-      "summary": "中美洲奥尔梅克文明玄武岩巨首的威严面容",
-      "full_text": "中美洲奥尔梅克文明玄武岩巨首的威严面容",
+      "title": "印度桑奇大塔塔门",
+      "summary": "印度桑奇大塔北门石雕，满布佛传故事与本生故事，药叉女攀扶芒果...",
+      "full_text": "印度桑奇大塔北门石雕，满布佛传故事与本生故事，药叉女攀扶芒果树体态妖娆，大象骏马车马出行，以繁复装饰与饱满造型展现印度佛教艺术的华美。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "sculpture_020",
-      "title": "云冈石窟大佛",
-      "summary": "北魏云冈石窟第20窟巨型如来坐像的庄严法相",
-      "full_text": "北魏云冈石窟第20窟巨型如来坐像的庄严法相",
+      "title": "罗马式最后的审判浮雕",
+      "summary": "法国孔克圣福瓦教堂门楣浮雕，基督居中审判灵魂，天使吹号死者复...",
+      "full_text": "法国孔克圣福瓦教堂门楣浮雕，基督居中审判灵魂，天使吹号死者复活，善者升天恶者坠入地狱之口，人物变形拉长以适应弧形空间，以恐怖景象警醒信众。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "sculpture_021",
-      "title": "龙门石窟卢舍那大佛",
-      "summary": "唐代龙门石窟卢舍那佛以武则天为原型的面容",
-      "full_text": "唐代龙门石窟卢舍那佛以武则天为原型的面容",
+      "title": "哥特式沙特尔教堂国王门",
+      "summary": "法国沙特尔教堂西门廊雕像，犹太列王与先知如柱间修长立像，身体...",
+      "full_text": "法国沙特尔教堂西门廊雕像，犹太列王与先知如柱间修长立像，身体贴合建筑如从石柱中生长，衣纹细长褶皱如瀑布流淌，为早期哥特雕塑从建筑独立之始。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "sculpture_022",
-      "title": "敦煌莫高窟彩塑菩萨",
-      "summary": "敦煌石窟中唐代彩塑菩萨的优美身姿",
-      "full_text": "敦煌石窟中唐代彩塑菩萨的优美身姿",
+      "title": "比萨讲经坛浮雕",
+      "summary": "意大利雕塑家尼古拉·皮萨诺为比萨洗礼堂制大理石讲经坛，浮雕描...",
+      "full_text": "意大利雕塑家尼古拉·皮萨诺为比萨洗礼堂制大理石讲经坛，浮雕描绘基督生平，人物厚重如罗马石棺浮雕，古典精神在中世纪重新觉醒，预示文艺复兴来临。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "sculpture_023",
-      "title": "乐山大佛",
-      "summary": "唐代依山雕凿的弥勒坐像，世界最大石刻佛像",
-      "full_text": "唐代依山雕凿的弥勒坐像，世界最大石刻佛像",
+      "title": "纳赫姆圣母像",
+      "summary": "德国纳赫姆教堂S型优雅圣母立像，圣母怀抱圣婴身体呈优美S形曲...",
+      "full_text": "德国纳赫姆教堂S型优雅圣母立像，圣母怀抱圣婴身体呈优美S形曲线，衣褶如瀑布倾泻面容温柔微笑，为国际哥特式风格的典范，从中世纪庄严走向人间温情。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "sculpture_024",
-      "title": "大足石刻千手观音",
-      "summary": "南宋大足石刻千手千眼观音的金碧辉煌",
-      "full_text": "南宋大足石刻千手千眼观音的金碧辉煌",
+      "title": "多纳泰罗大卫",
+      "summary": "意大利雕塑家多纳泰罗制青铜大卫，少年戴花帽持剑脚踏巨人头颅，...",
+      "full_text": "意大利雕塑家多纳泰罗制青铜大卫，少年戴花帽持剑脚踏巨人头颅，身体纤细姿态慵懒如舞蹈，为自古希腊以来第一座独立裸体圆雕，标志人文主义的胜利。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "sculpture_025",
-      "title": "麦积山石窟泥塑",
-      "summary": "北朝麦积山石窟泥塑佛像的温润微笑",
-      "full_text": "北朝麦积山石窟泥塑佛像的温润微笑",
+      "title": "吉贝尔蒂天堂之门",
+      "summary": "佛罗伦萨洗礼堂东门青铜镀金浮雕，吉贝尔蒂以线性透视在浅浮雕中...",
+      "full_text": "佛罗伦萨洗礼堂东门青铜镀金浮雕，吉贝尔蒂以线性透视在浅浮雕中营造深远空间，十幅方格描绘旧约故事，人物姿态优雅如画，米开朗基罗赞为天堂之门。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "sculpture_026",
-      "title": "沙特尔教堂门廊雕塑",
-      "summary": "法国沙特尔教堂门廊上的圣王与先知列柱像",
-      "full_text": "法国沙特尔教堂门廊上的圣王与先知列柱像",
+      "title": "韦罗基奥科莱奥尼骑马像",
+      "summary": "威尼斯雕塑家韦罗基奥制雇佣兵队长青铜骑马像，将军勒马傲立铠甲...",
+      "full_text": "威尼斯雕塑家韦罗基奥制雇佣兵队长青铜骑马像，将军勒马傲立铠甲华美，战马前蹄微抬肌肉紧绷，将军事英雄主义注入雕塑，为文艺复兴骑马像杰作。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "sculpture_027",
-      "title": "兰斯大教堂微笑天使",
-      "summary": "法国兰斯大教堂门廊天使的温柔微笑浮雕",
-      "full_text": "法国兰斯大教堂门廊天使的温柔微笑浮雕",
+      "title": "米开朗基罗大卫",
+      "summary": "米开朗基罗以整块大理石雕成巨人歌利亚挑战前的瞬间，大卫左手持...",
+      "full_text": "米开朗基罗以整块大理石雕成巨人歌利亚挑战前的瞬间，大卫左手持石右手垂握机弦，眉头微蹙目光坚定，肌肉骨骼解剖精确，高五点五米，为文艺复兴人体雕塑巅峰。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "sculpture_028",
-      "title": "维茨莱教堂柱像",
-      "summary": "法国维茨莱修道院柱子上先知的扭曲人体",
-      "full_text": "法国维茨莱修道院柱子上先知的扭曲人体",
+      "title": "米开朗基罗哀悼基督",
+      "summary": "米开朗基罗二十三岁为圣彼得大教堂雕圣母抱基督遗体，圣母年轻面...",
+      "full_text": "米开朗基罗二十三岁为圣彼得大教堂雕圣母抱基督遗体，圣母年轻面容悲悯如少女，基督身体柔滑如沉睡，衣褶如瀑布倾泻，签名于圣母胸带，为唯一署名之作。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "sculpture_029",
-      "title": "班贝格骑士像",
-      "summary": "德国班贝格大教堂内神秘骑士的石雕立像",
-      "full_text": "德国班贝格大教堂内神秘骑士的石雕立像",
+      "title": "米开朗基罗摩西",
+      "summary": "米开朗基罗为教皇尤利乌斯二世陵墓雕摩西坐像，手持十诫法板头生...",
+      "full_text": "米开朗基罗为教皇尤利乌斯二世陵墓雕摩西坐像，手持十诫法板头生双角如光，怒目圆睁如见以色列人拜金牛，肌肉虬结须发如浪，为雕塑史上最具威严的先知形象。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "sculpture_030",
-      "title": "纽伦堡圣母木雕",
-      "summary": "德国纽伦堡教堂中圣母抱子的木雕彩绘",
-      "full_text": "德国纽伦堡教堂中圣母抱子的木雕彩绘",
+      "title": "切利尼珀尔修斯",
+      "summary": "佛罗伦萨雕塑家切利尼制青铜珀尔修斯提美杜莎头颅，英雄高举断头...",
+      "full_text": "佛罗伦萨雕塑家切利尼制青铜珀尔修斯提美杜莎头颅，英雄高举断头鲜血从颈部喷涌，姿态优雅如舞蹈，铸造技术精湛绝伦，为样式主义雕塑巅峰。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "sculpture_031",
-      "title": "比萨讲坛浮雕",
-      "summary": "意大利比萨洗礼堂讲坛上基督生平叙事浮雕",
-      "full_text": "意大利比萨洗礼堂讲坛上基督生平叙事浮雕",
+      "title": "詹博洛尼亚墨丘利",
+      "summary": "佛兰德斯雕塑家詹博洛尼亚制青铜墨丘利像，众神使者足踏西风之口...",
+      "full_text": "佛兰德斯雕塑家詹博洛尼亚制青铜墨丘利像，众神使者足踏西风之口凌空飞跃，身体如Z形螺旋上升失重飘举，为样式主义追求动感与优雅的极致表现。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "sculpture_032",
-      "title": "威尼斯圣马可铜马",
-      "summary": "威尼斯圣马可大教堂门廊上的青铜骏马",
-      "full_text": "威尼斯圣马可大教堂门廊上的青铜骏马",
+      "title": "贝尼尼阿波罗与达芙妮",
+      "summary": "巴洛克雕塑家贝尼尼大理石群像，阿波罗追达芙妮瞬间，达芙妮十指...",
+      "full_text": "巴洛克雕塑家贝尼尼大理石群像，阿波罗追达芙妮瞬间，达芙妮十指化为树枝双腿变为树干，追逐与变形同时发生，大理石如蜡般柔软，为巴洛克动感与幻觉的极致。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "sculpture_033",
-      "title": "吴哥窟阿帕莎拉",
-      "summary": "柬埔寨吴哥石窟中仙女浮雕的婀娜身姿",
-      "full_text": "柬埔寨吴哥石窟中仙女浮雕的婀娜身姿",
+      "title": "贝尼尼圣特蕾莎的狂喜",
+      "summary": "贝尼尼为罗马维多利亚教堂制祭坛雕塑，天使持金矛刺入圣特蕾莎心...",
+      "full_text": "贝尼尼为罗马维多利亚教堂制祭坛雕塑，天使持金矛刺入圣特蕾莎心脏，修女仰头张口面容在痛苦与极乐之间，金色光线从上方倾泻，将宗教神秘体验化为感官戏剧。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "sculpture_034",
-      "title": "婆罗浮屠佛塔浮雕",
-      "summary": "印尼婆罗浮屠佛塔壁上的佛教故事叙事浮雕",
-      "full_text": "印尼婆罗浮屠佛塔壁上的佛教故事叙事浮雕",
+      "title": "贝尼尼大卫",
+      "summary": "贝尼尼大理石大卫投石瞬间，身体扭转如满弓蓄力，嘴唇紧咬眉头紧...",
+      "full_text": "贝尼尼大理石大卫投石瞬间，身体扭转如满弓蓄力，嘴唇紧咬眉头紧锁，与米开朗基罗的静穆不同，以最大张力捕捉动作最激烈的刹那，为巴洛克动态雕塑宣言。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "sculpture_035",
-      "title": "镰仓大佛",
-      "summary": "日本镰仓时代阿弥陀佛青铜坐像的宁静面容",
-      "full_text": "日本镰仓时代阿弥陀佛青铜坐像的宁静面容",
+      "title": "皮热米隆的加莱义民",
+      "summary": "法国雕塑家罗丹制青铜群像，六位加莱市民以绳系颈手持城钥走向牺...",
+      "full_text": "法国雕塑家罗丹制青铜群像，六位加莱市民以绳系颈手持城钥走向牺牲，面容各异或坚定或恐惧或悲怆，打破英雄纪念碑传统以真实人性直面死亡，为现代雕塑先驱。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "sculpture_036",
-      "title": "朝鲜半跏思惟像",
-      "summary": "朝鲜三国时代半跏思惟菩萨的沉思优雅姿态",
-      "full_text": "朝鲜三国时代半跏思惟菩萨的沉思优雅姿态",
+      "title": "罗丹思想者",
+      "summary": "罗丹铜像原为地狱之门上方人物，裸体男子坐于岩石上右肘支膝拳头...",
+      "full_text": "罗丹铜像原为地狱之门上方人物，裸体男子坐于岩石上右肘支膝拳头抵颏，全身肌肉紧绷如思考即行动，以躯体力量表达精神重压，为人类思想意志的永恒象征。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "sculpture_037",
-      "title": "伊斯兰几何纹饰浮雕",
-      "summary": "伊斯兰建筑墙面上的繁复几何纹饰雕刻",
-      "full_text": "伊斯兰建筑墙面上的繁复几何纹饰雕刻",
+      "title": "罗丹吻",
+      "summary": "罗丹大理石像描绘保罗与弗朗切斯卡在地狱中的初吻，男女相拥身体...",
+      "full_text": "罗丹大理石像描绘保罗与弗朗切斯卡在地狱中的初吻，男女相拥身体融合如一体，大理石打磨光滑如肌肤，粗粝石块保留如岩壁，为爱情雕塑的至高表达。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "sculpture_038",
-      "title": "阿尔罕布拉宫灰泥雕",
-      "summary": "西班牙阿尔罕布拉宫墙壁上的阿拉伯灰泥雕花",
-      "full_text": "西班牙阿尔罕布拉宫墙壁上的阿拉伯灰泥雕花",
+      "title": "罗丹巴尔扎克像",
+      "summary": "罗丹为法国文豪巴尔扎克制纪念碑，作家披睡袍深夜写作后仰首沉思...",
+      "full_text": "罗丹为法国文豪巴尔扎克制纪念碑，作家披睡袍深夜写作后仰首沉思，舍弃面部细节以整体气势传达创作精神，初遭拒斥后成现代雕塑里程碑，以不完整抵达更深的真实。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "sculpture_039",
-      "title": "拉文纳镶嵌与浮雕",
-      "summary": "拜占庭拉文纳教堂中的马赛克与石雕结合",
-      "full_text": "拜占庭拉文纳教堂中的马赛克与石雕结合",
+      "title": "布德尔拉弓的赫拉克勒斯",
+      "summary": "法国雕塑家布德尔制青铜赫拉克勒斯拉弓，英雄张弓如满月肌肉如山...",
+      "full_text": "法国雕塑家布德尔制青铜赫拉克勒斯拉弓，英雄张弓如满月肌肉如山岩，构图如X形充满爆发力，将古典题材以现代力量感重新诠释，为英雄主义雕塑的新声。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "sculpture_040",
-      "title": "罗丹思想者",
-      "summary": "罗丹塑造男子俯首沉思的经典青铜雕塑",
-      "full_text": "罗丹塑造男子俯首沉思的经典青铜雕塑",
+      "title": "布朗库西空间中的鸟",
+      "summary": "罗马尼亚雕塑家布朗库西以高度简化抛光青铜塑造飞鸟，流线型如被...",
+      "full_text": "罗马尼亚雕塑家布朗库西以高度简化抛光青铜塑造飞鸟，流线型如被风塑成，表面如镜反射周围空间，以极简形式抵达飞翔的本质，为抽象雕塑的里程碑。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "sculpture_041",
-      "title": "罗丹地狱之门",
-      "summary": "罗丹以但丁神曲为题材的宏伟青铜门浮雕群像",
-      "full_text": "罗丹以但丁神曲为题材的宏伟青铜门浮雕群像",
+      "title": "布朗库西吻",
+      "summary": "布朗库西以粗粝石灰岩雕双人拥抱，两方块形人物面贴面臂环抱，眼...",
+      "full_text": "布朗库西以粗粝石灰岩雕双人拥抱，两方块形人物面贴面臂环抱，眼对眼如一对永恒之印，保留石材原始质感，以最简形式表达爱的本质，与罗丹的吻形成鲜明对比。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "sculpture_042",
-      "title": "罗丹加莱义民",
-      "summary": "罗丹塑造六位市民赴义牺牲的群像雕塑",
-      "full_text": "罗丹塑造六位市民赴义牺牲的群像雕塑",
+      "title": "布朗库西无尽柱",
+      "summary": "布朗库西为罗马尼亚蒂尔古日乌战争纪念碑制不锈钢柱，菱形模块如...",
+      "full_text": "布朗库西为罗马尼亚蒂尔古日乌战争纪念碑制不锈钢柱，菱形模块如DNA螺旋无限重复直冲天际，高三十米如通天之梯，以纯粹形式的重复抵达无限与超越。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "sculpture_043",
-      "title": "罗丹巴尔扎克像",
-      "summary": "罗丹塑造身裹睡袍的巴尔扎克雄伟立像",
-      "full_text": "罗丹塑造身裹睡袍的巴尔扎克雄伟立像",
+      "title": "阿尔普云山",
+      "summary": "法国雕塑家阿尔普以生物形态创作大理石浮雕，如云如山如胚胎般圆...",
+      "full_text": "法国雕塑家阿尔普以生物形态创作大理石浮雕，如云如山如胚胎般圆润的形态从石面隆起，边界模糊如自然生长，以偶然与有机形态挑战几何抽象的冰冷秩序。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "sculpture_044",
-      "title": "布朗库西无尽柱",
-      "summary": "布朗库西以菱形模块重复堆叠的无限延伸柱体",
-      "full_text": "布朗库西以菱形模块重复堆叠的无限延伸柱体",
+      "title": "摩尔斜倚的人体",
+      "summary": "英国雕塑家摩尔以半抽象形式创作斜倚人体，受墨西哥玛雅雕塑启发...",
+      "full_text": "英国雕塑家摩尔以半抽象形式创作斜倚人体，受墨西哥玛雅雕塑启发，人体简化为山丘般的起伏，空洞穿透躯干如洞穴，将人体与风景融为一体，为二十世纪最具辨识度的雕塑语言。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "sculpture_045",
-      "title": "布朗库西空间中的鸟",
-      "summary": "布朗库西以流线型抛光青铜塑造飞鸟的动感",
-      "full_text": "布朗库西以流线型抛光青铜塑造飞鸟的动感",
+      "title": "贾科梅蒂行走的人",
+      "summary": "瑞士雕塑家贾科梅蒂制青铜细长人形，如被空间侵蚀至极限的躯干，...",
+      "full_text": "瑞士雕塑家贾科梅蒂制青铜细长人形，如被空间侵蚀至极限的躯干，头颅前倾如负重前行，粗糙表面如战后废墟，以极度消瘦表达现代人的存在焦虑与孤独。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "sculpture_046",
-      "title": "布朗库西吻",
-      "summary": "布朗库西以简练几何塑造情侣相拥的原始造型",
-      "full_text": "布朗库西以简练几何塑造情侣相拥的原始造型",
+      "title": "考尔德动态雕塑",
+      "summary": "美国雕塑家考尔德以金属片与钢丝制作动态雕塑，彩色叶片如鱼如叶...",
+      "full_text": "美国雕塑家考尔德以金属片与钢丝制作动态雕塑，彩色叶片如鱼如叶在气流中缓缓旋转摇曳，杜尚命名为动态雕塑，将时间与运动引入雕塑，开创 kinetic art 新领域。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "sculpture_047",
-      "title": "马约尔地中海",
-      "summary": "马约尔以丰腴女性人体象征地中海的沉静",
-      "full_text": "马约尔以丰腴女性人体象征地中海的沉静",
+      "title": "野口勇红立方",
+      "summary": "日裔美国雕塑家野口勇以红色钢板构成立方体，内部挖空如雕塑与建...",
+      "full_text": "日裔美国雕塑家野口勇以红色钢板构成立方体，内部挖空如雕塑与建筑的融合，既可穿行又可仰望，将东方空间意识与西方几何抽象结合，为公共雕塑的典范。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "sculpture_048",
-      "title": "亨利摩尔斜倚的人体",
-      "summary": "亨利摩尔以有机空洞塑造斜卧人体的抽象形态",
-      "full_text": "亨利摩尔以有机空洞塑造斜卧人体的抽象形态",
+      "title": "史密森螺旋形防波堤",
+      "summary": "美国艺术家史密森于大盐湖畔以黑色岩石泥土筑成螺旋形堤坝，长四...",
+      "full_text": "美国艺术家史密森于大盐湖畔以黑色岩石泥土筑成螺旋形堤坝，长四百六十米如远古图腾伸入红色湖水，以大地为画布创作，为大地艺术的标志性作品。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "sculpture_049",
-      "title": "亨利摩尔国王与王后",
-      "summary": "亨利摩尔塑造半抽象的国王王后并肩坐像",
-      "full_text": "亨利摩尔塑造半抽象的国王王后并肩坐像",
+      "title": "赫普沃斯穿孔的形体",
+      "summary": "英国雕塑家赫普沃斯以木或石创作抽象形体，穿孔引入光线与空间，...",
+      "full_text": "英国雕塑家赫普沃斯以木或石创作抽象形体，穿孔引入光线与空间，弦线穿越洞口如乐器，将内部空间与外部形态统一，以有机抽象表达人与自然的和谐。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "sculpture_050",
-      "title": "贾科梅蒂行走的人",
-      "summary": "贾科梅蒂塑造极度细长的人形孤独行走之姿",
-      "full_text": "贾科梅蒂塑造极度细长的人形孤独行走之姿",
+      "title": "利伯曼大都会门",
+      "summary": "美国雕塑家利伯曼以不锈钢管构成拱门如人体骨骼，红色漆面在阳光...",
+      "full_text": "美国雕塑家利伯曼以不锈钢管构成拱门如人体骨骼，红色漆面在阳光下闪耀，如巨人的脊柱矗立于城市广场，将抽象结构与人体隐喻结合为公共艺术地标。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "sculpture_051",
-      "title": "贾科梅蒂指示者",
-      "summary": "贾科梅蒂塑造瘦长人形指向前方的存在主义雕塑",
-      "full_text": "贾科梅蒂塑造瘦长人形指向前方的存在主义雕塑",
+      "title": "塞拉弯曲的弧",
+      "summary": "美国雕塑家塞拉以耐候钢板弯成巨大弧形，高四米长三十余米如钢铁...",
+      "full_text": "美国雕塑家塞拉以耐候钢板弯成巨大弧形，高四米长三十余米如钢铁峡谷，观者行走其间感受空间的压迫与释放，以纯粹材料与空间关系挑战雕塑的定义。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "sculpture_052",
-      "title": "布尔德尔拉弓的赫拉克勒斯",
-      "summary": "布尔德尔塑造英雄弯弓的力与美之雕塑",
-      "full_text": "布尔德尔塑造英雄弯弓的力与美之雕塑",
+      "title": "波依斯油脂椅",
+      "summary": "德国艺术家波依斯以油脂填入木椅角落，毛毡包裹椅子如温暖的身体...",
+      "full_text": "德国艺术家波依斯以油脂填入木椅角落，毛毡包裹椅子如温暖的身体，以材料隐喻温暖与能量，扩展雕塑概念至社会雕塑，追问艺术如何改变世界。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "sculpture_053",
-      "title": "利普希茨人与猫",
-      "summary": "利普希茨以立体主义手法塑造人物与猫的抽象形体",
-      "full_text": "利普希茨以立体主义手法塑造人物与猫的抽象形体",
+      "title": "草间弥生南瓜",
+      "summary": "日本艺术家草间弥生以波点覆盖巨型南瓜雕塑，黄色南瓜表面布满黑...",
+      "full_text": "日本艺术家草间弥生以波点覆盖巨型南瓜雕塑，黄色南瓜表面布满黑色圆点如无限增殖，安置于濑户内海直岛堤头，以强迫性重复创造标志性的视觉奇观。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "sculpture_054",
-      "title": "阿尔普云的牧羊",
-      "summary": "阿尔普以圆润有机形态塑造的抽象生物造型",
-      "full_text": "阿尔普以圆润有机形态塑造的抽象生物造型",
+      "title": "安尼施·卡普尔云门",
+      "summary": "英国印度裔艺术家卡普尔于芝加哥千禧公园制不锈钢巨豆，表面如液...",
+      "full_text": "英国印度裔艺术家卡普尔于芝加哥千禧公园制不锈钢巨豆，表面如液态水银映射城市天际线与行人，底部如肚脐般内凹扭曲倒影，被称为豆子，为最热门公共艺术。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "sculpture_055",
-      "title": "考尔德动态雕塑",
-      "summary": "考尔德以金属片与细杆悬挂的随风运动雕塑",
-      "full_text": "考尔德以金属片与细杆悬挂的随风运动雕塑",
+      "title": "布尔乔亚大蜘蛛",
+      "summary": "法裔美国女艺术家布尔乔亚制巨型蜘蛛雕塑，高九米如守护者般矗立...",
+      "full_text": "法裔美国女艺术家布尔乔亚制巨型蜘蛛雕塑，高九米如守护者般矗立，钢骨如母亲般坚强而危险，名为妈妈，以蜘蛛隐喻母亲编织修复与保护的力量。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "sculpture_056",
-      "title": "考尔德静止雕塑",
-      "summary": "考尔德以焊接金属片构成的稳固抽象造型",
-      "full_text": "考尔德以焊接金属片构成的稳固抽象造型",
+      "title": "奥登伯格衣夹",
+      "summary": "美国波普雕塑家奥登伯格将日常衣夹放大为十五米高不锈钢纪念碑，...",
+      "full_text": "美国波普雕塑家奥登伯格将日常衣夹放大为十五米高不锈钢纪念碑，矗立于费城市中心如现代图腾，将最平凡的物件提升为城市地标，颠覆雕塑的崇高传统。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "sculpture_057",
-      "title": "马里尼骑士",
-      "summary": "马里尼塑造骑士与马紧张对峙的现代青铜雕塑",
-      "full_text": "马里尼塑造骑士与马紧张对峙的现代青铜雕塑",
+      "title": "白南准电子超级高速公路",
+      "summary": "韩国艺术家白南准以霓虹灯管勾勒美国地图，各州以不同颜色标识如...",
+      "full_text": "韩国艺术家白南准以霓虹灯管勾勒美国地图，各州以不同颜色标识如电子脉冲流动，电视机散布其间如信息节点，预言数字时代的网络连接，为新媒体雕塑先驱。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "sculpture_058",
-      "title": "里希埃飓风",
-      "summary": "里希埃以粗糙肌理塑造暴风雨中挣扎的人形",
-      "full_text": "里希埃以粗糙肌理塑造暴风雨中挣扎的人形",
+      "title": "翠西·艾敏我的床",
+      "summary": "英国艺术家艾敏将私人床铺连同脏床单避孕套烟头原样搬入美术馆，...",
+      "full_text": "英国艺术家艾敏将私人床铺连同脏床单避孕套烟头原样搬入美术馆，将最私密的生活残骸暴露于公共空间，追问何为艺术何为生活，为青年英国艺术家的争议之作。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "sculpture_059",
-      "title": "野口勇红立方",
-      "summary": "野口勇以红色钢立方斜立于街头的现代雕塑",
-      "full_text": "野口勇以红色钢立方斜立于街头的现代雕塑",
+      "title": "蔡国强天梯",
+      "summary": "中国艺术家蔡国强以火药在惠屿岛点燃五百米天梯，焰火如金色阶梯...",
+      "full_text": "中国艺术家蔡国强以火药在惠屿岛点燃五百米天梯，焰火如金色阶梯直冲云霄，为百岁奶奶与宇宙对话而作，以瞬间燃烧抵达永恒，将东方火药化为当代艺术奇观。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "sculpture_060",
-      "title": "史密森螺旋形防波堤",
-      "summary": "史密森在大盐湖中以岩石构筑的巨大螺旋",
-      "full_text": "史密森在大盐湖中以岩石构筑的巨大螺旋",
+      "title": "帕特农神庙檐壁浮雕",
+      "summary": "帕特农神庙檐壁浮雕描绘泛雅典娜节盛大游行，骑士列队骏马奔腾，...",
+      "full_text": "帕特农神庙檐壁浮雕描绘泛雅典娜节盛大游行，骑士列队骏马奔腾，少女捧祭品缓步前行，人物姿态自然衣纹流畅，是古希腊古典时期雕刻的最高典范，现藏大英博物馆。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "sculpture_061",
-      "title": "塞拉弯曲的弧",
-      "summary": "塞拉以巨大耐候钢板弯曲围合的沉浸空间",
-      "full_text": "塞拉以巨大耐候钢板弯曲围合的沉浸空间",
+      "title": "古埃及哈夫拉坐像",
+      "summary": "吉萨出土哈夫拉法老坐像，法老端坐王座头戴尼美斯头巾，荷鲁斯猎...",
+      "full_text": "吉萨出土哈夫拉法老坐像，法老端坐王座头戴尼美斯头巾，荷鲁斯猎鹰展开双翼护佑其后，闪长岩质地坚硬象征永恒，为古埃及王权神化的至高象征，现藏开罗博物馆。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "sculpture_062",
-      "title": "塞拉倾斜的圆弧",
-      "summary": "塞拉以倾斜钢板构成的圆弧形空间体验",
-      "full_text": "塞拉以倾斜钢板构成的圆弧形空间体验",
+      "title": "亚述猎狮浮雕",
+      "summary": "尼尼微宫殿亚述猎狮浮雕，国王立于战车引弓射狮，中箭雄狮鲜血喷...",
+      "full_text": "尼尼微宫殿亚述猎狮浮雕，国王立于战车引弓射狮，中箭雄狮鲜血喷涌仍奋力挣扎，肌肉骨骼刻画精确如解剖图，为古代最震撼的动物雕塑叙事，现藏大英博物馆。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "sculpture_063",
-      "title": "卡普尔云门",
-      "summary": "卡普尔以抛光不锈钢反射城市天际线的豆形雕塑",
-      "full_text": "卡普尔以抛光不锈钢反射城市天际线的豆形雕塑",
+      "title": "复活节岛石像",
+      "summary": "太平洋复活节岛上近千尊巨石人像沿海岸排列，高者逾十米重数十吨...",
+      "full_text": "太平洋复活节岛上近千尊巨石人像沿海岸排列，高者逾十米重数十吨，长脸深目神情肃穆如沉默的守望者，为波利尼西亚文明最神秘的雕塑遗产。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "sculpture_064",
-      "title": "卡普尔天空之镜",
-      "summary": "卡普尔以凹面镜反射天空的红色凹面雕塑",
-      "full_text": "卡普尔以凹面镜反射天空的红色凹面雕塑",
+      "title": "唐代昭陵六骏",
+      "summary": "唐太宗昭陵六骏浮雕，六匹战马或立或行或驰，箭伤刀痕如实记录征...",
+      "full_text": "唐太宗昭陵六骏浮雕，六匹战马或立或行或驰，箭伤刀痕如实记录征战岁月，浮雕半圆雕结合手法雄健，为唐代纪念性雕塑的杰出代表。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_064.jpg",
       "image_grid": {
         "x": 3,
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "sculpture_065",
-      "title": "草间弥生南瓜",
-      "summary": "草间弥生以圆点装饰的巨型黄色南瓜雕塑",
-      "full_text": "草间弥生以圆点装饰的巨型黄色南瓜雕塑",
+      "title": "宋代木雕水月观音",
+      "summary": "宋代木雕水月观音像，观音游戏坐于岩山之上姿态闲适，衣纹流畅如...",
+      "full_text": "宋代木雕水月观音像，观音游戏坐于岩山之上姿态闲适，衣纹流畅如水波，木质温润刀法圆融，体现宋人审美由雄健转向温雅，为木雕造像的巅峰之作。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_065.jpg",
       "image_grid": {
         "x": 3,
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "sculpture_066",
-      "title": "昆斯气球狗",
-      "summary": "昆斯以镜面不锈钢制作巨型气球狗的波普雕塑",
-      "full_text": "昆斯以镜面不锈钢制作巨型气球狗的波普雕塑",
+      "title": "米开朗基罗被缚的奴隶",
+      "summary": "米开朗基罗为教皇陵墓雕刻奴隶像，壮硕身躯扭转挣扎如欲挣脱石壁...",
+      "full_text": "米开朗基罗为教皇陵墓雕刻奴隶像，壮硕身躯扭转挣扎如欲挣脱石壁束缚，肌肉紧绷力量蓄而不发，未完成的粗砺更添挣脱之感，现藏巴黎卢浮宫。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_066.jpg",
       "image_grid": {
         "x": 3,
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "sculpture_067",
-      "title": "昆斯兔子",
-      "summary": "昆斯以不锈钢制作巨型充气兔子的光滑雕塑",
-      "full_text": "昆斯以不锈钢制作巨型充气兔子的光滑雕塑",
+      "title": "卡诺瓦帕奥利娜像",
+      "summary": "意大利新古典主义雕塑家卡诺瓦为拿破仑妹妹塑像，帕奥利娜以维纳...",
+      "full_text": "意大利新古典主义雕塑家卡诺瓦为拿破仑妹妹塑像，帕奥利娜以维纳斯之姿斜倚卧榻手持苹果，大理石打磨至如肌肤般温润，为新古典主义肖像雕塑极品。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_067.jpg",
       "image_grid": {
         "x": 3,
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "sculpture_068",
-      "title": "奥登伯格衣夹",
-      "summary": "奥登伯格以放大日常物品为城市公共雕塑",
-      "full_text": "奥登伯格以放大日常物品为城市公共雕塑",
+      "title": "吕德马赛曲浮雕",
+      "summary": "法国雕塑家吕德为凯旋门创作马赛曲浮雕，自由女神振臂高呼指引志...",
+      "full_text": "法国雕塑家吕德为凯旋门创作马赛曲浮雕，自由女神振臂高呼指引志愿军前进，蓄须老者与少年并肩而行，激情飞扬如战歌如号角，为法国最激昂的爱国雕塑。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_068.jpg",
       "image_grid": {
         "x": 3,
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "sculpture_069",
-      "title": "奥登伯格汤匙桥樱桃",
-      "summary": "奥登伯格以巨大汤匙与樱桃的公共景观雕塑",
-      "full_text": "奥登伯格以巨大汤匙与樱桃的公共景观雕塑",
+      "title": "马约尔地中海",
+      "summary": "法国雕塑家马约尔以丰满女性人体寓意地中海，女子端坐如山丘般浑...",
+      "full_text": "法国雕塑家马约尔以丰满女性人体寓意地中海，女子端坐如山丘般浑厚沉稳，形体简化至极致却蕴含无穷力量，为二十世纪回归古典人体雕塑的先声。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_069.jpg",
       "image_grid": {
         "x": 3,
@@ -1473,9 +1473,9 @@
     },
     {
       "id": "sculpture_070",
-      "title": "白南准电子超级高速公路",
-      "summary": "白南准以电视机拼组美国地图的装置雕塑",
-      "full_text": "白南准以电视机拼组美国地图的装置雕塑",
+      "title": "非洲木雕面具",
+      "summary": "西非部落木雕面具以简括几何造型表现祖先灵魂，心形面庞圆柱鼻梁...",
+      "full_text": "西非部落木雕面具以简括几何造型表现祖先灵魂，心形面庞圆柱鼻梁如灵魂的符号而非肉身的复制，深刻影响了二十世纪西方现代主义艺术的变革。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_070.jpg",
       "image_grid": {
         "x": 3,
@@ -1494,9 +1494,9 @@
     },
     {
       "id": "sculpture_071",
-      "title": "穆尔大型拱门",
-      "summary": "穆尔以巨大青铜拱门框住自然风景的公共雕塑",
-      "full_text": "穆尔以巨大青铜拱门框住自然风景的公共雕塑",
+      "title": "扎德金被毁的城市",
+      "summary": "俄裔法籍雕塑家扎德金为鹿特丹创作纪念碑，人物仰面张臂如呐喊如...",
+      "full_text": "俄裔法籍雕塑家扎德金为鹿特丹创作纪念碑，人物仰面张臂如呐喊如控诉，胸腔空洞如战争撕裂的创伤，为二战毁灭最震撼的雕塑哀歌。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_071.jpg",
       "image_grid": {
         "x": 3,
@@ -1515,9 +1515,9 @@
     },
     {
       "id": "sculpture_072",
-      "title": "布尔乔亚大蜘蛛",
-      "summary": "布尔乔亚以巨型蜘蛛象征母性的震撼装置",
-      "full_text": "布尔乔亚以巨型蜘蛛象征母性的震撼装置",
+      "title": "马里尼骑士像",
+      "summary": "意大利雕塑家马里尼以骑士系列表达现代人的焦虑，骑士双臂张开如...",
+      "full_text": "意大利雕塑家马里尼以骑士系列表达现代人的焦虑，骑士双臂张开如坠如飞，马匹前腿僵直如惊如恐，以古老骑马像形式注入存在主义的不安。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_072.jpg",
       "image_grid": {
         "x": 3,
@@ -1536,9 +1536,9 @@
     },
     {
       "id": "sculpture_073",
-      "title": "葛姆雷北方天使",
-      "summary": "葛姆雷以巨型钢铸人形翼展二十米的公共雕塑",
-      "full_text": "葛姆雷以巨型钢铸人形翼展二十米的公共雕塑",
+      "title": "穆克超写实人像",
+      "summary": "澳大利亚雕塑家穆克以硅胶玻璃钢创作超写实人像，毛孔皱纹血管如...",
+      "full_text": "澳大利亚雕塑家穆克以硅胶玻璃钢创作超写实人像，毛孔皱纹血管如真人般精确，尺度或巨大或微小如梦境如幻觉，以极端逼真质疑真实与虚构的边界。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_073.jpg",
       "image_grid": {
         "x": 3,
@@ -1557,9 +1557,9 @@
     },
     {
       "id": "sculpture_074",
-      "title": "克里斯托包裹国会大厦",
-      "summary": "克里斯托以银色织物包裹柏林国会大厦的装置",
-      "full_text": "克里斯托以银色织物包裹柏林国会大厦的装置",
+      "title": "德马里亚闪电原野",
+      "summary": "美国大地艺术家德马里亚在新墨西哥荒漠竖立四百根不锈钢杆，雷暴...",
+      "full_text": "美国大地艺术家德马里亚在新墨西哥荒漠竖立四百根不锈钢杆，雷暴时闪电击中钢杆如天神之怒如自然之诗，为大地艺术最壮观的与自然对话之作。",
       "image": "res://assets/images/illustrations/sculpture/sculpture_074.jpg",
       "image_grid": {
         "x": 3,

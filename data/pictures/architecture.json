@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "architecture_000",
-      "title": "吉萨大金字塔",
-      "summary": "古埃及第四王朝法老陵墓，世界七大奇迹之一",
-      "full_text": "古埃及第四王朝法老陵墓，世界七大奇迹之一",
+      "title": "埃及卡纳克神庙",
+      "summary": "卢克索卡纳克神庙多柱大厅，一百三十四根巨柱如石林耸立，最高柱...",
+      "full_text": "卢克索卡纳克神庙多柱大厅，一百三十四根巨柱如石林耸立，最高柱达二十三米，柱身满布浮雕彩绘，阳光从天窗洒入如神之光，为古埃及最宏伟的建筑空间。",
       "image": "res://assets/images/illustrations/architecture/architecture_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "architecture_001",
-      "title": "卡纳克神庙",
-      "summary": "古埃及底比斯阿蒙神庙的多柱大厅宏伟遗迹",
-      "full_text": "古埃及底比斯阿蒙神庙的多柱大厅宏伟遗迹",
+      "title": "埃及阿布辛贝神庙",
+      "summary": "拉美西斯二世在尼罗河畔岩壁中凿出神庙，四尊二十米高法老坐像守...",
+      "full_text": "拉美西斯二世在尼罗河畔岩壁中凿出神庙，四尊二十米高法老坐像守卫入口，每年二月与十月阳光直射内殿照亮法老面容，以天文精度彰显王权神威。",
       "image": "res://assets/images/illustrations/architecture/architecture_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "architecture_002",
-      "title": "阿布辛贝神庙",
-      "summary": "拉美西斯二世在岩壁上凿建的巨型神庙",
-      "full_text": "拉美西斯二世在岩壁上凿建的巨型神庙",
+      "title": "乌尔塔庙",
+      "summary": "伊拉克乌尔城苏美尔塔庙，层层递减的台阶如通天之梯，基底六十四...",
+      "full_text": "伊拉克乌尔城苏美尔塔庙，层层递减的台阶如通天之梯，基底六十四米见方高三十米，为两河流域最早的神庙建筑形式，象征人神之间的垂直通道。",
       "image": "res://assets/images/illustrations/architecture/architecture_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "architecture_003",
-      "title": "帕特农神庙",
-      "summary": "古希腊雅典卫城上供奉雅典娜的多利安柱式神庙",
-      "full_text": "古希腊雅典卫城上供奉雅典娜的多利安柱式神庙",
+      "title": "波斯波利斯宫殿",
+      "summary": "波斯帝国大流士一世建仪典宫殿，万国门人首牛身柱如帝国威仪，百...",
+      "full_text": "波斯帝国大流士一世建仪典宫殿，万国门人首牛身柱如帝国威仪，百柱殿如石林列阵，浮雕描绘各国使臣朝贡如帝国编年史，为古代世界最壮观的仪典建筑。",
       "image": "res://assets/images/illustrations/architecture/architecture_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "architecture_004",
-      "title": "古罗马万神庙",
-      "summary": "古罗马穹顶大殿以天眼采光的神庙建筑",
-      "full_text": "古罗马穹顶大殿以天眼采光的神庙建筑",
+      "title": "希腊帕特农神庙",
+      "summary": "雅典卫城帕特农神庙，多立克柱式围廊如数学诗篇，柱身微凸角柱微...",
+      "full_text": "雅典卫城帕特农神庙，多立克柱式围廊如数学诗篇，柱身微凸角柱微倾视觉校正如完美曲线，供奉雅典娜黄金象牙巨像，为古典建筑和谐比例的永恒典范。",
       "image": "res://assets/images/illustrations/architecture/architecture_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "architecture_005",
-      "title": "古罗马斗兽场",
-      "summary": "古罗马椭圆形角斗场可容五万观众的宏伟建筑",
-      "full_text": "古罗马椭圆形角斗场可容五万观众的宏伟建筑",
+      "title": "希腊伊瑞克提翁神庙",
+      "summary": "雅典卫城伊瑞克提翁神庙，六尊少女柱如石化的卡里亚提德支撑门廊...",
+      "full_text": "雅典卫城伊瑞克提翁神庙，六尊少女柱如石化的卡里亚提德支撑门廊，爱奥尼柱式纤细优雅与帕特农的雄健对比，为古典建筑最柔美的篇章。",
       "image": "res://assets/images/illustrations/architecture/architecture_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "architecture_006",
-      "title": "古罗马高架引水渠",
-      "summary": "古罗马横跨山谷的多层拱形引水渠遗迹",
-      "full_text": "古罗马横跨山谷的多层拱形引水渠遗迹",
+      "title": "罗马万神殿",
+      "summary": "罗马万神殿穹顶直径四十三米如苍穹覆盖，顶部九米圆洞如天眼倾泻...",
+      "full_text": "罗马万神殿穹顶直径四十三米如苍穹覆盖，顶部九米圆洞如天眼倾泻天光，混凝土穹顶如宇宙般完美球体，为古罗马建筑技术的巅峰，屹立近两千年。",
       "image": "res://assets/images/illustrations/architecture/architecture_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "architecture_007",
-      "title": "长城八达岭段",
-      "summary": "中国明代砖石砌筑的万里长城险峻段落",
-      "full_text": "中国明代砖石砌筑的万里长城险峻段落",
+      "title": "罗马斗兽场",
+      "summary": "罗马斗兽场椭圆形四层拱券如巨环，可容五万观众，底层多立克二层...",
+      "full_text": "罗马斗兽场椭圆形四层拱券如巨环，可容五万观众，底层多立克二层爱奥尼三层科林斯如柱式教科书，拱券结构如骨骼支撑，为罗马工程与娱乐文化的纪念碑。",
       "image": "res://assets/images/illustrations/architecture/architecture_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "architecture_008",
-      "title": "故宫太和殿",
-      "summary": "北京紫禁城中最高等级的重檐庑殿顶大殿",
-      "full_text": "北京紫禁城中最高等级的重檐庑殿顶大殿",
+      "title": "罗马卡拉卡拉浴场",
+      "summary": "罗马卡拉卡拉浴场如城市中的宫殿，拱顶大厅热水温水冷水浴池依次...",
+      "full_text": "罗马卡拉卡拉浴场如城市中的宫殿，拱顶大厅热水温水冷水浴池依次排列，马赛克地面大理石墙面如奢华宫殿，为罗马公共建筑与工程技术的集大成。",
       "image": "res://assets/images/illustrations/architecture/architecture_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "architecture_009",
-      "title": "天坛祈年殿",
-      "summary": "明清皇帝祈谷的三重檐圆形蓝色琉璃瓦殿",
-      "full_text": "明清皇帝祈谷的三重檐圆形蓝色琉璃瓦殿",
+      "title": "罗马高架引水渠",
+      "summary": "法国尼姆加尔桥三层拱券横跨河谷，最高四十九米如石虹飞架，以精...",
+      "full_text": "法国尼姆加尔桥三层拱券横跨河谷，最高四十九米如石虹飞架，以精确坡度引水五十公里，如巨人的数学游戏，为罗马工程实用与壮美的完美结合。",
       "image": "res://assets/images/illustrations/architecture/architecture_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "architecture_010",
-      "title": "秦始皇陵",
-      "summary": "秦代以兵马俑守卫的宏大帝王陵墓建筑群",
-      "full_text": "秦代以兵马俑守卫的宏大帝王陵墓建筑群",
+      "title": "长城八达岭",
+      "summary": "中国长城横亘北方山脉如巨龙蜿蜒，八达岭段以砖石砌筑敌楼烽火台...",
+      "full_text": "中国长城横亘北方山脉如巨龙蜿蜒，八达岭段以砖石砌筑敌楼烽火台间隔分布，依山就势高低起伏，绵延万里为人类最大建筑工程，为中华文明的精神象征。",
       "image": "res://assets/images/illustrations/architecture/architecture_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "architecture_011",
-      "title": "布达拉宫",
-      "summary": "拉萨红山上达赖喇嘛的宫殿与寺院建筑群",
-      "full_text": "拉萨红山上达赖喇嘛的宫殿与寺院建筑群",
+      "title": "秦始皇陵",
+      "summary": "陕西临潼秦始皇陵覆斗形封土高七十六米，地下宫殿以水银为百川大...",
+      "full_text": "陕西临潼秦始皇陵覆斗形封土高七十六米，地下宫殿以水银为百川大海，上具天文下具地理如微缩宇宙，为世界最大帝陵，两千年来守护着千古一帝的永恒帝国。",
       "image": "res://assets/images/illustrations/architecture/architecture_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "architecture_012",
-      "title": "吴哥窟",
-      "summary": "柬埔寨高棉帝国以回廊与塔楼构成的寺庙山",
-      "full_text": "柬埔寨高棉帝国以回廊与塔楼构成的寺庙山",
+      "title": "唐大明宫含元殿",
+      "summary": "长安大明宫含元殿建于龙首原上，三层台基如天梯，殿前龙尾道蜿蜒...",
+      "full_text": "长安大明宫含元殿建于龙首原上，三层台基如天梯，殿前龙尾道蜿蜒而上，面阔十三间如朝堂之极，为唐代最宏伟的宫殿建筑，万国来朝于此。",
       "image": "res://assets/images/illustrations/architecture/architecture_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "architecture_013",
-      "title": "婆罗浮屠",
-      "summary": "印尼爪哇岛上的阶梯式佛塔与浮雕建筑群",
-      "full_text": "印尼爪哇岛上的阶梯式佛塔与浮雕建筑群",
+      "title": "佛光寺东大殿",
+      "summary": "山西五台佛光寺东大殿为现存最大唐代木构，面阔七间单檐庑殿顶，...",
+      "full_text": "山西五台佛光寺东大殿为现存最大唐代木构，面阔七间单檐庑殿顶，斗拱硕大出檐深远如大鹏展翅，梁思成誉为中国第一国宝，为唐代建筑的活化石。",
       "image": "res://assets/images/illustrations/architecture/architecture_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "architecture_014",
-      "title": "特奥蒂瓦坎太阳金字塔",
-      "summary": "墨西哥特奥蒂瓦坎古城的巨型阶梯金字塔",
-      "full_text": "墨西哥特奥蒂瓦坎古城的巨型阶梯金字塔",
+      "title": "南禅寺大殿",
+      "summary": "山西五台南禅寺大殿为现存最早唐代木构，建中三年重建，面阔三间...",
+      "full_text": "山西五台南禅寺大殿为现存最早唐代木构，建中三年重建，面阔三间进深三间，单檐歇山顶如唐风犹存，为研究唐代建筑最珍贵的实物。",
       "image": "res://assets/images/illustrations/architecture/architecture_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "architecture_015",
-      "title": "奇琴伊察库库尔坎金字塔",
-      "summary": "玛雅文明春分光影蛇形降临的阶梯金字塔",
-      "full_text": "玛雅文明春分光影蛇形降临的阶梯金字塔",
+      "title": "吴哥窟",
+      "summary": "柬埔寨吴哥窟为世界最大宗教建筑群，五座莲花塔如须弥山耸立于三...",
+      "full_text": "柬埔寨吴哥窟为世界最大宗教建筑群，五座莲花塔如须弥山耸立于三层回廊之上，浮雕绵延八百米如石头史诗，护城河如宇宙之海环绕，为高棉文明的巅峰。",
       "image": "res://assets/images/illustrations/architecture/architecture_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "architecture_016",
-      "title": "佩特拉古城",
-      "summary": "纳巴泰人在砂岩崖壁上凿刻的玫瑰色城市",
-      "full_text": "纳巴泰人在砂岩崖壁上凿刻的玫瑰色城市",
+      "title": "婆罗浮屠",
+      "summary": "印度尼西亚婆罗浮屠如一座石头曼陀罗，九层平台如修行阶梯，两千...",
+      "full_text": "印度尼西亚婆罗浮屠如一座石头曼陀罗，九层平台如修行阶梯，两千六百块浮雕与五百尊佛像如佛法百科全书，从欲界到色界到无色界拾级而上抵达觉悟。",
       "image": "res://assets/images/illustrations/architecture/architecture_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "architecture_017",
-      "title": "波斯波利斯宫殿",
-      "summary": "波斯帝国大流士一世建造的仪典宫殿遗址",
-      "full_text": "波斯帝国大流士一世建造的仪典宫殿遗址",
+      "title": "雅典风塔",
+      "summary": "雅典罗马市场风塔为八角形建筑，八面浮雕各代表一种风向，顶部风...",
+      "full_text": "雅典罗马市场风塔为八角形建筑，八面浮雕各代表一种风向，顶部风向标如水手指南，内置水钟如时间机器，为古希腊科学与建筑的精巧结合。",
       "image": "res://assets/images/illustrations/architecture/architecture_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "architecture_018",
-      "title": "摩亨佐达罗古城",
-      "summary": "印度河流域文明规划整齐的早期城市遗址",
-      "full_text": "印度河流域文明规划整齐的早期城市遗址",
+      "title": "佩特拉古城",
+      "summary": "约旦佩特拉古城以玫瑰红砂岩凿出，卡兹尼神殿立面如罗马神庙嵌入...",
+      "full_text": "约旦佩特拉古城以玫瑰红砂岩凿出，卡兹尼神殿立面如罗马神庙嵌入岩壁，科林斯柱廊与精美雕刻在峡谷尽头如幻境浮现，为纳巴泰文明的岩石奇迹。",
       "image": "res://assets/images/illustrations/architecture/architecture_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "architecture_019",
-      "title": "巨石阵",
-      "summary": "英国索尔兹伯里平原上的史前环形巨石柱阵",
-      "full_text": "英国索尔兹伯里平原上的史前环形巨石柱阵",
+      "title": "特奥蒂瓦坎太阳金字塔",
+      "summary": "墨西哥特奥蒂瓦坎太阳金字塔高六十五米，以碎石泥土垒筑如通天之...",
+      "full_text": "墨西哥特奥蒂瓦坎太阳金字塔高六十五米，以碎石泥土垒筑如通天之台，亡者大道直通月金字塔如银河映射，为美洲最大古建筑，如大地上的星座。",
       "image": "res://assets/images/illustrations/architecture/architecture_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "architecture_020",
-      "title": "沙特尔大教堂",
-      "summary": "法国哥特式教堂以飞扶壁与彩色玻璃窗闻名",
-      "full_text": "法国哥特式教堂以飞扶壁与彩色玻璃窗闻名",
+      "title": "圣索菲亚大教堂",
+      "summary": "拜占庭圣索菲亚大教堂穹顶直径三十二米如天幕悬浮，帆拱将圆顶过...",
+      "full_text": "拜占庭圣索菲亚大教堂穹顶直径三十二米如天幕悬浮，帆拱将圆顶过渡至方形空间如奇迹，四十道窗如光环漂浮，为东正教建筑巅峰，影响千年教堂设计。",
       "image": "res://assets/images/illustrations/architecture/architecture_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "architecture_021",
-      "title": "巴黎圣母院",
-      "summary": "巴黎塞纳河畔的早期哥特式主教座堂",
-      "full_text": "巴黎塞纳河畔的早期哥特式主教座堂",
+      "title": "威尼斯圣马可教堂",
+      "summary": "威尼斯圣马可教堂五穹顶如东方皇冠，金色马赛克覆盖穹顶如天堂之...",
+      "full_text": "威尼斯圣马可教堂五穹顶如东方皇冠，金色马赛克覆盖穹顶如天堂之光，四匹青铜战马守卫入口如帝国荣耀，融合拜占庭与哥特风格，为威尼斯共和国的象征。",
       "image": "res://assets/images/illustrations/architecture/architecture_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "architecture_022",
-      "title": "科隆大教堂",
-      "summary": "德国以双塔高耸著称的哥特式大教堂",
-      "full_text": "德国以双塔高耸著称的哥特式大教堂",
+      "title": "巴黎圣母院",
+      "summary": "巴黎圣母院为法国早期哥特式杰作，飞扶壁如石肋支撑如骨骼外翻，...",
+      "full_text": "巴黎圣母院为法国早期哥特式杰作，飞扶壁如石肋支撑如骨骼外翻，玫瑰窗如万花筒洒下彩色天光，尖塔刺破天际如手指指向上帝，为哥特建筑的里程碑。",
       "image": "res://assets/images/illustrations/architecture/architecture_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "architecture_023",
-      "title": "米兰大教堂",
-      "summary": "意大利以密集尖塔装饰的哥特式大理石教堂",
-      "full_text": "意大利以密集尖塔装饰的哥特式大理石教堂",
+      "title": "沙特尔大教堂",
+      "summary": "法国沙特尔大教堂以一百七十六扇彩色玻璃窗如宝石镶嵌，蓝色圣母...",
+      "full_text": "法国沙特尔大教堂以一百七十六扇彩色玻璃窗如宝石镶嵌，蓝色圣母窗如深海般神秘，双塔一高一矮如不对称的和谐，为哥特建筑最完整的视觉圣经。",
       "image": "res://assets/images/illustrations/architecture/architecture_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "architecture_024",
-      "title": "圣维特大教堂",
-      "summary": "布拉格城堡中的哥特式主教座堂",
-      "full_text": "布拉格城堡中的哥特式主教座堂",
+      "title": "科隆大教堂",
+      "summary": "德国科隆大教堂双塔高一百五十七米如双剑刺天，垂直线条如森林般...",
+      "full_text": "德国科隆大教堂双塔高一百五十七米如双剑刺天，垂直线条如森林般向上涌去，历时六百余年完工如信仰的马拉松，为哥特建筑最极致的垂直宣言。",
       "image": "res://assets/images/illustrations/architecture/architecture_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "architecture_025",
-      "title": "圣索菲亚大教堂",
-      "summary": "拜占庭帝国以巨大穹顶闻名的教堂建筑",
-      "full_text": "拜占庭帝国以巨大穹顶闻名的教堂建筑",
+      "title": "米兰大教堂",
+      "summary": "米兰大教堂如白色大理石森林，三千余座雕像如石化的朝圣者布满屋...",
+      "full_text": "米兰大教堂如白色大理石森林，三千余座雕像如石化的朝圣者布满屋顶，一百三十五个尖塔如石笋如火焰如刺向天际的祈祷，为哥特建筑最华丽的变奏。",
       "image": "res://assets/images/illustrations/architecture/architecture_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "architecture_026",
-      "title": "威尼斯圣马可大教堂",
-      "summary": "威尼斯以拜占庭金色马赛克装饰的大教堂",
-      "full_text": "威尼斯以拜占庭金色马赛克装饰的大教堂",
+      "title": "比萨大教堂建筑群",
+      "summary": "比萨奇迹广场上大教堂洗礼堂钟楼斜塔如三位一体，白色大理石如雪...",
+      "full_text": "比萨奇迹广场上大教堂洗礼堂钟楼斜塔如三位一体，白色大理石如雪如象牙，罗马式拱廊与伊斯兰拱窗如地中海文明交汇，斜塔因地基不均而举世闻名。",
       "image": "res://assets/images/illustrations/architecture/architecture_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "architecture_027",
-      "title": "莫斯科圣瓦西里大教堂",
-      "summary": "莫斯科红场上彩色洋葱头穹顶的教堂",
-      "full_text": "莫斯科红场上彩色洋葱头穹顶的教堂",
+      "title": "阿尔罕布拉宫",
+      "summary": "西班牙格拉纳达阿尔罕布拉宫如伊斯兰天堂，钟乳石状穹顶如星空倒...",
+      "full_text": "西班牙格拉纳达阿尔罕布拉宫如伊斯兰天堂，钟乳石状穹顶如星空倒映，阿拉伯书法与几何纹样如无限循环，狮子庭院喷泉如伊甸园之泉，为伊斯兰建筑在西方的绝唱。",
       "image": "res://assets/images/illustrations/architecture/architecture_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "architecture_028",
-      "title": "阿尔罕布拉宫",
-      "summary": "西班牙格拉纳达的摩尔人宫殿与庭院建筑",
-      "full_text": "西班牙格拉纳达的摩尔人宫殿与庭院建筑",
+      "title": "紫禁城太和殿",
+      "summary": "北京紫禁城太和殿为世界最大木构宫殿，三层汉白玉台基上黄琉璃瓦...",
+      "full_text": "北京紫禁城太和殿为世界最大木构宫殿，三层汉白玉台基上黄琉璃瓦重檐庑殿顶如金冠，殿内六根蟠龙金柱如天柱支撑，为皇权至高无上的空间象征。",
       "image": "res://assets/images/illustrations/architecture/architecture_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "architecture_029",
-      "title": "清真寺圆顶与宣礼塔",
-      "summary": "伊斯兰教清真寺的标志性圆顶与高塔",
-      "full_text": "伊斯兰教清真寺的标志性圆顶与高塔",
+      "title": "天坛祈年殿",
+      "summary": "北京天坛祈年殿三重蓝色圆檐如天穹层叠，二十八根楠木柱如天地之...",
+      "full_text": "北京天坛祈年殿三重蓝色圆檐如天穹层叠，二十八根楠木柱如天地之数，无梁无钉如榫卯奇迹，圆形平面如天圆地方的宇宙模型，为中国建筑的精神象征。",
       "image": "res://assets/images/illustrations/architecture/architecture_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "architecture_030",
-      "title": "泰姬陵",
-      "summary": "莫卧儿帝国以白色大理石建造的爱情陵墓",
-      "full_text": "莫卧儿帝国以白色大理石建造的爱情陵墓",
+      "title": "布达拉宫",
+      "summary": "拉萨布达拉宫依红山而建如从岩壁中生长，红宫白宫如政教合一的象...",
+      "full_text": "拉萨布达拉宫依红山而建如从岩壁中生长，红宫白宫如政教合一的象征，十三层高一百十七米如通天之塔，金顶在阳光下如佛光普照，为藏式建筑的巅峰。",
       "image": "res://assets/images/illustrations/architecture/architecture_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "architecture_031",
-      "title": "伊斯坦布尔蓝色清真寺",
-      "summary": "伊斯坦布尔以六座宣礼塔著称的清真寺",
-      "full_text": "伊斯坦布尔以六座宣礼塔著称的清真寺",
+      "title": "山西应县木塔",
+      "summary": "山西应县佛宫寺释迦塔为世界最高最古木塔，高六十七米九层五檐如...",
+      "full_text": "山西应县佛宫寺释迦塔为世界最高最古木塔，高六十七米九层五檐如擎天之柱，全塔无一根铁钉以斗拱五十四种如榫卯积木，历经千年地震不倒为木构奇迹。",
       "image": "res://assets/images/illustrations/architecture/architecture_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "architecture_032",
-      "title": "京都金阁寺",
-      "summary": "京都以金箔贴面的临水三层禅寺建筑",
-      "full_text": "京都以金箔贴面的临水三层禅寺建筑",
+      "title": "苏州拙政园",
+      "summary": "苏州拙政园以水为中心如江南山水画卷，远香堂临水而筑如画中观景...",
+      "full_text": "苏州拙政园以水为中心如江南山水画卷，远香堂临水而筑如画中观景，亭台楼阁错落有致如诗如画，借景北寺塔如园外之景入园中，为中国园林艺术的典范。",
       "image": "res://assets/images/illustrations/architecture/architecture_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "architecture_033",
-      "title": "姬路城",
-      "summary": "日本以白色城墙著称的封建时代城堡建筑",
-      "full_text": "日本以白色城墙著称的封建时代城堡建筑",
+      "title": "日本金阁寺",
+      "summary": "京都金阁寺三层楼阁贴金箔如黄金浮于镜湖池上，一层贵族风格二层...",
+      "full_text": "京都金阁寺三层楼阁贴金箔如黄金浮于镜湖池上，一层贵族风格二层武家风格三层禅宗风格如日本建筑史缩影，倒映水中如双份辉煌，为日本美学的极致。",
       "image": "res://assets/images/illustrations/architecture/architecture_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "architecture_034",
-      "title": "应县木塔",
-      "summary": "辽代建造的现存最高最古木结构塔式建筑",
-      "full_text": "辽代建造的现存最高最古木结构塔式建筑",
+      "title": "日本姬路城",
+      "summary": "日本姬路城白墙如白鹭展翅故称白鹭城，天守阁层层递减如叠塔如军...",
+      "full_text": "日本姬路城白墙如白鹭展翅故称白鹭城，天守阁层层递减如叠塔如军事要塞与美学宣言，迷宫般通道与射击孔如防御智慧，为日本城堡建筑的巅峰。",
       "image": "res://assets/images/illustrations/architecture/architecture_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "architecture_035",
-      "title": "福建土楼",
-      "summary": "客家人以夯土建造的圆形家族聚居防御建筑",
-      "full_text": "客家人以夯土建造的圆形家族聚居防御建筑",
+      "title": "印度泰姬陵",
+      "summary": "莫卧儿皇帝沙贾汗为亡妻建泰姬陵，白色大理石如凝固的泪珠，四座...",
+      "full_text": "莫卧儿皇帝沙贾汗为亡妻建泰姬陵，白色大理石如凝固的泪珠，四座宣礼塔如守卫如烛台，水池倒映如双倍哀思，融合伊斯兰波斯印度风格，为爱情建筑的永恒丰碑。",
       "image": "res://assets/images/illustrations/architecture/architecture_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "architecture_036",
-      "title": "布鲁日中世纪城市",
-      "summary": "比利时布鲁日保存完好的中世纪城市风貌",
-      "full_text": "比利时布鲁日保存完好的中世纪城市风貌",
+      "title": "伊斯坦布尔蓝色清真寺",
+      "summary": "伊斯坦布尔苏丹艾哈迈德清真寺六座宣礼塔如六指指向天际，内部两...",
+      "full_text": "伊斯坦布尔苏丹艾哈迈德清真寺六座宣礼塔如六指指向天际，内部两万余块蓝色伊兹尼克瓷砖如蓝色星空，为奥斯曼帝国最辉煌的清真寺，与圣索菲亚隔广场相望。",
       "image": "res://assets/images/illustrations/architecture/architecture_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "architecture_037",
-      "title": "圣米歇尔山修道院",
-      "summary": "法国诺曼底潮汐岛上矗立的中世纪修道院",
-      "full_text": "法国诺曼底潮汐岛上矗立的中世纪修道院",
+      "title": "克里姆林宫",
+      "summary": "莫斯科克里姆林宫如俄罗斯的心脏，红墙如血如铁围合宫殿教堂广场...",
+      "full_text": "莫斯科克里姆林宫如俄罗斯的心脏，红墙如血如铁围合宫殿教堂广场，伊凡钟楼如灯塔如守卫，洋葱头穹顶如彩色火焰如东正教的视觉宣言，为俄罗斯权力的永恒象征。",
       "image": "res://assets/images/illustrations/architecture/architecture_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "architecture_038",
-      "title": "克莱尔修道院废墟",
-      "summary": "英国约克郡西多会修道院的哥特式废墟",
-      "full_text": "英国约克郡西多会修道院的哥特式废墟",
+      "title": "西敏寺",
+      "summary": "伦敦西敏寺为英国哥特建筑杰作，历代国王加冕与安葬于此如国家祠...",
+      "full_text": "伦敦西敏寺为英国哥特建筑杰作，历代国王加冕与安葬于此如国家祠堂，扇形穹顶如石花绽放如天国花园，诗人角如文学圣殿，为英国历史与信仰的建筑缩影。",
       "image": "res://assets/images/illustrations/architecture/architecture_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "architecture_039",
-      "title": "杜伦大教堂",
-      "summary": "英国诺曼式厚墙圆拱的罗马风教堂建筑",
-      "full_text": "英国诺曼式厚墙圆拱的罗马风教堂建筑",
+      "title": "巴黎圣礼拜堂",
+      "summary": "巴黎圣礼拜堂如石头框架中的彩色玻璃，十五扇高十五米的彩窗如光...",
+      "full_text": "巴黎圣礼拜堂如石头框架中的彩色玻璃，十五扇高十五米的彩窗如光之墙壁如圣经故事如宝石瀑布，上部教堂几无石墙全为玻璃，为哥特建筑光之神秘主义极致。",
       "image": "res://assets/images/illustrations/architecture/architecture_039.jpg",
       "image_grid": {
         "x": 3,
@@ -844,8 +844,8 @@
     {
       "id": "architecture_040",
       "title": "水晶宫",
-      "summary": "1851年伦敦世博会的铸铁玻璃预制装配建筑",
-      "full_text": "1851年伦敦世博会的铸铁玻璃预制装配建筑",
+      "summary": "英国为1851年世博会建水晶宫，铸铁与玻璃如巨型温室如水晶宫...",
+      "full_text": "英国为1851年世博会建水晶宫，铸铁与玻璃如巨型温室如水晶宫殿，长五百六十四米如钢铁与光的宣言，预制构件快速装配如工业革命的速度，为现代建筑先声。",
       "image": "res://assets/images/illustrations/architecture/architecture_040.jpg",
       "image_grid": {
         "x": 3,
@@ -865,8 +865,8 @@
     {
       "id": "architecture_041",
       "title": "埃菲尔铁塔",
-      "summary": "1889年巴黎世博会的锻铁格子结构标志性塔",
-      "full_text": "1889年巴黎世博会的锻铁格子结构标志性塔",
+      "summary": "巴黎埃菲尔铁塔高三百米如钢铁蕾丝如工业革命的图腾，七千吨铁件...",
+      "full_text": "巴黎埃菲尔铁塔高三百米如钢铁蕾丝如工业革命的图腾，七千吨铁件如骨骼如格构如工程师的诗篇，初遭文人反对后成巴黎标志，为结构美学与技术自信的纪念碑。",
       "image": "res://assets/images/illustrations/architecture/architecture_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "architecture_042",
-      "title": "巴塞罗那圣家堂",
-      "summary": "高迪以自然有机形态设计的未完成教堂",
-      "full_text": "高迪以自然有机形态设计的未完成教堂",
+      "title": "芝加哥家庭保险公司大楼",
+      "summary": "芝加哥家庭保险公司大楼为世界首栋高层钢结构建筑，十层如摩天楼...",
+      "full_text": "芝加哥家庭保险公司大楼为世界首栋高层钢结构建筑，十层如摩天楼的婴儿，以钢框架承重解放墙体如骨架与皮肤分离，为摩天大楼的始祖，开启垂直城市的时代。",
       "image": "res://assets/images/illustrations/architecture/architecture_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "architecture_043",
-      "title": "巴特罗之家",
-      "summary": "高迪以骨骼与龙鳞造型改造的巴塞罗那公寓",
-      "full_text": "高迪以骨骼与龙鳞造型改造的巴塞罗那公寓",
+      "title": "高迪圣家族大教堂",
+      "summary": "巴塞罗那圣家族大教堂如从大地生长的石头森林，柱如树干分叉支撑...",
+      "full_text": "巴塞罗那圣家族大教堂如从大地生长的石头森林，柱如树干分叉支撑穹顶如林冠，彩色玻璃如热带水果般绚烂，高迪以自然为师将哥特推向有机形态，百年未竣如永恒的建造。",
       "image": "res://assets/images/illustrations/architecture/architecture_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "architecture_044",
-      "title": "包豪斯德绍校舍",
-      "summary": "格罗皮乌斯设计的现代主义建筑教育殿堂",
-      "full_text": "格罗皮乌斯设计的现代主义建筑教育殿堂",
+      "title": "高迪巴特罗之家",
+      "summary": "高迪改造巴特罗公寓如海洋梦境，波浪形阳台如面具如海浪，屋顶如...",
+      "full_text": "高迪改造巴特罗公寓如海洋梦境，波浪形阳台如面具如海浪，屋顶如龙脊如鳞片如圣乔治屠龙，碎瓷拼贴如海底珊瑚，将建筑变为可居住的雕塑。",
       "image": "res://assets/images/illustrations/architecture/architecture_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "architecture_045",
-      "title": "萨伏伊别墅",
-      "summary": "柯布西耶以五点新建筑理论设计的白色别墅",
-      "full_text": "柯布西耶以五点新建筑理论设计的白色别墅",
+      "title": "赖特流水别墅",
+      "summary": "美国建筑师赖特于宾州山林溪流之上建住宅，悬臂露台如岩石延伸如...",
+      "full_text": "美国建筑师赖特于宾州山林溪流之上建住宅，悬臂露台如岩石延伸如瀑布的一部分，混凝土与砂岩如自然生长，将建筑与风景融为一体，为有机建筑的宣言。",
       "image": "res://assets/images/illustrations/architecture/architecture_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "architecture_046",
-      "title": "朗香教堂",
-      "summary": "柯布西耶以雕塑造型设计的朝圣教堂",
-      "full_text": "柯布西耶以雕塑造型设计的朝圣教堂",
+      "title": "赖特古根海姆博物馆",
+      "summary": "纽约古根海姆博物馆如白色螺旋如海螺如倒置巴别塔，坡道盘旋而上...",
+      "full_text": "纽约古根海姆博物馆如白色螺旋如海螺如倒置巴别塔，坡道盘旋而上如观展如漫步如冥想，将线性展厅变为连续流动空间，为博物馆建筑的空间革命。",
       "image": "res://assets/images/illustrations/architecture/architecture_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "architecture_047",
-      "title": "流水别墅",
-      "summary": "赖特将住宅悬于瀑布之上的有机建筑杰作",
-      "full_text": "赖特将住宅悬于瀑布之上的有机建筑杰作",
+      "title": "柯布西耶萨伏伊别墅",
+      "summary": "柯布西耶于巴黎近郊建白色方盒如机器如诗，底层架空如悬浮如飞行...",
+      "full_text": "柯布西耶于巴黎近郊建白色方盒如机器如诗，底层架空如悬浮如飞行员视角，屋顶花园如归还大地，自由平面自由立面如新建筑五点的宣言，为现代主义建筑的圣经。",
       "image": "res://assets/images/illustrations/architecture/architecture_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "architecture_048",
-      "title": "古根海姆博物馆",
-      "summary": "赖特以螺旋坡道为展厅的纽约博物馆",
-      "full_text": "赖特以螺旋坡道为展厅的纽约博物馆",
+      "title": "柯布西耶朗香教堂",
+      "summary": "柯布西耶于法国山丘建朗香教堂如雕塑如祈祷之手，厚重白墙如船帆...",
+      "full_text": "柯布西耶于法国山丘建朗香教堂如雕塑如祈祷之手，厚重白墙如船帆如修女帽，彩色窗洞如星辰如伤口射入光线，如洞穴如庇护所，为现代主义最诗意的宗教空间。",
       "image": "res://assets/images/illustrations/architecture/architecture_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "architecture_049",
-      "title": "范斯沃斯住宅",
-      "summary": "密斯以全玻璃钢框架设计的极简住宅",
-      "full_text": "密斯以全玻璃钢框架设计的极简住宅",
+      "title": "密斯凡德罗巴塞罗那馆",
+      "summary": "密斯为1929年巴塞罗那世博建德国馆，十字形钢柱支撑平屋顶如...",
+      "full_text": "密斯为1929年巴塞罗那世博建德国馆，十字形钢柱支撑平屋顶如漂浮如天篷，缟玛瑙与大理石隔墙如自由滑移如空间流动，少即是多的极简宣言，为现代主义空间诗学。",
       "image": "res://assets/images/illustrations/architecture/architecture_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "architecture_050",
-      "title": "西格拉姆大厦",
-      "summary": "密斯以青铜与玻璃幕墙设计的摩天大楼",
-      "full_text": "密斯以青铜与玻璃幕墙设计的摩天大楼",
+      "title": "密斯西格拉姆大厦",
+      "summary": "密斯于纽约建西格拉姆大厦，青铜与琥珀玻璃如绅士般矗立于广场之...",
+      "full_text": "密斯于纽约建西格拉姆大厦，青铜与琥珀玻璃如绅士般矗立于广场之后，退让街道如城市礼仪，结构外露如骨架如诚实，为摩天楼确立了优雅克制的标准。",
       "image": "res://assets/images/illustrations/architecture/architecture_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "architecture_051",
-      "title": "萨尔克研究所",
-      "summary": "康以清水混凝土与中轴线设计的科研殿堂",
-      "full_text": "康以清水混凝土与中轴线设计的科研殿堂",
+      "title": "格罗皮乌斯包豪斯校舍",
+      "summary": "格罗皮乌斯于德绍建包豪斯校舍，玻璃幕墙如透明如民主如教学开放...",
+      "full_text": "格罗皮乌斯于德绍建包豪斯校舍，玻璃幕墙如透明如民主如教学开放，不对称布局如功能分区如现代理性，将艺术与技术统一，为现代设计教育的建筑宣言。",
       "image": "res://assets/images/illustrations/architecture/architecture_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "architecture_052",
-      "title": "悉尼歌剧院",
-      "summary": "伍重以壳体屋顶设计的标志性表演艺术建筑",
-      "full_text": "伍重以壳体屋顶设计的标志性表演艺术建筑",
+      "title": "阿尔托帕伊米奥疗养院",
+      "summary": "芬兰建筑师阿尔托设计结核病疗养院，病房朝南如追光如治愈，扶手...",
+      "full_text": "芬兰建筑师阿尔托设计结核病疗养院，病房朝南如追光如治愈，扶手圆角如关怀如温柔，色彩如北欧森林如心理抚慰，将功能主义注入人文温度，为人性化建筑的先驱。",
       "image": "res://assets/images/illustrations/architecture/architecture_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "architecture_053",
-      "title": "代代木国立竞技场",
-      "summary": "丹下健三以悬索结构设计的东京奥运场馆",
-      "full_text": "丹下健三以悬索结构设计的东京奥运场馆",
+      "title": "路易·康萨尔科浴室",
+      "summary": "美国建筑师康以混凝土立方体如废墟如神庙，方形开口如天窗如眼睛...",
+      "full_text": "美国建筑师康以混凝土立方体如废墟如神庙，方形开口如天窗如眼睛如框景，光线如访客般进入空间，以永恒的材料追问建筑何为，为现代建筑的哲学之问。",
       "image": "res://assets/images/illustrations/architecture/architecture_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "architecture_054",
-      "title": "西塔里埃森",
-      "summary": "赖特在亚利桑那沙漠中建造的冬季工作室",
-      "full_text": "赖特在亚利桑那沙漠中建造的冬季工作室",
+      "title": "路易·康孟加拉达卡国会",
+      "summary": "康为孟加拉设计国会大厦如红砖城堡如现代神庙，巨大几何开口如天...",
+      "full_text": "康为孟加拉设计国会大厦如红砖城堡如现代神庙，巨大几何开口如天窗如洞口如光之通道，雨水沿建筑流淌如仪式，为发展中国家创造民主与尊严的建筑象征。",
       "image": "res://assets/images/illustrations/architecture/architecture_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "architecture_055",
-      "title": "纽约帝国大厦",
-      "summary": "1930年代以装饰艺术风格建造的摩天大楼",
-      "full_text": "1930年代以装饰艺术风格建造的摩天大楼",
+      "title": "贝聿铭卢浮宫金字塔",
+      "summary": "华裔建筑师贝聿铭于卢浮宫庭院建玻璃金字塔如钻石如冰晶，钢结构...",
+      "full_text": "华裔建筑师贝聿铭于卢浮宫庭院建玻璃金字塔如钻石如冰晶，钢结构与玻璃如透明如轻盈如古典宫殿的现代入口，争议之后成为巴黎新地标，为传统与现代的对话典范。",
       "image": "res://assets/images/illustrations/architecture/architecture_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "architecture_056",
-      "title": "克莱斯勒大厦",
-      "summary": "纽约以太阳形不锈钢尖顶装饰的装饰艺术摩天楼",
-      "full_text": "纽约以太阳形不锈钢尖顶装饰的装饰艺术摩天楼",
+      "title": "贝聿铭苏州博物馆",
+      "summary": "贝聿铭为故乡设计苏州博物馆，白墙灰顶如水墨如江南，几何片石如...",
+      "full_text": "贝聿铭为故乡设计苏州博物馆，白墙灰顶如水墨如江南，几何片石如假山如米芾云山，光影如诗如画如园林，将传统苏州美学转译为现代建筑语言。",
       "image": "res://assets/images/illustrations/architecture/architecture_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "architecture_057",
-      "title": "芝加哥鲁克里大厦",
-      "summary": "芝加哥学派以钢框架与大面积玻璃的早期高层",
-      "full_text": "芝加哥学派以钢框架与大面积玻璃的早期高层",
+      "title": "安藤忠雄光之教堂",
+      "summary": "日本建筑师安藤忠雄于大阪建清水混凝土教堂，十字形缝隙如光的十...",
+      "full_text": "日本建筑师安藤忠雄于大阪建清水混凝土教堂，十字形缝隙如光的十字如信仰如希望，素混凝土如修士般克制如苦行，以最少材料抵达最深的精神性。",
       "image": "res://assets/images/illustrations/architecture/architecture_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "architecture_058",
-      "title": "帕伊米奥疗养院",
-      "summary": "阿尔托以人性化设计建造的结核病疗养院",
-      "full_text": "阿尔托以人性化设计建造的结核病疗养院",
+      "title": "安藤忠雄直岛地中美术馆",
+      "summary": "安藤忠雄于直岛地下建美术馆如洞穴如冥想，混凝土如容器如空间如...",
+      "full_text": "安藤忠雄于直岛地下建美术馆如洞穴如冥想，混凝土如容器如空间如光之通道，莫奈睡莲厅如天光如水面如永恒，将建筑消隐于大地如与自然合一。",
       "image": "res://assets/images/illustrations/architecture/architecture_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "architecture_059",
-      "title": "巴西利亚国会大厦",
-      "summary": "尼迈耶以雕塑造型设计的巴西国会建筑",
-      "full_text": "尼迈耶以雕塑造型设计的巴西国会建筑",
+      "title": "蓬皮杜中心",
+      "summary": "巴黎蓬皮杜中心如翻出内脏的建筑，彩色管道如血管如骨骼外露，蓝...",
+      "full_text": "巴黎蓬皮杜中心如翻出内脏的建筑，彩色管道如血管如骨骼外露，蓝色空调绿色水管黄色电路红色交通如色彩编码如内脏如机器如颠覆，为高技派建筑的狂欢宣言。",
       "image": "res://assets/images/illustrations/architecture/architecture_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "architecture_060",
-      "title": "毕尔巴鄂古根海姆",
-      "summary": "盖里以钛金属曲面设计的西班牙博物馆",
-      "full_text": "盖里以钛金属曲面设计的西班牙博物馆",
+      "title": "盖里毕尔巴鄂古根海姆",
+      "summary": "美国建筑师盖里于西班牙毕尔巴鄂以钛合金曲面如鱼如船如花如火焰...",
+      "full_text": "美国建筑师盖里于西班牙毕尔巴鄂以钛合金曲面如鱼如船如花如火焰，如数字时代的巴洛克如雕塑般的建筑，以一栋建筑拯救一座城市，为解构主义的奇迹。",
       "image": "res://assets/images/illustrations/architecture/architecture_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1285,8 +1285,8 @@
     {
       "id": "architecture_061",
       "title": "盖里迪士尼音乐厅",
-      "summary": "盖里以不锈钢曲面设计的洛杉矶音乐厅",
-      "full_text": "盖里以不锈钢曲面设计的洛杉矶音乐厅",
+      "summary": "盖里于洛杉矶设计音乐厅如不锈钢如风帆如花瓣如音符凝固，曲面如...",
+      "full_text": "盖里于洛杉矶设计音乐厅如不锈钢如风帆如花瓣如音符凝固，曲面如声波如旋律如洛杉矶的阳光反射，为解构主义最优雅的变奏，如可居住的雕塑。",
       "image": "res://assets/images/illustrations/architecture/architecture_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "architecture_062",
-      "title": "哈迪德广州歌剧院",
-      "summary": "哈迪德以流线锐角设计的广州表演艺术中心",
-      "full_text": "哈迪德以流线锐角设计的广州表演艺术中心",
+      "title": "扎哈广州歌剧院",
+      "summary": "伊拉克裔英国建筑师扎哈于广州设计歌剧院如砾石如流水如外星基地...",
+      "full_text": "伊拉克裔英国建筑师扎哈于广州设计歌剧院如砾石如流水如外星基地，混凝土曲面如地质如侵蚀如数字生成的有机形态，为参数化设计在中国的标志性实践。",
       "image": "res://assets/images/illustrations/architecture/architecture_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "architecture_063",
-      "title": "哈迪德伦敦水上中心",
-      "summary": "哈迪德以波浪屋顶设计的奥运游泳馆",
-      "full_text": "哈迪德以波浪屋顶设计的奥运游泳馆",
+      "title": "扎哈北京银河SOHO",
+      "summary": "扎哈于北京设计银河SOHO如太空站如流体如未来城市，连续曲面...",
+      "full_text": "扎哈于北京设计银河SOHO如太空站如流体如未来城市，连续曲面如丝带如漩涡如无棱角的世界，中庭如峡谷如城市峡谷如流动的公共空间，为参数化美学的都市宣言。",
       "image": "res://assets/images/illustrations/architecture/architecture_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "architecture_064",
-      "title": "国家体育场鸟巢",
-      "summary": "赫尔佐格与德梅隆以钢结构编织的北京奥运主场",
-      "full_text": "赫尔佐格与德梅隆以钢结构编织的北京奥运主场",
+      "title": "库哈斯央视大楼",
+      "summary": "荷兰建筑师库哈斯设计央视总部如悬臂如环如莫比乌斯如不可能的结...",
+      "full_text": "荷兰建筑师库哈斯设计央视总部如悬臂如环如莫比乌斯如不可能的结构，两塔倾斜相接如门如环如城市的巨门，为解构主义在北京的纪念碑式宣言。",
       "image": "res://assets/images/illustrations/architecture/architecture_064.jpg",
       "image_grid": {
         "x": 3,
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "architecture_065",
-      "title": "央视总部大楼",
-      "summary": "库哈斯以悬臂环形体量设计的北京电视台",
-      "full_text": "库哈斯以悬臂环形体量设计的北京电视台",
+      "title": "赫尔佐格鸟巢",
+      "summary": "瑞士建筑师赫尔佐格与德梅隆设计北京国家体育场如鸟巢如编织如混...",
+      "full_text": "瑞士建筑师赫尔佐格与德梅隆设计北京国家体育场如鸟巢如编织如混沌中的秩序，钢结构如树枝如血管如随机却有逻辑的编织，为奥运建筑最具辨识度的形态。",
       "image": "res://assets/images/illustrations/architecture/architecture_065.jpg",
       "image_grid": {
         "x": 3,
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "architecture_066",
-      "title": "伦敦碎片大厦",
-      "summary": "伦佐皮亚诺以尖塔造型设计的欧洲最高建筑",
-      "full_text": "伦佐皮亚诺以尖塔造型设计的欧洲最高建筑",
+      "title": "让·努维尔阿布扎比卢浮宫",
+      "summary": "法国建筑师努维尔于沙漠中建海上博物馆如漂浮如绿洲如阿拉伯之城...",
+      "full_text": "法国建筑师努维尔于沙漠中建海上博物馆如漂浮如绿洲如阿拉伯之城，巨大穹顶如棕榈叶如光之雨如阿拉伯几何纹样的光影过滤，为文化外交的建筑诗篇。",
       "image": "res://assets/images/illustrations/architecture/architecture_066.jpg",
       "image_grid": {
         "x": 3,
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "architecture_067",
-      "title": "卢浮宫玻璃金字塔",
-      "summary": "贝聿铭以玻璃与钢设计的卢浮宫入口",
-      "full_text": "贝聿铭以玻璃与钢设计的卢浮宫入口",
+      "title": "SANAA劳力士学习中心",
+      "summary": "日本建筑师妹岛和世与西泽立卫于洛桑建学习中心如地形如波浪如无...",
+      "full_text": "日本建筑师妹岛和世与西泽立卫于洛桑建学习中心如地形如波浪如无墙的世界，连续曲面如丘陵如没有边界的流动空间，为极简主义与自由空间的实验。",
       "image": "res://assets/images/illustrations/architecture/architecture_067.jpg",
       "image_grid": {
         "x": 3,
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "architecture_068",
-      "title": "苏州博物馆",
-      "summary": "贝聿铭以粉墙黛瓦意境设计的现代博物馆",
-      "full_text": "贝聿铭以粉墙黛瓦意境设计的现代博物馆",
+      "title": "隈研吾长城脚下的公社竹屋",
+      "summary": "日本建筑师隈研吾于长城脚下建竹屋如竹林如透明如消隐，竹条如帘...",
+      "full_text": "日本建筑师隈研吾于长城脚下建竹屋如竹林如透明如消隐，竹条如帘如屏如呼吸如与山林的对话，将建筑消融于自然如负建筑如谦逊的存在。",
       "image": "res://assets/images/illustrations/architecture/architecture_068.jpg",
       "image_grid": {
         "x": 3,
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "architecture_069",
-      "title": "丰岛美术馆",
-      "summary": "西泽立卫以混凝土薄壳设计的无柱水滴形美术馆",
-      "full_text": "西泽立卫以混凝土薄壳设计的无柱水滴形美术馆",
+      "title": "王澍宁波博物馆",
+      "summary": "中国建筑师王澍以拆迁废料瓦爿墙砌筑宁波博物馆如废墟如记忆如山...",
+      "full_text": "中国建筑师王澍以拆迁废料瓦爿墙砌筑宁波博物馆如废墟如记忆如山水，旧砖碎瓦如时间的化石如城市的记忆层，为普利兹克奖中国首获者的代表作品。",
       "image": "res://assets/images/illustrations/architecture/architecture_069.jpg",
       "image_grid": {
         "x": 3,
@@ -1473,9 +1473,9 @@
     },
     {
       "id": "architecture_070",
-      "title": "绿色屋顶建筑",
-      "summary": "以植被覆盖屋顶实现生态节能的当代建筑",
-      "full_text": "以植被覆盖屋顶实现生态节能的当代建筑",
+      "title": "王澍中国美术学院象山校区",
+      "summary": "王澍设计杭州象山校区如山水如村落如文人园林，建筑如山如水如合...",
+      "full_text": "王澍设计杭州象山校区如山水如村落如文人园林，建筑如山如水如合院如天井如瓦爿墙如旧材新用，将传统建造智慧与当代空间体验融合，为批判性地域主义的实践。",
       "image": "res://assets/images/illustrations/architecture/architecture_070.jpg",
       "image_grid": {
         "x": 3,
@@ -1494,9 +1494,9 @@
     },
     {
       "id": "architecture_071",
-      "title": "垂直森林",
-      "summary": "博埃里以阳台植树设计的米兰绿色住宅塔楼",
-      "full_text": "博埃里以阳台植树设计的米兰绿色住宅塔楼",
+      "title": "伊东丰雄仙台媒体中心",
+      "summary": "日本建筑师伊东丰雄设计仙台媒体中心如海藻如森林如透明如流动，...",
+      "full_text": "日本建筑师伊东丰雄设计仙台媒体中心如海藻如森林如透明如流动，十三根管状柱如树如海藻如信息流如自由穿越，为信息时代的建筑如流动如轻盈如媒体。",
       "image": "res://assets/images/illustrations/architecture/architecture_071.jpg",
       "image_grid": {
         "x": 3,
@@ -1515,9 +1515,9 @@
     },
     {
       "id": "architecture_072",
-      "title": "3D打印建筑",
-      "summary": "以3D打印技术建造的当代实验性建筑",
-      "full_text": "以3D打印技术建造的当代实验性建筑",
+      "title": "BIG哥本哈根CopenHill",
+      "summary": "丹麦建筑事务所BIG设计垃圾焚烧发电厂屋顶滑雪场如山如游乐如...",
+      "full_text": "丹麦建筑事务所BIG设计垃圾焚烧发电厂屋顶滑雪场如山如游乐如绿色如矛盾统一，烟圈如提醒如艺术如环保教育，以享乐主义包裹可持续性，为实用主义的乌托邦。",
       "image": "res://assets/images/illustrations/architecture/architecture_072.jpg",
       "image_grid": {
         "x": 3,
@@ -1536,9 +1536,9 @@
     },
     {
       "id": "architecture_073",
-      "title": "竹建筑",
-      "summary": "以竹材为主要结构材料的可持续当代建筑",
-      "full_text": "以竹材为主要结构材料的可持续当代建筑",
+      "title": "马岩松哈尔滨大剧院",
+      "summary": "中国建筑师马岩松设计哈尔滨大剧院如雪如风如银色如北国如飘带如...",
+      "full_text": "中国建筑师马岩松设计哈尔滨大剧院如雪如风如银色如北国如飘带如自然延伸，白色铝板如雪如冰如松花江的波浪如银色如未来如山水城市的宣言。",
       "image": "res://assets/images/illustrations/architecture/architecture_073.jpg",
       "image_grid": {
         "x": 3,
@@ -1557,9 +1557,9 @@
     },
     {
       "id": "architecture_074",
-      "title": "互动立面建筑",
-      "summary": "以可动幕墙回应环境变化的智能建筑立面",
-      "full_text": "以可动幕墙回应环境变化的智能建筑立面",
+      "title": "上海中心大厦",
+      "summary": "上海中心大厦高六百三十二米如龙如螺旋如如削减风载如旋转如上升...",
+      "full_text": "上海中心大厦高六百三十二米如龙如螺旋如如削减风载如旋转如上升如中国第一高楼，双层幕墙如保温如呼吸如绿色如未来如垂直城市的宣言。",
       "image": "res://assets/images/illustrations/architecture/architecture_074.jpg",
       "image_grid": {
         "x": 3,

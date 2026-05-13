@@ -67,7 +67,7 @@ def get_line_possibilities(clues, length):
 
         block = blocks[block_idx]
         min_remaining = sum(blocks[block_idx+1:]) + (len(blocks) - block_idx - 1)
-        max_start = length - pos - min_remaining - block
+        max_start = length - min_remaining - block
 
         for start in range(pos, max_start + 1):
             new_line = line + [0]*(start - len(line)) + [1]*block

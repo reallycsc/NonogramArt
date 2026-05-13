@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "entertainment_000",
-      "title": "围棋对弈",
-      "summary": "围棋棋手执黑先行，落子天元星位，纹枰对坐思如泉涌",
-      "full_text": "围棋棋手执黑先行，落子天元星位，纹枰对坐思如泉涌",
+      "title": "京剧粉墨登场",
+      "summary": "京剧舞台上花脸武生威风凛凛，青衣水袖翩翩起舞，锣鼓点子铿锵有...",
+      "full_text": "京剧舞台上花脸武生威风凛凛，青衣水袖翩翩起舞，锣鼓点子铿锵有力。京剧是国粹艺术，唱念做打融汇两百年戏曲精华。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "entertainment_001",
-      "title": "象棋博弈",
-      "summary": "象棋楚河汉界对峙，车马炮攻防转换，方寸之间战场",
-      "full_text": "象棋楚河汉界对峙，车马炮攻防转换，方寸之间战场",
+      "title": "相声逗哏捧哏",
+      "summary": "相声舞台上逗哏妙语连珠，捧哏适时接茬，观众笑声不断掌声雷动。...",
+      "full_text": "相声舞台上逗哏妙语连珠，捧哏适时接茬，观众笑声不断掌声雷动。相声是语言的艺术，说学逗唱四门功课缺一不可。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "entertainment_002",
-      "title": "放风筝",
-      "summary": "春天放风筝线轴转动，燕子蜈蚣风筝高飞，仰望蓝天",
-      "full_text": "春天放风筝线轴转动，燕子蜈蚣风筝高飞，仰望蓝天",
+      "title": "话剧舞台人生",
+      "summary": "话剧舞台上演员真情投入表演，灯光变换营造氛围，观众沉浸在剧情...",
+      "full_text": "话剧舞台上演员真情投入表演，灯光变换营造氛围，观众沉浸在剧情中。话剧是现场表演的魅力，每一场都是不可复制的艺术。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "entertainment_003",
-      "title": "皮影戏",
-      "summary": "皮影戏白色幕布上，皮人剪影配唱腔，光影艺术",
-      "full_text": "皮影戏白色幕布上，皮人剪影配唱腔，光影艺术",
+      "title": "电影银幕造梦",
+      "summary": "电影院里巨幕上光影流转，导演用镜头语言讲述故事，观众在黑暗中...",
+      "full_text": "电影院里巨幕上光影流转，导演用镜头语言讲述故事，观众在黑暗中经历悲欢离合。电影是造梦的艺术，二十四帧每秒创造无限可能。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "entertainment_004",
-      "title": "京剧脸谱",
-      "summary": "京剧花脸脸谱色彩鲜明，红脸忠白脸奸，戏曲艺术",
-      "full_text": "京剧花脸脸谱色彩鲜明，红脸忠白脸奸，戏曲艺术",
+      "title": "电视剧长篇叙事",
+      "summary": "电视剧用数十集篇幅展开故事，人物命运跌宕起伏，观众追剧欲罢不...",
+      "full_text": "电视剧用数十集篇幅展开故事，人物命运跌宕起伏，观众追剧欲罢不能。电视剧是日常陪伴的艺术，长篇叙事深入刻画人物内心。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "entertainment_005",
-      "title": "评书说书",
-      "summary": "评书先生醒木一拍，折扇一摇说古论今，口传艺术",
-      "full_text": "评书先生醒木一拍，折扇一摇说古论今，口传艺术",
+      "title": "综艺节目欢乐",
+      "summary": "综艺节目现场嘉宾互动游戏，主持人妙语连珠，观众笑声此起彼伏。...",
+      "full_text": "综艺节目现场嘉宾互动游戏，主持人妙语连珠，观众笑声此起彼伏。综艺是娱乐大众的节目形式，轻松愉快是最大追求。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "entertainment_006",
-      "title": "杂技顶碗",
-      "summary": "杂技演员头顶碗碟，身体柔韧平衡惊人，惊险绝技",
-      "full_text": "杂技演员头顶碗碟，身体柔韧平衡惊人，惊险绝技",
+      "title": "纪录片真实记录",
+      "summary": "纪录片摄影师蹲守数月拍摄野生动物，镜头记录真实发生的自然故事...",
+      "full_text": "纪录片摄影师蹲守数月拍摄野生动物，镜头记录真实发生的自然故事。纪录片是真实的艺术，用影像守护即将消失的世界。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "entertainment_007",
-      "title": "踩高跷",
-      "summary": "踩高跷艺人木腿行走，比人还高穿街表演，民间绝活",
-      "full_text": "踩高跷艺人木腿行走，比人还高穿街表演，民间绝活",
+      "title": "动画奇想世界",
+      "summary": "动画师在数位板上一帧帧绘制角色动作，让画笔下的世界活起来。动...",
+      "full_text": "动画师在数位板上一帧帧绘制角色动作，让画笔下的世界活起来。动画是想象力不受束缚的艺术，任何奇想都能变为画面。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "entertainment_008",
-      "title": "抖空竹",
-      "summary": "抖空竹嗡嗡作响，绳上旋转抛接自如，传统杂耍",
-      "full_text": "抖空竹嗡嗡作响，绳上旋转抛接自如，传统杂耍",
+      "title": "交响乐管弦齐鸣",
+      "summary": "交响乐团百人同台演奏，弦乐管乐打击乐交织成壮丽乐章，指挥棒引...",
+      "full_text": "交响乐团百人同台演奏，弦乐管乐打击乐交织成壮丽乐章，指挥棒引领音乐起伏。交响乐是西方音乐的巅峰形式，和声之美动人心魄。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "entertainment_009",
-      "title": "踢毽子",
-      "summary": "踢毽子花式翻转，脚尖脚跟连续踢，灵巧运动",
-      "full_text": "踢毽子花式翻转，脚尖脚跟连续踢，灵巧运动",
+      "title": "钢琴黑白键舞",
+      "summary": "钢琴家指尖在黑白琴键上飞舞，肖邦夜曲如月光倾泻，李斯特狂想曲...",
+      "full_text": "钢琴家指尖在黑白琴键上飞舞，肖邦夜曲如月光倾泻，李斯特狂想曲如暴风骤雨。钢琴是乐器之王，十个手指驾驭整个交响世界。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "entertainment_010",
-      "title": "斗蟋蟀",
-      "summary": "斗蟋蟀盆中蟋蟀对咬，草须撩拨激战正酣，秋日消遣",
-      "full_text": "斗蟋蟀盆中蟋蟀对咬，草须撩拨激战正酣，秋日消遣",
+      "title": "小提琴弦上歌唱",
+      "summary": "小提琴手运弓在弦上拉出悠扬旋律，揉弦颤音如人声歌唱，琴身共鸣...",
+      "full_text": "小提琴手运弓在弦上拉出悠扬旋律，揉弦颤音如人声歌唱，琴身共鸣温暖动人。小提琴是弦乐之后，四根弦诉说千种情感。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "entertainment_011",
-      "title": "猜灯谜",
-      "summary": "元宵猜灯谜悬挂彩灯，文人雅士斗智，传统文化趣味",
-      "full_text": "元宵猜灯谜悬挂彩灯，文人雅士斗智，传统文化趣味",
+      "title": "吉他弹唱民谣",
+      "summary": "民谣歌手抱着吉他轻扫和弦，低吟浅唱旅途故事，篝火旁听众静静聆...",
+      "full_text": "民谣歌手抱着吉他轻扫和弦，低吟浅唱旅途故事，篝火旁听众静静聆听。吉他是流浪者的乐器，六根弦承载自由与远方。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "entertainment_012",
-      "title": "听相声",
-      "summary": "相声演员逗哏捧哏，包袱抖落笑声不断，语言艺术",
-      "full_text": "相声演员逗哏捧哏，包袱抖落笑声不断，语言艺术",
+      "title": "古筝流水高山",
+      "summary": "古筝演奏者双手拨弦，高山流水之音从二十一根弦上流淌而出。古筝...",
+      "full_text": "古筝演奏者双手拨弦，高山流水之音从二十一根弦上流淌而出。古筝是华夏最古老的弹拨乐器，一曲高山流水觅知音。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "entertainment_013",
-      "title": "看大戏",
-      "summary": "乡村看大戏台下人头攒动，台上才子佳人，民间娱乐",
-      "full_text": "乡村看大戏台下人头攒动，台上才子佳人，民间娱乐",
+      "title": "二胡弦上泣诉",
+      "summary": "二胡演奏者拉弓推弓，二泉映月的旋律如泣如诉，两根弦道尽人间悲...",
+      "full_text": "二胡演奏者拉弓推弓，二泉映月的旋律如泣如诉，两根弦道尽人间悲欢。二胡是最接近人声的乐器，一把胡琴拉出万种愁。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "entertainment_014",
-      "title": "扭秧歌",
-      "summary": "秧歌队红绸飞舞，锣鼓点中扭摆，喜庆热闹",
-      "full_text": "秧歌队红绸飞舞，锣鼓点中扭摆，喜庆热闹",
+      "title": "流行音乐潮流",
+      "summary": "流行歌手在万人体育场开演唱会，荧光棒汇成星海，歌迷合唱响彻夜...",
+      "full_text": "流行歌手在万人体育场开演唱会，荧光棒汇成星海，歌迷合唱响彻夜空。流行音乐是时代的脉搏，每首歌都是一代人的青春记忆。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "entertainment_015",
-      "title": "电影院观影",
-      "summary": "电影院暗厅大银幕，爆米花可乐，沉浸式观影体验",
-      "full_text": "电影院暗厅大银幕，爆米花可乐，沉浸式观影体验",
+      "title": "摇滚热血嘶吼",
+      "summary": "摇滚乐队在舞台上电吉他失真轰鸣，鼓手重击镲片，主唱嘶吼出青春...",
+      "full_text": "摇滚乐队在舞台上电吉他失真轰鸣，鼓手重击镲片，主唱嘶吼出青春呐喊。摇滚是反叛与自由的声音，音浪冲破一切束缚。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "entertainment_016",
-      "title": "游乐园过山车",
-      "summary": "游乐园过山车俯冲翻转，尖叫声此起彼伏，刺激欢乐",
-      "full_text": "游乐园过山车俯冲翻转，尖叫声此起彼伏，刺激欢乐",
+      "title": "爵士即兴摇摆",
+      "summary": "爵士乐队在小酒馆即兴演奏，萨克斯吹出慵懒旋律，钢琴手随兴加入...",
+      "full_text": "爵士乐队在小酒馆即兴演奏，萨克斯吹出慵懒旋律，钢琴手随兴加入和声。爵士乐的灵魂是即兴，每一次演奏都是独一无二的创造。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "entertainment_017",
-      "title": "KTV唱歌",
-      "summary": "KTV包厢朋友唱歌，麦克风传唱经典，释放压力",
-      "full_text": "KTV包厢朋友唱歌，麦克风传唱经典，释放压力",
+      "title": "歌剧咏叹高歌",
+      "summary": "歌剧舞台上女高音演唱咏叹调，声音穿透管弦乐团直达剧院最后一排...",
+      "full_text": "歌剧舞台上女高音演唱咏叹调，声音穿透管弦乐团直达剧院最后一排。歌剧是音乐与戏剧的完美结合，美声唱法震撼心灵。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "entertainment_018",
-      "title": "主题公园",
-      "summary": "迪士尼主题公园，米老鼠花车巡游，梦幻童话世界",
-      "full_text": "迪士尼主题公园，米老鼠花车巡游，梦幻童话世界",
+      "title": "芭蕾足尖起舞",
+      "summary": "芭蕾舞者踮起足尖旋转，天鹅湖中白裙飘逸如梦似幻，脚尖上的优雅...",
+      "full_text": "芭蕾舞者踮起足尖旋转，天鹅湖中白裙飘逸如梦似幻，脚尖上的优雅背后是血与汗。芭蕾是舞蹈的皇冠，足尖上的艺术追求极致之美。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "entertainment_019",
-      "title": "密室逃脱",
-      "summary": "密室逃脱团队解谜，寻找线索破解机关，智力挑战",
-      "full_text": "密室逃脱团队解谜，寻找线索破解机关，智力挑战",
+      "title": "现代舞自由表达",
+      "summary": "现代舞者在空旷舞台上用身体表达内心情感，动作自由不拘一格，地...",
+      "full_text": "现代舞者在空旷舞台上用身体表达内心情感，动作自由不拘一格，地心引力是对手也是伙伴。现代舞打破古典束缚，身体是最诚实的语言。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "entertainment_020",
-      "title": "桌游聚会",
-      "summary": "桌游聚会朋友围坐，卡坦岛狼人杀，社交娱乐",
-      "full_text": "桌游聚会朋友围坐，卡坦岛狼人杀，社交娱乐",
+      "title": "街舞街头律动",
+      "summary": "街舞舞者在街头随着嘻哈音乐即兴起舞，地板动作旋转定格，身体随...",
+      "full_text": "街舞舞者在街头随着嘻哈音乐即兴起舞，地板动作旋转定格，身体随节拍律动。街舞源自街头文化，自由表达是最高准则。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "entertainment_021",
-      "title": "音乐节",
-      "summary": "户外音乐节万人狂欢，乐队演出音浪滚滚，青春释放",
-      "full_text": "户外音乐节万人狂欢，乐队演出音浪滚滚，青春释放",
+      "title": "民族舞多彩风情",
+      "summary": "民族舞者身着盛装跳起孔雀舞，手鼓伴奏旋转裙摆如花绽放，五十六...",
+      "full_text": "民族舞者身着盛装跳起孔雀舞，手鼓伴奏旋转裙摆如花绽放，五十六个民族各有风采。民族舞是文化的活化石，舞步中传承千年记忆。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "entertainment_022",
-      "title": "演唱会",
-      "summary": "演唱会荧光棒海洋，歌手倾情演唱，万人合唱",
-      "full_text": "演唱会荧光棒海洋，歌手倾情演唱，万人合唱",
+      "title": "魔术奇幻揭秘",
+      "summary": "魔术师挥手间白鸽从空帽中飞出，大变活人令观众目瞪口呆，手法快...",
+      "full_text": "魔术师挥手间白鸽从空帽中飞出，大变活人令观众目瞪口呆，手法快过眼睛。魔术是制造奇迹的艺术，眼见未必为实。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "entertainment_023",
-      "title": "话剧演出",
-      "summary": "话剧舞台演员表演，灯光布景沉浸叙事，现场艺术",
-      "full_text": "话剧舞台演员表演，灯光布景沉浸叙事，现场艺术",
+      "title": "杂技惊险绝活",
+      "summary": "杂技演员在空中绸吊上翻飞旋转，走钢丝者手持平衡杆步步惊心。杂...",
+      "full_text": "杂技演员在空中绸吊上翻飞旋转，走钢丝者手持平衡杆步步惊心。杂技是身体极限的挑战，台上一分钟台下十年功。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "entertainment_024",
-      "title": "美术馆参观",
-      "summary": "美术馆观赏画作，驻足沉思艺术之美，精神享受",
-      "full_text": "美术馆观赏画作，驻足沉思艺术之美，精神享受",
+      "title": "脱口秀单口喜剧",
+      "summary": "脱口秀演员手持麦克风独自站在聚光灯下，用幽默段子解构生活荒诞...",
+      "full_text": "脱口秀演员手持麦克风独自站在聚光灯下，用幽默段子解构生活荒诞，观众笑声不断。脱口秀是喜剧的极简形式，一个人一支麦就是全场。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "entertainment_025",
-      "title": "博物馆游览",
-      "summary": "博物馆文物展览，穿越时空对话历史，知识之旅",
-      "full_text": "博物馆文物展览，穿越时空对话历史，知识之旅",
+      "title": "百老汇音乐剧",
+      "summary": "百老汇舞台上演员边唱边跳，华丽布景随场景变换，音乐剧融合戏剧...",
+      "full_text": "百老汇舞台上演员边唱边跳，华丽布景随场景变换，音乐剧融合戏剧音乐与舞蹈。音乐剧是综合舞台艺术，视听盛宴令人难忘。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "entertainment_026",
-      "title": "水族馆",
-      "summary": "水族馆海底隧道，鲨鱼海龟游过头顶，蓝色世界",
-      "full_text": "水族馆海底隧道，鲨鱼海龟游过头顶，蓝色世界",
+      "title": "木偶戏掌中乾坤",
+      "summary": "木偶师手指操控提线木偶，木偶在舞台上活灵活现地表演故事。木偶...",
+      "full_text": "木偶师手指操控提线木偶，木偶在舞台上活灵活现地表演故事。木偶戏是掌中乾坤，十指操纵千军万马，方寸舞台演绎大千世界。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "entertainment_027",
-      "title": "动物园",
-      "summary": "动物园大熊猫吃竹子，孩子们兴奋围观，亲近自然",
-      "full_text": "动物园大熊猫吃竹子，孩子们兴奋围观，亲近自然",
+      "title": "皮影戏光影传奇",
+      "summary": "皮影艺人在幕布后操纵彩色皮影，灯光映出剪影讲述古老传说，锣鼓...",
+      "full_text": "皮影艺人在幕布后操纵彩色皮影，灯光映出剪影讲述古老传说，锣鼓伴奏。皮影戏是光影的魔术，两千年前的电影先驱。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "entertainment_028",
-      "title": "温泉度假",
-      "summary": "温泉度假泡汤放松，热气氤氲身心舒畅，养生休闲",
-      "full_text": "温泉度假泡汤放松，热气氤氲身心舒畅，养生休闲",
+      "title": "评书醒木惊天",
+      "summary": "评书先生醒木一拍，惊堂木响满堂寂静，单口讲述三国水浒英雄故事...",
+      "full_text": "评书先生醒木一拍，惊堂木响满堂寂静，单口讲述三国水浒英雄故事。评书是口头文学的艺术，一人一扇一醒木说尽天下事。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "entertainment_029",
-      "title": "钓鱼休闲",
-      "summary": "湖边钓鱼静候浮漂，竿弯鱼跃收获喜悦，悠然自得",
-      "full_text": "湖边钓鱼静候浮漂，竿弯鱼跃收获喜悦，悠然自得",
+      "title": "直播互动娱乐",
+      "summary": "网络主播在直播间与粉丝实时互动，弹幕刷屏礼物飞舞，虚拟陪伴成...",
+      "full_text": "网络主播在直播间与粉丝实时互动，弹幕刷屏礼物飞舞，虚拟陪伴成为新娱乐方式。直播是互联网时代的娱乐革命，人人可参与实时互动。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "entertainment_030",
-      "title": "露营野炊",
-      "summary": "郊外露营搭帐篷，篝火野炊星空下，亲近自然",
-      "full_text": "郊外露营搭帐篷，篝火野炊星空下，亲近自然",
+      "title": "游戏虚拟冒险",
+      "summary": "玩家戴上VR头显进入虚拟世界，手柄挥动斩杀巨龙，沉浸式体验超...",
+      "full_text": "玩家戴上VR头显进入虚拟世界，手柄挥动斩杀巨龙，沉浸式体验超越现实。电子游戏是第九艺术，互动叙事创造无限可能。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "entertainment_031",
-      "title": "摄影采风",
-      "summary": "摄影爱好者长焦镜头，捕捉光影瞬间，视觉创作",
-      "full_text": "摄影爱好者长焦镜头，捕捉光影瞬间，视觉创作",
+      "title": "密室逃脱解谜",
+      "summary": "密室中玩家翻找线索破解密码锁，倒计时滴答作响，团队合作是逃出...",
+      "full_text": "密室中玩家翻找线索破解密码锁，倒计时滴答作响，团队合作是逃出关键。密室逃脱是现实版冒险游戏，逻辑推理与团队配合缺一不可。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "entertainment_032",
-      "title": "园艺休闲",
-      "summary": "阳台种花浇水修剪，花开满盆心情愉悦，绿色休闲",
-      "full_text": "阳台种花浇水修剪，花开满盆心情愉悦，绿色休闲",
+      "title": "剧本杀角色扮演",
+      "summary": "剧本杀玩家围坐桌前各执角色剧本，推理凶案真相，演技与逻辑的较...",
+      "full_text": "剧本杀玩家围坐桌前各执角色剧本，推理凶案真相，演技与逻辑的较量。剧本杀是社交推理游戏，每个人都是嫌疑人也是侦探。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "entertainment_033",
-      "title": "读书品茗",
-      "summary": "午后读书品茗，阳光洒落书页，宁静时光",
-      "full_text": "午后读书品茗，阳光洒落书页，宁静时光",
+      "title": "主题乐园欢乐",
+      "summary": "主题乐园中过山车呼啸而过，旋转木马流光溢彩，游客尖叫欢笑释放...",
+      "full_text": "主题乐园中过山车呼啸而过，旋转木马流光溢彩，游客尖叫欢笑释放压力。主题乐园是现实版的童话世界，大人小孩都能找到快乐。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "entertainment_034",
-      "title": "电子竞技",
-      "summary": "电竞比赛选手操作，观众呐喊助威，数字体育崛起",
-      "full_text": "电竞比赛选手操作，观众呐喊助威，数字体育崛起",
+      "title": "卡拉OK欢唱",
+      "summary": "KTV包厢中朋友举杯欢唱，歌词字幕滚动，走调也唱得尽兴。卡拉...",
+      "full_text": "KTV包厢中朋友举杯欢唱，歌词字幕滚动，走调也唱得尽兴。卡拉OK是大众的舞台，不需要专业歌喉也能享受歌唱的快乐。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "entertainment_035",
-      "title": "直播互动",
-      "summary": "网络主播直播互动，弹幕礼物实时反馈，新娱乐方式",
-      "full_text": "网络主播直播互动，弹幕礼物实时反馈，新娱乐方式",
+      "title": "漫画分镜叙事",
+      "summary": "漫画家在画纸上勾勒分镜，对话框中文字推动剧情，画面定格精彩瞬...",
+      "full_text": "漫画家在画纸上勾勒分镜，对话框中文字推动剧情，画面定格精彩瞬间。漫画是纸上的电影，分镜节奏决定故事张力。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "entertainment_036",
-      "title": "VR游戏体验",
-      "summary": "VR头戴设备沉浸游戏，虚拟世界身临其境，科技娱乐",
-      "full_text": "VR头戴设备沉浸游戏，虚拟世界身临其境，科技娱乐",
+      "title": "脱口秀播客",
+      "summary": "播客主播戴上耳机对着麦克风录制节目，话题从科技到生活随性漫谈...",
+      "full_text": "播客主播戴上耳机对着麦克风录制节目，话题从科技到生活随性漫谈。播客是声音的社交，耳朵的陪伴温暖通勤时光。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "entertainment_037",
-      "title": "手机游戏",
-      "summary": "手机游戏随时随地，碎片时间娱乐，移动游戏时代",
-      "full_text": "手机游戏随时随地，碎片时间娱乐，移动游戏时代",
+      "title": "沉浸式戏剧",
+      "summary": "沉浸式戏剧中观众穿梭在不同房间，跟随演员近距离观看表演，自己...",
+      "full_text": "沉浸式戏剧中观众穿梭在不同房间，跟随演员近距离观看表演，自己也是剧中人。沉浸式戏剧打破舞台边界，观众与演员共享同一空间。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "entertainment_038",
-      "title": "短视频刷屏",
-      "summary": "短视频刷屏15秒，算法推荐精准，碎片化娱乐",
-      "full_text": "短视频刷屏15秒，算法推荐精准，碎片化娱乐",
+      "title": "摄影光影定格",
+      "summary": "摄影师端着长焦镜头蹲守日出，快门按下瞬间光影被永久定格。摄影...",
+      "full_text": "摄影师端着长焦镜头蹲守日出，快门按下瞬间光影被永久定格。摄影是光与时间的艺术，决定性瞬间转瞬即逝。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "entertainment_039",
-      "title": "播客收听",
-      "summary": "播客音频节目，通勤路上收听，知识型娱乐",
-      "full_text": "播客音频节目，通勤路上收听，知识型娱乐",
+      "title": "书法笔墨韵味",
+      "summary": "书法家提笔蘸墨，宣纸上挥毫泼墨，一撇一捺气韵生动力透纸背。书...",
+      "full_text": "书法家提笔蘸墨，宣纸上挥毫泼墨，一撇一捺气韵生动力透纸背。书法是线条的舞蹈，笔墨间流淌千年文脉。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "entertainment_040",
-      "title": "剧本杀",
-      "summary": "剧本杀角色扮演推理，搜证讨论还原真相，沉浸式社交",
-      "full_text": "剧本杀角色扮演推理，搜证讨论还原真相，沉浸式社交",
+      "title": "油画色彩堆叠",
+      "summary": "油画家在画布上用调色刀堆叠厚重颜料，色彩浓烈笔触奔放，远观气...",
+      "full_text": "油画家在画布上用调色刀堆叠厚重颜料，色彩浓烈笔触奔放，远观气势磅礴。油画是色彩的交响，层层覆盖中诞生杰作。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "entertainment_041",
-      "title": "盲盒收藏",
-      "summary": "盲盒拆开惊喜，隐藏款稀有收藏，潮玩文化",
-      "full_text": "盲盒拆开惊喜，隐藏款稀有收藏，潮玩文化",
+      "title": "水墨留白意境",
+      "summary": "水墨画家寥寥数笔勾勒远山近水，大片留白引人遐想，墨分五色浓淡...",
+      "full_text": "水墨画家寥寥数笔勾勒远山近水，大片留白引人遐想，墨分五色浓淡相宜。水墨画是东方美学的极致，以少胜多意在画外。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "entertainment_042",
-      "title": "手办模型",
-      "summary": "手办模型精细涂装，动漫角色立体化，收藏乐趣",
-      "full_text": "手办模型精细涂装，动漫角色立体化，收藏乐趣",
+      "title": "雕塑刀下生命",
+      "summary": "雕塑家手持凿刀在大理石上敲击，石屑纷飞中人物轮廓逐渐显现，冰...",
+      "full_text": "雕塑家手持凿刀在大理石上敲击，石屑纷飞中人物轮廓逐渐显现，冰冷石头有了温度。雕塑是减法的艺术，去掉多余才能看见生命。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "entertainment_043",
-      "title": "弹幕文化",
-      "summary": "弹幕视频实时评论，吐槽互动集体狂欢，参与式娱乐",
-      "full_text": "弹幕视频实时评论，吐槽互动集体狂欢，参与式娱乐",
+      "title": "陶艺手捏成型",
+      "summary": "陶艺师双手在转盘上塑造泥坯，拉坯修坯上釉，窑火中泥土蜕变为瓷...",
+      "full_text": "陶艺师双手在转盘上塑造泥坯，拉坯修坯上釉，窑火中泥土蜕变为瓷器。陶艺是水火土的炼金术，千度高温中诞生永恒之美。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "entertainment_044",
-      "title": "虚拟偶像",
-      "summary": "虚拟偶像全息演出，数字角色粉丝应援，二次元文化",
-      "full_text": "虚拟偶像全息演出，数字角色粉丝应援，二次元文化",
+      "title": "版画刻印复制",
+      "summary": "版画家在木板上刻出图案，滚墨上色后铺纸拓印，黑白对比鲜明有力...",
+      "full_text": "版画家在木板上刻出图案，滚墨上色后铺纸拓印，黑白对比鲜明有力。版画是可复制的原创艺术，刀法力度决定画面气质。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "entertainment_045",
-      "title": "元宇宙社交",
-      "summary": "元宇宙虚拟形象社交，数字空间互动，未来娱乐",
-      "full_text": "元宇宙虚拟形象社交，数字空间互动，未来娱乐",
+      "title": "插画叙事绘图",
+      "summary": "插画师在数位屏上绘制商业插画，色彩明快构图精巧，为文字赋予视...",
+      "full_text": "插画师在数位屏上绘制商业插画，色彩明快构图精巧，为文字赋予视觉生命。插画是文字的视觉翻译，一图胜千言。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "entertainment_046",
-      "title": "AI绘画创作",
-      "summary": "AI绘画输入提示词生成，人机协作创作，艺术新形态",
-      "full_text": "AI绘画输入提示词生成，人机协作创作，艺术新形态",
+      "title": "装置艺术空间",
+      "summary": "装置艺术家用日常物品构建沉浸式空间，观众走进作品成为艺术的一...",
+      "full_text": "装置艺术家用日常物品构建沉浸式空间，观众走进作品成为艺术的一部分。装置艺术打破观赏距离，空间本身就是作品。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "entertainment_047",
-      "title": "数字藏品NFT",
-      "summary": "数字藏品NFT收藏，区块链确权唯一，数字资产",
-      "full_text": "数字藏品NFT收藏，区块链确权唯一，数字资产",
+      "title": "行为艺术身体",
+      "summary": "行为艺术家用身体作为媒介，在公共空间进行即兴表演，挑战观众认...",
+      "full_text": "行为艺术家用身体作为媒介，在公共空间进行即兴表演，挑战观众认知边界。行为艺术是最直接的表达，身体即语言。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "entertainment_048",
-      "title": "云游戏",
-      "summary": "云游戏无需下载即玩，服务器渲染流媒体，便捷体验",
-      "full_text": "云游戏无需下载即玩，服务器渲染流媒体，便捷体验",
+      "title": "数字艺术未来",
+      "summary": "数字艺术家用算法生成绚丽图案，AI辅助创作突破想象边界，屏幕...",
+      "full_text": "数字艺术家用算法生成绚丽图案，AI辅助创作突破想象边界，屏幕成为新画布。数字艺术是科技与美学的融合，代码也能创造美。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "entertainment_049",
-      "title": "沉浸式剧场",
-      "summary": "沉浸式剧场观众参与，跟随演员移动，打破第四面墙",
-      "full_text": "沉浸式剧场观众参与，跟随演员移动，打破第四面墙",
+      "title": "手办模型收藏",
+      "summary": "手办收藏者小心翼翼地为树脂模型上色涂装，细节处用零号笔描绘，...",
+      "full_text": "手办收藏者小心翼翼地为树脂模型上色涂装，细节处用零号笔描绘，展示柜中灯光映照。手办是三维的热爱，每个模型都是匠心之作。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "entertainment_050",
-      "title": "密室剧本",
-      "summary": "密室剧本融合解谜表演，团队协作推进剧情，沉浸体验",
-      "full_text": "密室剧本融合解谜表演，团队协作推进剧情，沉浸体验",
+      "title": "桌游策略博弈",
+      "summary": "桌游玩家围坐桌前摆放卡牌和标记物，运筹帷幄制定策略，骰子决定...",
+      "full_text": "桌游玩家围坐桌前摆放卡牌和标记物，运筹帷幄制定策略，骰子决定命运。桌游是面对面的社交游戏，策略与运气交织出无限可能。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "entertainment_051",
-      "title": "户外音乐节",
-      "summary": "户外草地音乐节，帐篷露营乐队演出，自由狂欢",
-      "full_text": "户外草地音乐节，帐篷露营乐队演出，自由狂欢",
+      "title": "戏曲脸谱艺术",
+      "summary": "戏曲化妆师在演员脸上勾画脸谱，红脸忠白脸奸黑脸刚直，色彩图案...",
+      "full_text": "戏曲化妆师在演员脸上勾画脸谱，红脸忠白脸奸黑脸刚直，色彩图案皆有寓意。脸谱是性格的密码，一眼便知忠奸善恶。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "entertainment_052",
-      "title": "旅行打卡",
-      "summary": "网红景点旅行打卡，拍照分享社交媒体，旅行新方式",
-      "full_text": "网红景点旅行打卡，拍照分享社交媒体，旅行新方式",
+      "title": "杂技顶碗平衡",
+      "summary": "杂技演员头顶叠放五只瓷碗，在独轮车上保持平衡，碗不落车不停。...",
+      "full_text": "杂技演员头顶叠放五只瓷碗，在独轮车上保持平衡，碗不落车不停。顶碗是杂技中的绝活，平衡的极致是看起来毫不费力。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "entertainment_053",
-      "title": "美食探店",
-      "summary": "美食博主探店品鉴，拍照点评推荐，味蕾探索",
-      "full_text": "美食博主探店品鉴，拍照点评推荐，味蕾探索",
+      "title": "马戏团奇幻夜",
+      "summary": "马戏团帐篷中驯兽师指挥老虎跳火圈，小丑逗得观众捧腹大笑，空中...",
+      "full_text": "马戏团帐篷中驯兽师指挥老虎跳火圈，小丑逗得观众捧腹大笑，空中飞人惊险刺激。马戏是奇幻的盛宴，人类与动物的默契配合令人惊叹。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "entertainment_054",
-      "title": "手工DIY",
-      "summary": "手工DIY陶艺皮具，亲手制作独一无二，创造乐趣",
-      "full_text": "手工DIY陶艺皮具，亲手制作独一无二，创造乐趣",
+      "title": "诗词吟诵雅集",
+      "summary": "文人雅集上诗友举杯吟诵唐诗宋词，平仄韵律抑扬顿挫，千年前的心...",
+      "full_text": "文人雅集上诗友举杯吟诵唐诗宋词，平仄韵律抑扬顿挫，千年前的心声在今夜回响。诗词吟诵是声音的考古，古韵新声穿越时空。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "entertainment_055",
-      "title": "宠物互动",
-      "summary": "猫咖撸猫狗咖遛狗，与萌宠互动治愈，心灵抚慰",
-      "full_text": "猫咖撸猫狗咖遛狗，与萌宠互动治愈，心灵抚慰",
+      "title": "茶艺品茗静心",
+      "summary": "茶艺师用紫砂壶冲泡乌龙茶，闻香杯中茶香袅袅，品茗静心修身养性...",
+      "full_text": "茶艺师用紫砂壶冲泡乌龙茶，闻香杯中茶香袅袅，品茗静心修身养性。茶艺是味觉的修行，一泡茶中品味山川日月。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "entertainment_056",
-      "title": "星空观测",
-      "summary": "天文望远镜观测星空，银河璀璨流星划过，宇宙之美",
-      "full_text": "天文望远镜观测星空，银河璀璨流星划过，宇宙之美",
+      "title": "花道插花美学",
+      "summary": "花道师在花器中插上三两枝花材，高低错落疏密有致，留白处见意境...",
+      "full_text": "花道师在花器中插上三两枝花材，高低错落疏密有致，留白处见意境。花道是自然的微缩，一花一叶皆有大千世界。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "entertainment_057",
-      "title": "城市漫步",
-      "summary": "城市漫步探索街巷，发现隐藏小店，慢生活美学",
-      "full_text": "城市漫步探索街巷，发现隐藏小店，慢生活美学",
+      "title": "香道品香悟道",
+      "summary": "香道师在香炉中点燃沉香，青烟袅袅升腾，闭目品香感悟当下。香道...",
+      "full_text": "香道师在香炉中点燃沉香，青烟袅袅升腾，闭目品香感悟当下。香道是嗅觉的冥想，一缕清香连接古今。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "entertainment_058",
-      "title": "数字阅读",
-      "summary": "电子书阅读器墨水屏，海量书籍随身携带，阅读革命",
-      "full_text": "电子书阅读器墨水屏，海量书籍随身携带，阅读革命",
+      "title": "昆曲水磨腔韵",
+      "summary": "昆曲舞台上旦角水袖轻拂，水磨腔婉转悠长，牡丹亭中杜丽娘游园惊...",
+      "full_text": "昆曲舞台上旦角水袖轻拂，水磨腔婉转悠长，牡丹亭中杜丽娘游园惊梦。昆曲是百戏之祖，六百年水磨腔韵犹在耳畔。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "entertainment_059",
-      "title": "播客创作",
-      "summary": "播客创作者录音剪辑，分享观点故事，声音自媒体",
-      "full_text": "播客创作者录音剪辑，分享观点故事，声音自媒体",
+      "title": "粤剧南国红豆",
+      "summary": "粤剧舞台上花旦甩出水袖唱出婉转唱腔，武生翻腾打斗精彩纷呈。粤...",
+      "full_text": "粤剧舞台上花旦甩出水袖唱出婉转唱腔，武生翻腾打斗精彩纷呈。粤剧是南国红豆，岭南文化的瑰宝，唱腔独特韵味悠长。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "entertainment_060",
-      "title": "社区活动",
-      "summary": "社区文化活动邻里参与，广场舞书法班，和谐社区",
-      "full_text": "社区文化活动邻里参与，广场舞书法班，和谐社区",
+      "title": "豫剧中原梆子",
+      "summary": "豫剧舞台上花木兰唱腔高亢激昂，梆子伴奏铿锵有力，中原大地豪迈...",
+      "full_text": "豫剧舞台上花木兰唱腔高亢激昂，梆子伴奏铿锵有力，中原大地豪迈气概。豫剧是河南第一大剧种，高亢激越的唱腔唱出中原风骨。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "entertainment_061",
-      "title": "休闲方式演变",
-      "summary": "从皮影戏到VR游戏，娱乐方式千年演变，人类追求快乐",
-      "full_text": "从皮影戏到VR游戏，娱乐方式千年演变，人类追求快乐",
+      "title": "川剧变脸绝技",
+      "summary": "川剧演员一转身脸谱瞬间变换，红脸变白脸再变金脸，手法快如闪电...",
+      "full_text": "川剧演员一转身脸谱瞬间变换，红脸变白脸再变金脸，手法快如闪电。变脸是川剧的绝技，一秒变脸背后是数十年苦练。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "entertainment_062",
-      "title": "娱乐与健康",
-      "summary": "适度娱乐身心放松，沉迷成瘾需警惕，健康休闲",
-      "full_text": "适度娱乐身心放松，沉迷成瘾需警惕，健康休闲",
+      "title": "黄梅戏天仙配",
+      "summary": "黄梅戏舞台上七仙女与董永对唱夫妻双双把家还，唱腔淳朴流畅。黄...",
+      "full_text": "黄梅戏舞台上七仙女与董永对唱夫妻双双把家还，唱腔淳朴流畅。黄梅戏源自湖北黄梅，天仙配的故事传唱大江南北。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "entertainment_063",
-      "title": "密室逃脱",
-      "summary": "密室逃脱解谜闯关，团队协作智力挑战，沉浸娱乐",
-      "full_text": "密室逃脱解谜闯关，团队协作智力挑战，沉浸娱乐",
+      "title": "马头琴草原歌",
+      "summary": "蒙古族牧民拉起马头琴，琴声悠扬如万马奔腾，长调民歌回荡在辽阔...",
+      "full_text": "蒙古族牧民拉起马头琴，琴声悠扬如万马奔腾，长调民歌回荡在辽阔草原。马头琴是草原的灵魂，琴声中有风有马有远方。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "entertainment_064",
-      "title": "剧本杀",
-      "summary": "剧本杀角色扮演推理，沉浸式社交游戏，悬疑体验",
-      "full_text": "剧本杀角色扮演推理，沉浸式社交游戏，悬疑体验",
+      "title": "非遗传承守护",
+      "summary": "非遗传承人在工作坊中教授学徒传统技艺，剪纸皮影刺绣代代相传。...",
+      "full_text": "非遗传承人在工作坊中教授学徒传统技艺，剪纸皮影刺绣代代相传。非物质文化遗产是活态的文化基因，传承是最好的保护。",
       "image": "res://assets/images/illustrations/entertainment/entertainment_064.jpg",
       "image_grid": {
         "x": 3,

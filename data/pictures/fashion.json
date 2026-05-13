@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "fashion_000",
-      "title": "汉代深衣曲裾",
-      "summary": "汉代贵族女性身着深衣曲裾，衣袖宽大飘逸，丝帛面料光泽流转",
-      "full_text": "汉代贵族女性身着深衣曲裾，衣袖宽大飘逸，丝帛面料光泽流转",
+      "title": "先秦深衣制",
+      "summary": "先秦时期士大夫身着深衣，上衣下裳相连，交领右衽，腰间束大带，...",
+      "full_text": "先秦时期士大夫身着深衣，上衣下裳相连，交领右衽，腰间束大带，下摆不开衩。深衣是先秦最典型的服饰制度，体现了华夏衣冠的礼制根基。",
       "image": "res://assets/images/illustrations/fashion/fashion_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "fashion_001",
-      "title": "唐代齐胸襦裙",
-      "summary": "唐代仕女穿齐胸襦裙，裙摆曳地色彩绚丽，尽显大唐风华",
-      "full_text": "唐代仕女穿齐胸襦裙，裙摆曳地色彩绚丽，尽显大唐风华",
+      "title": "汉代曲裾深衣",
+      "summary": "汉代贵妇身着曲裾深衣，衣襟绕体数层螺旋而下，腰间系丝带束紧，...",
+      "full_text": "汉代贵妇身着曲裾深衣，衣襟绕体数层螺旋而下，腰间系丝带束紧，宽袖垂落至腕。曲裾设计既端庄又典雅，是汉代女性最高规格的礼服。",
       "image": "res://assets/images/illustrations/fashion/fashion_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "fashion_002",
-      "title": "宋代褙子素雅",
-      "summary": "宋代女子穿褙子搭配长裙，色调淡雅清新，体现内敛审美",
-      "full_text": "宋代女子穿褙子搭配长裙，色调淡雅清新，体现内敛审美",
+      "title": "魏晋宽衫博带",
+      "summary": "魏晋名士身着宽大衫袍，衣袖宽博及膝，腰间系长带垂拂而下，发髻...",
+      "full_text": "魏晋名士身着宽大衫袍，衣袖宽博及膝，腰间系长带垂拂而下，发髻高耸不冠。这种服饰反映了魏晋时期追求自由洒脱的时代精神。",
       "image": "res://assets/images/illustrations/fashion/fashion_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "fashion_003",
-      "title": "明代袄裙端庄",
-      "summary": "明代女性身着琵琶袖袄裙，上袄下裙端庄大方，织金纹饰精美",
-      "full_text": "明代女性身着琵琶袖袄裙，上袄下裙端庄大方，织金纹饰精美",
+      "title": "唐代齐胸襦裙",
+      "summary": "唐代仕女身着齐胸襦裙，裙腰高束胸前，裙摆拖地如云，上着短襦露...",
+      "full_text": "唐代仕女身着齐胸襦裙，裙腰高束胸前，裙摆拖地如云，上着短襦露出锁骨。唐代女性服饰开放华丽，展现了盛唐的自信与繁荣。",
       "image": "res://assets/images/illustrations/fashion/fashion_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "fashion_004",
-      "title": "清代旗装马褂",
-      "summary": "清代满族女性穿旗装，男子着马褂长袍，盘扣立领特色鲜明",
-      "full_text": "清代满族女性穿旗装，男子着马褂长袍，盘扣立领特色鲜明",
+      "title": "唐代圆领袍衫",
+      "summary": "唐代官员身着圆领袍衫，领口为圆形，袍长及足，腰间束革带佩鱼袋...",
+      "full_text": "唐代官员身着圆领袍衫，领口为圆形，袍长及足，腰间束革带佩鱼袋，脚穿乌皮靴。圆领袍是唐代男子最常见的正式服装，影响了后世数百年。",
       "image": "res://assets/images/illustrations/fashion/fashion_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "fashion_005",
-      "title": "汉服交领右衽",
-      "summary": "汉服典型交领右衽设计，系带系结不用纽扣，宽袍大袖飘逸",
-      "full_text": "汉服典型交领右衽设计，系带系结不用纽扣，宽袍大袖飘逸",
+      "title": "宋代褙子",
+      "summary": "宋代女性身着对襟褙子，衣身窄长至膝，两侧开衩，内搭抹胸与长裙...",
+      "full_text": "宋代女性身着对襟褙子，衣身窄长至膝，两侧开衩，内搭抹胸与长裙，发髻简洁。宋代服饰趋于清秀淡雅，体现了理学影响下的内敛审美。",
       "image": "res://assets/images/illustrations/fashion/fashion_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "fashion_006",
-      "title": "唐代圆领袍衫",
-      "summary": "唐代男子穿圆领袍衫束带配靴，英姿飒爽气度不凡",
-      "full_text": "唐代男子穿圆领袍衫束带配靴，英姿飒爽气度不凡",
+      "title": "辽金胡服骑射",
+      "summary": "辽金时期契丹族身着左衽窄袖长袍，腰束蹀躞带，脚穿长靴，头戴皮...",
+      "full_text": "辽金时期契丹族身着左衽窄袖长袍，腰束蹀躞带，脚穿长靴，头戴皮帽。游牧民族的服饰便于骑射，与中原服饰形成鲜明对比。",
       "image": "res://assets/images/illustrations/fashion/fashion_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "fashion_007",
-      "title": "日本和服振袖",
-      "summary": "日本女性身着振袖和服，腰系华丽太鼓结，木屐踏碎樱花瓣",
-      "full_text": "日本女性身着振袖和服，腰系华丽太鼓结，木屐踏碎樱花瓣",
+      "title": "元代质孙服",
+      "summary": "元代蒙古贵族身着质孙服，上衣连下裳，衣式较紧窄，腰间打褶密集...",
+      "full_text": "元代蒙古贵族身着质孙服，上衣连下裳，衣式较紧窄，腰间打褶密集，色彩鲜艳统一。质孙服是元代最具代表性的宫廷礼服，一色衣为其特色。",
       "image": "res://assets/images/illustrations/fashion/fashion_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "fashion_008",
-      "title": "韩国韩服赤古里",
-      "summary": "韩国女性穿赤古里裙，上衣短小色彩鲜艳，搭配优雅发髻",
-      "full_text": "韩国女性穿赤古里裙，上衣短小色彩鲜艳，搭配优雅发髻",
+      "title": "明代补服制度",
+      "summary": "明代官员身着盘领袍，胸前背后缀有方形补子，文官绣飞禽，武官绣...",
+      "full_text": "明代官员身着盘领袍，胸前背后缀有方形补子，文官绣飞禽，武官绣走兽，腰束玉带。补服制度是明代官服最显著的特征，品级分明。",
       "image": "res://assets/images/illustrations/fashion/fashion_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "fashion_009",
-      "title": "印度纱丽飘逸",
-      "summary": "印度女性身披纱丽，丝绸面料光泽流转，金线刺绣华美绝伦",
-      "full_text": "印度女性身披纱丽，丝绸面料光泽流转，金线刺绣华美绝伦",
+      "title": "明代凤冠霞帔",
+      "summary": "明代命妇头戴凤冠，上饰金凤珠翠，身披霞帔绕肩而下，内着大袖衫...",
+      "full_text": "明代命妇头戴凤冠，上饰金凤珠翠，身披霞帔绕肩而下，内着大袖衫与长裙。凤冠霞帔是古代女性最高等级的礼服，象征尊贵身份。",
       "image": "res://assets/images/illustrations/fashion/fashion_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "fashion_010",
-      "title": "古埃及亚麻褶裙",
-      "summary": "古埃及人穿亚麻褶裙，白色布料轻盈透气，配黄金饰品",
-      "full_text": "古埃及人穿亚麻褶裙，白色布料轻盈透气，配黄金饰品",
+      "title": "清代马蹄袖",
+      "summary": "清代官员身着马褂，袖口形似马蹄，行礼时放下覆盖手背，平时翻起...",
+      "full_text": "清代官员身着马褂，袖口形似马蹄，行礼时放下覆盖手背，平时翻起露出手指。马蹄袖是清代满族服饰的标志性设计，兼具实用与礼仪功能。",
       "image": "res://assets/images/illustrations/fashion/fashion_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "fashion_011",
-      "title": "古希腊希顿长袍",
-      "summary": "古希腊人身披希顿长袍，布料自然垂坠，褶皱优美如雕塑",
-      "full_text": "古希腊人身披希顿长袍，布料自然垂坠，褶皱优美如雕塑",
+      "title": "清代旗装",
+      "summary": "清代满族女性身着旗装，直筒式袍身，衣身宽大平直，圆领右衽，衣...",
+      "full_text": "清代满族女性身着旗装，直筒式袍身，衣身宽大平直，圆领右衽，衣袖较窄，下摆开衩。旗装是满族女性的传统服饰，后来演变为旗袍的雏形。",
       "image": "res://assets/images/illustrations/fashion/fashion_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "fashion_012",
-      "title": "古罗马托加袍",
-      "summary": "古罗马公民身披托加长袍，白色羊毛织物层层缠绕象征身份",
-      "full_text": "古罗马公民身披托加长袍，白色羊毛织物层层缠绕象征身份",
+      "title": "汉代直裾深衣",
+      "summary": "汉代文人身着直裾深衣，衣襟垂直而下不再绕体，下摆方正，腰间束...",
+      "full_text": "汉代文人身着直裾深衣，衣襟垂直而下不再绕体，下摆方正，腰间束带。直裾比曲裾更为简便，东汉后逐渐取代曲裾成为主流。",
       "image": "res://assets/images/illustrations/fashion/fashion_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "fashion_013",
-      "title": "中世纪骑士铠甲",
-      "summary": "中世纪骑士身着锁子甲，外罩纹章战袍，手持长剑威风凛凛",
-      "full_text": "中世纪骑士身着锁子甲，外罩纹章战袍，手持长剑威风凛凛",
+      "title": "唐代半臂短衣",
+      "summary": "唐代女性上着半臂短衣，袖长仅及上臂，对襟敞开，内衬长袖襦衫，...",
+      "full_text": "唐代女性上着半臂短衣，袖长仅及上臂，对襟敞开，内衬长袖襦衫，下穿高腰长裙。半臂是唐代女性流行的时尚单品，轻便而美观。",
       "image": "res://assets/images/illustrations/fashion/fashion_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "fashion_014",
-      "title": "文艺复兴华服",
-      "summary": "文艺复兴时期贵族华服，天鹅绒面料绣金线，拉夫领精致繁复",
-      "full_text": "文艺复兴时期贵族华服，天鹅绒面料绣金线，拉夫领精致繁复",
+      "title": "宋代大袖衫",
+      "summary": "宋代后妃身着大袖衫，袖口宽达一尺有余，衣身宽大飘逸，内衬长裙...",
+      "full_text": "宋代后妃身着大袖衫，袖口宽达一尺有余，衣身宽大飘逸，内衬长裙，肩披霞帔。大袖衫是宋代女性最高级别的礼服，用于重大典礼。",
       "image": "res://assets/images/illustrations/fashion/fashion_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "fashion_015",
-      "title": "维京毛皮斗篷",
-      "summary": "维京战士披毛皮斗篷，头戴角盔手持战斧，抵御北欧严寒",
-      "full_text": "维京战士披毛皮斗篷，头戴角盔手持战斧，抵御北欧严寒",
+      "title": "明代道袍",
+      "summary": "明代文人身着道袍，交领右衽，宽袖长摆，腰间系丝绦，衣料多为素...",
+      "full_text": "明代文人身着道袍，交领右衽，宽袖长摆，腰间系丝绦，衣料多为素色棉麻。道袍是明代文人日常最常穿的便服，体现了淡泊清雅的文人气质。",
       "image": "res://assets/images/illustrations/fashion/fashion_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "fashion_016",
-      "title": "蒙古长袍皮帽",
-      "summary": "蒙古牧民穿长袍系腰带，头戴皮帽防风，马靴便于骑射",
-      "full_text": "蒙古牧民穿长袍系腰带，头戴皮帽防风，马靴便于骑射",
+      "title": "古代蓑衣斗笠",
+      "summary": "古代渔翁身披蓑衣，头戴斗笠，蓑衣由棕丝编成如鳞片层叠，斗笠竹...",
+      "full_text": "古代渔翁身披蓑衣，头戴斗笠，蓑衣由棕丝编成如鳞片层叠，斗笠竹编而成。蓑衣斗笠是古代最普遍的雨具，质朴而实用。",
       "image": "res://assets/images/illustrations/fashion/fashion_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "fashion_017",
-      "title": "奥斯曼刺绣长袍",
-      "summary": "奥斯曼贵族穿刺绣长袍，头戴缠头巾，丝绸面料纹饰华丽",
-      "full_text": "奥斯曼贵族穿刺绣长袍，头戴缠头巾，丝绸面料纹饰华丽",
+      "title": "清代长袍马褂",
+      "summary": "清代男子外穿马褂，内着长袍，马褂短小仅及腰，对襟窄袖，长袍则...",
+      "full_text": "清代男子外穿马褂，内着长袍，马褂短小仅及腰，对襟窄袖，长袍则宽大及踝。长袍马褂是清代男子最典型的日常着装组合。",
       "image": "res://assets/images/illustrations/fashion/fashion_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "fashion_018",
-      "title": "非洲坎加彩布",
-      "summary": "非洲女性身披坎加彩布，色彩鲜艳图案寓意丰富，搭配珠饰",
-      "full_text": "非洲女性身披坎加彩布，色彩鲜艳图案寓意丰富，搭配珠饰",
+      "title": "古代明光铠",
+      "summary": "古代武将身披明光铠，胸前两块圆护如镜闪光，肩覆兽首披膊，腰束...",
+      "full_text": "古代武将身披明光铠，胸前两块圆护如镜闪光，肩覆兽首披膊，腰束甲裙，腿缚胫甲。铠甲是古代最重要的军事防护装备，工艺精湛。",
       "image": "res://assets/images/illustrations/fashion/fashion_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "fashion_019",
-      "title": "苏格兰格纹短裙",
-      "summary": "苏格兰男子穿格纹短裙，配风笛与腰包，彰显高地传统",
-      "full_text": "苏格兰男子穿格纹短裙，配风笛与腰包，彰显高地传统",
+      "title": "古代帝王冕服",
+      "summary": "古代帝王头戴冕冠，冠上覆冕板前后垂旒珠，身着玄衣纁裳，上衣绣...",
+      "full_text": "古代帝王头戴冕冠，冠上覆冕板前后垂旒珠，身着玄衣纁裳，上衣绣六章纹饰，下裳绣六章。冕服是中国古代最高等级的礼服制度。",
       "image": "res://assets/images/illustrations/fashion/fashion_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "fashion_020",
-      "title": "维多利亚束腰裙",
-      "summary": "维多利亚时代女性穿束腰蓬裙，蕾丝装饰精致，裙撑如花绽放",
-      "full_text": "维多利亚时代女性穿束腰蓬裙，蕾丝装饰精致，裙撑如花绽放",
+      "title": "民国旗袍初现",
+      "summary": "民国初期女性身着旗袍，剪裁宽松直筒，领口较高，袖长及腕，下摆...",
+      "full_text": "民国初期女性身着旗袍，剪裁宽松直筒，领口较高，袖长及腕，下摆至踝，面料为素色丝绸。早期旗袍保留了旗装的基本形态，尚未展现身体曲线。",
       "image": "res://assets/images/illustrations/fashion/fashion_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "fashion_021",
-      "title": "民国初期旗袍",
-      "summary": "民国初期旗袍宽松剪裁，倒大袖配素雅花纹，中西合璧初现",
-      "full_text": "民国初期旗袍宽松剪裁，倒大袖配素雅花纹，中西合璧初现",
+      "title": "海派改良旗袍",
+      "summary": "1930年代上海女性身着改良旗袍，收腰剪裁凸显曲线，高领盘扣...",
+      "full_text": "1930年代上海女性身着改良旗袍，收腰剪裁凸显曲线，高领盘扣精致，开衩至膝，面料选用印花丝绸。海派旗袍将东方韵味与西式剪裁完美融合。",
       "image": "res://assets/images/illustrations/fashion/fashion_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "fashion_022",
-      "title": "海派改良旗袍",
-      "summary": "海派旗袍修身开叉，勾勒东方女性曲线美，配珍珠项链优雅",
-      "full_text": "海派旗袍修身开叉，勾勒东方女性曲线美，配珍珠项链优雅",
+      "title": "民国中山装",
+      "summary": "民国男子身着中山装，立翻领四口袋，前襟五粒纽扣，袖口三粒纽扣...",
+      "full_text": "民国男子身着中山装，立翻领四口袋，前襟五粒纽扣，袖口三粒纽扣，裤子为西式长裤。中山装融合了中西服饰元素，成为民国男子的标志性服装。",
       "image": "res://assets/images/illustrations/fashion/fashion_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "fashion_023",
-      "title": "中山装庄重",
-      "summary": "民国男子穿中山装，立翻领四口袋设计庄重，象征革命精神",
-      "full_text": "民国男子穿中山装，立翻领四口袋设计庄重，象征革命精神",
+      "title": "民国文明新装",
+      "summary": "民国女学生身着文明新装，上穿倒大袖短衫，下穿黑色百褶裙，白袜...",
+      "full_text": "民国女学生身着文明新装，上穿倒大袖短衫，下穿黑色百褶裙，白袜黑鞋，短发齐耳。文明新装是五四运动后女学生的标志性装扮，象征思想解放。",
       "image": "res://assets/images/illustrations/fashion/fashion_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "fashion_024",
-      "title": "绅士西装三件套",
-      "summary": "绅士穿西装三件套，马甲配怀表优雅得体，礼帽手杖一应俱全",
-      "full_text": "绅士穿西装三件套，马甲配怀表优雅得体，礼帽手杖一应俱全",
+      "title": "民国长衫文士",
+      "summary": "民国文人身着长衫，交领右衽，宽身直筒，长及脚踝，袖口宽大，多...",
+      "full_text": "民国文人身着长衫，交领右衽，宽身直筒，长及脚踝，袖口宽大，多为青色或灰色棉布。长衫是民国文人阶层的身份标志，与短衫劳动者形成区分。",
       "image": "res://assets/images/illustrations/fashion/fashion_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "fashion_025",
-      "title": "飞女郎短裙",
-      "summary": "1920年代飞女郎穿低腰短裙，头戴羽毛发带，手执长烟嘴",
-      "full_text": "1920年代飞女郎穿低腰短裙，头戴羽毛发带，手执长烟嘴",
+      "title": "列宁装与解放",
+      "summary": "1950年代女性身着列宁装，双排扣西式外套，系腰带，翻领，内...",
+      "full_text": "1950年代女性身着列宁装，双排扣西式外套，系腰带，翻领，内穿白衬衫，下穿长裤。列宁装是新中国成立初期女性干部的标准着装，体现男女平等。",
       "image": "res://assets/images/illustrations/fashion/fashion_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "fashion_026",
-      "title": "好莱坞缎面长裙",
-      "summary": "1930年代好莱坞女星穿缎面长裙，斜裁工艺贴身优雅迷人",
-      "full_text": "1930年代好莱坞女星穿缎面长裙，斜裁工艺贴身优雅迷人",
+      "title": "军绿色年代",
+      "summary": "1960年代青年身着军绿色便服，立领贴袋，铜扣系紧，腰束武装...",
+      "full_text": "1960年代青年身着军绿色便服，立领贴袋，铜扣系紧，腰束武装带，头戴军帽。军便服是那个特殊年代最流行的服装，绿色成为全民时尚。",
       "image": "res://assets/images/illustrations/fashion/fashion_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "fashion_027",
-      "title": "二战军装风格",
-      "summary": "二战时期女性穿军装风格外套，垫肩利落干练，实用主义当道",
-      "full_text": "二战时期女性穿军装风格外套，垫肩利落干练，实用主义当道",
+      "title": "的确良衬衫",
+      "summary": "1970年代青年身着的确良衬衫，面料挺括不皱，白底碎花图案，...",
+      "full_text": "1970年代青年身着的确良衬衫，面料挺括不皱，白底碎花图案，小尖领，短袖。的确良是当时最时髦的面料，一件衬衫是年轻人的珍贵行头。",
       "image": "res://assets/images/illustrations/fashion/fashion_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "fashion_028",
-      "title": "迪奥新风貌",
-      "summary": "1950年代迪奥新风貌，收腰蓬裙细高跟鞋，重塑战后优雅",
-      "full_text": "1950年代迪奥新风貌，收腰蓬裙细高跟鞋，重塑战后优雅",
+      "title": "蝙蝠衫风潮",
+      "summary": "1980年代女性身着蝙蝠衫，袖幅宽大如蝙蝠展翅，下摆收紧，搭...",
+      "full_text": "1980年代女性身着蝙蝠衫，袖幅宽大如蝙蝠展翅，下摆收紧，搭配健美裤，色彩鲜艳。蝙蝠衫是改革开放后最早的时尚潮流之一，充满活力。",
       "image": "res://assets/images/illustrations/fashion/fashion_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "fashion_029",
-      "title": "迷你裙风靡",
-      "summary": "1960年代迷你裙风靡全球，少女穿超短裙配长靴活力四射",
-      "full_text": "1960年代迷你裙风靡全球，少女穿超短裙配长靴活力四射",
+      "title": "喇叭裤时代",
+      "summary": "1980年代青年身着喇叭裤，裤腿从膝盖以下逐渐张开如喇叭口，...",
+      "full_text": "1980年代青年身着喇叭裤，裤腿从膝盖以下逐渐张开如喇叭口，裤脚宽达八寸，配尖头皮鞋。喇叭裤是改革开放后年轻人追捧的时尚标志。",
       "image": "res://assets/images/illustrations/fashion/fashion_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "fashion_030",
-      "title": "嬉皮扎染风",
-      "summary": "1970年代嬉皮士穿扎染T恤配喇叭裤，头戴花环追求和平",
-      "full_text": "1970年代嬉皮士穿扎染T恤配喇叭裤，头戴花环追求和平",
+      "title": "西装热席卷",
+      "summary": "1990年代男子身着宽肩西装，垫肩夸张，双排扣，配领带皮鞋，...",
+      "full_text": "1990年代男子身着宽肩西装，垫肩夸张，双排扣，配领带皮鞋，手提公文包。西装在九十年代成为商务标配，也是乡镇企业家的标志性装扮。",
       "image": "res://assets/images/illustrations/fashion/fashion_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "fashion_031",
-      "title": "朋克铆钉皮衣",
-      "summary": "朋克青年穿铆钉皮衣配格子裙，莫西干发型张扬叛逆",
-      "full_text": "朋克青年穿铆钉皮衣配格子裙，莫西干发型张扬叛逆",
+      "title": "健美裤流行",
+      "summary": "1990年代女性身着健美裤，紧身踏脚，弹力面料贴合腿部线条，...",
+      "full_text": "1990年代女性身着健美裤，紧身踏脚，弹力面料贴合腿部线条，搭配宽松上衣。健美裤是九十年代女性几乎人手一条的时尚单品。",
       "image": "res://assets/images/illustrations/fashion/fashion_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "fashion_032",
-      "title": "权力套装宽肩",
-      "summary": "1980年代职业女性穿宽肩权力套装，大金耳环气场强大",
-      "full_text": "1980年代职业女性穿宽肩权力套装，大金耳环气场强大",
+      "title": "民国绅士西装",
+      "summary": "民国绅士身着三件套西装，外穿西装外套内搭马甲衬衫，系领带，戴...",
+      "full_text": "民国绅士身着三件套西装，外穿西装外套内搭马甲衬衫，系领带，戴礼帽，手持文明棍。西装是民国上层社会男性的社交礼服，象征西化与摩登。",
       "image": "res://assets/images/illustrations/fashion/fashion_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "fashion_033",
-      "title": "极简主义黑白灰",
-      "summary": "1990年代极简主义风行，黑白灰简约搭配，剪裁利落质感至上",
-      "full_text": "1990年代极简主义风行，黑白灰简约搭配，剪裁利落质感至上",
+      "title": "月份牌美女",
+      "summary": "民国月份牌上的美女身着改良旗袍，烫卷发，涂红唇，手执团扇，姿...",
+      "full_text": "民国月份牌上的美女身着改良旗袍，烫卷发，涂红唇，手执团扇，姿态婀娜。月份牌美女是民国商业美术的经典形象，引领了当时的时尚风潮。",
       "image": "res://assets/images/illustrations/fashion/fashion_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "fashion_034",
-      "title": "牛仔裤文化",
-      "summary": "牛仔裤从工装到时尚标志，破洞做旧风格多变，百搭经典",
-      "full_text": "牛仔裤从工装到时尚标志，破洞做旧风格多变，百搭经典",
+      "title": "布拉吉连衣裙",
+      "summary": "1950年代女性身着布拉吉连衣裙，碎花布料，收腰A字裙摆，短...",
+      "full_text": "1950年代女性身着布拉吉连衣裙，碎花布料，收腰A字裙摆，短泡泡袖，系蝴蝶结腰带。布拉吉是从苏联传入的连衣裙款式，深受年轻女性喜爱。",
       "image": "res://assets/images/illustrations/fashion/fashion_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "fashion_035",
-      "title": "经典双排扣风衣",
-      "summary": "经典双排扣风衣，卡其色束腰带防风时尚，英伦风格永恒",
-      "full_text": "经典双排扣风衣，卡其色束腰带防风时尚，英伦风格永恒",
+      "title": "七十年代中山装",
+      "summary": "1970年代男子身着中山装，蓝灰色毛呢面料，四个口袋方正，铜...",
+      "full_text": "1970年代男子身着中山装，蓝灰色毛呢面料，四个口袋方正，铜扣闪亮，内穿白衬衫。中山装是七十年代男性最正式的着装，出席重要场合必备。",
       "image": "res://assets/images/illustrations/fashion/fashion_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "fashion_036",
-      "title": "运动休闲风",
-      "summary": "运动服融入日常穿搭，卫衣球鞋舒适随性，athleisure成...",
-      "full_text": "运动服融入日常穿搭，卫衣球鞋舒适随性，athleisure成潮流",
+      "title": "牛仔裤涌入",
+      "summary": "1980年代青年身着蓝色牛仔裤，靛蓝水洗面料，直筒版型，配白...",
+      "full_text": "1980年代青年身着蓝色牛仔裤，靛蓝水洗面料，直筒版型，配白T恤运动鞋。牛仔裤是改革开放后年轻人最渴望的时尚单品，代表自由与个性。",
       "image": "res://assets/images/illustrations/fashion/fashion_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "fashion_037",
-      "title": "学院风穿搭",
-      "summary": "学院风穿搭，针织衫搭衬衫配格纹裙，书卷气与优雅并存",
-      "full_text": "学院风穿搭，针织衫搭衬衫配格纹裙，书卷气与优雅并存",
+      "title": "吊带裙风尚",
+      "summary": "1990年代女性身着细吊带连衣裙，丝滑面料，简约剪裁，搭配高...",
+      "full_text": "1990年代女性身着细吊带连衣裙，丝滑面料，简约剪裁，搭配高跟凉鞋和迷你包。吊带裙是九十年代夏季最流行的时尚款式，展现女性自信。",
       "image": "res://assets/images/illustrations/fashion/fashion_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "fashion_038",
-      "title": "波西米亚长裙",
-      "summary": "波西米亚风格长裙配流苏披肩，编织配饰自由浪漫不羁",
-      "full_text": "波西米亚风格长裙配流苏披肩，编织配饰自由浪漫不羁",
+      "title": "民国棉袍过冬",
+      "summary": "民国老人身着棉袍，厚实棉絮内衬，蓝布面料，交领系扣，腰间系布...",
+      "full_text": "民国老人身着棉袍，厚实棉絮内衬，蓝布面料，交领系扣，腰间系布带，脚穿棉鞋。棉袍是民国普通百姓冬季最常见的保暖服装，朴实而温暖。",
       "image": "res://assets/images/illustrations/fashion/fashion_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "fashion_039",
-      "title": "洛丽塔蓬蓬裙",
-      "summary": "洛丽塔风格蓬蓬裙配蕾丝发饰，蝴蝶结点缀甜美精致",
-      "full_text": "洛丽塔风格蓬蓬裙配蕾丝发饰，蝴蝶结点缀甜美精致",
+      "title": "运动服全民热",
+      "summary": "1980年代青年身着运动套装，红白蓝三色搭配，侧边条纹长裤，...",
+      "full_text": "1980年代青年身着运动套装，红白蓝三色搭配，侧边条纹长裤，拉链外套，脚穿回力鞋。运动服是八十年代最流行的休闲装扮，全民运动风潮的产物。",
       "image": "res://assets/images/illustrations/fashion/fashion_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "fashion_040",
-      "title": "工装连体裤",
-      "summary": "工装连体裤从车间到秀场，多口袋设计实用与时尚兼具",
-      "full_text": "工装连体裤从车间到秀场，多口袋设计实用与时尚兼具",
+      "title": "民国童装新风",
+      "summary": "民国儿童身着背带裤配白衬衫，女孩穿碎花连衣裙配白袜黑皮鞋，头...",
+      "full_text": "民国儿童身着背带裤配白衬衫，女孩穿碎花连衣裙配白袜黑皮鞋，头戴蝴蝶结。民国童装受西方影响，告别了传统的小大人装束，更加活泼可爱。",
       "image": "res://assets/images/illustrations/fashion/fashion_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "fashion_041",
-      "title": "华丽晚礼服",
-      "summary": "华丽晚礼服拖地长裙，亮片刺绣璀璨夺目，红毯上光芒万丈",
-      "full_text": "华丽晚礼服拖地长裙，亮片刺绣璀璨夺目，红毯上光芒万丈",
+      "title": "皮衣摇滚风",
+      "summary": "1990年代青年身着黑色皮夹克，机车款式，斜拉链，配牛仔裤马...",
+      "full_text": "1990年代青年身着黑色皮夹克，机车款式，斜拉链，配牛仔裤马丁靴。皮衣是九十年代酷帅风格的代表，受到摇滚文化的影响。",
       "image": "res://assets/images/illustrations/fashion/fashion_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "fashion_042",
-      "title": "白色婚纱演变",
-      "summary": "白色婚纱从维多利亚至今，蕾丝头纱梦幻浪漫，圣洁优雅",
-      "full_text": "白色婚纱从维多利亚至今，蕾丝头纱梦幻浪漫，圣洁优雅",
+      "title": "民国泳装解放",
+      "summary": "1930年代女性身着连体泳装，深色面料，领口略高，腿部裸露至...",
+      "full_text": "1930年代女性身着连体泳装，深色面料，领口略高，腿部裸露至大腿中部，戴泳帽。民国泳装是女性身体解放的标志，从全身遮蔽到适度裸露。",
       "image": "res://assets/images/illustrations/fashion/fashion_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "fashion_043",
-      "title": "新中式唐装",
-      "summary": "从中山装到新中式唐装，立领盘扣融入现代剪裁，男装国潮复兴",
-      "full_text": "从中山装到新中式唐装，立领盘扣融入现代剪裁，男装国潮复兴",
+      "title": "垫肩权力套装",
+      "summary": "1980年代职业女性身着宽垫肩套装，肩线夸张延伸，收腰剪裁，...",
+      "full_text": "1980年代职业女性身着宽垫肩套装，肩线夸张延伸，收腰剪裁，搭配大耳环。垫肩套装体现了职业女性的力量感，是权力着装的典型代表。",
       "image": "res://assets/images/illustrations/fashion/fashion_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "fashion_044",
-      "title": "街头潮流风",
-      "summary": "街头潮人穿oversize卫衣配工装裤，限量球鞋点睛吸睛",
-      "full_text": "街头潮人穿oversize卫衣配工装裤，限量球鞋点睛吸睛",
+      "title": "近现代婚纱",
+      "summary": "1940年代新娘身着白色婚纱，长袖蕾丝上衣，蓬松A字裙摆，头...",
+      "full_text": "1940年代新娘身着白色婚纱，长袖蕾丝上衣，蓬松A字裙摆，头戴长纱配手捧花。西式婚纱在民国后期开始流行，逐渐取代传统红色嫁衣。",
       "image": "res://assets/images/illustrations/fashion/fashion_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "fashion_045",
-      "title": "极简穿搭质感",
-      "summary": "极简风格纯色搭配，剪裁利落质感至上，less is more...",
-      "full_text": "极简风格纯色搭配，剪裁利落质感至上，less is more哲学",
+      "title": "极简主义穿搭",
+      "summary": "当代女性身着极简风格穿搭，纯色高领毛衣配直筒阔腿裤，裸色高跟...",
+      "full_text": "当代女性身着极简风格穿搭，纯色高领毛衣配直筒阔腿裤，裸色高跟鞋，无多余装饰。极简主义强调少即是多，以简洁线条和优质面料彰显品位。",
       "image": "res://assets/images/illustrations/fashion/fashion_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "fashion_046",
-      "title": "国潮品牌兴起",
-      "summary": "国潮品牌融入传统元素，龙纹刺绣配现代剪裁，文化自信",
-      "full_text": "国潮品牌融入传统元素，龙纹刺绣配现代剪裁，文化自信",
+      "title": "街头潮牌风格",
+      "summary": "当代青年身着潮牌卫衣，oversize版型，胸前大logo印...",
+      "full_text": "当代青年身着潮牌卫衣，oversize版型，胸前大logo印花，配工装裤和限量球鞋。街头潮牌文化从嘻哈音乐中发展而来，成为年轻人的身份表达。",
       "image": "res://assets/images/illustrations/fashion/fashion_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "fashion_047",
-      "title": "运动时尚风",
-      "summary": "运动休闲风盛行，瑜伽裤配运动内衣成日常，舒适至上",
-      "full_text": "运动休闲风盛行，瑜伽裤配运动内衣成日常，舒适至上",
+      "title": "国潮新中式",
+      "summary": "当代青年身着新中式外套，立领盘扣设计，面料融入水墨印花，配西...",
+      "full_text": "当代青年身着新中式外套，立领盘扣设计，面料融入水墨印花，配西式剪裁长裤。国潮将传统元素与现代设计融合，是文化自信的时尚表达。",
       "image": "res://assets/images/illustrations/fashion/fashion_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "fashion_048",
-      "title": "可持续时尚",
-      "summary": "环保面料制成的时装，回收塑料瓶变运动鞋，绿色时尚兴起",
-      "full_text": "环保面料制成的时装，回收塑料瓶变运动鞋，绿色时尚兴起",
+      "title": "运动休闲风",
+      "summary": "当代都市人身着运动休闲装，弹力瑜伽裤配运动背心，外搭拉链外套...",
+      "full_text": "当代都市人身着运动休闲装，弹力瑜伽裤配运动背心，外搭拉链外套，脚穿跑步鞋。运动休闲风模糊了运动与日常的界限，成为最普及的穿搭风格。",
       "image": "res://assets/images/illustrations/fashion/fashion_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "fashion_049",
-      "title": "汉服复兴运动",
-      "summary": "年轻人穿汉服逛街游览，传统文化融入现代生活，自信展示",
-      "full_text": "年轻人穿汉服逛街游览，传统文化融入现代生活，自信展示",
+      "title": "可持续时尚",
+      "summary": "当代环保时尚展示有机棉T恤，天然植物染色，面料可降解，标签注...",
+      "full_text": "当代环保时尚展示有机棉T恤，天然植物染色，面料可降解，标签注明碳足迹。可持续时尚关注服装全生命周期的环境影响，引领绿色消费理念。",
       "image": "res://assets/images/illustrations/fashion/fashion_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "fashion_050",
-      "title": "无性别穿搭",
-      "summary": "打破性别界限的穿搭，男女共享衣橱，中性风潮席卷时尚圈",
-      "full_text": "打破性别界限的穿搭，男女共享衣橱，中性风潮席卷时尚圈",
+      "title": "高定礼服工艺",
+      "summary": "高定礼服展示厅中，手工缝制的晚礼服以真丝欧根纱为面料，裙身缀...",
+      "full_text": "高定礼服展示厅中，手工缝制的晚礼服以真丝欧根纱为面料，裙身缀满手工钉珠，拖尾长两米。高级定制是时尚工业的最高工艺水准，每件独一无二。",
       "image": "res://assets/images/illustrations/fashion/fashion_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "fashion_051",
-      "title": "Y2K复古回潮",
-      "summary": "Y2K风格回归，低腰裤配亮色配饰，千禧年美学重现街头",
-      "full_text": "Y2K风格回归，低腰裤配亮色配饰，千禧年美学重现街头",
+      "title": "职场通勤套装",
+      "summary": "当代白领女性身着通勤套装，修身西装外套配铅笔裙，内搭真丝衬衫...",
+      "full_text": "当代白领女性身着通勤套装，修身西装外套配铅笔裙，内搭真丝衬衫，脚穿尖头高跟鞋。职场通勤装在专业形象与女性气质之间寻求平衡。",
       "image": "res://assets/images/illustrations/fashion/fashion_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "fashion_052",
-      "title": "高街联名款",
-      "summary": "奢侈品牌与街头联名，限量款引发抢购，跨界合作成趋势",
-      "full_text": "奢侈品牌与街头联名，限量款引发抢购，跨界合作成趋势",
+      "title": "日系森女风",
+      "summary": "当代女性身着森女风格穿搭，棉麻连衣裙层叠搭配，大地色系，配编...",
+      "full_text": "当代女性身着森女风格穿搭，棉麻连衣裙层叠搭配，大地色系，配编织草帽和帆布包。森女风格追求自然舒适，拒绝过度消费，体现慢生活理念。",
       "image": "res://assets/images/illustrations/fashion/fashion_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "fashion_053",
-      "title": "户外机能风",
-      "summary": "户外机能风冲锋衣，防水透气多口袋设计，都市与自然兼顾",
-      "full_text": "户外机能风冲锋衣，防水透气多口袋设计，都市与自然兼顾",
+      "title": "电竞潮流穿搭",
+      "summary": "电竞选手身着联名款战队外套，科技面料速干透气，袖臂绣战队标志...",
+      "full_text": "电竞选手身着联名款战队外套，科技面料速干透气，袖臂绣战队标志，内穿功能T恤。电竞时尚融合科技功能与潮流美学，是数字时代的新兴穿搭。",
       "image": "res://assets/images/illustrations/fashion/fashion_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "fashion_054",
-      "title": "定制西装手工",
-      "summary": "量体裁衣定制西装，手工缝制细节考究，绅士品味之选",
-      "full_text": "量体裁衣定制西装，手工缝制细节考究，绅士品味之选",
+      "title": "复古风回潮",
+      "summary": "当代青年身着复古风格穿搭，高腰牛仔裤配扎染T恤，戴圆框墨镜和...",
+      "full_text": "当代青年身着复古风格穿搭，高腰牛仔裤配扎染T恤，戴圆框墨镜和头带，脚穿帆布鞋。复古风潮周期性回归，旧元素在新语境中焕发新生。",
       "image": "res://assets/images/illustrations/fashion/fashion_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "fashion_055",
-      "title": "亲子装温馨",
-      "summary": "亲子穿搭同款不同色，温馨有爱，家庭出行时尚新方式",
-      "full_text": "亲子穿搭同款不同色，温馨有爱，家庭出行时尚新方式",
+      "title": "户外机能风",
+      "summary": "当代户外爱好者身着机能风外套，防水透气面料，多口袋设计，可拆...",
+      "full_text": "当代户外爱好者身着机能风外套，防水透气面料，多口袋设计，可拆卸袖管，配登山靴。机能风将户外装备的功能性融入日常穿搭，实用与时尚兼备。",
       "image": "res://assets/images/illustrations/fashion/fashion_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "fashion_056",
-      "title": "职场新风尚",
-      "summary": "职场穿搭告别刻板，休闲西装配小白鞋，商务休闲两不误",
-      "full_text": "职场穿搭告别刻板，休闲西装配小白鞋，商务休闲两不误",
+      "title": "汉服复兴运动",
+      "summary": "当代青年身着复原款汉服，交领右衽襦裙，手工刺绣花纹，配步摇发...",
+      "full_text": "当代青年身着复原款汉服，交领右衽襦裙，手工刺绣花纹，配步摇发簪和绣花鞋。汉服复兴运动让传统服饰重回日常，是文化认同的时尚实践。",
       "image": "res://assets/images/illustrations/fashion/fashion_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "fashion_057",
-      "title": "民族风混搭",
-      "summary": "民族刺绣配现代单品，传统纹样碰撞当代设计，独特风格",
-      "full_text": "民族刺绣配现代单品，传统纹样碰撞当代设计，独特风格",
+      "title": "无性别穿搭",
+      "summary": "当代青年身着无性别风格穿搭，宽松廓形西装外套，男女同款，配直...",
+      "full_text": "当代青年身着无性别风格穿搭，宽松廓形西装外套，男女同款，配直筒西裤和乐福鞋。无性别穿搭打破传统性别着装规范，追求个性自由表达。",
       "image": "res://assets/images/illustrations/fashion/fashion_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "fashion_058",
-      "title": "大码时尚自信",
-      "summary": "大码模特自信走秀，时尚不分身材，多元审美正在崛起",
-      "full_text": "大码模特自信走秀，时尚不分身材，多元审美正在崛起",
+      "title": "科技面料服装",
+      "summary": "当代运动服装采用智能温控面料，内层导湿排汗，中层保温隔热，外...",
+      "full_text": "当代运动服装采用智能温控面料，内层导湿排汗，中层保温隔热，外层防风防水。科技面料让服装具备环境自适应能力，重新定义穿着体验。",
       "image": "res://assets/images/illustrations/fashion/fashion_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "fashion_059",
-      "title": "智能温控面料",
-      "summary": "智能温控面料服装，运动时自动调节温度，科技赋能穿搭",
-      "full_text": "智能温控面料服装，运动时自动调节温度，科技赋能穿搭",
+      "title": "手工定制皮鞋",
+      "summary": "手工皮鞋工坊中，匠人正在为顾客量脚定制，选用意大利小牛皮，固...",
+      "full_text": "手工皮鞋工坊中，匠人正在为顾客量脚定制，选用意大利小牛皮，固特异缝线工艺。手工定制皮鞋是慢时尚的代表，每双鞋需经两百道工序。",
       "image": "res://assets/images/illustrations/fashion/fashion_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "fashion_060",
-      "title": "配饰点睛之笔",
-      "summary": "手表墨镜包包配饰，为穿搭画龙点睛，细节彰显品味",
-      "full_text": "手表墨镜包包配饰，为穿搭画龙点睛，细节彰显品味",
+      "title": "快时尚卖场",
+      "summary": "快时尚品牌卖场内，服装按色系排列整齐，每周上新两次，价格亲民...",
+      "full_text": "快时尚品牌卖场内，服装按色系排列整齐，每周上新两次，价格亲民标签醒目。快时尚以快速响应潮流和平价策略改变了全球服装消费模式。",
       "image": "res://assets/images/illustrations/fashion/fashion_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "fashion_061",
-      "title": "球鞋文化收藏",
-      "summary": "限量球鞋收藏展示，球鞋成为文化符号，sneakerhead社...",
-      "full_text": "限量球鞋收藏展示，球鞋成为文化符号，sneakerhead社群壮大",
+      "title": "球鞋文化崛起",
+      "summary": "限量球鞋展示柜中，联名款运动鞋以独特配色和材质组合呈现，鞋盒...",
+      "full_text": "限量球鞋展示柜中，联名款运动鞋以独特配色和材质组合呈现，鞋盒签名编号。球鞋文化从亚文化走向主流，限量款成为收藏投资品。",
       "image": "res://assets/images/illustrations/fashion/fashion_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "fashion_062",
-      "title": "时尚博主街拍",
-      "summary": "时尚博主街拍穿搭，社交媒体引领潮流，个人风格变现",
-      "full_text": "时尚博主街拍穿搭，社交媒体引领潮流，个人风格变现",
+      "title": "时尚博主穿搭",
+      "summary": "时尚博主在街拍中身着混搭风格，复古西装外套配运动裤，手拎设计...",
+      "full_text": "时尚博主在街拍中身着混搭风格，复古西装外套配运动裤，手拎设计师手袋，戴夸张耳环。时尚博主通过社交媒体引领穿搭趋势，影响力超越传统媒体。",
       "image": "res://assets/images/illustrations/fashion/fashion_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "fashion_063",
-      "title": "虚拟数字时装",
-      "summary": "数字虚拟服装设计，元宇宙中的时尚秀场，无限可能",
-      "full_text": "数字虚拟服装设计，元宇宙中的时尚秀场，无限可能",
+      "title": "3D打印服装",
+      "summary": "科技时装秀上，模特身着3D打印连衣裙，尼龙粉末逐层烧结成型，...",
+      "full_text": "科技时装秀上，模特身着3D打印连衣裙，尼龙粉末逐层烧结成型，几何镂空结构如珊瑚。3D打印技术正在颠覆传统服装制造，开启可定制化时尚。",
       "image": "res://assets/images/illustrations/fashion/fashion_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "fashion_064",
-      "title": "汉服复兴运动",
-      "summary": "当代汉服复兴运动兴起，年轻人穿汉服出行，传统文化回归",
-      "full_text": "当代汉服复兴运动兴起，年轻人穿汉服出行，传统文化回归",
+      "title": "虚拟时尚秀场",
+      "summary": "元宇宙时装周中，数字模特身着虚拟服装走秀，面料呈现液态金属光...",
+      "full_text": "元宇宙时装周中，数字模特身着虚拟服装走秀，面料呈现液态金属光泽，不受物理限制。虚拟时尚是数字时代的新兴领域，服装不再需要实体存在。",
       "image": "res://assets/images/illustrations/fashion/fashion_064.jpg",
       "image_grid": {
         "x": 3,

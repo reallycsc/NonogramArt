@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "world_history_000",
-      "title": "世界通史 - 图片1",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "非洲人类起源",
+      "summary": "在东非大裂谷的广袤草原上，早期人类从树冠走向大地，开始了直立...",
+      "full_text": "在东非大裂谷的广袤草原上，早期人类从树冠走向大地，开始了直立行走的伟大历程。距今约三百万年前，南方古猿在这片土地上迈出了人类进化的第一步，从工具的使用到火的掌控，人类文明的火种从此点燃。",
       "image": "res://assets/images/illustrations/world_history/world_history_000.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_000_pixel.jpg",
       "image_grid": {
@@ -24,9 +24,9 @@
     },
     {
       "id": "world_history_001",
-      "title": "世界通史 - 图片2",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "露西化石现世",
+      "summary": "1974年，考古学家在埃塞俄比亚阿法尔地区发掘出一具距今三百...",
+      "full_text": "1974年，考古学家在埃塞俄比亚阿法尔地区发掘出一具距今三百二十万年的南方古猿化石，命名为露西。她身高仅一米出头，却已具备直立行走能力，成为人类演化史上最著名的化石标本，揭示了从猿到人的关键过渡。",
       "image": "res://assets/images/illustrations/world_history/world_history_001.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_001_pixel.jpg",
       "image_grid": {
@@ -45,9 +45,9 @@
     },
     {
       "id": "world_history_002",
-      "title": "世界通史 - 图片3",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "旧石器时代狩猎",
+      "summary": "在冰河时期的欧洲荒原上，尼安德特人与智人手持燧石矛尖，协同围...",
+      "full_text": "在冰河时期的欧洲荒原上，尼安德特人与智人手持燧石矛尖，协同围猎猛犸象和野牛。他们利用地形设伏，将猎物驱赶至悬崖或沼泽，展现了早期人类高度的社会协作与策略智慧，狩猎所得养活了整个部落。",
       "image": "res://assets/images/illustrations/world_history/world_history_002.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_002_pixel.jpg",
       "image_grid": {
@@ -66,9 +66,9 @@
     },
     {
       "id": "world_history_003",
-      "title": "世界通史 - 图片4",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "火的使用与掌控",
+      "summary": "距今约五十万年前，北京周口店的猿人洞穴中燃起了第一缕篝火。火...",
+      "full_text": "距今约五十万年前，北京周口店的猿人洞穴中燃起了第一缕篝火。火的掌控让人类告别了茹毛饮血的时代，熟食促进了大脑发育，篝火驱散了黑夜的恐惧，也成为了部落成员围坐交流、传递知识的中心，点亮了文明的曙光。",
       "image": "res://assets/images/illustrations/world_history/world_history_003.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_003_pixel.jpg",
       "image_grid": {
@@ -87,9 +87,9 @@
     },
     {
       "id": "world_history_004",
-      "title": "世界通史 - 图片5",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "拉斯科洞穴壁画",
+      "summary": "约一万七千年前，在法国拉斯科洞穴深处，远古画师用矿物颜料在岩...",
+      "full_text": "约一万七千年前，在法国拉斯科洞穴深处，远古画师用矿物颜料在岩壁上描绘出奔放的野牛、骏马和鹿群。这些线条流畅、色彩鲜明的壁画不仅是艺术的开端，更记录了史前人类对自然力量的敬畏与狩猎生活的深刻体验。",
       "image": "res://assets/images/illustrations/world_history/world_history_004.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_004_pixel.jpg",
       "image_grid": {
@@ -108,9 +108,9 @@
     },
     {
       "id": "world_history_005",
-      "title": "世界通史 - 图片6",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "冰河时代降临",
+      "summary": "距今约两万年前，末次冰盛期笼罩北半球，厚达数千米的冰川从极地...",
+      "full_text": "距今约两万年前，末次冰盛期笼罩北半球，厚达数千米的冰川从极地向南推进，海平面骤降逾百米。人类穿着兽皮缝制的衣物，在白令陆桥上追逐猎物，从亚洲踏入美洲大陆，完成了人类历史上最壮阔的洲际迁徙。",
       "image": "res://assets/images/illustrations/world_history/world_history_005.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_005_pixel.jpg",
       "image_grid": {
@@ -129,9 +129,9 @@
     },
     {
       "id": "world_history_006",
-      "title": "世界通史 - 图片7",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "新石器革命兴起",
+      "summary": "约一万年前，在美索不达米亚的丘陵地带，人类首次将野生小麦的种...",
+      "full_text": "约一万年前，在美索不达米亚的丘陵地带，人类首次将野生小麦的种子播撒在耕过的土壤中。农业的出现彻底改变了人类的命运，从逐水草而居到定居村落，从采集狩猎到春种秋收，人类与土地建立了永恒的纽带。",
       "image": "res://assets/images/illustrations/world_history/world_history_006.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_006_pixel.jpg",
       "image_grid": {
@@ -150,9 +150,9 @@
     },
     {
       "id": "world_history_007",
-      "title": "世界通史 - 图片8",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "加泰土丘聚落",
+      "summary": "公元前七千年，安纳托利亚高原上的加泰土丘已发展为近万人的大型...",
+      "full_text": "公元前七千年，安纳托利亚高原上的加泰土丘已发展为近万人的大型聚落。房屋以泥砖紧密相连，屋顶为街道，墙壁上绘满火山与狩猎图案。居民种植小麦、驯养牛羊，创造了新石器时代最繁华的定居文明之一。",
       "image": "res://assets/images/illustrations/world_history/world_history_007.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_007_pixel.jpg",
       "image_grid": {
@@ -171,9 +171,9 @@
     },
     {
       "id": "world_history_008",
-      "title": "世界通史 - 图片9",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "巨石阵的建造",
+      "summary": "公元前约三千年，在不列颠索尔兹伯里平原上，新石器先民将重达数...",
+      "full_text": "公元前约三千年，在不列颠索尔兹伯里平原上，新石器先民将重达数十吨的巨石从威尔士运来，精确排列成与夏至日出对齐的环形阵列。这座宏伟的天文祭祀建筑，见证了史前人类对天文历法的深刻理解与惊人的工程能力。",
       "image": "res://assets/images/illustrations/world_history/world_history_008.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_008_pixel.jpg",
       "image_grid": {
@@ -192,9 +192,9 @@
     },
     {
       "id": "world_history_009",
-      "title": "世界通史 - 图片10",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "仰韶文化彩陶",
+      "summary": "公元前五千年，黄河中游的仰韶先民在细腻的陶坯上用矿物颜料绘制...",
+      "full_text": "公元前五千年，黄河中游的仰韶先民在细腻的陶坯上用矿物颜料绘制鱼纹、蛙纹和人面纹。半坡遗址出土的彩陶盆上，人面鱼纹神秘而生动，反映了母系氏族社会对水与生命的崇拜，也标志着中国制陶工艺的辉煌起点。",
       "image": "res://assets/images/illustrations/world_history/world_history_009.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_009_pixel.jpg",
       "image_grid": {
@@ -213,9 +213,9 @@
     },
     {
       "id": "world_history_010",
-      "title": "世界通史 - 图片11",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "苏美尔城邦崛起",
+      "summary": "公元前四千年，在底格里斯河与幼发拉底河之间的冲积平原上，乌鲁...",
+      "full_text": "公元前四千年，在底格里斯河与幼发拉底河之间的冲积平原上，乌鲁克、乌尔等苏美尔城邦拔地而起。高耸的塔庙矗立城中，祭司阶层管理着灌溉系统与粮食分配，人类历史上最早的城市文明在两河流域诞生。",
       "image": "res://assets/images/illustrations/world_history/world_history_010.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_010_pixel.jpg",
       "image_grid": {
@@ -234,9 +234,9 @@
     },
     {
       "id": "world_history_011",
-      "title": "世界通史 - 图片12",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "楔形文字诞生",
+      "summary": "公元前三千四百年，苏美尔书吏用削尖的芦苇杆在湿泥板上压印出楔...",
+      "full_text": "公元前三千四百年，苏美尔书吏用削尖的芦苇杆在湿泥板上压印出楔形符号，从记录粮食收成的简单图画演化为系统的表意文字。楔形文字成为两河流域通用的书写体系，泥板文书保存了法律、文学与商业记录，开启了文字纪元。",
       "image": "res://assets/images/illustrations/world_history/world_history_011.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_011_pixel.jpg",
       "image_grid": {
@@ -255,9 +255,9 @@
     },
     {
       "id": "world_history_012",
-      "title": "世界通史 - 图片13",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "吉尔伽美什史诗",
+      "summary": "公元前二千余年，苏美尔人口耳相传的英雄传说被刻录在十二块泥板...",
+      "full_text": "公元前二千余年，苏美尔人口耳相传的英雄传说被刻录在十二块泥板上。乌鲁克国王吉尔伽美什与挚友恩奇都征伐洪巴巴，追寻永生之草却终归失败，这是人类最古老的文学杰作，诉说着对死亡与不朽的永恒追问。",
       "image": "res://assets/images/illustrations/world_history/world_history_012.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_012_pixel.jpg",
       "image_grid": {
@@ -276,9 +276,9 @@
     },
     {
       "id": "world_history_013",
-      "title": "世界通史 - 图片14",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "古埃及早期王朝",
+      "summary": "公元前三千一百年，上埃及国王纳尔迈挥师北伐，统一上下埃及，戴...",
+      "full_text": "公元前三千一百年，上埃及国王纳尔迈挥师北伐，统一上下埃及，戴上了红白双冠。他在纳尔迈调色板上记录了这一伟业，尼罗河两岸从此归于一个法老的统治，法老被奉为太阳神在人间的化身，开启了长达三千年的王朝时代。",
       "image": "res://assets/images/illustrations/world_history/world_history_013.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_013_pixel.jpg",
       "image_grid": {
@@ -297,9 +297,9 @@
     },
     {
       "id": "world_history_014",
-      "title": "世界通史 - 图片15",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "象形文字创制",
+      "summary": "公元前约三千年，古埃及祭司创造了以图形表意的象形文字系统，从...",
+      "full_text": "公元前约三千年，古埃及祭司创造了以图形表意的象形文字系统，从法老的功绩铭文到纸莎草上的宗教经文，这套书写体系贯穿了埃及文明的始终。罗塞塔石碑的发现最终让商博良破译了这一失落千年的古老文字。",
       "image": "res://assets/images/illustrations/world_history/world_history_014.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_014_pixel.jpg",
       "image_grid": {
@@ -318,9 +318,9 @@
     },
     {
       "id": "world_history_015",
-      "title": "世界通史 - 图片16",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "哈拉帕文明繁盛",
+      "summary": "公元前二千六百年，印度河流域的哈拉帕与摩亨佐达罗已拥有规划严...",
+      "full_text": "公元前二千六百年，印度河流域的哈拉帕与摩亨佐达罗已拥有规划严整的城市布局，砖砌街道呈网格状分布，每户配有排水系统。统一的度量衡与印章文字表明这里存在高度组织化的社会，是古代世界最先进的城市文明之一。",
       "image": "res://assets/images/illustrations/world_history/world_history_015.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_015_pixel.jpg",
       "image_grid": {
@@ -339,9 +339,9 @@
     },
     {
       "id": "world_history_016",
-      "title": "世界通史 - 图片17",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "良渚古城营建",
+      "summary": "公元前约三千年，太湖之滨的良渚先民筑起了中国最早的大型水利工...",
+      "full_text": "公元前约三千年，太湖之滨的良渚先民筑起了中国最早的大型水利工程与城墙，莫角山高台上矗立着宫殿建筑。精美绝伦的玉琮与玉璧彰显着神权与王权的合一，良渚古城实证了中华五千年文明史，是东亚早期国家的杰出代表。",
       "image": "res://assets/images/illustrations/world_history/world_history_016.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_016_pixel.jpg",
       "image_grid": {
@@ -360,9 +360,9 @@
     },
     {
       "id": "world_history_017",
-      "title": "世界通史 - 图片18",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "奥尔梅克巨石头像",
+      "summary": "公元前一千二百年，墨西哥湾沿岸的热带雨林中，奥尔梅克人从数十...",
+      "full_text": "公元前一千二百年，墨西哥湾沿岸的热带雨林中，奥尔梅克人从数十公里外运来玄武岩，雕刻出高达三米的巨石头像。这些头像面容敦厚、戴着头盔，被认为是统治者的肖像，奥尔梅克文明由此成为中美洲一切文明的母体。",
       "image": "res://assets/images/illustrations/world_history/world_history_017.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_017_pixel.jpg",
       "image_grid": {
@@ -381,9 +381,9 @@
     },
     {
       "id": "world_history_018",
-      "title": "世界通史 - 图片19",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "卡劳尔文明兴起",
+      "summary": "公元前约二千六百年，秘鲁海岸的卡劳尔山谷中矗立着美洲最古老的...",
+      "full_text": "公元前约二千六百年，秘鲁海岸的卡劳尔山谷中矗立着美洲最古老的城市遗址。巨大的阶梯式金字塔俯瞰着苏佩河谷，居民种植棉花与瓜类，用棉线编织渔网与远洋贸易。卡劳尔的发现将美洲城市文明起源推前了近两千年。",
       "image": "res://assets/images/illustrations/world_history/world_history_018.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_018_pixel.jpg",
       "image_grid": {
@@ -402,9 +402,9 @@
     },
     {
       "id": "world_history_019",
-      "title": "世界通史 - 图片20",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "澳洲原住民岩画",
+      "summary": "超过四万年前，澳洲原住民的祖先乘独木舟跨越海峡抵达这片大陆，...",
+      "full_text": "超过四万年前，澳洲原住民的祖先乘独木舟跨越海峡抵达这片大陆，在阿纳姆地的岩壁上留下赭红色的精灵图案与梦幻时代传说。这些岩画代代重绘，记录了创世神话与部族律法，构成了世界上最悠久的连续绘画传统。",
       "image": "res://assets/images/illustrations/world_history/world_history_019.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_019_pixel.jpg",
       "image_grid": {
@@ -423,9 +423,9 @@
     },
     {
       "id": "world_history_020",
-      "title": "世界通史 - 图片21",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "胡夫金字塔矗立",
+      "summary": "公元前二千五百六十年，法老胡夫征调十万劳工，历时二十年，以二...",
+      "full_text": "公元前二千五百六十年，法老胡夫征调十万劳工，历时二十年，以二百三十万块巨石筑成高达一百四十六米的大金字塔。每块石头重达两吨半，堆叠之精确令现代工程师叹服，它是古代世界七大奇迹中唯一留存至今的伟大建筑。",
       "image": "res://assets/images/illustrations/world_history/world_history_020.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_020_pixel.jpg",
       "image_grid": {
@@ -444,9 +444,9 @@
     },
     {
       "id": "world_history_021",
-      "title": "世界通史 - 图片22",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "狮身人面像守护",
+      "summary": "公元前二千五百年，在吉萨高原大金字塔旁，工匠以天然石灰岩雕成...",
+      "full_text": "公元前二千五百年，在吉萨高原大金字塔旁，工匠以天然石灰岩雕成身长七十三米的人面狮身像。其面容据信为法老哈夫拉，头戴奈姆斯头巾，目光凝视东方日出，守护法老陵墓逾四千年，风沙剥蚀却威仪不减。",
       "image": "res://assets/images/illustrations/world_history/world_history_021.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_021_pixel.jpg",
       "image_grid": {
@@ -465,9 +465,9 @@
     },
     {
       "id": "world_history_022",
-      "title": "世界通史 - 图片23",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "图坦卡蒙黄金面具",
+      "summary": "公元前一三二三年，少年法老图坦卡蒙英年早逝，被安葬于帝王谷狭...",
+      "full_text": "公元前一三二三年，少年法老图坦卡蒙英年早逝，被安葬于帝王谷狭小的墓室中。1922年霍华德·卡特打开墓门，纯金棺椁上那副精美的黄金面具震惊世界，黑曜石为眼、青金石镶眉，再现了这位年轻法老的面容与古埃及的辉煌工艺。",
       "image": "res://assets/images/illustrations/world_history/world_history_022.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_022_pixel.jpg",
       "image_grid": {
@@ -486,9 +486,9 @@
     },
     {
       "id": "world_history_023",
-      "title": "世界通史 - 图片24",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "巴比伦空中花园",
+      "summary": "公元前六百年，新巴比伦国王尼布甲尼撒二世为思念家乡米底的王后...",
+      "full_text": "公元前六百年，新巴比伦国王尼布甲尼撒二世为思念家乡米底的王后阿米蒂斯，在干燥的美索不达米亚平原上筑起层叠的阶梯花园。引幼发拉底河水灌溉，奇花异木葱茏如山间绿洲，空中花园成为古代世界最浪漫的奇迹传说。",
       "image": "res://assets/images/illustrations/world_history/world_history_023.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_023_pixel.jpg",
       "image_grid": {
@@ -507,9 +507,9 @@
     },
     {
       "id": "world_history_024",
-      "title": "世界通史 - 图片25",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "汉谟拉比法典",
+      "summary": "公元前一七五四年，巴比伦国王汉谟拉比将二百八十二条法律刻于黑...",
+      "full_text": "公元前一七五四年，巴比伦国王汉谟拉比将二百八十二条法律刻于黑色玄武岩石柱之上，石柱顶端浮雕显示他从太阳神沙马什手中接过权杖。以眼还眼、以牙还牙的律法体系，是人类现存最完整的早期成文法典，奠定了法治文明的基石。",
       "image": "res://assets/images/illustrations/world_history/world_history_024.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_024_pixel.jpg",
       "image_grid": {
@@ -528,9 +528,9 @@
     },
     {
       "id": "world_history_025",
-      "title": "世界通史 - 图片26",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "腓尼基人远航",
+      "summary": "公元前一千年，黎凡特海岸的腓尼基水手驾驶双层桨船驶出地中海，...",
+      "full_text": "公元前一千年，黎凡特海岸的腓尼基水手驾驶双层桨船驶出地中海，穿越直布罗陀海峡沿非洲西海岸南下。他们建立了迦太基等殖民城邦，将二十二个字母的拼音文字传播至希腊，腓尼基字母成为今日几乎所有字母文字的共同祖先。",
       "image": "res://assets/images/illustrations/world_history/world_history_025.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_025_pixel.jpg",
       "image_grid": {
@@ -549,9 +549,9 @@
     },
     {
       "id": "world_history_026",
-      "title": "世界通史 - 图片27",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "亚述帝国征服",
+      "summary": "公元前七世纪，亚述王亚述巴尼拔率铁甲战车横扫美索不达米亚，攻...",
+      "full_text": "公元前七世纪，亚述王亚述巴尼拔率铁甲战车横扫美索不达米亚，攻陷底比斯，疆域从埃及延伸至波斯湾。尼尼微宫殿中的猎狮浮雕栩栩如生，王室图书馆收藏两万余块泥板，亚述以铁血武功与文化建设书写了帝国的双重面相。",
       "image": "res://assets/images/illustrations/world_history/world_history_026.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_026_pixel.jpg",
       "image_grid": {
@@ -570,9 +570,9 @@
     },
     {
       "id": "world_history_027",
-      "title": "世界通史 - 图片28",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "波斯帝国建立",
+      "summary": "公元前五五〇年，居鲁士大帝率波斯骑兵击败米底，建立了横跨三大...",
+      "full_text": "公元前五五〇年，居鲁士大帝率波斯骑兵击败米底，建立了横跨三大洲的阿契美尼德帝国。他攻陷巴比伦后释放被囚的犹太人返乡，被称为弥赛亚；大流士一世修建御道、设立行省，波斯帝国以宽容的治理模式开创了古代世界的新格局。",
       "image": "res://assets/images/illustrations/world_history/world_history_027.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_027_pixel.jpg",
       "image_grid": {
@@ -591,9 +591,9 @@
     },
     {
       "id": "world_history_028",
-      "title": "世界通史 - 图片29",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "古印度吠陀时代",
+      "summary": "公元前一千五百年，雅利安部族翻越兴都库什山脉进入印度次大陆，...",
+      "full_text": "公元前一千五百年，雅利安部族翻越兴都库什山脉进入印度次大陆，带来了吠陀经典与梵语。祭司在火坛前吟诵《梨俱吠陀》颂歌，种姓制度从职业分工逐渐固化为社会等级，吠陀文明奠定了印度教与印度社会结构的千年根基。",
       "image": "res://assets/images/illustrations/world_history/world_history_028.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_028_pixel.jpg",
       "image_grid": {
@@ -612,9 +612,9 @@
     },
     {
       "id": "world_history_029",
-      "title": "世界通史 - 图片30",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "释迦牟尼悟道",
+      "summary": "公元前五二八年，迦毗罗卫国太子悉达多·乔达摩放弃王位出家修行...",
+      "full_text": "公元前五二八年，迦毗罗卫国太子悉达多·乔达摩放弃王位出家修行，在菩提伽耶的菩提树下静坐四十九日，终于彻悟四谛八正道，成为佛陀。他在鹿野苑初转法轮，从此佛法传遍恒河流域，为人类文明贡献了最深刻的智慧之一。",
       "image": "res://assets/images/illustrations/world_history/world_history_029.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_029_pixel.jpg",
       "image_grid": {
@@ -633,9 +633,9 @@
     },
     {
       "id": "world_history_030",
-      "title": "世界通史 - 图片31",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "阿育王弘法",
+      "summary": "公元前二六一年，孔雀帝国阿育王征服羯陵伽后，目睹战场上的尸横...",
+      "full_text": "公元前二六一年，孔雀帝国阿育王征服羯陵伽后，目睹战场上的尸横遍野而深感悔悟，皈依佛教。他在帝国各地竖立石柱诏书宣扬佛法，派遣传教僧侣远至希腊与斯里兰卡，以轮王之治取代武力征服，开创了以和平理念治国的先河。",
       "image": "res://assets/images/illustrations/world_history/world_history_030.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_030_pixel.jpg",
       "image_grid": {
@@ -654,9 +654,9 @@
     },
     {
       "id": "world_history_031",
-      "title": "世界通史 - 图片32",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "秦始皇统一六国",
+      "summary": "公元前二二一年，秦王嬴政以远交近攻之策依次灭韩赵魏楚燕齐六国...",
+      "full_text": "公元前二二一年，秦王嬴政以远交近攻之策依次灭韩赵魏楚燕齐六国，结束了五百年的诸侯割据。他自称始皇帝，统一文字、度量衡与车轨，修筑万里长城抵御匈奴，建立郡县制中央集权，奠定了中国两千年大一统帝国的制度根基。",
       "image": "res://assets/images/illustrations/world_history/world_history_031.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_031_pixel.jpg",
       "image_grid": {
@@ -675,9 +675,9 @@
     },
     {
       "id": "world_history_032",
-      "title": "世界通史 - 图片33",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "汉代丝绸之路",
+      "summary": "公元前一三八年，张骞奉汉武帝之命出使西域，历经十三年艰辛返回...",
+      "full_text": "公元前一三八年，张骞奉汉武帝之命出使西域，历经十三年艰辛返回长安，打通了从长安经河西走廊、越葱岭至大宛、安息的商路。丝绸、漆器西去，葡萄、良马东来，丝绸之路将中华文明与欧亚大陆紧密相连，开启了东西方交流的伟大纪元。",
       "image": "res://assets/images/illustrations/world_history/world_history_032.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_032_pixel.jpg",
       "image_grid": {
@@ -696,9 +696,9 @@
     },
     {
       "id": "world_history_033",
-      "title": "世界通史 - 图片34",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "米诺斯文明",
+      "summary": "公元前二千年，克里特岛上崛起的米诺斯文明以克诺索斯宫殿为中心...",
+      "full_text": "公元前二千年，克里特岛上崛起的米诺斯文明以克诺索斯宫殿为中心，迷宫般的建筑群中绘有跳牛壁画与海豚图案。米诺斯人驾船称霸爱琴海，建立海上贸易网络，其优雅的艺术风格与先进的排水系统，被誉为欧洲最早的高度文明。",
       "image": "res://assets/images/illustrations/world_history/world_history_033.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_033_pixel.jpg",
       "image_grid": {
@@ -717,9 +717,9 @@
     },
     {
       "id": "world_history_034",
-      "title": "世界通史 - 图片35",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "迈锡尼文明",
+      "summary": "公元前一六〇〇年，希腊本土的迈锡尼人筑起巨石城墙，狮子门上两...",
+      "full_text": "公元前一六〇〇年，希腊本土的迈锡尼人筑起巨石城墙，狮子门上两尊石狮守护着王宫入口。武士们身披青铜铠甲，以线性文字B记录库存与贡赋，迈锡尼文明是荷马史诗中特洛伊战争的历史背景，也是希腊青铜时代的最后辉煌。",
       "image": "res://assets/images/illustrations/world_history/world_history_034.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_034_pixel.jpg",
       "image_grid": {
@@ -738,9 +738,9 @@
     },
     {
       "id": "world_history_035",
-      "title": "世界通史 - 图片36",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "以色列王国",
+      "summary": "公元前一〇〇〇年，大卫王统一以色列十二支派，定都耶路撒冷，其...",
+      "full_text": "公元前一〇〇〇年，大卫王统一以色列十二支派，定都耶路撒冷，其子所罗门在圣殿山上筑起第一圣殿，供奉约柜。先知们在旷野中传达上帝的诫命，一神信仰由此扎根，希伯来圣经塑造了犹太教、基督教与伊斯兰教共同的精神源头。",
       "image": "res://assets/images/illustrations/world_history/world_history_035.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_035_pixel.jpg",
       "image_grid": {
@@ -759,9 +759,9 @@
     },
     {
       "id": "world_history_036",
-      "title": "世界通史 - 图片37",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "玛雅早期城邦",
+      "summary": "公元前五百年，危地马拉热带雨林中的蒂卡尔城邦已矗立起石灰岩金...",
+      "full_text": "公元前五百年，危地马拉热带雨林中的蒂卡尔城邦已矗立起石灰岩金字塔，祭司在塔顶观测金星运行，发明了精密的历法体系与二十进位制。玛雅人以象形文字记录王朝历史与天文知识，创造了美洲最辉煌的古典文明。",
       "image": "res://assets/images/illustrations/world_history/world_history_036.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_036_pixel.jpg",
       "image_grid": {
@@ -780,9 +780,9 @@
     },
     {
       "id": "world_history_037",
-      "title": "世界通史 - 图片38",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "摩亨佐达罗古城",
+      "summary": "公元前二千五百年，印度河畔的摩亨佐达罗城拥有当时世界最先进的...",
+      "full_text": "公元前二千五百年，印度河畔的摩亨佐达罗城拥有当时世界最先进的城市规划，街道呈棋盘状排列，每户住宅配有浴室与排水沟。大浴池可能是宗教净化仪式的场所，这座无宫殿无军营的平等城市，展现了哈拉帕文明独特的社会形态。",
       "image": "res://assets/images/illustrations/world_history/world_history_037.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_037_pixel.jpg",
       "image_grid": {
@@ -801,9 +801,9 @@
     },
     {
       "id": "world_history_038",
-      "title": "世界通史 - 图片39",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "特洛伊遗址发掘",
+      "summary": "公元前一千二百年，小亚细亚西北的特洛伊城在战火中化为废墟。1...",
+      "full_text": "公元前一千二百年，小亚细亚西北的特洛伊城在战火中化为废墟。1870年谢里曼依据荷马史诗的指引在此发掘，穿透九层遗址找到了普里阿摩斯的宝藏。特洛伊战争的真实性终获考古印证，神话与历史在此交汇，照亮了爱琴海的青铜时代。",
       "image": "res://assets/images/illustrations/world_history/world_history_038.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_038_pixel.jpg",
       "image_grid": {
@@ -822,9 +822,9 @@
     },
     {
       "id": "world_history_039",
-      "title": "世界通史 - 图片40",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "赫梯帝国兴衰",
+      "summary": "公元前一六〇〇年，安纳托利亚高原的赫梯人率先掌握了冶铁技术，...",
+      "full_text": "公元前一六〇〇年，安纳托利亚高原的赫梯人率先掌握了冶铁技术，铁制武器令其战车横扫叙利亚。公元前一二七四年，赫梯与拉美西斯二世在卡迭石展开古代规模最大的战车会战，双方签订的和约是人类现存最早的国际和平条约。",
       "image": "res://assets/images/illustrations/world_history/world_history_039.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_039_pixel.jpg",
       "image_grid": {
@@ -843,9 +843,9 @@
     },
     {
       "id": "world_history_040",
-      "title": "世界通史 - 图片41",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "雅典民主政治",
+      "summary": "公元前五〇八年，克里斯提尼在雅典推行改革，以地域部落取代血缘...",
+      "full_text": "公元前五〇八年，克里斯提尼在雅典推行改革，以地域部落取代血缘氏族，公民大会成为最高权力机构。每年六千公民在帕尼克斯山丘上投票决定城邦大事，陶片放逐法防止僭主出现，雅典开创了人类历史上最彻底的直接民主制度。",
       "image": "res://assets/images/illustrations/world_history/world_history_040.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_040_pixel.jpg",
       "image_grid": {
@@ -864,9 +864,9 @@
     },
     {
       "id": "world_history_041",
-      "title": "世界通史 - 图片42",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "斯巴达军事训练",
+      "summary": "公元前七世纪，斯巴达男童七岁即被编入连队，赤足奔跑、忍饥受寒...",
+      "full_text": "公元前七世纪，斯巴达男童七岁即被编入连队，赤足奔跑、忍饥受寒，在鞭笞中磨砺意志。三十岁方获完整公民权，终身以军营为家，斯巴达战士以方阵冲锋所向披靡，温泉关三百勇士的壮举成为军事史上永恒的传奇。",
       "image": "res://assets/images/illustrations/world_history/world_history_041.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_041_pixel.jpg",
       "image_grid": {
@@ -885,9 +885,9 @@
     },
     {
       "id": "world_history_042",
-      "title": "世界通史 - 图片43",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "马拉松战役",
+      "summary": "公元前四九〇年，波斯大军渡海远征雅典，一万一千名雅典重装步兵...",
+      "full_text": "公元前四九〇年，波斯大军渡海远征雅典，一万一千名雅典重装步兵在马拉松平原迎战数倍于己的敌军。雅典方阵以两翼包抄之策击溃波斯阵线，斐迪庇第斯奔跑四十公里传回胜利消息后力竭而亡，马拉松由此成为勇气与自由的永恒象征。",
       "image": "res://assets/images/illustrations/world_history/world_history_042.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_042_pixel.jpg",
       "image_grid": {
@@ -906,9 +906,9 @@
     },
     {
       "id": "world_history_043",
-      "title": "世界通史 - 图片44",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "伯罗奔尼撒战争",
+      "summary": "公元前四三一年，雅典与斯巴达之间长达二十七年的战争撕裂了希腊...",
+      "full_text": "公元前四三一年，雅典与斯巴达之间长达二十七年的战争撕裂了希腊世界。雅典的海上霸权与斯巴达的陆军优势反复交锋，瘟疫肆虐城邦，远征西西里惨败。公元前四〇四年雅典投降，黄金时代终结，希腊城邦从此走向衰落。",
       "image": "res://assets/images/illustrations/world_history/world_history_043.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_043_pixel.jpg",
       "image_grid": {
@@ -927,9 +927,9 @@
     },
     {
       "id": "world_history_044",
-      "title": "世界通史 - 图片45",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "苏格拉底之死",
+      "summary": "公元前三九九年，七十一岁的苏格拉底被雅典法庭以腐蚀青年与不敬...",
+      "full_text": "公元前三九九年，七十一岁的苏格拉底被雅典法庭以腐蚀青年与不敬神灵之罪判处死刑。他拒绝朋友安排的越狱，在狱中平静饮下毒堇汁，临终嘱咐友人向医神献祭一只公鸡。他以死捍卫了哲人的良知与法律的尊严，成为西方哲学的精神灯塔。",
       "image": "res://assets/images/illustrations/world_history/world_history_044.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_044_pixel.jpg",
       "image_grid": {
@@ -948,9 +948,9 @@
     },
     {
       "id": "world_history_045",
-      "title": "世界通史 - 图片46",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "柏拉图学园",
+      "summary": "公元前三八七年，柏拉图在雅典城外购地创建学园，门楣上刻着不懂...",
+      "full_text": "公元前三八七年，柏拉图在雅典城外购地创建学园，门楣上刻着不懂几何者不得入内。他在这里讲授理念论，对话录中苏格拉底的追问启发了无数心灵，亚里士多德在此求学二十年。柏拉图学园延续了九百年，是西方世界最早的高等学府。",
       "image": "res://assets/images/illustrations/world_history/world_history_045.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_045_pixel.jpg",
       "image_grid": {
@@ -969,9 +969,9 @@
     },
     {
       "id": "world_history_046",
-      "title": "世界通史 - 图片47",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "亚里士多德著述",
+      "summary": "公元前三三五年，亚里士多德在雅典创办吕克昂学园，与弟子漫步于...",
+      "full_text": "公元前三三五年，亚里士多德在雅典创办吕克昂学园，与弟子漫步于回廊中探讨万物之理。他著述涵盖逻辑学、物理学、伦理学与政治学，首创形式逻辑三段论，被尊为万学之祖。其思想经阿拉伯学者保存，深刻塑造了西方学术的版图。",
       "image": "res://assets/images/illustrations/world_history/world_history_046.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_046_pixel.jpg",
       "image_grid": {
@@ -990,9 +990,9 @@
     },
     {
       "id": "world_history_047",
-      "title": "世界通史 - 图片48",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "亚历山大大帝东征",
+      "summary": "公元前三三四年，年仅二十二岁的亚历山大率马其顿希腊联军渡过赫...",
+      "full_text": "公元前三三四年，年仅二十二岁的亚历山大率马其顿希腊联军渡过赫勒斯滂海峡，十年征战横扫波斯、埃及、中亚直至印度河流域。他在伊苏斯以少胜多击溃大流士三世，建立地跨三大洲的帝国，希腊文化与东方文明在此深度交融，开启了希腊化时代。",
       "image": "res://assets/images/illustrations/world_history/world_history_047.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_047_pixel.jpg",
       "image_grid": {
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "world_history_048",
-      "title": "世界通史 - 图片49",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "罗马共和国崛起",
+      "summary": "公元前五〇九年，罗马人驱逐了末代国王，建立元老院执政的共和国...",
+      "full_text": "公元前五〇九年，罗马人驱逐了末代国王，建立元老院执政的共和国。平民与贵族的斗争促成了保民官的设立与十二铜表法的颁布，罗马人在布匿战争中击败迦太基，将地中海变为内湖，共和制度在扩张中走向巅峰，却也埋下了内战的伏笔。",
       "image": "res://assets/images/illustrations/world_history/world_history_048.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_048_pixel.jpg",
       "image_grid": {
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "world_history_049",
-      "title": "世界通史 - 图片50",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "凯撒征服高卢",
+      "summary": "公元前五十八年，凯撒率罗马军团翻越阿尔卑斯山，八年征战征服了...",
+      "full_text": "公元前五十八年，凯撒率罗马军团翻越阿尔卑斯山，八年征战征服了整个高卢地区。阿莱西亚之战中他筑起内外两道工事围困维钦托利，以少胜多奠定胜局。《高卢战记》以平实笔触记录了这场伟业，也为凯撒积累了问鼎罗马的军事资本。",
       "image": "res://assets/images/illustrations/world_history/world_history_049.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_049_pixel.jpg",
       "image_grid": {
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "world_history_050",
-      "title": "世界通史 - 图片51",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "奥古斯都开创帝制",
+      "summary": "公元前二十七年，屋大维在元老院前交还权力，获授奥古斯都尊号，...",
+      "full_text": "公元前二十七年，屋大维在元老院前交还权力，获授奥古斯都尊号，以元首之名行帝王之实。他裁减军备、修缮神庙、整顿税制，罗马迎来了两百年和平繁荣的黄金时代。奥古斯都的统治为罗马帝国奠定了制度基础，被尊为开国第一帝。",
       "image": "res://assets/images/illustrations/world_history/world_history_050.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_050_pixel.jpg",
       "image_grid": {
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "world_history_051",
-      "title": "世界通史 - 图片52",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "庞贝古城覆灭",
+      "summary": "公元七十九年八月，维苏威火山猛烈喷发，炽热的火山灰与碎屑流瞬...",
+      "full_text": "公元七十九年八月，维苏威火山猛烈喷发，炽热的火山灰与碎屑流瞬间掩埋了庞贝城。街道、广场、面包坊与壁画被封存于六米厚的火山灰下，直到十八世纪重见天日。庞贝如同一座时间胶囊，完整保存了罗马帝国日常生活的真实面貌。",
       "image": "res://assets/images/illustrations/world_history/world_history_051.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_051_pixel.jpg",
       "image_grid": {
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "world_history_052",
-      "title": "世界通史 - 图片53",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "罗马竞技场落成",
+      "summary": "公元八十年，弗拉维安圆形竞技场在罗马城中心落成，可容纳五万观...",
+      "full_text": "公元八十年，弗拉维安圆形竞技场在罗马城中心落成，可容纳五万观众。角斗士在沙场上搏命，猛兽从地下通道被升降机送上场地。这座以混凝土与拱券技术建造的宏伟建筑，既是罗马工程技术的巅峰之作，也是帝国暴力美学的集中象征。",
       "image": "res://assets/images/illustrations/world_history/world_history_052.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_052_pixel.jpg",
       "image_grid": {
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "world_history_053",
-      "title": "世界通史 - 图片54",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "丝绸之路贸易",
+      "summary": "公元一世纪，骆驼商队驮着中国丝绸从长安出发，穿越塔克拉玛干沙...",
+      "full_text": "公元一世纪，骆驼商队驮着中国丝绸从长安出发，穿越塔克拉玛干沙漠与帕米尔高原，经安息转运至罗马。罗马贵族以丝绸为至宝，中国亦渴望大宛的汗血宝马。这条万里商路不仅流通货物，更传递了佛教、艺术与技术，连接了东西方文明的脉络。",
       "image": "res://assets/images/illustrations/world_history/world_history_053.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_053_pixel.jpg",
       "image_grid": {
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "world_history_054",
-      "title": "世界通史 - 图片55",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "汉朝与罗马",
+      "summary": "公元一六六年，大秦王安敦即罗马皇帝马可·奥勒留的使者抵达洛阳...",
+      "full_text": "公元一六六年，大秦王安敦即罗马皇帝马可·奥勒留的使者抵达洛阳，向汉桓帝献上象牙与犀角。两大帝国虽相隔万里，却通过丝绸之路间接贸易往来，汉朝称罗马为大秦，罗马称中国为赛里斯。东西方两大文明的遥相呼应，构成了古典世界的壮阔图景。",
       "image": "res://assets/images/illustrations/world_history/world_history_054.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_054_pixel.jpg",
       "image_grid": {
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "world_history_055",
-      "title": "世界通史 - 图片56",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "贵霜帝国鼎盛",
+      "summary": "公元二世纪，贵霜王迦腻色伽一世在犍陀罗地区建立了横跨中亚与南...",
+      "full_text": "公元二世纪，贵霜王迦腻色伽一世在犍陀罗地区建立了横跨中亚与南亚的帝国。他弘扬佛教，召开第四次结集，希腊式佛像在工匠手中诞生，融合了希腊雕塑的写实与印度宗教的庄严。贵霜帝国成为丝绸之路上东西方文化交融的璀璨枢纽。",
       "image": "res://assets/images/illustrations/world_history/world_history_055.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_055_pixel.jpg",
       "image_grid": {
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "world_history_056",
-      "title": "世界通史 - 图片57",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "安息帝国对峙",
+      "summary": "公元前五十三年，安息骑兵在卡莱战役中以帕提亚回马箭全歼克拉苏...",
+      "full_text": "公元前五十三年，安息骑兵在卡莱战役中以帕提亚回马箭全歼克拉苏的罗马军团，七面鹰旗尽失，成为罗马永恒之耻。安息帝国据守伊朗高原，以骑射之利与罗马对峙三百年，掌控丝绸之路中转贸易，成为东西方之间的缓冲与桥梁。",
       "image": "res://assets/images/illustrations/world_history/world_history_056.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_056_pixel.jpg",
       "image_grid": {
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "world_history_057",
-      "title": "世界通史 - 图片58",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "基督教的起源",
+      "summary": "公元三十年，拿撒勒人耶稣在犹地亚传道，以比喻宣讲天国近了，在...",
+      "full_text": "公元三十年，拿撒勒人耶稣在犹地亚传道，以比喻宣讲天国近了，在耶路撒冷被钉十字架。门徒宣称他三日后复活，彼得与保罗将福音传至罗马帝国全境。从受迫害的地下宗教到君士坦丁的帝国国教，基督教深刻重塑了西方文明的精神世界。",
       "image": "res://assets/images/illustrations/world_history/world_history_057.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_057_pixel.jpg",
       "image_grid": {
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "world_history_058",
-      "title": "世界通史 - 图片59",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "秦汉统一中国",
+      "summary": "公元前二二一年秦灭六国至公元二二〇年汉亡，四百余年间中国完成...",
+      "full_text": "公元前二二一年秦灭六国至公元二二〇年汉亡，四百余年间中国完成了从封建到郡县的制度转型。秦筑长城、修驰道、统一度量衡，汉尊儒术、开西域、兴太学，秦汉制度奠定了中华文明的基本框架，大一统理念从此深植于民族记忆之中。",
       "image": "res://assets/images/illustrations/world_history/world_history_058.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_058_pixel.jpg",
       "image_grid": {
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "world_history_059",
-      "title": "世界通史 - 图片60",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "笈多王朝黄金时代",
+      "summary": "公元四世纪，旃陀罗笈多一世统一北印度，笈多王朝进入黄金时代。...",
+      "full_text": "公元四世纪，旃陀罗笈多一世统一北印度，笈多王朝进入黄金时代。数学家发明零与十进位制，迦梨陀娑创作《沙恭达罗》，那烂陀寺成为亚洲学术中心。印度教与佛教并盛，文学、科学与艺术全面繁荣，笈多时代被誉为印度古典文明的巅峰。",
       "image": "res://assets/images/illustrations/world_history/world_history_059.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_059_pixel.jpg",
       "image_grid": {
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "world_history_060",
-      "title": "世界通史 - 图片61",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "西罗马帝国灭亡",
+      "summary": "公元四七六年，日耳曼雇佣军首领奥多亚塞废黜末代罗马皇帝罗慕路...",
+      "full_text": "公元四七六年，日耳曼雇佣军首领奥多亚塞废黜末代罗马皇帝罗慕路斯，西罗马帝国轰然倒塌。蛮族王国在废墟上纷纷建立，古典城市的公共设施荒废，拉丁语分化为罗曼诸语，欧洲进入了漫长的中世纪，古典文明与封建秩序在此交替。",
       "image": "res://assets/images/illustrations/world_history/world_history_060.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_060_pixel.jpg",
       "image_grid": {
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "world_history_061",
-      "title": "世界通史 - 图片62",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "拜占庭帝国延续",
+      "summary": "公元三三〇年，君士坦丁大帝在博斯普鲁斯海峡畔营建新罗马，东罗...",
+      "full_text": "公元三三〇年，君士坦丁大帝在博斯普鲁斯海峡畔营建新罗马，东罗马帝国在此延续千年。圣索菲亚大教堂的穹顶下，希腊正教的仪式庄严华美，帝国保存了古希腊罗马的典籍与法律传统，成为中世纪欧洲最富庶最文明的力量，守护着古典世界的余晖。",
       "image": "res://assets/images/illustrations/world_history/world_history_061.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_061_pixel.jpg",
       "image_grid": {
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "world_history_062",
-      "title": "世界通史 - 图片63",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "查士丁尼法典",
+      "summary": "公元五二八年，拜占庭皇帝查士丁尼命法学家特里波尼安编纂历代罗...",
+      "full_text": "公元五二八年，拜占庭皇帝查士丁尼命法学家特里波尼安编纂历代罗马法令，历时六年完成《查士丁尼法典》《学说汇纂》《法学阶梯》。这部宏大的法律汇编系统整理了罗马法精神，成为大陆法系的源头，至今仍深刻影响着世界各国的法律体系。",
       "image": "res://assets/images/illustrations/world_history/world_history_062.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_062_pixel.jpg",
       "image_grid": {
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "world_history_063",
-      "title": "世界通史 - 图片64",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "伊斯兰教兴起",
+      "summary": "公元六一〇年，麦加商人穆罕默德在希拉山洞中接获天使加百列传达...",
+      "full_text": "公元六一〇年，麦加商人穆罕默德在希拉山洞中接获天使加百列传达的真主启示，开始传播认主独一的信仰。他率信众迁至麦地那建立穆斯林社群，以《古兰经》为根本经典，伊斯兰教迅速统一了阿拉伯半岛，成为改变世界格局的伟大宗教。",
       "image": "res://assets/images/illustrations/world_history/world_history_063.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_063_pixel.jpg",
       "image_grid": {
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "world_history_064",
-      "title": "世界通史 - 图片65",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "阿拉伯帝国扩张",
+      "summary": "公元七世纪中叶，阿拉伯骑兵从半岛出击，东灭萨珊波斯，西取埃及...",
+      "full_text": "公元七世纪中叶，阿拉伯骑兵从半岛出击，东灭萨珊波斯，西取埃及与北非，横跨三大洲。倭马亚王朝定都大马士革，阿拔斯王朝迁至巴格达，翻译运动将希腊哲学与印度数学引入阿拉伯世界，伊斯兰文明在征服与吸收中绽放出璀璨光芒。",
       "image": "res://assets/images/illustrations/world_history/world_history_064.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_064_pixel.jpg",
       "image_grid": {
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "world_history_065",
-      "title": "世界通史 - 图片66",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "十字军东征",
+      "summary": "公元一〇九六年，教皇乌尔班二世在克莱蒙呼吁收复圣地，欧洲骑士...",
+      "full_text": "公元一〇九六年，教皇乌尔班二世在克莱蒙呼吁收复圣地，欧洲骑士扛起十字架东征。两百年间八次东征血染黎凡特，耶路撒冷王国兴衰更迭。十字军虽以宗教之名行劫掠之实，却意外打通了东西方贸易与文化交流，加速了欧洲的觉醒。",
       "image": "res://assets/images/illustrations/world_history/world_history_065.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_065_pixel.jpg",
       "image_grid": {
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "world_history_066",
-      "title": "世界通史 - 图片67",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "蒙古帝国西征",
+      "summary": "公元一二一九年，成吉思汗率蒙古铁骑西征花剌子模，屠城撒马尔罕...",
+      "full_text": "公元一二一九年，成吉思汗率蒙古铁骑西征花剌子模，屠城撒马尔罕。其后窝阔台、拔都继续西进，铁蹄踏破基辅与布达佩斯，蒙古帝国疆域从太平洋延至东欧。驿站系统连通欧亚，东西方交流空前频繁，蒙古和平重塑了旧大陆的政治版图。",
       "image": "res://assets/images/illustrations/world_history/world_history_066.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_066_pixel.jpg",
       "image_grid": {
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "world_history_067",
-      "title": "世界通史 - 图片68",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "黑死病肆虐",
+      "summary": "公元一三四七年，热那亚商船从黑海港口将鼠疫带入西西里，黑死病...",
+      "full_text": "公元一三四七年，热那亚商船从黑海港口将鼠疫带入西西里，黑死病以燎原之势席卷欧洲。四年间夺走三分之一人口，村庄化为鬼域，农田荒芜，劳动力骤减。瘟疫动摇了教会的权威，催生了劳动价值的提升，深刻改变了欧洲的社会结构与思想观念。",
       "image": "res://assets/images/illustrations/world_history/world_history_067.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_067_pixel.jpg",
       "image_grid": {
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "world_history_068",
-      "title": "世界通史 - 图片69",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "百年战争烽火",
+      "summary": "公元一三三七年，英法因王位继承与领地争端开战，战火断续绵延百...",
+      "full_text": "公元一三三七年，英法因王位继承与领地争端开战，战火断续绵延百余年。克雷西战役中英军长弓手击溃法国骑士，阿金库尔再显弓兵之威。百年战争终结了骑士阶层的军事垄断，促进了英法民族意识的觉醒，两国由此走上不同的民族国家之路。",
       "image": "res://assets/images/illustrations/world_history/world_history_068.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_068_pixel.jpg",
       "image_grid": {
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "world_history_069",
-      "title": "世界通史 - 图片70",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "圣女贞德殉道",
+      "summary": "公元一四二九年，十七岁的农家少女贞德声称听到圣徒之声，率法军...",
+      "full_text": "公元一四二九年，十七岁的农家少女贞德声称听到圣徒之声，率法军解奥尔良之围，拥戴查理七世在兰斯加冕。次年她在贡比涅被勃艮第人俘获，以异端罪在鲁昂火刑柱上烧死。贞德以生命唤醒了法兰西的民族精神，五百年后被封为法国主保圣人。",
       "image": "res://assets/images/illustrations/world_history/world_history_069.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_069_pixel.jpg",
       "image_grid": {
@@ -1473,9 +1473,9 @@
     },
     {
       "id": "world_history_070",
-      "title": "世界通史 - 图片71",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "维京海盗纵横",
+      "summary": "公元八世纪末，斯堪的纳维亚的维京战士驾龙头长船冲出峡湾，劫掠...",
+      "full_text": "公元八世纪末，斯堪的纳维亚的维京战士驾龙头长船冲出峡湾，劫掠英格兰林迪斯法恩修道院。他们沿河流深入东欧建立基辅罗斯，渡大西洋发现冰岛与格陵兰，甚至抵达北美纽芬兰。维京人以武力与贸易重塑了欧洲的版图，开启了北欧的传奇时代。",
       "image": "res://assets/images/illustrations/world_history/world_history_070.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_070_pixel.jpg",
       "image_grid": {
@@ -1494,9 +1494,9 @@
     },
     {
       "id": "world_history_071",
-      "title": "世界通史 - 图片72",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "查理曼大帝加冕",
+      "summary": "公元八〇〇年圣诞节，法兰克国王查理曼在罗马圣彼得大教堂跪地祈...",
+      "full_text": "公元八〇〇年圣诞节，法兰克国王查理曼在罗马圣彼得大教堂跪地祈祷时，教皇利奥三世将皇冠加于其首，罗马皇帝在西欧重生。查理曼鼓励学术、兴办学校，加洛林文艺复兴保存了古典文献，他统一的帝国虽短暂分裂，却奠定了欧洲文明的基础格局。",
       "image": "res://assets/images/illustrations/world_history/world_history_071.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_071_pixel.jpg",
       "image_grid": {
@@ -1515,9 +1515,9 @@
     },
     {
       "id": "world_history_072",
-      "title": "世界通史 - 图片73",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "封建制度确立",
+      "summary": "公元九世纪，加洛林帝国瓦解后，欧洲各地领主筑城堡据地自守，以...",
+      "full_text": "公元九世纪，加洛林帝国瓦解后，欧洲各地领主筑城堡据地自守，以土地封授换取骑士效忠。农奴依附于庄园，领主掌握司法与征税之权，从国王到骑士的封君封臣关系编织成中世纪社会的经纬，封建制度在战乱中成为维持秩序的基本框架。",
       "image": "res://assets/images/illustrations/world_history/world_history_072.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_072_pixel.jpg",
       "image_grid": {
@@ -1536,9 +1536,9 @@
     },
     {
       "id": "world_history_073",
-      "title": "世界通史 - 图片74",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "哥特式教堂耸立",
+      "summary": "公元十二世纪，巴黎北郊圣但尼修道院院长叙热首创尖拱与飞扶壁结...",
+      "full_text": "公元十二世纪，巴黎北郊圣但尼修道院院长叙热首创尖拱与飞扶壁结构，让石墙化为通透的彩色玻璃。沙特尔大教堂的玫瑰窗将圣经故事化为斑斓光影，哥特式建筑以垂直向上的线条表达了中世纪人对天国的渴望，成为欧洲信仰与技术的双重丰碑。",
       "image": "res://assets/images/illustrations/world_history/world_history_073.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_073_pixel.jpg",
       "image_grid": {
@@ -1557,9 +1557,9 @@
     },
     {
       "id": "world_history_074",
-      "title": "世界通史 - 图片75",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "宋朝科技繁荣",
+      "summary": "公元十一世纪，毕昇发明活字印刷术，沈括著《梦溪笔谈》总结天文...",
+      "full_text": "公元十一世纪，毕昇发明活字印刷术，沈括著《梦溪笔谈》总结天文与磁学，火药被用于军事，指南针应用于航海。宋代商船远航南洋与印度洋，纸币交子流通于市，开封与杭州成为当时世界最繁华的都市，宋朝在科技与经济上达到了中国古典文明的高峰。",
       "image": "res://assets/images/illustrations/world_history/world_history_074.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_074_pixel.jpg",
       "image_grid": {
@@ -1578,9 +1578,9 @@
     },
     {
       "id": "world_history_075",
-      "title": "世界通史 - 图片76",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "蒙古元朝统治",
+      "summary": "公元一二七九年，忽必烈灭南宋统一中国，建立元朝，定都大都。蒙...",
+      "full_text": "公元一二七九年，忽必烈灭南宋统一中国，建立元朝，定都大都。蒙古统治者设四等人制，以色目人理财，马可·波罗在此游仕十七年。元朝疆域空前辽阔，驿站通达四方，元曲与杂剧在瓦舍勾栏中繁荣，多民族帝国在碰撞与融合中书写了独特篇章。",
       "image": "res://assets/images/illustrations/world_history/world_history_075.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_075_pixel.jpg",
       "image_grid": {
@@ -1599,9 +1599,9 @@
     },
     {
       "id": "world_history_076",
-      "title": "世界通史 - 图片77",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "马里帝国黄金",
+      "summary": "公元一三二四年，马里国王曼萨·穆萨携三万随从与黄金赴麦加朝觐...",
+      "full_text": "公元一三二四年，马里国王曼萨·穆萨携三万随从与黄金赴麦加朝觐，沿途慷慨施舍令开罗金价暴跌十年。廷巴克图的桑科雷大学吸引四方学者，伊斯兰学术与非洲传统在此交融，马里帝国控制着撒哈拉以南最大的黄金产地，成为中世纪非洲最富庶的文明。",
       "image": "res://assets/images/illustrations/world_history/world_history_076.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_076_pixel.jpg",
       "image_grid": {
@@ -1620,9 +1620,9 @@
     },
     {
       "id": "world_history_077",
-      "title": "世界通史 - 图片78",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "高棉帝国吴哥",
+      "summary": "公元十二世纪，高棉国王苏利耶跋摩二世在暹粒平原上筑起吴哥窟，...",
+      "full_text": "公元十二世纪，高棉国王苏利耶跋摩二世在暹粒平原上筑起吴哥窟，五座莲花塔象征须弥山，回廊浮雕绵延八百米。吴哥城鼎盛时人口近百万，灌溉系统养活了水稻梯田，是前工业时代世界上最大的城市，高棉帝国的辉煌镌刻在每一块砂岩之上。",
       "image": "res://assets/images/illustrations/world_history/world_history_077.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_077_pixel.jpg",
       "image_grid": {
@@ -1641,9 +1641,9 @@
     },
     {
       "id": "world_history_078",
-      "title": "世界通史 - 图片79",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "日本幕府建立",
+      "summary": "公元一一九二年，源赖朝在镰仓设立幕府，就任征夷大将军，开创了...",
+      "full_text": "公元一一九二年，源赖朝在镰仓设立幕府，就任征夷大将军，开创了武家政治的先河。天皇居于京都形同虚设，实权归于武士阶层的幕府将军。此后六百余年，幕府更迭而天皇犹存，日本独特的双重政治体制深刻塑造了其社会结构与文化精神。",
       "image": "res://assets/images/illustrations/world_history/world_history_078.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_078_pixel.jpg",
       "image_grid": {
@@ -1662,9 +1662,9 @@
     },
     {
       "id": "world_history_079",
-      "title": "世界通史 - 图片80",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "奥斯曼帝国崛起",
+      "summary": "公元一四五三年，二十一岁的奥斯曼苏丹穆罕默德二世率八万大军围...",
+      "full_text": "公元一四五三年，二十一岁的奥斯曼苏丹穆罕默德二世率八万大军围攻君士坦丁堡，乌尔班巨炮轰塌狄奥多西城墙，拜占庭千年帝国落幕。奥斯曼帝国定都伊斯坦布尔，控制欧亚咽喉，苏丹兼哈里发之位于一身，伊斯兰势力从此深入欧洲腹地。",
       "image": "res://assets/images/illustrations/world_history/world_history_079.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_079_pixel.jpg",
       "image_grid": {
@@ -1683,9 +1683,9 @@
     },
     {
       "id": "world_history_080",
-      "title": "世界通史 - 图片81",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "文艺复兴发端",
+      "summary": "公元十四世纪，佛罗伦萨的梅迪奇家族资助艺术家重拾古典之美，达...",
+      "full_text": "公元十四世纪，佛罗伦萨的梅迪奇家族资助艺术家重拾古典之美，达·芬奇以解剖学入画，米开朗基罗在大理石中释放灵魂。人文主义取代神学桎梏，人成为万物的尺度，文艺复兴从意大利蔓延至全欧，开启了从中世纪到现代的伟大转折。",
       "image": "res://assets/images/illustrations/world_history/world_history_080.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_080_pixel.jpg",
       "image_grid": {
@@ -1704,9 +1704,9 @@
     },
     {
       "id": "world_history_081",
-      "title": "世界通史 - 图片82",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "哥伦布发现新大陆",
+      "summary": "公元一四九二年十月十二日，哥伦布率三艘帆船横渡大西洋，在巴哈...",
+      "full_text": "公元一四九二年十月十二日，哥伦布率三艘帆船横渡大西洋，在巴哈马群岛登陆。他至死以为抵达了亚洲，却意外揭开了美洲大陆的面纱。这一发现引发了哥伦布大交换，玉米与马铃薯传入旧大陆，马匹与火器进入新世界，全球化的序幕由此拉开。",
       "image": "res://assets/images/illustrations/world_history/world_history_081.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_081_pixel.jpg",
       "image_grid": {
@@ -1725,9 +1725,9 @@
     },
     {
       "id": "world_history_082",
-      "title": "世界通史 - 图片83",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "宗教改革风暴",
+      "summary": "公元一五一七年，马丁·路德在维滕贝格教堂门上张贴九十五条论纲...",
+      "full_text": "公元一五一七年，马丁·路德在维滕贝格教堂门上张贴九十五条论纲，抗议赎罪券的贩卖，挑战教皇的至高权威。古腾堡印刷术让德语圣经走入千家万户，新教各派纷纷兴起，基督教世界从此分裂，宗教改革不仅重塑了信仰，更推动了民族语言与个人良知的觉醒。",
       "image": "res://assets/images/illustrations/world_history/world_history_082.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_082_pixel.jpg",
       "image_grid": {
@@ -1746,9 +1746,9 @@
     },
     {
       "id": "world_history_083",
-      "title": "世界通史 - 图片84",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "麦哲伦环球航行",
+      "summary": "公元一五一九年，麦哲伦率五艘帆船从塞维利亚出发，穿越以他命名...",
+      "full_text": "公元一五一九年，麦哲伦率五艘帆船从塞维利亚出发，穿越以他命名的海峡进入太平洋。麦哲伦在菲律宾阵亡，仅剩维多利亚号在德尔卡诺指挥下于1522年返回西班牙，十八名幸存者完成了人类首次环球航行，以血与帆证明了地球是圆的。",
       "image": "res://assets/images/illustrations/world_history/world_history_083.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_083_pixel.jpg",
       "image_grid": {
@@ -1767,9 +1767,9 @@
     },
     {
       "id": "world_history_084",
-      "title": "世界通史 - 图片85",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "科学革命兴起",
+      "summary": "公元一五四三年，哥白尼发表日心说撼动了地心宇宙观，开普勒以椭...",
+      "full_text": "公元一五四三年，哥白尼发表日心说撼动了地心宇宙观，开普勒以椭圆轨道修正天体运行，伽利略用望远镜观测木星卫星。牛顿在1687年以万有引力统一天地之理，科学革命以数学与实验取代了经院哲学的权威，人类从此以理性之眼审视自然。",
       "image": "res://assets/images/illustrations/world_history/world_history_084.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_084_pixel.jpg",
       "image_grid": {
@@ -1788,9 +1788,9 @@
     },
     {
       "id": "world_history_085",
-      "title": "世界通史 - 图片86",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "英国光荣革命",
+      "summary": "公元一六八八年，英国议会邀请荷兰执政威廉入主伦敦，詹姆斯二世...",
+      "full_text": "公元一六八八年，英国议会邀请荷兰执政威廉入主伦敦，詹姆斯二世仓皇出逃，不流血的革命完成了王权的更替。次年《权利法案》签署，议会至上原则确立，国王未经同意不得征税与立法，光荣革命开创了君主立宪的先河，为现代民主制度奠定了基石。",
       "image": "res://assets/images/illustrations/world_history/world_history_085.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_085_pixel.jpg",
       "image_grid": {
@@ -1809,9 +1809,9 @@
     },
     {
       "id": "world_history_086",
-      "title": "世界通史 - 图片87",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "启蒙运动思潮",
+      "summary": "公元十八世纪，伏尔泰以犀利的笔锋抨击专制与迷信，卢梭在《社会...",
+      "full_text": "公元十八世纪，伏尔泰以犀利的笔锋抨击专制与迷信，卢梭在《社会契约论》中宣告人民主权，孟德斯鸠提出三权分立。巴黎沙龙中思想激荡，百科全书派以理性之光驱散蒙昧，启蒙运动为法国大革命提供了思想武器，也塑造了现代政治文明的基本理念。",
       "image": "res://assets/images/illustrations/world_history/world_history_086.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_086_pixel.jpg",
       "image_grid": {
@@ -1830,9 +1830,9 @@
     },
     {
       "id": "world_history_087",
-      "title": "世界通史 - 图片88",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "美国独立战争",
+      "summary": "公元一七七六年七月四日，十三州代表在费城签署《独立宣言》，宣...",
+      "full_text": "公元一七七六年七月四日，十三州代表在费城签署《独立宣言》，宣告人人生而平等。华盛顿率大陆军在约克镇接受英军投降，1787年费城制宪会议创立了世界上第一部成文宪法，三权分立与联邦制的制度设计，为现代共和国树立了典范。",
       "image": "res://assets/images/illustrations/world_history/world_history_087.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_087_pixel.jpg",
       "image_grid": {
@@ -1851,9 +1851,9 @@
     },
     {
       "id": "world_history_088",
-      "title": "世界通史 - 图片89",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "法国大革命",
+      "summary": "公元一七八九年七月十四日，巴黎市民攻占巴士底狱，法国大革命爆...",
+      "full_text": "公元一七八九年七月十四日，巴黎市民攻占巴士底狱，法国大革命爆发。《人权宣言》宣告自由平等博爱，雅各宾派将路易十六送上断头台，恐怖统治吞噬了革命自身。拿破仑以雾月政变终结了动荡，但大革命播下的自由种子已不可逆转地改变了世界。",
       "image": "res://assets/images/illustrations/world_history/world_history_088.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_088_pixel.jpg",
       "image_grid": {
@@ -1872,9 +1872,9 @@
     },
     {
       "id": "world_history_089",
-      "title": "世界通史 - 图片90",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "工业革命爆发",
+      "summary": "公元一七六九年，瓦特改良纽科门蒸汽机，动力从此摆脱了水力与畜...",
+      "full_text": "公元一七六九年，瓦特改良纽科门蒸汽机，动力从此摆脱了水力与畜力的束缚。曼彻斯特的纺织厂烟囱林立，铁路网将城市连为一体，英国率先完成了从手工作坊到机器大工业的转型。工业革命重塑了生产方式与社会结构，人类迈入了全新的机器时代。",
       "image": "res://assets/images/illustrations/world_history/world_history_089.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_089_pixel.jpg",
       "image_grid": {
@@ -1893,9 +1893,9 @@
     },
     {
       "id": "world_history_090",
-      "title": "世界通史 - 图片91",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "拿破仑战争",
+      "summary": "公元一八〇四年，拿破仑加冕为法兰西皇帝，奥斯特里茨战役中以劣...",
+      "full_text": "公元一八〇四年，拿破仑加冕为法兰西皇帝，奥斯特里茨战役中以劣势兵力击溃俄奥联军。法典推行至欧洲各地，废除封建特权，传播革命理念。然而远征俄罗斯惨败于严寒，滑铁卢一役终成绝响，拿破仑帝国虽覆灭，却永久改变了欧洲的政治版图与法律传统。",
       "image": "res://assets/images/illustrations/world_history/world_history_090.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_090_pixel.jpg",
       "image_grid": {
@@ -1914,9 +1914,9 @@
     },
     {
       "id": "world_history_091",
-      "title": "世界通史 - 图片92",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "拉丁美洲独立",
+      "summary": "公元一八一〇年，玻利瓦尔与圣马丁分别从北南两端发起解放战争。...",
+      "full_text": "公元一八一〇年，玻利瓦尔与圣马丁分别从北南两端发起解放战争。玻利瓦尔穿越安第斯山脉在博亚卡击败西班牙军，圣马丁翻越乌斯帕亚塔山口解放智利。到1825年，整个拉丁美洲挣脱了三百年的殖民枷锁，新生的共和国在废墟上艰难起步。",
       "image": "res://assets/images/illustrations/world_history/world_history_091.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_091_pixel.jpg",
       "image_grid": {
@@ -1935,9 +1935,9 @@
     },
     {
       "id": "world_history_092",
-      "title": "世界通史 - 图片93",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "鸦片战争爆发",
+      "summary": "公元一八四〇年，英国以保护鸦片贸易为由发动侵华战争，蒸汽铁舰...",
+      "full_text": "公元一八四〇年，英国以保护鸦片贸易为由发动侵华战争，蒸汽铁舰轰开虎门炮台。《南京条约》割让香港岛、开放五口通商，中国被迫卷入世界体系。鸦片战争是中国近代史的开端，天朝上国的迷梦从此破碎，中华民族开始了百年屈辱与抗争的艰难历程。",
       "image": "res://assets/images/illustrations/world_history/world_history_092.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_092_pixel.jpg",
       "image_grid": {
@@ -1956,9 +1956,9 @@
     },
     {
       "id": "world_history_093",
-      "title": "世界通史 - 图片94",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "明治维新变革",
+      "summary": "公元一八六八年，日本倒幕维新志士推翻德川幕府，十五岁的睦仁天...",
+      "full_text": "公元一八六八年，日本倒幕维新志士推翻德川幕府，十五岁的睦仁天皇颁布五条誓文。岩仓使节团出访欧美考察制度，殖产兴业、文明开化、富国强兵三大政策全面推进，日本仅用三十年便完成了从封建到近代国家的转型，成为亚洲第一个工业化国家。",
       "image": "res://assets/images/illustrations/world_history/world_history_093.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_093_pixel.jpg",
       "image_grid": {
@@ -1977,9 +1977,9 @@
     },
     {
       "id": "world_history_094",
-      "title": "世界通史 - 图片95",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "美国南北战争",
+      "summary": "公元一八六一年，南方蓄奴州宣布脱离联邦，内战爆发。葛底斯堡战...",
+      "full_text": "公元一八六一年，南方蓄奴州宣布脱离联邦，内战爆发。葛底斯堡战役成为转折点，林肯颁布《解放宣言》赋予黑人自由。1865年北军胜利，奴隶制被废除，但重建之路漫长。南北战争维护了国家统一，也深刻重塑了美国的社会结构与政治理念。",
       "image": "res://assets/images/illustrations/world_history/world_history_094.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_094_pixel.jpg",
       "image_grid": {
@@ -1998,9 +1998,9 @@
     },
     {
       "id": "world_history_095",
-      "title": "世界通史 - 图片96",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "第一次世界大战",
+      "summary": "公元一九一四年，萨拉热窝的枪声引爆了欧洲火药桶，同盟国与协约...",
+      "full_text": "公元一九一四年，萨拉热窝的枪声引爆了欧洲火药桶，同盟国与协约国在战壕中对峙四年。索姆河战役中坦克首次登场，毒气弥漫无人区，一千六百万人死于战火。四大帝国崩溃，凡尔赛和约埋下新仇旧恨，一战终结了欧洲的旧秩序，却未能带来持久的和平。",
       "image": "res://assets/images/illustrations/world_history/world_history_095.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_095_pixel.jpg",
       "image_grid": {
@@ -2019,9 +2019,9 @@
     },
     {
       "id": "world_history_096",
-      "title": "世界通史 - 图片97",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "俄国十月革命",
+      "summary": "公元一九一七年十一月七日，列宁率布尔什维克攻占冬宫，推翻临时...",
+      "full_text": "公元一九一七年十一月七日，列宁率布尔什维克攻占冬宫，推翻临时政府，建立世界上第一个社会主义国家。土地与面包的承诺赢得了工农拥护，苏维埃政权在内战与封锁中站稳脚跟，十月革命开辟了人类历史的新纪元，深刻改变了二十世纪的世界格局。",
       "image": "res://assets/images/illustrations/world_history/world_history_096.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_096_pixel.jpg",
       "image_grid": {
@@ -2040,9 +2040,9 @@
     },
     {
       "id": "world_history_097",
-      "title": "世界通史 - 图片98",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "第二次世界大战",
+      "summary": "公元一九三九年，纳粹德国闪击波兰，世界大战再度爆发。奥斯维辛...",
+      "full_text": "公元一九三九年，纳粹德国闪击波兰，世界大战再度爆发。奥斯维辛的烟囱吞噬了六百万犹太人，广岛上空升起蘑菇云，六千万人死于战火。1945年同盟国胜利，纽伦堡审判确立了反人类罪的先例，联合国成立试图防止悲剧重演，人类在废墟中反思文明的底线。",
       "image": "res://assets/images/illustrations/world_history/world_history_097.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_097_pixel.jpg",
       "image_grid": {
@@ -2061,9 +2061,9 @@
     },
     {
       "id": "world_history_098",
-      "title": "世界通史 - 图片99",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "冷战对峙格局",
+      "summary": "公元一九四七年，杜鲁门主义出台，美苏两大阵营铁幕对峙。柏林墙...",
+      "full_text": "公元一九四七年，杜鲁门主义出台，美苏两大阵营铁幕对峙。柏林墙将一座城市劈为两半，古巴导弹危机将世界推向核战边缘，太空竞赛将人类送上月球。军备竞赛消耗了巨额资源，代理人战争在亚非拉蔓延，冷战定义了半个世纪的国际秩序。",
       "image": "res://assets/images/illustrations/world_history/world_history_098.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_098_pixel.jpg",
       "image_grid": {
@@ -2082,9 +2082,9 @@
     },
     {
       "id": "world_history_099",
-      "title": "世界通史 - 图片100",
-      "summary": "世界通史相关图片",
-      "full_text": "世界历史的长河中，人类文明不断发展进步，从史前时代到现代社会，每一个时代都有其独特的魅力。",
+      "title": "人类首次登月",
+      "summary": "公元一九六九年七月二十日，阿波罗十一号指令长阿姆斯特朗踏上月...",
+      "full_text": "公元一九六九年七月二十日，阿波罗十一号指令长阿姆斯特朗踏上月球表面，留下了人类在另一个天体上的第一个脚印。全球六亿人通过电视见证了这一时刻，这是个人的一小步，却是人类的一大步。登月不仅是科技的胜利，更是人类探索精神的永恒丰碑。",
       "image": "res://assets/images/illustrations/world_history/world_history_099.jpg",
       "pixel_image": "res://assets/images/illustrations/world_history/world_history_099_pixel.jpg",
       "image_grid": {

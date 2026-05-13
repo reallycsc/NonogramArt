@@ -4,8 +4,8 @@
     {
       "id": "festivals_000",
       "title": "春节贴春联",
-      "summary": "春节家家户户贴春联，红纸金字辞旧迎新，阖家团圆喜庆",
-      "full_text": "春节家家户户贴春联，红纸金字辞旧迎新，阖家团圆喜庆",
+      "summary": "除夕家家户户贴春联，红纸黑墨书写吉祥对联贴于门框，福字倒贴寓...",
+      "full_text": "除夕家家户户贴春联，红纸黑墨书写吉祥对联贴于门框，福字倒贴寓意福到。春联源于古代桃符，是春节最具仪式感的传统，红色驱邪纳福。",
       "image": "res://assets/images/illustrations/festivals/festivals_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "festivals_001",
-      "title": "除夕年夜饭",
-      "summary": "除夕年夜饭全家围坐，饺子鱼年年有余，最温暖的团圆",
-      "full_text": "除夕年夜饭全家围坐，饺子鱼年年有余，最温暖的团圆",
+      "title": "春节年夜饭",
+      "summary": "大年三十全家围坐吃年夜饭，饺子如元宝鱼寓年年有余，长辈给晚辈...",
+      "full_text": "大年三十全家围坐吃年夜饭，饺子如元宝鱼寓年年有余，长辈给晚辈压岁钱。年夜饭是中国人最重要的团圆仪式，一桌菜承载着家的温暖。",
       "image": "res://assets/images/illustrations/festivals/festivals_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "festivals_002",
-      "title": "元宵赏花灯",
-      "summary": "元宵节赏花灯猜灯谜，汤圆甜蜜团圆，火树银花不夜天",
-      "full_text": "元宵节赏花灯猜灯谜，汤圆甜蜜团圆，火树银花不夜天",
+      "title": "春节放鞭炮",
+      "summary": "大年初一鞭炮齐鸣，红色纸屑铺满地面如地毯，传说驱赶年兽辞旧迎...",
+      "full_text": "大年初一鞭炮齐鸣，红色纸屑铺满地面如地毯，传说驱赶年兽辞旧迎新。鞭炮是春节最热闹的声音，虽然城市已禁放但乡村仍保留传统。",
       "image": "res://assets/images/illustrations/festivals/festivals_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "festivals_003",
-      "title": "清明扫墓祭祖",
-      "summary": "清明节扫墓祭祖，踏青折柳思故人，慎终追远不忘本",
-      "full_text": "清明节扫墓祭祖，踏青折柳思故人，慎终追远不忘本",
+      "title": "春节舞龙灯",
+      "summary": "元宵节舞龙灯，十余人举着竹布长龙翻腾起舞，龙头追逐龙珠，锣鼓...",
+      "full_text": "元宵节舞龙灯，十余人举着竹布长龙翻腾起舞，龙头追逐龙珠，锣鼓喧天。舞龙是春节庆典的高潮，祈求风调雨顺五谷丰登。",
       "image": "res://assets/images/illustrations/festivals/festivals_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "festivals_004",
-      "title": "端午赛龙舟",
-      "summary": "端午节赛龙舟吃粽子，纪念屈原投江，鼓声震天竞渡",
-      "full_text": "端午节赛龙舟吃粽子，纪念屈原投江，鼓声震天竞渡",
+      "title": "元宵赏花灯",
+      "summary": "正月十五花灯满街，兔子灯荷花灯走马灯流光溢彩，猜灯谜人群熙攘...",
+      "full_text": "正月十五花灯满街，兔子灯荷花灯走马灯流光溢彩，猜灯谜人群熙攘。元宵节是春节的尾声，也是中国最古老的灯会节日。",
       "image": "res://assets/images/illustrations/festivals/festivals_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "festivals_005",
-      "title": "七夕鹊桥相会",
-      "summary": "七夕节牛郎织女鹊桥相会，乞巧穿针，中国情人节浪漫",
-      "full_text": "七夕节牛郎织女鹊桥相会，乞巧穿针，中国情人节浪漫",
+      "title": "清明扫墓祭祖",
+      "summary": "清明节全家上山扫墓，除草培土焚香烧纸，献上鲜花和供品，缅怀先...",
+      "full_text": "清明节全家上山扫墓，除草培土焚香烧纸，献上鲜花和供品，缅怀先人。清明是中国最重要的祭祀节日，慎终追远是民族的文化基因。",
       "image": "res://assets/images/illustrations/festivals/festivals_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "festivals_006",
-      "title": "中秋赏月",
-      "summary": "中秋节赏月吃月饼，嫦娥奔月传说，天涯共此时",
-      "full_text": "中秋节赏月吃月饼，嫦娥奔月传说，天涯共此时",
+      "title": "端午赛龙舟",
+      "summary": "端午节龙舟竞渡，数十人划桨如飞，鼓声震天，岸边观众呐喊助威。...",
+      "full_text": "端午节龙舟竞渡，数十人划桨如飞，鼓声震天，岸边观众呐喊助威。赛龙舟是端午节最激动人心的活动，纪念爱国诗人屈原。",
       "image": "res://assets/images/illustrations/festivals/festivals_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "festivals_007",
-      "title": "重阳登高",
-      "summary": "重阳节登高饮菊花酒，插茱萸敬老，秋高气爽登临",
-      "full_text": "重阳节登高饮菊花酒，插茱萸敬老，秋高气爽登临",
+      "title": "端午包粽子",
+      "summary": "端午节包粽子，箬叶裹糯米填入馅料，棉线扎紧，大火煮三小时满屋...",
+      "full_text": "端午节包粽子，箬叶裹糯米填入馅料，棉线扎紧，大火煮三小时满屋飘香。粽子是端午最具代表性的食物，南北甜咸各有千秋。",
       "image": "res://assets/images/illustrations/festivals/festivals_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "festivals_008",
-      "title": "腊八熬粥",
-      "summary": "腊八节熬腊八粥，八种谷物干果，佛成道日祈福",
-      "full_text": "腊八节熬腊八粥，八种谷物干果，佛成道日祈福",
+      "title": "七夕鹊桥相会",
+      "summary": "七夕夜牛郎织女鹊桥相会，姑娘们在月下穿针乞巧，祈求心灵手巧。...",
+      "full_text": "七夕夜牛郎织女鹊桥相会，姑娘们在月下穿针乞巧，祈求心灵手巧。七夕是中国最浪漫的传统节日，源于汉代对星宿的崇拜。",
       "image": "res://assets/images/illustrations/festivals/festivals_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "festivals_009",
-      "title": "冬至饺子",
-      "summary": "冬至北方吃饺子南方吃汤圆，数九寒天开始，亚岁大如年",
-      "full_text": "冬至北方吃饺子南方吃汤圆，数九寒天开始，亚岁大如年",
+      "title": "中秋赏月",
+      "summary": "中秋之夜全家赏月，圆月如盘挂天际，月饼莲蓉蛋黄甜香四溢，桂花...",
+      "full_text": "中秋之夜全家赏月，圆月如盘挂天际，月饼莲蓉蛋黄甜香四溢，桂花酒醇厚。中秋是仅次于春节的团圆节日，月圆人团圆是永恒的期盼。",
       "image": "res://assets/images/illustrations/festivals/festivals_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "festivals_010",
-      "title": "小年祭灶",
-      "summary": "小年祭灶王爷，糖瓜粘嘴上天言好事，辞旧迎新序幕",
-      "full_text": "小年祭灶王爷，糖瓜粘嘴上天言好事，辞旧迎新序幕",
+      "title": "重阳登高",
+      "summary": "重阳节登高望远，老人登山赏秋菊饮菊花酒，佩插茱萸辟邪求寿。重...",
+      "full_text": "重阳节登高望远，老人登山赏秋菊饮菊花酒，佩插茱萸辟邪求寿。重阳节是敬老节日，登高习俗源于避灾的传说。",
       "image": "res://assets/images/illustrations/festivals/festivals_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "festivals_011",
-      "title": "二月二龙抬头",
-      "summary": "二月二龙抬头理发，春耕开始万物复苏，一年好兆头",
-      "full_text": "二月二龙抬头理发，春耕开始万物复苏，一年好兆头",
+      "title": "腊八节施粥",
+      "summary": "腊月初八寺庙施粥，粥中汇集八种食材文火慢熬，信众排队领粥祈福...",
+      "full_text": "腊月初八寺庙施粥，粥中汇集八种食材文火慢熬，信众排队领粥祈福。腊八粥源于佛祖成道日，后成为民间祈福消灾的传统。",
       "image": "res://assets/images/illustrations/festivals/festivals_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "festivals_012",
-      "title": "中元节放河灯",
-      "summary": "中元节放河灯祭亡灵，荷花灯顺水飘流，寄托哀思",
-      "full_text": "中元节放河灯祭亡灵，荷花灯顺水飘流，寄托哀思",
+      "title": "冬至吃饺子",
+      "summary": "冬至北方吃饺子，全家围坐擀皮包馅，热腾腾饺子出锅蘸醋蒜。冬至...",
+      "full_text": "冬至北方吃饺子，全家围坐擀皮包馅，热腾腾饺子出锅蘸醋蒜。冬至是北半球白昼最短的一天，饺子不冻耳的传说温暖了寒冬。",
       "image": "res://assets/images/illustrations/festivals/festivals_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "festivals_013",
-      "title": "泼水节",
-      "summary": "傣族泼水节互相泼水祝福，洗去晦气迎接新年，欢乐水战",
-      "full_text": "傣族泼水节互相泼水祝福，洗去晦气迎接新年，欢乐水战",
+      "title": "小年祭灶神",
+      "summary": "腊月二十三祭灶神，供上糖瓜粘住灶王爷嘴巴，请他上天言好事回宫...",
+      "full_text": "腊月二十三祭灶神，供上糖瓜粘住灶王爷嘴巴，请他上天言好事回宫降吉祥。祭灶是小年的核心仪式，拉开了春节准备的序幕。",
       "image": "res://assets/images/illustrations/festivals/festivals_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "festivals_014",
-      "title": "火把节",
-      "summary": "彝族火把节燃火把驱邪，篝火晚会歌舞，火的盛宴",
-      "full_text": "彝族火把节燃火把驱邪，篝火晚会歌舞，火的盛宴",
+      "title": "二月二龙抬头",
+      "summary": "二月二龙抬头，理发店排长龙，大人小孩都来剃头讨吉利，吃春饼炒...",
+      "full_text": "二月二龙抬头，理发店排长龙，大人小孩都来剃头讨吉利，吃春饼炒豆。龙抬头意味着春耕开始，万物复苏阳气生发。",
       "image": "res://assets/images/illustrations/festivals/festivals_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "festivals_015",
-      "title": "那达慕大会",
-      "summary": "蒙古那达慕大会摔跤赛马射箭，草原盛会豪迈奔放",
-      "full_text": "蒙古那达慕大会摔跤赛马射箭，草原盛会豪迈奔放",
+      "title": "中元节放河灯",
+      "summary": "中元节夜河面上莲花灯随波漂流，烛光点点如星河，祭奠亡灵超度孤...",
+      "full_text": "中元节夜河面上莲花灯随波漂流，烛光点点如星河，祭奠亡灵超度孤魂。中元节是道教佛教和民间信仰融合的节日，寄托对逝者的思念。",
       "image": "res://assets/images/illustrations/festivals/festivals_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "festivals_016",
-      "title": "三月三歌圩",
-      "summary": "壮族三月三歌圩对歌，抛绣球定情，山歌传情达意",
-      "full_text": "壮族三月三歌圩对歌，抛绣球定情，山歌传情达意",
+      "title": "寒食节禁火",
+      "summary": "寒食节前后三日禁火冷食，纪念介子推焚身绵山，百姓吃冷饭不举炊...",
+      "full_text": "寒食节前后三日禁火冷食，纪念介子推焚身绵山，百姓吃冷饭不举炊烟。寒食节是清明节的前奏，忠义精神在冷食中传承。",
       "image": "res://assets/images/illustrations/festivals/festivals_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "festivals_017",
-      "title": "藏历新年",
-      "summary": "藏历新年供切玛，酥油花展跳锅庄，雪域高原喜庆",
-      "full_text": "藏历新年供切玛，酥油花展跳锅庄，雪域高原喜庆",
+      "title": "春节拜年",
+      "summary": "大年初一穿新衣拜年，晚辈给长辈磕头行礼，长辈回以红包祝福，邻...",
+      "full_text": "大年初一穿新衣拜年，晚辈给长辈磕头行礼，长辈回以红包祝福，邻里互道恭喜。拜年是春节最重要的社交礼仪，维系着亲情与乡谊。",
       "image": "res://assets/images/illustrations/festivals/festivals_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "festivals_018",
-      "title": "开斋节",
-      "summary": "穆斯林开斋节斋月结束，盛装礼拜走亲访友，感恩分享",
-      "full_text": "穆斯林开斋节斋月结束，盛装礼拜走亲访友，感恩分享",
+      "title": "春节庙会",
+      "summary": "春节庙会上人山人海，糖葫芦棉花糖叫卖声此起彼伏，杂技皮影戏轮...",
+      "full_text": "春节庙会上人山人海，糖葫芦棉花糖叫卖声此起彼伏，杂技皮影戏轮番上演。庙会是春节最热闹的公共活动，是民间文化的集中展示。",
       "image": "res://assets/images/illustrations/festivals/festivals_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "festivals_019",
-      "title": "古尔邦节",
-      "summary": "穆斯林古尔邦节宰牲献祭，分肉济贫，信仰与慈善",
-      "full_text": "穆斯林古尔邦节宰牲献祭，分肉济贫，信仰与慈善",
+      "title": "春节守岁",
+      "summary": "除夕夜全家守岁，围坐火炉旁聊天到子时，辞旧迎新钟声敲响鞭炮齐...",
+      "full_text": "除夕夜全家守岁，围坐火炉旁聊天到子时，辞旧迎新钟声敲响鞭炮齐鸣。守岁是春节最温馨的时刻，灯火通明驱走一切邪祟。",
       "image": "res://assets/images/illustrations/festivals/festivals_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "festivals_020",
-      "title": "圣诞节",
-      "summary": "圣诞节装饰圣诞树交换礼物，圣诞老人送祝福，温馨节日",
-      "full_text": "圣诞节装饰圣诞树交换礼物，圣诞老人送祝福，温馨节日",
+      "title": "圣诞节庆典",
+      "summary": "圣诞节街头彩灯闪烁，巨型圣诞树矗立广场，圣诞老人派发礼物，颂...",
+      "full_text": "圣诞节街头彩灯闪烁，巨型圣诞树矗立广场，圣诞老人派发礼物，颂歌回荡。圣诞节是西方最重要的节日，已成为全球性的文化现象。",
       "image": "res://assets/images/illustrations/festivals/festivals_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "festivals_021",
-      "title": "感恩节火鸡",
-      "summary": "感恩节烤火鸡南瓜派，家人团聚感恩，美国传统节日",
-      "full_text": "感恩节烤火鸡南瓜派，家人团聚感恩，美国传统节日",
+      "title": "感恩节火鸡宴",
+      "summary": "感恩节全家围坐，烤火鸡金黄酥脆端上桌，蔓越莓酱土豆泥南瓜派摆...",
+      "full_text": "感恩节全家围坐，烤火鸡金黄酥脆端上桌，蔓越莓酱土豆泥南瓜派摆满餐桌。感恩节是美国和加拿大的传统节日，感恩丰收与团聚。",
       "image": "res://assets/images/illustrations/festivals/festivals_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "festivals_022",
-      "title": "万圣节南瓜灯",
-      "summary": "万圣节雕刻南瓜灯，孩子讨糖trick or treat，欢乐...",
-      "full_text": "万圣节雕刻南瓜灯，孩子讨糖trick or treat，欢乐惊悚",
+      "title": "万圣节狂欢",
+      "summary": "万圣夜孩子们戴南瓜头套挨家挨户要糖果，大人们化装成鬼怪参加派...",
+      "full_text": "万圣夜孩子们戴南瓜头套挨家挨户要糖果，大人们化装成鬼怪参加派对。万圣节源于凯尔特人的萨温节，如今是全球性的狂欢节日。",
       "image": "res://assets/images/illustrations/festivals/festivals_022.jpg",
       "image_grid": {
         "x": 3,
@@ -487,8 +487,8 @@
     {
       "id": "festivals_023",
       "title": "复活节彩蛋",
-      "summary": "复活节绘制彩蛋，兔子送蛋象征新生，春日庆典",
-      "full_text": "复活节绘制彩蛋，兔子送蛋象征新生，春日庆典",
+      "summary": "复活节孩子们在花园里寻找彩蛋，鸡蛋染成彩色藏在草丛中，兔子造...",
+      "full_text": "复活节孩子们在花园里寻找彩蛋，鸡蛋染成彩色藏在草丛中，兔子造型巧克力堆满篮子。复活节是基督教最重要的节日，象征重生与希望。",
       "image": "res://assets/images/illustrations/festivals/festivals_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "festivals_024",
-      "title": "排灯节",
-      "summary": "印度排灯节点燃油灯，烟花绽放灯火辉煌，光明战胜黑暗",
-      "full_text": "印度排灯节点燃油灯，烟花绽放灯火辉煌，光明战胜黑暗",
+      "title": "情人节玫瑰",
+      "summary": "情人节街头玫瑰花束热销，情侣互赠巧克力与贺卡，餐厅烛光晚餐座...",
+      "full_text": "情人节街头玫瑰花束热销，情侣互赠巧克力与贺卡，餐厅烛光晚餐座无虚席。情人节源于古罗马和基督教传说，如今是全球性的爱情节日。",
       "image": "res://assets/images/illustrations/festivals/festivals_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "festivals_025",
-      "title": "洒红节",
-      "summary": "印度洒红节互撒彩色粉末，色彩狂欢庆祝春天，欢乐缤纷",
-      "full_text": "印度洒红节互撒彩色粉末，色彩狂欢庆祝春天，欢乐缤纷",
+      "title": "印度排灯节",
+      "summary": "排灯节夜晚千家万户点亮油灯，烟花绽放夜空，彩色粉笔绘出蓝果丽...",
+      "full_text": "排灯节夜晚千家万户点亮油灯，烟花绽放夜空，彩色粉笔绘出蓝果丽图案迎财神。排灯节是印度最盛大的节日，光明战胜黑暗的象征。",
       "image": "res://assets/images/illustrations/festivals/festivals_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "festivals_026",
-      "title": "狂欢节",
-      "summary": "巴西里约狂欢节桑巴舞游行，华丽服饰热情奔放，盛大派对",
-      "full_text": "巴西里约狂欢节桑巴舞游行，华丽服饰热情奔放，盛大派对",
+      "title": "日本新年参拜",
+      "summary": "日本新年第一天人们涌向神社初诣，投币摇铃鞠躬许愿，买御守求一...",
+      "full_text": "日本新年第一天人们涌向神社初诣，投币摇铃鞠躬许愿，买御守求一年平安。初诣是日本人新年的重要仪式，神社前人潮涌动。",
       "image": "res://assets/images/illustrations/festivals/festivals_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "festivals_027",
-      "title": "威尼斯面具节",
-      "summary": "威尼斯面具节华丽面具，中世纪贵族装扮，神秘浪漫水城",
-      "full_text": "威尼斯面具节华丽面具，中世纪贵族装扮，神秘浪漫水城",
+      "title": "泰国泼水节",
+      "summary": "泰国泼水节街头水战狂欢，人们用水枪水桶互相泼水，洗去旧年晦气...",
+      "full_text": "泰国泼水节街头水战狂欢，人们用水枪水桶互相泼水，洗去旧年晦气迎接新年。泼水节是泰国新年，也是东南亚最欢乐的节日。",
       "image": "res://assets/images/illustrations/festivals/festivals_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "festivals_028",
-      "title": "日本樱花祭",
-      "summary": "日本樱花祭赏樱野餐，花瓣纷飞如雪，物哀美学体验",
-      "full_text": "日本樱花祭赏樱野餐，花瓣纷飞如雪，物哀美学体验",
+      "title": "巴西狂欢节",
+      "summary": "里约狂欢节桑巴舞校花车巡游，舞者羽毛服饰绚烂夺目，鼓点激昂万...",
+      "full_text": "里约狂欢节桑巴舞校花车巡游，舞者羽毛服饰绚烂夺目，鼓点激昂万人共舞。巴西狂欢节是全球最盛大的派对，热情奔放是它的灵魂。",
       "image": "res://assets/images/illustrations/festivals/festivals_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "festivals_029",
-      "title": "泰国宋干节",
-      "summary": "泰国宋干节泼水迎新年，佛像沐浴祈福，全民水战狂欢",
-      "full_text": "泰国宋干节泼水迎新年，佛像沐浴祈福，全民水战狂欢",
+      "title": "西班牙奔牛节",
+      "summary": "潘普洛纳奔牛节六头公牛在街道上狂奔，勇敢者在牛群前奔跑，人群...",
+      "full_text": "潘普洛纳奔牛节六头公牛在街道上狂奔，勇敢者在牛群前奔跑，人群尖叫四散。奔牛节是西班牙最刺激的传统节日，海明威让它闻名世界。",
       "image": "res://assets/images/illustrations/festivals/festivals_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "festivals_030",
-      "title": "西班牙奔牛节",
-      "summary": "西班牙奔牛节公牛追逐人群，惊险刺激肾上腺素飙升",
-      "full_text": "西班牙奔牛节公牛追逐人群，惊险刺激肾上腺素飙升",
+      "title": "墨西哥亡灵节",
+      "summary": "墨西哥亡灵节墓地铺满万寿菊花瓣，骷髅彩绘笑脸迎人，祭台上摆满...",
+      "full_text": "墨西哥亡灵节墓地铺满万寿菊花瓣，骷髅彩绘笑脸迎人，祭台上摆满逝者生前喜爱的食物。亡灵节是对死亡的欢庆，逝者回家团聚的日子。",
       "image": "res://assets/images/illustrations/festivals/festivals_030.jpg",
       "image_grid": {
         "x": 3,
@@ -655,8 +655,8 @@
     {
       "id": "festivals_031",
       "title": "德国啤酒节",
-      "summary": "德国慕尼黑啤酒节巨型帐篷，传统皮裤装举杯畅饮",
-      "full_text": "德国慕尼黑啤酒节巨型帐篷，传统皮裤装举杯畅饮",
+      "summary": "慕尼黑啤酒节巨型帐篷内长桌排开，一升装啤酒杯碰杯声此起彼伏，...",
+      "full_text": "慕尼黑啤酒节巨型帐篷内长桌排开，一升装啤酒杯碰杯声此起彼伏，烤猪肘配酸菜。啤酒节是全球最大的民间节日，两百年巴伐利亚传统。",
       "image": "res://assets/images/illustrations/festivals/festivals_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "festivals_032",
-      "title": "苏格兰跨年",
-      "summary": "苏格兰跨年夜守岁，风笛吹响新年第一支曲，传统庆典",
-      "full_text": "苏格兰跨年夜守岁，风笛吹响新年第一支曲，传统庆典",
+      "title": "开斋节",
+      "summary": "开斋节穆斯林结束斋月，清晨沐浴更衣赴清真寺会礼，互赠美食走亲...",
+      "full_text": "开斋节穆斯林结束斋月，清晨沐浴更衣赴清真寺会礼，互赠美食走亲访友。开斋节是伊斯兰教最重要的节日之一，斋月结束的感恩与喜悦。",
       "image": "res://assets/images/illustrations/festivals/festivals_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "festivals_033",
-      "title": "墨西哥亡灵节",
-      "summary": "墨西哥亡灵节骷髅彩妆，祭坛鲜花迎接亡灵，生死欢庆",
-      "full_text": "墨西哥亡灵节骷髅彩妆，祭坛鲜花迎接亡灵，生死欢庆",
+      "title": "犹太逾越节",
+      "summary": "逾越节家宴上无酵饼苦菜和红酒摆满桌，长者讲述出埃及的故事，孩...",
+      "full_text": "逾越节家宴上无酵饼苦菜和红酒摆满桌，长者讲述出埃及的故事，孩童提问传承记忆。逾越节是犹太人最重要的节日，铭记从奴役到自由。",
       "image": "res://assets/images/illustrations/festivals/festivals_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "festivals_034",
-      "title": "日本七夕祭",
-      "summary": "日本七夕祭挂彩纸写心愿，竹枝装饰街道，浪漫祈愿",
-      "full_text": "日本七夕祭挂彩纸写心愿，竹枝装饰街道，浪漫祈愿",
+      "title": "日本盂兰盆节",
+      "summary": "盂兰盆节日本人迎祖先灵魂回家，门前燃迎火盆舞盆踊，最后送火指...",
+      "full_text": "盂兰盆节日本人迎祖先灵魂回家，门前燃迎火盆舞盆踊，最后送火指引亡灵归去。盂兰盆节是日本纪念先人的重要节日，类似中国中元节。",
       "image": "res://assets/images/illustrations/festivals/festivals_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "festivals_035",
-      "title": "韩国秋夕",
-      "summary": "韩国秋夕扫墓吃松饼，穿韩服祭祖，感恩丰收团圆",
-      "full_text": "韩国秋夕扫墓吃松饼，穿韩服祭祖，感恩丰收团圆",
+      "title": "非洲部落庆典",
+      "summary": "马赛族成年仪式上，青年身披红色束卡涂白彩，跳跃舞蹈展示力量，...",
+      "full_text": "马赛族成年仪式上，青年身披红色束卡涂白彩，跳跃舞蹈展示力量，族人围圈歌唱。非洲部落庆典是文化传承的重要方式，仪式中传递族群认同。",
       "image": "res://assets/images/illustrations/festivals/festivals_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "festivals_036",
-      "title": "法国国庆日",
-      "summary": "法国国庆日香榭丽舍阅兵，烟花照亮埃菲尔铁塔，自由庆典",
-      "full_text": "法国国庆日香榭丽舍阅兵，烟花照亮埃菲尔铁塔，自由庆典",
+      "title": "苏格兰风笛节",
+      "summary": "爱丁堡军乐节上风笛手方阵行进，格子裙随风飘扬，鼓点整齐回荡城...",
+      "full_text": "爱丁堡军乐节上风笛手方阵行进，格子裙随风飘扬，鼓点整齐回荡城堡上空。风笛节是苏格兰文化的盛大展示，传统音乐与军事仪式的融合。",
       "image": "res://assets/images/illustrations/festivals/festivals_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "festivals_037",
-      "title": "美国独立日",
-      "summary": "美国独立日烟花表演，星条旗飘扬，爱国庆典",
-      "full_text": "美国独立日烟花表演，星条旗飘扬，爱国庆典",
+      "title": "威尼斯面具狂欢",
+      "summary": "威尼斯狂欢节面具下身份消融，华服贡多拉穿行水巷，圣马可广场上...",
+      "full_text": "威尼斯狂欢节面具下身份消融，华服贡多拉穿行水巷，圣马可广场上假面舞会。威尼斯面具狂欢是欧洲最优雅的节日，面具让一切成为可能。",
       "image": "res://assets/images/illustrations/festivals/festivals_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "festivals_038",
-      "title": "中国国庆阅兵",
-      "summary": "中国国庆阅兵方阵整齐，装备展示国威，举国欢庆",
-      "full_text": "中国国庆阅兵方阵整齐，装备展示国威，举国欢庆",
+      "title": "尼泊尔洒红节",
+      "summary": "洒红节人们互撒彩色粉末，天空飘洒缤纷色雨，陌生人相拥欢笑不分...",
+      "full_text": "洒红节人们互撒彩色粉末，天空飘洒缤纷色雨，陌生人相拥欢笑不分种姓。洒红节是印度教的春之节日，色彩抹平一切差异。",
       "image": "res://assets/images/illustrations/festivals/festivals_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "festivals_039",
-      "title": "国际劳动节",
-      "summary": "五一国际劳动节游行集会，争取劳动者权益，工人运动纪念",
-      "full_text": "五一国际劳动节游行集会，争取劳动者权益，工人运动纪念",
+      "title": "土耳其旋转舞",
+      "summary": "梅夫拉纳节上苏菲旋转舞者白袍展开如花，持续旋转进入忘我之境，...",
+      "full_text": "梅夫拉纳节上苏菲旋转舞者白袍展开如花，持续旋转进入忘我之境，笛声悠扬。旋转舞是苏菲派的精神修行，在旋转中接近真主。",
       "image": "res://assets/images/illustrations/festivals/festivals_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "festivals_040",
-      "title": "母亲节康乃馨",
-      "summary": "母亲节送康乃馨感恩母爱，陪伴母亲表达爱意，温馨节日",
-      "full_text": "母亲节送康乃馨感恩母爱，陪伴母亲表达爱意，温馨节日",
+      "title": "日本成人节",
+      "summary": "日本成人节上二十岁青年身着振袖和服参拜神社，女生发髻精致男生...",
+      "full_text": "日本成人节上二十岁青年身着振袖和服参拜神社，女生发髻精致男生西装革履。成人节是日本青年迈入成年的仪式，和服中寄托着对未来的期许。",
       "image": "res://assets/images/illustrations/festivals/festivals_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "festivals_041",
-      "title": "父亲节领带",
-      "summary": "父亲节送领带礼物，感恩父爱如山，表达敬意",
-      "full_text": "父亲节送领带礼物，感恩父爱如山，表达敬意",
+      "title": "挪威仲夏节",
+      "summary": "挪威仲夏节人们在海边竖起花柱围圈跳舞，篝火在极昼的午夜燃烧，...",
+      "full_text": "挪威仲夏节人们在海边竖起花柱围圈跳舞，篝火在极昼的午夜燃烧，庆祝白夜来临。仲夏节是北欧最盛大的夏季节日，阳光是最大的庆典。",
       "image": "res://assets/images/illustrations/festivals/festivals_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "festivals_042",
-      "title": "情人节玫瑰",
-      "summary": "情人节送玫瑰巧克力，情侣表达爱意，浪漫节日",
-      "full_text": "情人节送玫瑰巧克力，情侣表达爱意，浪漫节日",
+      "title": "墨西哥独立日",
+      "summary": "墨西哥独立日夜晚总统在阳台上敲钟高呼独立万岁，市民挥舞绿白红...",
+      "full_text": "墨西哥独立日夜晚总统在阳台上敲钟高呼独立万岁，市民挥舞绿白红三色旗，烟花照亮夜空。独立日是墨西哥最庄严的国庆，纪念一八一零年的独立呼声。",
       "image": "res://assets/images/illustrations/festivals/festivals_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "festivals_043",
-      "title": "植树节",
-      "summary": "植树节种树绿化环境，全民参与生态保护，绿色行动",
-      "full_text": "植树节种树绿化环境，全民参与生态保护，绿色行动",
+      "title": "南非自由日",
+      "summary": "南非自由日纪念一九九四年首次民主选举，各族人民在投票站前排起...",
+      "full_text": "南非自由日纪念一九九四年首次民主选举，各族人民在投票站前排起长队，种族隔离终结。自由日是南非民主的诞生日，平等与尊严的胜利。",
       "image": "res://assets/images/illustrations/festivals/festivals_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "festivals_044",
-      "title": "世界环境日",
-      "summary": "世界环境日关注生态，减少污染保护地球，环保意识",
-      "full_text": "世界环境日关注生态，减少污染保护地球，环保意识",
+      "title": "澳大利亚澳新军团日",
+      "summary": "澳新军团日黎明时分老兵列队行进，胸前勋章闪耀，民众献红色虞美...",
+      "full_text": "澳新军团日黎明时分老兵列队行进，胸前勋章闪耀，民众献红色虞美人花圈。澳新军团日纪念加里波利战役的牺牲，是澳新两国最庄严的纪念日。",
       "image": "res://assets/images/illustrations/festivals/festivals_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "festivals_045",
-      "title": "儿童节欢乐",
-      "summary": "六一儿童节孩子欢乐，游园表演礼物，关爱儿童成长",
-      "full_text": "六一儿童节孩子欢乐，游园表演礼物，关爱儿童成长",
+      "title": "苗族姊妹节",
+      "summary": "苗族姊妹节姑娘们身着银饰盛装，踩鼓舞步调一致，青年男女对歌传...",
+      "full_text": "苗族姊妹节姑娘们身着银饰盛装，踩鼓舞步调一致，青年男女对歌传情。姊妹节是苗族最浪漫的节日，被称为东方最古老的情人节。",
       "image": "res://assets/images/illustrations/festivals/festivals_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "festivals_046",
-      "title": "教师节感恩",
-      "summary": "教师节学生献花感恩，尊师重教传统，致敬园丁",
-      "full_text": "教师节学生献花感恩，尊师重教传统，致敬园丁",
+      "title": "傣族泼水节",
+      "summary": "傣族泼水节男女老少互相泼水祝福，银碗洒水如珠帘，象脚鼓声震天...",
+      "full_text": "傣族泼水节男女老少互相泼水祝福，银碗洒水如珠帘，象脚鼓声震天。泼水节是傣历新年，水是圣洁的象征，泼水即送福。",
       "image": "res://assets/images/illustrations/festivals/festivals_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "festivals_047",
-      "title": "护士节致敬",
-      "summary": "国际护士节致敬白衣天使，南丁格尔精神，守护生命",
-      "full_text": "国际护士节致敬白衣天使，南丁格尔精神，守护生命",
+      "title": "彝族火把节",
+      "summary": "彝族火把节夜空被万千火把照亮，篝火堆前达体舞步热烈，斗牛赛马...",
+      "full_text": "彝族火把节夜空被万千火把照亮，篝火堆前达体舞步热烈，斗牛赛马精彩纷呈。火把节是彝族最盛大的节日，火的崇拜与狂欢交织。",
       "image": "res://assets/images/illustrations/festivals/festivals_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "festivals_048",
-      "title": "跨年倒计时",
-      "summary": "跨年倒计时烟花绽放，新年钟声敲响，全球欢庆时刻",
-      "full_text": "跨年倒计时烟花绽放，新年钟声敲响，全球欢庆时刻",
+      "title": "蒙古族那达慕",
+      "summary": "那达慕大会上骑手策马竞速，摔跤手弓步对峙，射箭手百步穿杨，草...",
+      "full_text": "那达慕大会上骑手策马竞速，摔跤手弓步对峙，射箭手百步穿杨，草原欢腾。那达慕是蒙古族的传统盛会，男儿三艺展现草原精神。",
       "image": "res://assets/images/illustrations/festivals/festivals_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "festivals_049",
-      "title": "元宵灯会",
-      "summary": "元宵灯会花灯璀璨，龙灯舞狮热闹非凡，传统民俗盛景",
-      "full_text": "元宵灯会花灯璀璨，龙灯舞狮热闹非凡，传统民俗盛景",
+      "title": "壮族三月三",
+      "summary": "壮族三月三歌圩上男女对歌传情，五色糯米饭摆满桌，抛绣球定情缘...",
+      "full_text": "壮族三月三歌圩上男女对歌传情，五色糯米饭摆满桌，抛绣球定情缘。三月三是壮族最盛大的歌节，歌声是青年最动听的情书。",
       "image": "res://assets/images/illustrations/festivals/festivals_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "festivals_050",
-      "title": "龙舟竞渡",
-      "summary": "龙舟竞渡鼓声震天，桨手齐心破浪，水上速度激情",
-      "full_text": "龙舟竞渡鼓声震天，桨手齐心破浪，水上速度激情",
+      "title": "藏族雪顿节",
+      "summary": "雪顿节哲蚌寺巨幅唐卡展佛，藏戏演员戴面具表演，酸奶宴款待僧俗...",
+      "full_text": "雪顿节哲蚌寺巨幅唐卡展佛，藏戏演员戴面具表演，酸奶宴款待僧俗。雪顿节意为酸奶宴，是拉萨最盛大的宗教民俗节日。",
       "image": "res://assets/images/illustrations/festivals/festivals_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "festivals_051",
-      "title": "庙会集市",
-      "summary": "传统庙会集市人潮涌动，小吃杂耍年货，民俗文化盛宴",
-      "full_text": "传统庙会集市人潮涌动，小吃杂耍年货，民俗文化盛宴",
+      "title": "侗族大歌节",
+      "summary": "侗族大歌节上数百人合唱无指挥无伴奏，多声部自然和声如天籁，鼓...",
+      "full_text": "侗族大歌节上数百人合唱无指挥无伴奏，多声部自然和声如天籁，鼓楼前歌声回荡。侗族大歌是人与自然和谐的声音，列入人类非物质文化遗产。",
       "image": "res://assets/images/illustrations/festivals/festivals_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "festivals_052",
-      "title": "社火表演",
-      "summary": "西北社火表演踩高跷，旱船秧歌热闹，民间艺术巡游",
-      "full_text": "西北社火表演踩高跷，旱船秧歌热闹，民间艺术巡游",
+      "title": "瑶族盘王节",
+      "summary": "瑶族盘王节祭祀始祖盘瓠，长鼓舞节奏铿锵，师公诵经祈福，族人齐...",
+      "full_text": "瑶族盘王节祭祀始祖盘瓠，长鼓舞节奏铿锵，师公诵经祈福，族人齐聚。盘王节是瑶族最隆重的传统节日，缅怀祖先传承文化。",
       "image": "res://assets/images/illustrations/festivals/festivals_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "festivals_053",
-      "title": "舞龙舞狮",
-      "summary": "舞龙舞狮锣鼓喧天，龙腾狮跃纳福驱邪，传统庆典",
-      "full_text": "舞龙舞狮锣鼓喧天，龙腾狮跃纳福驱邪，传统庆典",
+      "title": "白族三月街",
+      "summary": "大理三月街千年集市人潮涌动，白族姑娘金花头饰闪亮，药材茶叶珠...",
+      "full_text": "大理三月街千年集市人潮涌动，白族姑娘金花头饰闪亮，药材茶叶珠宝琳琅满目。三月街是白族最盛大的节日和贸易盛会，始于唐代。",
       "image": "res://assets/images/illustrations/festivals/festivals_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "festivals_054",
-      "title": "花车游行",
-      "summary": "花车游行彩车巡游，乐队演奏人群欢呼，盛大庆典",
-      "full_text": "花车游行彩车巡游，乐队演奏人群欢呼，盛大庆典",
+      "title": "土家族摆手舞",
+      "summary": "土家族摆手堂前千人同跳摆手舞，手随鼓点摆动如波浪，祭祀土王祈...",
+      "full_text": "土家族摆手堂前千人同跳摆手舞，手随鼓点摆动如波浪，祭祀土王祈丰收。摆手舞是土家族最隆重的集体舞蹈，承载着民族的集体记忆。",
       "image": "res://assets/images/illustrations/festivals/festivals_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "festivals_055",
-      "title": "篝火晚会",
-      "summary": "篝火晚会围火歌舞，火光映照笑脸，部落传统庆典",
-      "full_text": "篝火晚会围火歌舞，火光映照笑脸，部落传统庆典",
+      "title": "哈萨克族叼羊",
+      "summary": "哈萨克草原上骑手争抢羊羔，骏马飞驰人仰马翻，夺得羊羔者骑马抛...",
+      "full_text": "哈萨克草原上骑手争抢羊羔，骏马飞驰人仰马翻，夺得羊羔者骑马抛入对方篮中。叼羊是哈萨克族最激烈的马上运动，勇气与骑术的较量。",
       "image": "res://assets/images/illustrations/festivals/festivals_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "festivals_056",
-      "title": "放天灯祈福",
-      "summary": "放天灯写心愿升空，万千灯火如星，祈福许愿",
-      "full_text": "放天灯写心愿升空，万千灯火如星，祈福许愿",
+      "title": "黎族三月三",
+      "summary": "黎族三月三青年男女对歌定情，姑娘织锦赠情郎，竹竿舞节奏欢快。...",
+      "full_text": "黎族三月三青年男女对歌定情，姑娘织锦赠情郎，竹竿舞节奏欢快。三月三是黎族的爱情节日，也是祭祀祖先的传统佳节。",
       "image": "res://assets/images/illustrations/festivals/festivals_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "festivals_057",
-      "title": "赛马节",
-      "summary": "草原赛马节骏马奔腾，骑手策马扬鞭，速度与豪情",
-      "full_text": "草原赛马节骏马奔腾，骑手策马扬鞭，速度与豪情",
+      "title": "羌族瓦尔俄足",
+      "summary": "羌族瓦尔俄足节上女性身着精美刺绣服饰，祭祀天神唱古老歌谣，莎...",
+      "full_text": "羌族瓦尔俄足节上女性身着精美刺绣服饰，祭祀天神唱古老歌谣，莎朗舞步轻盈。瓦尔俄足是羌族女性专属的节日，颂扬女性美德与智慧。",
       "image": "res://assets/images/illustrations/festivals/festivals_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "festivals_058",
-      "title": "丰收节庆典",
-      "summary": "丰收节庆祝五谷丰登，载歌载舞感恩大地，农民节日",
-      "full_text": "丰收节庆祝五谷丰登，载歌载舞感恩大地，农民节日",
+      "title": "布依族六月六",
+      "summary": "布依族六月六祭祀山神田神，糯米饭染五色供于田间，对歌赛歌热闹...",
+      "full_text": "布依族六月六祭祀山神田神，糯米饭染五色供于田间，对歌赛歌热闹非凡。六月六是布依族最隆重的传统节日，祈求风调雨顺五谷丰登。",
       "image": "res://assets/images/illustrations/festivals/festivals_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "festivals_059",
-      "title": "冰雪节",
-      "summary": "哈尔滨冰雪节冰雕璀璨，彩灯映照冰城，冬日奇观",
-      "full_text": "哈尔滨冰雪节冰雕璀璨，彩灯映照冰城，冬日奇观",
+      "title": "水族端节",
+      "summary": "水族端节是世界上最长的年节，从端节首寨到末寨历时四十九天，铜...",
+      "full_text": "水族端节是世界上最长的年节，从端节首寨到末寨历时四十九天，铜鼓声声祭祖。端节是水族最盛大的节日，赛马是节日最精彩的活动。",
       "image": "res://assets/images/illustrations/festivals/festivals_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "festivals_060",
-      "title": "龙舟水乡",
-      "summary": "江南水乡龙舟竞渡，河道两岸人山人海，传统端午盛景",
-      "full_text": "江南水乡龙舟竞渡，河道两岸人山人海，传统端午盛景",
+      "title": "景颇族目瑙纵歌",
+      "summary": "目瑙纵歌万人同舞，男女老少排成长龙绕柱而舞，目瑙示栋上绘有太...",
+      "full_text": "目瑙纵歌万人同舞，男女老少排成长龙绕柱而舞，目瑙示栋上绘有太阳和犀鸟。目瑙纵歌是景颇族最盛大的节日，万人齐舞场面壮观。",
       "image": "res://assets/images/illustrations/festivals/festivals_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "festivals_061",
-      "title": "灯会猜谜",
-      "summary": "灯会猜灯谜悬挂彩灯，文人雅士斗智，传统文化趣味",
-      "full_text": "灯会猜灯谜悬挂彩灯，文人雅士斗智，传统文化趣味",
+      "title": "拉祜族扩塔节",
+      "summary": "拉祜族扩塔节上芦笙悠扬，男女手拉手围圈跳舞，舂粑粑祭祖祈求丰...",
+      "full_text": "拉祜族扩塔节上芦笙悠扬，男女手拉手围圈跳舞，舂粑粑祭祖祈求丰收。扩塔节是拉祜族的春节，芦笙是节日最动听的声音。",
       "image": "res://assets/images/illustrations/festivals/festivals_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "festivals_062",
-      "title": "民俗巡游",
-      "summary": "民俗巡游队伍穿街走巷，传统服饰乐器，文化传承展示",
-      "full_text": "民俗巡游队伍穿街走巷，传统服饰乐器，文化传承展示",
+      "title": "仫佬族依饭节",
+      "summary": "仫佬族依饭节祭祀祖先和神灵，道公做法事祈求人丁兴旺五谷丰登，...",
+      "full_text": "仫佬族依饭节祭祀祖先和神灵，道公做法事祈求人丁兴旺五谷丰登，宴席连开三天。依饭节是仫佬族最独特的节日，感恩与祈福是核心主题。",
       "image": "res://assets/images/illustrations/festivals/festivals_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "festivals_063",
-      "title": "泼水节",
-      "summary": "傣族泼水节相互泼水祝福，水花飞溅欢乐祥和，新年庆典",
-      "full_text": "傣族泼水节相互泼水祝福，水花飞溅欢乐祥和，新年庆典",
+      "title": "毛南族分龙节",
+      "summary": "毛南族分龙节祭祀龙王，肥鸭供奉祈求风调雨顺，花竹帽编织比赛展...",
+      "full_text": "毛南族分龙节祭祀龙王，肥鸭供奉祈求风调雨顺，花竹帽编织比赛展示手艺。分龙节是毛南族最重要的节日，祈求龙王赐予好年景。",
       "image": "res://assets/images/illustrations/festivals/festivals_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "festivals_064",
-      "title": "开斋节",
-      "summary": "伊斯兰开斋节斋月结束，亲友相聚美食分享，宗教节日",
-      "full_text": "伊斯兰开斋节斋月结束，亲友相聚美食分享，宗教节日",
+      "title": "春节贴窗花",
+      "summary": "春节前妇女剪窗花，红纸在剪刀下变成喜鹊登梅、连年有余等吉祥图...",
+      "full_text": "春节前妇女剪窗花，红纸在剪刀下变成喜鹊登梅、连年有余等吉祥图案，贴于窗棂。窗花是民间剪纸艺术的精华，红色图案映亮了整个春节。",
       "image": "res://assets/images/illustrations/festivals/festivals_064.jpg",
       "image_grid": {
         "x": 3,

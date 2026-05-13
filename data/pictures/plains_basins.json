@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "plains_basins_000",
-      "title": "亚马逊平原",
-      "summary": "亚马逊平原热带雨林密布是世界最大冲积平原",
-      "full_text": "亚马逊平原热带雨林密布是世界最大冲积平原",
+      "title": "北美大平原辽阔",
+      "summary": "北美大平原从加拿大中部延伸至墨西哥湾，宽800公里一望无际。...",
+      "full_text": "北美大平原从加拿大中部延伸至墨西哥湾，宽800公里一望无际。曾是数千万头美洲野牛的家园，如今麦田金黄如海，龙卷风在远处旋转，牛仔骑马驱赶牛群，天际线与草原融为一体。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "plains_basins_001",
-      "title": "东欧平原",
-      "summary": "东欧平原广袤无垠麦田金黄延伸至地平线尽头",
-      "full_text": "东欧平原广袤无垠麦田金黄延伸至地平线尽头",
+      "title": "潘帕斯草原牧歌",
+      "summary": "阿根廷潘帕斯草原肥沃无垠，高乔人骑马驰骋在翠绿草海上。这里是...",
+      "full_text": "阿根廷潘帕斯草原肥沃无垠，高乔人骑马驰骋在翠绿草海上。这里是世界最重要农牧区之一，牛群在围栏牧场中悠闲吃草，向日葵田金黄灿烂，布宜诺斯艾利斯在草原尽头若隐若现。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "plains_basins_002",
-      "title": "西西伯利亚平原",
-      "summary": "西西伯利亚平原沼泽密布白桦林延伸至天际",
-      "full_text": "西西伯利亚平原沼泽密布白桦林延伸至天际",
+      "title": "东欧平原麦浪",
+      "summary": "东欧平原是世界最大平原之一，从波罗的海延伸至乌拉尔山脉。乌克...",
+      "full_text": "东欧平原是世界最大平原之一，从波罗的海延伸至乌拉尔山脉。乌克兰黑土地带麦浪翻滚如金色海洋，联合收割机在田间轰鸣，第聂伯河蜿蜒穿过平原，向日葵花海在阳光下灿烂。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "plains_basins_003",
-      "title": "北美大平原",
-      "summary": "北美大平原上牛群在无边草地上悠闲地吃草",
-      "full_text": "北美大平原上牛群在无边草地上悠闲地吃草",
+      "title": "西西伯利亚平原",
+      "summary": "西西伯利亚平原面积260万平方公里，世界最大平原之一。鄂毕河...",
+      "full_text": "西西伯利亚平原面积260万平方公里，世界最大平原之一。鄂毕河在平坦冻土上蜿蜒流淌，秋季白桦林金黄如画，驯鹿在苔原上迁徙，天然气管道穿越荒原，冬季气温低至零下五十度。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "plains_basins_004",
-      "title": "拉普拉塔平原",
-      "summary": "拉普拉塔平原潘帕斯草原一望无际绿草如茵",
-      "full_text": "拉普拉塔平原潘帕斯草原一望无际绿草如茵",
+      "title": "印度恒河平原",
+      "summary": "恒河平原是印度人口最稠密的农业区，恒河冲积形成肥沃土壤。稻田...",
+      "full_text": "恒河平原是印度人口最稠密的农业区，恒河冲积形成肥沃土壤。稻田翠绿层叠，水牛在田间耕作，恒河沐浴的信徒虔诚祈祷，瓦拉纳西河坛灯火通明，季风雨季带来充沛降水。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "plains_basins_005",
-      "title": "印度河平原",
-      "summary": "印度河平原上灌溉渠道纵横交错麦浪翻滚如海",
-      "full_text": "印度河平原上灌溉渠道纵横交错麦浪翻滚如海",
+      "title": "华北平原麦收",
+      "summary": "华北平原是中国最大平原，黄河冲积形成千里沃野。六月麦收季节金...",
+      "full_text": "华北平原是中国最大平原，黄河冲积形成千里沃野。六月麦收季节金黄麦浪翻涌，联合收割机日夜作业，冬小麦产量占全国六成，太行山在平原西缘如屏障矗立，麦秸焚烧烟霭弥漫。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "plains_basins_006",
-      "title": "恒河平原",
-      "summary": "恒河平原稻田密布河流蜿蜒流过人口稠密大地",
-      "full_text": "恒河平原稻田密布河流蜿蜒流过人口稠密大地",
+      "title": "东北平原黑土",
+      "summary": "东北平原拥有世界三大黑土带之一，土壤有机质含量极高。春播时节...",
+      "full_text": "东北平原拥有世界三大黑土带之一，土壤有机质含量极高。春播时节大豆玉米一望无际，黑土如油膏般肥沃，白鹤在湿地中觅食，三江平原沼泽密布，北大仓从荒原变为粮仓。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "plains_basins_007",
-      "title": "华北平原",
-      "summary": "华北平原麦田连片村庄星罗棋布展现农业文明",
-      "full_text": "华北平原麦田连片村庄星罗棋布展现农业文明",
+      "title": "亚马逊冲积平原",
+      "summary": "亚马逊河冲积平原覆盖世界最大热带雨林，河网密布如叶脉。洪水季...",
+      "full_text": "亚马逊河冲积平原覆盖世界最大热带雨林，河网密布如叶脉。洪水季河水上涨十米淹没森林，粉红河豚在树间游弋，巨莲叶片直径两米可承重，金刚鹦鹉在树冠层鸣叫飞翔。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "plains_basins_008",
-      "title": "东北平原",
-      "summary": "东北平原黑土地肥沃大豆高粱田野一望无际",
-      "full_text": "东北平原黑土地肥沃大豆高粱田野一望无际",
+      "title": "尼罗河河谷绿洲",
+      "summary": "尼罗河河谷如绿色丝带穿越撒哈拉沙漠，古埃及文明在此诞生。阿斯...",
+      "full_text": "尼罗河河谷如绿色丝带穿越撒哈拉沙漠，古埃及文明在此诞生。阿斯旺大坝调节洪水灌溉农田，甘蔗田和棉花田沿河铺展，纸莎草在河岸摇曳，卢克索神殿矗立在棕榈树间。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "plains_basins_009",
-      "title": "长江中下游平原",
-      "summary": "长江中下游平原水网密布鱼米之乡稻浪金黄",
-      "full_text": "长江中下游平原水网密布鱼米之乡稻浪金黄",
+      "title": "美索不达米亚平原",
+      "summary": "两河流域美索不达米亚平原是人类文明摇篮，底格里斯河与幼发拉底...",
+      "full_text": "两河流域美索不达米亚平原是人类文明摇篮，底格里斯河与幼发拉底河冲积而成。苏美尔人发明楔形文字，巴比伦空中花园传说流传千年，如今油田井架林立，椰枣林在河畔连绵。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "plains_basins_010",
-      "title": "关东平原",
-      "summary": "日本关东平原上东京都市圈与周边农田交错分布",
-      "full_text": "日本关东平原上东京都市圈与周边农田交错分布",
+      "title": "拉普拉塔河口",
+      "summary": "拉普拉塔河是世界最宽河口，布宜诺斯艾利斯与蒙得维的亚隔河相望...",
+      "full_text": "拉普拉塔河是世界最宽河口，布宜诺斯艾利斯与蒙得维的亚隔河相望。河宽达220公里如内海，淡水与海水交汇形成独特生态，南美鼠海豚在河口游弋，河岸湿地候鸟群飞。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "plains_basins_011",
-      "title": "中欧平原",
-      "summary": "中欧平原上莱茵河畔葡萄园梯田层层叠叠",
-      "full_text": "中欧平原上莱茵河畔葡萄园梯田层层叠叠",
+      "title": "刚果盆地雨林",
+      "summary": "刚果盆地是世界最大盆地，面积337万平方公里被赤道雨林覆盖。...",
+      "full_text": "刚果盆地是世界最大盆地，面积337万平方公里被赤道雨林覆盖。山地大猩猩在林间觅食，森林象踏出小径，奥卡皮鹿隐蔽在灌木中，刚果河水量仅次于亚马逊，生物多样性惊人。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "plains_basins_012",
-      "title": "美索不达米亚平原",
-      "summary": "两河流域美索不达米亚平原孕育了人类最早文明",
-      "full_text": "两河流域美索不达米亚平原孕育了人类最早文明",
+      "title": "塔里木盆地沙漠",
+      "summary": "塔里木盆地是中国最大盆地，面积53万平方公里被塔克拉玛干沙漠...",
+      "full_text": "塔里木盆地是中国最大盆地，面积53万平方公里被塔克拉玛干沙漠占据。塔里木河沿盆地北缘流淌，胡杨林在河岸顽强生长三千年不死不倒不朽，油气田在沙漠深处开采。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "plains_basins_013",
-      "title": "尼罗河谷地",
-      "summary": "尼罗河谷地绿色走廊穿越沙漠生机盎然对比鲜明",
-      "full_text": "尼罗河谷地绿色走廊穿越沙漠生机盎然对比鲜明",
+      "title": "四川盆地天府",
+      "summary": "四川盆地被称为天府之国，紫色土壤肥沃物产丰饶。都江堰灌溉工程...",
+      "full_text": "四川盆地被称为天府之国，紫色土壤肥沃物产丰饶。都江堰灌溉工程两千年造福成都平原，稻田鱼塘星罗棋布，峨眉山在盆地西缘云雾缭绕，竹林中熊猫悠然啃食竹子。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "plains_basins_014",
-      "title": "湄公河三角洲",
-      "summary": "湄公河三角洲水道纵横稻田翠绿水上市场繁忙",
-      "full_text": "湄公河三角洲水道纵横稻田翠绿水上市场繁忙",
+      "title": "准噶尔盆地戈壁",
+      "summary": "准噶尔盆地夹在天山与阿尔泰山之间，盆地中央为古尔班通古特沙漠...",
+      "full_text": "准噶尔盆地夹在天山与阿尔泰山之间，盆地中央为古尔班通古特沙漠。梭梭林固定沙丘，野马在荒原上奔跑，克拉玛依油田抽油机遍布，额尔齐斯河是中国唯一流入北冰洋的河流。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "plains_basins_015",
-      "title": "尼日尔河三角洲",
-      "summary": "尼日尔河三角洲红树林沼泽中油井平台矗立",
-      "full_text": "尼日尔河三角洲红树林沼泽中油井平台矗立",
+      "title": "柴达木盆地盐湖",
+      "summary": "柴达木盆地被称为聚宝盆，盐湖遍布如镜面倒映天空。茶卡盐湖洁白...",
+      "full_text": "柴达木盆地被称为聚宝盆，盐湖遍布如镜面倒映天空。茶卡盐湖洁白如雪，察尔汗盐湖蕴藏丰富钾盐，万丈盐桥横跨湖面，雅丹地貌在风蚀中千姿百态，戈壁滩上骆驼草稀疏。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "plains_basins_016",
-      "title": "密西西比河三角洲",
-      "summary": "密西西比河三角洲沼泽湿地中白鹭翩翩起舞",
-      "full_text": "密西西比河三角洲沼泽湿地中白鹭翩翩起舞",
+      "title": "鄂尔多斯高原",
+      "summary": "鄂尔多斯高原毛乌素沙地曾是荒漠如今绿意盎然，治沙工程使流沙固...",
+      "full_text": "鄂尔多斯高原毛乌素沙地曾是荒漠如今绿意盎然，治沙工程使流沙固定。成吉思汗陵坐落在高原上，响沙湾沙鸣如钟，煤田和天然气田储量惊人，库布其沙漠光伏板如蓝色海洋。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "plains_basins_017",
-      "title": "多瑙河平原",
-      "summary": "多瑙河平原上向日葵花田金黄灿烂延伸远方",
-      "full_text": "多瑙河平原上向日葵花田金黄灿烂延伸远方",
+      "title": "巴黎盆地田园",
+      "summary": "巴黎盆地是法国最富饶的农业区，塞纳河蜿蜒穿过白垩丘陵。葡萄园...",
+      "full_text": "巴黎盆地是法国最富饶的农业区，塞纳河蜿蜒穿过白垩丘陵。葡萄园沿山坡排列产出香槟美酒，小麦田与甜菜田交错，诺曼底奶牛在牧场吃草，中世纪城堡散落乡间如童话。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "plains_basins_018",
-      "title": "墨累达令盆地平原",
-      "summary": "澳大利亚墨累达令盆地平原上羊群在牧场漫步",
-      "full_text": "澳大利亚墨累达令盆地平原上羊群在牧场漫步",
+      "title": "大自流盆地涌泉",
+      "summary": "澳大利亚大自流盆地是世界最大自流盆地，面积171万平方公里。...",
+      "full_text": "澳大利亚大自流盆地是世界最大自流盆地，面积171万平方公里。地下蓄水层承压使井水自动涌出，牧羊站面积达数千平方公里，袋鼠在灌木丛中跳跃，内陆盐湖干涸如白色荒原。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "plains_basins_019",
-      "title": "刚果盆地平原",
-      "summary": "刚果盆地平原热带雨林中河流蜿蜒穿行密林",
-      "full_text": "刚果盆地平原热带雨林中河流蜿蜒穿行密林",
+      "title": "吐鲁番盆地火洲",
+      "summary": "吐鲁番盆地是中国最低最热之处，艾丁湖海拔负154米。火焰山赤...",
+      "full_text": "吐鲁番盆地是中国最低最热之处，艾丁湖海拔负154米。火焰山赤红岩壁在烈日下如燃烧烈焰，坎儿井地下渠道引天山雪水灌溉葡萄沟，葡萄架下绿荫清凉，地表温度可达七十度。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "plains_basins_020",
-      "title": "刚果盆地",
-      "summary": "刚果盆地热带雨林茂密是地球第二大绿肺",
-      "full_text": "刚果盆地热带雨林茂密是地球第二大绿肺",
+      "title": "蒙古高原草原",
+      "summary": "蒙古高原辽阔草原一望无际碧波荡漾，牧民骑马放牧羊群如白云飘动...",
+      "full_text": "蒙古高原辽阔草原一望无际碧波荡漾，牧民骑马放牧羊群如白云飘动。蒙古包散布在草原上，鹰在天空盘旋，旱獭在洞口张望，那达慕大会上骑手飞驰，成吉思汗的传奇回荡风中。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "plains_basins_021",
-      "title": "塔里木盆地",
-      "summary": "塔里木盆地中心塔克拉玛干沙漠黄沙漫天无际",
-      "full_text": "塔里木盆地中心塔克拉玛干沙漠黄沙漫天无际",
+      "title": "塞伦盖蒂草原",
+      "summary": "塞伦盖蒂草原上百万角马大迁徙震撼壮观，斑马和瞪羚随角马群前行...",
+      "full_text": "塞伦盖蒂草原上百万角马大迁徙震撼壮观，斑马和瞪羚随角马群前行。猎豹在草丛中潜伏伺机捕猎，狮群在金合欢树下休息，鳄鱼在马拉河中等待渡河的角马，生命轮回不息。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "plains_basins_022",
-      "title": "四川盆地",
-      "summary": "四川盆地紫色土壤肥沃被誉为天府之国粮仓",
-      "full_text": "四川盆地紫色土壤肥沃被誉为天府之国粮仓",
+      "title": "北美高草草原",
+      "summary": "北美高草草原曾覆盖美国中部，草高可达两米如绿色海洋。野牛群在...",
+      "full_text": "北美高草草原曾覆盖美国中部，草高可达两米如绿色海洋。野牛群在风中低头吃草，草原犬鼠在洞穴旁警戒，穴鸮站在土堆上张望，雷电点燃自然野火更新草地，如今仅存百分之一。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "plains_basins_023",
-      "title": "准噶尔盆地",
-      "summary": "准噶尔盆地戈壁与草原交错分布荒凉而壮美",
-      "full_text": "准噶尔盆地戈壁与草原交错分布荒凉而壮美",
+      "title": "南美大查科",
+      "summary": "大查科平原横跨阿根廷玻利维亚巴拉圭，旱季干燥雨季洪水泛滥。美...",
+      "full_text": "大查科平原横跨阿根廷玻利维亚巴拉圭，旱季干燥雨季洪水泛滥。美洲豹在密林中潜行，犰狳在灌木下掘洞，仙人掌与旱生林交错分布，原住民在林中狩猎采集，旱季温度高达四十五度。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "plains_basins_024",
-      "title": "柴达木盆地",
-      "summary": "柴达木盆地盐湖遍布被称为聚宝盆银光闪烁",
-      "full_text": "柴达木盆地盐湖遍布被称为聚宝盆银光闪烁",
+      "title": "匈牙利大平原",
+      "summary": "匈牙利大平原是多瑙河冲积形成的肥沃草原，普斯塔牛仔骑马放牧灰...",
+      "full_text": "匈牙利大平原是多瑙河冲积形成的肥沃草原，普斯塔牛仔骑马放牧灰牛群。九孔桥横跨蒂萨河，白鹳在村庄烟囱上筑巢，霍尔托巴吉国家公园保留原始草原风貌，秋雾弥漫如梦。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "plains_basins_025",
-      "title": "巴黎盆地",
-      "summary": "巴黎盆地肥沃土地上麦田与葡萄园交织如画",
-      "full_text": "巴黎盆地肥沃土地上麦田与葡萄园交织如画",
+      "title": "南非高原草地",
+      "summary": "南非高原东部草地翠绿如毯，德拉肯斯堡山脉在远方如屏障。大羚羊...",
+      "full_text": "南非高原东部草地翠绿如毯，德拉肯斯堡山脉在远方如屏障。大羚羊在草地上奔跑，秃鹫在天空盘旋，祖鲁牧人驱赶牛群，雷暴在午后频繁降临，高原雷暴频率居世界之首。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "plains_basins_026",
-      "title": "大自流盆地",
-      "summary": "澳大利亚大自流盆地地下水资源丰富自流涌出",
-      "full_text": "澳大利亚大自流盆地地下水资源丰富自流涌出",
+      "title": "俄罗斯草原带",
+      "summary": "俄罗斯草原带从黑海延伸至阿尔泰山，是欧亚草原最宽阔的部分。羽...",
+      "full_text": "俄罗斯草原带从黑海延伸至阿尔泰山，是欧亚草原最宽阔的部分。羽茅草在风中如波浪翻涌，旱獭在洞穴间奔跑，草原雕在电线杆上栖息，萨满教石人散布草原，丝绸之路北道穿越其间。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "plains_basins_027",
-      "title": "费尔干纳盆地",
-      "summary": "中亚费尔干纳盆地棉花田洁白如雪果园林立",
-      "full_text": "中亚费尔干纳盆地棉花田洁白如雪果园林立",
+      "title": "中国北方草原",
+      "summary": "呼伦贝尔草原是中国最美草原，碧绿草浪在风中起伏如海。蒙古包如...",
+      "full_text": "呼伦贝尔草原是中国最美草原，碧绿草浪在风中起伏如海。蒙古包如白蘑菇散落，牧民骑马放牧牛羊，额尔古纳河蜿蜒流淌，白桦林在草原边缘金黄灿烂，百灵鸟在天空歌唱。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "plains_basins_028",
-      "title": "鄂尔多斯盆地",
-      "summary": "鄂尔多斯盆地地下蕴藏丰富能源地表草原广布",
-      "full_text": "鄂尔多斯盆地地下蕴藏丰富能源地表草原广布",
+      "title": "东非高原牧场",
+      "summary": "东非高原上马赛人驱赶牛群在稀树草原上放牧，红袍在风中飘扬。金...",
+      "full_text": "东非高原上马赛人驱赶牛群在稀树草原上放牧，红袍在风中飘扬。金合欢树如伞盖散布草原，长颈鹿在树间觅食，鸵鸟在草地上奔跑，乞力马扎罗雪山在远方闪耀，日出壮美如画。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "plains_basins_029",
-      "title": "渤海湾盆地",
-      "summary": "渤海湾盆地油气资源丰富海上钻井平台林立",
-      "full_text": "渤海湾盆地油气资源丰富海上钻井平台林立",
+      "title": "阿根廷巴塔哥尼亚",
+      "summary": "巴塔哥尼亚草原荒凉壮美，狂风呼啸草浪翻涌。原驼在荒原上奔跑，...",
+      "full_text": "巴塔哥尼亚草原荒凉壮美，狂风呼啸草浪翻涌。原驼在荒原上奔跑，美洲狮在岩石后潜伏，麦哲伦企鹅在海岸筑巢，莫雷诺冰川崩裂入湖轰鸣震耳，世界尽头苍凉而壮丽。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "plains_basins_030",
-      "title": "南阳盆地",
-      "summary": "南阳盆地伏牛山环抱中农田阡陌纵横麦浪翻滚",
-      "full_text": "南阳盆地伏牛山环抱中农田阡陌纵横麦浪翻滚",
+      "title": "青藏高原高寒草甸",
+      "summary": "青藏高原高寒草甸海拔四千米以上，植被低矮如绿色地毯。鼠兔在洞...",
+      "full_text": "青藏高原高寒草甸海拔四千米以上，植被低矮如绿色地毯。鼠兔在洞口张望，藏野驴在草原上奔跑，黑颈鹤在湿地中翩翩起舞，雪雀在鼠兔洞穴中筑巢共生，高原紫外线灼烈。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "plains_basins_031",
-      "title": "汉中盆地",
-      "summary": "汉中盆地秦巴山脉环抱中油菜花田金黄灿烂",
-      "full_text": "汉中盆地秦巴山脉环抱中油菜花田金黄灿烂",
+      "title": "伊比利亚草原",
+      "summary": "伊比利亚半岛中部草原干旱少雨，栓皮栎和橄榄树稀疏分布。西班牙...",
+      "full_text": "伊比利亚半岛中部草原干旱少雨，栓皮栎和橄榄树稀疏分布。西班牙斗牛在牧场中饲养，伊比利亚黑猪在橡树林下觅食橡果，白鹳在教堂尖塔上筑巢，猛禽在梅塞塔高原上空翱翔。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "plains_basins_032",
-      "title": "吐鲁番盆地",
-      "summary": "吐鲁番盆地是中国最低最热之地葡萄沟绿意盎然",
-      "full_text": "吐鲁番盆地是中国最低最热之地葡萄沟绿意盎然",
+      "title": "莫桑比克平原",
+      "summary": "莫桑比克沿海平原棕榈树摇曳，印度洋碧波拍打白色沙滩。红树林在...",
+      "full_text": "莫桑比克沿海平原棕榈树摇曳，印度洋碧波拍打白色沙滩。红树林在河口生长守护海岸，儒艮在海草床中觅食，渔民在传统独木舟上撒网，椰子种植园沿海岸延伸，热带气息浓郁。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "plains_basins_033",
-      "title": "滇池盆地",
-      "summary": "滇池盆地中高原湖泊碧波荡漾西山睡美人如画",
-      "full_text": "滇池盆地中高原湖泊碧波荡漾西山睡美人如画",
+      "title": "墨西哥高原仙人掌",
+      "summary": "墨西哥高原上巨型仙人掌如绿色巨人矗立荒原，仙人掌高达十五米寿...",
+      "full_text": "墨西哥高原上巨型仙人掌如绿色巨人矗立荒原，仙人掌高达十五米寿命两百年。响尾蛇在石缝中盘踞，走鹃在灌木间奔跑，龙舌兰十年开花一次花穗高达八米，特奥蒂瓦坎金字塔在远方。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "plains_basins_034",
-      "title": "汾渭盆地",
-      "summary": "汾渭盆地渭河平原沃野千里是华夏文明发源地",
-      "full_text": "汾渭盆地渭河平原沃野千里是华夏文明发源地",
+      "title": "苏丹稀树草原",
+      "summary": "苏丹稀树草原上金合欢树如伞盖散布，尼罗河从南向北穿越。白耳水...",
+      "full_text": "苏丹稀树草原上金合欢树如伞盖散布，尼罗河从南向北穿越。白耳水羚在河岸湿地中涉水，非洲秃鹳在浅滩觅食，象群在旱季沿河道迁徙，丁卡人赶着长角牛群，尼罗河鲈鱼体长两米。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "plains_basins_035",
-      "title": "乍得盆地",
-      "summary": "乍得盆地中乍得湖面积极剧萎缩生态令人担忧",
-      "full_text": "乍得盆地中乍得湖面积极剧萎缩生态令人担忧",
+      "title": "拉诺斯平原洪水",
+      "summary": "委内瑞拉拉诺斯平原雨季洪水淹没大片草地，水豚在水中悠然游泳。...",
+      "full_text": "委内瑞拉拉诺斯平原雨季洪水淹没大片草地，水豚在水中悠然游泳。凯门鳄在浅滩晒太阳，水牛鹭站在鳄鱼背上，奥里诺科河泛滥形成季节性湿地，旱季草原燃烧野火更新生态。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "plains_basins_036",
-      "title": "卡拉哈里盆地",
-      "summary": "卡拉哈里盆地半干旱草原上猴面包树孤零零矗立",
-      "full_text": "卡拉哈里盆地半干旱草原上猴面包树孤零零矗立",
+      "title": "安纳托利亚高原",
+      "summary": "安纳托利亚高原是土耳其腹地，卡帕多西亚火山岩被风蚀成蘑菇形奇...",
+      "full_text": "安纳托利亚高原是土耳其腹地，卡帕多西亚火山岩被风蚀成蘑菇形奇石。热气球在黎明升空俯瞰仙境，地下城市深达八层，洞穴教堂壁画精美，安纳托利亚高原小麦田金黄如海。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "plains_basins_037",
-      "title": "大盆地",
-      "summary": "北美大盆地内荒漠盐滩广布群山环绕干旱少雨",
-      "full_text": "北美大盆地内荒漠盐滩广布群山环绕干旱少雨",
+      "title": "关中平原古都",
+      "summary": "关中平原八百里秦川沃野千里，渭河冲积形成肥沃土壤。秦岭在南方...",
+      "full_text": "关中平原八百里秦川沃野千里，渭河冲积形成肥沃土壤。秦岭在南方如屏障，兵马俑在地下沉睡两千年，小麦玉米轮作丰收，泾渭分明两河交汇清晰可辨，十三朝古都长安在此建都。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "plains_basins_038",
-      "title": "纳木错盆地",
-      "summary": "纳木错盆地中圣湖碧蓝如镜倒映念青唐古拉山",
-      "full_text": "纳木错盆地中圣湖碧蓝如镜倒映念青唐古拉山",
+      "title": "西澳大利亚灌木",
+      "summary": "西澳大利亚灌木草原上袋鼠在红土间跳跃，矿藏丰富铁矿石红如大地...",
+      "full_text": "西澳大利亚灌木草原上袋鼠在红土间跳跃，矿藏丰富铁矿石红如大地之血。野花季数千种野花同时绽放如地毯铺展，袋熊在灌木下挖洞，鸸鹋在荒原上奔跑，内陆公路笔直延伸至天际。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "plains_basins_039",
-      "title": "青海湖盆地",
-      "summary": "青海湖盆地中高原明珠青海湖碧波万顷候鸟翔集",
-      "full_text": "青海湖盆地中高原明珠青海湖碧波万顷候鸟翔集",
+      "title": "马尼托巴草原",
+      "summary": "加拿大马尼托巴草原是北美大平原北端，冬寒夏热温差极大。小麦田...",
+      "full_text": "加拿大马尼托巴草原是北美大平原北端，冬寒夏热温差极大。小麦田在夕阳下金光闪耀，草原雷暴在夏季频繁，丘吉尔镇北极熊在秋季等海冰形成，红河边防哨所守望着漫长国境线。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "plains_basins_040",
-      "title": "塞伦盖蒂草原",
-      "summary": "塞伦盖蒂草原上角马大迁徙百万头奔涌如潮",
-      "full_text": "塞伦盖蒂草原上角马大迁徙百万头奔涌如潮",
+      "title": "内蒙古锡林郭勒",
+      "summary": "锡林郭勒草原碧波万顷牛羊如云，典型草原生态系统保存完好。蒙古...",
+      "full_text": "锡林郭勒草原碧波万顷牛羊如云，典型草原生态系统保存完好。蒙古马在草原上自由奔跑，牧民在敖包前祭祀，百灵鸟在空中悬停鸣唱，晚霞映照蒙古包炊烟，草原之夜繁星满天。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "plains_basins_041",
-      "title": "蒙古草原",
-      "summary": "蒙古草原上骏马奔腾蒙古包点缀在碧绿天地间",
-      "full_text": "蒙古草原上骏马奔腾蒙古包点缀在碧绿天地间",
+      "title": "奥里诺科平原",
+      "summary": "奥里诺科平原横跨委内瑞拉哥伦比亚，世界最大水豚群在此栖息。河...",
+      "full_text": "奥里诺科平原横跨委内瑞拉哥伦比亚，世界最大水豚群在此栖息。河豚在奥里诺科河中跃出水面，巨嘴鸟在河岸树上鸣叫，电鳗可释放600伏电压，印第安人在河上驾独木舟捕鱼。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "plains_basins_042",
-      "title": "潘帕斯草原",
-      "summary": "潘帕斯草原上高乔人骑马放牧牛群一望无际",
-      "full_text": "潘帕斯草原上高乔人骑马放牧牛群一望无际",
+      "title": "恒河三角洲",
+      "summary": "恒河三角洲是世界最大三角洲，面积十万平方公里河道密布。孙德尔...",
+      "full_text": "恒河三角洲是世界最大三角洲，面积十万平方公里河道密布。孙德尔本斯红树林是孟加拉虎最后栖息地，老虎在潮间带游泳捕猎，翠鸟在红树林间穿梭，季风洪水每年淹没低地。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "plains_basins_043",
-      "title": "北美大草原",
-      "summary": "北美大草原上野牛群在落日余晖中缓缓移动",
-      "full_text": "北美大草原上野牛群在落日余晖中缓缓移动",
+      "title": "尼罗河三角洲",
+      "summary": "尼罗河三角洲是埃及粮仓，肥沃冲积土养育千万人口。水稻棉花在三...",
+      "full_text": "尼罗河三角洲是埃及粮仓，肥沃冲积土养育千万人口。水稻棉花在三角洲田野中生长，白鹭在稻田中觅食，亚历山大港灯塔遗址在地中海边，罗塞塔石碑在此发现，人口密度极高。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "plains_basins_044",
-      "title": "澳大利亚草原",
-      "summary": "澳大利亚草原上袋鼠跳跃桉树散布其间独特",
-      "full_text": "澳大利亚草原上袋鼠跳跃桉树散布其间独特",
+      "title": "湄公河三角洲",
+      "summary": "湄公河三角洲是越南粮仓，九龙江水网密布如叶脉。水上市场船贩叫...",
+      "full_text": "湄公河三角洲是越南粮仓，九龙江水网密布如叶脉。水上市场船贩叫卖热带水果，稻田一年三熟产量惊人，湄公河巨型鲶鱼体长三米濒临灭绝，水椰在河道两岸葱郁生长。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "plains_basins_045",
-      "title": "哈萨克草原",
-      "summary": "哈萨克草原上牧民骑马驰骋毡房点缀绿色原野",
-      "full_text": "哈萨克草原上牧民骑马驰骋毡房点缀绿色原野",
+      "title": "长江中下游平原",
+      "summary": "长江中下游平原河网密布鱼米之乡，鄱阳湖候鸟百万越冬。洞庭湖碧...",
+      "full_text": "长江中下游平原河网密布鱼米之乡，鄱阳湖候鸟百万越冬。洞庭湖碧波万顷，油菜花田金黄灿烂，白鳍豚曾在江中出没如今难觅踪影，江南水乡古镇小桥流水，稻浪翻滚如金色海洋。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "plains_basins_046",
-      "title": "乌克兰草原",
-      "summary": "乌克兰草原黑土地上麦田金黄被称为欧洲粮仓",
-      "full_text": "乌克兰草原黑土地上麦田金黄被称为欧洲粮仓",
+      "title": "密西西比河三角洲",
+      "summary": "密西西比河三角洲沼泽密布如迷宫，短吻鳄在水中潜伏。鹈鹕在河口...",
+      "full_text": "密西西比河三角洲沼泽密布如迷宫，短吻鳄在水中潜伏。鹈鹕在河口捕鱼，蓝鹭在沼泽中涉水，卡特里娜飓风曾重创新奥尔良，爵士乐在法国区飘荡，河岸油井架林立。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "plains_basins_047",
-      "title": "南非草原",
-      "summary": "南非草原上长颈鹿在金合欢树间优雅地觅食",
-      "full_text": "南非草原上长颈鹿在金合欢树间优雅地觅食",
+      "title": "黄河三角洲湿地",
+      "summary": "黄河三角洲每年向海推进两公里，新生的盐碱地上碱蓬红如地毯。丹...",
+      "full_text": "黄河三角洲每年向海推进两公里，新生的盐碱地上碱蓬红如地毯。丹顶鹤在此越冬翩翩起舞，黑嘴鸥在滩涂上繁殖，黄河入海口黄蓝交汇泾渭分明，石油钻塔在湿地中矗立。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "plains_basins_048",
-      "title": "青藏高寒草甸",
-      "summary": "青藏高寒草甸上格桑花在雪线附近顽强绽放",
-      "full_text": "青藏高寒草甸上格桑花在雪线附近顽强绽放",
+      "title": "伏尔加河平原",
+      "summary": "伏尔加河平原是俄罗斯粮仓，伏尔加河蜿蜒3700公里注入里海。...",
+      "full_text": "伏尔加河平原是俄罗斯粮仓，伏尔加河蜿蜒3700公里注入里海。麦田在夕阳下金光闪耀，白桦林在河岸排列如卫兵，伏尔加格勒英雄雕像矗立山头，鲟鱼在河中产卵，鱼子酱珍贵。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "plains_basins_049",
-      "title": "阿尔卑斯高山草甸",
-      "summary": "阿尔卑斯高山草甸上野花烂漫木屋点缀其间",
-      "full_text": "阿尔卑斯高山草甸上野花烂漫木屋点缀其间",
+      "title": "多瑙河平原",
+      "summary": "多瑙河平原横跨中欧，多瑙河连接十国文化交融。维也纳在河畔奏响...",
+      "full_text": "多瑙河平原横跨中欧，多瑙河连接十国文化交融。维也纳在河畔奏响华尔兹，布达佩斯被多瑙河分为两半，葡萄园沿河坡地排列，白鹳在烟囱上筑巢，铁门峡谷水电站壮观。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "plains_basins_050",
-      "title": "安第斯高山草甸",
-      "summary": "安第斯高山草甸上骆马在云雾中安静地吃草",
-      "full_text": "安第斯高山草甸上骆马在云雾中安静地吃草",
+      "title": "湄南河平原",
+      "summary": "湄南河平原是泰国核心农业区，稻田翠绿一望无际。水牛在泥塘中打...",
+      "full_text": "湄南河平原是泰国核心农业区，稻田翠绿一望无际。水牛在泥塘中打滚，僧侣在清晨化缘，大皇宫金碧辉煌矗立河畔，水上人家木屋沿河排列，季风带来丰沛雨水滋润沃野。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "plains_basins_051",
-      "title": "天山草甸",
-      "summary": "天山草甸上各色野花铺满山坡如天然花毯",
-      "full_text": "天山草甸上各色野花铺满山坡如天然花毯",
+      "title": "拉普拉塔平原",
+      "summary": "拉普拉塔平原是南美第二大平原，乌拉圭草原碧绿如茵。高乔人在草...",
+      "full_text": "拉普拉塔平原是南美第二大平原，乌拉圭草原碧绿如茵。高乔人在草原上放牧，鸵鸟在草地上奔跑，南美栗鼠在灌木中出没，伊瓜苏瀑布在平原北缘轰鸣，潘帕斯小麦出口全球。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "plains_basins_052",
-      "title": "内蒙古草甸",
-      "summary": "内蒙古草甸上河流蜿蜒如丝带穿过绿色原野",
-      "full_text": "内蒙古草甸上河流蜿蜒如丝带穿过绿色原野",
+      "title": "松嫩平原湿地",
+      "summary": "松嫩平原湿地是丹顶鹤重要繁殖地，扎龙自然保护区芦苇荡绵延。丹...",
+      "full_text": "松嫩平原湿地是丹顶鹤重要繁殖地，扎龙自然保护区芦苇荡绵延。丹顶鹤在湿地中翩翩起舞求偶，白枕鹤在草甸中觅食，向海湿地候鸟云集，石油抽油机在湿地中不停运转。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "plains_basins_053",
-      "title": "那曲草甸",
-      "summary": "那曲草甸上牦牛群在高原蓝天下悠闲漫步",
-      "full_text": "那曲草甸上牦牛群在高原蓝天下悠闲漫步",
+      "title": "河套平原灌区",
+      "summary": "河套平原黄河灌溉造就塞外江南，黄河在此形成大弯曲。引黄灌溉渠...",
+      "full_text": "河套平原黄河灌溉造就塞外江南，黄河在此形成大弯曲。引黄灌溉渠道密布如网，葵花田在夏日灿烂金黄，阴山在平原北缘如屏障，乌梁素海芦苇丛中候鸟栖息，河套蜜瓜甜如蜜。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "plains_basins_054",
-      "title": "若尔盖草甸",
-      "summary": "若尔盖草甸上黑颈鹤在湿地中优雅地起舞",
-      "full_text": "若尔盖草甸上黑颈鹤在湿地中优雅地起舞",
+      "title": "美索不达米亚沼泽",
+      "summary": "伊拉克南部美索不达米亚沼泽是圣经伊甸园原型，沼泽阿拉伯人在芦...",
+      "full_text": "伊拉克南部美索不达米亚沼泽是圣经伊甸园原型，沼泽阿拉伯人在芦苇棚屋中生活千年。芦苇船在沼泽中穿行，水牛在浅滩吃草，候鸟在冬季云集，萨达姆时期曾排干沼泽如今部分恢复。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "plains_basins_055",
-      "title": "普达措草甸",
-      "summary": "普达措草甸上高山湖泊倒映着蓝天白云花海",
-      "full_text": "普达措草甸上高山湖泊倒映着蓝天白云花海",
+      "title": "鄂毕河平原冻土",
+      "summary": "西西伯利亚平原鄂毕河流域永冻土层厚达数百米，夏季表层融化形成...",
+      "full_text": "西西伯利亚平原鄂毕河流域永冻土层厚达数百米，夏季表层融化形成无数热融湖。驯鹿在苔原上迁徙，北极狐换上白色冬装，天然气从永久冻土下开采，极光在冬夜照亮冰原。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "plains_basins_056",
-      "title": "呼伦贝尔草原",
-      "summary": "呼伦贝尔草原上羊群如白云散落在碧绿大地",
-      "full_text": "呼伦贝尔草原上羊群如白云散落在碧绿大地",
+      "title": "印度河平原古城",
+      "summary": "印度河平原是古印度文明发源地，摩亨佐达罗古城遗址展现五千年城...",
+      "full_text": "印度河平原是古印度文明发源地，摩亨佐达罗古城遗址展现五千年城市规划。印度河从喀喇昆仑山流下灌溉平原，棉花和小麦在冲积土上生长，旁遮普五河交汇之地最为肥沃。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "plains_basins_057",
-      "title": "锡林郭勒草原",
-      "summary": "锡林郭勒草原上牧民策马奔腾长调悠扬回荡",
-      "full_text": "锡林郭勒草原上牧民策马奔腾长调悠扬回荡",
+      "title": "宁夏平原塞上江南",
+      "summary": "宁夏平原引黄灌溉两千年造就塞外江南，贺兰山在西方如屏障阻挡风...",
+      "full_text": "宁夏平原引黄灌溉两千年造就塞外江南，贺兰山在西方如屏障阻挡风沙。稻田水网密布如江南水乡，枸杞田红果累累，沙坡头治沙工程举世闻名，西夏王陵在山麓静默矗立。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "plains_basins_058",
-      "title": "鄂尔多斯草原",
-      "summary": "鄂尔多斯草原上沙地与草地交错分布独具特色",
-      "full_text": "鄂尔多斯草原上沙地与草地交错分布独具特色",
+      "title": "汾河平原古建",
+      "summary": "汾河平原是山西精华所在，汾河冲积形成狭长谷地。平遥古城城墙完...",
+      "full_text": "汾河平原是山西精华所在，汾河冲积形成狭长谷地。平遥古城城墙完整保存明清风貌，乔家大院雕梁画栋，晋祠古柏千年，汾酒清香飘溢，煤田在吕梁山下延伸，黄土高原沟壑纵横。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "plains_basins_059",
-      "title": "甘南草原",
-      "summary": "甘南草原上藏族帐篷炊烟袅袅格桑花遍地盛开",
-      "full_text": "甘南草原上藏族帐篷炊烟袅袅格桑花遍地盛开",
+      "title": "渭河平原八百里",
+      "summary": "渭河平原八百里秦川是华夏文明发祥地，渭河冲积形成肥沃土壤。华...",
+      "full_text": "渭河平原八百里秦川是华夏文明发祥地，渭河冲积形成肥沃土壤。华山在东端如利剑，宝鸡在西端如门户，小麦玉米轮作丰收，秦岭在南方如屏障，周秦汉唐在此建都千年。",
       "image": "res://assets/images/illustrations/plains_basins/plains_basins_059.jpg",
       "image_grid": {
         "x": 3,

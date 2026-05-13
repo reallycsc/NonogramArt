@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "abstract_000",
-      "title": "同心圆环",
-      "summary": "同心圆由内向外扩展，色彩渐变层次分明，几何韵律",
-      "full_text": "同心圆由内向外扩展，色彩渐变层次分明，几何韵律",
+      "title": "对称之美镜像",
+      "summary": "蝴蝶左右翅膀完美对称，雪花六角对称，对称是自然界最基本的美学...",
+      "full_text": "蝴蝶左右翅膀完美对称，雪花六角对称，对称是自然界最基本的美学法则。对称意味着秩序和平衡，从微观晶体到宏观建筑无处不在。",
       "image": "res://assets/images/illustrations/abstract/abstract_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "abstract_001",
-      "title": "黄金螺旋",
-      "summary": "黄金螺旋对数曲线，贝壳星系自然之美，数学之美",
-      "full_text": "黄金螺旋对数曲线，贝壳星系自然之美，数学之美",
+      "title": "不对称破缺",
+      "summary": "手有左右之分无法重合，宇称不守恒揭示自然区分左右。对称破缺产...",
+      "full_text": "手有左右之分无法重合，宇称不守恒揭示自然区分左右。对称破缺产生差异，差异创造丰富，完美对称是死寂破缺才是生命。",
       "image": "res://assets/images/illustrations/abstract/abstract_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "abstract_002",
-      "title": "等边三角形",
-      "summary": "等边三角形完美对称，三条边等长三个角等，稳定结构",
-      "full_text": "等边三角形完美对称，三条边等长三个角等，稳定结构",
+      "title": "分形自相似",
+      "summary": "花椰菜每个小簇与整体形状相似，海岸线放大后仍曲折蜿蜒。分形是...",
+      "full_text": "花椰菜每个小簇与整体形状相似，海岸线放大后仍曲折蜿蜒。分形是无穷嵌套的几何，局部与整体的自相似令人着迷。",
       "image": "res://assets/images/illustrations/abstract/abstract_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "abstract_003",
-      "title": "正六边形蜂巢",
-      "summary": "正六边形蜂巢排列，空间利用率最高，自然几何",
-      "full_text": "正六边形蜂巢排列，空间利用率最高，自然几何",
+      "title": "黄金螺旋",
+      "summary": "鹦鹉螺壳体对数螺旋线与黄金比例相关，向日葵种子沿螺旋排列。黄...",
+      "full_text": "鹦鹉螺壳体对数螺旋线与黄金比例相关，向日葵种子沿螺旋排列。黄金螺旋是生长的数学，生物用最经济的空间容纳最多的种子。",
       "image": "res://assets/images/illustrations/abstract/abstract_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "abstract_004",
-      "title": "分形树",
-      "summary": "分形树自相似分支，枝干递归无限延伸，分形之美",
-      "full_text": "分形树自相似分支，枝干递归无限延伸，分形之美",
+      "title": "斐波那契数列",
+      "summary": "一二三五八十三二十一，每个数是前两数之和，花瓣数目常为斐波那...",
+      "full_text": "一二三五八十三二十一，每个数是前两数之和，花瓣数目常为斐波那契数。斐波那契数列是自然的计数法，松果鳞片和菠萝眼都遵循此规律。",
       "image": "res://assets/images/illustrations/abstract/abstract_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "abstract_005",
-      "title": "曼德博集合",
-      "summary": "曼德博集合边界无限，缩放后细节涌现，数学奇观",
-      "full_text": "曼德博集合边界无限，缩放后细节涌现，数学奇观",
+      "title": "混沌边缘秩序",
+      "summary": "洛伦兹吸引子看似无序却始终有界，混沌与秩序的边界最富创造力。...",
+      "full_text": "洛伦兹吸引子看似无序却始终有界，混沌与秩序的边界最富创造力。混沌边缘是复杂系统的甜蜜点，太有序则僵化太混乱则崩溃。",
       "image": "res://assets/images/illustrations/abstract/abstract_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "abstract_006",
-      "title": "谢尔宾斯基三角",
-      "summary": "谢尔宾斯基三角形递归，挖空后自相似结构，分形经典",
-      "full_text": "谢尔宾斯基三角形递归，挖空后自相似结构，分形经典",
+      "title": "涌现复杂系统",
+      "summary": "蚂蚁个体简单但蚁群展现智能，神经元简单但大脑产生意识。涌现是...",
+      "full_text": "蚂蚁个体简单但蚁群展现智能，神经元简单但大脑产生意识。涌现是整体大于部分之和，简单规则产生复杂行为。",
       "image": "res://assets/images/illustrations/abstract/abstract_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "abstract_007",
-      "title": "科赫雪花",
-      "summary": "科赫雪花曲线无限长，围成有限面积，分形悖论",
-      "full_text": "科赫雪花曲线无限长，围成有限面积，分形悖论",
+      "title": "网络连接拓扑",
+      "summary": "六度分隔理论说任意两人间最多六步相连，小世界网络让远距变近。...",
+      "full_text": "六度分隔理论说任意两人间最多六步相连，小世界网络让远距变近。网络拓扑决定信息传播速度，枢纽节点是网络的脆弱点。",
       "image": "res://assets/images/illustrations/abstract/abstract_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "abstract_008",
-      "title": "螺旋线",
-      "summary": "阿基米德螺旋等距展开，向日葵花盘排列，旋转韵律",
-      "full_text": "阿基米德螺旋等距展开，向日葵花盘排列，旋转韵律",
+      "title": "幂律分布长尾",
+      "summary": "城市人口和网站访问量服从幂律分布，少数极大多数极小。幂律分布...",
+      "full_text": "城市人口和网站访问量服从幂律分布，少数极大多数极小。幂律分布没有特征尺度，长尾中藏着小众的无限可能。",
       "image": "res://assets/images/illustrations/abstract/abstract_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "abstract_009",
-      "title": "莫比乌斯带",
-      "summary": "莫比乌斯带扭转连接，单面单边拓扑奇观，数学魔术",
-      "full_text": "莫比乌斯带扭转连接，单面单边拓扑奇观，数学魔术",
+      "title": "正态分布钟形",
+      "summary": "身高和考试成绩呈钟形正态分布，中间多两端少对称优美。正态分布...",
+      "full_text": "身高和考试成绩呈钟形正态分布，中间多两端少对称优美。正态分布是随机性的秩序，中心极限定理让无数独立因素汇聚为钟形。",
       "image": "res://assets/images/illustrations/abstract/abstract_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "abstract_010",
-      "title": "正多面体",
-      "summary": "五种正多面体完美对称，柏拉图立体哲学象征",
-      "full_text": "五种正多面体完美对称，柏拉图立体哲学象征",
+      "title": "熵增无序化",
+      "summary": "打碎的杯子不会自动复原，房间不整理越来越乱，熵衡量无序程度。...",
+      "full_text": "打碎的杯子不会自动复原，房间不整理越来越乱，熵衡量无序程度。熵增是时间之箭的方向，从有序到无序是不可逆的宇宙趋势。",
       "image": "res://assets/images/illustrations/abstract/abstract_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "abstract_011",
-      "title": "椭圆曲线",
-      "summary": "椭圆曲线优雅弧线，行星轨道数学描述，曲线之美",
-      "full_text": "椭圆曲线优雅弧线，行星轨道数学描述，曲线之美",
+      "title": "信息熵度量",
+      "summary": "香农用信息熵度量不确定性，抛硬币的信息量是一比特。信息熵连接...",
+      "full_text": "香农用信息熵度量不确定性，抛硬币的信息量是一比特。信息熵连接了热力学和通信理论，不确定性是信息的本质。",
       "image": "res://assets/images/illustrations/abstract/abstract_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "abstract_012",
-      "title": "双曲线",
-      "summary": "双曲线两支无限延伸，冷却塔外形双曲面，曲线应用",
-      "full_text": "双曲线两支无限延伸，冷却塔外形双曲面，曲线应用",
+      "title": "反馈循环因果",
+      "summary": "麦克风靠近音箱产生刺耳啸叫，正反馈让信号无限放大。负反馈维持...",
+      "full_text": "麦克风靠近音箱产生刺耳啸叫，正反馈让信号无限放大。负反馈维持稳定正反馈导致爆发，反馈环路是系统的控制机制。",
       "image": "res://assets/images/illustrations/abstract/abstract_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "abstract_013",
-      "title": "抛物线",
-      "summary": "抛物线对称弧形，抛物运动天线形状，物理曲线",
-      "full_text": "抛物线对称弧形，抛物运动天线形状，物理曲线",
+      "title": "周期振荡节律",
+      "summary": "钟摆来回摆动心跳有节律，经济周期繁荣衰退交替。周期是自然和社...",
+      "full_text": "钟摆来回摆动心跳有节律，经济周期繁荣衰退交替。周期是自然和社会的呼吸，振荡系统中能量的蓄放循环。",
       "image": "res://assets/images/illustrations/abstract/abstract_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "abstract_014",
-      "title": "正弦波",
-      "summary": "正弦波周期振荡，声波光波数学表达，波动之美",
-      "full_text": "正弦波周期振荡，声波光波数学表达，波动之美",
+      "title": "相变临界突变",
+      "summary": "水在一百度突然沸腾变为蒸汽，磁铁在居里温度突然失去磁性。相变...",
+      "full_text": "水在一百度突然沸腾变为蒸汽，磁铁在居里温度突然失去磁性。相变是量变到质变的物理实现，临界点附近微涨落被无限放大。",
       "image": "res://assets/images/illustrations/abstract/abstract_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "abstract_015",
-      "title": "渐开线",
-      "summary": "渐开线齿轮齿形曲线，基圆展开精确啮合，工程曲线",
-      "full_text": "渐开线齿轮齿形曲线，基圆展开精确啮合，工程曲线",
+      "title": "吸引子轨迹归",
+      "summary": "单摆最终停在最低点，系统演化的终点称为吸引子。吸引子是动力学...",
+      "full_text": "单摆最终停在最低点，系统演化的终点称为吸引子。吸引子是动力学的归宿，定态吸引子周期吸引子和奇异吸引子各有风景。",
       "image": "res://assets/images/illustrations/abstract/abstract_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "abstract_016",
-      "title": "摆线",
-      "summary": "摆线滚动圆上一点轨迹，最速降线问题，数学曲线",
-      "full_text": "摆线滚动圆上一点轨迹，最速降线问题，数学曲线",
+      "title": "拓扑不变量",
+      "summary": "咖啡杯和甜甜圈拓扑等价可以连续变形互化，洞的个数是不变量。拓...",
+      "full_text": "咖啡杯和甜甜圈拓扑等价可以连续变形互化，洞的个数是不变量。拓扑学研究连续变形下不变的性质，形状可以变洞不能丢。",
       "image": "res://assets/images/illustrations/abstract/abstract_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "abstract_017",
-      "title": "利萨如图形",
-      "summary": "利萨如图形频率比，示波器上优美图案，振动合成",
-      "full_text": "利萨如图形频率比，示波器上优美图案，振动合成",
+      "title": "维度空间层次",
+      "summary": "零维点一维线二维面三维体，分形维度可以是非整数。维度是空间的...",
+      "full_text": "零维点一维线二维面三维体，分形维度可以是非整数。维度是空间的自由度，高维空间中距离和体积的直觉不再适用。",
       "image": "res://assets/images/illustrations/abstract/abstract_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "abstract_018",
-      "title": "斐波那契数列",
-      "summary": "斐波那契数列1 1 2 3 5 8，黄金比例逼近，数列之美",
-      "full_text": "斐波那契数列1 1 2 3 5 8，黄金比例逼近，数列之美",
+      "title": "无穷大层次",
+      "summary": "康托尔证明实数比自然数多，无穷也有大小之分。可数无穷与不可数...",
+      "full_text": "康托尔证明实数比自然数多，无穷也有大小之分。可数无穷与不可数无穷是不同的层次，希尔伯特旅馆永远有空房。",
       "image": "res://assets/images/illustrations/abstract/abstract_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "abstract_019",
-      "title": "渐变色过渡",
-      "summary": "渐变色从暖到冷过渡，色彩流动柔和变化，色彩韵律",
-      "full_text": "渐变色从暖到冷过渡，色彩流动柔和变化，色彩韵律",
+      "title": "悖论思维挑战",
+      "summary": "理发师给所有不自己刮胡子的人刮胡子，那他给自己刮吗？悖论暴露...",
+      "full_text": "理发师给所有不自己刮胡子的人刮胡子，那他给自己刮吗？悖论暴露了逻辑的边界，自指是悖论的根源也是意识的线索。",
       "image": "res://assets/images/illustrations/abstract/abstract_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "abstract_020",
-      "title": "对比色碰撞",
-      "summary": "红绿对比色强烈碰撞，视觉冲击力十足，色彩张力",
-      "full_text": "红绿对比色强烈碰撞，视觉冲击力十足，色彩张力",
+      "title": "哥德尔不完备",
+      "summary": "任何足够强的形式系统都存在不可判定的命题，真理超越证明。不完...",
+      "full_text": "任何足够强的形式系统都存在不可判定的命题，真理超越证明。不完备定理是数学的自我反思，理性有其无法逾越的边界。",
       "image": "res://assets/images/illustrations/abstract/abstract_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "abstract_021",
-      "title": "冷暖色调",
-      "summary": "冷色调蓝紫宁静，暖色调红橙热情，色彩情感",
-      "full_text": "冷色调蓝紫宁静，暖色调红橙热情，色彩情感",
+      "title": "图灵停机问题",
+      "summary": "不存在通用算法判断任意程序是否会终止，计算有不可逾越的极限。...",
+      "full_text": "不存在通用算法判断任意程序是否会终止，计算有不可逾越的极限。停机问题是计算机科学的边界，不可计算性是真实的限制。",
       "image": "res://assets/images/illustrations/abstract/abstract_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "abstract_022",
-      "title": "三原色混合",
-      "summary": "红黄蓝三原色混合，间色复色无穷变化，色彩基础",
-      "full_text": "红黄蓝三原色混合，间色复色无穷变化，色彩基础",
+      "title": "复杂性层次",
+      "summary": "从P到NP到NP完全，计算复杂性划分问题的难易等级。P等于N...",
+      "full_text": "从P到NP到NP完全，计算复杂性划分问题的难易等级。P等于NP吗？千禧年难题之一，答案将改变密码学和人工智能。",
       "image": "res://assets/images/illustrations/abstract/abstract_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "abstract_023",
-      "title": "黑白灰层次",
-      "summary": "黑白灰无彩色层次，明暗对比光影变化，极简色彩",
-      "full_text": "黑白灰无彩色层次，明暗对比光影变化，极简色彩",
+      "title": "博弈均衡策略",
+      "summary": "囚徒困境中双方背叛是纳什均衡，个体理性导致集体非理性。博弈论...",
+      "full_text": "囚徒困境中双方背叛是纳什均衡，个体理性导致集体非理性。博弈论揭示合作与冲突的逻辑，改变游戏规则比改变策略更有效。",
       "image": "res://assets/images/illustrations/abstract/abstract_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "abstract_024",
-      "title": "彩虹光谱",
-      "summary": "彩虹七色光谱排列，红橙黄绿蓝靛紫，自然色彩",
-      "full_text": "彩虹七色光谱排列，红橙黄绿蓝靛紫，自然色彩",
+      "title": "自组织临界",
+      "summary": "沙堆不断加沙到临界态后雪崩，系统自然演化到混沌边缘。自组织临...",
+      "full_text": "沙堆不断加沙到临界态后雪崩，系统自然演化到混沌边缘。自组织临界不需要外部调节，系统自发达到最敏感的状态。",
       "image": "res://assets/images/illustrations/abstract/abstract_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "abstract_025",
-      "title": "莫兰迪色系",
-      "summary": "莫兰迪色系灰调低饱和，温柔内敛高级感，优雅色彩",
-      "full_text": "莫兰迪色系灰调低饱和，温柔内敛高级感，优雅色彩",
+      "title": "元胞自动机",
+      "summary": "康威生命游戏中简单规则产生复杂图案，滑翔机和振荡器自发涌现。...",
+      "full_text": "康威生命游戏中简单规则产生复杂图案，滑翔机和振荡器自发涌现。元胞自动机是复杂性的最小模型，简单规则孕育无限可能。",
       "image": "res://assets/images/illustrations/abstract/abstract_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "abstract_026",
-      "title": "荧光色",
-      "summary": "荧光色高饱和发光感，赛博朋克科技感，前卫色彩",
-      "full_text": "荧光色高饱和发光感，赛博朋克科技感，前卫色彩",
+      "title": "图论网络基础",
+      "summary": "哥尼斯堡七桥问题开创图论，欧拉证明不可能不重复走遍七桥。图论...",
+      "full_text": "哥尼斯堡七桥问题开创图论，欧拉证明不可能不重复走遍七桥。图论是网络的数学语言，节点和边描述万物互联。",
       "image": "res://assets/images/illustrations/abstract/abstract_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "abstract_027",
-      "title": "金属色光泽",
-      "summary": "金属色金银铜光泽，反射光线质感奢华，光泽色彩",
-      "full_text": "金属色金银铜光泽，反射光线质感奢华，光泽色彩",
+      "title": "色彩理论三原",
+      "summary": "红绿蓝光三原色混合出万千色彩，互补色并置产生强烈对比。色彩理...",
+      "full_text": "红绿蓝光三原色混合出万千色彩，互补色并置产生强烈对比。色彩理论是视觉的语法，色相明度和饱和度定义每种颜色。",
       "image": "res://assets/images/illustrations/abstract/abstract_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "abstract_028",
-      "title": "透明色叠加",
-      "summary": "透明色层层叠加，混合出新色彩效果，透叠之美",
-      "full_text": "透明色层层叠加，混合出新色彩效果，透叠之美",
+      "title": "透视法空间感",
+      "summary": "文艺复兴画家用线性透视在二维画布上创造三维深度，平行线汇聚于...",
+      "full_text": "文艺复兴画家用线性透视在二维画布上创造三维深度，平行线汇聚于消失点。透视法是绘画的革命，数学让画面有了空间。",
       "image": "res://assets/images/illustrations/abstract/abstract_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "abstract_029",
-      "title": "色彩心理学",
-      "summary": "色彩心理学红热情蓝冷静，颜色影响情绪，色彩语言",
-      "full_text": "色彩心理学红热情蓝冷静，颜色影响情绪，色彩语言",
+      "title": "构图法则平衡",
+      "summary": "三分法将画面分为九宫格，主体放在交叉点上最具视觉张力。构图是...",
+      "full_text": "三分法将画面分为九宫格，主体放在交叉点上最具视觉张力。构图是画面的骨架，平衡与打破平衡都是创造力的表现。",
       "image": "res://assets/images/illustrations/abstract/abstract_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "abstract_030",
-      "title": "互补色和谐",
-      "summary": "互补色对面相配，对比强烈又和谐，色彩平衡",
-      "full_text": "互补色对面相配，对比强烈又和谐，色彩平衡",
+      "title": "节奏韵律重复",
+      "summary": "音乐中节拍强弱交替形成节奏，建筑中柱子重复排列产生韵律。节奏...",
+      "full_text": "音乐中节拍强弱交替形成节奏，建筑中柱子重复排列产生韵律。节奏是时间的秩序，韵律是重复中的变化。",
       "image": "res://assets/images/illustrations/abstract/abstract_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "abstract_031",
-      "title": "单色渐变",
-      "summary": "单色从深到浅渐变，同色系层次丰富，统一色彩",
-      "full_text": "单色从深到浅渐变，同色系层次丰富，统一色彩",
+      "title": "对比统一法则",
+      "summary": "黑与白大与小粗与细的对比产生视觉张力，统一调和让对比不冲突。...",
+      "full_text": "黑与白大与小粗与细的对比产生视觉张力，统一调和让对比不冲突。对比是戏剧性统一是和谐，二者平衡是设计的核心。",
       "image": "res://assets/images/illustrations/abstract/abstract_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "abstract_032",
-      "title": "波洛克滴画",
-      "summary": "波洛克行动绘画滴洒，颜料飞溅自由奔放，抽象表现",
-      "full_text": "波洛克行动绘画滴洒，颜料飞溅自由奔放，抽象表现",
+      "title": "极简主义减法",
+      "summary": "少即是多，去掉一切多余的元素，留下最纯粹的本质。极简不是空洞...",
+      "full_text": "少即是多，去掉一切多余的元素，留下最纯粹的本质。极简不是空洞而是精炼，每个保留的元素都承载最大意义。",
       "image": "res://assets/images/illustrations/abstract/abstract_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "abstract_033",
-      "title": "蒙德里安方格",
-      "summary": "蒙德里安红黄蓝构图，直线色块极简纯粹，几何抽象",
-      "full_text": "蒙德里安红黄蓝构图，直线色块极简纯粹，几何抽象",
+      "title": "解构主义碎片",
+      "summary": "打破传统结构重新组合，碎片化的形式挑战既定秩序。解构是质疑的...",
+      "full_text": "打破传统结构重新组合，碎片化的形式挑战既定秩序。解构是质疑的姿态，打破才能重建，碎片中蕴含新的可能。",
       "image": "res://assets/images/illustrations/abstract/abstract_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "abstract_034",
-      "title": "马列维奇方块",
-      "summary": "马列维奇至上主义方块，纯色几何纯粹感觉，绝对抽象",
-      "full_text": "马列维奇至上主义方块，纯色几何纯粹感觉，绝对抽象",
+      "title": "格式塔完形",
+      "summary": "大脑自动将不完整的图形补全，三个缺角圆被看作三角形。格式塔心...",
+      "full_text": "大脑自动将不完整的图形补全，三个缺角圆被看作三角形。格式塔心理学揭示知觉的组织原则，整体先于部分被感知。",
       "image": "res://assets/images/illustrations/abstract/abstract_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "abstract_035",
-      "title": "康定斯基点线面",
-      "summary": "康定斯基点线面构成，音乐节奏视觉化，抽象先驱",
-      "full_text": "康定斯基点线面构成，音乐节奏视觉化，抽象先驱",
+      "title": "模糊性多义",
+      "summary": "鸭兔图既可看作鸭又可看作兔，模糊性让解读开放多元。模糊是意义...",
+      "full_text": "鸭兔图既可看作鸭又可看作兔，模糊性让解读开放多元。模糊是意义的留白，确定性是思维的牢笼。",
       "image": "res://assets/images/illustrations/abstract/abstract_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "abstract_036",
-      "title": "极简主义白画",
-      "summary": "极简主义留白空灵，少即是多纯粹体验，极简美学",
-      "full_text": "极简主义留白空灵，少即是多纯粹体验，极简美学",
+      "title": "隐喻类比思维",
+      "summary": "原子像太阳系电子绕核旋转，隐喻用已知理解未知。类比是创新的桥...",
+      "full_text": "原子像太阳系电子绕核旋转，隐喻用已知理解未知。类比是创新的桥梁，跨领域的相似性催生突破。",
       "image": "res://assets/images/illustrations/abstract/abstract_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "abstract_037",
-      "title": "光效应艺术",
-      "summary": "光效应艺术视错觉，几何图案产生动感，视觉魔术",
-      "full_text": "光效应艺术视错觉，几何图案产生动感，视觉魔术",
+      "title": "递归自我指涉",
+      "summary": "故事中的人物在讲故事，函数调用自身，递归是自我嵌套的结构。递...",
+      "full_text": "故事中的人物在讲故事，函数调用自身，递归是自我嵌套的结构。递归是简洁与复杂的统一，简单规则生成无限深度。",
       "image": "res://assets/images/illustrations/abstract/abstract_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "abstract_038",
-      "title": "罗斯科色域",
-      "summary": "罗斯科色域绘画，大块色彩冥想体验，精神抽象",
-      "full_text": "罗斯科色域绘画，大块色彩冥想体验，精神抽象",
+      "title": "同构映射对应",
+      "summary": "群论中同构的两个群结构完全相同，不同表象下本质一致。同构是数...",
+      "full_text": "群论中同构的两个群结构完全相同，不同表象下本质一致。同构是数学的翻译，换个语言说同一件事。",
       "image": "res://assets/images/illustrations/abstract/abstract_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "abstract_039",
-      "title": "克莱因蓝",
-      "summary": "克莱因蓝纯粹深邃，国际克莱因蓝专利，绝对色彩",
-      "full_text": "克莱因蓝纯粹深邃，国际克莱因蓝专利，绝对色彩",
+      "title": "对偶性翻转",
+      "summary": "点和线在射影几何中角色互换，对偶定理自动成立。对偶是视角的翻...",
+      "full_text": "点和线在射影几何中角色互换，对偶定理自动成立。对偶是视角的翻转，换个方向看问题答案自然浮现。",
       "image": "res://assets/images/illustrations/abstract/abstract_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "abstract_040",
-      "title": "草间弥生圆点",
-      "summary": "草间弥生无限圆点，重复排列迷幻空间，波点女王",
-      "full_text": "草间弥生无限圆点，重复排列迷幻空间，波点女王",
+      "title": "不变量守恒",
+      "summary": "能量守恒和动量守恒是物理不变量，诺特定理将对称与守恒联系。不...",
+      "full_text": "能量守恒和动量守恒是物理不变量，诺特定理将对称与守恒联系。不变量是变化中的永恒，守恒律是宇宙最深的法则。",
       "image": "res://assets/images/illustrations/abstract/abstract_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "abstract_041",
-      "title": "抽象表现主义",
-      "summary": "抽象表现主义情感宣泄，大笔触浓色彩，内在力量",
-      "full_text": "抽象表现主义情感宣泄，大笔触浓色彩，内在力量",
+      "title": "随机性不可预",
+      "summary": "放射性衰变何时发生无法预测，量子测量结果本质随机。随机不是无...",
+      "full_text": "放射性衰变何时发生无法预测，量子测量结果本质随机。随机不是无知而是自然的本性，骰子上帝真的在掷骰子。",
       "image": "res://assets/images/illustrations/abstract/abstract_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "abstract_042",
-      "title": "构成主义",
-      "summary": "构成主义几何结构，工业材料社会功能，革命艺术",
-      "full_text": "构成主义几何结构，工业材料社会功能，革命艺术",
+      "title": "概率主观客观",
+      "summary": "频率学派认为概率是客观频率，贝叶斯学派认为概率是主观信念。概...",
+      "full_text": "频率学派认为概率是客观频率，贝叶斯学派认为概率是主观信念。概率的哲学诠释影响决策方式，数据更新信念是贝叶斯的核心。",
       "image": "res://assets/images/illustrations/abstract/abstract_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "abstract_043",
-      "title": "欧普艺术",
-      "summary": "欧普艺术光学幻象，黑白几何视觉振动，眼睛魔术",
-      "full_text": "欧普艺术光学幻象，黑白几何视觉振动，眼睛魔术",
+      "title": "因果与相关",
+      "summary": "冰淇淋销量和溺水人数正相关，但不是因果而是温度这个混杂因素。...",
+      "full_text": "冰淇淋销量和溺水人数正相关，但不是因果而是温度这个混杂因素。相关不等于因果，这是科学思维最重要的警示。",
       "image": "res://assets/images/illustrations/abstract/abstract_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "abstract_044",
-      "title": "动态雕塑",
-      "summary": "考尔德动态雕塑，风力驱动平衡运动，移动艺术",
-      "full_text": "考尔德动态雕塑，风力驱动平衡运动，移动艺术",
+      "title": "还原论整体论",
+      "summary": "还原论将复杂系统拆解为简单部分研究，整体论认为整体不可还原为...",
+      "full_text": "还原论将复杂系统拆解为简单部分研究，整体论认为整体不可还原为部分。两种视角互补，从分子到意识需要不同层级的描述。",
       "image": "res://assets/images/illustrations/abstract/abstract_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "abstract_045",
-      "title": "数字生成艺术",
-      "summary": "算法生成抽象图案，代码创作无限变化，数字抽象",
-      "full_text": "算法生成抽象图案，代码创作无限变化，数字抽象",
+      "title": "范畴论抽象",
+      "summary": "范畴论用对象和态射统一数学各分支，是数学的数学。范畴论是最高...",
+      "full_text": "范畴论用对象和态射统一数学各分支，是数学的数学。范畴论是最高的抽象，从具体中提炼出最一般的结构。",
       "image": "res://assets/images/illustrations/abstract/abstract_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "abstract_046",
-      "title": "流体艺术",
-      "summary": "流体艺术颜料倾倒，自然流动不可预测，偶然之美",
-      "full_text": "流体艺术颜料倾倒，自然流动不可预测，偶然之美",
+      "title": "逻辑推理形式",
+      "summary": "三段论从大前提小前提推出结论，形式逻辑是推理的语法。逻辑是思...",
+      "full_text": "三段论从大前提小前提推出结论，形式逻辑是推理的语法。逻辑是思维的规则，有效推理保证结论的必然性。",
       "image": "res://assets/images/illustrations/abstract/abstract_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "abstract_047",
-      "title": "几何拼贴",
-      "summary": "几何形状拼贴组合，色块叠加错位排列，构成之美",
-      "full_text": "几何形状拼贴组合，色块叠加错位排列，构成之美",
+      "title": "辩证法矛盾",
+      "summary": "正题反题合题，矛盾是发展的动力，对立统一是事物的本质。辩证法...",
+      "full_text": "正题反题合题，矛盾是发展的动力，对立统一是事物的本质。辩证法是动态的思维，在矛盾中寻找超越。",
       "image": "res://assets/images/illustrations/abstract/abstract_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "abstract_048",
-      "title": "光影抽象",
-      "summary": "光影投射抽象图案，明暗交错虚实相生，光之艺术",
-      "full_text": "光影投射抽象图案，明暗交错虚实相生，光之艺术",
+      "title": "系统论整体",
+      "summary": "系统由相互关联的部分组成，整体具有部分没有的涌现性质。系统思...",
+      "full_text": "系统由相互关联的部分组成，整体具有部分没有的涌现性质。系统思维超越还原论，关注关系而非孤立的要素。",
       "image": "res://assets/images/illustrations/abstract/abstract_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "abstract_049",
-      "title": "声音可视化",
-      "summary": "声波频谱可视化，音频信号变图形，听觉转视觉",
-      "full_text": "声波频谱可视化，音频信号变图形，听觉转视觉",
+      "title": "控制论反馈",
+      "summary": "维纳创立控制论研究通信和控制中的反馈机制，目标是稳态。控制论...",
+      "full_text": "维纳创立控制论研究通信和控制中的反馈机制，目标是稳态。控制论是系统的方向盘，反馈让系统在变化中保持方向。",
       "image": "res://assets/images/illustrations/abstract/abstract_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "abstract_050",
-      "title": "数据可视化",
-      "summary": "数据可视化图表，信息图形美观清晰，数据之美",
-      "full_text": "数据可视化图表，信息图形美观清晰，数据之美",
+      "title": "信息论基础",
+      "summary": "香农将信息量化为比特，建立了通信的数学理论。信息论是数字时代...",
+      "full_text": "香农将信息量化为比特，建立了通信的数学理论。信息论是数字时代的哲学，一切皆信息是它的宣言。",
       "image": "res://assets/images/illustrations/abstract/abstract_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "abstract_051",
-      "title": "分形艺术",
-      "summary": "分形艺术无限细节，缩放后涌现新图案，数学美学",
-      "full_text": "分形艺术无限细节，缩放后涌现新图案，数学美学",
+      "title": "耗散结构开放",
+      "summary": "普利高津证明开放系统在远离平衡态时可以自发产生有序结构。耗散...",
+      "full_text": "普利高津证明开放系统在远离平衡态时可以自发产生有序结构。耗散结构是混沌中诞生的秩序，生命就是最精妙的耗散结构。",
       "image": "res://assets/images/illustrations/abstract/abstract_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "abstract_052",
-      "title": "对称图案",
-      "summary": "对称图案镜像反射，左右上下对称和谐，秩序之美",
-      "full_text": "对称图案镜像反射，左右上下对称和谐，秩序之美",
+      "title": "协同论合作",
+      "summary": "哈肯提出协同论研究子系统如何通过协作产生宏观有序。协同是自组...",
+      "full_text": "哈肯提出协同论研究子系统如何通过协作产生宏观有序。协同是自组织的机制，个体步调一致产生集体行为。",
       "image": "res://assets/images/illustrations/abstract/abstract_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "abstract_053",
-      "title": "非对称平衡",
-      "summary": "非对称平衡构图，大小疏密视觉均衡，动态平衡",
-      "full_text": "非对称平衡构图，大小疏密视觉均衡，动态平衡",
+      "title": "突变论跳跃",
+      "summary": "托姆提出突变论描述系统状态的突然跳跃，尖点突变是最基本的模型...",
+      "full_text": "托姆提出突变论描述系统状态的突然跳跃，尖点突变是最基本的模型。突变是渐变的中断，量变的积累在临界点爆发为质变。",
       "image": "res://assets/images/illustrations/abstract/abstract_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "abstract_054",
-      "title": "节奏与韵律",
-      "summary": "重复元素创造节奏，疏密变化形成韵律，视觉音乐",
-      "full_text": "重复元素创造节奏，疏密变化形成韵律，视觉音乐",
+      "title": "混沌理论蝴蝶",
+      "summary": "蝴蝶扇翅可能引发远方风暴，微小差异导致截然不同的结果。混沌理...",
+      "full_text": "蝴蝶扇翅可能引发远方风暴，微小差异导致截然不同的结果。混沌理论揭示确定性系统中的不可预测性，长期预报注定失败。",
       "image": "res://assets/images/illustrations/abstract/abstract_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "abstract_055",
-      "title": "留白艺术",
-      "summary": "留白艺术空即是色，虚实相生意境深远，东方美学",
-      "full_text": "留白艺术空即是色，虚实相生意境深远，东方美学",
+      "title": "复杂适应系统",
+      "summary": "经济生态和免疫系统都是复杂适应系统，个体学习适应改变整体。复...",
+      "full_text": "经济生态和免疫系统都是复杂适应系统，个体学习适应改变整体。复杂适应系统在混沌边缘进化，适应是生存的法则。",
       "image": "res://assets/images/illustrations/abstract/abstract_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "abstract_056",
-      "title": "抽象与自然",
-      "summary": "从自然中提取抽象，云纹水波山形简化，意象之美",
-      "full_text": "从自然中提取抽象，云纹水波山形简化，意象之美",
+      "title": "元认知反思",
+      "summary": "思考自己的思考过程，元认知是认知的认知，反思是进步的阶梯。知...",
+      "full_text": "思考自己的思考过程，元认知是认知的认知，反思是进步的阶梯。知道自己不知道什么比知道什么更重要。",
       "image": "res://assets/images/illustrations/abstract/abstract_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "abstract_057",
-      "title": "抽象与情感",
-      "summary": "抽象艺术表达情感，色彩线条传递情绪，心灵对话",
-      "full_text": "抽象艺术表达情感，色彩线条传递情绪，心灵对话",
+      "title": "跨学科融合",
+      "summary": "物理方法研究金融，数学工具分析生物，跨学科融合催生新发现。学...",
+      "full_text": "物理方法研究金融，数学工具分析生物，跨学科融合催生新发现。学科边界是人为划分，自然没有围墙。",
       "image": "res://assets/images/illustrations/abstract/abstract_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "abstract_058",
-      "title": "混沌之美",
-      "summary": "混沌之美蝴蝶效应，有序中诞生无序，复杂系统",
-      "full_text": "混沌之美蝴蝶效应，有序中诞生无序，复杂系统",
+      "title": "模式识别归类",
+      "summary": "大脑自动从杂乱中识别模式，星座是星星的连线而非真实结构。模式...",
+      "full_text": "大脑自动从杂乱中识别模式，星座是星星的连线而非真实结构。模式识别是认知的基础，也是偏见的来源，看见模式不等于发现规律。",
       "image": "res://assets/images/illustrations/abstract/abstract_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "abstract_059",
-      "title": "抽象与音乐",
-      "summary": "康定斯基音乐与色彩，听觉视觉通感联觉，跨感官抽象",
-      "full_text": "康定斯基音乐与色彩，听觉视觉通感联觉，跨感官抽象",
+      "title": "抽象层级思维",
+      "summary": "从具体到抽象逐层提升，从苹果到水果到食物到物质。抽象层级是思...",
+      "full_text": "从具体到抽象逐层提升，从苹果到水果到食物到物质。抽象层级是思维的脚手架，站在更高层看问题视野更广细节更少。",
       "image": "res://assets/images/illustrations/abstract/abstract_059.jpg",
       "image_grid": {
         "x": 3,

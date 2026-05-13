@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "astronomy_000",
-      "title": "太阳耀斑",
-      "summary": "太阳表面耀斑爆发，日冕物质抛射，恒星之心",
-      "full_text": "太阳表面耀斑爆发，日冕物质抛射，恒星之心",
+      "title": "太阳核聚变",
+      "summary": "太阳核心温度高达一千五百万度，氢原子核聚变为氦释放巨大能量，...",
+      "full_text": "太阳核心温度高达一千五百万度，氢原子核聚变为氦释放巨大能量，每秒消耗六亿吨氢。太阳是距地球最近的恒星，核聚变炉燃烧了四十六亿年。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "astronomy_001",
-      "title": "水星陨坑",
-      "summary": "水星表面密布陨石坑，温差极大无大气层，离太阳最近",
-      "full_text": "水星表面密布陨石坑，温差极大无大气层，离太阳最近",
+      "title": "月球潮汐锁定",
+      "summary": "月球自转周期与公转周期相同，永远以同一面朝向地球，这就是潮汐...",
+      "full_text": "月球自转周期与公转周期相同，永远以同一面朝向地球，这就是潮汐锁定。月球是地球唯一的天然卫星，潮汐力还造成了海洋的涨落。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "astronomy_002",
-      "title": "金星厚云",
-      "summary": "金星厚重云层温室效应，表面温度极高，地球的姊妹星",
-      "full_text": "金星厚重云层温室效应，表面温度极高，地球的姊妹星",
+      "title": "水星极端温差",
+      "summary": "水星没有大气层保温，白天温度高达四百三十度，夜晚骤降至零下一...",
+      "full_text": "水星没有大气层保温，白天温度高达四百三十度，夜晚骤降至零下一百八十度。水星是距太阳最近的行星，极端温差是太阳系之最。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "astronomy_003",
-      "title": "地球蓝色星球",
-      "summary": "地球蓝色星球太空视角，海洋白云陆地，生命家园",
-      "full_text": "地球蓝色星球太空视角，海洋白云陆地，生命家园",
+      "title": "金星温室效应",
+      "summary": "金星浓密的二氧化碳大气产生强烈温室效应，表面温度高达四百六十...",
+      "full_text": "金星浓密的二氧化碳大气产生强烈温室效应，表面温度高达四百六十度，比水星还热。金星是地球的邪恶双胞胎，失控的温室效应是气候变化的警示。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_003.jpg",
       "image_grid": {
         "x": 3,
@@ -88,8 +88,8 @@
     {
       "id": "astronomy_004",
       "title": "火星红色荒漠",
-      "summary": "火星红色荒漠尘暴，奥林帕斯山极高，探索目标",
-      "full_text": "火星红色荒漠尘暴，奥林帕斯山极高，探索目标",
+      "summary": "火星表面氧化铁赋予其红色外观，稀薄大气和极低温使其成为寒冷荒...",
+      "full_text": "火星表面氧化铁赋予其红色外观，稀薄大气和极低温使其成为寒冷荒漠。火星是人类最可能殖民的行星，极地冰盖下可能存在液态水。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_004.jpg",
       "image_grid": {
         "x": 3,
@@ -109,8 +109,8 @@
     {
       "id": "astronomy_005",
       "title": "木星大红斑",
-      "summary": "木星大红斑巨型风暴，气态巨行星条纹，太阳系之王",
-      "full_text": "木星大红斑巨型风暴，气态巨行星条纹，太阳系之王",
+      "summary": "木星大红斑是持续数百年的超级风暴，宽度可容纳三个地球，风速超...",
+      "full_text": "木星大红斑是持续数百年的超级风暴，宽度可容纳三个地球，风速超过每小时六百公里。木星是太阳系最大的行星，大红斑是太阳系最壮观的风暴。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "astronomy_006",
-      "title": "土星光环",
-      "summary": "土星壮丽冰粒光环，卡西尼环缝清晰，环中之美",
-      "full_text": "土星壮丽冰粒光环，卡西尼环缝清晰，环中之美",
+      "title": "土星光环冰粒",
+      "summary": "土星光环由无数冰粒和岩石碎片组成，宽达二十八万公里却只有数十...",
+      "full_text": "土星光环由无数冰粒和岩石碎片组成，宽达二十八万公里却只有数十米厚。土星光环是太阳系最美的景观，卡西尼号探测器揭示了环的精细结构。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "astronomy_007",
-      "title": "天王星侧转",
-      "summary": "天王星侧躺自转，蓝绿色冰巨星，独特倾斜",
-      "full_text": "天王星侧躺自转，蓝绿色冰巨星，独特倾斜",
+      "title": "天王星侧躺",
+      "summary": "天王星自转轴几乎躺在公转平面上，可能是远古一次巨大撞击的结果...",
+      "full_text": "天王星自转轴几乎躺在公转平面上，可能是远古一次巨大撞击的结果。天王星是太阳系最冷的行星，甲烷大气赋予其独特的蓝绿色。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "astronomy_008",
-      "title": "海王星深蓝",
-      "summary": "海王星深蓝色大气，风速最快行星，遥远冰巨星",
-      "full_text": "海王星深蓝色大气，风速最快行星，遥远冰巨星",
+      "title": "海王星超级风暴",
+      "summary": "海王星上的风速超过每小时两千公里，是太阳系最快的风，大暗斑忽...",
+      "full_text": "海王星上的风速超过每小时两千公里，是太阳系最快的风，大暗斑忽隐忽现。海王星是太阳系最远的行星，数学预测先于望远镜发现。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "astronomy_009",
-      "title": "小行星带",
-      "summary": "火星木星间小行星带，无数岩石碎片，太阳系遗迹",
-      "full_text": "火星木星间小行星带，无数岩石碎片，太阳系遗迹",
+      "title": "小行星带遗迹",
+      "summary": "火星和木星之间的小行星带包含数百万颗岩石天体，是行星形成时的...",
+      "full_text": "火星和木星之间的小行星带包含数百万颗岩石天体，是行星形成时的残留物。小行星带是太阳系建筑的碎石场，最大小行星谷神星直径约九百五十公里。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "astronomy_010",
-      "title": "彗星长尾",
-      "summary": "彗星接近太阳长尾拖曳，冰尘混合脏雪球，天际过客",
-      "full_text": "彗星接近太阳长尾拖曳，冰尘混合脏雪球，天际过客",
+      "title": "彗星脏雪球",
+      "summary": "彗星由冰和尘埃组成，接近太阳时冰升华形成明亮的彗发和长长的尾...",
+      "full_text": "彗星由冰和尘埃组成，接近太阳时冰升华形成明亮的彗发和长长的尾巴。彗星是太阳系形成时的冷冻化石，哈雷彗星每七十六年回归一次。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "astronomy_011",
-      "title": "流星雨",
-      "summary": "流星雨划过夜空，碎片燃烧发光，许愿时刻",
-      "full_text": "流星雨划过夜空，碎片燃烧发光，许愿时刻",
+      "title": "流星雨许愿",
+      "summary": "地球穿过彗星留下的尘埃带，碎粒以每秒数十公里速度冲入大气燃烧...",
+      "full_text": "地球穿过彗星留下的尘埃带，碎粒以每秒数十公里速度冲入大气燃烧发光。流星雨是宇宙的烟花，英仙座和双子座流星雨每年如期而至。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "astronomy_012",
-      "title": "冥王星心形",
-      "summary": "冥王星心形冰原，新视野号拍摄，矮行星之美",
-      "full_text": "冥王星心形冰原，新视野号拍摄，矮行星之美",
+      "title": "柯伊伯带冰封",
+      "summary": "海王星轨道外的柯伊伯带包含数万颗冰冻天体，冥王星是其中最著名...",
+      "full_text": "海王星轨道外的柯伊伯带包含数万颗冰冻天体，冥王星是其中最著名的成员。柯伊伯带是太阳系的冷库，短周期彗星大多来自这里。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "astronomy_013",
-      "title": "柯伊伯带",
-      "summary": "柯伊伯带海王星外，冰冷天体聚集，太阳系边疆",
-      "full_text": "柯伊伯带海王星外，冰冷天体聚集，太阳系边疆",
+      "title": "奥尔特云边界",
+      "summary": "奥尔特云是太阳系最外层的球壳状彗星库，距太阳可达一光年之遥。...",
+      "full_text": "奥尔特云是太阳系最外层的球壳状彗星库，距太阳可达一光年之遥。奥尔特云是太阳引力统治的边界，长周期彗星从这里出发造访内太阳系。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "astronomy_014",
-      "title": "日食奇观",
-      "summary": "日全食月球遮太阳，日冕钻石环，天文奇观",
-      "full_text": "日全食月球遮太阳，日冕钻石环，天文奇观",
+      "title": "系外行星搜寻",
+      "summary": "开普勒望远镜通过凌日法发现数千颗系外行星，有些位于宜居带可能...",
+      "full_text": "开普勒望远镜通过凌日法发现数千颗系外行星，有些位于宜居带可能存在液态水。系外行星的发现让我们知道行星系统在宇宙中普遍存在。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "astronomy_015",
-      "title": "月食红月",
-      "summary": "月全食红铜色月亮，地球影子折射，天象之美",
-      "full_text": "月全食红铜色月亮，地球影子折射，天象之美",
+      "title": "恒星光谱分类",
+      "summary": "天文学家根据恒星光谱将恒星分为OBAFGKM七类，从蓝色高温...",
+      "full_text": "天文学家根据恒星光谱将恒星分为OBAFGKM七类，从蓝色高温到红色低温。赫罗图上恒星按光度和温度分布，主序星、红巨星和白矮星各居其位。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "astronomy_016",
-      "title": "银河系全景",
-      "summary": "银河系旋臂结构，千亿恒星盘面，我们的星系",
-      "full_text": "银河系旋臂结构，千亿恒星盘面，我们的星系",
+      "title": "红巨星膨胀",
+      "summary": "恒星耗尽核心氢燃料后外层膨胀成为红巨星，太阳五十亿年后将吞没...",
+      "full_text": "恒星耗尽核心氢燃料后外层膨胀成为红巨星，太阳五十亿年后将吞没地球轨道。红巨星是恒星晚年的膨胀，氦闪和碳燃烧是生命最后的辉煌。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "astronomy_017",
-      "title": "猎户座星云",
-      "summary": "猎户座大星云恒星诞生，气体尘埃发光，宇宙摇篮",
-      "full_text": "猎户座大星云恒星诞生，气体尘埃发光，宇宙摇篮",
+      "title": "白矮星致密",
+      "summary": "太阳质量恒星死亡后核心坍缩为白矮星，地球大小却有太阳质量，一...",
+      "full_text": "太阳质量恒星死亡后核心坍缩为白矮星，地球大小却有太阳质量，一茶匙重达数吨。白矮星是恒星的墓碑，电子简并压支撑其不再坍缩。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "astronomy_018",
-      "title": "仙女座星系",
-      "summary": "仙女座星系螺旋臂，距银河最近大星系，未来碰撞",
-      "full_text": "仙女座星系螺旋臂，距银河最近大星系，未来碰撞",
+      "title": "中子星脉冲",
+      "summary": "超新星爆发后核心坍缩为中子星，直径仅二十公里却有太阳质量，自...",
+      "full_text": "超新星爆发后核心坍缩为中子星，直径仅二十公里却有太阳质量，自转发出脉冲信号。脉冲星是宇宙的灯塔，毫秒脉冲星计时精度堪比原子钟。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "astronomy_019",
-      "title": "黑洞吞噬",
-      "summary": "黑洞事件视界吞噬一切，引力极强光无法逃逸，时空奇点",
-      "full_text": "黑洞事件视界吞噬一切，引力极强光无法逃逸，时空奇点",
+      "title": "超新星爆发",
+      "summary": "大质量恒星死亡时核心坍缩引发超新星爆发，亮度短暂超过整个星系...",
+      "full_text": "大质量恒星死亡时核心坍缩引发超新星爆发，亮度短暂超过整个星系。超新星是宇宙的炼金炉，比铁更重的元素都在超新星中锻造。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "astronomy_020",
-      "title": "中子星脉冲",
-      "summary": "中子星密度极高脉冲信号，一勺重亿吨，极端天体",
-      "full_text": "中子星密度极高脉冲信号，一勺重亿吨，极端天体",
+      "title": "银河系旋臂",
+      "summary": "银河系是棒旋星系，太阳系位于猎户臂上距中心约二万六千光年。银...",
+      "full_text": "银河系是棒旋星系，太阳系位于猎户臂上距中心约二万六千光年。银河系直径约十万光年，包含两千亿颗恒星，夜晚的银河是侧视星盘的投影。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "astronomy_021",
-      "title": "超新星爆发",
-      "summary": "超新星爆发恒星死亡，光芒照亮整个星系，元素工厂",
-      "full_text": "超新星爆发恒星死亡，光芒照亮整个星系，元素工厂",
+      "title": "星系碰撞合并",
+      "summary": "银河系和仙女座星系正以每秒一百一十公里的速度靠近，四十亿年后...",
+      "full_text": "银河系和仙女座星系正以每秒一百一十公里的速度靠近，四十亿年后将碰撞合并。星系碰撞是宇宙的常态，引力舞蹈中恒星很少真正相撞。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "astronomy_022",
-      "title": "白矮星冷却",
-      "summary": "白矮星恒星残骸，电子简并压支撑，缓慢冷却",
-      "full_text": "白矮星恒星残骸，电子简并压支撑，缓慢冷却",
+      "title": "星系团大尺度",
+      "summary": "数千个星系组成星系团，星系团又组成超星系团，宇宙呈现泡沫状大...",
+      "full_text": "数千个星系组成星系团，星系团又组成超星系团，宇宙呈现泡沫状大尺度结构。可观测宇宙包含两万亿个星系，每个星系都是一座恒星的城市。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "astronomy_023",
-      "title": "星系碰撞",
-      "summary": "星系碰撞引力交互，潮汐尾恒星形成，宇宙大戏",
-      "full_text": "星系碰撞引力交互，潮汐尾恒星形成，宇宙大戏",
+      "title": "宇宙微波背景",
+      "summary": "宇宙大爆炸三十八万年后光子脱耦形成微波背景辐射，温度仅比绝对...",
+      "full_text": "宇宙大爆炸三十八万年后光子脱耦形成微波背景辐射，温度仅比绝对零度高二点七度。宇宙微波背景是创世的余晖，微小的温度涨落孕育了今天的星系。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "astronomy_024",
-      "title": "暗物质晕",
-      "summary": "暗物质包围星系，看不见却占大部分质量，宇宙骨架",
-      "full_text": "暗物质包围星系，看不见却占大部分质量，宇宙骨架",
+      "title": "大爆炸创世",
+      "summary": "一百三十八亿年前宇宙从一个极热极密的奇点开始膨胀，空间本身在...",
+      "full_text": "一百三十八亿年前宇宙从一个极热极密的奇点开始膨胀，空间本身在膨胀而非物质飞散。大爆炸是宇宙的起源，从纯能量到基本粒子到原子到恒星到生命。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "astronomy_025",
-      "title": "引力透镜",
-      "summary": "引力透镜弯曲光线，大质量天体放大背景，爱因斯坦预言",
-      "full_text": "引力透镜弯曲光线，大质量天体放大背景，爱因斯坦预言",
+      "title": "宇宙膨胀加速",
+      "summary": "一九九八年观测发现宇宙膨胀正在加速，暗能量是推动加速的神秘力...",
+      "full_text": "一九九八年观测发现宇宙膨胀正在加速，暗能量是推动加速的神秘力量。宇宙的最终命运取决于暗能量的性质，大撕裂还是热寂仍是未知。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "astronomy_026",
-      "title": "宇宙微波背景",
-      "summary": "宇宙微波背景辐射，大爆炸余温均匀，宇宙婴儿照",
-      "full_text": "宇宙微波背景辐射，大爆炸余温均匀，宇宙婴儿照",
+      "title": "黑洞引力深渊",
+      "summary": "大质量恒星死亡后核心坍缩形成黑洞，引力强到连光都无法逃逸。黑...",
+      "full_text": "大质量恒星死亡后核心坍缩形成黑洞，引力强到连光都无法逃逸。黑洞是时空的深渊，事件视界是不可逆的边界，霍金辐射让黑洞也有温度。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "astronomy_027",
-      "title": "系外行星",
-      "summary": "系外行星凌日法发现，宜居带超级地球，外星世界",
-      "full_text": "系外行星凌日法发现，宜居带超级地球，外星世界",
+      "title": "引力波探测",
+      "summary": "LIGO探测器捕捉到双黑洞合并产生的引力波信号，时空涟漪以光...",
+      "full_text": "LIGO探测器捕捉到双黑洞合并产生的引力波信号，时空涟漪以光速传播。引力波天文学打开了观测宇宙的新窗口，听到了时空的震颤。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "astronomy_028",
-      "title": "星团聚集",
-      "summary": "球状星团百万恒星，古老宇宙化石，密集星群",
-      "full_text": "球状星团百万恒星，古老宇宙化石，密集星群",
+      "title": "望远镜发展史",
+      "summary": "从伽利略的折射望远镜到韦伯太空望远镜，四百年间望远镜口径从几...",
+      "full_text": "从伽利略的折射望远镜到韦伯太空望远镜，四百年间望远镜口径从几厘米增大到六点五米。望远镜是人类延伸的眼睛，看得越远理解越深。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "astronomy_029",
-      "title": "行星状星云",
-      "summary": "行星状星云恒星晚年，气体壳层色彩斑斓，死亡之美",
-      "full_text": "行星状星云恒星晚年，气体壳层色彩斑斓，死亡之美",
+      "title": "哈勃太空望远镜",
+      "summary": "哈勃望远镜在地球轨道上拍摄深场照片，一张照片中包含上万个遥远...",
+      "full_text": "哈勃望远镜在地球轨道上拍摄深场照片，一张照片中包含上万个遥远星系。哈勃深场是宇宙最深处的肖像，每一团光斑都是一个星系。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "astronomy_030",
-      "title": "类星体",
-      "summary": "类星体遥远极亮，超大质量黑洞吸积，宇宙灯塔",
-      "full_text": "类星体遥远极亮，超大质量黑洞吸积，宇宙灯塔",
+      "title": "韦伯红外望远镜",
+      "summary": "韦伯太空望远镜在日地拉格朗日L2点工作，红外波段穿透尘埃观测...",
+      "full_text": "韦伯太空望远镜在日地拉格朗日L2点工作，红外波段穿透尘埃观测恒星诞生。韦伯是哈勃的继任者，金色的铍镜面映照出宇宙最初的星光。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "astronomy_031",
-      "title": "斯普特尼克一号",
-      "summary": "苏联发射第一颗人造卫星，太空时代开启，1957年",
-      "full_text": "苏联发射第一颗人造卫星，太空时代开启，1957年",
+      "title": "射电望远镜听",
+      "summary": "中国天眼FAST口径五百米，是世界上最灵敏的射电望远镜，能听...",
+      "full_text": "中国天眼FAST口径五百米，是世界上最灵敏的射电望远镜，能听到百亿光年外的信号。射电望远镜用耳朵看宇宙，脉冲星和星际分子都是它的发现。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "astronomy_032",
-      "title": "加加林太空",
-      "summary": "加加林首次载人航天，东方一号绕地球，太空第一人",
-      "full_text": "加加林首次载人航天，东方一号绕地球，太空第一人",
+      "title": "空间站观测",
+      "summary": "国际空间站在四百公里轨道上绕地球飞行，宇航员每天看到十六次日...",
+      "full_text": "国际空间站在四百公里轨道上绕地球飞行，宇航员每天看到十六次日出。空间站是太空中的前哨站，微重力环境为天文观测和科学实验提供独特条件。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "astronomy_033",
-      "title": "阿波罗登月",
-      "summary": "阿波罗11号登月，阿姆斯特朗一小步，人类壮举",
-      "full_text": "阿波罗11号登月，阿姆斯特朗一小步，人类壮举",
+      "title": "火星探测车",
+      "summary": "好奇号和毅力号火星车在火星表面行驶取样分析，寻找古代水和生命...",
+      "full_text": "好奇号和毅力号火星车在火星表面行驶取样分析，寻找古代水和生命的痕迹。火星探测是人类迈向深空的第一步，红色星球的秘密正在被揭开。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "astronomy_034",
-      "title": "国际空间站",
-      "summary": "国际空间站绕地飞行，多国合作太空实验室，轨道家园",
-      "full_text": "国际空间站绕地飞行，多国合作太空实验室，轨道家园",
+      "title": "旅行者号远航",
+      "summary": "旅行者一号已飞出日球层进入星际空间，携带的金唱片记录了地球的...",
+      "full_text": "旅行者一号已飞出日球层进入星际空间，携带的金唱片记录了地球的声音和影像。旅行者号是人类最远的信使，四十年后仍在向地球发送信号。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "astronomy_035",
-      "title": "哈勃望远镜",
-      "summary": "哈勃太空望远镜深空拍摄，宇宙边缘影像，天文之眼",
-      "full_text": "哈勃太空望远镜深空拍摄，宇宙边缘影像，天文之眼",
+      "title": "日食月食天象",
+      "summary": "月球运行到太阳和地球之间遮挡阳光形成日食，地球遮挡阳光照到月...",
+      "full_text": "月球运行到太阳和地球之间遮挡阳光形成日食，地球遮挡阳光照到月球形成月食。日全食是自然界最壮观的天象，太阳的日冕在月影中如珍珠般闪耀。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "astronomy_036",
-      "title": "韦伯望远镜",
-      "summary": "詹姆斯韦伯太空望远镜，红外波段看宇宙，新一代天文台",
-      "full_text": "詹姆斯韦伯太空望远镜，红外波段看宇宙，新一代天文台",
+      "title": "极光太阳风",
+      "summary": "太阳风带电粒子沿磁力线进入极区大气，激发氧原子发绿光氮分子发...",
+      "full_text": "太阳风带电粒子沿磁力线进入极区大气，激发氧原子发绿光氮分子发紫光。极光是太阳与地球磁场的对话，极区夜空中的光之帷幕如梦似幻。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "astronomy_037",
-      "title": "火星探测器",
-      "summary": "好奇号火星车探测，岩石分析寻找水迹，红色星球探索",
-      "full_text": "好奇号火星车探测，岩石分析寻找水迹，红色星球探索",
+      "title": "潮汐引力作用",
+      "summary": "月球和太阳的引力拉扯地球海洋产生潮汐，大潮发生在朔望月小潮发...",
+      "full_text": "月球和太阳的引力拉扯地球海洋产生潮汐，大潮发生在朔望月小潮发生在上下弦。潮汐力还导致月球远离地球和地球自转减慢，宇宙的刹车缓慢而坚定。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "astronomy_038",
-      "title": "旅行者号",
-      "summary": "旅行者号飞出太阳系，金唱片携带地球信息，星际信使",
-      "full_text": "旅行者号飞出太阳系，金唱片携带地球信息，星际信使",
+      "title": "恒星诞生星云",
+      "summary": "巨分子云在引力作用下坍缩碎裂，原恒星在云核中点燃核聚变，周围...",
+      "full_text": "巨分子云在引力作用下坍缩碎裂，原恒星在云核中点燃核聚变，周围形成行星盘。猎户座大星云是最近的恒星摇篮，哈勃照片中新生恒星如宝石般闪耀。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "astronomy_039",
-      "title": "天问一号",
-      "summary": "中国天问一号火星探测，祝融号火星车着陆，航天里程碑",
-      "full_text": "中国天问一号火星探测，祝融号火星车着陆，航天里程碑",
+      "title": "行星状星云",
+      "summary": "中等质量恒星晚期抛射外层气体形成行星状星云，核心裸露为白矮星...",
+      "full_text": "中等质量恒星晚期抛射外层气体形成行星状星云，核心裸露为白矮星照亮气体壳层。行星状星云是恒星死亡的花环，环状星云和猫眼星云美如宇宙珠宝。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "astronomy_040",
-      "title": "北斗导航",
-      "summary": "北斗卫星导航系统，全球定位授时服务，中国导航",
-      "full_text": "北斗卫星导航系统，全球定位授时服务，中国导航",
+      "title": "双星系统互绕",
+      "summary": "两颗恒星在引力作用下相互绕转，密近双星间物质转移引发新星爆发...",
+      "full_text": "两颗恒星在引力作用下相互绕转，密近双星间物质转移引发新星爆发。双星系统是恒星世界的常见形态，天狼星和北河二都是双星系统。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "astronomy_041",
-      "title": "嫦娥探月",
-      "summary": "嫦娥号月球探测采样，月背软着陆首次，探月工程",
-      "full_text": "嫦娥号月球探测采样，月背软着陆首次，探月工程",
+      "title": "变星光度变化",
+      "summary": "造父变星光度周期性变化，周期与光度成正比，是测量星系距离的标...",
+      "full_text": "造父变星光度周期性变化，周期与光度成正比，是测量星系距离的标准烛光。造父变星让人类首次测量了银河系的大小和宇宙的尺度。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "astronomy_042",
-      "title": "空间站建设",
-      "summary": "中国天宫空间站组装，核心舱实验舱，太空家园",
-      "full_text": "中国天宫空间站组装，核心舱实验舱，太空家园",
+      "title": "暗物质证据",
+      "summary": "星系旋转曲线和引力透镜效应都指向暗物质的存在，但粒子探测器至...",
+      "full_text": "星系旋转曲线和引力透镜效应都指向暗物质的存在，但粒子探测器至今未捕获。暗物质占宇宙质量的百分之二十七，是宇宙中最大的未解之谜。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "astronomy_043",
-      "title": "太空行走",
-      "summary": "宇航员太空行走出舱，失重下维修作业，太空漫步",
-      "full_text": "宇航员太空行走出舱，失重下维修作业，太空漫步",
+      "title": "引力透镜效应",
+      "summary": "大质量天体弯曲周围时空，背后光源的光线被偏折形成多重像或弧形...",
+      "full_text": "大质量天体弯曲周围时空，背后光源的光线被偏折形成多重像或弧形。引力透镜是天然的宇宙望远镜，爱因斯坦环是广义相对论最优雅的验证。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "astronomy_044",
-      "title": "火箭发射",
-      "summary": "长征火箭点火升空，尾焰喷射震天动地，航天动力",
-      "full_text": "长征火箭点火升空，尾焰喷射震天动地，航天动力",
+      "title": "宇宙射线高能",
+      "summary": "超高能宇宙射线从太空轰击地球大气，能量远超人造加速器，来源至...",
+      "full_text": "超高能宇宙射线从太空轰击地球大气，能量远超人造加速器，来源至今成谜。宇宙射线是来自深空的高能信使，次级粒子在地面上形成看不见的粒子雨。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "astronomy_045",
-      "title": "太空垃圾",
-      "summary": "太空垃圾碎片环绕地球，碰撞风险增加，轨道清洁",
-      "full_text": "太空垃圾碎片环绕地球，碰撞风险增加，轨道清洁",
+      "title": "太阳系形成",
+      "summary": "四十六亿年前太阳星云在引力作用下坍缩，中心形成太阳周围形成行...",
+      "full_text": "四十六亿年前太阳星云在引力作用下坍缩，中心形成太阳周围形成行星盘。太阳系从尘埃中诞生，八大行星各据其位，每颗都记录着形成时的故事。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "astronomy_046",
-      "title": "深空探测",
-      "summary": "深空探测小行星采样，隼鸟号返回，太阳系考古",
-      "full_text": "深空探测小行星采样，隼鸟号返回，太阳系考古",
+      "title": "宜居带生命",
+      "summary": "宜居带是恒星周围液态水可能存在的区域，地球恰好位于太阳宜居带...",
+      "full_text": "宜居带是恒星周围液态水可能存在的区域，地球恰好位于太阳宜居带内。宜居带是搜寻地外生命的目标区域，但生命可能存在于更广阔的环境中。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "astronomy_047",
-      "title": "航天飞机",
-      "summary": "航天飞机可重复使用，像飞机降落轨道飞行，航天时代",
-      "full_text": "航天飞机可重复使用，像飞机降落轨道飞行，航天时代",
+      "title": "地外文明搜寻",
+      "summary": "SETI项目用射电望远镜监听可能的外星信号，德雷克方程估算银...",
+      "full_text": "SETI项目用射电望远镜监听可能的外星信号，德雷克方程估算银河系中文明数量。搜寻地外文明是人类最浪漫的科学探索，沉默的宇宙是最深邃的谜题。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "astronomy_048",
-      "title": "太空旅游",
-      "summary": "太空旅游商业飞行，维珍银河蓝色起源，平民上太空",
-      "full_text": "太空旅游商业飞行，维珍银河蓝色起源，平民上太空",
+      "title": "空间探测器",
+      "summary": "新视野号飞越冥王星传回高清照片，卡西尼号环绕土星十三年揭示环...",
+      "full_text": "新视野号飞越冥王星传回高清照片，卡西尼号环绕土星十三年揭示环系秘密。空间探测器是人类派往太阳系的侦察兵，每个探测器都是一次孤独的远征。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "astronomy_049",
-      "title": "火星殖民",
-      "summary": "火星殖民概念规划，穹顶基地改造大气，第二家园",
-      "full_text": "火星殖民概念规划，穹顶基地改造大气，第二家园",
+      "title": "天文导航定位",
+      "summary": "古代航海者用六分仪测量北极星高度确定纬度，天文导航是人类最早...",
+      "full_text": "古代航海者用六分仪测量北极星高度确定纬度，天文导航是人类最早的定位方式。从星盘到GPS，人类从未停止仰望星空寻找方向。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "astronomy_050",
-      "title": "天文台观测",
-      "summary": "天文台圆顶望远镜，长曝光拍摄深空，观星圣地",
-      "full_text": "天文台圆顶望远镜，长曝光拍摄深空，观星圣地",
+      "title": "历法天文周期",
+      "summary": "农历根据月相周期制定，公历根据地球公转周期制定，闰年闰月修正...",
+      "full_text": "农历根据月相周期制定，公历根据地球公转周期制定，闰年闰月修正误差。历法是人类将天文周期转化为时间制度的智慧，历法改革牵动文明进程。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "astronomy_051",
-      "title": "射电望远镜",
-      "summary": "中国天眼FAST射电望远镜，接收宇宙信号，聆听宇宙",
-      "full_text": "中国天眼FAST射电望远镜，接收宇宙信号，聆听宇宙",
+      "title": "天球坐标系",
+      "summary": "天球上用赤经赤纬定位天体，如同地球上的经度纬度，星图是天球的...",
+      "full_text": "天球上用赤经赤纬定位天体，如同地球上的经度纬度，星图是天球的地图。天球坐标系让天文学家精确定位每颗星，星表是宇宙的户籍册。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "astronomy_052",
-      "title": "天文历法",
-      "summary": "天文历法日食月食预测，二十四节气，时间与星空",
-      "full_text": "天文历法日食月食预测，二十四节气，时间与星空",
+      "title": "星际介质尘埃",
+      "summary": "星际空间并非真空，弥漫着稀薄的气体和尘埃，暗星云遮挡背后星光...",
+      "full_text": "星际空间并非真空，弥漫着稀薄的气体和尘埃，暗星云遮挡背后星光。星际介质是恒星诞生的原料，暗星云是宇宙的幕布，遮住了幕后的演出。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "astronomy_053",
-      "title": "星座图",
-      "summary": "全天88星座划分，北斗七星猎户座，星空地图",
-      "full_text": "全天88星座划分，北斗七星猎户座，星空地图",
+      "title": "类星体遥远灯塔",
+      "summary": "类星体是极其遥远的活跃星系核，亮度堪比整座星系，由超大质量黑...",
+      "full_text": "类星体是极其遥远的活跃星系核，亮度堪比整座星系，由超大质量黑洞吸积驱动。类星体是宇宙最亮的天体，光芒穿越百亿光年照亮宇宙早期历史。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "astronomy_054",
-      "title": "宇宙大爆炸",
-      "summary": "宇宙大爆炸138亿年前，从奇点到星系，万物起源",
-      "full_text": "宇宙大爆炸138亿年前，从奇点到星系，万物起源",
+      "title": "伽马射线暴",
+      "summary": "伽马射线暴是宇宙中最猛烈的爆发，短至毫秒长至数分钟，释放能量...",
+      "full_text": "伽马射线暴是宇宙中最猛烈的爆发，短至毫秒长至数分钟，释放能量超过太阳一生。伽马射线暴可能是大质量恒星死亡或中子星合并的信号。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "astronomy_055",
-      "title": "宇宙膨胀",
-      "summary": "哈勃发现宇宙膨胀，星系红移退行速度，加速膨胀",
-      "full_text": "哈勃发现宇宙膨胀，星系红移退行速度，加速膨胀",
+      "title": "多信使天文学",
+      "summary": "中子星合并同时产生引力波和电磁信号，多信使天文学同时用耳朵和...",
+      "full_text": "中子星合并同时产生引力波和电磁信号，多信使天文学同时用耳朵和眼睛观测宇宙。多信使天文学是天文学的新纪元，引力波与光联手揭开宇宙秘密。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "astronomy_056",
-      "title": "多重宇宙",
-      "summary": "多重宇宙理论推测，平行世界泡泡宇宙，终极想象",
-      "full_text": "多重宇宙理论推测，平行世界泡泡宇宙，终极想象",
+      "title": "太空碎片清理",
+      "summary": "近地轨道上数百万个太空碎片以极高速度飞行，一块油漆就能击穿航...",
+      "full_text": "近地轨道上数百万个太空碎片以极高速度飞行，一块油漆就能击穿航天器。太空碎片是人类的太空垃圾，凯斯勒效应可能锁死人类走向深空的道路。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "astronomy_057",
-      "title": "外星生命",
-      "summary": "外星生命搜寻计划，SETI监听信号，我们是否孤独",
-      "full_text": "外星生命搜寻计划，SETI监听信号，我们是否孤独",
+      "title": "月球基地规划",
+      "summary": "各国规划在月球南极建立永久基地，利用极地水冰和永昼区太阳能资...",
+      "full_text": "各国规划在月球南极建立永久基地，利用极地水冰和永昼区太阳能资源。月球基地是人类走向深空的跳板，从月球出发火星更近一步。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "astronomy_058",
-      "title": "时间本质",
-      "summary": "时间本质相对论，时间膨胀虫洞穿越，时空之谜",
-      "full_text": "时间本质相对论，时间膨胀虫洞穿越，时空之谜",
+      "title": "火星殖民愿景",
+      "summary": "火星殖民需要解决辐射防护和氧气供给，地下居住和就地取材是可行...",
+      "full_text": "火星殖民需要解决辐射防护和氧气供给，地下居住和就地取材是可行方案。火星殖民是人类最宏大的工程，让生命成为多行星物种。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "astronomy_059",
-      "title": "宇宙命运",
-      "summary": "宇宙命运热寂大撕裂，最终结局推测，终极问题",
-      "full_text": "宇宙命运热寂大撕裂，最终结局推测，终极问题",
+      "title": "戴森球巨构",
+      "summary": "戴森球是包裹恒星收集全部能量的巨构，二级文明才能建造如此宏伟...",
+      "full_text": "戴森球是包裹恒星收集全部能量的巨构，二级文明才能建造如此宏伟的工程。戴森球是文明等级的标尺，人类目前还不到一级文明。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "astronomy_060",
-      "title": "天文教育",
-      "summary": "天文教育普及观星，天文馆科普展览，仰望星空",
-      "full_text": "天文教育普及观星，天文馆科普展览，仰望星空",
+      "title": "日球层太阳风泡",
+      "summary": "太阳风在星际介质中吹出一个气泡状区域称为日球层，旅行者号已穿...",
+      "full_text": "太阳风在星际介质中吹出一个气泡状区域称为日球层，旅行者号已穿越日球层顶。日球层是太阳的领地，太阳风在星际空间中撑起的保护伞。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "astronomy_061",
-      "title": "航天精神",
-      "summary": "航天精神特别能吃苦攻关，逐梦太空，星辰大海",
-      "full_text": "航天精神特别能吃苦攻关，逐梦太空，星辰大海",
+      "title": "潮汐力撕裂",
+      "summary": "彗星过近日点时被太阳潮汐力撕裂，苏梅克列维彗星碎成二十一块撞...",
+      "full_text": "彗星过近日点时被太阳潮汐力撕裂，苏梅克列维彗星碎成二十一块撞向木星。潮汐力是引力的差值，近处引力大远处引力小，差值足以撕碎天体。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "astronomy_062",
-      "title": "系外卫星",
-      "summary": "系外卫星搜寻计划，木卫二冰下海洋，地外生命候选",
-      "full_text": "系外卫星搜寻计划，木卫二冰下海洋，地外生命候选",
+      "title": "星等亮度标尺",
+      "summary": "古希腊人将肉眼可见星分为六等，现代星等每差五等亮度差一百倍。...",
+      "full_text": "古希腊人将肉眼可见星分为六等，现代星等每差五等亮度差一百倍。星等是天文亮度的标尺，太阳负二十六等满月负十二等北极星二等。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "astronomy_063",
-      "title": "引力波探测",
-      "summary": "LIGO探测引力波，双黑洞合并时空涟漪，爱因斯坦预言",
-      "full_text": "LIGO探测引力波，双黑洞合并时空涟漪，爱因斯坦预言",
+      "title": "光谱红移测距",
+      "summary": "哈勃发现遥远星系光谱红移量与距离成正比，红移越大距离越远膨胀...",
+      "full_text": "哈勃发现遥远星系光谱红移量与距离成正比，红移越大距离越远膨胀越快。哈勃定律是宇宙膨胀的直接证据，红移是测量宇宙距离的尺子。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "astronomy_064",
-      "title": "太空资源开发",
-      "summary": "小行星采矿稀有金属，太空资源开发利用，未来产业",
-      "full_text": "小行星采矿稀有金属，太空资源开发利用，未来产业",
+      "title": "拉格朗日点平衡",
+      "summary": "日地系统五个拉格朗日点中L2点最适合作天文台位置，韦伯望远镜...",
+      "full_text": "日地系统五个拉格朗日点中L2点最适合作天文台位置，韦伯望远镜就在此驻留。拉格朗日点是三体问题的特解，太空中的停车位。",
       "image": "res://assets/images/illustrations/astronomy/astronomy_064.jpg",
       "image_grid": {
         "x": 3,

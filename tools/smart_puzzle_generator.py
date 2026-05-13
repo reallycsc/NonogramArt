@@ -1,97 +1,125 @@
 import os
 import json
 
+UNKNOWN = 0
+FILLED = 1
+EMPTY = 2
+
+
 class NonogramSolver:
     @staticmethod
     def solve(row_clues, col_clues):
         rows = len(row_clues)
         cols = len(col_clues)
-        grid = [[0]*cols for _ in range(rows)]
-        known = [[False]*cols for _ in range(rows)]
-        
+        grid = [[UNKNOWN] * cols for _ in range(rows)]
+
         changed = True
-        max_iter = rows * cols * 5
-        
+        max_iter = rows * cols * 10
+
         for _ in range(max_iter):
             if not changed:
                 break
             changed = False
-            
+
             for i in range(rows):
-                clues = row_clues[i]
-                possible = NonogramSolver._get_line_permutations(clues, cols)
-                for j in range(cols):
-                    if known[i][j]:
-                        continue
-                    all_filled = all(p[j] == 1 for p in possible)
-                    all_empty = all(p[j] == 0 for p in possible)
-                    if all_filled:
-                        grid[i][j] = 1
-                        known[i][j] = True
+                current = [grid[i][c] for c in range(cols)]
+                new_states = NonogramSolver._line_solve(row_clues[i], current, cols)
+                for c in range(cols):
+                    if new_states[c] != UNKNOWN and grid[i][c] == UNKNOWN:
+                        grid[i][c] = new_states[c]
                         changed = True
-                    elif all_empty:
-                        grid[i][j] = 0
-                        known[i][j] = True
-                        changed = True
-            
+
             for j in range(cols):
-                clues = col_clues[j]
-                possible = NonogramSolver._get_line_permutations(clues, rows)
-                for i in range(rows):
-                    if known[i][j]:
-                        continue
-                    col_vals = [p[i] for p in possible]
-                    all_filled = all(v == 1 for v in col_vals)
-                    all_empty = all(v == 0 for v in col_vals)
-                    if all_filled:
-                        grid[i][j] = 1
-                        known[i][j] = True
+                current = [grid[r][j] for r in range(rows)]
+                new_states = NonogramSolver._line_solve(col_clues[j], current, rows)
+                for r in range(rows):
+                    if new_states[r] != UNKNOWN and grid[r][j] == UNKNOWN:
+                        grid[r][j] = new_states[r]
                         changed = True
-                    elif all_empty:
-                        grid[i][j] = 0
-                        known[i][j] = True
-                        changed = True
-        
+
+        solvable = all(cell != UNKNOWN for row in grid for cell in row)
+        known_count = sum(1 for row in grid for cell in row if cell != UNKNOWN)
+
         return {
-            'solvable': all(all(row) for row in known),
-            'solution': grid,
-            'known_cells': sum(sum(row) for row in known),
-            'total_cells': rows * cols
+            "solvable": solvable,
+            "solution": [[1 if cell == FILLED else 0 for cell in row] for row in grid],
+            "known_cells": known_count,
+            "total_cells": rows * cols,
         }
-    
+
     @staticmethod
-    def _get_line_permutations(clues, length):
-        if not clues or clues == [0]:
-            return [[0]*length]
-        
-        total_filled = sum(clues)
-        total_gaps = len(clues) - 1
-        min_len = total_filled + total_gaps
-        
-        if min_len > length:
-            return []
-        
-        result = []
-        NonogramSolver._generate_permutations(clues, length, 0, [], result)
+    def _line_solve(clues, current_states, line_length):
+        if not clues or (len(clues) == 1 and clues[0] == 0):
+            return [EMPTY] * line_length
+
+        arrangements = NonogramSolver._generate_arrangements(clues, current_states, line_length)
+        if not arrangements:
+            return list(current_states)
+
+        result = [UNKNOWN] * line_length
+        for i in range(line_length):
+            if current_states[i] != UNKNOWN:
+                result[i] = current_states[i]
+                continue
+            all_filled = all(arr[i] == FILLED for arr in arrangements)
+            all_empty = all(arr[i] == EMPTY for arr in arrangements)
+            if all_filled:
+                result[i] = FILLED
+            elif all_empty:
+                result[i] = EMPTY
         return result
-    
+
     @staticmethod
-    def _generate_permutations(clues, length, start, current, result):
-        if not clues:
-            if start <= length:
-                result.append(current + [0]*(length - len(current)))
+    def _generate_arrangements(clues, current_states, line_length):
+        results = []
+        NonogramSolver._place_blocks(clues, 0, 0, current_states, line_length, [], results)
+        return results
+
+    @staticmethod
+    def _place_blocks(clues, clue_idx, start_pos, current_states, line_length, partial, results):
+        if clue_idx >= len(clues):
+            arrangement = [EMPTY] * line_length
+            for pos in partial:
+                for i in pos:
+                    arrangement[i] = FILLED
+            for i in range(line_length):
+                if current_states[i] == FILLED and arrangement[i] != FILLED:
+                    return
+                if current_states[i] == EMPTY and arrangement[i] != EMPTY:
+                    return
+            results.append(arrangement)
             return
-        
-        clue = clues[0]
-        remaining = clues[1:]
-        min_remaining = sum(remaining) + len(remaining)
-        max_start = length - min_remaining - clue + 1
-        
-        for i in range(start, max_start + 1):
-            new_current = current + [0]*(i - len(current)) + [1]*clue
-            if remaining:
-                new_current.append(0)
-            NonogramSolver._generate_permutations(remaining, length, i + clue + 1, new_current, result)
+
+        block_size = clues[clue_idx]
+        min_remaining = sum(clues[k] + 1 for k in range(clue_idx + 1, len(clues)))
+        max_start = line_length - block_size - min_remaining
+
+        for pos in range(start_pos, max_start + 1):
+            can_place = True
+            for i in range(start_pos, pos):
+                if current_states[i] == FILLED:
+                    can_place = False
+                    break
+            if not can_place:
+                break
+
+            block_valid = True
+            for i in range(pos, pos + block_size):
+                if current_states[i] == EMPTY:
+                    block_valid = False
+                    break
+            if not block_valid:
+                continue
+
+            if pos + block_size < line_length and current_states[pos + block_size] == FILLED:
+                if block_size == clues[clue_idx]:
+                    continue
+
+            new_partial = list(partial)
+            block_positions = list(range(pos, pos + block_size))
+            new_partial.append(block_positions)
+            next_start = pos + block_size + 1
+            NonogramSolver._place_blocks(clues, clue_idx + 1, next_start, current_states, line_length, new_partial, results)
 
 ERA_CONFIG = {
     "mythology": {"size": 5, "difficulty": "easy"},

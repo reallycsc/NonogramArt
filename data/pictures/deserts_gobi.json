@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "deserts_gobi_000",
-      "title": "撒哈拉沙丘",
-      "summary": "撒哈拉沙漠金色沙丘在风蚀下形成优美弧线",
-      "full_text": "撒哈拉沙漠金色沙丘在风蚀下形成优美弧线",
+      "title": "撒哈拉沙漠日暮",
+      "summary": "撒哈拉沙漠面积九百万平方公里是世界最大热沙漠，红色沙丘在夕阳...",
+      "full_text": "撒哈拉沙漠面积九百万平方公里是世界最大热沙漠，红色沙丘在夕阳下如火焰燃烧。图阿雷格人骑骆驼穿越沙海，绿洲中椰枣树投下珍贵阴凉，夜间气温骤降繁星璀璨如钻。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "deserts_gobi_001",
-      "title": "撒哈拉绿洲",
-      "summary": "撒哈拉绿洲中椰枣树环绕清泉形成沙漠明珠",
-      "full_text": "撒哈拉绿洲中椰枣树环绕清泉形成沙漠明珠",
+      "title": "塔克拉玛干沙海",
+      "summary": "塔克拉玛干沙漠是中国最大沙漠面积33万平方公里，被称为死亡之...",
+      "full_text": "塔克拉玛干沙漠是中国最大沙漠面积33万平方公里，被称为死亡之海。新月形沙丘高达三百米在风中移动，胡杨林在沙漠边缘顽强生存，塔里木河沿岸形成绿色走廊。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "deserts_gobi_002",
-      "title": "骆驼商队",
-      "summary": "骆驼商队沿着古老商路缓缓穿越撒哈拉沙海",
-      "full_text": "骆驼商队沿着古老商路缓缓穿越撒哈拉沙海",
+      "title": "戈壁滩恐龙化石",
+      "summary": "蒙古戈壁沙漠是世界上最重要的恐龙化石产地，火焰崖出土大量白垩...",
+      "full_text": "蒙古戈壁沙漠是世界上最重要的恐龙化石产地，火焰崖出土大量白垩纪恐龙蛋。偷蛋龙化石保存着孵蛋姿态，迅猛龙与原角龙搏斗化石定格瞬间，风蚀雅丹地貌如城堡。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "deserts_gobi_003",
-      "title": "沙漠日落",
-      "summary": "夕阳将撒哈拉沙丘染成橙红色光影层次分明",
-      "full_text": "夕阳将撒哈拉沙丘染成橙红色光影层次分明",
+      "title": "纳米布红色沙丘",
+      "summary": "纳米布沙漠拥有世界最高沙丘高达325米，红色氧化铁沙丘在晨光...",
+      "full_text": "纳米布沙漠拥有世界最高沙丘高达325米，红色氧化铁沙丘在晨光中如血色波浪。死亡谷中九百年前枯树矗立白色黏土盆地上，大西洋雾气沿海岸侵入沙漠形成独特生态。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "deserts_gobi_004",
-      "title": "沙尘暴",
-      "summary": "撒哈拉沙尘暴遮天蔽日黄沙滚滚席卷而来",
-      "full_text": "撒哈拉沙尘暴遮天蔽日黄沙滚滚席卷而来",
+      "title": "阿塔卡马星空",
+      "summary": "阿塔卡马沙漠是地球最干燥之地年降水量不足一毫米，被称为世界火...",
+      "full_text": "阿塔卡马沙漠是地球最干燥之地年降水量不足一毫米，被称为世界火星。ALMA射电望远镜阵列在海拔五千米高原仰望宇宙，月亮谷如外星地表，地画线条在荒原上神秘延伸。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "deserts_gobi_005",
-      "title": "沙漠星空",
-      "summary": "撒哈拉沙漠夜空银河璀璨繁星密布无光污染",
-      "full_text": "撒哈拉沙漠夜空银河璀璨繁星密布无光污染",
+      "title": "阿拉伯沙漠鲁卜",
+      "summary": "鲁卜哈利沙漠是阿拉伯半岛最大沙海面积65万平方公里，红色沙丘...",
+      "full_text": "鲁卜哈利沙漠是阿拉伯半岛最大沙海面积65万平方公里，红色沙丘连绵如浪。贝都因人世代在沙漠中游牧，骆驼商队沿古商道行走，油田在沙漠深处开采，绿洲是沙漠中的生命线。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "deserts_gobi_006",
-      "title": "岩画遗址",
-      "summary": "撒哈拉岩画记录了远古时代湿润期的动物形象",
-      "full_text": "撒哈拉岩画记录了远古时代湿润期的动物形象",
+      "title": "莫哈维约书亚树",
+      "summary": "莫哈维沙漠中约书亚树如异星生物矗立荒原，树形扭曲奇特属于百合...",
+      "full_text": "莫哈维沙漠中约书亚树如异星生物矗立荒原，树形扭曲奇特属于百合科。响尾蛇在石缝中盘踞，走鹃在灌木间奔跑，死亡谷气温高达56度创世界纪录，春季野花短暂绽放。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "deserts_gobi_007",
-      "title": "图阿雷格人",
-      "summary": "图阿雷格人身着蓝色长袍骑骆驼穿越沙漠",
-      "full_text": "图阿雷格人身着蓝色长袍骑骆驼穿越沙漠",
+      "title": "卡拉哈里沙漠狮",
+      "summary": "卡拉哈里沙漠并非真正沙漠而是半干旱沙地，布须曼人在此狩猎采集...",
+      "full_text": "卡拉哈里沙漠并非真正沙漠而是半干旱沙地，布须曼人在此狩猎采集两万年。黑鬃狮在沙丘间潜伏捕猎，大羚羊在干涸河床中觅食，猴面包树如巨瓶储存水分，雨季短暂绿意盎然。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "deserts_gobi_008",
-      "title": "沙漠狐狸",
-      "summary": "大耳沙狐在撒哈拉夜间出没耳朵散热适应高温",
-      "full_text": "大耳沙狐在撒哈拉夜间出没耳朵散热适应高温",
+      "title": "巴丹吉林鸣沙",
+      "summary": "巴丹吉林沙漠拥有世界最高沙山必鲁图峰海拔1611米，沙鸣如雷...",
+      "full_text": "巴丹吉林沙漠拥有世界最高沙山必鲁图峰海拔1611米，沙鸣如雷轰鸣。沙漠中分布144个湖泊如蓝宝石镶嵌金沙，湖畔芦苇丛中水鸟栖息，古庙在湖边静默矗立千年。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "deserts_gobi_009",
-      "title": "蜥蜴",
-      "summary": "撒哈拉刺尾蜥在烈日下岩石上快速奔跑觅食",
-      "full_text": "撒哈拉刺尾蜥在烈日下岩石上快速奔跑觅食",
+      "title": "腾格里沙漠穿越",
+      "summary": "腾格里沙漠沙丘连绵起伏如金色波浪，天鹅湖在沙漠中如蓝宝石闪耀...",
+      "full_text": "腾格里沙漠沙丘连绵起伏如金色波浪，天鹅湖在沙漠中如蓝宝石闪耀。骆驼队沿沙脊缓缓行进，沙蜥在滚烫沙面奔跑，夜晚银河横跨天际，沙漠营地篝火映照旅人面庞。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "deserts_gobi_010",
-      "title": "沙漠植物",
-      "summary": "撒哈拉沙漠中骆驼刺根系深达地下水中顽强生长",
-      "full_text": "撒哈拉沙漠中骆驼刺根系深达地下水中顽强生长",
+      "title": "库布其沙漠绿化",
+      "summary": "库布其沙漠曾经黄沙漫天如今绿化面积达六千平方公里，是中国治沙...",
+      "full_text": "库布其沙漠曾经黄沙漫天如今绿化面积达六千平方公里，是中国治沙典范。光伏板在沙地上排列如蓝色海洋，沙柳固沙形成绿色屏障，甘草种植既固沙又产生经济效益。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "deserts_gobi_011",
-      "title": "绿洲椰枣",
-      "summary": "撒哈拉绿洲中椰枣树挂满金色果实是沙漠甘甜",
-      "full_text": "撒哈拉绿洲中椰枣树挂满金色果实是沙漠甘甜",
+      "title": "乌兰布和沙漠",
+      "summary": "乌兰布和沙漠东临黄河曾经沙逼人退，如今引黄治沙使沙地变绿洲。...",
+      "full_text": "乌兰布和沙漠东临黄河曾经沙逼人退，如今引黄治沙使沙地变绿洲。沙漠水稻在沙层上种植，梭梭林固定流沙，肉苁蓉寄生在梭梭根部被称为沙漠人参，黄河在沙漠东缘流淌。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "deserts_gobi_012",
-      "title": "沙漠盐湖",
-      "summary": "撒哈拉沙漠中盐湖干涸后白色盐晶覆盖湖底",
-      "full_text": "撒哈拉沙漠中盐湖干涸后白色盐晶覆盖湖底",
+      "title": "古尔班通古特",
+      "summary": "古尔班通古特沙漠是中国最大固定半固定沙漠，梭梭林覆盖沙丘表面...",
+      "full_text": "古尔班通古特沙漠是中国最大固定半固定沙漠，梭梭林覆盖沙丘表面。冬季积雪覆盖沙丘如银色海洋，春季融雪使短命植物迅速开花，野驴在沙漠中奔跑，油田在沙下蕴藏。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "deserts_gobi_013",
-      "title": "石漠地貌",
-      "summary": "撒哈拉石漠地区黑色碎石覆盖地表被称为哈马达",
-      "full_text": "撒哈拉石漠地区黑色碎石覆盖地表被称为哈马达",
+      "title": "索诺拉仙人掌",
+      "summary": "索诺拉沙漠巨柱仙人掌高达十五米寿命两百年，如绿色巨人矗立荒原...",
+      "full_text": "索诺拉沙漠巨柱仙人掌高达十五米寿命两百年，如绿色巨人矗立荒原。仙人掌储存数吨水分，啄木鸟在茎干上凿洞筑巢，吉拉毒蜥在石缝中潜伏，春季野花使沙漠如花园。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "deserts_gobi_014",
-      "title": "风蚀蘑菇岩",
-      "summary": "撒哈拉风蚀蘑菇岩底部细窄顶部宽大造型奇特",
-      "full_text": "撒哈拉风蚀蘑菇岩底部细窄顶部宽大造型奇特",
+      "title": "大维多利亚沙漠",
+      "summary": "大维多利亚沙漠是澳大利亚最大沙漠面积42万平方公里，红色沙丘...",
+      "full_text": "大维多利亚沙漠是澳大利亚最大沙漠面积42万平方公里，红色沙丘在阳光下如火焰。澳洲野狗在沙丘间奔跑，蜥蜴在滚烫沙面跳舞散热，内陆原住民在沙漠中生存数万年。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "deserts_gobi_015",
-      "title": "沙漠海市蜃楼",
-      "summary": "撒哈拉沙漠中热折射形成虚幻湖泊海市蜃楼",
-      "full_text": "撒哈拉沙漠中热折射形成虚幻湖泊海市蜃楼",
+      "title": "叙利亚沙漠古城",
+      "summary": "叙利亚沙漠中帕尔米拉古城遗址矗立两千年，罗马柱廊在荒漠中如幽...",
+      "full_text": "叙利亚沙漠中帕尔米拉古城遗址矗立两千年，罗马柱廊在荒漠中如幽灵。丝绸之路商队曾在此歇脚，贝尔神殿在夕阳下金光闪耀，沙漠风暴卷起黄沙遮天蔽日，绿洲养育文明。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "deserts_gobi_016",
-      "title": "撒哈拉日出",
-      "summary": "撒哈拉日出时地平线上金色光芒穿透沙尘弥漫",
-      "full_text": "撒哈拉日出时地平线上金色光芒穿透沙尘弥漫",
+      "title": "内夫得红沙",
+      "summary": "沙特内夫得沙漠红色沙丘连绵如血色海洋，风蚀形成巨大新月形沙丘...",
+      "full_text": "沙特内夫得沙漠红色沙丘连绵如血色海洋，风蚀形成巨大新月形沙丘。骆驼在沙丘间行走如舟行沙海，春季降雨后沙漠短暂变绿，贝都因人在沙漠边缘放牧羊群，石油改变沙漠命运。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "deserts_gobi_017",
-      "title": "沙漠峡谷",
-      "summary": "撒哈拉沙漠中流水雕刻的峡谷红岩壁立深邃",
-      "full_text": "撒哈拉沙漠中流水雕刻的峡谷红岩壁立深邃",
+      "title": "达什特卢特盐漠",
+      "summary": "伊朗达什特卢特沙漠是地球最热之地地表温度达70度，雅丹地貌如...",
+      "full_text": "伊朗达什特卢特沙漠是地球最热之地地表温度达70度，雅丹地貌如风蚀城堡。盐漠表面白色盐晶闪烁，坎儿井从地下引水灌溉绿洲，伊朗古城亚兹德在沙漠边缘矗立千年。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "deserts_gobi_018",
-      "title": "沙漠商路",
-      "summary": "古老跨撒哈拉商路上驼队留下的足迹依稀可见",
-      "full_text": "古老跨撒哈拉商路上驼队留下的足迹依稀可见",
+      "title": "撒哈拉岩画",
+      "summary": "撒哈拉沙漠塔西利岩画记录了六千年前绿色撒哈拉景象，画中河马和...",
+      "full_text": "撒哈拉沙漠塔西利岩画记录了六千年前绿色撒哈拉景象，画中河马和鳄鱼在水中嬉戏。气候变迁使草原变为沙漠，岩画成为湿润时代的见证，阿哈加尔山脉如黑色岛屿矗立沙海。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "deserts_gobi_019",
-      "title": "沙漠游牧民",
-      "summary": "柏柏尔游牧民在沙漠帐篷前煮茶生活简朴坚韧",
-      "full_text": "柏柏尔游牧民在沙漠帐篷前煮茶生活简朴坚韧",
+      "title": "辛普森沙漠红沙",
+      "summary": "澳大利亚辛普森沙漠拥有世界最长平行沙丘延伸160公里，红色沙...",
+      "full_text": "澳大利亚辛普森沙漠拥有世界最长平行沙丘延伸160公里，红色沙丘如波浪起伏。袋鼠在沙丘间跳跃，蜥蜴在沙面奔跑，降雨后沙漠野花短暂绽放，内陆探险者挑战这片红色荒原。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "deserts_gobi_020",
-      "title": "戈壁滩",
-      "summary": "蒙古戈壁滩上碎石遍布远处山脉轮廓朦胧可见",
-      "full_text": "蒙古戈壁滩上碎石遍布远处山脉轮廓朦胧可见",
+      "title": "黑戈壁荒原",
+      "summary": "甘肃黑戈壁地表覆盖黑色砾石如墨色荒原，阳光下如铁甲闪烁。黑喇...",
+      "full_text": "甘肃黑戈壁地表覆盖黑色砾石如墨色荒原，阳光下如铁甲闪烁。黑喇嘛城堡在荒原上神秘矗立，马鬃山如黑色屏障，风蚀蘑菇石千姿百态，戈壁风在石间呼啸如鬼哭狼嚎。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "deserts_gobi_021",
-      "title": "雅丹地貌",
-      "summary": "敦煌雅丹魔鬼城风蚀土林如城堡群落造型诡异",
-      "full_text": "敦煌雅丹魔鬼城风蚀土林如城堡群落造型诡异",
+      "title": "白龙堆雅丹",
+      "summary": "罗布泊白龙堆雅丹如白色巨龙横卧荒原，盐碱地表面如龙鳞闪烁。楼...",
+      "full_text": "罗布泊白龙堆雅丹如白色巨龙横卧荒原，盐碱地表面如龙鳞闪烁。楼兰古城在雅丹群中沉睡两千年，丝绸之路古道穿越盐壳地，彭加木在此失踪成为永恒谜团，荒凉如外星。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "deserts_gobi_022",
-      "title": "鸣沙山月牙泉",
-      "summary": "鸣沙山环抱中月牙泉千年不涸如沙漠之眼",
-      "full_text": "鸣沙山环抱中月牙泉千年不涸如沙漠之眼",
+      "title": "敦煌鸣沙山月牙",
+      "summary": "敦煌鸣沙山沙鸣如雷轰鸣，月牙泉如碧玉镶嵌沙山千年不涸。驼队沿...",
+      "full_text": "敦煌鸣沙山沙鸣如雷轰鸣，月牙泉如碧玉镶嵌沙山千年不涸。驼队沿沙脊行进如剪影，夕阳将沙山染成金红色，莫高窟在鸣沙山东麓保存千年壁画，丝路驼铃声回荡风中。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "deserts_gobi_023",
-      "title": "敦煌莫高窟",
-      "summary": "敦煌莫高窟壁画在戈壁中保存千年色彩依然绚丽",
-      "full_text": "敦煌莫高窟壁画在戈壁中保存千年色彩依然绚丽",
+      "title": "死亡谷高温",
+      "summary": "美国死亡谷是西半球最热最干之地，气温高达56.7度创世界纪录...",
+      "full_text": "美国死亡谷是西半球最热最干之地，气温高达56.7度创世界纪录。恶水盆地海拔负86米是北美最低点，会走的石头在干涸湖面留下神秘轨迹，春季超级花海使荒漠短暂绚烂。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "deserts_gobi_024",
-      "title": "恐龙化石",
-      "summary": "戈壁沙漠中发掘出的恐龙化石骨架完整震撼",
-      "full_text": "戈壁沙漠中发掘出的恐龙化石骨架完整震撼",
+      "title": "努比亚沙漠金矿",
+      "summary": "努比亚沙漠横跨埃及苏丹东部，古代努比亚人开采金矿延续千年。红...",
+      "full_text": "努比亚沙漠横跨埃及苏丹东部，古代努比亚人开采金矿延续千年。红海山脉在沙漠东缘矗立，法老时代采金矿道深达百米，贝都因人在沙漠中寻找绿洲，尼罗河在沙漠西缘流淌。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "deserts_gobi_025",
-      "title": "戈壁骆驼",
-      "summary": "双峰骆驼在戈壁荒漠中负重前行是沙漠之舟",
-      "full_text": "双峰骆驼在戈壁荒漠中负重前行是沙漠之舟",
+      "title": "达纳基尔凹地",
+      "summary": "埃塞俄比亚达纳基尔凹地是地球最热之地年均温34度，被称为地球...",
+      "full_text": "埃塞俄比亚达纳基尔凹地是地球最热之地年均温34度，被称为地球最像外星的地方。硫磺泉喷出黄绿色液体，盐湖如调色板色彩斑斓，阿法尔人在极端环境中采盐，地壳薄如蛋壳。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "deserts_gobi_026",
-      "title": "胡杨林",
-      "summary": "额济纳胡杨林金秋时节叶片金黄灿烂如燃烧火焰",
-      "full_text": "额济纳胡杨林金秋时节叶片金黄灿烂如燃烧火焰",
+      "title": "塔尔沙漠季风",
+      "summary": "印度塔尔沙漠是世界上最密集的沙漠人口众多，季风雨季短暂带来生...",
+      "full_text": "印度塔尔沙漠是世界上最密集的沙漠人口众多，季风雨季短暂带来生机。杰伊瑟尔梅尔金色城堡矗立沙海，拉贾斯坦妇女身着鲜艳纱丽如沙漠花朵，骆驼节上万峰骆驼汇聚交易。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "deserts_gobi_027",
-      "title": "梭梭树",
-      "summary": "梭梭树在戈壁中固沙防风根系深扎沙土顽强",
-      "full_text": "梭梭树在戈壁中固沙防风根系深扎沙土顽强",
+      "title": "喀拉哈里大羚羊",
+      "summary": "喀拉哈里大羚羊国家公园中黑鬃狮在沙丘间巡猎，大羚羊群在干涸河...",
+      "full_text": "喀拉哈里大羚羊国家公园中黑鬃狮在沙丘间巡猎，大羚羊群在干涸河床中觅食。猫鼬在沙丘上直立警戒，疣猪在泥塘中打滚，猴面包树如巨瓶储存水分等待雨季，日落壮美如画。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "deserts_gobi_028",
-      "title": "戈壁蜥蜴",
-      "summary": "戈壁沙蜥在沙地上快速潜行留下串串足迹",
-      "full_text": "戈壁沙蜥在沙地上快速潜行留下串串足迹",
+      "title": "莫哈维沙漠花海",
+      "summary": "莫哈维沙漠在罕见暴雨后野花盛开如金色地毯铺展，约书亚树白色花...",
+      "full_text": "莫哈维沙漠在罕见暴雨后野花盛开如金色地毯铺展，约书亚树白色花穗在风中摇曳。沙漠陆龟在花丛中缓慢爬行，蜂鸟在花间采蜜，死亡谷偶尔出现超级花海奇观震撼人心。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "deserts_gobi_029",
-      "title": "戈壁日落",
-      "summary": "戈壁日落时分天地一片金红苍凉壮美震撼人心",
-      "full_text": "戈壁日落时分天地一片金红苍凉壮美震撼人心",
+      "title": "撒哈拉绿洲生活",
+      "summary": "撒哈拉绿洲是沙漠中的生命之岛，椰枣树如绿色华盖遮蔽烈日。泉水...",
+      "full_text": "撒哈拉绿洲是沙漠中的生命之岛，椰枣树如绿色华盖遮蔽烈日。泉水从地下涌出灌溉菜园，泥砖房屋在树荫下凉爽，图阿雷格人骑骆驼从绿洲出发穿越沙海，商道连接文明。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "deserts_gobi_030",
-      "title": "黑戈壁",
-      "summary": "黑戈壁表面覆盖深色荒漠漆碎石如黑珍珠散布",
-      "full_text": "黑戈壁表面覆盖深色荒漠漆碎石如黑珍珠散布",
+      "title": "阿拉伯半岛空域",
+      "summary": "阿拉伯半岛鲁卜哈利沙漠空域四分之一是沙海，沙丘高达三百米如巨...",
+      "full_text": "阿拉伯半岛鲁卜哈利沙漠空域四分之一是沙海，沙丘高达三百米如巨浪凝固。石油勘探队在此发现世界最大油田，直升机是唯一交通工具，沙暴来临时能见度降为零。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "deserts_gobi_031",
-      "title": "白戈壁",
-      "summary": "白戈壁地表覆盖白色盐碱结晶如雪原般耀眼",
-      "full_text": "白戈壁地表覆盖白色盐碱结晶如雪原般耀眼",
+      "title": "阿联酋沙丘冲浪",
+      "summary": "阿联酋沙漠中红色沙丘高达百米，四驱越野车在沙丘间飞驰冲浪。骆...",
+      "full_text": "阿联酋沙漠中红色沙丘高达百米，四驱越野车在沙丘间飞驰冲浪。骆驼赛跑在沙漠赛道上进行，猎鹰在天空盘旋，奢华沙漠营地提供传统阿拉伯晚宴，城市与沙漠仅一步之遥。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "deserts_gobi_032",
-      "title": "砾石戈壁",
-      "summary": "砾石戈壁上大小碎石铺满地表植被稀疏荒凉",
-      "full_text": "砾石戈壁上大小碎石铺满地表植被稀疏荒凉",
+      "title": "毛里塔尼亚眼",
+      "summary": "毛里塔尼亚撒哈拉之眼直径40公里从太空清晰可见，同心圆地质结...",
+      "full_text": "毛里塔尼亚撒哈拉之眼直径40公里从太空清晰可见，同心圆地质结构如巨眼凝视苍穹。理查特结构由沉积岩和火成岩交替形成，陨石坑假说已被否定，地质成因至今仍有争议。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "deserts_gobi_033",
-      "title": "戈壁风蚀",
-      "summary": "戈壁风蚀柱如石蘑菇般矗立在荒漠中造型奇异",
-      "full_text": "戈壁风蚀柱如石蘑菇般矗立在荒漠中造型奇异",
+      "title": "纳米布雾海岸",
+      "summary": "纳米布沙漠海岸本格拉寒流带来浓雾，骷髅海岸沉船残骸在雾中如幽...",
+      "full_text": "纳米布沙漠海岸本格拉寒流带来浓雾，骷髅海岸沉船残骸在雾中如幽灵。海豹在海岸繁殖，鬣狗在沙滩上觅食，雾气为沙漠甲虫提供饮水来源，铁矿石从沃尔维斯湾出口。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "deserts_gobi_034",
-      "title": "戈壁绿洲",
-      "summary": "戈壁绿洲中白杨树成排溪流潺潺生机盎然",
-      "full_text": "戈壁绿洲中白杨树成排溪流潺潺生机盎然",
+      "title": "戈壁雪豹",
+      "summary": "蒙古戈壁大沙漠中雪豹在阿尔泰山脉岩壁间潜行，是世界上最濒危的...",
+      "full_text": "蒙古戈壁大沙漠中雪豹在阿尔泰山脉岩壁间潜行，是世界上最濒危的猫科动物之一。野骆驼在戈壁深处寻找水源，戈壁熊是世界上唯一生活在沙漠中的棕熊，数量不足五十只。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "deserts_gobi_035",
-      "title": "沙漠胡杨秋色",
-      "summary": "秋日胡杨林金黄叶片与蓝天形成鲜明色彩对比",
-      "full_text": "秋日胡杨林金黄叶片与蓝天形成鲜明色彩对比",
+      "title": "柴达木雅丹群",
+      "summary": "柴达木盆地水上雅丹如城堡群矗立碧蓝湖水中，是世界上唯一的水上...",
+      "full_text": "柴达木盆地水上雅丹如城堡群矗立碧蓝湖水中，是世界上唯一的水上雅丹地貌。风蚀柱如蘑菇如城堡千姿百态，盐湖倒映雅丹如镜中画，冷湖火星营地模拟外星环境。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "deserts_gobi_036",
-      "title": "巴丹吉林沙漠",
-      "summary": "巴丹吉林沙漠中高大沙丘与湖泊共存的奇观",
-      "full_text": "巴丹吉林沙漠中高大沙丘与湖泊共存的奇观",
+      "title": "撒哈拉沙暴",
+      "summary": "撒哈拉沙暴哈马丹风卷起亿万吨黄沙遮天蔽日能见度降为零，沙墙高...",
+      "full_text": "撒哈拉沙暴哈马丹风卷起亿万吨黄沙遮天蔽日能见度降为零，沙墙高达千米如黄色海啸。沙尘跨越大西洋到达亚马逊雨林为雨林提供矿物质养分，图阿雷格人以面纱护面。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "deserts_gobi_037",
-      "title": "腾格里沙漠",
-      "summary": "腾格里沙漠中沙湖交错分布候鸟栖息其间",
-      "full_text": "腾格里沙漠中沙湖交错分布候鸟栖息其间",
+      "title": "约旦瓦迪拉姆",
+      "summary": "约旦瓦迪拉姆沙漠被称为月亮谷，红色砂岩山如天然城堡矗立沙海。...",
+      "full_text": "约旦瓦迪拉姆沙漠被称为月亮谷，红色砂岩山如天然城堡矗立沙海。劳伦斯在此领导阿拉伯起义，贝都因人帐篷散布山谷，岩画记录数千年人类活动，火星电影在此取景。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "deserts_gobi_038",
-      "title": "古尔班通古特沙漠",
-      "summary": "古尔班通古特沙漠固定沙丘上梭梭林覆盖",
-      "full_text": "古尔班通古特沙漠固定沙丘上梭梭林覆盖",
+      "title": "佩特拉玫瑰城",
+      "summary": "佩特拉古城在玫瑰色砂岩峡谷中雕刻而成，卡兹尼神殿立面高四十米...",
+      "full_text": "佩特拉古城在玫瑰色砂岩峡谷中雕刻而成，卡兹尼神殿立面高四十米如梦境。纳巴泰人两千年前在沙漠中建造城市，引水渠道在岩壁中开凿，峡谷通道如裂缝仅容一人通过。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "deserts_gobi_039",
-      "title": "戈壁星空",
-      "summary": "戈壁夜空无光污染银河横贯天际繁星璀璨",
-      "full_text": "戈壁夜空无光污染银河横贯天际繁星璀璨",
+      "title": "新疆魔鬼城",
+      "summary": "新疆乌尔禾魔鬼城雅丹地貌在狂风中发出鬼哭狼嚎之声，风蚀城堡千...",
+      "full_text": "新疆乌尔禾魔鬼城雅丹地貌在狂风中发出鬼哭狼嚎之声，风蚀城堡千姿百态。克拉玛依油田抽油机在雅丹群中不停运转，夕阳将雅丹染成金红色如燃烧的城堡，神秘而壮观。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "deserts_gobi_040",
-      "title": "阿塔卡马沙漠",
-      "summary": "阿塔卡马沙漠是地球最干燥之地火星般荒凉",
-      "full_text": "阿塔卡马沙漠是地球最干燥之地火星般荒凉",
+      "title": "利比亚沙漠玻璃",
+      "summary": "利比亚沙漠中发现天然玻璃碎片散布数百平方公里，是陨石撞击高温...",
+      "full_text": "利比亚沙漠中发现天然玻璃碎片散布数百平方公里，是陨石撞击高温熔融形成。图坦卡蒙法老胸饰上镶嵌沙漠玻璃，利比亚沙漠是撒哈拉最干燥最炎热的区域，人迹罕至。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "deserts_gobi_041",
-      "title": "纳米布沙漠",
-      "summary": "纳米布沙漠红色沙丘直抵大西洋海岸对比壮观",
-      "full_text": "纳米布沙漠红色沙丘直抵大西洋海岸对比壮观",
+      "title": "撒哈拉图阿雷格",
+      "summary": "图阿雷格人是撒哈拉沙漠的蓝色民族，靛蓝面纱染蓝他们的皮肤。骑...",
+      "full_text": "图阿雷格人是撒哈拉沙漠的蓝色民族，靛蓝面纱染蓝他们的皮肤。骑骆驼穿越沙海是千年传统，手工艺银饰和皮具精美绝伦，沙漠节庆中剑舞和诗歌吟唱延续古老文化。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "deserts_gobi_042",
-      "title": "莫哈维沙漠",
-      "summary": "莫哈维沙漠中约书亚树造型奇特如外星植物",
-      "full_text": "莫哈维沙漠中约书亚树造型奇特如外星植物",
+      "title": "莫诺湖灰华塔",
+      "summary": "莫诺湖灰华塔如珊瑚般矗立湖水中，是碱性湖水与淡水泉相互作用形...",
+      "full_text": "莫诺湖灰华塔如珊瑚般矗立湖水中，是碱性湖水与淡水泉相互作用形成。湖面倒映内华达山脉雪峰，碱蝇在湖面密集飞舞，候鸟在湖中觅食虾类，湖水盐度是海洋三倍。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "deserts_gobi_043",
-      "title": "索诺拉沙漠",
-      "summary": "索诺拉沙漠中巨人柱仙人掌高耸如绿色灯柱",
-      "full_text": "索诺拉沙漠中巨人柱仙人掌高耸如绿色灯柱",
+      "title": "彩色沙漠地层",
+      "summary": "美国亚利桑那彩色沙漠地层如彩虹般层层叠叠，铁锰氧化物将沉积岩...",
+      "full_text": "美国亚利桑那彩色沙漠地层如彩虹般层层叠叠，铁锰氧化物将沉积岩染成红黄紫蓝。化石森林中两亿年前硅化木如宝石般闪耀，恐龙化石在地层中发现，日落时光彩最为绚烂。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "deserts_gobi_044",
-      "title": "死亡谷",
-      "summary": "死亡谷是北美最低最热之地盐滩白如雪原",
-      "full_text": "死亡谷是北美最低最热之地盐滩白如雪原",
+      "title": "索科特拉龙血",
+      "summary": "也门索科特拉岛上龙血树如巨型蘑菇伞盖遮天，红色树脂被称为龙血...",
+      "full_text": "也门索科特拉岛上龙血树如巨型蘑菇伞盖遮天，红色树脂被称为龙血。瓶子树如象腿粗壮储水，沙漠玫瑰在岩石上绽放粉花，三分之一物种为岛屿特有，如外星植物园。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "deserts_gobi_045",
-      "title": "阿拉伯沙漠",
-      "summary": "阿拉伯沙漠中沙丘连绵起伏如金色海浪翻涌",
-      "full_text": "阿拉伯沙漠中沙丘连绵起伏如金色海浪翻涌",
+      "title": "撒哈拉陨石坑",
+      "summary": "撒哈拉沙漠中发现多个陨石坑，埃及科比拉陨石坑直径31公里。陨...",
+      "full_text": "撒哈拉沙漠中发现多个陨石坑，埃及科比拉陨石坑直径31公里。陨石撞击使砂岩瞬间熔融形成玻璃，远古撞击痕迹在沙漠中保存完好，地质学家在此研究地球撞击历史。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "deserts_gobi_046",
-      "title": "鲁卜哈利沙漠",
-      "summary": "鲁卜哈利沙漠是世界最大流动沙漠沙海无垠",
-      "full_text": "鲁卜哈利沙漠是世界最大流动沙漠沙海无垠",
+      "title": "吉布提盐湖",
+      "summary": "吉布提阿萨尔盐湖是非洲最低点海拔负155米，盐度是海洋十倍。...",
+      "full_text": "吉布提阿萨尔盐湖是非洲最低点海拔负155米，盐度是海洋十倍。盐工在烈日下手工采盐如白色结晶田，地热温泉在湖边涌出，骆驼驮运盐块穿越荒原，火山在远处冒烟。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "deserts_gobi_047",
-      "title": "塔尔沙漠",
-      "summary": "印度塔尔沙漠中骆驼商队穿行于沙丘之间",
-      "full_text": "印度塔尔沙漠中骆驼商队穿行于沙丘之间",
+      "title": "撒哈拉地下河",
+      "summary": "撒哈拉地下蕴藏巨大化石含水层，是数千年前湿润气候的遗产。利比...",
+      "full_text": "撒哈拉地下蕴藏巨大化石含水层，是数千年前湿润气候的遗产。利比亚大人工河项目抽取地下水灌溉农田，管道直径四米绵延数千公里，地下水不可再生终将枯竭。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "deserts_gobi_048",
-      "title": "卡拉库姆沙漠",
-      "summary": "卡拉库姆沙漠中达瓦扎天然气坑燃烧数十年不灭",
-      "full_text": "卡拉库姆沙漠中达瓦扎天然气坑燃烧数十年不灭",
+      "title": "巴塔哥尼亚荒漠",
+      "summary": "阿根廷巴塔哥尼亚荒漠狂风呼啸如世界尽头，干燥寒冷的荒原延伸至...",
+      "full_text": "阿根廷巴塔哥尼亚荒漠狂风呼啸如世界尽头，干燥寒冷的荒原延伸至麦哲伦海峡。原驼在荒原上奔跑，美洲狮在岩石后潜伏，莫雷诺冰川崩裂声在荒漠中回荡，苍凉壮美。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "deserts_gobi_049",
-      "title": "克孜勒库姆沙漠",
-      "summary": "克孜勒库姆沙漠红色沙丘在夕阳下如燃烧火焰",
-      "full_text": "克孜勒库姆沙漠红色沙丘在夕阳下如燃烧火焰",
+      "title": "内盖夫沙漠农业",
+      "summary": "以色列内盖夫沙漠滴灌技术使荒漠变花园，水资源利用效率世界领先...",
+      "full_text": "以色列内盖夫沙漠滴灌技术使荒漠变花园，水资源利用效率世界领先。古纳巴泰人在沙漠中修建梯田和引水渠，本古里安梦想让沙漠开花，如今温室农业出口欧洲。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "deserts_gobi_050",
-      "title": "叙利亚沙漠",
-      "summary": "叙利亚沙漠中古城遗址半掩于黄沙之下沧桑",
-      "full_text": "叙利亚沙漠中古城遗址半掩于黄沙之下沧桑",
+      "title": "撒哈拉岩刻长颈",
+      "summary": "撒哈拉杰拉特岩刻中长颈鹿形象栩栩如生，记录了湿润期撒哈拉的野...",
+      "full_text": "撒哈拉杰拉特岩刻中长颈鹿形象栩栩如生，记录了湿润期撒哈拉的野生动物。岩刻技法精湛线条流畅，有些长颈鹿高达六米，是非洲最大的岩刻艺术群，见证气候变化。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "deserts_gobi_051",
-      "title": "大维多利亚沙漠",
-      "summary": "大维多利亚沙漠中红色沙丘与灌木丛交错分布",
-      "full_text": "大维多利亚沙漠中红色沙丘与灌木丛交错分布",
+      "title": "戈壁恐龙蛋山",
+      "summary": "蒙古戈壁巴彦扎克恐龙蛋山出土大量原角龙蛋化石，蛋中胚胎保存完...",
+      "full_text": "蒙古戈壁巴彦扎克恐龙蛋山出土大量原角龙蛋化石，蛋中胚胎保存完好。偷蛋龙最初被认为偷食恐龙蛋实为护蛋父母，迅猛龙镰刀爪化石令斯皮尔伯格创造侏罗纪公园。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "deserts_gobi_052",
-      "title": "辛普森沙漠",
-      "summary": "辛普森沙漠红色平行沙脊如波浪般延伸远方",
-      "full_text": "辛普森沙漠红色平行沙脊如波浪般延伸远方",
+      "title": "撒哈拉锡瓦绿洲",
+      "summary": "埃及锡瓦绿洲是撒哈拉最偏远的绿洲之一，亚历山大大帝曾来此拜访...",
+      "full_text": "埃及锡瓦绿洲是撒哈拉最偏远的绿洲之一，亚历山大大帝曾来此拜访阿蒙神殿。泉水形成两百多个天然池塘如蓝宝石散布椰枣林间，盐湖在绿洲边缘如镜面，橄榄和椰枣是主要物产。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "deserts_gobi_053",
-      "title": "塔克拉玛干沙漠",
-      "summary": "塔克拉玛干沙漠被称为死亡之海沙丘连绵无际",
-      "full_text": "塔克拉玛干沙漠被称为死亡之海沙丘连绵无际",
+      "title": "阿塔卡马地画",
+      "summary": "阿塔卡马沙漠地画是南美最大的地画群，巨人在山坡上被刻画成几何...",
+      "full_text": "阿塔卡马沙漠地画是南美最大的地画群，巨人在山坡上被刻画成几何图案。地画可能与古代水源和贸易路线有关，阿塔卡马是观星圣地年晴夜达三百天，宇宙在此触手可及。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "deserts_gobi_054",
-      "title": "古尔班通古特",
-      "summary": "古尔班通古特沙漠固定半固定沙丘植被覆盖",
-      "full_text": "古尔班通古特沙漠固定半固定沙丘植被覆盖",
+      "title": "戈壁野骆驼",
+      "summary": "蒙古戈壁中野生双峰驼是世界上唯一存活的野生骆驼，数量不足千头...",
+      "full_text": "蒙古戈壁中野生双峰驼是世界上唯一存活的野生骆驼，数量不足千头。它们能饮用咸水生存，在零下四十度和零上五十度间存活，狼群是主要天敌，戈壁保护区守护最后种群。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "deserts_gobi_055",
-      "title": "巴丹吉林",
-      "summary": "巴丹吉林最高沙丘与蓝色湖泊共存奇景",
-      "full_text": "巴丹吉林最高沙丘与蓝色湖泊共存奇景",
+      "title": "瓦迪哈勒法绿洲",
+      "summary": "尼罗河在苏丹北部形成瓦迪哈勒法绿洲，努比亚人在此生活数千年。...",
+      "full_text": "尼罗河在苏丹北部形成瓦迪哈勒法绿洲，努比亚人在此生活数千年。阿斯旺大坝建成后纳赛尔湖淹没古村落，努比亚人迁至高地重建家园，彩色壁画装饰房屋外墙如画廊。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "deserts_gobi_056",
-      "title": "腾格里",
-      "summary": "腾格里沙漠中沙丘与草甸湖泊交错分布独特",
-      "full_text": "腾格里沙漠中沙丘与草甸湖泊交错分布独特",
+      "title": "莫哈维约书亚花",
+      "summary": "莫哈维国家保护区中约书亚树在春雨后开出乳白色花穗，散发甜香吸...",
+      "full_text": "莫哈维国家保护区中约书亚树在春雨后开出乳白色花穗，散发甜香吸引夜蛾传粉。约书亚树不是真正的树而是百合科植物，受气候变暖影响分布范围正在缩小，沙漠生态脆弱。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "deserts_gobi_057",
-      "title": "毛里塔尼亚眼",
-      "summary": "毛里塔尼亚撒哈拉之眼从太空可见巨大同心圆",
-      "full_text": "毛里塔尼亚撒哈拉之眼从太空可见巨大同心圆",
+      "title": "撒哈拉锡尔特",
+      "summary": "利比亚锡尔特沙漠是撒哈拉最炎热的区域之一，地表温度可达七十度...",
+      "full_text": "利比亚锡尔特沙漠是撒哈拉最炎热的区域之一，地表温度可达七十度。二战中北非战役在此激烈进行，油田在沙漠深处开采，地中海在北方如蓝色丝带，绿洲是唯一生命线。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "deserts_gobi_058",
-      "title": "纳米比亚骷髅海岸",
-      "summary": "骷髅海岸浓雾弥漫沉船残骸散布沙滩阴森",
-      "full_text": "骷髅海岸浓雾弥漫沉船残骸散布沙滩阴森",
+      "title": "塔克拉玛干公路",
+      "summary": "塔克拉玛干沙漠公路纵穿死亡之海全长522公里，是世界最长的沙...",
+      "full_text": "塔克拉玛干沙漠公路纵穿死亡之海全长522公里，是世界最长的沙漠公路。芦苇方格固沙在公路两侧如棋盘，沙暴来临时能见度降为零，公路如黑色丝线穿越金色沙海。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "deserts_gobi_059",
-      "title": "约旦瓦迪拉姆",
-      "summary": "瓦迪拉姆红色砂岩峡谷如火星地表般荒凉壮美",
-      "full_text": "瓦迪拉姆红色砂岩峡谷如火星地表般荒凉壮美",
+      "title": "撒哈拉费赞绿洲",
+      "summary": "利比亚费赞绿洲群是撒哈拉最美丽的绿洲之一，棕榈树如绿色华盖遮...",
+      "full_text": "利比亚费赞绿洲群是撒哈拉最美丽的绿洲之一，棕榈树如绿色华盖遮蔽烈日。格拉玛提安古城在绿洲中矗立千年，岩画记录湿润时代的河马和鳄鱼，沙丘在绿洲周围如金色海洋。",
       "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_059.jpg",
       "image_grid": {
         "x": 3,

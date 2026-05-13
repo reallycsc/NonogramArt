@@ -4,9 +4,18 @@ const BookshelfDataScript = preload("res://scripts/data/bookshelf_data.gd")
 const AlbumDataScript = preload("res://scripts/data/album_data.gd")
 var book_button_scene: PackedScene = preload("res://scenes/book_button.tscn")
 
-@onready var bookshelf_container: VBoxContainer = $VBoxContainer
-@onready var h_container: HBoxContainer = $VBoxContainer/HBoxContainer
-@onready var settings_popup: Control = $CanvasLayer/SettingsPopup
+@onready var portrait_ui: Control = $PortraitUI
+@onready var landscape_ui: Control = $LandscapeUI
+@onready var portrait_canvas: CanvasLayer = $PortraitUI/CanvasLayer
+@onready var landscape_canvas: CanvasLayer = $LandscapeUI/CanvasLayer
+
+@onready var p_title: Label = $PortraitUI/Title
+@onready var p_vbox: VBoxContainer = $PortraitUI/VBoxContainer
+@onready var p_settings_popup: Control = $PortraitUI/CanvasLayer/SettingsPopup
+
+@onready var l_title: Label = $LandscapeUI/Title
+@onready var l_vbox: VBoxContainer = $LandscapeUI/VBoxContainer
+@onready var l_settings_popup: Control = $LandscapeUI/CanvasLayer/SettingsPopup
 
 var bookshelf_list: Array = []
 var current_bookshelf_index: int = 0
@@ -14,13 +23,16 @@ var current_bookshelf_id: String = ""
 var current_albums: Array = []
 var current_album_id: String = ""
 var _row_containers: Array = []
-const BOOKS_PER_ROW: int = 3
+const BOOKS_PER_ROW_PORTRAIT: int = 3
+const BOOKS_PER_ROW_LANDSCAPE: int = 4
+var _books_per_row: int = BOOKS_PER_ROW_PORTRAIT
+
+var _destroying: bool = false
 
 var _swipe_start_pos: Vector2 = Vector2.ZERO
 var _swipe_min_distance: float = 50.0
 
 func _ready() -> void:
-	_collect_row_containers()
 	bookshelf_list = BookshelfDataScript.get_bookshelf_list()
 	if GameManager.pending_bookshelf_id != "":
 		for i in range(bookshelf_list.size()):
@@ -28,6 +40,8 @@ func _ready() -> void:
 				current_bookshelf_index = i
 				break
 		GameManager.pending_bookshelf_id = ""
+	OrientationManager.orientation_changed.connect(_on_orientation_changed)
+	_apply_orientation(OrientationManager.current_orientation)
 	_load_shelf()
 	if GameManager.pending_album_id != "":
 		AudioManager.play_bgm_for_album(GameManager.pending_album_id)
@@ -35,9 +49,20 @@ func _ready() -> void:
 	else:
 		AudioManager.play_bgm("main_menu")
 
+func _exit_tree() -> void:
+	_destroying = true
+	if OrientationManager.orientation_changed.is_connected(_on_orientation_changed):
+		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
+
+func _get_active_vbox() -> VBoxContainer:
+	if portrait_ui.visible:
+		return p_vbox
+	return l_vbox
+
 func _collect_row_containers() -> void:
 	_row_containers.clear()
-	for child in bookshelf_container.get_children():
+	var vbox = _get_active_vbox()
+	for child in vbox.get_children():
 		if child is HBoxContainer:
 			_row_containers.append(child)
 
@@ -49,11 +74,14 @@ func _load_shelf() -> void:
 	current_bookshelf_index = clamp(current_bookshelf_index, 0, bookshelf_list.size() - 1)
 	current_bookshelf_id = bookshelf_list[current_bookshelf_index]["id"]
 	var bookshelf_data = BookshelfDataScript.get_bookshelf(current_bookshelf_id)
-	$Title.text = bookshelf_data["name"]
+	p_title.text = bookshelf_data["name"]
+	l_title.text = bookshelf_data["name"]
 	current_albums = AlbumDataScript.load_albums(current_bookshelf_id)
 	_display_albums()
 
 func _display_albums() -> void:
+	if _destroying or not is_inside_tree():
+		return
 	var has_children = false
 	for row in _row_containers:
 		if row.get_child_count() > 0:
@@ -62,6 +90,8 @@ func _display_albums() -> void:
 				child.queue_free()
 	if has_children:
 		await _wait_for_free()
+	if _destroying or not is_inside_tree():
+		return
 
 	var album_index: int = 0
 	for album in current_albums:
@@ -91,7 +121,7 @@ func _on_right_button_pressed() -> void:
 		_load_shelf()
 
 func _get_row_for_index(index: int) -> HBoxContainer:
-	var row_index = index / BOOKS_PER_ROW
+	var row_index = index / _books_per_row
 	if row_index < _row_containers.size():
 		return _row_containers[row_index]
 	return null
@@ -105,7 +135,7 @@ func _wait_for_free() -> void:
 				has_children = true
 				break
 		if has_children:
-			if not is_inside_tree():
+			if not is_inside_tree() or _destroying:
 				return
 			await get_tree().process_frame
 
@@ -115,7 +145,10 @@ func _on_back_pressed() -> void:
 
 func _on_settings_pressed() -> void:
 	AudioManager.play_sfx("click")
-	settings_popup.show_settings()
+	if portrait_ui.visible:
+		p_settings_popup.show_settings()
+	else:
+		l_settings_popup.show_settings()
 
 func _input(event: InputEvent) -> void:
 	if not DisplayServer.is_touchscreen_available():
@@ -184,3 +217,25 @@ func _show_toast(message: String) -> void:
 	tween.chain().tween_interval(1.0)
 	tween.chain().tween_property(panel, "modulate:a", 0.0, 0.5)
 	tween.chain().tween_callback(panel.queue_free)
+
+func _on_orientation_changed(new_orientation: int) -> void:
+	_apply_orientation(new_orientation)
+
+func _apply_orientation(orientation: int) -> void:
+	if _destroying or not is_inside_tree():
+		return
+	if orientation == OrientationManager.Orientation.PORTRAIT:
+		portrait_ui.visible = true
+		portrait_canvas.visible = true
+		landscape_ui.visible = false
+		landscape_canvas.visible = false
+		_books_per_row = BOOKS_PER_ROW_PORTRAIT
+	else:
+		portrait_ui.visible = false
+		portrait_canvas.visible = false
+		landscape_ui.visible = true
+		landscape_canvas.visible = true
+		_books_per_row = BOOKS_PER_ROW_LANDSCAPE
+	_collect_row_containers()
+	if not current_albums.is_empty():
+		_display_albums()

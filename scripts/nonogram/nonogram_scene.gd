@@ -4,6 +4,7 @@ extends Control
 @onready var game_board: Control = $GameBoard
 @onready var cell_container: Control = $GameBoard/CellContainer
 @onready var finish_button: TextureButton = $CanvasLayer/FinishButton
+@onready var background: TextureRect = $Background
 
 @onready var hp_node: HBoxContainer = $CanvasLayer/HpNode
 
@@ -31,6 +32,8 @@ var _touch_is_row_dragging: bool = false
 var _touch_is_col_dragging: bool = false
 var _touch_cell_state_pair: Vector2i = Vector2i(-1, -1)
 var _touch_just_handled: bool = false
+
+var _first_orientation_applied: bool = false
 
 # 预制场景
 var cell_scene: PackedScene = preload("res://scenes/cell_color.tscn")
@@ -80,6 +83,9 @@ func _ready():
 	
 	game_over_popup.restart_requested.connect(_on_restart_button_pressed)
 	game_over_popup.exit_requested.connect(_on_back_button_pressed)
+
+	OrientationManager.orientation_changed.connect(_on_orientation_changed)
+	_apply_orientation(OrientationManager.current_orientation)
 	
 	_detect_input_device()
 	check_button.button_pressed = true
@@ -107,6 +113,8 @@ func _ready():
 	setup_camera()
 	NonogramManager.check_and_update_after_ready()
 	AudioManager.play_bgm_for_album(_album_id)
+
+	
 	
 # 设置提示数字
 func setup_hints():
@@ -214,6 +222,7 @@ func setup_board_size_and_position():
 # 设置相机
 func setup_camera():
 	camera.make_current()
+	camera.position = get_viewport_rect().size/2
 	camera.min_zoom = 1
 	camera.max_zoom = 1.5
 
@@ -221,7 +230,7 @@ func setup_tips():
 	match GameManager.current_language:
 		GameManager.Language.CHINESE:
 			$CanvasLayer/TipsNode/Mask.size.x = 220
-			$CanvasLayer/TipsNode2/Mask.size.x = 260
+			$CanvasLayer/TipsNode2/Mask.size.x = 220
 		_:
 			$CanvasLayer/TipsNode/Mask.size.x = 260
 			$CanvasLayer/TipsNode2/Mask.size.x = 300
@@ -627,6 +636,8 @@ func _on_language_changed(language: int) -> void:
 	setup_tips()
 	
 func _exit_tree() -> void:
+	if OrientationManager.orientation_changed.is_connected(_on_orientation_changed):
+		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
 	GameManager.nonogram_cell_updated.disconnect(_on_cell_updated)
 	GameManager.nonogram_cell_finished.disconnect(_on_cell_finished)
 	GameManager.nonogram_rowHint_is_only_one_pattern.disconnect(_on_rowHint_is_only_one_pattern)
@@ -756,3 +767,16 @@ func _input(event: InputEvent) -> void:
 	elif event is InputEventScreenDrag and event.index == 0:
 		_handle_touch_drag(event)
 		get_viewport().set_input_as_handled()
+
+func _on_orientation_changed(new_orientation: int) -> void:
+	_apply_orientation(new_orientation)
+
+func _apply_orientation(orientation: int) -> void:
+	if not is_inside_tree():
+		return
+	camera.position = get_viewport_rect().size/2
+	if _first_orientation_applied:
+		BackgroundManager.apply_background_with_transition(background, "nonogram", orientation, self)
+	else:
+		BackgroundManager.apply_background(background, "nonogram", orientation)
+		_first_orientation_applied = true

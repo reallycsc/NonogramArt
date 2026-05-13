@@ -17,10 +17,20 @@ USAGE_FILE = BASE_DIR / "tools" / "api_usage.json"
 
 API_BASE_URL = "https://ark.cn-beijing.volces.com/api/v3/images/generations"
 
-STYLE_PREFIX = "中国风卡通插画，Q版2-3头身比例人物，圆润流畅线条，色彩丰富多样，画面构图饱满，"
+STYLE_PREFIX = "中国风卡通插画，圆润流畅线条，色彩丰富多样，画面构图饱满，"
 SHELF_COLOR_KEYWORDS = "色彩搭配和谐"
-STYLE_SUFFIX = "，画面边缘有丰富细节，不要大面积纯色背景，不要出现任何中文文字或汉字"
-NEGATIVE_PROMPT = "写实照片,3D渲染,暗色调,灰暗,恐怖,血腥,真实人物,photorealistic,dark,gloomy,写实风格,摄影,中文文字,汉字,书法字,文字水印"
+STYLE_SUFFIX = "，画面边缘有丰富细节，不要大面积纯色背景，绝对不要出现任何中文文字或汉字，不要出现任何英文字母或单词，no text,no letters,no characters,no writing,no calligraphy,no English words,no English letters,no symbols"
+NEGATIVE_PROMPT = "写实照片,3D渲染,暗色调,灰暗,恐怖,血腥,真实人物,photorealistic,dark,gloomy,写实风格,摄影,中文文字,汉字,书法字,文字水印,text,letters,characters,writing,calligraphy,一排人物站立,正面排列,人物展示图,symbols,markers,signs,signage"
+
+COMPOSITION_TEMPLATES = [
+    "远景大场景，俯瞰视角，人物融入环境",
+    "动态场景，侧面视角，人物正在行动中",
+    "近景特写，聚焦核心事件",
+    "广角镜头，环境氛围浓厚，人物在场景中",
+    "叙事性构图，前景中景后景层次分明",
+    "斜角构图，人物与建筑交错",
+    "纵深构图，近大远小，场景有纵深感",
+]
 
 ASPECT_RATIO_SIZES = {
     "1:1": "2048x2048",
@@ -256,7 +266,8 @@ class APIAccountPool:
 
 
 def build_prompt(scene):
-    return f"{STYLE_PREFIX}{scene}，{SHELF_COLOR_KEYWORDS}{STYLE_SUFFIX}"
+    composition = random.choice(COMPOSITION_TEMPLATES)
+    return f"{STYLE_PREFIX}{composition}，{scene}，{SHELF_COLOR_KEYWORDS}{STYLE_SUFFIX}"
 
 
 def get_size_for_grid(x_cells, y_cells):

@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "symbols_000",
-      "title": "停止标志",
-      "summary": "红色八角形停止标志，STOP字样醒目清晰，交通指令",
-      "full_text": "红色八角形停止标志，STOP字样醒目清晰，交通指令",
+      "title": "太极阴阳图",
+      "summary": "黑白鱼形图案首尾相抱，阴中有阳阳中有阴，太极图是中华哲学的核...",
+      "full_text": "黑白鱼形图案首尾相抱，阴中有阳阳中有阴，太极图是中华哲学的核心符号。阴阳相生相克动态平衡，万物负阴而抱阳。",
       "image": "res://assets/images/illustrations/symbols/symbols_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "symbols_001",
-      "title": "限速标志",
-      "summary": "圆形限速标志红圈，数字标明最高时速，速度限制",
-      "full_text": "圆形限速标志红圈，数字标明最高时速，速度限制",
+      "title": "八卦方位图",
+      "summary": "乾坤震巽坎离艮兑八卦代表天地雷风水火山泽，排列组合成六十四卦...",
+      "full_text": "乾坤震巽坎离艮兑八卦代表天地雷风水火山泽，排列组合成六十四卦。八卦是古人对自然现象的符号抽象，易经用卦象推演变化。",
       "image": "res://assets/images/illustrations/symbols/symbols_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "symbols_002",
-      "title": "方向指示",
-      "summary": "方向箭头标志指示，左转右转直行调头，路径引导",
-      "full_text": "方向箭头标志指示，左转右转直行调头，路径引导",
+      "title": "十字架信仰",
+      "summary": "十字架从刑具变为救赎的象征，基督教最神圣的标志。十字架代表牺...",
+      "full_text": "十字架从刑具变为救赎的象征，基督教最神圣的标志。十字架代表牺牲与重生，横竖交汇连接天与地。",
       "image": "res://assets/images/illustrations/symbols/symbols_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "symbols_003",
-      "title": "禁止标志",
-      "summary": "红色斜杠禁止标志，禁止通行禁止停车，行为约束",
-      "full_text": "红色斜杠禁止标志，禁止通行禁止停车，行为约束",
+      "title": "新月伊斯兰",
+      "summary": "弯月和星辰是伊斯兰的标志，清真寺穹顶上新月高悬。新月象征新的...",
+      "full_text": "弯月和星辰是伊斯兰的标志，清真寺穹顶上新月高悬。新月象征新的开始和信仰的光辉，历法以月相定月份。",
       "image": "res://assets/images/illustrations/symbols/symbols_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "symbols_004",
-      "title": "警告标志",
-      "summary": "黄色三角警告标志，注意危险提前警示，安全提醒",
-      "full_text": "黄色三角警告标志，注意危险提前警示，安全提醒",
+      "title": "大卫之星",
+      "summary": "六角星由两个等边三角形交叠而成，是犹太教和以色列的标志。大卫...",
+      "full_text": "六角星由两个等边三角形交叠而成，是犹太教和以色列的标志。大卫之星象征天地合一，向上的三角指向神向下指向人。",
       "image": "res://assets/images/illustrations/symbols/symbols_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "symbols_005",
-      "title": "人行横道",
-      "summary": "斑马线人行横道标志，黑白条纹行人优先，安全通道",
-      "full_text": "斑马线人行横道标志，黑白条纹行人优先，安全通道",
+      "title": "卍字吉祥",
+      "summary": "卍字符号在佛教中代表吉祥万德，佛像胸前常刻此符号。卍字是太阳...",
+      "full_text": "卍字符号在佛教中代表吉祥万德，佛像胸前常刻此符号。卍字是太阳和火的象征，在多种古文明中独立出现。",
       "image": "res://assets/images/illustrations/symbols/symbols_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "symbols_006",
-      "title": "停车标志",
-      "summary": "蓝色P字停车标志，指示停车场位置，停车指引",
-      "full_text": "蓝色P字停车标志，指示停车场位置，停车指引",
+      "title": "莲花清净",
+      "summary": "莲花出淤泥而不染，佛教以莲花象征清净觉悟。佛菩萨端坐莲台，莲...",
+      "full_text": "莲花出淤泥而不染，佛教以莲花象征清净觉悟。佛菩萨端坐莲台，莲花从污泥中绽放代表超越苦难达到觉悟。",
       "image": "res://assets/images/illustrations/symbols/symbols_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "symbols_007",
-      "title": "高速公路标志",
-      "summary": "绿色高速公路标志，编号出口距离信息，高速导航",
-      "full_text": "绿色高速公路标志，编号出口距离信息，高速导航",
+      "title": "法轮常转",
+      "summary": "八辐法轮代表佛教八正道，法轮常转象征佛法永不停息。佛陀初转法...",
+      "full_text": "八辐法轮代表佛教八正道，法轮常转象征佛法永不停息。佛陀初转法轮在鹿野苑，从此觉悟之道传遍世界。",
       "image": "res://assets/images/illustrations/symbols/symbols_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "symbols_008",
-      "title": "铁路道口",
-      "summary": "铁路道口交叉标志，火车来临注意安全，铁路警示",
-      "full_text": "铁路道口交叉标志，火车来临注意安全，铁路警示",
+      "title": "道符天书",
+      "summary": "道教符箓用朱砂在黄纸上书写神秘符号，驱邪祈福沟通天地。符箓是...",
+      "full_text": "道教符箓用朱砂在黄纸上书写神秘符号，驱邪祈福沟通天地。符箓是道法的载体，笔画曲折如天书凡人不可解。",
       "image": "res://assets/images/illustrations/symbols/symbols_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "symbols_009",
-      "title": "学校区域",
-      "summary": "学校区域慢行标志，儿童过马路注意，安全保护",
-      "full_text": "学校区域慢行标志，儿童过马路注意，安全保护",
+      "title": "龙凤呈祥",
+      "summary": "龙为百鳞之长凤为百鸟之王，龙凤配对象征阴阳和谐帝王后妃。龙凤...",
+      "full_text": "龙为百鳞之长凤为百鸟之王，龙凤配对象征阴阳和谐帝王后妃。龙凤是中华文明最尊贵的图腾，龙飞凤舞喜庆吉祥。",
       "image": "res://assets/images/illustrations/symbols/symbols_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "symbols_010",
-      "title": "施工标志",
-      "summary": "橙色施工区域标志，道路施工减速绕行，临时警示",
-      "full_text": "橙色施工区域标志，道路施工减速绕行，临时警示",
+      "title": "五角星光芒",
+      "summary": "五角星在多国国旗上闪耀，五角代表五行或五大洲，金星象征光明。...",
+      "full_text": "五角星在多国国旗上闪耀，五角代表五行或五大洲，金星象征光明。五角星中隐藏黄金比例，几何之美赋予象征力量。",
       "image": "res://assets/images/illustrations/symbols/symbols_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "symbols_011",
-      "title": "残疾人标志",
-      "summary": "蓝色轮椅残疾人标志，无障碍设施指引，关爱标识",
-      "full_text": "蓝色轮椅残疾人标志，无障碍设施指引，关爱标识",
+      "title": "和平鸽橄榄",
+      "summary": "毕加索画的白鸽衔橄榄枝成为和平标志，源自诺亚方舟放鸽探陆的传...",
+      "full_text": "毕加索画的白鸽衔橄榄枝成为和平标志，源自诺亚方舟放鸽探陆的传说。和平鸽是反战的号角，白鸽飞翔战火熄灭。",
       "image": "res://assets/images/illustrations/symbols/symbols_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "symbols_012",
-      "title": "紧急出口",
-      "summary": "绿色紧急出口标志，奔跑人形箭头方向，逃生指引",
-      "full_text": "绿色紧急出口标志，奔跑人形箭头方向，逃生指引",
+      "title": "红十字救助",
+      "summary": "白底红十字是国际人道主义标志，日内瓦公约保护其不受攻击。红十...",
+      "full_text": "白底红十字是国际人道主义标志，日内瓦公约保护其不受攻击。红十字标志中立公正，战场上看到红十字就看到希望。",
       "image": "res://assets/images/illustrations/symbols/symbols_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "symbols_013",
-      "title": "消防标志",
-      "summary": "红色消防标志，灭火器消防栓位置，消防指引",
-      "full_text": "红色消防标志，灭火器消防栓位置，消防指引",
+      "title": "奥运五环",
+      "summary": "五色圆环相扣代表五大洲团结，奥林匹克精神超越国界。五环从左到...",
+      "full_text": "五色圆环相扣代表五大洲团结，奥林匹克精神超越国界。五环从左到右蓝黄黑绿蓝，每环一种颜色至少出现在一国国旗上。",
       "image": "res://assets/images/illustrations/symbols/symbols_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "symbols_014",
-      "title": "危险品标志",
-      "summary": "危险品菱形标志，易燃有毒腐蚀标识，安全警示",
-      "full_text": "危险品菱形标志，易燃有毒腐蚀标识，安全警示",
+      "title": "骷髅警示",
+      "summary": "骷髅交叉骨是危险和毒物的通用警示标志，海盗旗上也用此符号。骷...",
+      "full_text": "骷髅交叉骨是危险和毒物的通用警示标志，海盗旗上也用此符号。骷髅提醒死亡近在咫尺，警示标志用恐惧守护安全。",
       "image": "res://assets/images/illustrations/symbols/symbols_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "symbols_015",
-      "title": "回收标志",
-      "summary": "三箭头循环回收标志，可回收材料标识，环保符号",
-      "full_text": "三箭头循环回收标志，可回收材料标识，环保符号",
+      "title": "心形爱情",
+      "summary": "红色心形是爱情的通用符号，情人节卡片和婚礼装饰随处可见。心形...",
+      "full_text": "红色心形是爱情的通用符号，情人节卡片和婚礼装饰随处可见。心形可能源自植物种子形状，如今已成为爱的代名词。",
       "image": "res://assets/images/illustrations/symbols/symbols_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "symbols_016",
-      "title": "交通信号灯",
-      "summary": "红黄绿三色信号灯，停止等待通行指令，交通控制",
-      "full_text": "红黄绿三色信号灯，停止等待通行指令，交通控制",
+      "title": "无穷符号∞",
+      "summary": "莫比乌斯带扭成的∞符号代表无穷无尽，数学中无限的概念令人敬畏...",
+      "full_text": "莫比乌斯带扭成的∞符号代表无穷无尽，数学中无限的概念令人敬畏。无穷大不是数而是方向，有限心智触碰无限边界。",
       "image": "res://assets/images/illustrations/symbols/symbols_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "symbols_017",
-      "title": "指路标志",
-      "summary": "蓝色指路标志，地名距离方向信息，道路导航",
-      "full_text": "蓝色指路标志，地名距离方向信息，道路导航",
+      "title": "等号平衡",
+      "summary": "两条平行短线表示相等，等号是数学最基本的关系符号。等号连接左...",
+      "full_text": "两条平行短线表示相等，等号是数学最基本的关系符号。等号连接左右两端，平衡是数学和物理的共同追求。",
       "image": "res://assets/images/illustrations/symbols/symbols_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "symbols_018",
-      "title": "旅游标志",
-      "summary": "棕色旅游标志，景点名称距离指引，旅游导航",
-      "full_text": "棕色旅游标志，景点名称距离指引，旅游导航",
+      "title": "箭头方向",
+      "summary": "箭头指向目标方向，交通标志和界面设计中箭头引导视线和行动。箭...",
+      "full_text": "箭头指向目标方向，交通标志和界面设计中箭头引导视线和行动。箭头是最直观的方向指示，从原始狩猎到现代导航。",
       "image": "res://assets/images/illustrations/symbols/symbols_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "symbols_019",
-      "title": "信息标志",
-      "summary": "蓝色信息标志，服务设施位置指引，便民信息",
-      "full_text": "蓝色信息标志，服务设施位置指引，便民信息",
+      "title": "对勾确认",
+      "summary": "对勾标记正确完成和通过，考试和待办事项中对勾带来满足感。对勾...",
+      "full_text": "对勾标记正确完成和通过，考试和待办事项中对勾带来满足感。对勾是肯定的符号，一笔画出的认可简单有力。",
       "image": "res://assets/images/illustrations/symbols/symbols_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "symbols_020",
-      "title": "太极图",
-      "summary": "太极阴阳鱼图，黑白互抱动态平衡，道教核心符号",
-      "full_text": "太极阴阳鱼图，黑白互抱动态平衡，道教核心符号",
+      "title": "叉号否定",
+      "summary": "叉号标记错误拒绝和关闭，红叉在答题卡上意味着失分。叉号是否定...",
+      "full_text": "叉号标记错误拒绝和关闭，红叉在答题卡上意味着失分。叉号是否定的符号，两条交叉线斩断错误。",
       "image": "res://assets/images/illustrations/symbols/symbols_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "symbols_021",
-      "title": "十字架",
-      "summary": "基督教十字架符号，耶稣受难救赎象征，信仰标志",
-      "full_text": "基督教十字架符号，耶稣受难救赎象征，信仰标志",
+      "title": "星号标注",
+      "summary": "星号标注脚注和重点，五角星形在文本中引人注目。星号是注意力的...",
+      "full_text": "星号标注脚注和重点，五角星形在文本中引人注目。星号是注意力的信号，小小标记蕴含重要信息。",
       "image": "res://assets/images/illustrations/symbols/symbols_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "symbols_022",
-      "title": "新月标志",
-      "summary": "伊斯兰新月标志，月亮星辰信仰象征，伊斯兰符号",
-      "full_text": "伊斯兰新月标志，月亮星辰信仰象征，伊斯兰符号",
+      "title": "井号标签",
+      "summary": "井号在社交媒体中作为话题标签，#标签聚合相关内容。井号从音乐...",
+      "full_text": "井号在社交媒体中作为话题标签，#标签聚合相关内容。井号从音乐升号到电话键到话题标签，符号随时代进化。",
       "image": "res://assets/images/illustrations/symbols/symbols_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "symbols_023",
-      "title": "大卫之星",
-      "summary": "六角大卫之星，犹太教信仰象征，民族标志",
-      "full_text": "六角大卫之星，犹太教信仰象征，民族标志",
+      "title": "@符号连接",
+      "summary": "@符号连接用户和域名，电子邮件地址中at表示在某处。@从商业...",
+      "full_text": "@符号连接用户和域名，电子邮件地址中at表示在某处。@从商业单价符号变为互联网标志，一个符号连接全世界。",
       "image": "res://assets/images/illustrations/symbols/symbols_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "symbols_024",
-      "title": "和平标志",
-      "summary": "反核和平标志圆圈，倒Y形世界和平，反战符号",
-      "full_text": "反核和平标志圆圈，倒Y形世界和平，反战符号",
+      "title": "美元符货币",
+      "summary": "美元符号S上加竖线，可能源自西班牙比索的缩写PS叠写。美元符...",
+      "full_text": "美元符号S上加竖线，可能源自西班牙比索的缩写PS叠写。美元符号是资本主义的图腾，全球金融体系的通用语言。",
       "image": "res://assets/images/illustrations/symbols/symbols_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "symbols_025",
-      "title": "心形符号",
-      "summary": "心形符号表达爱意，情人节爱情象征，情感符号",
-      "full_text": "心形符号表达爱意，情人节爱情象征，情感符号",
+      "title": "欧元符统一",
+      "summary": "欧元符号C加横线灵感来自希腊字母epsilon，象征欧洲文明...",
+      "full_text": "欧元符号C加横线灵感来自希腊字母epsilon，象征欧洲文明根基。欧元符号是欧洲一体化的标志，统一货币统一市场。",
       "image": "res://assets/images/illustrations/symbols/symbols_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "symbols_026",
-      "title": "骷髅警示",
-      "summary": "骷髅交叉骨警示，剧毒危险死亡警告，危险符号",
-      "full_text": "骷髅交叉骨警示，剧毒危险死亡警告，危险符号",
+      "title": "人民币符¥",
+      "summary": "人民币符号Y加横线，取自元的拼音首字母。人民币符号是中国经济...",
+      "full_text": "人民币符号Y加横线，取自元的拼音首字母。人民币符号是中国经济的标志，国际化进程中¥走向世界。",
       "image": "res://assets/images/illustrations/symbols/symbols_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "symbols_027",
-      "title": "阴阳符号",
-      "summary": "阴阳符号黑白对比，对立统一哲学象征，东方智慧",
-      "full_text": "阴阳符号黑白对比，对立统一哲学象征，东方智慧",
+      "title": "百分号比例",
+      "summary": "百分号%表示每一百份中的份额，折扣利率和统计数据中无处不在。...",
+      "full_text": "百分号%表示每一百份中的份额，折扣利率和统计数据中无处不在。百分号让比例直观，数字加符号一目了然。",
       "image": "res://assets/images/illustrations/symbols/symbols_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "symbols_028",
-      "title": "法轮",
-      "summary": "佛教法轮八辐条，佛法轮转永不停息，佛教标志",
-      "full_text": "佛教法轮八辐条，佛法轮转永不停息，佛教标志",
+      "title": "度数符号°",
+      "summary": "度数符号标注角度和温度，天气预报和地图上都离不开它。度数量化...",
+      "full_text": "度数符号标注角度和温度，天气预报和地图上都离不开它。度数量化旋转和冷热，小圆圈承载大信息。",
       "image": "res://assets/images/illustrations/symbols/symbols_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "symbols_029",
-      "title": "莲花符号",
-      "summary": "莲花出淤泥而不染，佛教纯洁象征，清净之花",
-      "full_text": "莲花出淤泥而不染，佛教纯洁象征，清净之花",
+      "title": "和号&连接",
+      "summary": "和号&是拉丁语et的连写，表示和与连接。&符号在品牌名称和设...",
+      "full_text": "和号&是拉丁语et的连写，表示和与连接。&符号在品牌名称和设计中优雅登场，一笔连写两个字母的书法之美。",
       "image": "res://assets/images/illustrations/symbols/symbols_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "symbols_030",
-      "title": "卍字符号",
-      "summary": "卍字吉祥符号，佛教永恒吉祥象征，万字符",
-      "full_text": "卍字吉祥符号，佛教永恒吉祥象征，万字符",
+      "title": "段落标记§",
+      "summary": "段落标记§在法律文件中标注条款，双S形状源自拉丁语signu...",
+      "full_text": "段落标记§在法律文件中标注条款，双S形状源自拉丁语signum。法律条文用§精确定位，符号让长文档有序可查。",
       "image": "res://assets/images/illustrations/symbols/symbols_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "symbols_031",
-      "title": "锚符号",
-      "summary": "锚符号稳定希望，航海安全停泊象征，海洋标志",
-      "full_text": "锚符号稳定希望，航海安全停泊象征，海洋标志",
+      "title": "版权符号©",
+      "summary": "版权符号C加圆圈声明著作权，作品上标注©表示权利保留。版权符...",
+      "full_text": "版权符号C加圆圈声明著作权，作品上标注©表示权利保留。版权符号是创作者的盾牌，一个圆圈保护智力成果。",
       "image": "res://assets/images/illustrations/symbols/symbols_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "symbols_032",
-      "title": "天平符号",
-      "summary": "天平符号公平正义，法律公正衡量象征，司法标志",
-      "full_text": "天平符号公平正义，法律公正衡量象征，司法标志",
+      "title": "注册商标®",
+      "summary": "注册商标R加圆圈表示已注册，法律保护独占使用。注册商标是品牌...",
+      "full_text": "注册商标R加圆圈表示已注册，法律保护独占使用。注册商标是品牌的护城河，圆圈中的R代表法律认可。",
       "image": "res://assets/images/illustrations/symbols/symbols_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "symbols_033",
-      "title": "蛇杖符号",
-      "summary": "蛇杖医学符号，阿斯克勒庇俄斯之杖，医疗标志",
-      "full_text": "蛇杖医学符号，阿斯克勒庇俄斯之杖，医疗标志",
+      "title": "音符旋律",
+      "summary": "五线谱上音符高低排列记录旋律，全音符二分音符四分音符时值递减...",
+      "full_text": "五线谱上音符高低排列记录旋律，全音符二分音符四分音符时值递减。音符是音乐的文字，五线谱让声音可见。",
       "image": "res://assets/images/illustrations/symbols/symbols_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "symbols_034",
-      "title": "橄榄枝",
-      "summary": "橄榄枝和平象征，鸽子衔枝世界和平，和平符号",
-      "full_text": "橄榄枝和平象征，鸽子衔枝世界和平，和平符号",
+      "title": "棋盘格子",
+      "summary": "黑白交替的方格是国际象棋棋盘，也是时尚界经典图案。棋盘格象征...",
+      "full_text": "黑白交替的方格是国际象棋棋盘，也是时尚界经典图案。棋盘格象征对弈和策略，黑白分明中蕴含无限变化。",
       "image": "res://assets/images/illustrations/symbols/symbols_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "symbols_035",
-      "title": "四叶草",
-      "summary": "四叶草幸运象征，稀有变异带来好运，幸运符号",
-      "full_text": "四叶草幸运象征，稀有变异带来好运，幸运符号",
+      "title": "条形码识别",
+      "summary": "黑白条纹按规则排列编码数字信息，激光扫描瞬间读取。条形码是商...",
+      "full_text": "黑白条纹按规则排列编码数字信息，激光扫描瞬间读取。条形码是商品的身份证，一维码到二维码信息容量倍增。",
       "image": "res://assets/images/illustrations/symbols/symbols_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "symbols_036",
-      "title": "无限符号",
-      "summary": "无限符号∞莫比乌斯，永恒无尽循环象征，数学符号",
-      "full_text": "无限符号∞莫比乌斯，永恒无尽循环象征，数学符号",
+      "title": "二维码矩阵",
+      "summary": "二维码用黑白方阵存储信息，手机扫码即可访问网址。二维码是移动...",
+      "full_text": "二维码用黑白方阵存储信息，手机扫码即可访问网址。二维码是移动互联网的入口，三个定位角让任何角度都能识别。",
       "image": "res://assets/images/illustrations/symbols/symbols_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "symbols_037",
-      "title": "奥运五环",
-      "summary": "奥运五环五色相连，五大洲团结和平，体育精神",
-      "full_text": "奥运五环五色相连，五大洲团结和平，体育精神",
+      "title": "交通信号灯",
+      "summary": "红停绿行黄警示，三色信号灯指挥交通秩序。交通灯是城市的心跳，...",
+      "full_text": "红停绿行黄警示，三色信号灯指挥交通秩序。交通灯是城市的心跳，红黄绿三色成为全球通用的行为指令。",
       "image": "res://assets/images/illustrations/symbols/symbols_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "symbols_038",
-      "title": "苹果logo",
-      "summary": "苹果被咬一口logo，简约设计科技美学，品牌标志",
-      "full_text": "苹果被咬一口logo，简约设计科技美学，品牌标志",
+      "title": "国旗色彩",
+      "summary": "各国国旗用颜色和图案表达民族精神，红白蓝代表自由平等博爱。国...",
+      "full_text": "各国国旗用颜色和图案表达民族精神，红白蓝代表自由平等博爱。国旗是国家的面孔，颜色和符号承载历史与信仰。",
       "image": "res://assets/images/illustrations/symbols/symbols_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "symbols_039",
-      "title": "星巴克logo",
-      "summary": "星巴克双尾海妖，绿色圆形咖啡文化，品牌符号",
-      "full_text": "星巴克双尾海妖，绿色圆形咖啡文化，品牌符号",
+      "title": "印章篆刻",
+      "summary": "方寸之间刻出姓名和图案，朱红印泥盖在书画上既是签名也是鉴赏。...",
+      "full_text": "方寸之间刻出姓名和图案，朱红印泥盖在书画上既是签名也是鉴赏。印章是中国独特的身份标识，篆刻艺术方寸天地气象万千。",
       "image": "res://assets/images/illustrations/symbols/symbols_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "symbols_040",
-      "title": "耐克对勾",
-      "summary": "耐克对勾Swoosh，动感速度胜利象征，运动品牌",
-      "full_text": "耐克对勾Swoosh，动感速度胜利象征，运动品牌",
+      "title": "象形文字起源",
+      "summary": "甲骨文用线条描绘事物形状，日如太阳月如弯刀山如三峰。象形文字...",
+      "full_text": "甲骨文用线条描绘事物形状，日如太阳月如弯刀山如三峰。象形文字是文字的童年，画物为字是人类最自然的记录方式。",
       "image": "res://assets/images/illustrations/symbols/symbols_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "symbols_041",
-      "title": "奔驰三叉星",
-      "summary": "奔驰三叉星标志，陆海空全方位机动，汽车品牌",
-      "full_text": "奔驰三叉星标志，陆海空全方位机动，汽车品牌",
+      "title": "数学符号体系",
+      "summary": "加减乘除等号不等号，数学符号体系让抽象运算可视化。莱布尼茨发...",
+      "full_text": "加减乘除等号不等号，数学符号体系让抽象运算可视化。莱布尼茨发明的微积分符号沿用至今，好符号让思维更高效。",
       "image": "res://assets/images/illustrations/symbols/symbols_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "symbols_042",
-      "title": "米老鼠轮廓",
-      "summary": "米老鼠三个圆耳朵，迪士尼经典形象，娱乐品牌",
-      "full_text": "米老鼠三个圆耳朵，迪士尼经典形象，娱乐品牌",
+      "title": "化学元素符号",
+      "summary": "H代表氢O代表氧Fe代表铁，元素符号源自拉丁名缩写。化学符号...",
+      "full_text": "H代表氢O代表氧Fe代表铁，元素符号源自拉丁名缩写。化学符号是物质的字母表，一百一十八个字母写出整个物质世界。",
       "image": "res://assets/images/illustrations/symbols/symbols_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "symbols_043",
-      "title": "红十字",
-      "summary": "红十字白底标志，医疗救助人道主义，国际标志",
-      "full_text": "红十字白底标志，医疗救助人道主义，国际标志",
+      "title": "音乐谱号标记",
+      "summary": "高音谱号像卷曲的花体字母G，低音谱号像胖胖的耳朵，谱号确定五...",
+      "full_text": "高音谱号像卷曲的花体字母G，低音谱号像胖胖的耳朵，谱号确定五线谱音高。谱号是音乐的钥匙，打开正确的音高之门。",
       "image": "res://assets/images/illustrations/symbols/symbols_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "symbols_044",
-      "title": "联合国标志",
-      "summary": "联合国橄榄枝环绕地球，世界和平国际合作",
-      "full_text": "联合国橄榄枝环绕地球，世界和平国际合作",
+      "title": "地图图例",
+      "summary": "地图图例用小符号代表河流道路和城市，蓝线是河红线是路圆点是城...",
+      "full_text": "地图图例用小符号代表河流道路和城市，蓝线是河红线是路圆点是城。图例是地图的密码本，符号让复杂地理信息一目了然。",
       "image": "res://assets/images/illustrations/symbols/symbols_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "symbols_045",
-      "title": "条形码",
-      "summary": "条形码黑白条纹，商品信息扫描识别，商品符号",
-      "full_text": "条形码黑白条纹，商品信息扫描识别，商品符号",
+      "title": "电路图符号",
+      "summary": "电阻用锯齿线电容用两平行线，电路符号让复杂电路一目了然。电路...",
+      "full_text": "电阻用锯齿线电容用两平行线，电路符号让复杂电路一目了然。电路图是电子工程师的语言，标准符号跨越国界通用。",
       "image": "res://assets/images/illustrations/symbols/symbols_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "symbols_046",
-      "title": "二维码",
-      "summary": "二维码黑白方格矩阵，手机扫码信息获取，数字符号",
-      "full_text": "二维码黑白方格矩阵，手机扫码信息获取，数字符号",
+      "title": "流程图菱形",
+      "summary": "矩形是处理步骤菱形是判断条件箭头连接流程，流程图让逻辑清晰可...",
+      "full_text": "矩形是处理步骤菱形是判断条件箭头连接流程，流程图让逻辑清晰可见。流程图是思维的地图，复杂决策化为简单图形。",
       "image": "res://assets/images/illustrations/symbols/symbols_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "symbols_047",
-      "title": "WiFi标志",
-      "summary": "WiFi扇形波纹标志，无线网络信号连接，科技符号",
-      "full_text": "WiFi扇形波纹标志，无线网络信号连接，科技符号",
+      "title": "危险品标志",
+      "summary": "火焰骷髅腐蚀和爆炸四种危险品标志，橙红底色警示运输安全。危险...",
+      "full_text": "火焰骷髅腐蚀和爆炸四种危险品标志，橙红底色警示运输安全。危险品标志用图形跨越语言障碍，一图胜千言守护安全。",
       "image": "res://assets/images/illustrations/symbols/symbols_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "symbols_048",
-      "title": "蓝牙标志",
-      "summary": "蓝牙如尼字母组合，短距离无线连接，科技符号",
-      "full_text": "蓝牙如尼字母组合，短距离无线连接，科技符号",
+      "title": "回收标志循环",
+      "summary": "三个箭头首尾相连形成莫比乌斯环，回收标志号召循环利用。回收标...",
+      "full_text": "三个箭头首尾相连形成莫比乌斯环，回收标志号召循环利用。回收标志是环保的徽章，三个箭头代表减量复用回收三原则。",
       "image": "res://assets/images/illustrations/symbols/symbols_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "symbols_049",
-      "title": "电源标志",
-      "summary": "电源开关标志0和1，开关机状态指示，电子符号",
-      "full_text": "电源开关标志0和1，开关机状态指示，电子符号",
+      "title": "无障碍标识",
+      "summary": "蓝色方块中白色轮椅图案是无障碍标识，提醒为残障人士提供便利。...",
+      "full_text": "蓝色方块中白色轮椅图案是无障碍标识，提醒为残障人士提供便利。无障碍标识是包容的象征，城市因无障碍而温暖。",
       "image": "res://assets/images/illustrations/symbols/symbols_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "symbols_050",
-      "title": "播放按钮",
-      "summary": "三角形播放按钮，视频音频开始播放，媒体符号",
-      "full_text": "三角形播放按钮，视频音频开始播放，媒体符号",
+      "title": "紧急出口标识",
+      "summary": "绿色小人跑向出口的标识在公共场所指引逃生方向。紧急出口标识是...",
+      "full_text": "绿色小人跑向出口的标识在公共场所指引逃生方向。紧急出口标识是生命的路标，黑暗中绿色光芒指引安全。",
       "image": "res://assets/images/illustrations/symbols/symbols_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "symbols_051",
-      "title": "@符号",
-      "summary": "@符号电子邮件，网络时代身份标识，数字符号",
-      "full_text": "@符号电子邮件，网络时代身份标识，数字符号",
+      "title": "辐射三叶标志",
+      "summary": "三叶形辐射标志黄底黑图警示电离辐射危险，核设施和放射源旁必须...",
+      "full_text": "三叶形辐射标志黄底黑图警示电离辐射危险，核设施和放射源旁必须张贴。三叶标志是核能的警示，敬畏辐射守护安全。",
       "image": "res://assets/images/illustrations/symbols/symbols_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "symbols_052",
-      "title": "爱心emoji",
-      "summary": "红色爱心emoji，社交媒体表达喜爱，表情符号",
-      "full_text": "红色爱心emoji，社交媒体表达喜爱，表情符号",
+      "title": "生物危害标志",
+      "summary": "三个内扣圆弧组成的生物危害标志警示病原微生物危险。生物危害标...",
+      "full_text": "三个内扣圆弧组成的生物危害标志警示病原微生物危险。生物危害标志是实验室的警戒线，接触前请三思。",
       "image": "res://assets/images/illustrations/symbols/symbols_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "symbols_053",
-      "title": "点赞手势",
-      "summary": "竖大拇指点赞，社交媒体认可赞同，互动符号",
-      "full_text": "竖大拇指点赞，社交媒体认可赞同，互动符号",
+      "title": "电源开关符号",
+      "summary": "圆圈加竖线是电源开关符号，1代表开0代表关，合二为一表示待机...",
+      "full_text": "圆圈加竖线是电源开关符号，1代表开0代表关，合二为一表示待机。电源符号是数字时代的开关，一键掌控能量流动。",
       "image": "res://assets/images/illustrations/symbols/symbols_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "symbols_054",
-      "title": "中国国旗",
-      "summary": "五星红旗五颗金星，革命团结国家象征，国旗标志",
-      "full_text": "五星红旗五颗金星，革命团结国家象征，国旗标志",
+      "title": "标点符号断句",
+      "summary": "逗号停顿句号结束问号质疑叹号感叹，标点让文字有了呼吸和语气。...",
+      "full_text": "逗号停顿句号结束问号质疑叹号感叹，标点让文字有了呼吸和语气。标点符号是书面语的节奏，没有标点的文字如同没有休止符的乐谱。",
       "image": "res://assets/images/illustrations/symbols/symbols_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "symbols_055",
-      "title": "联合国教科文标志",
-      "summary": "UNESCO希腊神庙标志，教育科学文化保护，国际组织",
-      "full_text": "UNESCO希腊神庙标志，教育科学文化保护，国际组织",
+      "title": "数字符号计数",
+      "summary": "阿拉伯数字零到九组合表示一切数，位置制让大数表达简洁。数字符...",
+      "full_text": "阿拉伯数字零到九组合表示一切数，位置制让大数表达简洁。数字符号是人类最伟大的发明之一，零的概念让位值制成为可能。",
       "image": "res://assets/images/illustrations/symbols/symbols_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "symbols_056",
-      "title": "绿色食品标志",
-      "summary": "绿色食品标志，安全优质环保认证，食品标识",
-      "full_text": "绿色食品标志，安全优质环保认证，食品标识",
+      "title": "字母表音符号",
+      "summary": "二十六个拉丁字母组合出英语所有单词，字母是语音的视觉编码。字...",
+      "full_text": "二十六个拉丁字母组合出英语所有单词，字母是语音的视觉编码。字母表音文字比象形文字更灵活，有限符号无限组合。",
       "image": "res://assets/images/illustrations/symbols/symbols_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "symbols_057",
-      "title": "能源之星",
-      "summary": "能源之星标志，节能产品环保认证，能效标识",
-      "full_text": "能源之星标志，节能产品环保认证，能效标识",
+      "title": "天干地支纪年",
+      "summary": "甲乙丙丁戊己庚辛壬癸十天干配子丑寅卯十二地支，六十甲子循环纪...",
+      "full_text": "甲乙丙丁戊己庚辛壬癸十天干配子丑寅卯十二地支，六十甲子循环纪年。天干地支是中国的计时系统，干支纪年法延续数千年。",
       "image": "res://assets/images/illustrations/symbols/symbols_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "symbols_058",
-      "title": "碳中和标志",
-      "summary": "碳中和标志绿色低碳，碳排放净零认证，环保标识",
-      "full_text": "碳中和标志绿色低碳，碳排放净零认证，环保标识",
+      "title": "星座符号天文",
+      "summary": "白羊座符号像V形羊角，天蝎座符号像M带尾钩，星座符号源自古代...",
+      "full_text": "白羊座符号像V形羊角，天蝎座符号像M带尾钩，星座符号源自古代星图。星座符号是天空的字母，黄道十二宫各有标志。",
       "image": "res://assets/images/illustrations/symbols/symbols_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "symbols_059",
-      "title": "有机认证标志",
-      "summary": "有机认证标志绿色叶子，无农药化肥天然认证，食品标识",
-      "full_text": "有机认证标志绿色叶子，无农药化肥天然认证，食品标识",
+      "title": "炼金术符号",
+      "summary": "炼金术士用符号代表金属和元素，太阳符号代表金月亮代表银。炼金...",
+      "full_text": "炼金术士用符号代表金属和元素，太阳符号代表金月亮代表银。炼金术符号是化学符号的前身，神秘图案中藏着科学萌芽。",
       "image": "res://assets/images/illustrations/symbols/symbols_059.jpg",
       "image_grid": {
         "x": 3,

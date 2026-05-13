@@ -22,13 +22,14 @@ NonogramManager="*uid://b2ja4cpvcqoim"
 GameManager="*res://scripts/autoload/game_manager.gd"
 AnimationManager="*uid://cpbtx1hbc8g2t"
 AudioManager="*res://scripts/autoload/audio_manager.gd"
+OrientationManager="*res://scripts/autoload/orientation_manager.gd"
 
 [display]
 
-window/size/viewport_width=720
-window/size/viewport_height=1280
+window/size/viewport_width=1280
+window/size/viewport_height=720
 window/stretch/mode="canvas_items"
-window/handheld/orientation=1
+window/handheld/orientation=5
 
 [gui]
 
@@ -71,7 +72,6 @@ mark_cell={
 
 pointing/android/enable_long_press_as_right_click=true
 pointing/android/enable_pan_and_scale_gestures=true
-pointing/emulate_touch_from_mouse=true
 
 [layer_names]
 

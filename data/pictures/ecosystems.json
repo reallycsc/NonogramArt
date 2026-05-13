@@ -4,8 +4,8 @@
     {
       "id": "ecosystems_000",
       "title": "热带雨林",
-      "summary": "热带雨林层次分明冠层灌木地被层生物多样性极高",
-      "full_text": "热带雨林层次分明冠层灌木地被层生物多样性极高",
+      "summary": "热带雨林层叠冠盖遮天蔽日，板根支柱藤蔓交织缠绕，物种密度冠绝...",
+      "full_text": "热带雨林层叠冠盖遮天蔽日，板根支柱藤蔓交织缠绕，物种密度冠绝全球，地球之肺呼吸不息",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_000.jpg",
       "image_grid": {
         "x": 3,
@@ -25,8 +25,8 @@
     {
       "id": "ecosystems_001",
       "title": "温带落叶林",
-      "summary": "温带落叶林秋季金黄叶片铺满森林地面如金毯",
-      "full_text": "温带落叶林秋季金黄叶片铺满森林地面如金毯",
+      "summary": "温带落叶林四季更迭色彩斑斓，春萌夏茂秋金冬寂，栎枫椴桦混交成...",
+      "full_text": "温带落叶林四季更迭色彩斑斓，春萌夏茂秋金冬寂，栎枫椴桦混交成林，年轮刻录岁月痕迹",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_001.jpg",
       "image_grid": {
         "x": 3,
@@ -46,8 +46,8 @@
     {
       "id": "ecosystems_002",
       "title": "北方针叶林",
-      "summary": "北方针叶林如绿色海洋横贯欧亚大陆如塔如墨",
-      "full_text": "北方针叶林如绿色海洋横贯欧亚大陆如塔如墨",
+      "summary": "北方针叶林纵贯亚欧绵延万里，云杉冷杉松树参天耸立，林下苔藓如...",
+      "full_text": "北方针叶林纵贯亚欧绵延万里，云杉冷杉松树参天耸立，林下苔藓如毯松软，泰加林带寒意深沉",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "ecosystems_003",
-      "title": "红树林",
-      "summary": "红树林气根如网在海岸边如卫如护如墙如屏",
-      "full_text": "红树林气根如网在海岸边如卫如护如墙如屏",
+      "title": "热带季雨林",
+      "summary": "热带季雨林干湿交替季节分明，雨季葱郁旱季落叶，季风驱动的生命...",
+      "full_text": "热带季雨林干湿交替季节分明，雨季葱郁旱季落叶，季风驱动的生命节律，南亚次大陆典型植被",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "ecosystems_004",
-      "title": "云雾林",
-      "summary": "云雾林常年笼罩在云雾中苔藓覆盖如仙境",
-      "full_text": "云雾林常年笼罩在云雾中苔藓覆盖如仙境",
+      "title": "亚热带常绿林",
+      "summary": "亚热带常绿阔叶林四季苍翠，樟楠栲柯建群种优势明显，林下蕨类灌...",
+      "full_text": "亚热带常绿阔叶林四季苍翠，樟楠栲柯建群种优势明显，林下蕨类灌木层叠，中国南方绿色脊梁",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "ecosystems_005",
-      "title": "季雨林",
-      "summary": "季雨林旱季落叶雨季葱郁季节变化鲜明",
-      "full_text": "季雨林旱季落叶雨季葱郁季节变化鲜明",
+      "title": "红树林",
+      "summary": "红树林根系交错如网扎入滩涂，呼吸根支柱根抵抗潮汐冲刷，海陆交...",
+      "full_text": "红树林根系交错如网扎入滩涂，呼吸根支柱根抵抗潮汐冲刷，海陆交界生态屏障，鱼虾蟹贝繁育天堂",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "ecosystems_006",
-      "title": "硬叶林",
-      "summary": "硬叶林叶片厚硬如革在地中海气候中如翠如硬",
-      "full_text": "硬叶林叶片厚硬如革在地中海气候中如翠如硬",
+      "title": "热带草原",
+      "summary": "热带草原禾草高丛散生金合欢，旱季焦黄雨季碧绿交替，角马斑马迁...",
+      "full_text": "热带草原禾草高丛散生金合欢，旱季焦黄雨季碧绿交替，角马斑马迁徙壮阔，非洲大地生命律动",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "ecosystems_007",
-      "title": "竹林",
-      "summary": "竹林如绿色如海在亚热带如海如绿如翠如风",
-      "full_text": "竹林如绿色如海在亚热带如海如绿如翠如风",
+      "title": "温带草原",
+      "summary": "温带草原禾草连天碧浪翻涌，针茅羊草建群种优势突出，地下根系交...",
+      "full_text": "温带草原禾草连天碧浪翻涌，针茅羊草建群种优势突出，地下根系交织如网，风吹草低见牛羊",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "ecosystems_008",
-      "title": "沼泽林",
-      "summary": "沼泽林中树木气根如膝在水中如林如水如泽",
-      "full_text": "沼泽林中树木气根如膝在水中如林如水如泽",
+      "title": "高山草甸",
+      "summary": "高山草甸矮草如茵野花烂漫，海拔三千米以上严寒环境，植物低矮匍...",
+      "full_text": "高山草甸矮草如茵野花烂漫，海拔三千米以上严寒环境，植物低矮匍匐抗风，夏日花海如织锦铺展",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "ecosystems_009",
-      "title": "河岸林",
-      "summary": "河岸林沿河岸分布柳树垂枝如帘如绿如翠",
-      "full_text": "河岸林沿河岸分布柳树垂枝如帘如绿如翠",
+      "title": "高寒荒漠",
+      "summary": "高寒荒漠砾石遍野植被稀疏，青藏高原腹地寒风凛冽，垫状植物紧贴...",
+      "full_text": "高寒荒漠砾石遍野植被稀疏，青藏高原腹地寒风凛冽，垫状植物紧贴地面求生，生命极限顽强不屈",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "ecosystems_010",
-      "title": "珊瑚礁鱼群",
-      "summary": "珊瑚礁鱼群色彩斑斓如海底花园如画如彩",
-      "full_text": "珊瑚礁鱼群色彩斑斓如海底花园如画如彩",
+      "title": "温带荒漠",
+      "summary": "温带荒漠沙丘连绵戈壁无垠，梭梭红柳骆驼刺零星分布，极端干旱昼...",
+      "full_text": "温带荒漠沙丘连绵戈壁无垠，梭梭红柳骆驼刺零星分布，极端干旱昼夜温差巨大，荒凉中暗藏生机",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "ecosystems_011",
-      "title": "海藻林",
-      "summary": "海藻林如海底森林海獭在其中如林如绿如海",
-      "full_text": "海藻林如海底森林海獭在其中如林如绿如海",
+      "title": "热带荒漠",
+      "summary": "热带荒漠烈日炙烤沙海茫茫，仙人掌肉质茎储水求生，撒哈拉沙暴遮...",
+      "full_text": "热带荒漠烈日炙烤沙海茫茫，仙人掌肉质茎储水求生，撒哈拉沙暴遮天蔽日，生命在极限处绽放",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "ecosystems_012",
-      "title": "深海热泉",
-      "summary": "深海热泉周围管虫如花如黑如烟如奇如生",
-      "full_text": "深海热泉周围管虫如花如黑如烟如奇如生",
+      "title": "极地苔原",
+      "summary": "极地苔原永冻层上苔藓地衣铺展，夏季短暂融冻泥沼遍布，驯鹿涉行...",
+      "full_text": "极地苔原永冻层上苔藓地衣铺展，夏季短暂融冻泥沼遍布，驯鹿涉行北极狐出没，极昼阳光下的苍凉",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "ecosystems_013",
-      "title": "潮间带",
-      "summary": "潮间带退潮后海星海葵如画如生如滩如海",
-      "full_text": "潮间带退潮后海星海葵如画如生如滩如海",
+      "title": "湿地沼泽",
+      "summary": "湿地沼泽水草丰茂芦苇摇曳，候鸟栖息鱼类繁衍，泥炭层厚积碳汇功...",
+      "full_text": "湿地沼泽水草丰茂芦苇摇曳，候鸟栖息鱼类繁衍，泥炭层厚积碳汇功能显著，地球之肾净化水源",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "ecosystems_014",
-      "title": "海草床",
-      "summary": "海草床如海底草原海龟如龟如草如绿如海",
-      "full_text": "海草床如海底草原海龟如龟如草如绿如海",
+      "title": "河口湿地",
+      "summary": "河口湿地咸淡水交汇营养富集，泥滩潮沟纵横交错，弹涂鱼跳跃候鸟...",
+      "full_text": "河口湿地咸淡水交汇营养富集，泥滩潮沟纵横交错，弹涂鱼跳跃候鸟觅食，生物多样性热点区域",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "ecosystems_015",
-      "title": "极地冰原",
-      "summary": "极地冰原白茫茫一片企鹅如点如白如冰如原",
-      "full_text": "极地冰原白茫茫一片企鹅如点如白如冰如原",
+      "title": "泥炭沼泽",
+      "summary": "泥炭沼泽积水厌氧有机质缓慢分解，泥炭层千年累积厚达数米，碳储...",
+      "full_text": "泥炭沼泽积水厌氧有机质缓慢分解，泥炭层千年累积厚达数米，碳储量巨大调节气候，湿地中的碳库",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "ecosystems_016",
-      "title": "高山苔原",
-      "summary": "高山苔原地衣如皮如矮如绿如高如寒如生",
-      "full_text": "高山苔原地衣如皮如矮如绿如高如寒如生",
+      "title": "珊瑚礁",
+      "summary": "珊瑚礁由珊瑚虫骨骼堆积而成，热带浅海色彩斑斓如水下花园，鱼群...",
+      "full_text": "珊瑚礁由珊瑚虫骨骼堆积而成，热带浅海色彩斑斓如水下花园，鱼群穿梭海葵摇曳，海洋中的热带雨林",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "ecosystems_017",
-      "title": "荒漠绿洲",
-      "summary": "荒漠绿洲中椰枣如伞如绿如水如生如洲",
-      "full_text": "荒漠绿洲中椰枣如伞如绿如水如生如洲",
+      "title": "海草床",
+      "summary": "海草床水下草原碧波荡漾，海草根系固底减缓侵蚀，儒艮海龟觅食嬉...",
+      "full_text": "海草床水下草原碧波荡漾，海草根系固底减缓侵蚀，儒艮海龟觅食嬉戏，海洋生态的绿色摇篮",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "ecosystems_018",
-      "title": "洞穴生态",
-      "summary": "洞穴生态中盲鱼如白如暗如幽如生如洞如奇",
-      "full_text": "洞穴生态中盲鱼如白如暗如幽如生如洞如奇",
+      "title": "红海榄林",
+      "summary": "红海榄林根系如桩直插淤泥，热带海岸潮间带密布成林，防风消浪护...",
+      "full_text": "红海榄林根系如桩直插淤泥，热带海岸潮间带密布成林，防风消浪护岸固堤，海岸卫士当之无愧",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "ecosystems_019",
-      "title": "城市生态",
-      "summary": "城市生态中鸽子如灰如城如人如生如园如绿",
-      "full_text": "城市生态中鸽子如灰如城如人如生如园如绿",
+      "title": "深海热泉",
+      "summary": "深海热泉黑烟囱喷涌矿物热水，化能自养细菌替代光合作用，管虫盲...",
+      "full_text": "深海热泉黑烟囱喷涌矿物热水，化能自养细菌替代光合作用，管虫盲虾奇异的黑暗生态，生命起源的线索",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "ecosystems_020",
-      "title": "珊瑚礁",
-      "summary": "珊瑚礁如海底花园鱼群如蝶如彩如海如花",
-      "full_text": "珊瑚礁如海底花园鱼群如蝶如彩如海如花",
+      "title": "冷泉生态",
+      "summary": "深海冷泉甲烷硫化氢缓缓渗出，贻贝蛤蜊密集覆盖泉口，化能合成生...",
+      "full_text": "深海冷泉甲烷硫化氢缓缓渗出，贻贝蛤蜊密集覆盖泉口，化能合成生物群落独特，黑暗深海的另一片绿洲",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "ecosystems_021",
-      "title": "深海平原",
-      "summary": "深海平原如黑色如毯在海底如毯如黑如静如深",
-      "full_text": "深海平原如黑色如毯在海底如毯如黑如静如深",
+      "title": "海藻林",
+      "summary": "海藻林巨藻挺拔如水下森林，海獭穿行海胆啃食，从海底直达海面的...",
+      "full_text": "海藻林巨藻挺拔如水下森林，海獭穿行海胆啃食，从海底直达海面的绿色长廊，温带海岸生态支柱",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "ecosystems_022",
-      "title": "潮间带生态",
-      "summary": "潮间带生态中螃蟹如甲如滩如海如生如潮",
-      "full_text": "潮间带生态中螃蟹如甲如滩如海如生如潮",
+      "title": "潮间带",
+      "summary": "潮间带潮涨潮落交替淹没暴露，藤壶牡蛎密布岩面海葵摇曳，螃蟹横...",
+      "full_text": "潮间带潮涨潮落交替淹没暴露，藤壶牡蛎密布岩面海葵摇曳，螃蟹横行弹涂鱼跳跃，海陆交界的生命前线",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "ecosystems_023",
-      "title": "海草床生态",
-      "summary": "海草床生态中海牛如牛如草如绿如海如食",
-      "full_text": "海草床生态中海牛如牛如草如绿如海如食",
+      "title": "盐沼湿地",
+      "summary": "盐沼湿地盐生草本植物丛生，大米草碱蓬覆盖滩涂，潮汐涨落带来营...",
+      "full_text": "盐沼湿地盐生草本植物丛生，大米草碱蓬覆盖滩涂，潮汐涨落带来营养盐分，候鸟驿站碳汇重地",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "ecosystems_024",
-      "title": "海藻林生态",
-      "summary": "海藻林生态中海胆如球如林如绿如海如食",
-      "full_text": "海藻林生态中海胆如球如林如绿如海如食",
+      "title": "喀斯特",
+      "summary": "喀斯特溶岩地貌峰林耸立，地下暗河溶洞钟乳石笋，地表漏洼天坑竖...",
+      "full_text": "喀斯特溶岩地貌峰林耸立，地下暗河溶洞钟乳石笋，地表漏洼天坑竖井，石头上的水雕艺术",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "ecosystems_025",
-      "title": "河口湿地",
-      "summary": "河口湿地中候鸟如云如水如泥如滩如生如飞",
-      "full_text": "河口湿地中候鸟如云如水如泥如滩如生如飞",
+      "title": "丹霞地貌",
+      "summary": "丹霞赤壁红岩如火焰燃烧，砂岩砾岩经亿年风化雕琢，赤壁丹崖碧水...",
+      "full_text": "丹霞赤壁红岩如火焰燃烧，砂岩砾岩经亿年风化雕琢，赤壁丹崖碧水映照，大地上的红色画卷",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "ecosystems_026",
-      "title": "红树林海岸",
-      "summary": "红树林海岸中弹涂鱼如跳如泥如根如海如生",
-      "full_text": "红树林海岸中弹涂鱼如跳如泥如根如海如生",
+      "title": "雅丹地貌",
+      "summary": "雅丹垄脊如城堡列阵戈壁，风力侵蚀塑成千姿百态，魔鬼城中风声呜...",
+      "full_text": "雅丹垄脊如城堡列阵戈壁，风力侵蚀塑成千姿百态，魔鬼城中风声呜咽，荒漠中的风雕杰作",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "ecosystems_027",
-      "title": "极地海洋",
-      "summary": "极地海洋中鲸鱼如巨如冰如蓝如海如生如游",
-      "full_text": "极地海洋中鲸鱼如巨如冰如蓝如海如生如游",
+      "title": "冰川生态",
+      "summary": "冰川生态冰舌延伸至林线，冰融溪流滋养下游河谷，冰蚤雪藻在冰面...",
+      "full_text": "冰川生态冰舌延伸至林线，冰融溪流滋养下游河谷，冰蚤雪藻在冰面生存，气候变化的敏感指示器",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "ecosystems_028",
-      "title": "热泉喷口",
-      "summary": "热泉喷口如黑烟囱如热如黑如深如奇如生",
-      "full_text": "热泉喷口如黑烟囱如热如黑如深如奇如生",
+      "title": "火山生态",
+      "summary": "火山生态熔岩流冷却后寸草不生，地衣苔藓率先定居先锋，土壤缓慢...",
+      "full_text": "火山生态熔岩流冷却后寸草不生，地衣苔藓率先定居先锋，土壤缓慢发育植被渐次恢复，毁灭与新生的轮回",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "ecosystems_029",
-      "title": "冷泉渗漏",
-      "summary": "冷泉渗漏中贝壳如白如冷如深如海如生如奇",
-      "full_text": "冷泉渗漏中贝壳如白如冷如深如海如生如奇",
+      "title": "冻原生态",
+      "summary": "冻原永冻层上夏季短暂融解，苔藓地衣矮灌木紧贴地面，极地狐雪鸮...",
+      "full_text": "冻原永冻层上夏季短暂融解，苔藓地衣矮灌木紧贴地面，极地狐雪鸮适应严寒，极地生命的坚韧诗篇",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "ecosystems_030",
-      "title": "远洋带",
-      "summary": "远洋带中鲸鲨如巨如蓝如海如游如生如广",
-      "full_text": "远洋带中鲸鲨如巨如蓝如海如游如生如广",
+      "title": "沙漠绿洲",
+      "summary": "沙漠绿洲泉水涌出椰枣成荫，黄沙环抱中一片翠绿生机，坎儿井引水...",
+      "full_text": "沙漠绿洲泉水涌出椰枣成荫，黄沙环抱中一片翠绿生机，坎儿井引水灌溉农田，丝路驿站千年不衰",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "ecosystems_031",
-      "title": "近海带",
-      "summary": "近海带中海豚如跃如蓝如海如生如近如岸",
-      "full_text": "近海带中海豚如跃如蓝如海如生如近如岸",
+      "title": "河岸林带",
+      "summary": "河岸林带杨柳依依水声潺潺，河漫滩上洪泛滋养沃土，水鸟筑巢鱼类...",
+      "full_text": "河岸林带杨柳依依水声潺潺，河漫滩上洪泛滋养沃土，水鸟筑巢鱼类产卵，水陆交界的生态纽带",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "ecosystems_032",
-      "title": "海底峡谷",
-      "summary": "海底峡谷如深如窄如黑如海如谷如奇如深",
-      "full_text": "海底峡谷如深如窄如黑如海如谷如奇如深",
+      "title": "湖泊生态",
+      "summary": "湖泊生态静水环境生物多样，浮游植物光合产氧，鱼虾螺蚌层级分明...",
+      "full_text": "湖泊生态静水环境生物多样，浮游植物光合产氧，鱼虾螺蚌层级分明，湖水如镜映照天光云影",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "ecosystems_033",
-      "title": "海山生态",
-      "summary": "海山生态中珊瑚如花如山如海如生如深如奇",
-      "full_text": "海山生态中珊瑚如花如山如海如生如深如奇",
+      "title": "溪流生态",
+      "summary": "溪流生态流水淙淙溶氧充足，石蝇蜉蝣幼虫栖于石下，鳟鱼洄游水獭...",
+      "full_text": "溪流生态流水淙淙溶氧充足，石蝇蜉蝣幼虫栖于石下，鳟鱼洄游水獭捕食，山间清溪的生命网络",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "ecosystems_034",
-      "title": "深海珊瑚",
-      "summary": "深海珊瑚如白如花如黑如深如海如生如奇",
-      "full_text": "深海珊瑚如白如花如黑如深如海如生如奇",
+      "title": "地下河",
+      "summary": "地下暗河溶洞中蜿蜒流淌，盲鱼透明洞穴虾适应黑暗，钟乳倒映水中...",
+      "full_text": "地下暗河溶洞中蜿蜒流淌，盲鱼透明洞穴虾适应黑暗，钟乳倒映水中如梦似幻，地下世界的隐秘河流",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "ecosystems_035",
-      "title": "海沟生态",
-      "summary": "海沟生态中狮子鱼如白如深如黑如海如生",
-      "full_text": "海沟生态中狮子鱼如白如深如黑如海如生",
+      "title": "温泉生态",
+      "summary": "温泉生态高温水域嗜热菌繁盛，蓝藻形成彩色菌席铺展，极端环境中...",
+      "full_text": "温泉生态高温水域嗜热菌繁盛，蓝藻形成彩色菌席铺展，极端环境中的生命奇迹，生物进化研究宝库",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "ecosystems_036",
-      "title": "冰间湖",
-      "summary": "冰间湖如蓝如冰如白如海如生如极如冷",
-      "full_text": "冰间湖如蓝如冰如白如海如生如极如冷",
+      "title": "盐湖生态",
+      "summary": "盐湖卤水浓度极高嗜盐菌呈红，卤虫丰年虾密集如云，火烈鸟滤食羽...",
+      "full_text": "盐湖卤水浓度极高嗜盐菌呈红，卤虫丰年虾密集如云，火烈鸟滤食羽色粉红，盐与生命的奇妙平衡",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "ecosystems_037",
-      "title": "上升流区",
-      "summary": "上升流区中鱼群如云如海如冷如生如渔如富",
-      "full_text": "上升流区中鱼群如云如海如冷如生如渔如富",
+      "title": "珊瑚岛礁",
+      "summary": "珊瑚岛礁由珊瑚骨骼堆积出海面，环礁潟湖碧蓝如宝石，海鸟筑巢海...",
+      "full_text": "珊瑚岛礁由珊瑚骨骼堆积出海面，环礁潟湖碧蓝如宝石，海鸟筑巢海龟产卵，海上绿洲脆弱而美丽",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "ecosystems_038",
-      "title": "大洋环流区",
-      "summary": "大洋环流区如旋如流如海如蓝如广如生如洋",
-      "full_text": "大洋环流区如旋如流如海如蓝如广如生如洋",
+      "title": "海沟生态",
+      "summary": "海沟万米深渊水压巨大漆黑冰冷，巨型端足类缓慢游动，狮子鱼挑战...",
+      "full_text": "海沟万米深渊水压巨大漆黑冰冷，巨型端足类缓慢游动，狮子鱼挑战深度极限，地球最深处的生命",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "ecosystems_039",
-      "title": "马尾藻海",
-      "summary": "马尾藻海如黄如藻如海如静如生如漂如奇",
-      "full_text": "马尾藻海如黄如藻如海如静如生如漂如奇",
+      "title": "大陆架",
+      "summary": "大陆架浅海阳光充足营养盐丰富，浮游植物繁盛鱼群密集，渔场遍布...",
+      "full_text": "大陆架浅海阳光充足营养盐丰富，浮游植物繁盛鱼群密集，渔场遍布海洋经济核心区，蓝色粮仓",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "ecosystems_040",
-      "title": "稀树草原",
-      "summary": "稀树草原上金合欢树如伞如黄如绿如生如广",
-      "full_text": "稀树草原上金合欢树如伞如黄如绿如生如广",
+      "title": "上升流区",
+      "summary": "上升流深层营养水涌升表层，浮游植物暴发性增殖，鱼群聚集海鸟盘...",
+      "full_text": "上升流深层营养水涌升表层，浮游植物暴发性增殖，鱼群聚集海鸟盘旋，海洋中的高产渔场",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "ecosystems_041",
-      "title": "干草原",
-      "summary": "干草原上黄草如海如黄如干如风如生如广",
-      "full_text": "干草原上黄草如海如黄如干如风如生如广",
+      "title": "海冰生态",
+      "summary": "海冰覆盖极地洋面冰藻滋生，磷虾集群鲸鱼滤食，北极熊守候冰洞猎...",
+      "full_text": "海冰覆盖极地洋面冰藻滋生，磷虾集群鲸鱼滤食，北极熊守候冰洞猎海豹，冰雪世界的食物链",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "ecosystems_042",
-      "title": "草甸草原",
-      "summary": "草甸草原上野花如毯如彩如绿如生如美如广",
-      "full_text": "草甸草原上野花如毯如彩如绿如生如美如广",
+      "title": "马尾藻海",
+      "summary": "马尾藻海漂浮海藻如金色草原，海马幼鱼藏匿其间，无岸之海以洋流...",
+      "full_text": "马尾藻海漂浮海藻如金色草原，海马幼鱼藏匿其间，无岸之海以洋流为界，大西洋中的奇异生态",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "ecosystems_043",
-      "title": "高寒草原",
-      "summary": "高寒草原上牦牛如黑如绿如高如寒如生如广",
-      "full_text": "高寒草原上牦牛如黑如绿如高如寒如生如广",
+      "title": "河口湾",
+      "summary": "河口湾咸淡水交汇形成盐度梯度，泥沙沉积形成辽阔泥滩，幼鱼育肥...",
+      "full_text": "河口湾咸淡水交汇形成盐度梯度，泥沙沉积形成辽阔泥滩，幼鱼育肥候鸟中转，生态服务价值巨大",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "ecosystems_044",
-      "title": "苔原",
-      "summary": "苔原地衣如皮如矮如绿如寒如生如极如冷",
-      "full_text": "苔原地衣如皮如矮如绿如寒如生如极如冷",
+      "title": "城市生态",
+      "summary": "城市生态人工环境与自然交织，行道树公园绿地提供栖息地，麻雀鸽...",
+      "full_text": "城市生态人工环境与自然交织，行道树公园绿地提供栖息地，麻雀鸽子适应共生，人与自然的新平衡",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "ecosystems_045",
-      "title": "冻原",
-      "summary": "冻原上驯鹿如群如白如冰如寒如生如极如冷",
-      "full_text": "冻原上驯鹿如群如白如冰如寒如生如极如冷",
+      "title": "农田生态",
+      "summary": "农田生态人工植被替代自然群落，作物轮作间作维持地力，田埂沟渠...",
+      "full_text": "农田生态人工植被替代自然群落，作物轮作间作维持地力，田埂沟渠生物廊道，半自然生态的智慧",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "ecosystems_046",
-      "title": "戈壁荒漠",
-      "summary": "戈壁荒漠中骆驼如舟如黄如干如热如生如广",
-      "full_text": "戈壁荒漠中骆驼如舟如黄如干如热如生如广",
+      "title": "人工湿地",
+      "summary": "人工湿地模拟天然湿地净化水质，芦苇香蒲吸收污染物，微生物降解...",
+      "full_text": "人工湿地模拟天然湿地净化水质，芦苇香蒲吸收污染物，微生物降解有机废物，生态工程典范",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "ecosystems_047",
-      "title": "盐漠",
-      "summary": "盐漠中盐晶如白如干如咸如生如碱如荒如广",
-      "full_text": "盐漠中盐晶如白如干如咸如生如碱如荒如广",
+      "title": "矿山修复",
+      "summary": "矿山废弃地生态修复艰难起步，先锋植物耐重金属定植，土壤改良逐...",
+      "full_text": "矿山废弃地生态修复艰难起步，先锋植物耐重金属定植，土壤改良逐步恢复植被，伤痕大地的愈合",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "ecosystems_048",
-      "title": "沙丘生态",
-      "summary": "沙丘生态中蜥蜴如隐如沙如黄如热如生如干",
-      "full_text": "沙丘生态中蜥蜴如隐如沙如黄如热如生如干",
+      "title": "火烧迹地",
+      "summary": "火烧迹地焦黑树干矗立灰烬覆盖，先锋草本迅速萌发，耐火树种球果...",
+      "full_text": "火烧迹地焦黑树干矗立灰烬覆盖，先锋草本迅速萌发，耐火树种球果裂开释放种子，浴火重生的轮回",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "ecosystems_049",
-      "title": "绿洲生态",
-      "summary": "绿洲生态中椰枣如伞如绿如水如生如洲如甜",
-      "full_text": "绿洲生态中椰枣如伞如绿如水如生如洲如甜",
+      "title": "洪水平原",
+      "summary": "洪水平原季节性泛滥滋养沃土，洪泛带来泥沙沉积肥力，水草丰茂鱼...",
+      "full_text": "洪水平原季节性泛滥滋养沃土，洪泛带来泥沙沉积肥力，水草丰茂鱼群繁衍，河流与陆地的呼吸",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "ecosystems_050",
-      "title": "半荒漠",
-      "summary": "半荒漠中灌木如矮如黄如干如生如稀如广",
-      "full_text": "半荒漠中灌木如矮如黄如干如生如稀如广",
+      "title": "风蚀地貌",
+      "summary": "风蚀地貌风力雕琢岩石千姿百态，蘑菇石风城石林矗立荒漠，雅丹垄...",
+      "full_text": "风蚀地貌风力雕琢岩石千姿百态，蘑菇石风城石林矗立荒漠，雅丹垄脊排列如阵，大风的雕刻展览",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "ecosystems_051",
-      "title": "灌木草原",
-      "summary": "灌木草原上灌木如矮如绿如黄如生如稀如广",
-      "full_text": "灌木草原上灌木如矮如绿如黄如生如稀如广",
+      "title": "石漠化",
+      "summary": "石漠化岩石裸露土壤流失殆尽，西南喀斯特山区生态危机，植被稀疏...",
+      "full_text": "石漠化岩石裸露土壤流失殆尽，西南喀斯特山区生态危机，植被稀疏水源渗漏，石头上的贫困与抗争",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "ecosystems_052",
-      "title": "萨瓦纳",
-      "summary": "萨瓦纳上长颈鹿如高如黄如绿如生如广如热",
-      "full_text": "萨瓦纳上长颈鹿如高如黄如绿如生如广如热",
+      "title": "沙地生态",
+      "summary": "沙地生态半干旱沙丘起伏不定，沙蒿沙柳固定流沙先锋，麦草方格扎...",
+      "full_text": "沙地生态半干旱沙丘起伏不定，沙蒿沙柳固定流沙先锋，麦草方格扎设固沙屏障，人沙博弈的战场",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "ecosystems_053",
-      "title": "潘帕斯",
-      "summary": "潘帕斯草原上牛群如黑如绿如黄如生如广如平",
-      "full_text": "潘帕斯草原上牛群如黑如绿如黄如生如广如平",
+      "title": "草甸草原",
+      "summary": "草甸草原禾草杂类草混生繁茂，野花点缀如锦缎铺展，土壤肥沃有机...",
+      "full_text": "草甸草原禾草杂类草混生繁茂，野花点缀如锦缎铺展，土壤肥沃有机质丰富，牧歌悠扬的绿色家园",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "ecosystems_054",
-      "title": "普列利",
-      "summary": "普列利草原上野牛如黑如绿如黄如生如广如平",
-      "full_text": "普列利草原上野牛如黑如绿如黄如生如广如平",
+      "title": "灌丛生态",
+      "summary": "灌丛生态灌木矮小丛生耐旱抗风，根系深扎固土保水，小型哺乳动物...",
+      "full_text": "灌丛生态灌木矮小丛生耐旱抗风，根系深扎固土保水，小型哺乳动物藏匿其间，森林与草原的过渡",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "ecosystems_055",
-      "title": "斯泰普",
-      "summary": "斯泰普草原上旱獭如矮如黄如绿如生如广如平",
-      "full_text": "斯泰普草原上旱獭如矮如黄如绿如生如广如平",
+      "title": "苔藓生态",
+      "summary": "苔藓生态无根无维管束紧贴基质，吸水保水能力超群，北极冻原铺展...",
+      "full_text": "苔藓生态无根无维管束紧贴基质，吸水保水能力超群，北极冻原铺展如绿毯，生态系统的先驱者",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "ecosystems_056",
-      "title": "韦尔德",
-      "summary": "韦尔德草原上花海如彩如绿如黄如生如美如广",
-      "full_text": "韦尔德草原上花海如彩如绿如黄如生如美如广",
+      "title": "地衣生态",
+      "summary": "地衣菌藻共生体拓荒先锋，分泌地衣酸溶解岩石释放矿物，裸岩上率...",
+      "full_text": "地衣菌藻共生体拓荒先锋，分泌地衣酸溶解岩石释放矿物，裸岩上率先定居开创土壤，生命的起点",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "ecosystems_057",
-      "title": "灌木丛",
-      "summary": "灌木丛中野兔如灰如矮如绿如生如密如干",
-      "full_text": "灌木丛中野兔如灰如矮如绿如生如密如干",
+      "title": "洞穴生态",
+      "summary": "洞穴生态黑暗恒温环境独特，盲鱼白化蟹适应无光世界，蝙蝠粪便滋...",
+      "full_text": "洞穴生态黑暗恒温环境独特，盲鱼白化蟹适应无光世界，蝙蝠粪便滋养地下食物链，黑暗中的生命网",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "ecosystems_058",
-      "title": "灌丛荒漠",
-      "summary": "灌丛荒漠中仙人掌如绿如刺如黄如生如干如热",
-      "full_text": "灌丛荒漠中仙人掌如绿如刺如黄如生如干如热",
+      "title": "树冠生态",
+      "summary": "树冠层距地面数十米阳光充沛，附生兰蕨类苔藓密布枝干，树蛙箭毒...",
+      "full_text": "树冠层距地面数十米阳光充沛，附生兰蕨类苔藓密布枝干，树蛙箭毒蛙栖居叶腋，空中花园的奥秘",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "ecosystems_059",
-      "title": "石质荒漠",
-      "summary": "石质荒漠中蜥蜴如隐如石如灰如生如干如热",
-      "full_text": "石质荒漠中蜥蜴如隐如石如灰如生如干如热",
+      "title": "枯木生态",
+      "summary": "枯木倒伏腐朽过程滋养万千生灵，真菌分解木材释放养分，甲虫幼虫...",
+      "full_text": "枯木倒伏腐朽过程滋养万千生灵，真菌分解木材释放养分，甲虫幼虫蛀食隧道密布，死亡中的新生循环",
       "image": "res://assets/images/illustrations/ecosystems/ecosystems_059.jpg",
       "image_grid": {
         "x": 3,

@@ -4,8 +4,8 @@
     {
       "id": "photography_000",
       "title": "尼埃普斯窗外风景",
-      "summary": "1826年尼埃普斯拍摄的世界最早永久性照片",
-      "full_text": "1826年尼埃普斯拍摄的世界最早永久性照片",
+      "summary": "法国发明家尼埃普斯一八二六年以沥青锡版拍摄窗外屋顶，曝光长达...",
+      "full_text": "法国发明家尼埃普斯一八二六年以沥青锡版拍摄窗外屋顶，曝光长达八小时，阳光照射两面墙壁均留阴影，为世界上现存最早的照片，开启摄影术纪元。",
       "image": "res://assets/images/illustrations/photography/photography_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "photography_001",
-      "title": "达盖尔银版法静物",
-      "summary": "达盖尔银版法拍摄的静物照片，摄影术正式诞生",
-      "full_text": "达盖尔银版法拍摄的静物照片，摄影术正式诞生",
+      "title": "达盖尔巴黎寺院街",
+      "summary": "法国人达盖尔一八三八年以银版法拍摄巴黎街景，长曝光使行人车辆...",
+      "full_text": "法国人达盖尔一八三八年以银版法拍摄巴黎街景，长曝光使行人车辆消失，唯擦鞋匠与顾客静止不动留下身影，为史上首张人物照片，如时间琥珀封存瞬间。",
       "image": "res://assets/images/illustrations/photography/photography_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "photography_002",
-      "title": "塔尔博特卡罗式法照片",
-      "summary": "塔尔博特发明的正负片法拍摄的植物标本照片",
-      "full_text": "塔尔博特发明的正负片法拍摄的植物标本照片",
+      "title": "塔尔博特格子窗",
+      "summary": "英国科学家塔尔博特一八三五年以卡罗法拍摄拉科克修道院窗格，负...",
+      "full_text": "英国科学家塔尔博特一八三五年以卡罗法拍摄拉科克修道院窗格，负片正片法可无限复制，与达盖尔唯一原版不同，奠定现代摄影负正系统基础。",
       "image": "res://assets/images/illustrations/photography/photography_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "photography_003",
-      "title": "早期银版法人像",
-      "summary": "1840年代银版法拍摄的严肃庄重人物肖像",
-      "full_text": "1840年代银版法拍摄的严肃庄重人物肖像",
+      "title": "希尔与亚当森渔妇",
+      "summary": "苏格兰画家希尔与摄影师亚当森合作以卡罗法拍摄渔妇肖像，粗粝的...",
+      "full_text": "苏格兰画家希尔与摄影师亚当森合作以卡罗法拍摄渔妇肖像，粗粝的银盐颗粒赋予画面如伦勃朗油画般的明暗，将摄影从技术提升为艺术表达。",
       "image": "res://assets/images/illustrations/photography/photography_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "photography_004",
-      "title": "希尔与亚当森人像",
-      "summary": "苏格兰画家与摄影师合作拍摄的卡罗式人像",
-      "full_text": "苏格兰画家与摄影师合作拍摄的卡罗式人像",
+      "title": "纳达尔自拍像",
+      "summary": "法国摄影师纳达尔以人造光拍摄自己坐于旋转椅上的肖像，面容清晰...",
+      "full_text": "法国摄影师纳达尔以人造光拍摄自己坐于旋转椅上的肖像，面容清晰背景全黑如从虚空中浮现，首创人工照明摄影，为肖像摄影确立戏剧性风格。",
       "image": "res://assets/images/illustrations/photography/photography_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "photography_005",
-      "title": "南丁格尔银版肖像",
-      "summary": "弗洛伦斯南丁格尔的银版法珍贵肖像照",
-      "full_text": "弗洛伦斯南丁格尔的银版法珍贵肖像照",
+      "title": "布雷迪内战战场",
+      "summary": "美国摄影师布雷迪率团队记录南北战争，盖茨堡战场上阵亡士兵横陈...",
+      "full_text": "美国摄影师布雷迪率团队记录南北战争，盖茨堡战场上阵亡士兵横陈荒野，以残酷真实打破战争浪漫幻想，开创战地摄影传统，证明摄影的纪实力量。",
       "image": "res://assets/images/illustrations/photography/photography_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "photography_006",
-      "title": "巴德边疆摄影",
-      "summary": "巴德拍摄美国西部边疆的壮阔风光照片",
-      "full_text": "巴德拍摄美国西部边疆的壮阔风光照片",
+      "title": "奥沙利文死谷",
+      "summary": "美国摄影师奥沙利文随地质勘探队拍摄西部荒野，死谷盐碱地如外星...",
+      "full_text": "美国摄影师奥沙利文随地质勘探队拍摄西部荒野，死谷盐碱地如外星表面，巨石如远古遗迹，以宏大构图展现自然的崇高与荒凉，为美国风景摄影奠基。",
       "image": "res://assets/images/illustrations/photography/photography_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "photography_007",
-      "title": "奥沙利文金字塔湖",
-      "summary": "奥沙利文拍摄内华达金字塔湖的西部考察照片",
-      "full_text": "奥沙利文拍摄内华达金字塔湖的西部考察照片",
+      "title": "迈布里奇奔马连拍",
+      "summary": "英国摄影师迈布里奇以二十四台相机连续拍摄奔马，证明马四蹄离地...",
+      "full_text": "英国摄影师迈布里奇以二十四台相机连续拍摄奔马，证明马四蹄离地瞬间存在，以科学方法分解运动，为电影发明铺路，改变人类对运动与时间的认知。",
       "image": "res://assets/images/illustrations/photography/photography_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "photography_008",
-      "title": "弗里斯埃及神庙",
-      "summary": "弗里斯拍摄埃及卡纳克神庙的早期旅行照片",
-      "full_text": "弗里斯拍摄埃及卡纳克神庙的早期旅行照片",
+      "title": "阿特盖巴黎街道",
+      "summary": "法国摄影师阿特盖三十年记录巴黎旧城，橱窗人偶街头小贩铁艺栏杆...",
+      "full_text": "法国摄影师阿特盖三十年记录巴黎旧城，橱窗人偶街头小贩铁艺栏杆，以直接朴实的手法为消逝的城市留影，超现实主义者发现其影像的诗意，为现代纪实摄影先驱。",
       "image": "res://assets/images/illustrations/photography/photography_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "photography_009",
-      "title": "阿杰巴黎街景",
-      "summary": "阿杰拍摄19世纪末巴黎街道的纪实照片",
-      "full_text": "阿杰拍摄19世纪末巴黎街道的纪实照片",
+      "title": "斯蒂格里茨三等舱",
+      "summary": "美国摄影师斯蒂格里茨乘船拍摄移民乘客于三等舱，阳光从上方洒入...",
+      "full_text": "美国摄影师斯蒂格里茨乘船拍摄移民乘客于三等舱，阳光从上方洒入照亮人群，以画意摄影手法赋予日常场景如绘画般的构图与光影，为摄影争取艺术地位。",
       "image": "res://assets/images/illustrations/photography/photography_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "photography_010",
-      "title": "卡梅隆夫人肖像",
-      "summary": "卡梅隆夫人以柔焦拍摄维多利亚时代名人肖像",
-      "full_text": "卡梅隆夫人以柔焦拍摄维多利亚时代名人肖像",
+      "title": "斯蒂格里茨 equivalence 云",
+      "summary": "斯蒂格里茨拍摄天空云层系列，以云的形态表达内在情感如音乐，提...",
+      "full_text": "斯蒂格里茨拍摄天空云层系列，以云的形态表达内在情感如音乐，提出等价理论，认为照片可以如音乐般传达情绪而非仅记录现实，为抽象摄影开辟道路。",
       "image": "res://assets/images/illustrations/photography/photography_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "photography_011",
-      "title": "纳达尔地下墓穴",
-      "summary": "纳达尔使用镁光灯拍摄巴黎地下墓穴的早期照片",
-      "full_text": "纳达尔使用镁光灯拍摄巴黎地下墓穴的早期照片",
+      "title": "施泰肯池塘月光",
+      "summary": "美国摄影师施泰肯以树胶重铬酸盐印相法拍摄池塘月色，如惠斯勒的...",
+      "full_text": "美国摄影师施泰肯以树胶重铬酸盐印相法拍摄池塘月色，如惠斯勒的夜曲般朦胧诗意，二〇〇六年以二百九十万美元成交，为当时最昂贵照片。",
       "image": "res://assets/images/illustrations/photography/photography_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "photography_012",
-      "title": "迈布里奇奔马连续摄影",
-      "summary": "迈布里奇以多台相机拍摄马匹奔跑的连续画面",
-      "full_text": "迈布里奇以多台相机拍摄马匹奔跑的连续画面",
+      "title": "柯特兹变形",
+      "summary": "匈牙利摄影师柯特兹以游乐园哈哈镜拍摄人体变形，躯干拉长如橡皮...",
+      "full_text": "匈牙利摄影师柯特兹以游乐园哈哈镜拍摄人体变形，躯干拉长如橡皮身体扭曲如梦境，以幽默与实验精神探索摄影的变形可能，为超现实摄影先驱。",
       "image": "res://assets/images/illustrations/photography/photography_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "photography_013",
-      "title": "柯达便携相机",
-      "summary": "柯达便携相机使摄影走入大众的广告照片",
-      "full_text": "柯达便携相机使摄影走入大众的广告照片",
+      "title": "桑德面孔 of 我们的时代",
+      "summary": "德国摄影师桑德以类型学方法拍摄魏玛共和国各阶层人物，农民商人...",
+      "full_text": "德国摄影师桑德以类型学方法拍摄魏玛共和国各阶层人物，农民商人艺术家失业者，面容如社会面具，以冷静客观的肖像构建时代面孔的百科全书。",
       "image": "res://assets/images/illustrations/photography/photography_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "photography_014",
-      "title": "早期彩色摄影实验",
-      "summary": "20世纪初用三色分离法拍摄的彩色实验照片",
-      "full_text": "20世纪初用三色分离法拍摄的彩色实验照片",
+      "title": "莫霍利-纳吉光影构成",
+      "summary": "匈牙利摄影师莫霍利-纳吉以物影照片创造纯光影构成，不使用相机...",
+      "full_text": "匈牙利摄影师莫霍利-纳吉以物影照片创造纯光影构成，不使用相机而将物体置于相纸上曝光，光线穿透物体留下如X光般的幽灵影像，为包豪斯实验精神的体现。",
       "image": "res://assets/images/illustrations/photography/photography_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "photography_015",
-      "title": "柯达克罗姆早期彩色",
-      "summary": "柯达克罗姆胶片拍摄的早期鲜艳彩色照片",
-      "full_text": "柯达克罗姆胶片拍摄的早期鲜艳彩色照片",
+      "title": "曼·雷泪珠",
+      "summary": "美国摄影师曼·雷以五颗玻璃泪珠装饰女模面颊，如凝固的悲伤如超...",
+      "full_text": "美国摄影师曼·雷以五颗玻璃泪珠装饰女模面颊，如凝固的悲伤如超现实梦境，以暗房特技创造不可能的影像，为时尚摄影注入超现实诗意。",
       "image": "res://assets/images/illustrations/photography/photography_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "photography_016",
-      "title": "早期立体照片",
-      "summary": "维多利亚时代双镜头立体相机拍摄的三维照片",
-      "full_text": "维多利亚时代双镜头立体相机拍摄的三维照片",
+      "title": "雷兰达两种人生",
+      "summary": "英国摄影师雷兰达以三十余张底片拼合创作寓言照片，善者走向光明...",
+      "full_text": "英国摄影师雷兰达以三十余张底片拼合创作寓言照片，善者走向光明恶者堕入黑暗，如学院派绘画般宏大叙事，为画意摄影的巅峰宣言，证明摄影可如绘画般崇高。",
       "image": "res://assets/images/illustrations/photography/photography_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "photography_017",
-      "title": "早期摄影工作室",
-      "summary": "19世纪摄影工作室中顾客拍照的场景照片",
-      "full_text": "19世纪摄影工作室中顾客拍照的场景照片",
+      "title": "罗宾逊渐逝",
+      "summary": "英国摄影师罗宾逊以五张底片合成少女弥留之际，家人围坐悲伤告别...",
+      "full_text": "英国摄影师罗宾逊以五张底片合成少女弥留之际，家人围坐悲伤告别如维多利亚油画，以组合印相法创造叙事性画面，为画意摄影的感伤美学代表。",
       "image": "res://assets/images/illustrations/photography/photography_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "photography_018",
-      "title": "早期明信片照片",
-      "summary": "19世纪末以照片制作的风景明信片",
-      "full_text": "19世纪末以照片制作的风景明信片",
+      "title": "卡梅隆夫人圣母像",
+      "summary": "英国摄影师卡梅隆夫人以柔焦拍摄亲友扮演的宗教人物，如拉斐尔前...",
+      "full_text": "英国摄影师卡梅隆夫人以柔焦拍摄亲友扮演的宗教人物，如拉斐尔前派绘画般朦胧圣洁，刻意失焦与近距离特写赋予照片灵魂般的精神性，为艺术人像先驱。",
       "image": "res://assets/images/illustrations/photography/photography_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "photography_019",
-      "title": "芬顿克里米亚战地摄影",
-      "summary": "芬顿拍摄克里米亚战争的早期战地照片",
-      "full_text": "芬顿拍摄克里米亚战争的早期战地照片",
+      "title": "伊文思法国大教堂",
+      "summary": "美国摄影师伊文思以铂金印相法拍摄法国大教堂细节，柱头雕花如中...",
+      "full_text": "美国摄影师伊文思以铂金印相法拍摄法国大教堂细节，柱头雕花如中世纪手抄本插图，以极致清晰与丰富影调记录建筑之美，为直接摄影与建筑摄影典范。",
       "image": "res://assets/images/illustrations/photography/photography_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "photography_020",
-      "title": "里斯纽约贫民窟",
-      "summary": "里斯以闪光灯拍摄纽约贫民窟的纪实照片",
-      "full_text": "里斯以闪光灯拍摄纽约贫民窟的纪实照片",
+      "title": "卡帕诺曼底登陆",
+      "summary": "匈牙利摄影师卡帕随美军登陆奥马哈海滩，在枪林弹雨中拍摄士兵涉...",
+      "full_text": "匈牙利摄影师卡帕随美军登陆奥马哈海滩，在枪林弹雨中拍摄士兵涉水冲锋，底片因暗房事故模糊如颤抖的视觉，反以失焦传达战争的混乱恐惧，如果你的照片不够好是因为你不够近。",
       "image": "res://assets/images/illustrations/photography/photography_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "photography_021",
-      "title": "海因童工照片",
-      "summary": "海因拍摄美国工厂中童工劳动的社会纪实照片",
-      "full_text": "海因拍摄美国工厂中童工劳动的社会纪实照片",
+      "title": "兰格移民母亲",
+      "summary": "美国女摄影师兰格于加州难民营拍摄弗洛伦斯·汤普森，母亲愁苦面...",
+      "full_text": "美国女摄影师兰格于加州难民营拍摄弗洛伦斯·汤普森，母亲愁苦面容与三个依偎的孩子如圣母怜子，成为大萧条时代最有力的人道主义图像，推动政府援助。",
       "image": "res://assets/images/illustrations/photography/photography_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "photography_022",
-      "title": "兰格移民母亲",
-      "summary": "兰格拍摄大萧条时期加州移民母亲的经典照片",
-      "full_text": "兰格拍摄大萧条时期加州移民母亲的经典照片",
+      "title": "埃文斯美国照片",
+      "summary": "美国摄影师埃文斯以冷静客观镜头记录南方乡村，木屋教堂广告牌如...",
+      "full_text": "美国摄影师埃文斯以冷静客观镜头记录南方乡村，木屋教堂广告牌如社会化石，与作家阿吉合作为我们赞美，以不煽情不修饰的直视揭示美国底层真实。",
       "image": "res://assets/images/illustrations/photography/photography_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "photography_023",
-      "title": "埃文斯美国小镇",
-      "summary": "埃文斯拍摄美国南方小镇建筑与居民的纪实",
-      "full_text": "埃文斯拍摄美国南方小镇建筑与居民的纪实",
+      "title": "布列松圣拉扎尔车站",
+      "summary": "法国摄影师布列松拍摄巴黎车站水洼中跳跃的男子，如芭蕾舞者般悬...",
+      "full_text": "法国摄影师布列松拍摄巴黎车站水洼中跳跃的男子，如芭蕾舞者般悬浮于水面倒影之上，决定性瞬间理论的最佳诠释，将日常偶然升华为永恒的形式之美。",
       "image": "res://assets/images/illustrations/photography/photography_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "photography_024",
-      "title": "布列松圣拉扎尔车站",
-      "summary": "布列松拍摄男子跳越水洼的决定性瞬间",
-      "full_text": "布列松拍摄男子跳越水洼的决定性瞬间",
+      "title": "布列松北京街头",
+      "summary": "布列松一九四八年拍摄北京街头，国民党最后日子里的市民生活如末...",
+      "full_text": "布列松一九四八年拍摄北京街头，国民党最后日子里的市民生活如末日前的平静，人力车夫小贩行人各怀心事，以人文关怀记录历史转折中的普通人。",
       "image": "res://assets/images/illustrations/photography/photography_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "photography_025",
-      "title": "卡帕诺曼底登陆",
-      "summary": "卡帕拍摄诺曼底登陆海滩的模糊震撼战地照片",
-      "full_text": "卡帕拍摄诺曼底登陆海滩的模糊震撼战地照片",
+      "title": "史密斯乡村医生",
+      "summary": "美国摄影师史密斯跟拍科罗拉多乡村医生厄尔尼，深夜出诊接生安慰...",
+      "full_text": "美国摄影师史密斯跟拍科罗拉多乡村医生厄尔尼，深夜出诊接生安慰临终者，以连续影像叙事如电影般感人，开创图片故事的人文传统，为纪实摄影树立道德标杆。",
       "image": "res://assets/images/illustrations/photography/photography_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "photography_026",
-      "title": "卡帕倒下的士兵",
-      "summary": "卡帕拍摄西班牙内战士兵中弹倒下的瞬间",
-      "full_text": "卡帕拍摄西班牙内战士兵中弹倒下的瞬间",
+      "title": "史密斯水俣",
+      "summary": "史密斯与妻子赴日本水俣拍摄汞中毒受害者，智子入浴如圣母怜子般...",
+      "full_text": "史密斯与妻子赴日本水俣拍摄汞中毒受害者，智子入浴如圣母怜子般令人心碎，以影像控诉工业污染之恶，推动环境正义，为摄影介入社会的力量证明。",
       "image": "res://assets/images/illustrations/photography/photography_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "photography_027",
-      "title": "史密斯乡村医生",
-      "summary": "史密斯拍摄美国乡村医生日常生活的纪实故事",
-      "full_text": "史密斯拍摄美国乡村医生日常生活的纪实故事",
+      "title": "萨尔加多塞拉佩拉达金矿",
+      "summary": "巴西摄影师萨尔加多拍摄亚马逊金矿五万淘金者，满身泥浆如蚂蚁般...",
+      "full_text": "巴西摄影师萨尔加多拍摄亚马逊金矿五万淘金者，满身泥浆如蚂蚁般攀爬于巨大矿坑，如但丁地狱般的壮观与悲惨，以史诗般影像追问全球化下的劳动与尊严。",
       "image": "res://assets/images/illustrations/photography/photography_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "photography_028",
-      "title": "史密斯水俣病",
-      "summary": "史密斯拍摄日本水俣病患者的震撼纪实照片",
-      "full_text": "史密斯拍摄日本水俣病患者的震撼纪实照片",
+      "title": "麦凯里阿富汗少女",
+      "summary": "美国摄影师麦凯里于巴基斯坦难民营拍摄阿富汗少女，绿色眼眸如宝...",
+      "full_text": "美国摄影师麦凯里于巴基斯坦难民营拍摄阿富汗少女，绿色眼眸如宝石般穿透画面，红巾与绿眼互补色令人过目难忘，为战争难民最著名的人面肖像，十七年后重逢再拍。",
       "image": "res://assets/images/illustrations/photography/photography_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "photography_029",
-      "title": "弗兰克美国人",
-      "summary": "弗兰克拍摄美国社会各层面的反传统纪实照片",
-      "full_text": "弗兰克拍摄美国社会各层面的反传统纪实照片",
+      "title": "纳切威卢旺达大屠杀",
+      "summary": "美国战地摄影师纳切威拍摄卢旺达种族屠杀，尸骨堆积如柴幸存者面...",
+      "full_text": "美国战地摄影师纳切威拍摄卢旺达种族屠杀，尸骨堆积如柴幸存者面容空洞，以冷静而残酷的影像让世界无法回避，为战地摄影最勇敢的见证者。",
       "image": "res://assets/images/illustrations/photography/photography_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "photography_030",
-      "title": "阿勃丝双胞胎",
-      "summary": "阿勃丝拍摄新泽西双胞胎女孩的诡异肖像",
-      "full_text": "阿勃丝拍摄新泽西双胞胎女孩的诡异肖像",
+      "title": "维加裸城",
+      "summary": "美国摄影师维加深夜跟随急救车拍摄纽约犯罪现场，凶杀尸体火灾废...",
+      "full_text": "美国摄影师维加深夜跟随急救车拍摄纽约犯罪现场，凶杀尸体火灾废墟如城市暗面，闪光灯如闪电照亮黑暗，以赤裸的真实揭示都市夜幕下的暴力与死亡。",
       "image": "res://assets/images/illustrations/photography/photography_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "photography_031",
-      "title": "阿勃丝边缘人群",
-      "summary": "阿勃丝拍摄社会边缘人物的直视肖像照片",
-      "full_text": "阿勃丝拍摄社会边缘人物的直视肖像照片",
+      "title": "弗兰克美国人",
+      "summary": "瑞士摄影师弗兰克横穿美国拍摄公路餐厅旗星汽车，以倾斜构图粗颗...",
+      "full_text": "瑞士摄影师弗兰克横穿美国拍摄公路餐厅旗星汽车，以倾斜构图粗颗粒虚焦打破布列松的优雅，揭示繁荣背后的空虚疏离，为现代纪实摄影的革命性转折。",
       "image": "res://assets/images/illustrations/photography/photography_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "photography_032",
-      "title": "维加纽约夜生活",
-      "summary": "维加拍摄纽约夜间犯罪现场的闪光灯照片",
-      "full_text": "维加拍摄纽约夜间犯罪现场的闪光灯照片",
+      "title": "阿勃斯双胞胎",
+      "summary": "美国女摄影师阿勃斯拍摄新泽西双胞胎姐妹，如鬼魅般的面容直视镜...",
+      "full_text": "美国女摄影师阿勃斯拍摄新泽西双胞胎姐妹，如鬼魅般的面容直视镜头如两扇门，以直面异常者的勇气挑战观者的不适与好奇，追问正常与异常的边界。",
       "image": "res://assets/images/illustrations/photography/photography_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "photography_033",
-      "title": "萨尔加多劳动者",
-      "summary": "萨尔加多拍摄巴西金矿工人艰苦劳动的史诗照片",
-      "full_text": "萨尔加多拍摄巴西金矿工人艰苦劳动的史诗照片",
+      "title": "温格兰洛杉矶",
+      "summary": "美国摄影师温格兰以广角倾斜拍摄洛杉矶街头，画面倾斜人物截断如...",
+      "full_text": "美国摄影师温格兰以广角倾斜拍摄洛杉矶街头，画面倾斜人物截断如随手快照，却以混乱构图捕捉六十年代美国的躁动能量，革新街头摄影语言。",
       "image": "res://assets/images/illustrations/photography/photography_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "photography_034",
-      "title": "萨尔加多创世纪",
-      "summary": "萨尔加多拍摄地球原始自然与部落的宏大纪实",
-      "full_text": "萨尔加多拍摄地球原始自然与部落的宏大纪实",
+      "title": "弗里德兰德自拍像",
+      "summary": "美国摄影师弗里德兰德以商店橱窗后视镜影子自拍，如碎片拼贴的自...",
+      "full_text": "美国摄影师弗里德兰德以商店橱窗后视镜影子自拍，如碎片拼贴的自我肖像，将城市反射与个人身影交织，以复杂空间层次追问观看与自我认知。",
       "image": "res://assets/images/illustrations/photography/photography_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "photography_035",
-      "title": "麦凯里阿富汗少女",
-      "summary": "麦凯里拍摄巴基斯坦难民营绿眼少女的经典肖像",
-      "full_text": "麦凯里拍摄巴基斯坦难民营绿眼少女的经典肖像",
+      "title": "马克法隆妓女",
+      "summary": "美国女摄影师马克长期跟拍孟买妓女，以亲密而非猎奇的目光记录她...",
+      "full_text": "美国女摄影师马克长期跟拍孟买妓女，以亲密而非猎奇的目光记录她们的日常与梦想，在苦难中看见尊严，为边缘群体影像的伦理标准树立典范。",
       "image": "res://assets/images/illustrations/photography/photography_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "photography_036",
-      "title": "纳切威战地摄影",
-      "summary": "纳切威拍摄世界各地冲突的战地纪实照片",
-      "full_text": "纳切威拍摄世界各地冲突的战地纪实照片",
+      "title": "萨尔托雷影像方舟",
+      "summary": "美国摄影师萨尔托雷以黑白背景拍摄濒危动物肖像，如拍摄名人般赋...",
+      "full_text": "美国摄影师萨尔托雷以黑白背景拍摄濒危动物肖像，如拍摄名人般赋予每种生物尊严与个性，为全球一万五千种濒危物种建立影像档案，为地球生命留存视觉记忆。",
       "image": "res://assets/images/illustrations/photography/photography_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "photography_037",
-      "title": "马克印度马戏团",
-      "summary": "马克拍摄印度马戏团表演者的纪实肖像",
-      "full_text": "马克拍摄印度马戏团表演者的纪实肖像",
+      "title": "解海龙希望工程大眼睛",
+      "summary": "中国摄影师解海龙拍摄安徽希望工程女孩苏明娟，大眼睛如黑葡萄般...",
+      "full_text": "中国摄影师解海龙拍摄安徽希望工程女孩苏明娟，大眼睛如黑葡萄般渴望求知，如对全国人民的凝视与呼唤，推动希望工程捐助浪潮，为纪实摄影改变社会的经典案例。",
       "image": "res://assets/images/illustrations/photography/photography_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "photography_038",
-      "title": "戈尔丁亲密日记",
-      "summary": "戈尔丁拍摄朋友圈私密生活的纪实摄影",
-      "full_text": "戈尔丁拍摄朋友圈私密生活的纪实摄影",
+      "title": "刘香成毛泽东之后的中国",
+      "summary": "中国摄影师刘香成拍摄改革开放初期的中国，天安门广场晨练的老人...",
+      "full_text": "中国摄影师刘香成拍摄改革开放初期的中国，天安门广场晨练的老人街头新潮青年，以温和而敏锐的镜头记录社会巨变中的日常瞬间，为转型中国的视觉编年。",
       "image": "res://assets/images/illustrations/photography/photography_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "photography_039",
-      "title": "阿巴斯纽约地铁",
-      "summary": "阿巴斯以闪光灯拍摄纽约地铁乘客的肖像",
-      "full_text": "阿巴斯以闪光灯拍摄纽约地铁乘客的肖像",
+      "title": "侯登科麦客",
+      "summary": "中国摄影师侯登科跟踪拍摄西北麦客群体，麦客弯腰割麦汗如雨下，...",
+      "full_text": "中国摄影师侯登科跟踪拍摄西北麦客群体，麦客弯腰割麦汗如雨下，以质朴影像记录即将消逝的农耕文明，为底层劳动者留下尊严的视觉档案。",
       "image": "res://assets/images/illustrations/photography/photography_039.jpg",
       "image_grid": {
         "x": 3,
@@ -844,8 +844,8 @@
     {
       "id": "photography_040",
       "title": "亚当斯月升",
-      "summary": "亚当斯以区域曝光法拍摄新墨西哥月升的壮丽风光",
-      "full_text": "亚当斯以区域曝光法拍摄新墨西哥月升的壮丽风光",
+      "summary": "美国摄影师亚当斯于新墨西哥州公路上拍摄月亮升起于山峦之上，以...",
+      "full_text": "美国摄影师亚当斯于新墨西哥州公路上拍摄月亮升起于山峦之上，以区域曝光法精确控制影调，黑色天空白色月亮灰色山脉层次分明，为风光摄影的技术与美学巅峰。",
       "image": "res://assets/images/illustrations/photography/photography_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "photography_041",
-      "title": "亚当斯半穹顶",
-      "summary": "亚当斯拍摄约塞米蒂半穹顶的黑白风光杰作",
-      "full_text": "亚当斯拍摄约塞米蒂半穹顶的黑白风光杰作",
+      "title": "亚当斯优胜美地",
+      "summary": "亚当斯以大画幅相机拍摄优胜美地山谷，花岗岩峭壁如巨碑松林如海...",
+      "full_text": "亚当斯以大画幅相机拍摄优胜美地山谷，花岗岩峭壁如巨碑松林如海，以区域曝光法将自然光影化为视觉交响，以摄影推动国家公园保护，为美国荒野的精神象征。",
       "image": "res://assets/images/illustrations/photography/photography_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "photography_042",
-      "title": "韦斯顿青椒30号",
-      "summary": "韦斯顿以大画幅拍摄青椒的有机形态之美",
-      "full_text": "韦斯顿以大画幅拍摄青椒的有机形态之美",
+      "title": "坎宁安植物形态",
+      "summary": "美国女摄影师坎宁安以近距离拍摄植物，玉兰花如雕塑蛇蕨如龙卷，...",
+      "full_text": "美国女摄影师坎宁安以近距离拍摄植物，玉兰花如雕塑蛇蕨如龙卷，以极简构图与细腻影调发现自然的抽象之美，为直接摄影与植物摄影的先驱。",
       "image": "res://assets/images/illustrations/photography/photography_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "photography_043",
-      "title": "韦斯顿裸体",
-      "summary": "韦斯顿以光影塑造人体曲线的艺术摄影",
-      "full_text": "韦斯顿以光影塑造人体曲线的艺术摄影",
+      "title": "韦斯顿青椒",
+      "summary": "美国摄影师韦斯顿以大画幅拍摄青椒三十号，蔬菜如人体般曲线起伏...",
+      "full_text": "美国摄影师韦斯顿以大画幅拍摄青椒三十号，蔬菜如人体般曲线起伏光影如肌肤，以极致清晰与完美影调将寻常之物升华为形式美的极致，为直接摄影宣言。",
       "image": "res://assets/images/illustrations/photography/photography_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "photography_044",
-      "title": "坎宁安木兰花",
-      "summary": "坎宁安以微距拍摄木兰花的植物形态摄影",
-      "full_text": "坎宁安以微距拍摄木兰花的植物形态摄影",
+      "title": "韦斯顿裸体",
+      "summary": "韦斯顿以大画幅拍摄人体于沙滩与岩石之间，躯干如沙丘四肢如海岸...",
+      "full_text": "韦斯顿以大画幅拍摄人体于沙滩与岩石之间，躯干如沙丘四肢如海岸线，以自然光影与人体曲线的呼应创造抽象形式美，为人体摄影的永恒典范。",
       "image": "res://assets/images/illustrations/photography/photography_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "photography_045",
-      "title": "斯蒂格里茨等价物",
-      "summary": "斯蒂格里茨拍摄云朵形态的情感隐喻照片",
-      "full_text": "斯蒂格里茨拍摄云朵形态的情感隐喻照片",
+      "title": "曼·雷安格尔的小提琴",
+      "summary": "曼·雷在女模背部绘制小提琴f孔如人体即乐器，将绘画与摄影融合...",
+      "full_text": "曼·雷在女模背部绘制小提琴f孔如人体即乐器，将绘画与摄影融合如超现实幻觉，以一帧照片颠覆人体与器物的界限，为观念摄影先驱。",
       "image": "res://assets/images/illustrations/photography/photography_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "photography_046",
-      "title": "斯泰肯池塘月光",
-      "summary": "斯泰肯以画意手法拍摄月光下池塘的早期艺术摄影",
-      "full_text": "斯泰肯以画意手法拍摄月光下池塘的早期艺术摄影",
+      "title": "尤斯曼合成影像",
+      "summary": "美国摄影师尤斯曼以暗房多重曝光合成超现实影像，岩石上生长的手...",
+      "full_text": "美国摄影师尤斯曼以暗房多重曝光合成超现实影像，岩石上生长的手天空中漂浮的树，如梦境般不可能的空间，以暗房特技创造前数字时代的影像魔术。",
       "image": "res://assets/images/illustrations/photography/photography_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "photography_047",
-      "title": "曼雷射线照片",
-      "summary": "曼雷以物影摄影法创作的不用相机的抽象照片",
-      "full_text": "曼雷以物影摄影法创作的不用相机的抽象照片",
+      "title": "细江英公蔷薇刑",
+      "summary": "日本摄影师细江英公拍摄作家三岛由纪夫，裸体与蔷薇纠缠如生与死...",
+      "full_text": "日本摄影师细江英公拍摄作家三岛由纪夫，裸体与蔷薇纠缠如生与死的仪式，高对比粗颗粒如暗黑祭典，为日本战后摄影最具冲击力的身体叙事。",
       "image": "res://assets/images/illustrations/photography/photography_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "photography_048",
-      "title": "曼雷泪珠",
-      "summary": "曼雷以玻璃泪珠装饰模特面部的超现实人像",
-      "full_text": "曼雷以玻璃泪珠装饰模特面部的超现实人像",
+      "title": "荒木经惟感伤之旅",
+      "summary": "日本摄影师荒木经惟拍摄与妻子阳子的蜜月旅行，日常细节如爱的编...",
+      "full_text": "日本摄影师荒木经惟拍摄与妻子阳子的蜜月旅行，日常细节如爱的编年，阳子去世后成感伤之旅，以私影像将生老病死爱恋化为摄影诗篇。",
       "image": "res://assets/images/illustrations/photography/photography_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "photography_049",
-      "title": "尤斯曼合成影像",
-      "summary": "尤斯曼以暗房多重曝光合成的超现实风景",
-      "full_text": "尤斯曼以暗房多重曝光合成的超现实风景",
+      "title": "杉本博司海景",
+      "summary": "日本摄影师杉本博司以超长曝光拍摄世界各地的海与天，水与空气在...",
+      "full_text": "日本摄影师杉本博司以超长曝光拍摄世界各地的海与天，水与空气在灰度中如太初混沌，如时间本身的面容，追问人类记忆的起源与永恒。",
       "image": "res://assets/images/illustrations/photography/photography_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "photography_050",
-      "title": "伯丁斯基制造",
-      "summary": "伯丁斯基拍摄大规模工业生产的壮观航拍照片",
-      "full_text": "伯丁斯基拍摄大规模工业生产的壮观航拍照片",
+      "title": "杉本博司剧院",
+      "summary": "杉本博司于废弃剧院以整部电影时长曝光，银幕化为纯白光块如天堂...",
+      "full_text": "杉本博司于废弃剧院以整部电影时长曝光，银幕化为纯白光块如天堂之门，黑暗中座椅如信徒朝圣，以一张照片浓缩一部电影的时间与光。",
       "image": "res://assets/images/illustrations/photography/photography_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "photography_051",
-      "title": "杉本博司海景",
-      "summary": "杉本博司以超长曝光拍摄海天一线的极简照片",
-      "full_text": "杉本博司以超长曝光拍摄海天一线的极简照片",
+      "title": "古尔斯基莱茵河",
+      "summary": "德国摄影师古尔斯基以大画幅拍摄莱茵河，消除对岸建筑仅留水天草...",
+      "full_text": "德国摄影师古尔斯基以大画幅拍摄莱茵河，消除对岸建筑仅留水天草岸如色域绘画，以数字技术提纯现实抵达抽象，二〇一一年以四百三十万美元成交为最贵照片。",
       "image": "res://assets/images/illustrations/photography/photography_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "photography_052",
-      "title": "杉本博司剧院",
-      "summary": "杉本博司以整场电影曝光拍摄全白银幕的照片",
-      "full_text": "杉本博司以整场电影曝光拍摄全白银幕的照片",
+      "title": "霍克尼拼贴照片",
+      "summary": "英国艺术家霍克尼以多张宝丽来拼合构成立体主义照片，如人眼般多...",
+      "full_text": "英国艺术家霍克尼以多张宝丽来拼合构成立体主义照片，如人眼般多角度同时观看，打破摄影单一视点的限制，为摄影与绘画的跨界实验。",
       "image": "res://assets/images/illustrations/photography/photography_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "photography_053",
-      "title": "霍克尼拼贴照片",
-      "summary": "霍克尼以多张宝丽来拼贴的立体主义摄影",
-      "full_text": "霍克尼以多张宝丽来拼贴的立体主义摄影",
+      "title": "克鲁德森悬置",
+      "summary": "美国摄影师克鲁德森以电影剧组规模拍摄郊区场景，灯光如舞台照亮...",
+      "full_text": "美国摄影师克鲁德森以电影剧组规模拍摄郊区场景，灯光如舞台照亮日常中的诡异瞬间，如希区柯克式的美国噩梦，以精心构造挑战纪实摄影的真实性。",
       "image": "res://assets/images/illustrations/photography/photography_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "photography_054",
-      "title": "辛迪舍曼无题电影剧照",
-      "summary": "辛迪舍曼扮演电影角色的自拍摄影系列",
-      "full_text": "辛迪舍曼扮演电影角色的自拍摄影系列",
+      "title": "南·戈尔丁性依赖叙事曲",
+      "summary": "美国女摄影师戈尔丁以闪光灯拍摄自己与友人的亲密生活，爱恋暴力...",
+      "full_text": "美国女摄影师戈尔丁以闪光灯拍摄自己与友人的亲密生活，爱恋暴力药物如视觉日记，将私人生活毫无保留地公开，为私影像与女性主义摄影的里程碑。",
       "image": "res://assets/images/illustrations/photography/photography_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "photography_055",
-      "title": "古尔斯基莱茵河",
-      "summary": "古尔斯基以大画幅拍摄莱茵河的极简巨幅照片",
-      "full_text": "古尔斯基以大画幅拍摄莱茵河的极简巨幅照片",
+      "title": "伯丁斯基制造",
+      "summary": "加拿大摄影师伯丁斯基以大画幅拍摄工业景观，镍矿尾矿如抽象画电...",
+      "full_text": "加拿大摄影师伯丁斯基以大画幅拍摄工业景观，镍矿尾矿如抽象画电子垃圾如山，以震撼美感揭示消费文明的生态代价，追问人类改造自然的边界。",
       "image": "res://assets/images/illustrations/photography/photography_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "photography_056",
-      "title": "古尔斯基99美分",
-      "summary": "古尔斯基拍摄超市货架密集商品的震撼全景",
-      "full_text": "古尔斯基拍摄超市货架密集商品的震撼全景",
+      "title": "萨尔加多创世纪",
+      "summary": "巴西摄影师萨尔加多八年拍摄未受文明侵蚀的净土，企鹅海象雨林部...",
+      "full_text": "巴西摄影师萨尔加多八年拍摄未受文明侵蚀的净土，企鹅海象雨林部落如伊甸园，以史诗般的黑白影像呼吁保护地球最后的荒野，为自然纪实摄影的壮举。",
       "image": "res://assets/images/illustrations/photography/photography_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "photography_057",
-      "title": "斯特鲁斯博物馆照片",
-      "summary": "斯特鲁斯拍摄博物馆中观众观赏画作的场面",
-      "full_text": "斯特鲁斯拍摄博物馆中观众观赏画作的场面",
+      "title": "索斯眠于密西西比",
+      "summary": "美国摄影师索斯沿密西西比河拍摄美国腹地，旅馆床上的男子荒废的...",
+      "full_text": "美国摄影师索斯沿密西西比河拍摄美国腹地，旅馆床上的男子荒废的房间如梦游者的美国，以诗意疏离的彩色影像编织公路叙事，为当代纪实摄影新声。",
       "image": "res://assets/images/illustrations/photography/photography_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "photography_058",
-      "title": "索斯密西西比",
-      "summary": "索斯沿密西西比河拍摄美国边缘人物的肖像",
-      "full_text": "索斯沿密西西比河拍摄美国边缘人物的肖像",
+      "title": "提尔曼斯肖像",
+      "summary": "德国摄影师提尔曼斯以随意构图拍摄青年文化，派对朋友静物如生活...",
+      "full_text": "德国摄影师提尔曼斯以随意构图拍摄青年文化，派对朋友静物如生活碎片般贴满墙面，打破艺术摄影与快照的界限，为当代摄影的民主化宣言。",
       "image": "res://assets/images/illustrations/photography/photography_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "photography_059",
-      "title": "劳森自由风格",
-      "summary": "劳森以彩色宝丽来拍摄非裔美国人的亲密肖像",
-      "full_text": "劳森以彩色宝丽来拍摄非裔美国人的亲密肖像",
+      "title": "莱博维茨名人肖像",
+      "summary": "美国摄影师莱博维茨拍摄约翰·列侬裸体蜷缩于小野洋子身旁，五小...",
+      "full_text": "美国摄影师莱博维茨拍摄约翰·列侬裸体蜷缩于小野洋子身旁，五小时后列侬遇刺，如预言般的亲密肖像成为世纪绝唱，为名人肖像摄影的巅峰。",
       "image": "res://assets/images/illustrations/photography/photography_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "photography_060",
-      "title": "滨田英明家庭摄影",
-      "summary": "滨田英明以清新色调拍摄两个儿子的日常瞬间",
-      "full_text": "滨田英明以清新色调拍摄两个儿子的日常瞬间",
+      "title": "迪科西亚街头闪光",
+      "summary": "美国摄影师迪科西亚于街头暗藏闪光灯拍摄路人，如舞台聚光照亮不...",
+      "full_text": "美国摄影师迪科西亚于街头暗藏闪光灯拍摄路人，如舞台聚光照亮不知情的面孔，将纪实偷拍升华为如卡拉瓦乔般的明暗戏剧，追问摄影的伦理边界。",
       "image": "res://assets/images/illustrations/photography/photography_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "photography_061",
-      "title": "川内伦子日常微光",
-      "summary": "川内伦子以柔和色调拍摄日常细微之物的诗意照片",
-      "full_text": "川内伦子以柔和色调拍摄日常细微之物的诗意照片",
+      "title": "普鲁伊特垃圾邮件",
+      "summary": "瑞典摄影师普鲁伊特收集网络垃圾邮件中的图片重新编排，如数字时...",
+      "full_text": "瑞典摄影师普鲁伊特收集网络垃圾邮件中的图片重新编排，如数字时代的拼贴诗，以挪用与重组追问网络图像的过剩与意义，为后互联网摄影的代表。",
       "image": "res://assets/images/illustrations/photography/photography_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "photography_062",
-      "title": "手机摄影街头",
-      "summary": "以智能手机拍摄的都市街头光影瞬间",
-      "full_text": "以智能手机拍摄的都市街头光影瞬间",
+      "title": "邵逸农与慕辰大礼堂",
+      "summary": "中国摄影师邵逸农与慕辰拍摄各地废弃的大礼堂，如社会主义的空荡...",
+      "full_text": "中国摄影师邵逸农与慕辰拍摄各地废弃的大礼堂，如社会主义的空荡教堂，红色标语犹在而信仰已逝，以冷静影像记录意识形态空间的废墟化。",
       "image": "res://assets/images/illustrations/photography/photography_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "photography_063",
-      "title": "无人机航拍风景",
-      "summary": "无人机高空俯拍的自然与城市几何图案",
-      "full_text": "无人机高空俯拍的自然与城市几何图案",
+      "title": "王庆松老栗夜宴图",
+      "summary": "中国摄影师王庆松以韩熙载夜宴图为蓝本，将南唐颓宴置换为当代中...",
+      "full_text": "中国摄影师王庆松以韩熙载夜宴图为蓝本，将南唐颓宴置换为当代中国消费狂欢，如社会讽刺画般荒诞，以摄影装置追问当代中国的欲望与迷失。",
       "image": "res://assets/images/illustrations/photography/photography_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "photography_064",
-      "title": "社交媒体自拍文化",
-      "summary": "社交媒体时代精心构图的自拍肖像现象",
-      "full_text": "社交媒体时代精心构图的自拍肖像现象",
+      "title": "缪晓春虚拟最后审判",
+      "summary": "中国艺术家缪晓春以三维软件重构米开朗基罗最后审判，如上帝视角...",
+      "full_text": "中国艺术家缪晓春以三维软件重构米开朗基罗最后审判，如上帝视角俯瞰如矩阵般的人海，以数字技术解构经典追问技术时代的人类命运。",
       "image": "res://assets/images/illustrations/photography/photography_064.jpg",
       "image_grid": {
         "x": 3,
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "photography_065",
-      "title": "数码后期合成",
-      "summary": "以数码技术合成超现实场景的当代摄影",
-      "full_text": "以数码技术合成超现实场景的当代摄影",
+      "title": "陈漫龙年",
+      "summary": "中国摄影师陈漫以数字后期创作龙年时尚肖像，模特与龙纹如赛博朋...",
+      "full_text": "中国摄影师陈漫以数字后期创作龙年时尚肖像，模特与龙纹如赛博朋克般融合，以极致视觉冲击力定义中国时尚摄影的新美学，为东西方视觉文化的混合体。",
       "image": "res://assets/images/illustrations/photography/photography_065.jpg",
       "image_grid": {
         "x": 3,
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "photography_066",
-      "title": "纪实摄影难民危机",
-      "summary": "当代摄影师拍摄地中海难民危机的纪实照片",
-      "full_text": "当代摄影师拍摄地中海难民危机的纪实照片",
+      "title": "张晓海岸线",
+      "summary": "中国摄影师张晓拍摄中国海岸线上的游客，如潮水般的人群与荒诞的...",
+      "full_text": "中国摄影师张晓拍摄中国海岸线上的游客，如潮水般的人群与荒诞的海滩消费，以温柔而荒诞的彩色影像记录中国城市化进程中的集体景观。",
       "image": "res://assets/images/illustrations/photography/photography_066.jpg",
       "image_grid": {
         "x": 3,
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "photography_067",
-      "title": "长曝光城市夜景",
-      "summary": "以长曝光拍摄城市车流光轨的夜景照片",
-      "full_text": "以长曝光拍摄城市车流光轨的夜景照片",
+      "title": "刘铮国人",
+      "summary": "中国摄影师刘铮以摆拍方式拍摄国人系列，如戏台上的角色扮演，以...",
+      "full_text": "中国摄影师刘铮以摆拍方式拍摄国人系列，如戏台上的角色扮演，以戏剧化场景隐喻民族性格与文化心理，为当代中国观念摄影的代表。",
       "image": "res://assets/images/illustrations/photography/photography_067.jpg",
       "image_grid": {
         "x": 3,
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "photography_068",
-      "title": "微距摄影昆虫",
-      "summary": "以微距镜头拍摄昆虫细节的当代自然摄影",
-      "full_text": "以微距镜头拍摄昆虫细节的当代自然摄影",
+      "title": "洪浩账本",
+      "summary": "中国摄影师洪浩以扫描仪记录每日消费物品如账本，从食品到票据如...",
+      "full_text": "中国摄影师洪浩以扫描仪记录每日消费物品如账本，从食品到票据如消费主义的考古学，以冷静编目追问物质生活的意义与过剩。",
       "image": "res://assets/images/illustrations/photography/photography_068.jpg",
       "image_grid": {
         "x": 3,
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "photography_069",
-      "title": "3D扫描摄影",
-      "summary": "以3D扫描技术记录物体与空间的新媒介摄影",
-      "full_text": "以3D扫描技术记录物体与空间的新媒介摄影",
+      "title": "荣荣与映里废墟",
+      "summary": "中国摄影师荣荣与日本妻子映里拍摄北京拆迁废墟中的自己，裸体如...",
+      "full_text": "中国摄影师荣荣与日本妻子映里拍摄北京拆迁废墟中的自己，裸体如回归原始如城市废墟中的生命，以身体行为与摄影记录城市化中的消失与重生。",
       "image": "res://assets/images/illustrations/photography/photography_069.jpg",
       "image_grid": {
         "x": 3,

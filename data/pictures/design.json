@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "design_000",
-      "title": "包豪斯瓦西里椅",
-      "summary": "布鲁尔以钢管弯制编帆布座面的现代椅子",
-      "full_text": "布鲁尔以钢管弯制编帆布座面的现代椅子",
+      "title": "包豪斯台灯",
+      "summary": "包豪斯设计师华根菲尔德创作经典台灯，半球形乳白玻璃灯罩配圆柱...",
+      "full_text": "包豪斯设计师华根菲尔德创作经典台灯，半球形乳白玻璃灯罩配圆柱金属底座，几何纯粹功能至上，为工业设计教育史上的第一课，至今仍在生产。",
       "image": "res://assets/images/illustrations/design/design_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "design_001",
-      "title": "包豪斯台灯",
-      "summary": "华根菲尔德以半球形灯罩设计的包豪斯经典台灯",
-      "full_text": "华根菲尔德以半球形灯罩设计的包豪斯经典台灯",
+      "title": "布朗收音机",
+      "summary": "德国布朗公司首席设计师拉姆斯设计收音机，白色外壳圆形扬声器如...",
+      "full_text": "德国布朗公司首席设计师拉姆斯设计收音机，白色外壳圆形扬声器如简约雕塑，少却更好理念影响苹果设计，为德国工业设计功能美学的典范。",
       "image": "res://assets/images/illustrations/design/design_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "design_002",
-      "title": "柯布西耶躺椅",
-      "summary": "柯布西耶以钢管与皮革设计的人体工学躺椅",
-      "full_text": "柯布西耶以钢管与皮革设计的人体工学躺椅",
+      "title": "大众甲壳虫",
+      "summary": "费迪南德·保时捷设计国民汽车，圆润流线如甲壳虫般可爱，后置风...",
+      "full_text": "费迪南德·保时捷设计国民汽车，圆润流线如甲壳虫般可爱，后置风冷发动机结构简单，产量逾两千万辆，为工业设计最成功的民主化产品。",
       "image": "res://assets/images/illustrations/design/design_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "design_003",
-      "title": "密斯巴塞罗那椅",
-      "summary": "密斯以X形不锈钢腿与皮革坐垫设计的经典椅",
-      "full_text": "密斯以X形不锈钢腿与皮革坐垫设计的经典椅",
+      "title": "伊姆斯休闲椅",
+      "summary": "美国设计师伊姆斯夫妇以模压胶合板弯壳与皮革坐垫创造休闲椅，人...",
+      "full_text": "美国设计师伊姆斯夫妇以模压胶合板弯壳与皮革坐垫创造休闲椅，人体工学与材料创新完美结合，为二十世纪最舒适的座椅设计。",
       "image": "res://assets/images/illustrations/design/design_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "design_004",
-      "title": "阿尔托帕伊米奥椅",
-      "summary": "阿尔托以模压胶合板设计的疗养院座椅",
-      "full_text": "阿尔托以模压胶合板设计的疗养院座椅",
+      "title": "索尼Walkman",
+      "summary": "一九七九年索尼推出便携磁带播放器Walkman，蓝色银色机身...",
+      "full_text": "一九七九年索尼推出便携磁带播放器Walkman，蓝色银色机身仅三百三十克，让音乐随身而行改变了聆听方式，为便携电子产品的设计先驱。",
       "image": "res://assets/images/illustrations/design/design_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "design_005",
-      "title": "伊姆斯休闲椅",
-      "summary": "伊姆斯夫妇以模压胶合板与皮革设计的休闲椅",
-      "full_text": "伊姆斯夫妇以模压胶合板与皮革设计的休闲椅",
+      "title": "博朗榨汁机",
+      "summary": "拉姆斯为博朗设计榨汁机，白色半透明穹顶配不锈钢滤网，功能部件...",
+      "full_text": "拉姆斯为博朗设计榨汁机，白色半透明穹顶配不锈钢滤网，功能部件一目了然，少却更好的设计哲学在此完美体现，为小家电设计经典。",
       "image": "res://assets/images/illustrations/design/design_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "design_006",
-      "title": "伊姆斯玻璃纤维椅",
-      "summary": "伊姆斯以玻璃钢壳体设计的可叠放座椅",
-      "full_text": "伊姆斯以玻璃钢壳体设计的可叠放座椅",
+      "title": "乐高积木系统",
+      "summary": "丹麦乐高公司以精密注塑工艺生产塑料积木，凸起与凹槽精确咬合，...",
+      "full_text": "丹麦乐高公司以精密注塑工艺生产塑料积木，凸起与凹槽精确咬合，六块两乘四积木可组合九亿一千五百万种，为玩具设计的系统化奇迹。",
       "image": "res://assets/images/illustrations/design/design_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "design_007",
-      "title": "雅各布森蚂蚁椅",
-      "summary": "雅各布森以三条腿胶合板设计的简约餐椅",
-      "full_text": "雅各布森以三条腿胶合板设计的简约餐椅",
+      "title": "Aeron办公椅",
+      "summary": "美国设计师查德威克与斯通夫设计Aeron椅，弹力网布取代泡沫...",
+      "full_text": "美国设计师查德威克与斯通夫设计Aeron椅，弹力网布取代泡沫如呼吸般透气，人体工学支撑如量身定做，为知识经济时代最标志性的办公家具。",
       "image": "res://assets/images/illustrations/design/design_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "design_008",
-      "title": "雅各布森蛋椅",
-      "summary": "雅各布森以曲线壳体设计的休闲扶手椅",
-      "full_text": "雅各布森以曲线壳体设计的休闲扶手椅",
+      "title": "无印良品壁挂CD",
+      "summary": "日本设计师深泽直人为无印良品设计壁挂式CD播放器，拉绳开关如...",
+      "full_text": "日本设计师深泽直人为无印良品设计壁挂式CD播放器，拉绳开关如换气扇般直觉操作，音乐如风般吹来，为无意识设计的经典诠释。",
       "image": "res://assets/images/illustrations/design/design_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "design_009",
-      "title": "沙里宁郁金香椅",
-      "summary": "沙里宁以单柱基座设计的流线型椅子",
-      "full_text": "沙里宁以单柱基座设计的流线型椅子",
+      "title": "戴森吸尘器",
+      "summary": "英国发明家戴森以双气旋技术设计无袋吸尘器，透明集尘筒如科技展...",
+      "full_text": "英国发明家戴森以双气旋技术设计无袋吸尘器，透明集尘筒如科技展品，以工程技术颠覆传统家电设计，为创新驱动设计的代表。",
       "image": "res://assets/images/illustrations/design/design_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "design_010",
-      "title": "流线型灰狗巴士",
-      "summary": "1930年代以流线型设计减少风阻的客运巴士",
-      "full_text": "1930年代以流线型设计减少风阻的客运巴士",
+      "title": "OXO削皮器",
+      "summary": "美国设计师以通用设计理念为患关节炎的妻子重新设计削皮器，宽大...",
+      "full_text": "美国设计师以通用设计理念为患关节炎的妻子重新设计削皮器，宽大橡胶手柄舒适安全，为通用设计即人人可用设计的经典案例。",
       "image": "res://assets/images/illustrations/design/design_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "design_011",
-      "title": "克莱斯勒气流轿车",
-      "summary": "1930年代以空气动力学设计的流线型汽车",
-      "full_text": "1930年代以空气动力学设计的流线型汽车",
+      "title": "特斯拉Model S",
+      "summary": "特斯拉Model S以纯电动重新定义汽车，十七英寸触控屏取代...",
+      "full_text": "特斯拉Model S以纯电动重新定义汽车，十七英寸触控屏取代物理按键，鹰翼门如科幻如未来，为电动汽车工业设计的标杆之作。",
       "image": "res://assets/images/illustrations/design/design_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "design_012",
-      "title": "大众甲壳虫汽车",
-      "summary": "波尔舍以简洁实用设计的大众化汽车",
-      "full_text": "波尔舍以简洁实用设计的大众化汽车",
+      "title": "可口可乐弧形瓶",
+      "summary": "一九一五年可口可乐弧形瓶设计诞生，即使碎成碎片凭触觉也能辨认...",
+      "full_text": "一九一五年可口可乐弧形瓶设计诞生，即使碎成碎片凭触觉也能辨认，为工业设计最成功的包装设计，百年不变如品牌如记忆。",
       "image": "res://assets/images/illustrations/design/design_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "design_013",
-      "title": "博朗收音机",
-      "summary": "拉姆斯以少即是多理念设计的博朗收音机",
-      "full_text": "拉姆斯以少即是多理念设计的博朗收音机",
+      "title": "瑞士军刀",
+      "summary": "维氏瑞士军刀将刀剪锥锯开瓶器等工具折叠于红色刀柄之中，便携万...",
+      "full_text": "维氏瑞士军刀将刀剪锥锯开瓶器等工具折叠于红色刀柄之中，便携万能如百宝箱，为多功能工具设计的极致，瑞士品质的象征。",
       "image": "res://assets/images/illustrations/design/design_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "design_014",
-      "title": "博朗计算器",
-      "summary": "拉姆斯以极简界面设计的博朗电子计算器",
-      "full_text": "拉姆斯以极简界面设计的博朗电子计算器",
+      "title": "宜家比利书架",
+      "summary": "宜家比利书架以平板包装自组装，民主平价设计人人可享，自一九七...",
+      "full_text": "宜家比利书架以平板包装自组装，民主平价设计人人可享，自一九七九年售出逾六千万件，为全球最畅销的家具设计。",
       "image": "res://assets/images/illustrations/design/design_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "design_015",
-      "title": "苹果Macintosh电脑",
-      "summary": "苹果以图形界面与一体化设计的个人电脑",
-      "full_text": "苹果以图形界面与一体化设计的个人电脑",
+      "title": "贝伦斯AEG海报",
+      "summary": "德国设计师贝伦斯为一九〇七年AEG设计企业标识与海报，几何形...",
+      "full_text": "德国设计师贝伦斯为一九〇七年AEG设计企业标识与海报，几何形蜜蜂标志统一视觉识别，开创现代企业形象设计先河，影响深远。",
       "image": "res://assets/images/illustrations/design/design_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "design_016",
-      "title": "苹果iPod",
-      "summary": "苹果以滚轮操控与极简白色设计的便携音乐播放器",
-      "full_text": "苹果以滚轮操控与极简白色设计的便携音乐播放器",
+      "title": "构成主义版式",
+      "summary": "俄国构成主义设计师利西茨基以红色楔形打击白色圆形，革命几何如...",
+      "full_text": "俄国构成主义设计师利西茨基以红色楔形打击白色圆形，革命几何如视觉宣言如政治如艺术，为现代平面设计注入理性与力量。",
       "image": "res://assets/images/illustrations/design/design_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "design_017",
-      "title": "戴森吸尘器",
-      "summary": "戴森以无尘袋气旋技术设计的真空吸尘器",
-      "full_text": "戴森以无尘袋气旋技术设计的真空吸尘器",
+      "title": "包豪斯展览海报",
+      "summary": "包豪斯一九二三年展览海报以几何色块与线条构成画面，圆方三角与...",
+      "full_text": "包豪斯一九二三年展览海报以几何色块与线条构成画面，圆方三角与红黄蓝交织如视觉宣言，传达功能至上的设计理念。",
       "image": "res://assets/images/illustrations/design/design_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "design_018",
-      "title": "外星人榨汁机",
-      "summary": "斯塔克以铸铝长腿设计的柠檬榨汁器",
-      "full_text": "斯塔克以铸铝长腿设计的柠檬榨汁器",
+      "title": "瑞士国际主义",
+      "summary": "瑞士设计师穆勒布罗克曼以网格系统设计海报，数学秩序如理性如精...",
+      "full_text": "瑞士设计师穆勒布罗克曼以网格系统设计海报，数学秩序如理性如精确如客观，为二战后国际主义平面设计风格的奠基人。",
       "image": "res://assets/images/illustrations/design/design_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "design_019",
-      "title": "无印良品壁挂CD机",
-      "summary": "深泽直人以拉绳播放设计的极简CD播放器",
-      "full_text": "深泽直人以拉绳播放设计的极简CD播放器",
+      "title": "纽约地铁图",
+      "summary": "一九七二年维涅利设计纽约地铁图，以彩色直线代替弯曲地理线路如...",
+      "full_text": "一九七二年维涅利设计纽约地铁图，以彩色直线代替弯曲地理线路如抽象如简化如清晰，为信息设计的经典之作。",
       "image": "res://assets/images/illustrations/design/design_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "design_020",
-      "title": "贝伦斯AEG海报",
-      "summary": "贝伦斯为德国电气公司设计的现代企业视觉形象",
-      "full_text": "贝伦斯为德国电气公司设计的现代企业视觉形象",
+      "title": "伦敦地铁图",
+      "summary": "一九三一年贝克设计伦敦地铁图，以水平垂直四十五度线代替真实走...",
+      "full_text": "一九三一年贝克设计伦敦地铁图，以水平垂直四十五度线代替真实走向如拓扑如逻辑如直觉，为现代交通图设计的开创之作。",
       "image": "res://assets/images/illustrations/design/design_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "design_021",
-      "title": "包豪斯展览海报",
-      "summary": "施密特以几何构成设计的包豪斯展览海报",
-      "full_text": "施密特以几何构成设计的包豪斯展览海报",
+      "title": "日本海报设计",
+      "summary": "日本设计师田中一光以几何色块构成能剧面，东方美学与西方构成如...",
+      "full_text": "日本设计师田中一光以几何色块构成能剧面，东方美学与西方构成如融合如对话如新如创，为日本平面设计的国际代表。",
       "image": "res://assets/images/illustrations/design/design_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "design_022",
-      "title": "莫霍利纳吉构成主义海报",
-      "summary": "莫霍利纳吉以摄影与排版构成的先锋海报",
-      "full_text": "莫霍利纳吉以摄影与排版构成的先锋海报",
+      "title": "波兰海报学派",
+      "summary": "波兰设计师莱尼卡以超现实手法设计戏剧海报，如诗如梦如隐喻如象...",
+      "full_text": "波兰设计师莱尼卡以超现实手法设计戏剧海报，如诗如梦如隐喻如象征，为冷战时期波兰最自由的艺术表达。",
       "image": "res://assets/images/illustrations/design/design_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "design_023",
-      "title": "罗德琴科构成主义广告",
-      "summary": "罗德琴科以对角线构图与红色设计的苏联广告",
-      "full_text": "罗德琴科以对角线构图与红色设计的苏联广告",
+      "title": "苹果Think Different",
+      "summary": "苹果公司一九九七年推出Think Different广告，黑...",
+      "full_text": "苹果公司一九九七年推出Think Different广告，黑白肖像配以致敬文字如精神如信念如品牌如灵魂，为品牌广告的巅峰之作。",
       "image": "res://assets/images/illustrations/design/design_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "design_024",
-      "title": "利西茨基红色楔子",
-      "summary": "利西茨基以几何图形象征红军击败白军的宣传画",
-      "full_text": "利西茨基以几何图形象征红军击败白军的宣传画",
+      "title": "耐克标志设计",
+      "summary": "耐克Swoosh标志由设计系学生卡罗琳戴维森以三十五美元设计...",
+      "full_text": "耐克Swoosh标志由设计系学生卡罗琳戴维森以三十五美元设计，一勾如风如速如动如力，为全球最具辨识度的商业标志之一。",
       "image": "res://assets/images/illustrations/design/design_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "design_025",
-      "title": "保罗兰德IBM标志",
-      "summary": "保罗兰德以条纹字母设计的IBM企业标志",
-      "full_text": "保罗兰德以条纹字母设计的IBM企业标志",
+      "title": "IBM标志设计",
+      "summary": "设计师兰德为IBM设计条纹标志，水平条纹如速度如科技如秩序如...",
+      "full_text": "设计师兰德为IBM设计条纹标志，水平条纹如速度如科技如秩序如力量，为企业标识设计最经典的作品之一。",
       "image": "res://assets/images/illustrations/design/design_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "design_026",
-      "title": "切玛耶夫ABC标志",
-      "summary": "切玛耶夫以简洁圆形设计的ABC电视标志",
-      "full_text": "切玛耶夫以简洁圆形设计的ABC电视标志",
+      "title": "奥运视觉系统",
+      "summary": "一九六八年墨西哥城奥运会视觉系统以放射线条如活力如热情如运动...",
+      "full_text": "一九六八年墨西哥城奥运会视觉系统以放射线条如活力如热情如运动如节庆，为奥运视觉识别系统设计的里程碑。",
       "image": "res://assets/images/illustrations/design/design_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "design_027",
-      "title": "弗鲁提格机场导视",
-      "summary": "弗鲁提格为机场设计的清晰无衬线字体导视",
-      "full_text": "弗鲁提格为机场设计的清晰无衬线字体导视",
+      "title": "香奈儿小黑裙",
+      "summary": "一九二六年香奈儿发布小黑裙，以黑色取代繁复如简约如永恒如经典...",
+      "full_text": "一九二六年香奈儿发布小黑裙，以黑色取代繁复如简约如永恒如经典如自由，为女性衣橱必备，被誉时装界的福特汽车。",
       "image": "res://assets/images/illustrations/design/design_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "design_028",
-      "title": "赫尔维提卡字体应用",
-      "summary": "以中性清晰著称的赫尔维提卡字体的经典应用",
-      "full_text": "以中性清晰著称的赫尔维提卡字体的经典应用",
+      "title": "迪奥新风貌",
+      "summary": "一九四七年迪奥推出新风貌系列，收腰丰臀如花如冠如女性如回归，...",
+      "full_text": "一九四七年迪奥推出新风貌系列，收腰丰臀如花如冠如女性如回归，为战后女性重塑优雅，引发时装革命。",
       "image": "res://assets/images/illustrations/design/design_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "design_029",
-      "title": "沃霍尔金宝汤海报",
-      "summary": "沃霍尔以波普艺术风格设计的商业海报",
-      "full_text": "沃霍尔以波普艺术风格设计的商业海报",
+      "title": "三宅一生褶皱",
+      "summary": "日本设计师三宅一生以褶皱技术创造服装，折如纸如褶如山如水如自...",
+      "full_text": "日本设计师三宅一生以褶皱技术创造服装，折如纸如褶如山如水如自然，无需熨烫如自由如旅行如解放，为时装与科技的完美融合。",
       "image": "res://assets/images/illustrations/design/design_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "design_030",
-      "title": "格拉瑟I❤NY标志",
-      "summary": "格拉瑟以心形符号设计的纽约城市标志",
-      "full_text": "格拉瑟以心形符号设计的纽约城市标志",
+      "title": "山本耀司黑色",
+      "summary": "日本设计师山本耀司以黑色解构时装，不对称如破如立如反如叛，以...",
+      "full_text": "日本设计师山本耀司以黑色解构时装，不对称如破如立如反如叛，以东方禅意挑战西方时装审美，为时装界的哲学诗人。",
       "image": "res://assets/images/illustrations/design/design_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "design_031",
-      "title": "田中一光日本海报",
-      "summary": "田中一光以几何色块与日本美学设计的海报",
-      "full_text": "田中一光以几何色块与日本美学设计的海报",
+      "title": "川久保玲破烂",
+      "summary": "日本设计师川久保玲以破烂美学颠覆时装，洞如伤如裂如毁如废如美...",
+      "full_text": "日本设计师川久保玲以破烂美学颠覆时装，洞如伤如裂如毁如废如美，以反时装的姿态重新定义美的边界，为时装界最激进的叛逆者。",
       "image": "res://assets/images/illustrations/design/design_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "design_032",
-      "title": "横尾忠则迷幻海报",
-      "summary": "横尾忠则以鲜艳色彩与拼贴设计的迷幻风格海报",
-      "full_text": "横尾忠则以鲜艳色彩与拼贴设计的迷幻风格海报",
+      "title": "亚历山大麦昆",
+      "summary": "英国设计师麦昆以戏剧性秀场闻名，如秀如剧如梦如幻如暗如美，将...",
+      "full_text": "英国设计师麦昆以戏剧性秀场闻名，如秀如剧如梦如幻如暗如美，将时装表演升华为行为艺术，为当代最具想象力的时装设计师。",
       "image": "res://assets/images/illustrations/design/design_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "design_033",
-      "title": "索特萨斯卡尔顿书架",
-      "summary": "索特萨斯以彩色积木式设计的孟菲斯书架",
-      "full_text": "索特萨斯以彩色积木式设计的孟菲斯书架",
+      "title": "薇欧奈斜裁法",
+      "summary": "法国设计师薇欧奈以斜裁法创造裙装，布料沿四十五度斜裁如流如水...",
+      "full_text": "法国设计师薇欧奈以斜裁法创造裙装，布料沿四十五度斜裁如流如水如垂如坠，为女性身体赋予最优雅的自由，为时装技术的革命性创新。",
       "image": "res://assets/images/illustrations/design/design_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "design_034",
-      "title": "孟菲斯设计运动",
-      "summary": "孟菲斯集团以明快色彩与几何造型挑战极简的设计",
-      "full_text": "孟菲斯集团以明快色彩与几何造型挑战极简的设计",
+      "title": "巴伦夏加建筑感",
+      "summary": "西班牙设计师巴伦夏加以建筑感廓形创造时装，如雕塑如建筑如结构...",
+      "full_text": "西班牙设计师巴伦夏加以建筑感廓形创造时装，如雕塑如建筑如结构如空间，以裁剪的纯粹性定义高级时装的至高标准。",
       "image": "res://assets/images/illustrations/design/design_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "design_035",
-      "title": "瑞士国际主义风格海报",
-      "summary": "以网格系统与无衬线字体设计的理性海报",
-      "full_text": "以网格系统与无衬线字体设计的理性海报",
+      "title": "范思哲华丽风格",
+      "summary": "意大利设计师范思哲以华丽风格著称，金如耀如奢如艳如性如力，将...",
+      "full_text": "意大利设计师范思哲以华丽风格著称，金如耀如奢如艳如性如力，将古典神话与流行文化融合，为八十年代最耀眼的时装品牌。",
       "image": "res://assets/images/illustrations/design/design_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "design_036",
-      "title": "嬉皮士迷幻摇滚海报",
-      "summary": "1960年代旧金山以扭曲字体设计的摇滚海报",
-      "full_text": "1960年代旧金山以扭曲字体设计的摇滚海报",
+      "title": "阿玛尼权力套装",
+      "summary": "意大利设计师阿玛尼以权力套装重塑职业女性形象，垫肩如铠甲如力...",
+      "full_text": "意大利设计师阿玛尼以权力套装重塑职业女性形象，垫肩如铠甲如力量如权威，为八十年代职业女性的标志性着装。",
       "image": "res://assets/images/illustrations/design/design_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "design_037",
-      "title": "中国早期月份牌广告",
-      "summary": "民国时期以美女画像为特色的商品广告画",
-      "full_text": "民国时期以美女画像为特色的商品广告画",
+      "title": "韦斯特伍德朋克",
+      "summary": "英国设计师韦斯特伍德以朋克风格颠覆时装，铆钉如反如叛如破如立...",
+      "full_text": "英国设计师韦斯特伍德以朋克风格颠覆时装，铆钉如反如叛如破如立，将街头亚文化引入高级时装，为朋克时装的教母。",
       "image": "res://assets/images/illustrations/design/design_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "design_038",
-      "title": "苏联构成主义电影海报",
-      "summary": "1920年代以摄影蒙太奇设计的苏联电影海报",
-      "full_text": "1920年代以摄影蒙太奇设计的苏联电影海报",
+      "title": "中国旗袍演变",
+      "summary": "中国旗袍从清代旗装演变为海派改良旗袍，收腰如曲线如东方如韵味...",
+      "full_text": "中国旗袍从清代旗装演变为海派改良旗袍，收腰如曲线如东方如韵味，为中西服饰文化融合最成功的典范。",
       "image": "res://assets/images/illustrations/design/design_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "design_039",
-      "title": "滚石乐队舌标",
-      "summary": "贝尔莫茨以吐舌红唇设计的滚石乐队标志",
-      "full_text": "贝尔莫茨以吐舌红唇设计的滚石乐队标志",
+      "title": "iPhone多点触控",
+      "summary": "二〇〇七年苹果iPhone以多点触控颠覆手机设计，手指如笔如...",
+      "full_text": "二〇〇七年苹果iPhone以多点触控颠覆手机设计，手指如笔如鼠如指如挥，以直觉交互取代物理键盘，为智能手机工业设计的革命性里程碑。",
       "image": "res://assets/images/illustrations/design/design_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "design_040",
-      "title": "迪奥新风貌套装",
-      "summary": "1947年迪奥以收腰宽裙定义的战后女性新轮廓",
-      "full_text": "1947年迪奥以收腰宽裙定义的战后女性新轮廓",
+      "title": "iPad交互界面",
+      "summary": "二〇一〇年苹果iPad以大屏触控重新定义平板，如书如纸如窗如...",
+      "full_text": "二〇一〇年苹果iPad以大屏触控重新定义平板，如书如纸如窗如幕，以自然手势操作取代鼠标，为移动计算设备的交互设计标杆。",
       "image": "res://assets/images/illustrations/design/design_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "design_041",
-      "title": "香奈儿小黑裙",
-      "summary": "香奈儿以简洁黑色设计解放女性的经典裙装",
-      "full_text": "香奈儿以简洁黑色设计解放女性的经典裙装",
+      "title": "微信界面设计",
+      "summary": "微信以极简界面设计，聊天如面如语如信如达，朋友圈如圈如聚如分...",
+      "full_text": "微信以极简界面设计，聊天如面如语如信如达，朋友圈如圈如聚如分享如生活，为全球用户量最大的社交应用界面。",
       "image": "res://assets/images/illustrations/design/design_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "design_042",
-      "title": "香奈儿粗花呢套装",
-      "summary": "香奈儿以粗花呢面料设计的优雅女性套装",
-      "full_text": "香奈儿以粗花呢面料设计的优雅女性套装",
+      "title": "Material Design",
+      "summary": "谷歌Material Design以纸张墨水隐喻，层如纸如叠...",
+      "full_text": "谷歌Material Design以纸张墨水隐喻，层如纸如叠如影如深，为跨平台统一视觉语言的设计系统，影响安卓生态全局。",
       "image": "res://assets/images/illustrations/design/design_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "design_043",
-      "title": "圣罗兰吸烟装",
-      "summary": "圣罗兰以男士燕尾服为灵感设计的女性晚装",
-      "full_text": "圣罗兰以男士燕尾服为灵感设计的女性晚装",
+      "title": "Fluent Design",
+      "summary": "微软Fluent Design以亚克力材质与光效，透如光如雾...",
+      "full_text": "微软Fluent Design以亚克力材质与光效，透如光如雾如柔如润，为Windows系统注入感官深度与视觉层次。",
       "image": "res://assets/images/illustrations/design/design_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "design_044",
-      "title": "巴伦夏加茧型大衣",
-      "summary": "巴伦夏加以茧型轮廓设计的建筑感大衣",
-      "full_text": "巴伦夏加以茧型轮廓设计的建筑感大衣",
+      "title": "手势交互设计",
+      "summary": "现代手势交互以滑动如翻如卷如拨如转，以身体动作操控数字界面如...",
+      "full_text": "现代手势交互以滑动如翻如卷如拨如转，以身体动作操控数字界面如自然如直觉如本能，为人机交互的进化方向。",
       "image": "res://assets/images/illustrations/design/design_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "design_045",
-      "title": "三宅一生褶皱服装",
-      "summary": "三宅一生以永久褶皱技术设计的创新服装",
-      "full_text": "三宅一生以永久褶皱技术设计的创新服装",
+      "title": "语音交互设计",
+      "summary": "智能语音助手以自然语言如说如话如令如唤，以声音为界面解放双手...",
+      "full_text": "智能语音助手以自然语言如说如话如令如唤，以声音为界面解放双手与双眼，为人机交互最自然的演进。",
       "image": "res://assets/images/illustrations/design/design_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "design_046",
-      "title": "川久保玲乞丐装",
-      "summary": "川久保玲以破洞不对称设计挑战审美的服装",
-      "full_text": "川久保玲以破洞不对称设计挑战审美的服装",
+      "title": "AR增强现实界面",
+      "summary": "增强现实界面以虚实融合，数字信息叠加于真实世界如视如见如知如...",
+      "full_text": "增强现实界面以虚实融合，数字信息叠加于真实世界如视如见如知如觉，为下一代计算平台的交互范式。",
       "image": "res://assets/images/illustrations/design/design_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "design_047",
-      "title": "山本耀司黑色解构",
-      "summary": "山本耀司以黑色层叠解构设计的反时尚服装",
-      "full_text": "山本耀司以黑色层叠解构设计的反时尚服装",
+      "title": "VR虚拟现实设计",
+      "summary": "虚拟现实界面以三维空间为画布，沉浸如入如临如在如真，为数字体...",
+      "full_text": "虚拟现实界面以三维空间为画布，沉浸如入如临如在如真，为数字体验最极致的沉浸形式。",
       "image": "res://assets/images/illustrations/design/design_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "design_048",
-      "title": "范思哲安全别针裙",
-      "summary": "范思哲以安全别针装饰设计的惊艳晚裙",
-      "full_text": "范思哲以安全别针装饰设计的惊艳晚裙",
+      "title": "无障碍交互设计",
+      "summary": "无障碍设计以通用为原则，视如听如触如说如动如用，为所有人群提...",
+      "full_text": "无障碍设计以通用为原则，视如听如触如说如动如用，为所有人群提供平等的使用体验，为设计伦理的最高标准。",
       "image": "res://assets/images/illustrations/design/design_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "design_049",
-      "title": "麦昆骷髅丝巾",
-      "summary": "麦昆以骷髅印花设计的标志性丝巾",
-      "full_text": "麦昆以骷髅印花设计的标志性丝巾",
+      "title": "微交互动效设计",
+      "summary": "微交互以细腻动效如点如划如转如变，为界面操作提供即时反馈如愉...",
+      "full_text": "微交互以细腻动效如点如划如转如变，为界面操作提供即时反馈如愉悦如安心如流畅，为用户体验设计的点睛之笔。",
       "image": "res://assets/images/illustrations/design/design_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "design_050",
-      "title": "韦斯特伍德朋克时装",
-      "summary": "韦斯特伍德以铆钉格纹设计的朋克风格时装",
-      "full_text": "韦斯特伍德以铆钉格纹设计的朋克风格时装",
+      "title": "响应式网页设计",
+      "summary": "响应式设计以弹性布局，如水如变如适如应如流如动，为不同屏幕尺...",
+      "full_text": "响应式设计以弹性布局，如水如变如适如应如流如动，为不同屏幕尺寸提供最优阅读体验，为现代网页设计的基本准则。",
       "image": "res://assets/images/illustrations/design/design_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "design_051",
-      "title": "蒙塔纳宽肩套装",
-      "summary": "蒙塔纳以夸张肩线设计的权力套装",
-      "full_text": "蒙塔纳以夸张肩线设计的权力套装",
+      "title": "信息可视化设计",
+      "summary": "信息可视化以数据为墨以屏幕为纸，图表如地图如网络如树如流，将...",
+      "full_text": "信息可视化以数据为墨以屏幕为纸，图表如地图如网络如树如流，将复杂数据转化为直觉认知，为大数据时代最重要的设计技能。",
       "image": "res://assets/images/illustrations/design/design_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "design_052",
-      "title": "高田贤三丛林印花",
-      "summary": "高田贤三以鲜艳热带印花设计的时装",
-      "full_text": "高田贤三以鲜艳热带印花设计的时装",
+      "title": "服务设计思维",
+      "summary": "服务设计以用户旅程为线索，触点如线如面如网如系统，为服务体验...",
+      "full_text": "服务设计以用户旅程为线索，触点如线如面如网如系统，为服务体验的全流程创新提供方法论，为设计思维在商业领域的深化。",
       "image": "res://assets/images/illustrations/design/design_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "design_053",
-      "title": "阿玛尼权力套装",
-      "summary": "阿玛尼以柔软肩线重新定义的男士商务套装",
-      "full_text": "阿玛尼以柔软肩线重新定义的男士商务套装",
+      "title": "拉姆斯设计十诫",
+      "summary": "德国设计师拉姆斯提出好设计十原则，创新如实用如美学如易懂如谦...",
+      "full_text": "德国设计师拉姆斯提出好设计十原则，创新如实用如美学如易懂如谦逊如诚实如持久如细致如环保如少，为现代设计伦理的基石。",
       "image": "res://assets/images/illustrations/design/design_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "design_054",
-      "title": "汉服传统形制",
-      "summary": "中国传统汉服以交领右衽宽袍大袖为特征的服饰",
-      "full_text": "中国传统汉服以交领右衽宽袍大袖为特征的服饰",
+      "title": "莫里斯红屋",
+      "summary": "英国设计师莫里斯建造红屋，以手工艺对抗工业批量生产的粗糙，为...",
+      "full_text": "英国设计师莫里斯建造红屋，以手工艺对抗工业批量生产的粗糙，为工艺美术运动的发端，深刻影响现代设计对手工艺价值的重新认识。",
       "image": "res://assets/images/illustrations/design/design_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "design_055",
-      "title": "苹果iPhone初代界面",
-      "summary": "苹果以多点触控与图标网格设计的手机界面",
-      "full_text": "苹果以多点触控与图标网格设计的手机界面",
+      "title": "包豪斯宣言",
+      "summary": "格罗皮乌斯一九一九年创立包豪斯，宣言一切创造活动最终皆为建筑...",
+      "full_text": "格罗皮乌斯一九一九年创立包豪斯，宣言一切创造活动最终皆为建筑，将艺术与技术统一，为现代设计教育体系的奠基。",
       "image": "res://assets/images/illustrations/design/design_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "design_056",
-      "title": "苹果iOS扁平化设计",
-      "summary": "苹果以去除拟物化纹理的扁平视觉语言",
-      "full_text": "苹果以去除拟物化纹理的扁平视觉语言",
+      "title": "风格派运动",
+      "summary": "荷兰风格派以蒙德里安为代表，仅以红黄蓝与直线构成画面如纯粹如...",
+      "full_text": "荷兰风格派以蒙德里安为代表，仅以红黄蓝与直线构成画面如纯粹如理性如秩序如宇宙，为现代设计提供最极简的视觉语法。",
       "image": "res://assets/images/illustrations/design/design_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "design_057",
-      "title": "谷歌Material Design",
-      "summary": "谷歌以材质隐喻与阴影层级的设计系统",
-      "full_text": "谷歌以材质隐喻与阴影层级的设计系统",
+      "title": "流线型运动",
+      "summary": "一九三〇年代美国流线型运动，以空气动力学曲线如速如风如未来如...",
+      "full_text": "一九三〇年代美国流线型运动，以空气动力学曲线如速如风如未来如科技，为从火车到铅笔的一切赋予速度感，为工业设计的民主化浪潮。",
       "image": "res://assets/images/illustrations/design/design_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "design_058",
-      "title": "微软Metro界面",
-      "summary": "微软以磁贴排版设计的扁平化操作系统界面",
-      "full_text": "微软以磁贴排版设计的扁平化操作系统界面",
+      "title": "有机设计",
+      "summary": "北欧有机设计以自然曲线如木如藤如叶如枝，为工业化产品注入生命...",
+      "full_text": "北欧有机设计以自然曲线如木如藤如叶如枝，为工业化产品注入生命温度与人文关怀，为斯堪的纳维亚设计的核心精神。",
       "image": "res://assets/images/illustrations/design/design_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "design_059",
-      "title": "Macintosh图形界面",
-      "summary": "苹果以窗口图标菜单指针设计的图形用户界面",
-      "full_text": "苹果以窗口图标菜单指针设计的图形用户界面",
+      "title": "波普设计",
+      "summary": "六十年代波普设计以大众文化为灵感，艳如色如俗如乐如消如费，挑...",
+      "full_text": "六十年代波普设计以大众文化为灵感，艳如色如俗如乐如消如费，挑战精英审美的垄断，为设计史上最狂欢的反叛运动。",
       "image": "res://assets/images/illustrations/design/design_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "design_060",
-      "title": "施乐Alto图形界面",
-      "summary": "施乐帕罗奥图研究中心首创的图形用户界面",
-      "full_text": "施乐帕罗奥图研究中心首创的图形用户界面",
+      "title": "后现代设计",
+      "summary": "八十年代后现代设计以装饰与隐喻反抗现代主义的冷漠，如戏如谑如...",
+      "full_text": "八十年代后现代设计以装饰与隐喻反抗现代主义的冷漠，如戏如谑如引如典如乐如趣，为设计重新注入人文与历史的温度。",
       "image": "res://assets/images/illustrations/design/design_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "design_061",
-      "title": "MIT媒体实验室交互",
-      "summary": "麻省理工以手势识别与投影的创新交互实验",
-      "full_text": "麻省理工以手势识别与投影的创新交互实验",
+      "title": "绿色设计",
+      "summary": "绿色设计以可持续发展为原则，减如省如循如环如再如生，为设计注...",
+      "full_text": "绿色设计以可持续发展为原则，减如省如循如环如再如生，为设计注入环境伦理，为二十一世纪设计最重要的价值转向。",
       "image": "res://assets/images/illustrations/design/design_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "design_062",
-      "title": "触屏手势交互设计",
-      "summary": "以滑动捏合旋转等手势操控的触屏交互范式",
-      "full_text": "以滑动捏合旋转等手势操控的触屏交互范式",
+      "title": "情感化设计",
+      "summary": "美国心理学家诺曼提出情感化设计三层次，本能如行为如反思如感如...",
+      "full_text": "美国心理学家诺曼提出情感化设计三层次，本能如行为如反思如感如悟，为产品设计注入情感价值，超越功能至上的理性主义。",
       "image": "res://assets/images/illustrations/design/design_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "design_063",
-      "title": "语音交互界面设计",
-      "summary": "以语音识别与自然语言处理为基础的交互设计",
-      "full_text": "以语音识别与自然语言处理为基础的交互设计",
+      "title": "参与式设计",
+      "summary": "参与式设计以用户为中心共创，让使用者参与设计过程如民如主如共...",
+      "full_text": "参与式设计以用户为中心共创，让使用者参与设计过程如民如主如共如创，为设计民主化的最新实践。",
       "image": "res://assets/images/illustrations/design/design_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "design_064",
-      "title": "虚拟现实交互",
-      "summary": "以头戴显示器与手柄操控的沉浸式交互体验",
-      "full_text": "以头戴显示器与手柄操控的沉浸式交互体验",
+      "title": "密斯少即是多",
+      "summary": "密斯凡德罗以少即是多为信条，玻璃钢骨如透如轻如浮如空，为极简...",
+      "full_text": "密斯凡德罗以少即是多为信条，玻璃钢骨如透如轻如浮如空，为极简主义建筑设计的最高准则，深刻影响现代城市天际线。",
       "image": "res://assets/images/illustrations/design/design_064.jpg",
       "image_grid": {
         "x": 3,
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "design_065",
-      "title": "增强现实界面",
-      "summary": "以叠加虚拟信息于真实场景的AR交互设计",
-      "full_text": "以叠加虚拟信息于真实场景的AR交互设计",
+      "title": "柯布西耶模度",
+      "summary": "柯布西耶以人体比例为基准创立模度体系，如数如理如比例如和谐，...",
+      "full_text": "柯布西耶以人体比例为基准创立模度体系，如数如理如比例如和谐，为建筑与工业设计提供科学的人体尺度依据。",
       "image": "res://assets/images/illustrations/design/design_065.jpg",
       "image_grid": {
         "x": 3,
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "design_066",
-      "title": "智能家居控制界面",
-      "summary": "以手机App控制家电的物联网交互设计",
-      "full_text": "以手机App控制家电的物联网交互设计",
+      "title": "赖特有机建筑",
+      "summary": "美国建筑师赖特提出有机建筑理念，建筑如树如山如石如地如生如长...",
+      "full_text": "美国建筑师赖特提出有机建筑理念，建筑如树如山如石如地如生如长，为建筑与自然和谐共生的设计哲学。",
       "image": "res://assets/images/illustrations/design/design_066.jpg",
       "image_grid": {
         "x": 3,
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "design_067",
-      "title": "无障碍交互设计",
-      "summary": "为视障听障等用户提供无障碍体验的交互设计",
-      "full_text": "为视障听障等用户提供无障碍体验的交互设计",
+      "title": "中式园林设计",
+      "summary": "中国古典园林以借景如框如透如漏如藏如露，小中见大如画如诗如梦...",
+      "full_text": "中国古典园林以借景如框如透如漏如藏如露，小中见大如画如诗如梦如幻，为世界园林设计最富诗意的空间艺术。",
       "image": "res://assets/images/illustrations/design/design_067.jpg",
       "image_grid": {
         "x": 3,
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "design_068",
-      "title": "游戏用户界面设计",
-      "summary": "以血条地图技能栏等元素的游戏HUD设计",
-      "full_text": "以血条地图技能栏等元素的游戏HUD设计",
+      "title": "日式侘寂空间",
+      "summary": "日本侘寂美学以不完美为美，素如朴如寂如静如残如缺，为室内空间...",
+      "full_text": "日本侘寂美学以不完美为美，素如朴如寂如静如残如缺，为室内空间设计最富禅意的东方美学。",
       "image": "res://assets/images/illustrations/design/design_068.jpg",
       "image_grid": {
         "x": 3,
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "design_069",
-      "title": "车载交互系统",
-      "summary": "以触屏旋钮语音控制的车载信息娱乐界面",
-      "full_text": "以触屏旋钮语音控制的车载信息娱乐界面",
+      "title": "开放式办公设计",
+      "summary": "开放式办公以透明如平如等如协作为理念，打破隔墙如通如透如流如...",
+      "full_text": "开放式办公以透明如平如等如协作为理念，打破隔墙如通如透如流如动，为知识工作者创造交流碰撞的空间。",
       "image": "res://assets/images/illustrations/design/design_069.jpg",
       "image_grid": {
         "x": 3,

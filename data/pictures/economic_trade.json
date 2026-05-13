@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "economic_trade_000",
-      "title": "原始物物交换",
-      "summary": "远古猎人在集市上用兽皮交换石斧，以物易物满足各自需求",
-      "full_text": "远古猎人在集市上用兽皮交换石斧，以物易物满足各自需求",
+      "title": "物物交换的起源",
+      "summary": "在远古集市上，牧羊人用三只羊换取农夫的一袋谷物，贝壳和盐块充...",
+      "full_text": "在远古集市上，牧羊人用三只羊换取农夫的一袋谷物，贝壳和盐块充当最早的货币。交易在部落间的空地上进行，长老们监督着公平交换，这是人类商业活动的最初形态。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "economic_trade_001",
-      "title": "贝壳货币流通",
-      "summary": "先民将贝壳穿孔串成项链充当货币，贝壳成为最早交换媒介",
-      "full_text": "先民将贝壳穿孔串成项链充当货币，贝壳成为最早交换媒介",
+      "title": "美索不达米亚商业",
+      "summary": "苏美尔商人在泥板上记录每一笔交易，银舍克勒成为标准计量单位。...",
+      "full_text": "苏美尔商人在泥板上记录每一笔交易，银舍克勒成为标准计量单位。神庙既是宗教中心也是商业枢纽，祭司们管理着庞大的仓储系统，最早的信贷和利息概念在这里萌芽。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "economic_trade_002",
-      "title": "苏美尔银币制度",
-      "summary": "苏美尔商人以标准银舍克勒作为计价单位，银块称量完成交易",
-      "full_text": "苏美尔商人以标准银舍克勒作为计价单位，银块称量完成交易",
+      "title": "古埃及经济体系",
+      "summary": "尼罗河的定期泛滥带来肥沃土壤，法老通过官僚体系征收谷物税。金...",
+      "full_text": "尼罗河的定期泛滥带来肥沃土壤，法老通过官僚体系征收谷物税。金字塔建造工程带动了庞大的物流体系，工匠们领取国家配给的面包和啤酒，计划经济的雏形在古埃及已经显现。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "economic_trade_003",
-      "title": "丝绸之路开通",
-      "summary": "张骞持节穿越河西走廊到达大宛，东西方贸易通道由此贯通",
-      "full_text": "张骞持节穿越河西走廊到达大宛，东西方贸易通道由此贯通",
+      "title": "中国商周贝币",
+      "summary": "商代贵族以海贝为货币，甲骨文中贝字频繁出现。周代发展出布币和...",
+      "full_text": "商代贵族以海贝为货币，甲骨文中贝字频繁出现。周代发展出布币和刀币，金属货币开始流通。商人驾车载货穿行于列国之间，管仲设盐铁官营开创国家干预经济的先河。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "economic_trade_004",
-      "title": "埃及谷物贸易",
-      "summary": "埃及粮商在尼罗河码头装运小麦，莎草纸记录粮食价格与数量",
-      "full_text": "埃及粮商在尼罗河码头装运小麦，莎草纸记录粮食价格与数量",
+      "title": "古希腊商业城邦",
+      "summary": "雅典的比雷埃夫斯港商船云集，橄榄油和陶器换回黑海的粮食和波斯...",
+      "full_text": "雅典的比雷埃夫斯港商船云集，橄榄油和陶器换回黑海的粮食和波斯的奢侈品。商人议价声此起彼伏，银币叮当作响，商业繁荣催生了民主政治和哲学思辨。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "economic_trade_005",
-      "title": "吕底亚铸币",
-      "summary": "吕底亚工匠在琥珀金上压印狮子图案，世界首枚铸币诞生",
-      "full_text": "吕底亚工匠在琥珀金上压印狮子图案，世界首枚铸币诞生",
+      "title": "罗马帝国的贸易网",
+      "summary": "条条大路通罗马，帝国大道上商队络绎不绝。罗马商人从印度进口香...",
+      "full_text": "条条大路通罗马，帝国大道上商队络绎不绝。罗马商人从印度进口香料和丝绸，从西班牙运来银矿，从不列颠获取锡矿。统一的货币和法律体系使地中海成为罗马的内湖。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "economic_trade_006",
-      "title": "腓尼基紫色染料",
-      "summary": "腓尼基人从海螺中提取紫色染料，一盎司染料价值等同黄金",
-      "full_text": "腓尼基人从海螺中提取紫色染料，一盎司染料价值等同黄金",
+      "title": "丝绸之路开通",
+      "summary": "张骞凿空西域后，丝绸之路将长安与罗马连接起来。骆驼商队穿越戈...",
+      "full_text": "张骞凿空西域后，丝绸之路将长安与罗马连接起来。骆驼商队穿越戈壁沙漠，中国丝绸、茶叶和瓷器西行，西域的葡萄、胡麻和良马东来，东西方文明在贸易中交融。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "economic_trade_007",
-      "title": "中国青铜贝币",
-      "summary": "商周时期铸造青铜贝币替代天然海贝，金属货币开始流通",
-      "full_text": "商周时期铸造青铜贝币替代天然海贝，金属货币开始流通",
+      "title": "唐代长安东西市",
+      "summary": "大唐长安城东西两市商贾云集，胡商牵着骆驼带来异域珍宝。波斯银...",
+      "full_text": "大唐长安城东西两市商贾云集，胡商牵着骆驼带来异域珍宝。波斯银器、天竺香料、大食宝石琳琅满目，飞钱和柜坊开创了汇兑和储蓄的先河，长安成为世界贸易中心。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "economic_trade_008",
-      "title": "印度香料贸易",
-      "summary": "印度商人将胡椒与肉桂装船运往红海港口，香料价比黄金",
-      "full_text": "印度商人将胡椒与肉桂装船运往红海港口，香料价比黄金",
+      "title": "宋代纸币交子",
+      "summary": "北宋四川商人发明了世界上最早的纸币交子，取代了笨重的铁钱。交...",
+      "full_text": "北宋四川商人发明了世界上最早的纸币交子，取代了笨重的铁钱。交子铺户信用担保，政府设立益州交子务统一发行，金融创新走在世界前列，商业信用体系初步建立。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "economic_trade_009",
-      "title": "波斯皇家商路",
-      "summary": "波斯御道上商队络绎不绝，驿站为旅人提供食宿与换马服务",
-      "full_text": "波斯御道上商队络绎不绝，驿站为旅人提供食宿与换马服务",
+      "title": "阿拉伯商业帝国",
+      "summary": "阿拉伯商人横跨三大洲，从西班牙的科尔多瓦到中国的广州都有他们...",
+      "full_text": "阿拉伯商人横跨三大洲，从西班牙的科尔多瓦到中国的广州都有他们的足迹。伊斯兰教义规范商业行为，苏克集市上香料、纺织品和手工艺品交易繁忙，信用票据和合伙制度日趋完善。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "economic_trade_010",
-      "title": "希腊橄榄油出口",
-      "summary": "雅典陶瓶中盛满橄榄油装船出口，双耳瓶堆满比雷埃夫斯港",
-      "full_text": "雅典陶瓶中盛满橄榄油装船出口，双耳瓶堆满比雷埃夫斯港",
+      "title": "威尼斯商业共和国",
+      "summary": "威尼斯商人掌控着地中海贸易命脉，复式记账法在这里诞生。总督宫...",
+      "full_text": "威尼斯商人掌控着地中海贸易命脉，复式记账法在这里诞生。总督宫旁的里亚尔托桥上银行家们交易票据，香料和丝绸的利润支撑起这座水上城市的辉煌，现代金融体系在此萌芽。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "economic_trade_011",
-      "title": "罗马金币流通",
-      "summary": "罗马奥里斯金币在地中海世界广泛流通，皇帝头像铸于币面",
-      "full_text": "罗马奥里斯金币在地中海世界广泛流通，皇帝头像铸于币面",
+      "title": "汉萨同盟",
+      "summary": "北德意志的商人们结成汉萨同盟，控制着从伦敦到诺夫哥罗德的波罗...",
+      "full_text": "北德意志的商人们结成汉萨同盟，控制着从伦敦到诺夫哥罗德的波罗的海贸易。同盟城市享有贸易特权，商站遍布欧洲，统一的商业法规和海上护航制度保障了贸易安全。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "economic_trade_012",
-      "title": "汉朝五铢钱",
-      "summary": "汉武帝统一铸造五铢钱通行天下，铜钱外圆内方沿用七百年",
-      "full_text": "汉武帝统一铸造五铢钱通行天下，铜钱外圆内方沿用七百年",
+      "title": "大航海时代开启",
+      "summary": "一四九八年达伽马绕过好望角抵达印度，海上丝绸之路由此开通。葡...",
+      "full_text": "一四九八年达伽马绕过好望角抵达印度，海上丝绸之路由此开通。葡萄牙人在果阿建立贸易据点，香料价格暴跌改变了欧洲经济格局，大航海时代开启了全球化的序幕。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "economic_trade_013",
-      "title": "中国丝绸西传",
-      "summary": "丝绸经河西走廊运往罗马，贵族以穿着丝绸彰显身份地位",
-      "full_text": "丝绸经河西走廊运往罗马，贵族以穿着丝绸彰显身份地位",
+      "title": "西班牙白银贸易",
+      "summary": "波托西银矿出产的白银经马尼拉大帆船运往亚洲，西班牙银元成为世...",
+      "full_text": "波托西银矿出产的白银经马尼拉大帆船运往亚洲，西班牙银元成为世界货币。白银流动连接了三大洲的经济，通货膨胀席卷欧洲，价格革命深刻改变了社会经济结构。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "economic_trade_014",
-      "title": "阿拉伯乳香之路",
-      "summary": "阿拉伯商队沿半岛西岸运送乳香，香料在神庙祭典中大量消耗",
-      "full_text": "阿拉伯商队沿半岛西岸运送乳香，香料在神庙祭典中大量消耗",
+      "title": "荷兰东印度公司",
+      "summary": "一六〇二年荷兰东印度公司成立，发行了世界上第一支股票。阿姆斯...",
+      "full_text": "一六〇二年荷兰东印度公司成立，发行了世界上第一支股票。阿姆斯特丹证券交易所人声鼎沸，公司拥有铸币权和缔约权，武装商船垄断了香料贸易，开创了现代公司制度的先河。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "economic_trade_015",
-      "title": "东南亚香料群岛",
-      "summary": "马鲁古群岛居民采摘丁香与肉豆蔻，香料吸引远方商人前来",
-      "full_text": "马鲁古群岛居民采摘丁香与肉豆蔻，香料吸引远方商人前来",
+      "title": "英国东印度公司",
+      "summary": "英国东印度公司从贸易据点起步，逐步控制了整个印度次大陆。鸦片...",
+      "full_text": "英国东印度公司从贸易据点起步，逐步控制了整个印度次大陆。鸦片贸易侵蚀着中国的经济命脉，茶叶和棉花的利润流向伦敦，殖民贸易的残酷与商业资本的扩张交织在一起。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "economic_trade_016",
-      "title": "罗马埃及粮食",
-      "summary": "埃及运粮船满载小麦驶往罗马，帝国都城依赖尼罗河粮仓",
-      "full_text": "埃及运粮船满载小麦驶往罗马，帝国都城依赖尼罗河粮仓",
+      "title": "三角贸易",
+      "summary": "欧洲商船从利物浦出发，将工业品运往西非换取奴隶，奴隶被贩卖到...",
+      "full_text": "欧洲商船从利物浦出发，将工业品运往西非换取奴隶，奴隶被贩卖到美洲种植园，蔗糖和棉花再运回欧洲。三角贸易持续数百年，非洲损失了上亿人口，资本主义的原始积累浸透着血泪。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "economic_trade_017",
-      "title": "匈奴皮毛贸易",
-      "summary": "匈奴牧民在边市用马匹皮毛交换中原丝绸与粮食",
-      "full_text": "匈奴牧民在边市用马匹皮毛交换中原丝绸与粮食",
+      "title": "工业革命与工厂制",
+      "summary": "曼彻斯特的棉纺厂烟囱林立，蒸汽机轰鸣不息。工厂制取代了家庭手...",
+      "full_text": "曼彻斯特的棉纺厂烟囱林立，蒸汽机轰鸣不息。工厂制取代了家庭手工业，工人涌入城市成为产业工人。生产效率飞速提升，英国棉布行销全球，世界工厂的称号由此而来。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "economic_trade_018",
-      "title": "蜀身毒道",
-      "summary": "蜀地商队翻越横断山脉经缅甸到达印度，蜀布与竹杖远销身毒",
-      "full_text": "蜀地商队翻越横断山脉经缅甸到达印度，蜀布与竹杖远销身毒",
+      "title": "铁路与全球市场",
+      "summary": "蒸汽机车呼啸着穿越大陆，铁路将原料产地、工厂和市场连为一体。...",
+      "full_text": "蒸汽机车呼啸着穿越大陆，铁路将原料产地、工厂和市场连为一体。芝加哥的粮食、匹兹堡的钢铁、鲁尔的煤炭通过铁路网快速流通，统一的国内市场推动了经济腾飞。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "economic_trade_019",
-      "title": "罗马道路运输",
-      "summary": "罗马大道上四轮马车运送货物，条条大路通罗马促进商业流通",
-      "full_text": "罗马大道上四轮马车运送货物，条条大路通罗马促进商业流通",
+      "title": "金本位制确立",
+      "summary": "十九世纪七十年代，主要资本主义国家相继采用金本位制，各国货币...",
+      "full_text": "十九世纪七十年代，主要资本主义国家相继采用金本位制，各国货币与黄金挂钩。汇率稳定促进了国际贸易，伦敦成为世界金融中心，英镑在国际结算中占据主导地位。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "economic_trade_020",
-      "title": "威尼斯商业帝国",
-      "summary": "威尼斯商人在里亚托桥畔交易东方香料，金币堆满银行柜台",
-      "full_text": "威尼斯商人在里亚托桥畔交易东方香料，金币堆满银行柜台",
+      "title": "大萧条",
+      "summary": "一九二九年华尔街股市崩盘，经济危机席卷全球。银行倒闭、工厂关...",
+      "full_text": "一九二九年华尔街股市崩盘，经济危机席卷全球。银行倒闭、工厂关门、失业率飙升，美国四分之一劳动力失业。罗斯福新政以政府干预挽救经济，凯恩斯主义由此兴起。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "economic_trade_021",
-      "title": "汉萨同盟",
-      "summary": "北德商人在吕贝克召开同盟会议，统一商法保障成员贸易特权",
-      "full_text": "北德商人在吕贝克召开同盟会议，统一商法保障成员贸易特权",
+      "title": "布雷顿森林体系",
+      "summary": "一九四四年四十四国代表齐聚布雷顿森林，确立了以美元为中心的国...",
+      "full_text": "一九四四年四十四国代表齐聚布雷顿森林，确立了以美元为中心的国际货币体系。美元与黄金挂钩，各国货币与美元挂钩，国际货币基金组织和世界银行随之成立。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "economic_trade_022",
-      "title": "佛罗伦萨银行业",
-      "summary": "美第奇家族在佛罗伦萨开设银行，汇票与信用网络遍及欧洲",
-      "full_text": "美第奇家族在佛罗伦萨开设银行，汇票与信用网络遍及欧洲",
+      "title": "关贸总协定",
+      "summary": "一九四七年关贸总协定签署，开启了全球贸易自由化进程。多轮谈判...",
+      "full_text": "一九四七年关贸总协定签署，开启了全球贸易自由化进程。多轮谈判逐步降低关税壁垒，国际贸易快速增长，经济全球化加速推进，世界贸易组织于一九九五年正式取代关贸总协定。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "economic_trade_023",
-      "title": "中世纪行会制度",
-      "summary": "行会师傅在市政厅审核学徒出师作品，质量标准保障行业声誉",
-      "full_text": "行会师傅在市政厅审核学徒出师作品，质量标准保障行业声誉",
+      "title": "亚洲四小龙崛起",
+      "summary": "韩国、新加坡、中国香港和中国台湾在二十世纪六七十年代实现经济...",
+      "full_text": "韩国、新加坡、中国香港和中国台湾在二十世纪六七十年代实现经济腾飞。出口导向战略、产业升级和教育投入使它们从发展中经济体跃升为新兴工业化经济体，创造了东亚奇迹。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "economic_trade_024",
-      "title": "香槟集市",
-      "summary": "欧洲商人在香槟集市上交易佛兰德呢绒与意大利丝绸",
-      "full_text": "欧洲商人在香槟集市上交易佛兰德呢绒与意大利丝绸",
+      "title": "中国经济腾飞",
+      "summary": "改革开放四十余年间，中国GDP增长数百倍，成为世界第二大经济...",
+      "full_text": "改革开放四十余年间，中国GDP增长数百倍，成为世界第二大经济体。加入世贸组织后中国深度融入全球产业链，世界工厂的称号实至名归，数亿人口脱贫创造了人类发展史上的奇迹。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "economic_trade_025",
-      "title": "地中海贸易网络",
-      "summary": "热那亚商船在地中海各港口停靠装卸，航海图谱指引航线",
-      "full_text": "热那亚商船在地中海各港口停靠装卸，航海图谱指引航线",
+      "title": "数字经济时代",
+      "summary": "互联网和移动支付彻底改变了商业模式，电子商务平台连接全球买家...",
+      "full_text": "互联网和移动支付彻底改变了商业模式，电子商务平台连接全球买家和卖家。数据成为新型生产要素，平台经济重塑产业结构，数字货币和区块链技术正在酝酿金融体系的下一场革命。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "economic_trade_026",
-      "title": "宋朝交子纸币",
-      "summary": "四川商人发行交子替代铁钱流通，世界最早纸币在成都诞生",
-      "full_text": "四川商人发行交子替代铁钱流通，世界最早纸币在成都诞生",
+      "title": "全球化与逆全球化",
+      "summary": "二十一世纪全球化深入发展的同时，贸易保护主义和民粹主义也在抬...",
+      "full_text": "二十一世纪全球化深入发展的同时，贸易保护主义和民粹主义也在抬头。英国脱欧、贸易摩擦此起彼伏，全球供应链面临重构，人类在开放与封闭之间寻找新的平衡。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "economic_trade_027",
-      "title": "蒙古驿站商路",
-      "summary": "蒙古帝国驿站体系保障丝路畅通，商队安全穿越欧亚草原",
-      "full_text": "蒙古帝国驿站体系保障丝路畅通，商队安全穿越欧亚草原",
+      "title": "中世纪行会制度",
+      "summary": "中世纪欧洲城市中，面包师、铁匠、织工各自组织行会，严格规定产...",
+      "full_text": "中世纪欧洲城市中，面包师、铁匠、织工各自组织行会，严格规定产品质量与价格。行会师傅考核学徒技艺后授予出师资格，同行之间禁止恶性竞争，行会既是职业组织也是互助团体，塑造了城市经济的秩序。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "economic_trade_028",
-      "title": "伊斯兰银行雏形",
-      "summary": "阿拉伯钱庄以汇票方式跨城转账，避免携带现金的风险",
-      "full_text": "阿拉伯钱庄以汇票方式跨城转账，避免携带现金的风险",
+      "title": "佛罗伦萨银行业",
+      "summary": "美第奇家族的银行遍布罗马、伦敦与布鲁日，汇票让商人在一地存款...",
+      "full_text": "美第奇家族的银行遍布罗马、伦敦与布鲁日，汇票让商人在一地存款另一地取款。教皇的财务由美第奇代理，银行业利润资助了文艺复兴的艺术创作，金融资本与文化繁荣在佛罗伦萨交织共生。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "economic_trade_029",
-      "title": "中世纪采矿",
-      "summary": "矿工在萨克森银矿中用鹤嘴锄开采银矿，白银铸币流入市场",
-      "full_text": "矿工在萨克森银矿中用鹤嘴锄开采银矿，白银铸币流入市场",
+      "title": "香槟集市",
+      "summary": "香槟伯爵领地上的六座城市轮流举办集市，佛兰德斯的呢绒与意大利...",
+      "full_text": "香槟伯爵领地上的六座城市轮流举办集市，佛兰德斯的呢绒与意大利的香料在此交换。集市期间商人受特别法律保护，公证人与货币兑换商为交易服务，香槟集市是中世纪欧洲最重要的国际贸易中心。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "economic_trade_030",
-      "title": "佛兰德毛纺织",
-      "summary": "佛兰德织工在作坊中纺织英格兰羊毛，呢绒远销欧洲各地",
-      "full_text": "佛兰德织工在作坊中纺织英格兰羊毛，呢绒远销欧洲各地",
+      "title": "热那亚海上贸易",
+      "summary": "热那亚商人控制着西地中海贸易，在黑海沿岸建立殖民据点收购丝绸...",
+      "full_text": "热那亚商人控制着西地中海贸易，在黑海沿岸建立殖民据点收购丝绸与谷物。热那亚航海家发明了航海保险与合股经营，海上共和国与威尼斯争夺地中海霸权数百年，商业竞争推动了航海技术的进步。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "economic_trade_031",
-      "title": "宋朝海外贸易",
-      "summary": "泉州港停泊各国商船，市舶司征收关税管理海外贸易",
-      "full_text": "泉州港停泊各国商船，市舶司征收关税管理海外贸易",
+      "title": "佛兰德斯纺织业",
+      "summary": "佛兰德斯的根特与布鲁日是中世纪欧洲的纺织中心，英国羊毛经海峡...",
+      "full_text": "佛兰德斯的根特与布鲁日是中世纪欧洲的纺织中心，英国羊毛经海峡运来织成精细呢绒。织工在作坊中操作织机，染工用菘蓝与茜草染出鲜艳色彩，佛兰德斯呢绒行销全欧，纺织贸易催生了欧洲最早的工业城市。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "economic_trade_032",
-      "title": "基辅罗斯商路",
-      "summary": "罗斯商人沿第聂伯河将皮毛与蜂蜜运往拜占庭换取丝绸",
-      "full_text": "罗斯商人沿第聂伯河将皮毛与蜂蜜运往拜占庭换取丝绸",
+      "title": "中世纪商人法",
+      "summary": "商人在各地集市上形成了通用的商业惯例，汇票、信用证与合伙契约...",
+      "full_text": "商人在各地集市上形成了通用的商业惯例，汇票、信用证与合伙契约成为标准文书。商事法庭由商人自己组成，依据商业习惯而非封建法律裁决纠纷，商人法是现代商法的直接源头。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "economic_trade_033",
-      "title": "中世纪集市",
-      "summary": "乡村集市上农妇售卖鸡蛋与奶酪，巡回商贩摆摊叫卖杂货",
-      "full_text": "乡村集市上农妇售卖鸡蛋与奶酪，巡回商贩摆摊叫卖杂货",
+      "title": "中世纪货币制度",
+      "summary": "从银便士到佛罗伦萨金币弗罗林，中世纪货币制度日趋完善。铸币权...",
+      "full_text": "从银便士到佛罗伦萨金币弗罗林，中世纪货币制度日趋完善。铸币权是君主的特权，硬币成色与重量决定其信用。圣殿骑士团经营跨国汇兑业务，朝圣者可在巴黎存款在耶路撒冷取款，早期银行体系初具雏形。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "economic_trade_034",
-      "title": "马穆鲁克转口贸易",
-      "summary": "马穆鲁克苏丹控制红海商路，对印度香料征收高额过境税",
-      "full_text": "马穆鲁克苏丹控制红海商路，对印度香料征收高额过境税",
+      "title": "中世纪农业经济",
+      "summary": "庄园是中世纪欧洲基本的经济单位，领主自营地与农奴份地交织。三...",
+      "full_text": "庄园是中世纪欧洲基本的经济单位，领主自营地与农奴份地交织。三圃轮作制提高了土地利用率，水磨与风磨节省了人力，农业剩余产品流入城市市场，庄园经济的缓慢商品化推动着封建制度的松动。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "economic_trade_035",
-      "title": "明朝朝贡贸易",
-      "summary": "各国使臣在京城呈献方物，朝廷回赐丝绸瓷器彰显天朝恩典",
-      "full_text": "各国使臣在京城呈献方物，朝廷回赐丝绸瓷器彰显天朝恩典",
+      "title": "采邑制与封建经济",
+      "summary": "国王将土地分封给领主，领主再分封给骑士，层层封授形成封建等级...",
+      "full_text": "国王将土地分封给领主，领主再分封给骑士，层层封授形成封建等级。农奴在领主土地上劳作缴纳实物地租，骑士以军事服役换取采邑，封君封臣的权利义务关系是中世纪欧洲经济与社会的基石。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "economic_trade_036",
-      "title": "日本朱印船贸易",
-      "summary": "朱印船持将军许可证驶往东南亚，日本商人在会安建立商馆",
-      "full_text": "朱印船持将军许可证驶往东南亚，日本商人在会安建立商馆",
+      "title": "中世纪采矿业",
+      "summary": "萨克森和波希米亚的银矿为欧洲提供了大量贵金属，矿工用畜力抽水...",
+      "full_text": "萨克森和波希米亚的银矿为欧洲提供了大量贵金属，矿工用畜力抽水机排出矿井积水。银产量增长刺激了货币流通，采矿城镇迅速繁荣，银矿财富成为神圣罗马帝国诸侯权力的重要支柱。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "economic_trade_037",
-      "title": "朝鲜贡赋制度",
-      "summary": "朝鲜各道向汉城运送贡物，米粮布匹充实王室仓库",
-      "full_text": "朝鲜各道向汉城运送贡物，米粮布匹充实王室仓库",
+      "title": "中世纪城市经济",
+      "summary": "商人与手工业者用金钱向领主购买城市特许状，获得自治权利。市政...",
+      "full_text": "商人与手工业者用金钱向领主购买城市特许状，获得自治权利。市政厅钟楼高耸于市集广场，行会师傅制定产品质量标准，城市法庭独立审判，城市自治打破了封建等级制度，市民阶层由此崛起。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "economic_trade_038",
-      "title": "奥斯曼商队旅馆",
-      "summary": "奥斯曼帝国在商路上修建客栈，商队在此歇脚补给安全过夜",
-      "full_text": "奥斯曼帝国在商路上修建客栈，商队在此歇脚补给安全过夜",
+      "title": "地中海贸易竞争",
+      "summary": "威尼斯与热那亚为争夺地中海贸易霸权征战数百年，战舰在亚得里亚...",
+      "full_text": "威尼斯与热那亚为争夺地中海贸易霸权征战数百年，战舰在亚得里亚海与第勒尼安海交锋。威尼斯控制了东方香料进入欧洲的通道，热那亚则在黑海建立殖民据点，两大海上共和国的竞争推动了航海与金融创新。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "economic_trade_039",
-      "title": "哥伦布到达美洲",
-      "summary": "哥伦布船队在加勒比海岛登陆，新大陆向欧洲贸易敞开大门",
-      "full_text": "哥伦布船队在加勒比海岛登陆，新大陆向欧洲贸易敞开大门",
+      "title": "葡萄牙香料航线",
+      "summary": "达伽马绕过好望角抵达印度卡利卡特，葡萄牙人建立了从里斯本到果...",
+      "full_text": "达伽马绕过好望角抵达印度卡利卡特，葡萄牙人建立了从里斯本到果阿的香料航线。胡椒、肉桂与丁香不再经阿拉伯商人转手，价格骤降令威尼斯商人恐慌，葡萄牙海上帝国垄断了东方贸易近百年。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "economic_trade_040",
-      "title": "西班牙白银贸易",
-      "summary": "西班牙大帆船将波托西白银运往马尼拉，换取中国丝绸瓷器",
-      "full_text": "西班牙大帆船将波托西白银运往马尼拉，换取中国丝绸瓷器",
+      "title": "西班牙美洲白银",
+      "summary": "波托西银矿年产白银数百吨，西班牙珍宝船队将白银运回塞维利亚。...",
+      "full_text": "波托西银矿年产白银数百吨，西班牙珍宝船队将白银运回塞维利亚。美洲白银经马尼拉大帆船流入中国换取丝绸瓷器，全球第一条跨太平洋贸易线由此开通，白银成为十六世纪世界贸易的血液。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "economic_trade_041",
-      "title": "荷兰东印度公司",
-      "summary": "东印度公司商船在巴达维亚卸货，股份制公司开创现代商业",
-      "full_text": "东印度公司商船在巴达维亚卸货，股份制公司开创现代商业",
+      "title": "马尼拉大帆船贸易",
+      "summary": "西班牙大帆船每年从马尼拉驶往阿卡普尔科，满载中国丝绸与瓷器换...",
+      "full_text": "西班牙大帆船每年从马尼拉驶往阿卡普尔科，满载中国丝绸与瓷器换取美洲白银。华人商人在马尼拉聚居区经营贸易，大帆船贸易持续二百五十年，连接了东亚与美洲的经济，是早期全球化的关键纽带。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "economic_trade_042",
-      "title": "英国东印度公司",
-      "summary": "东印度公司在孟加拉收购棉花与茶叶，武装商船控制印度贸易",
-      "full_text": "东印度公司在孟加拉收购棉花与茶叶，武装商船控制印度贸易",
+      "title": "荷兰海上马车夫",
+      "summary": "十七世纪荷兰拥有万余艘商船，垄断了欧洲的航运与贸易。阿姆斯特...",
+      "full_text": "十七世纪荷兰拥有万余艘商船，垄断了欧洲的航运与贸易。阿姆斯特丹是世界的仓库与交易所，鲱鱼捕捞业为远洋贸易积累了第一桶金，荷兰人以低成本高效率的海运服务赢得了海上马车夫的称号。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "economic_trade_043",
-      "title": "三角贸易航线",
-      "summary": "商船将朗姆酒运往非洲换奴隶，奴隶运往美洲换棉花糖浆",
-      "full_text": "商船将朗姆酒运往非洲换奴隶，奴隶运往美洲换棉花糖浆",
+      "title": "英国重商主义政策",
+      "summary": "英国推行重商主义，通过航海法案限制殖民地贸易必须使用英国船只...",
+      "full_text": "英国推行重商主义，通过航海法案限制殖民地贸易必须使用英国船只。殖民地原料只能出口至英国，制造业产品只能从英国进口，贸易顺差积累金银，重商主义为英国工业革命奠定了资本基础。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "economic_trade_044",
-      "title": "马尼拉大帆船",
-      "summary": "西班牙大帆船横渡太平洋将白银运往马尼拉，换回中国丝绸",
-      "full_text": "西班牙大帆船横渡太平洋将白银运往马尼拉，换回中国丝绸",
+      "title": "大西洋蔗糖贸易",
+      "summary": "加勒比海种植园大量生产蔗糖，由奴隶在烈日下砍伐甘蔗熬制。蔗糖...",
+      "full_text": "加勒比海种植园大量生产蔗糖，由奴隶在烈日下砍伐甘蔗熬制。蔗糖从奢侈品变为大众消费品，英国人均糖消费量百年间增长二十倍，甜蜜的蔗糖背后是奴隶的血泪与大西洋贸易的残酷利润。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "economic_trade_045",
-      "title": "葡萄牙香料垄断",
-      "summary": "葡萄牙战船控制霍尔木兹海峡，垄断印度洋香料贸易航线",
-      "full_text": "葡萄牙战船控制霍尔木兹海峡，垄断印度洋香料贸易航线",
+      "title": "跨大西洋奴隶贸易",
+      "summary": "欧洲商船从利物浦出发将工业品运往西非，用火枪和纺织品换取奴隶...",
+      "full_text": "欧洲商船从利物浦出发将工业品运往西非，用火枪和纺织品换取奴隶。奴隶被锁在船舱中横渡大西洋，幸存者在美洲拍卖场上被标价出售，三百年间约一千二百万非洲人被贩卖，资本主义的原始积累浸透着血泪。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "economic_trade_046",
-      "title": "阿姆斯特丹交易所",
-      "summary": "阿姆斯特丹证券交易所人声鼎沸，郁金香期货价格剧烈波动",
-      "full_text": "阿姆斯特丹证券交易所人声鼎沸，郁金香期货价格剧烈波动",
+      "title": "东印度公司争霸",
+      "summary": "荷兰与英国东印度公司在亚洲展开激烈竞争，武装商船在印度洋上交...",
+      "full_text": "荷兰与英国东印度公司在亚洲展开激烈竞争，武装商船在印度洋上交火。荷兰人垄断了香料群岛的贸易，英国人则逐步控制了印度棉布贸易，两家公司的争霸重塑了亚洲的贸易格局与政治版图。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "economic_trade_047",
-      "title": "法国重商主义",
-      "summary": "科尔贝推行保护关税政策，法国工场生产奢侈品替代进口",
-      "full_text": "科尔贝推行保护关税政策，法国工场生产奢侈品替代进口",
+      "title": "波罗的海谷物贸易",
+      "summary": "波兰和普鲁士的谷物经但泽港出口至西欧，荷兰商船承担了大部分运...",
+      "full_text": "波兰和普鲁士的谷物经但泽港出口至西欧，荷兰商船承担了大部分运输。阿姆斯特丹谷物交易所决定着欧洲粮价，波罗的海贸易是北欧经济的命脉，粮食贸易的稳定关系着欧洲城市的生存。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "economic_trade_048",
-      "title": "大西洋捕鲸业",
-      "summary": "捕鲸船在南大西洋追击鲸鱼，鲸油点亮欧洲城市街灯",
-      "full_text": "捕鲸船在南大西洋追击鲸鱼，鲸油点亮欧洲城市街灯",
+      "title": "加拿大皮毛贸易",
+      "summary": "法国皮毛商深入北美内陆，与印第安人交换海狸皮。蒙特利尔成为皮...",
+      "full_text": "法国皮毛商深入北美内陆，与印第安人交换海狸皮。蒙特利尔成为皮毛贸易中心，海狸皮制成的毡帽风靡欧洲，皮毛贸易推动了北美殖民扩张，也改变了印第安人的生活方式与社会结构。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "economic_trade_049",
-      "title": "加勒比甘蔗种植园",
-      "summary": "奴隶在加勒比甘蔗园中挥刀砍蔗，糖浆熬制成糖运往欧洲",
-      "full_text": "奴隶在加勒比甘蔗园中挥刀砍蔗，糖浆熬制成糖运往欧洲",
+      "title": "巴西红木贸易",
+      "summary": "葡萄牙殖民者在巴西海岸砍伐红木提取红色染料，巴西国名即源于红...",
+      "full_text": "葡萄牙殖民者在巴西海岸砍伐红木提取红色染料，巴西国名即源于红木。红木贸易是巴西最早的经济活动，殖民者与原住民的关系从最初的物物交换逐渐演变为暴力征服，大西洋经济体系由此扩展。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "economic_trade_050",
-      "title": "皮毛贸易",
-      "summary": "法国皮毛商人在北美丛林中与印第安人交换海狸皮",
-      "full_text": "法国皮毛商人在北美丛林中与印第安人交换海狸皮",
+      "title": "中国茶叶贸易",
+      "summary": "英国东印度公司从广州大量进口茶叶，白银源源不断流入中国。为扭...",
+      "full_text": "英国东印度公司从广州大量进口茶叶，白银源源不断流入中国。为扭转贸易逆差，英国向中国走私鸦片，林则徐虎门销烟引发战争。茶叶贸易改变了中英两国的经济关系，也深刻影响了中国的近代命运。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "economic_trade_051",
-      "title": "茶叶贸易",
-      "summary": "英国商船在广州装载茶叶驶往伦敦，下午茶成为英伦风尚",
-      "full_text": "英国商船在广州装载茶叶驶往伦敦，下午茶成为英伦风尚",
+      "title": "咖啡贸易兴起",
+      "summary": "咖啡从也门摩卡港传入欧洲，咖啡馆在伦敦与巴黎如雨后春笋般出现...",
+      "full_text": "咖啡从也门摩卡港传入欧洲，咖啡馆在伦敦与巴黎如雨后春笋般出现。荷兰人将咖啡树苗带到爪哇种植，法国人在马提尼克推广种植，咖啡从奢侈品变为日常饮品，咖啡贸易成为全球最重要的商品贸易之一。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "economic_trade_052",
-      "title": "鸦片贸易",
-      "summary": "英国商人在广州外海卸下鸦片箱，白银外流引发清朝危机",
-      "full_text": "英国商人在广州外海卸下鸦片箱，白银外流引发清朝危机",
+      "title": "可可贸易",
+      "summary": "西班牙人从中美洲带回可可豆，加入糖与香料制成热巧克力风靡欧洲...",
+      "full_text": "西班牙人从中美洲带回可可豆，加入糖与香料制成热巧克力风靡欧洲宫廷。可可种植扩展至西非与东南亚，巧克力从贵族饮品变为大众零食，可可贸易连接了美洲原住民传统与欧洲消费文化。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "economic_trade_053",
-      "title": "波士顿倾茶事件",
-      "summary": "殖民地居民将东印度公司茶叶倒入波士顿港，抗议不公正税收",
-      "full_text": "殖民地居民将东印度公司茶叶倒入波士顿港，抗议不公正税收",
+      "title": "印度棉布贸易",
+      "summary": "印度精细棉布在欧洲供不应求，英国东印度公司大量采购孟加拉棉布...",
+      "full_text": "印度精细棉布在欧洲供不应求，英国东印度公司大量采购孟加拉棉布。英国纺织业者游说议会通过禁令限制印度棉布进口，转而用机器大量仿制，印度棉布贸易的兴衰折射出工业革命对传统手工业的冲击。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "economic_trade_054",
-      "title": "西班牙宝藏船队",
-      "summary": "西班牙宝船队满载美洲金银横渡大西洋，海盗在航线上伏击",
-      "full_text": "西班牙宝船队满载美洲金银横渡大西洋，海盗在航线上伏击",
+      "title": "日本银矿贸易",
+      "summary": "十六世纪日本石见银矿产量占全球三分之一，葡萄牙商人用中国丝绸...",
+      "full_text": "十六世纪日本石见银矿产量占全球三分之一，葡萄牙商人用中国丝绸换取日本白银。日本白银流入中国支撑了明朝的银本位货币改革，中日葡三方贸易构成了东亚经济的重要循环。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "economic_trade_055",
-      "title": "巴西咖啡种植",
-      "summary": "巴西咖啡种植园主监督奴隶采摘红果，咖啡豆装袋运往欧洲",
-      "full_text": "巴西咖啡种植园主监督奴隶采摘红果，咖啡豆装袋运往欧洲",
+      "title": "马六甲海峡争夺",
+      "summary": "马六甲海峡是东西方贸易的咽喉要道，葡萄牙人于一五一一年攻占马...",
+      "full_text": "马六甲海峡是东西方贸易的咽喉要道，葡萄牙人于一五一一年攻占马六甲。此后荷兰与英国相继控制海峡，马六甲的易手标志着亚洲海上贸易主导权的转移，海峡至今仍是全球最繁忙的航运通道之一。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "economic_trade_056",
-      "title": "澳大利亚羊毛贸易",
-      "summary": "澳大利亚牧羊人在广袤牧场剪羊毛，毛包装船运往英国纺织厂",
-      "full_text": "澳大利亚牧羊人在广袤牧场剪羊毛，毛包装船运往英国纺织厂",
+      "title": "好望角航线",
+      "summary": "葡萄牙人在好望角建立补给站，为往返印度洋的商船提供淡水和维修...",
+      "full_text": "葡萄牙人在好望角建立补给站，为往返印度洋的商船提供淡水和维修服务。好望角航线让欧洲人绕过了阿拉伯商人的中间盘剥，直接获取东方商品，这条航线的开通彻底改变了世界贸易的格局。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "economic_trade_057",
-      "title": "英国棉纺工厂",
-      "summary": "蒸汽驱动的纺纱机在曼彻斯特工厂轰鸣，棉纱产量百倍增长",
-      "full_text": "蒸汽驱动的纺纱机在曼彻斯特工厂轰鸣，棉纱产量百倍增长",
+      "title": "加勒比海盗经济",
+      "summary": "十七世纪加勒比海上海盗横行，劫掠西班牙运银船获取巨额财富。部...",
+      "full_text": "十七世纪加勒比海上海盗横行，劫掠西班牙运银船获取巨额财富。部分海盗受英国政府委任成为私掠船长，劫掠所得与政府分成。海盗经济是殖民竞争的副产品，也反映了大航海时代海上秩序的混乱。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "economic_trade_058",
-      "title": "铁路运输革命",
-      "summary": "蒸汽火车在利物浦至曼彻斯特铁路上飞驰，货运成本大幅降低",
-      "full_text": "蒸汽火车在利物浦至曼彻斯特铁路上飞驰，货运成本大幅降低",
+      "title": "大航海时代物价革命",
+      "summary": "美洲白银大量涌入欧洲，货币供应量激增导致物价飞涨。西班牙物价...",
+      "full_text": "美洲白银大量涌入欧洲，货币供应量激增导致物价飞涨。西班牙物价在一百年间上涨四倍，固定收入者陷入贫困，商人却从中获利。物价革命加速了封建制度的瓦解，推动了资本主义的兴起。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "economic_trade_059",
-      "title": "金本位制度",
-      "summary": "英国率先实行金本位制，英镑与黄金挂钩稳定国际汇率",
-      "full_text": "英国率先实行金本位制，英镑与黄金挂钩稳定国际汇率",
+      "title": "瓦特蒸汽机",
+      "summary": "瓦特改良的蒸汽机将热能转化为持续动力，工厂不再依赖河流水力。...",
+      "full_text": "瓦特改良的蒸汽机将热能转化为持续动力，工厂不再依赖河流水力。蒸汽机驱动纺纱机与织布机飞速运转，煤耗大幅降低，动力革命让工业生产突破了地理限制，英国工业革命由此全面加速。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "economic_trade_060",
-      "title": "电报与商业",
-      "summary": "电报线横跨大西洋连接欧美，市场信息瞬息可达改变交易方式",
-      "full_text": "电报线横跨大西洋连接欧美，市场信息瞬息可达改变交易方式",
+      "title": "曼彻斯特棉纺业",
+      "summary": "曼彻斯特的棉纺厂烟囱林立，蒸汽机日夜轰鸣。原棉从美国南方运来...",
+      "full_text": "曼彻斯特的棉纺厂烟囱林立，蒸汽机日夜轰鸣。原棉从美国南方运来，棉纱与棉布行销全球，曼彻斯特从乡村小镇发展为世界棉纺之都。工厂制将工人集中于厂房按时作息，现代工业城市的面貌由此诞生。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "economic_trade_061",
-      "title": "福特流水线",
-      "summary": "福特工厂流水线上汽车每分钟下线，标准化生产降低成本",
-      "full_text": "福特工厂流水线上汽车每分钟下线，标准化生产降低成本",
+      "title": "英国铁路建设",
+      "summary": "斯蒂芬森的蒸汽机车在铁轨上呼啸而过，利物浦至曼彻斯特铁路通车...",
+      "full_text": "斯蒂芬森的蒸汽机车在铁轨上呼啸而过，利物浦至曼彻斯特铁路通车后运费降低一半。铁路建设热潮席卷英国，钢铁与煤炭需求激增，铁路不仅连接了市场，更成为拉动经济增长的巨大引擎。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "economic_trade_062",
-      "title": "石油工业兴起",
-      "summary": "洛克菲勒在克利夫兰炼油厂提炼原油，标准石油垄断美国市场",
-      "full_text": "洛克菲勒在克利夫兰炼油厂提炼原油，标准石油垄断美国市场",
+      "title": "钢铁工业崛起",
+      "summary": "贝塞麦转炉炼钢法让钢铁产量飙升，钢轨取代铁轨，钢架支撑起摩天...",
+      "full_text": "贝塞麦转炉炼钢法让钢铁产量飙升，钢轨取代铁轨，钢架支撑起摩天大楼。卡内基的钢铁帝国从匹兹堡崛起，钢铁成为工业文明的骨骼，从桥梁到战舰，钢铁重塑了十九世纪的世界面貌。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "economic_trade_063",
-      "title": "巴拿马运河通航",
-      "summary": "货轮通过巴拿马运河水闸，大西洋至太平洋航程缩短万里",
-      "full_text": "货轮通过巴拿马运河水闸，大西洋至太平洋航程缩短万里",
+      "title": "工厂制度",
+      "summary": "工厂将工人集中于厂房内按钟声作息，分工细化让每人只完成一道工...",
+      "full_text": "工厂将工人集中于厂房内按钟声作息，分工细化让每人只完成一道工序。童工在纺织机旁每天劳作十四小时，女工工资仅为男工的一半。工厂制度创造了巨大财富，也带来了剥削与贫困，劳资矛盾由此尖锐。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "economic_trade_064",
-      "title": "钢铁大王卡内基",
-      "summary": "卡内基钢铁厂高炉昼夜不停出铁，匹兹堡烟尘笼罩天际",
-      "full_text": "卡内基钢铁厂高炉昼夜不停出铁，匹兹堡烟尘笼罩天际",
+      "title": "自由贸易理论",
+      "summary": "亚当·斯密论证分工与自由贸易能增进国民财富，大卫·李嘉图提出...",
+      "full_text": "亚当·斯密论证分工与自由贸易能增进国民财富，大卫·李嘉图提出比较优势理论。英国废除谷物法开放粮食进口，自由贸易成为维多利亚时代的信条，但殖民地经济却被迫成为原料供应地与商品倾销市场。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_064.jpg",
       "image_grid": {
         "x": 3,
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "economic_trade_065",
-      "title": "大萧条",
-      "summary": "华尔街股民在纽约证券交易所前恐慌抛售，黑色星期四崩盘",
-      "full_text": "华尔街股民在纽约证券交易所前恐慌抛售，黑色星期四崩盘",
+      "title": "铁路股票投机",
+      "summary": "十九世纪英国铁路建设引发股票投机狂潮，投资者疯狂买入铁路股票...",
+      "full_text": "十九世纪英国铁路建设引发股票投机狂潮，投资者疯狂买入铁路股票。一八四七年铁路泡沫破裂，银行挤兑与破产接踵而至，但已建成的铁路网络仍在运转。投机泡沫留下了真实的基建遗产，经济周期开始显现。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_065.jpg",
       "image_grid": {
         "x": 3,
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "economic_trade_066",
-      "title": "布雷顿森林体系",
-      "summary": "四十四国代表在布雷顿森林达成协议，美元与黄金挂钩重建金融秩序",
-      "full_text": "四十四国代表在布雷顿森林达成协议，美元与黄金挂钩重建金融秩序",
+      "title": "殖民经济体系",
+      "summary": "十九世纪末欧洲列强瓜分非洲与亚洲，殖民地成为原料产地与商品市...",
+      "full_text": "十九世纪末欧洲列强瓜分非洲与亚洲，殖民地成为原料产地与商品市场。印度棉花运往曼彻斯特织成布匹再卖回印度，埃及长绒棉供应兰开夏的纺织厂，殖民经济体系将亚非拉纳入全球资本主义的分工链条。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_066.jpg",
       "image_grid": {
         "x": 3,
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "economic_trade_067",
-      "title": "关贸总协定",
-      "summary": "各国在日内瓦签署关税与贸易总协定，多边减税促进全球贸易",
-      "full_text": "各国在日内瓦签署关税与贸易总协定，多边减税促进全球贸易",
+      "title": "第二次工业革命",
+      "summary": "电力与内燃机取代蒸汽成为新动力，爱迪生的灯泡照亮了工厂与街道...",
+      "full_text": "电力与内燃机取代蒸汽成为新动力，爱迪生的灯泡照亮了工厂与街道。化工与电气工业兴起，德国与美国后来居上，科学研究与工业生产紧密结合，第二次工业革命让人类从蒸汽时代跨入电气时代。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_067.jpg",
       "image_grid": {
         "x": 3,
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "economic_trade_068",
-      "title": "马歇尔计划",
-      "summary": "美国援助物资运抵欧洲港口，重建战后经济遏制共产主义扩张",
-      "full_text": "美国援助物资运抵欧洲港口，重建战后经济遏制共产主义扩张",
+      "title": "电气化时代",
+      "summary": "爱迪生在纽约珍珠街建立第一座发电站，电灯取代煤气灯照亮城市夜...",
+      "full_text": "爱迪生在纽约珍珠街建立第一座发电站，电灯取代煤气灯照亮城市夜空。电力驱动的有轨电车穿行于大街小巷，工厂用电动机替代蒸汽机，电气化彻底改变了生产与生活方式，人类从此步入光明的新纪元。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_068.jpg",
       "image_grid": {
         "x": 3,
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "economic_trade_069",
-      "title": "欧佩克石油禁运",
-      "summary": "阿拉伯产油国削减石油出口，加油站前排起长队油价飙升",
-      "full_text": "阿拉伯产油国削减石油出口，加油站前排起长队油价飙升",
+      "title": "石油工业兴起",
+      "summary": "德雷克在宾夕法尼亚打出第一口油井，石油从药用偏方变为工业血液...",
+      "full_text": "德雷克在宾夕法尼亚打出第一口油井，石油从药用偏方变为工业血液。洛克菲勒的标准石油垄断了美国炼油业，内燃机的发明让石油需求暴增，黑金成为二十世纪最重要的战略资源，重塑了全球经济与地缘政治。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_069.jpg",
       "image_grid": {
         "x": 3,
@@ -1473,9 +1473,9 @@
     },
     {
       "id": "economic_trade_070",
-      "title": "亚洲四小龙崛起",
-      "summary": "韩国工人在出口加工区组装电子产品，出口导向经济高速增长",
-      "full_text": "韩国工人在出口加工区组装电子产品，出口导向经济高速增长",
+      "title": "汽车工业诞生",
+      "summary": "福特在底特律的工厂里用流水线生产T型车，每十秒钟就有一辆汽车...",
+      "full_text": "福特在底特律的工厂里用流水线生产T型车，每十秒钟就有一辆汽车下线。工人日薪五美元足以购买自己生产的汽车，大规模生产与大众消费形成良性循环，汽车工业成为二十世纪经济增长的引擎。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_070.jpg",
       "image_grid": {
         "x": 3,
@@ -1494,9 +1494,9 @@
     },
     {
       "id": "economic_trade_071",
-      "title": "中国改革开放经济",
-      "summary": "深圳经济特区工厂灯火通明，外来投资推动制造业腾飞",
-      "full_text": "深圳经济特区工厂灯火通明，外来投资推动制造业腾飞",
+      "title": "金融资本形成",
+      "summary": "银行资本与工业资本融合形成金融寡头，摩根与洛克菲勒掌控着美国...",
+      "full_text": "银行资本与工业资本融合形成金融寡头，摩根与洛克菲勒掌控着美国经济的命脉。投资银行发行股票债券为企业融资，金融资本跨越国界流动，伦敦与纽约成为世界金融中心，资本的力量重塑了全球经济秩序。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_071.jpg",
       "image_grid": {
         "x": 3,
@@ -1515,9 +1515,9 @@
     },
     {
       "id": "economic_trade_072",
-      "title": "世贸组织成立",
-      "summary": "WTO在日内瓦正式运作，全球贸易规则统一争端解决机制建立",
-      "full_text": "WTO在日内瓦正式运作，全球贸易规则统一争端解决机制建立",
+      "title": "垄断与托拉斯",
+      "summary": "标准石油控制了美国百分之九十的炼油业，卡内基钢铁垄断了钢材市...",
+      "full_text": "标准石油控制了美国百分之九十的炼油业，卡内基钢铁垄断了钢材市场。大企业通过兼并与联合形成垄断，操纵价格压制竞争。美国出台反托拉斯法试图遏制垄断，但大企业的经济力量已不可逆转地改变了市场结构。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_072.jpg",
       "image_grid": {
         "x": 3,
@@ -1536,9 +1536,9 @@
     },
     {
       "id": "economic_trade_073",
-      "title": "互联网经济",
-      "summary": "程序员在硅谷车库中创办网络公司，电子商务改变消费方式",
-      "full_text": "程序员在硅谷车库中创办网络公司，电子商务改变消费方式",
+      "title": "工人运动兴起",
+      "summary": "英国宪章运动要求普选权，法国里昂丝织工人两次起义反抗资本家剥...",
+      "full_text": "英国宪章运动要求普选权，法国里昂丝织工人两次起义反抗资本家剥削。马克思与恩格斯发表共产党宣言号召全世界无产者联合，工会组织为八小时工作制而斗争，工人运动成为推动社会改革的重要力量。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_073.jpg",
       "image_grid": {
         "x": 3,
@@ -1557,9 +1557,9 @@
     },
     {
       "id": "economic_trade_074",
-      "title": "欧元区统一货币",
-      "summary": "欧元纸币在十二国同时流通，欧洲统一市场迈出关键一步",
-      "full_text": "欧元纸币在十二国同时流通，欧洲统一市场迈出关键一步",
+      "title": "布雷顿森林体系瓦解",
+      "summary": "一九七一年尼克松宣布美元与黄金脱钩，布雷顿森林体系正式瓦解。...",
+      "full_text": "一九七一年尼克松宣布美元与黄金脱钩，布雷顿森林体系正式瓦解。各国货币进入浮动汇率时代，汇率波动加剧了国际贸易的不确定性，石油美元体系取而代之，全球金融格局发生了根本性转变。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_074.jpg",
       "image_grid": {
         "x": 3,
@@ -1578,9 +1578,9 @@
     },
     {
       "id": "economic_trade_075",
-      "title": "移动支付革命",
-      "summary": "消费者用手机扫码完成支付，无现金社会在东亚率先实现",
-      "full_text": "消费者用手机扫码完成支付，无现金社会在东亚率先实现",
+      "title": "石油危机冲击",
+      "summary": "一九七三年阿拉伯产油国对西方实施石油禁运，油价暴涨四倍。加油...",
+      "full_text": "一九七三年阿拉伯产油国对西方实施石油禁运，油价暴涨四倍。加油站排起长龙，通货膨胀与经济衰退同时袭来，滞胀打破了凯恩斯主义的神话，西方国家被迫进行产业结构调整，节能与新能源开发提上日程。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_075.jpg",
       "image_grid": {
         "x": 3,
@@ -1599,9 +1599,9 @@
     },
     {
       "id": "economic_trade_076",
-      "title": "跨境电商",
-      "summary": "集装箱货轮满载跨境电商包裹穿梭大洋，全球购物一键下单",
-      "full_text": "集装箱货轮满载跨境电商包裹穿梭大洋，全球购物一键下单",
+      "title": "日本经济奇迹",
+      "summary": "战后日本在废墟上实现高速增长，丰田精益生产模式震撼全球制造业...",
+      "full_text": "战后日本在废墟上实现高速增长，丰田精益生产模式震撼全球制造业。通产省引导产业升级，终身雇佣制稳定了劳动力，日本GDP三十年间增长二十倍，一九六八年成为世界第二大经济体，创造了东亚发展的典范。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_076.jpg",
       "image_grid": {
         "x": 3,
@@ -1620,9 +1620,9 @@
     },
     {
       "id": "economic_trade_077",
-      "title": "加密货币",
-      "summary": "区块链网络验证比特币交易，去中心化数字货币挑战传统金融",
-      "full_text": "区块链网络验证比特币交易，去中心化数字货币挑战传统金融",
+      "title": "亚洲金融危机",
+      "summary": "一九九七年泰铢暴跌引发亚洲金融危机，印尼、韩国与马来西亚货币...",
+      "full_text": "一九九七年泰铢暴跌引发亚洲金融危机，印尼、韩国与马来西亚货币大幅贬值。国际货币基金组织提供援助但附加紧缩条件，危机暴露了亚洲经济结构的脆弱性，也促使各国加强金融监管与区域合作。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_077.jpg",
       "image_grid": {
         "x": 3,
@@ -1641,9 +1641,9 @@
     },
     {
       "id": "economic_trade_078",
-      "title": "共享经济",
-      "summary": "网约车司机通过平台接单载客，共享经济重塑服务业格局",
-      "full_text": "网约车司机通过平台接单载客，共享经济重塑服务业格局",
+      "title": "互联网经济崛起",
+      "summary": "硅谷的创业者将互联网从学术工具变为商业平台，亚马逊重塑零售业...",
+      "full_text": "硅谷的创业者将互联网从学术工具变为商业平台，亚马逊重塑零售业，谷歌垄断数字广告。平台经济连接全球买家与卖家，数据成为新型生产要素，互联网在二十年间彻底改变了商业模式与人类生活方式。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_078.jpg",
       "image_grid": {
         "x": 3,
@@ -1662,9 +1662,9 @@
     },
     {
       "id": "economic_trade_079",
-      "title": "宋朝市舶制度",
-      "summary": "宋朝设市舶司管理海外贸易，广州泉州港关税收入充实国库",
-      "full_text": "宋朝设市舶司管理海外贸易，广州泉州港关税收入充实国库",
+      "title": "二〇〇八金融海啸",
+      "summary": "美国次贷危机引发全球金融海啸，雷曼兄弟破产标志着危机全面爆发...",
+      "full_text": "美国次贷危机引发全球金融海啸，雷曼兄弟破产标志着危机全面爆发。房地产市场崩溃，银行接连倒闭，全球经济陷入大衰退。各国政府用数万亿美元救市，金融监管的漏洞与华尔街的贪婪暴露无遗。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_079.jpg",
       "image_grid": {
         "x": 3,
@@ -1683,9 +1683,9 @@
     },
     {
       "id": "economic_trade_080",
-      "title": "明朝白银货币化",
-      "summary": "一条鞭法将赋税折银征收，白银成为主要货币推动商业发展",
-      "full_text": "一条鞭法将赋税折银征收，白银成为主要货币推动商业发展",
+      "title": "欧元区经济整合",
+      "summary": "一九九九年欧元正式启动，十一个欧洲国家放弃本国货币采用单一货...",
+      "full_text": "一九九九年欧元正式启动，十一个欧洲国家放弃本国货币采用单一货币。欧元促进了成员国之间的贸易与投资，但统一的货币政策与分散的财政政策之间的矛盾在欧债危机中暴露无遗，欧洲经济一体化面临严峻考验。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_080.jpg",
       "image_grid": {
         "x": 3,
@@ -1704,9 +1704,9 @@
     },
     {
       "id": "economic_trade_081",
-      "title": "工业革命铁路",
-      "summary": "蒸汽火车在曼彻斯特至利物浦铁路上飞驰，货运速度革命性提升",
-      "full_text": "蒸汽火车在曼彻斯特至利物浦铁路上飞驰，货运速度革命性提升",
+      "title": "共享经济模式",
+      "summary": "优步与爱彼迎用互联网平台连接闲置资源与需求者，共享经济挑战了...",
+      "full_text": "优步与爱彼迎用互联网平台连接闲置资源与需求者，共享经济挑战了传统出租车与酒店行业。零工经济让灵活就业成为可能，但也模糊了雇佣关系的边界，劳动者权益保障成为新的社会议题。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_081.jpg",
       "image_grid": {
         "x": 3,
@@ -1725,9 +1725,9 @@
     },
     {
       "id": "economic_trade_082",
-      "title": "全球供应链",
-      "summary": "集装箱货轮穿梭大洋，芯片在东亚制造销往全球各地",
-      "full_text": "集装箱货轮穿梭大洋，芯片在东亚制造销往全球各地",
+      "title": "人工智能经济",
+      "summary": "深度学习算法驱动人工智能突破，自动驾驶与智能机器人正在重塑产...",
+      "full_text": "深度学习算法驱动人工智能突破，自动驾驶与智能机器人正在重塑产业格局。AI替代重复性劳动的同时创造新型就业，数据与算力成为核心竞争力，人工智能经济将深刻改变二十一世纪的生产方式与财富分配。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_082.jpg",
       "image_grid": {
         "x": 3,
@@ -1746,9 +1746,9 @@
     },
     {
       "id": "economic_trade_083",
-      "title": "人工智能经济",
-      "summary": "AI算法在数据中心训练模型，智能技术驱动新一轮产业变革",
-      "full_text": "AI算法在数据中心训练模型，智能技术驱动新一轮产业变革",
+      "title": "绿色经济转型",
+      "summary": "气候变化推动全球经济向绿色低碳转型，碳交易市场将排放权变为商...",
+      "full_text": "气候变化推动全球经济向绿色低碳转型，碳交易市场将排放权变为商品。可再生能源投资超过化石能源，绿色债券为环保项目融资，ESG标准重塑企业评价体系，绿色经济是二十一世纪最重要的结构性变革。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_083.jpg",
       "image_grid": {
         "x": 3,
@@ -1767,9 +1767,9 @@
     },
     {
       "id": "economic_trade_084",
-      "title": "宋朝纸币制度",
-      "summary": "交子铺户发行纸币替代铁钱流通，信用货币体系在成都首创",
-      "full_text": "交子铺户发行纸币替代铁钱流通，信用货币体系在成都首创",
+      "title": "全球供应链重构",
+      "summary": "新冠疫情暴露了全球供应链的脆弱性，芯片短缺让汽车工厂停摆。各...",
+      "full_text": "新冠疫情暴露了全球供应链的脆弱性，芯片短缺让汽车工厂停摆。各国开始推动供应链多元化与本土化，友岸外包取代离岸外包，效率与安全的平衡成为新课题，全球供应链正在经历冷战以来最深刻的重构。",
       "image": "res://assets/images/illustrations/economic_trade/economic_trade_084.jpg",
       "image_grid": {
         "x": 3,

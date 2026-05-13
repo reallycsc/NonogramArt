@@ -4,8 +4,8 @@
     {
       "id": "housing_000",
       "title": "北京四合院",
-      "summary": "北京四合院方正对称，正房厢房围合天井，朱门灰墙古韵",
-      "full_text": "北京四合院方正对称，正房厢房围合天井，朱门灰墙古韵",
+      "summary": "北京四合院坐北朝南，正房三间居中，东西厢房对称分布，南面倒座...",
+      "full_text": "北京四合院坐北朝南，正房三间居中，东西厢房对称分布，南面倒座房，中间天院植海棠。四合院是中国北方最经典的民居形式，方寸之间蕴含礼制秩序。",
       "image": "res://assets/images/illustrations/housing/housing_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "housing_001",
-      "title": "福建土楼",
-      "summary": "福建土楼圆形方形的夯土建筑，家族聚居防御功能显著",
-      "full_text": "福建土楼圆形方形的夯土建筑，家族聚居防御功能显著",
+      "title": "陕北窑洞",
+      "summary": "黄土高原上窑洞依山而掘，拱形门洞深入土层，冬暖夏凉，窗棂贴红...",
+      "full_text": "黄土高原上窑洞依山而掘，拱形门洞深入土层，冬暖夏凉，窗棂贴红剪纸。窑洞是黄土高原最古老的居住形式，人与大地共生共息。",
       "image": "res://assets/images/illustrations/housing/housing_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "housing_002",
-      "title": "陕西窑洞",
-      "summary": "陕西窑洞依山而建，黄土层中掘洞而居，冬暖夏凉",
-      "full_text": "陕西窑洞依山而建，黄土层中掘洞而居，冬暖夏凉",
+      "title": "徽派马头墙",
+      "summary": "徽州古村白墙黛瓦，马头墙高低错落如骏马昂首，天井采光四水归堂...",
+      "full_text": "徽州古村白墙黛瓦，马头墙高低错落如骏马昂首，天井采光四水归堂，木雕精美。徽派建筑以防火的马头墙为标志，是江南水乡的诗意栖居。",
       "image": "res://assets/images/illustrations/housing/housing_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "housing_003",
-      "title": "云南竹楼",
-      "summary": "云南傣族竹楼干栏式建筑，竹木结构通风防潮，热带风情",
-      "full_text": "云南傣族竹楼干栏式建筑，竹木结构通风防潮，热带风情",
+      "title": "福建土楼",
+      "summary": "福建永定土楼圆形如碉堡，夯土墙厚达一米半，内院层层回廊，数十...",
+      "full_text": "福建永定土楼圆形如碉堡，夯土墙厚达一米半，内院层层回廊，数十户同楼聚居。土楼是客家人防御性集体住宅，建筑史上的奇观。",
       "image": "res://assets/images/illustrations/housing/housing_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "housing_004",
-      "title": "徽派白墙黛瓦",
-      "summary": "徽派建筑白墙黛瓦马头墙，木雕砖雕石雕精美绝伦",
-      "full_text": "徽派建筑白墙黛瓦马头墙，木雕砖雕石雕精美绝伦",
+      "title": "江南水乡民居",
+      "summary": "乌镇水乡白墙灰瓦沿河而建，前门临街后窗枕河，石桥横跨小河，乌...",
+      "full_text": "乌镇水乡白墙灰瓦沿河而建，前门临街后窗枕河，石桥横跨小河，乌篷船悠悠而过。江南水乡民居依水而居，是诗意栖居的东方典范。",
       "image": "res://assets/images/illustrations/housing/housing_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "housing_005",
-      "title": "蒙古包",
-      "summary": "蒙古包毡房圆顶可拆卸，游牧民族逐水草而居的智慧",
-      "full_text": "蒙古包毡房圆顶可拆卸，游牧民族逐水草而居的智慧",
+      "title": "云南傣族竹楼",
+      "summary": "西双版纳傣族竹楼以竹木架空而建，上层住人下层养畜，陡峭屋顶如...",
+      "full_text": "西双版纳傣族竹楼以竹木架空而建，上层住人下层养畜，陡峭屋顶如孔雀展翅。竹楼适应热带雨林气候，通风防潮，是傣族人民的智慧结晶。",
       "image": "res://assets/images/illustrations/housing/housing_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "housing_006",
-      "title": "湘西吊脚楼",
-      "summary": "湘西吊脚楼半边着地半边悬空，木柱支撑临水而建",
-      "full_text": "湘西吊脚楼半边着地半边悬空，木柱支撑临水而建",
+      "title": "蒙古族蒙古包",
+      "summary": "草原上蒙古包白色毡布覆盖木骨架，顶部开天窗通风采光，拆卸搬迁...",
+      "full_text": "草原上蒙古包白色毡布覆盖木骨架，顶部开天窗通风采光，拆卸搬迁只需两小时。蒙古包是游牧民族的移动住宅，轻便而坚固，适应逐水草而居。",
       "image": "res://assets/images/illustrations/housing/housing_006.jpg",
       "image_grid": {
         "x": 3,
@@ -151,8 +151,8 @@
     {
       "id": "housing_007",
       "title": "广东骑楼",
-      "summary": "广东骑楼底层架空人行道，遮阳避雨商住合一，南洋风韵",
-      "full_text": "广东骑楼底层架空人行道，遮阳避雨商住合一，南洋风韵",
+      "summary": "广州老街骑楼底层向内退缩形成连廊，行人避雨遮阳，楼上住人，中...",
+      "full_text": "广州老街骑楼底层向内退缩形成连廊，行人避雨遮阳，楼上住人，中西合璧。骑楼是岭南建筑与南洋风格融合的产物，是南方城市的独特街景。",
       "image": "res://assets/images/illustrations/housing/housing_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "housing_008",
-      "title": "藏族碉房",
-      "summary": "藏族碉房石砌厚墙小窗，适应高原寒冷气候，坚固实用",
-      "full_text": "藏族碉房石砌厚墙小窗，适应高原寒冷气候，坚固实用",
+      "title": "山西大院",
+      "summary": "晋中乔家大院六座大院十九座小院，砖雕木雕石雕精美绝伦，高墙深...",
+      "full_text": "晋中乔家大院六座大院十九座小院，砖雕木雕石雕精美绝伦，高墙深院如城堡。山西大院是晋商财富的象征，每一砖一瓦都诉说着商帮传奇。",
       "image": "res://assets/images/illustrations/housing/housing_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "housing_009",
-      "title": "苏州园林宅院",
-      "summary": "苏州园林宅院小桥流水，假山亭台移步换景，诗情画意",
-      "full_text": "苏州园林宅院小桥流水，假山亭台移步换景，诗情画意",
+      "title": "西藏碉房",
+      "summary": "藏区碉房以石块砌筑，墙体厚实收分，窗户小而深，平顶可晾晒青稞...",
+      "full_text": "藏区碉房以石块砌筑，墙体厚实收分，窗户小而深，平顶可晾晒青稞，经幡飘扬。碉房适应高原严寒气候，坚固如堡垒，是藏族建筑的代表。",
       "image": "res://assets/images/illustrations/housing/housing_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "housing_010",
-      "title": "日本町屋",
-      "summary": "日本京都町屋木造狭长，坪庭引光通风，格子窗典雅",
-      "full_text": "日本京都町屋木造狭长，坪庭引光通风，格子窗典雅",
+      "title": "湘西吊脚楼",
+      "summary": "凤凰古城沱江边吊脚楼半边着地半边悬空，木柱支撑于河岸，二楼木...",
+      "full_text": "凤凰古城沱江边吊脚楼半边着地半边悬空，木柱支撑于河岸，二楼木栏走廊临水。吊脚楼是苗族土家族的传统民居，依山傍水凌空而建。",
       "image": "res://assets/images/illustrations/housing/housing_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "housing_011",
-      "title": "欧洲半木构屋",
-      "summary": "欧洲半木构房屋木框架填砖，黑白相间童话般，阿尔萨斯风格",
-      "full_text": "欧洲半木构房屋木框架填砖，黑白相间童话般，阿尔萨斯风格",
+      "title": "东北满族民居",
+      "summary": "东北满族民居坐北朝南，口袋房万字炕，南面大窗采光，烟道走炕下...",
+      "full_text": "东北满族民居坐北朝南，口袋房万字炕，南面大窗采光，烟道走炕下取暖。满族民居以火炕为核心，抵御东北漫长严寒，温暖而实用。",
       "image": "res://assets/images/illustrations/housing/housing_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "housing_012",
-      "title": "因纽特冰屋",
-      "summary": "因纽特冰屋雪砖砌成穹顶，冰块反射热能保暖，极地智慧",
-      "full_text": "因纽特冰屋雪砖砌成穹顶，冰块反射热能保暖，极地智慧",
+      "title": "贵州石板房",
+      "summary": "贵州布依族村寨中，石板当瓦盖顶，石块砌墙，石板铺地，整座房屋...",
+      "full_text": "贵州布依族村寨中，石板当瓦盖顶，石块砌墙，石板铺地，整座房屋以石为主。石板房是布依族因地制宜的建筑智慧，就地取材坚固耐久。",
       "image": "res://assets/images/illustrations/housing/housing_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "housing_013",
-      "title": "非洲茅草圆屋",
-      "summary": "非洲茅草圆屋泥墙草顶，圆柱形结构散热好，部落聚居",
-      "full_text": "非洲茅草圆屋泥墙草顶，圆柱形结构散热好，部落聚居",
+      "title": "新疆维吾尔民居",
+      "summary": "喀什老城维吾尔族民居以土坯砌筑，院内廊柱雕花，葡萄架遮荫，地...",
+      "full_text": "喀什老城维吾尔族民居以土坯砌筑，院内廊柱雕花，葡萄架遮荫，地毯铺满客厅。维吾尔民居适应干旱气候，庭院是家庭生活的中心。",
       "image": "res://assets/images/illustrations/housing/housing_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "housing_014",
-      "title": "中东庭院住宅",
-      "summary": "中东庭院住宅内院为中心，喷泉绿荫私密清凉，伊斯兰风格",
-      "full_text": "中东庭院住宅内院为中心，喷泉绿荫私密清凉，伊斯兰风格",
+      "title": "客家围龙屋",
+      "summary": "梅州围龙屋半月形围屋环抱前方池塘，房间沿弧线排列，祖堂居中，...",
+      "full_text": "梅州围龙屋半月形围屋环抱前方池塘，房间沿弧线排列，祖堂居中，防御与聚居合一。围龙屋是客家文化的建筑象征，聚族而居守望相助。",
       "image": "res://assets/images/illustrations/housing/housing_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "housing_015",
-      "title": "印第安泥砖房",
-      "summary": "印第安普韦布洛泥砖房，多层阶梯式结构，沙漠中的家园",
-      "full_text": "印第安普韦布洛泥砖房，多层阶梯式结构，沙漠中的家园",
+      "title": "黎族船型屋",
+      "summary": "海南黎族船型屋以竹木为骨架，茅草覆顶如倒扣船只，两端翘起无窗...",
+      "full_text": "海南黎族船型屋以竹木为骨架，茅草覆顶如倒扣船只，两端翘起无窗，低矮防风。船型屋是黎族最古老的民居形式，传说是仿照倒扣的独木舟建造。",
       "image": "res://assets/images/illustrations/housing/housing_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "housing_016",
-      "title": "东南亚高脚屋",
-      "summary": "东南亚高脚屋木桩抬升，通风防潮避洪水，热带雨林居所",
-      "full_text": "东南亚高脚屋木桩抬升，通风防潮避洪水，热带雨林居所",
+      "title": "羌族碉楼",
+      "summary": "四川羌寨中石砌碉楼高耸数十米，四角六角或八角，墙体收分如锥，...",
+      "full_text": "四川羌寨中石砌碉楼高耸数十米，四角六角或八角，墙体收分如锥，历经地震不倒。羌族碉楼是防御与居住的结合，建筑技艺令现代工程师惊叹。",
       "image": "res://assets/images/illustrations/housing/housing_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "housing_017",
-      "title": "北欧木屋",
-      "summary": "北欧红色木屋尖顶，原木建造配壁炉，雪原中的温暖",
-      "full_text": "北欧红色木屋尖顶，原木建造配壁炉，雪原中的温暖",
+      "title": "苏州园林宅院",
+      "summary": "苏州拙政园中，住宅与园林融为一体，漏窗借景，曲廊通幽，水池倒...",
+      "full_text": "苏州拙政园中，住宅与园林融为一体，漏窗借景，曲廊通幽，水池倒映亭台楼阁。苏州园林宅院将居住升华为艺术，是文人理想的人居境界。",
       "image": "res://assets/images/illustrations/housing/housing_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "housing_018",
-      "title": "希腊白墙蓝顶屋",
-      "summary": "希腊圣托里尼白墙蓝顶，爱琴海畔阶梯式排列，浪漫如画",
-      "full_text": "希腊圣托里尼白墙蓝顶，爱琴海畔阶梯式排列，浪漫如画",
+      "title": "纳西族木楞房",
+      "summary": "丽江纳西族木楞房以圆木横叠成墙，缝隙抹泥，两坡屋顶覆木板，院...",
+      "full_text": "丽江纳西族木楞房以圆木横叠成墙，缝隙抹泥，两坡屋顶覆木板，院中三坊一照壁。木楞房是纳西族传统民居，质朴自然与雪山古镇相映。",
       "image": "res://assets/images/illustrations/housing/housing_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "housing_019",
-      "title": "英国茅草屋顶屋",
-      "summary": "英国茅草屋顶乡村小屋，麦秆铺顶古朴温馨，田园诗意",
-      "full_text": "英国茅草屋顶乡村小屋，麦秆铺顶古朴温馨，田园诗意",
+      "title": "朝鲜族民居",
+      "summary": "延边朝鲜族民居白墙灰瓦，屋檐翘起如鹤翼，室内地炕全屋供暖，脱...",
+      "full_text": "延边朝鲜族民居白墙灰瓦，屋檐翘起如鹤翼，室内地炕全屋供暖，脱鞋席地而坐。朝鲜族民居以地炕为特色，是适应东北寒冷气候的智慧。",
       "image": "res://assets/images/illustrations/housing/housing_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "housing_020",
-      "title": "现代高层公寓",
-      "summary": "现代高层公寓楼玻璃幕墙，城市天际线的标志，集约居住",
-      "full_text": "现代高层公寓楼玻璃幕墙，城市天际线的标志，集约居住",
+      "title": "现代高层住宅",
+      "summary": "城市天际线上高层住宅楼群林立，钢筋混凝土结构，落地窗俯瞰城市...",
+      "full_text": "城市天际线上高层住宅楼群林立，钢筋混凝土结构，落地窗俯瞰城市，电梯直达。高层住宅是城市化进程的产物，解决了人口密集的居住需求。",
       "image": "res://assets/images/illustrations/housing/housing_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "housing_021",
-      "title": "花园洋房别墅",
-      "summary": "花园洋房独栋别墅，前后庭院绿树环绕，私密舒适生活",
-      "full_text": "花园洋房独栋别墅，前后庭院绿树环绕，私密舒适生活",
+      "title": "花园洋房社区",
+      "summary": "郊区花园洋房社区中，独栋别墅带私家花园，红砖外墙爬满常春藤，...",
+      "full_text": "郊区花园洋房社区中，独栋别墅带私家花园，红砖外墙爬满常春藤，车库入户。花园洋房是城市中产的理想居所，追求私密与自然的平衡。",
       "image": "res://assets/images/illustrations/housing/housing_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "housing_022",
-      "title": "联排别墅",
-      "summary": "联排别墅共享侧墙，独立门户小院，兼顾私密与社区",
-      "full_text": "联排别墅共享侧墙，独立门户小院，兼顾私密与社区",
+      "title": "loft工业风公寓",
+      "summary": "旧厂房改造的loft公寓中，挑高六米的空间裸露砖墙和钢梁，二...",
+      "full_text": "旧厂房改造的loft公寓中，挑高六米的空间裸露砖墙和钢梁，二楼卧室俯瞰客厅。loft风格将工业遗迹转化为时尚居所，粗犷与精致并存。",
       "image": "res://assets/images/illustrations/housing/housing_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "housing_023",
-      "title": "复式跃层公寓",
-      "summary": "复式跃层公寓上下双层，楼梯连接空间灵动，时尚居住",
-      "full_text": "复式跃层公寓上下双层，楼梯连接空间灵动，时尚居住",
+      "title": "装配式建筑",
+      "summary": "装配式建筑工地上，预制混凝土墙板由塔吊吊装就位，工人螺栓连接...",
+      "full_text": "装配式建筑工地上，预制混凝土墙板由塔吊吊装就位，工人螺栓连接，一周建一层。装配式建筑将房屋制造从工地搬进工厂，效率提升数倍。",
       "image": "res://assets/images/illustrations/housing/housing_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "housing_024",
-      "title": "LOFT工业风",
-      "summary": "LOFT工业风改造旧厂房，裸露砖墙管道，开放空间自由",
-      "full_text": "LOFT工业风改造旧厂房，裸露砖墙管道，开放空间自由",
+      "title": "绿色生态住宅",
+      "summary": "绿色生态住宅屋顶铺满太阳能板，外墙垂直绿化，雨水收集系统灌溉...",
+      "full_text": "绿色生态住宅屋顶铺满太阳能板，外墙垂直绿化，雨水收集系统灌溉花园，零碳运行。生态住宅将环保理念融入建筑设计，是可持续发展的居住方案。",
       "image": "res://assets/images/illustrations/housing/housing_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "housing_025",
-      "title": "小户型精装",
-      "summary": "小户型精装公寓空间集约，收纳设计巧妙，麻雀虽小五脏俱全",
-      "full_text": "小户型精装公寓空间集约，收纳设计巧妙，麻雀虽小五脏俱全",
+      "title": "小户型精装公寓",
+      "summary": "城市核心区小户型公寓仅三十平米，折叠床隐形收纳，变形家具一室...",
+      "full_text": "城市核心区小户型公寓仅三十平米，折叠床隐形收纳，变形家具一室三用，设计精巧。小户型是高房价时代的居住智慧，空间利用达到极致。",
       "image": "res://assets/images/illustrations/housing/housing_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "housing_026",
-      "title": "老年公寓",
-      "summary": "老年公寓无障碍设计，紧急呼叫系统，适老化温馨居所",
-      "full_text": "老年公寓无障碍设计，紧急呼叫系统，适老化温馨居所",
+      "title": "智能家居系统",
+      "summary": "智能家居中，语音助手控制灯光窗帘空调，安防摄像头实时监控，手...",
+      "full_text": "智能家居中，语音助手控制灯光窗帘空调，安防摄像头实时监控，手机远程操控。智能家居让居住空间具备感知与响应能力，重新定义家的概念。",
       "image": "res://assets/images/illustrations/housing/housing_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "housing_027",
-      "title": "学生公寓",
-      "summary": "大学学生公寓上下铺，公共厨房洗衣房，青春集体生活",
-      "full_text": "大学学生公寓上下铺，公共厨房洗衣房，青春集体生活",
+      "title": "日本极简住宅",
+      "summary": "东京住宅区极简风格独栋，清水混凝土外墙，室内白色空间无多余装...",
+      "full_text": "东京住宅区极简风格独栋，清水混凝土外墙，室内白色空间无多余装饰，收纳隐于墙内。日本极简住宅追求空间的纯粹，在狭小地块中创造宁静。",
       "image": "res://assets/images/illustrations/housing/housing_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "housing_028",
-      "title": "生态住宅",
-      "summary": "生态住宅太阳能屋顶，雨水收集系统，绿色环保可持续",
-      "full_text": "生态住宅太阳能屋顶，雨水收集系统，绿色环保可持续",
+      "title": "北欧风格公寓",
+      "summary": "斯德哥尔摩公寓中，大白墙配浅木地板，布艺沙发羊毛毯，壁炉旁摆...",
+      "full_text": "斯德哥尔摩公寓中，大白墙配浅木地板，布艺沙发羊毛毯，壁炉旁摆干花，简约温馨。北欧风格以功能与美感统一为核心，是寒冷地带的温暖美学。",
       "image": "res://assets/images/illustrations/housing/housing_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "housing_029",
-      "title": "被动式节能屋",
-      "summary": "被动式节能屋超厚保温层，热回收新风系统，极低能耗",
-      "full_text": "被动式节能屋超厚保温层，热回收新风系统，极低能耗",
+      "title": "集装箱住宅",
+      "summary": "废弃集装箱改造的住宅中，蓝色铁皮箱体切割开窗，内部隔热装修，...",
+      "full_text": "废弃集装箱改造的住宅中，蓝色铁皮箱体切割开窗，内部隔热装修，多个箱体拼叠。集装箱住宅是低成本建造的创新方案，也是循环经济的实践。",
       "image": "res://assets/images/illustrations/housing/housing_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "housing_030",
-      "title": "集装箱改造屋",
-      "summary": "集装箱改造房屋模块拼接，工业风低成本，创意无限",
-      "full_text": "集装箱改造房屋模块拼接，工业风低成本，创意无限",
+      "title": "地下空间开发",
+      "summary": "城市地下商业街灯火通明，地铁换乘通道连接商场餐饮，通风管道纵...",
+      "full_text": "城市地下商业街灯火通明，地铁换乘通道连接商场餐饮，通风管道纵横如迷宫。地下空间开发是城市向纵深发展的必然选择，拓展了城市边界。",
       "image": "res://assets/images/illustrations/housing/housing_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "housing_031",
-      "title": "3D打印房屋",
-      "summary": "3D打印房屋逐层打印成型，快速建造降低成本，未来住宅",
-      "full_text": "3D打印房屋逐层打印成型，快速建造降低成本，未来住宅",
+      "title": "老年适老化住宅",
+      "summary": "适老化住宅中，卫生间安装扶手防滑地砖，门槛消除高差，紧急呼叫...",
+      "full_text": "适老化住宅中，卫生间安装扶手防滑地砖，门槛消除高差，紧急呼叫按钮触手可及。适老化设计关注老年人的生活安全，是老龄化社会的迫切需求。",
       "image": "res://assets/images/illustrations/housing/housing_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "housing_032",
-      "title": "地下住宅",
-      "summary": "地下住宅利用地热恒温，天井引入自然光，节能环保",
-      "full_text": "地下住宅利用地热恒温，天井引入自然光，节能环保",
+      "title": "共享公寓",
+      "summary": "青年共享公寓中，私人卧室紧凑独立，公共厨房客厅健身房共享，租...",
+      "full_text": "青年共享公寓中，私人卧室紧凑独立，公共厨房客厅健身房共享，租户在公共空间社交。共享公寓降低了城市居住成本，也创造了新型社区关系。",
       "image": "res://assets/images/illustrations/housing/housing_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "housing_033",
-      "title": "水上住宅",
-      "summary": "水上住宅漂浮平台建造，推窗见水波光粼粼，独特生活",
-      "full_text": "水上住宅漂浮平台建造，推窗见水波光粼粼，独特生活",
+      "title": "被动式超低能耗",
+      "summary": "被动式住宅外墙厚达三十厘米填充保温层，三层玻璃窗，热回收新风...",
+      "full_text": "被动式住宅外墙厚达三十厘米填充保温层，三层玻璃窗，热回收新风系统无需暖气。被动式建筑以极致保温实现超低能耗，是建筑节能的未来方向。",
       "image": "res://assets/images/illustrations/housing/housing_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "housing_034",
-      "title": "模块化住宅",
-      "summary": "模块化住宅工厂预制拼装，工期短质量可控，高效建造",
-      "full_text": "模块化住宅工厂预制拼装，工期短质量可控，高效建造",
+      "title": "模块化酒店",
+      "summary": "模块化酒店工地上，集装箱大小的客房模块在工厂完成装修，运至现...",
+      "full_text": "模块化酒店工地上，集装箱大小的客房模块在工厂完成装修，运至现场像搭积木般组装。模块化建造将施工时间缩短一半，质量更可控。",
       "image": "res://assets/images/illustrations/housing/housing_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "housing_035",
-      "title": "合租共享公寓",
-      "summary": "合租共享公寓公共区域共享，独立卧室，年轻人社交居住",
-      "full_text": "合租共享公寓公共区域共享，独立卧室，年轻人社交居住",
+      "title": "水上住宅",
+      "summary": "阿姆斯特丹运河上水上住宅漂浮于浮筒之上，木制外墙大落地窗，通...",
+      "full_text": "阿姆斯特丹运河上水上住宅漂浮于浮筒之上，木制外墙大落地窗，通过栈桥与岸相连。水上住宅是荷兰人对抗土地稀缺的创意，也是浪漫的生活方式。",
       "image": "res://assets/images/illustrations/housing/housing_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "housing_036",
-      "title": "树屋居所",
-      "summary": "树屋建在大树之间，木栈道连接，与自然融为一体的居所",
-      "full_text": "树屋建在大树之间，木栈道连接，与自然融为一体的居所",
+      "title": "树屋酒店",
+      "summary": "瑞典北部森林中树屋酒店悬于松树之间，镜面外墙映照森林，通过斜...",
+      "full_text": "瑞典北部森林中树屋酒店悬于松树之间，镜面外墙映照森林，通过斜拉索桥进入。树屋酒店将住宿融入自然，是生态旅游的极致体验。",
       "image": "res://assets/images/illustrations/housing/housing_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "housing_037",
-      "title": "船屋生活",
-      "summary": "船屋停泊河岸，舱内生活设施齐全，水上漂浮的自由居所",
-      "full_text": "船屋停泊河岸，舱内生活设施齐全，水上漂浮的自由居所",
+      "title": "窑洞式现代住宅",
+      "summary": "现代窑洞式住宅依山而建，混凝土拱顶覆土植草，南向大窗采光，地...",
+      "full_text": "现代窑洞式住宅依山而建，混凝土拱顶覆土植草，南向大窗采光，地热恒温。现代窑洞结合传统智慧与现代技术，实现节能与舒适的统一。",
       "image": "res://assets/images/illustrations/housing/housing_037.jpg",
       "image_grid": {
         "x": 3,
@@ -802,8 +802,8 @@
     {
       "id": "housing_038",
       "title": "悬崖住宅",
-      "summary": "悬崖住宅嵌入岩壁，玻璃幕墙俯瞰山谷，惊险壮美",
-      "full_text": "悬崖住宅嵌入岩壁，玻璃幕墙俯瞰山谷，惊险壮美",
+      "summary": "希腊圣托里尼悬崖住宅白色墙体蓝色门窗，依火山崖壁层层叠建，露...",
+      "full_text": "希腊圣托里尼悬崖住宅白色墙体蓝色门窗，依火山崖壁层层叠建，露台俯瞰爱琴海。悬崖住宅是人类在极端地形上创造居住空间的杰作。",
       "image": "res://assets/images/illustrations/housing/housing_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "housing_039",
-      "title": "洞穴酒店",
-      "summary": "土耳其洞穴酒店凿岩而建，原始粗犷配现代设施，独特体验",
-      "full_text": "土耳其洞穴酒店凿岩而建，原始粗犷配现代设施，独特体验",
+      "title": "冰屋",
+      "summary": "因纽特人建造冰屋，雪块螺旋堆砌成穹顶，入口低于地面形成冷气陷...",
+      "full_text": "因纽特人建造冰屋，雪块螺旋堆砌成穹顶，入口低于地面形成冷气陷阱，内部燃灯可达零度以上。冰屋是极地生存的建筑奇迹，冰雪中创造温暖。",
       "image": "res://assets/images/illustrations/housing/housing_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "housing_040",
-      "title": "蘑菇屋",
-      "summary": "蘑菇屋有机曲线造型，仿生建筑与自然和谐，童话般居所",
-      "full_text": "蘑菇屋有机曲线造型，仿生建筑与自然和谐，童话般居所",
+      "title": "3D打印住宅",
+      "summary": "3D混凝土打印机在工地上逐层喷吐建材，二十四小时内打印出一栋...",
+      "full_text": "3D混凝土打印机在工地上逐层喷吐建材，二十四小时内打印出一栋六十平米住宅。3D打印建筑技术大幅降低建造时间和成本，是建筑业的颠覆性创新。",
       "image": "res://assets/images/illustrations/housing/housing_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "housing_041",
-      "title": "穹顶住宅",
-      "summary": "穹顶住宅测地线球面结构，抗风抗震节能，未来感十足",
-      "full_text": "穹顶住宅测地线球面结构，抗风抗震节能，未来感十足",
+      "title": "共居社区",
+      "summary": "共居社区中多户家庭共享庭院和公共厨房，私人空间独立而公共空间...",
+      "full_text": "共居社区中多户家庭共享庭院和公共厨房，私人空间独立而公共空间丰富，邻里互助。共居社区重新定义了集体居住，在私密与社交间找到平衡。",
       "image": "res://assets/images/illustrations/housing/housing_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "housing_042",
-      "title": "帐篷屋",
-      "summary": "豪华帐篷屋帆布覆盖木框架，野外露营与舒适兼顾",
-      "full_text": "豪华帐篷屋帆布覆盖木框架，野外露营与舒适兼顾",
+      "title": "漂浮城市概念",
+      "summary": "马尔代夫漂浮城市由六角形浮岛拼接而成，系泊于海底，适应海平面...",
+      "full_text": "马尔代夫漂浮城市由六角形浮岛拼接而成，系泊于海底，适应海平面上升的气候挑战。漂浮城市是人类应对气候变化的建筑构想，水上乌托邦。",
       "image": "res://assets/images/illustrations/housing/housing_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "housing_043",
-      "title": "竹编住宅",
-      "summary": "竹编住宅全竹结构，弹性抗震天然环保，东方智慧结晶",
-      "full_text": "竹编住宅全竹结构，弹性抗震天然环保，东方智慧结晶",
+      "title": "智慧社区系统",
+      "summary": "智慧社区中人脸识别门禁通行，物业APP报修缴费，社区配送机器...",
+      "full_text": "智慧社区中人脸识别门禁通行，物业APP报修缴费，社区配送机器人穿梭送快递。智慧社区以物联网技术连接居住服务，让社区管理更高效便捷。",
       "image": "res://assets/images/illustrations/housing/housing_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "housing_044",
-      "title": "冰屋酒店",
-      "summary": "瑞典冰屋酒店年年重建，冰床驯鹿皮保暖，极地奇境体验",
-      "full_text": "瑞典冰屋酒店年年重建，冰床驯鹿皮保暖，极地奇境体验",
+      "title": "地下生态住宅",
+      "summary": "地下生态住宅嵌入山坡之中，覆土植草与自然融为一体，天窗引入阳...",
+      "full_text": "地下生态住宅嵌入山坡之中，覆土植草与自然融为一体，天窗引入阳光，地热调温。地下住宅以大地为天然保温层，是极端气候下的绿色居住方案。",
       "image": "res://assets/images/illustrations/housing/housing_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "housing_045",
-      "title": "地下城市",
-      "summary": "蒙特利尔地下城连接地铁商场，严冬中温暖通行，城市立体化",
-      "full_text": "蒙特利尔地下城连接地铁商场，严冬中温暖通行，城市立体化",
+      "title": "悉尼歌剧院",
+      "summary": "悉尼歌剧院白色壳片如风帆矗立港湾，混凝土薄壳结构，内部木质贴...",
+      "full_text": "悉尼歌剧院白色壳片如风帆矗立港湾，混凝土薄壳结构，内部木质贴面声学精妙。歌剧院是二十世纪最具标志性的建筑之一，定义了悉尼的天际线。",
       "image": "res://assets/images/illustrations/housing/housing_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "housing_046",
-      "title": "漂浮城市",
-      "summary": "漂浮城市概念设计，应对海平面上升，未来海洋居住方案",
-      "full_text": "漂浮城市概念设计，应对海平面上升，未来海洋居住方案",
+      "title": "迪拜哈利法塔",
+      "summary": "迪拜哈利法塔高八百二十八米，Y形截面三翼支撑，外立面两万六千...",
+      "full_text": "迪拜哈利法塔高八百二十八米，Y形截面三翼支撑，外立面两万六千块玻璃幕墙。哈利法塔是人类建筑高度的极限挑战，工程技术的巅峰之作。",
       "image": "res://assets/images/illustrations/housing/housing_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "housing_047",
-      "title": "垂直森林",
-      "summary": "米兰垂直森林高楼种满树木，净化空气降低温度，绿色建筑",
-      "full_text": "米兰垂直森林高楼种满树木，净化空气降低温度，绿色建筑",
+      "title": "巴黎埃菲尔铁塔",
+      "summary": "埃菲尔铁塔以七千三百吨熟铁构建，一万八千零三十八个铁件以二百...",
+      "full_text": "埃菲尔铁塔以七千三百吨熟铁构建，一万八千零三十八个铁件以二百五十万颗铆钉连接。铁塔是工业革命的纪念碑，建造时饱受争议如今成为象征。",
       "image": "res://assets/images/illustrations/housing/housing_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "housing_048",
-      "title": "微住宅运动",
-      "summary": "微住宅运动倡导极简生活，十平方米内功能齐全，少即是多",
-      "full_text": "微住宅运动倡导极简生活，十平方米内功能齐全，少即是多",
+      "title": "罗马万神殿",
+      "summary": "罗马万神殿穹顶直径四十三米，无筋混凝土浇筑，顶部圆洞直径九米...",
+      "full_text": "罗马万神殿穹顶直径四十三米，无筋混凝土浇筑，顶部圆洞直径九米为唯一光源。万神殿是古罗马建筑的巅峰，穹顶记录保持了一千三百年。",
       "image": "res://assets/images/illustrations/housing/housing_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "housing_049",
-      "title": "智能住宅",
-      "summary": "智能住宅语音控制家电，自动调节光线温度，科技便利生活",
-      "full_text": "智能住宅语音控制家电，自动调节光线温度，科技便利生活",
+      "title": "印度泰姬陵",
+      "summary": "泰姬陵以白色大理石建造，镶嵌二十八种宝石，四座宣礼塔微微外倾...",
+      "full_text": "泰姬陵以白色大理石建造，镶嵌二十八种宝石，四座宣礼塔微微外倾防倒塌。泰姬陵是莫卧儿建筑的瑰宝，一座陵墓成为永恒的爱情象征。",
       "image": "res://assets/images/illustrations/housing/housing_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "housing_050",
-      "title": "共享居住空间",
-      "summary": "共享居住空间公共厨房客厅，独立卧室，社区互助新模式",
-      "full_text": "共享居住空间公共厨房客厅，独立卧室，社区互助新模式",
+      "title": "长城与烽火台",
+      "summary": "万里长城蜿蜒于崇山峻岭，青砖砌筑城墙宽可并行五马，烽火台每隔...",
+      "full_text": "万里长城蜿蜒于崇山峻岭，青砖砌筑城墙宽可并行五马，烽火台每隔五里设一座。长城是古代最伟大的防御工程，绵延万里守护农耕文明。",
       "image": "res://assets/images/illustrations/housing/housing_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "housing_051",
-      "title": "灾后临时住房",
-      "summary": "灾后临时住房纸管搭建，快速安置灾民，坂茂人道主义设计",
-      "full_text": "灾后临时住房纸管搭建，快速安置灾民，坂茂人道主义设计",
+      "title": "吴哥窟",
+      "summary": "柬埔寨吴哥窟以砂岩巨块堆砌，回廊浮雕绵延八百米，五座塔象征须...",
+      "full_text": "柬埔寨吴哥窟以砂岩巨块堆砌，回廊浮雕绵延八百米，五座塔象征须弥山。吴哥窟是高棉帝国的建筑杰作，被丛林吞噬数百年后重见天日。",
       "image": "res://assets/images/illustrations/housing/housing_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "housing_052",
-      "title": "移动房车",
-      "summary": "移动房车旅行居住一体，车轮上的家，自由探索世界",
-      "full_text": "移动房车旅行居住一体，车轮上的家，自由探索世界",
+      "title": "圣家族大教堂",
+      "summary": "巴塞罗那圣家族大教堂如巨型石笋生长，双曲面柱如森林树干分叉支...",
+      "full_text": "巴塞罗那圣家族大教堂如巨型石笋生长，双曲面柱如森林树干分叉支撑穹顶。高迪将自然形态融入建筑，这座教堂建造了一百四十余年仍未完工。",
       "image": "res://assets/images/illustrations/housing/housing_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "housing_053",
-      "title": "改造老宅",
-      "summary": "改造老宅保留历史风貌，内部现代化升级，新旧交融",
-      "full_text": "改造老宅保留历史风貌，内部现代化升级，新旧交融",
+      "title": "日本金阁寺",
+      "summary": "京都金阁寺三层楼阁贴满金箔倒映镜湖池，一层贵族风格二层武家风...",
+      "full_text": "京都金阁寺三层楼阁贴满金箔倒映镜湖池，一层贵族风格二层武家风格三层禅宗风格。金阁寺融合三种建筑样式，是日本室町时代美学的极致。",
       "image": "res://assets/images/illustrations/housing/housing_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "housing_054",
-      "title": "社区花园",
-      "summary": "社区花园居民共同耕种，屋顶空地变绿洲，邻里和谐",
-      "full_text": "社区花园居民共同耕种，屋顶空地变绿洲，邻里和谐",
+      "title": "莫斯科克里姆林宫",
+      "summary": "克里姆林宫红墙围合，洋葱头穹顶金光闪耀，伊凡钟楼高耸八十一米...",
+      "full_text": "克里姆林宫红墙围合，洋葱头穹顶金光闪耀，伊凡钟楼高耸八十一米俯瞰莫斯科河。克里姆林宫是俄罗斯权力的象征，建筑群跨越六个世纪。",
       "image": "res://assets/images/illustrations/housing/housing_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "housing_055",
-      "title": "零碳住宅",
-      "summary": "零碳住宅太阳能风能自给，碳中和生活方式，环保先锋",
-      "full_text": "零碳住宅太阳能风能自给，碳中和生活方式，环保先锋",
+      "title": "秘鲁马丘比丘",
+      "summary": "安第斯山巅马丘比丘以巨石精密咬合砌筑，无灰浆缝隙不及刀刃，梯...",
+      "full_text": "安第斯山巅马丘比丘以巨石精密咬合砌筑，无灰浆缝隙不及刀刃，梯田引水系统完善。印加人在海拔两千四百米处建造城市，是山地建筑的奇迹。",
       "image": "res://assets/images/illustrations/housing/housing_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "housing_056",
-      "title": "防空洞改造",
-      "summary": "防空洞改造成地下社区，蘑菇农场数据中心，地下空间新生",
-      "full_text": "防空洞改造成地下社区，蘑菇农场数据中心，地下空间新生",
+      "title": "比萨斜塔",
+      "summary": "比萨斜塔因地基不均匀沉降倾斜，八层圆形钟楼白色大理石圆柱环绕...",
+      "full_text": "比萨斜塔因地基不均匀沉降倾斜，八层圆形钟楼白色大理石圆柱环绕，倾斜五度。斜塔的缺陷反而成就了它的传奇，是建筑意外之美的典范。",
       "image": "res://assets/images/illustrations/housing/housing_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "housing_057",
-      "title": "装配式建筑",
-      "summary": "装配式建筑构件工厂预制，现场组装高效，建筑工业化",
-      "full_text": "装配式建筑构件工厂预制，现场组装高效，建筑工业化",
+      "title": "古罗马斗兽场",
+      "summary": "罗马斗兽场椭圆形四层看台可容五万观众，拱券结构层层叠叠，地下...",
+      "full_text": "罗马斗兽场椭圆形四层看台可容五万观众，拱券结构层层叠叠，地下通道关押猛兽。斗兽场是古罗马工程与娱乐的巅峰，见证了帝国的辉煌与残酷。",
       "image": "res://assets/images/illustrations/housing/housing_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "housing_058",
-      "title": "可移动折叠屋",
-      "summary": "可移动折叠屋展开即住，收纳运输方便，游牧式现代生活",
-      "full_text": "可移动折叠屋展开即住，收纳运输方便，游牧式现代生活",
+      "title": "雅典帕特农神庙",
+      "summary": "雅典卫城帕特农神庙多立克柱廊围合，四十六根大理石柱支撑，视觉...",
+      "full_text": "雅典卫城帕特农神庙多立克柱廊围合，四十六根大理石柱支撑，视觉修正曲线精妙。帕特农神庙是古希腊建筑的最高成就，西方建筑美学的源头。",
       "image": "res://assets/images/illustrations/housing/housing_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "housing_059",
-      "title": "住宅与自然融合",
-      "summary": "住宅与自然融合设计，大面积落地窗引景入室，天人合一",
-      "full_text": "住宅与自然融合设计，大面积落地窗引景入室，天人合一",
+      "title": "纽约自由女神像",
+      "summary": "自由女神像高九十三米矗立纽约港，铜板外壳锻打成型，内部钢骨架...",
+      "full_text": "自由女神像高九十三米矗立纽约港，铜板外壳锻打成型，内部钢骨架由埃菲尔设计。自由女神像是法国赠予美国的礼物，成为自由与希望的象征。",
       "image": "res://assets/images/illustrations/housing/housing_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "housing_060",
-      "title": "窑洞民居",
-      "summary": "黄土高原窑洞民居，冬暖夏凉节约能源，生土建筑",
-      "full_text": "黄土高原窑洞民居，冬暖夏凉节约能源，生土建筑",
+      "title": "巴黎凯旋门",
+      "summary": "巴黎凯旋门高五十米，浮雕描绘拿破仑战争场景，无名烈士墓前长明...",
+      "full_text": "巴黎凯旋门高五十米，浮雕描绘拿破仑战争场景，无名烈士墓前长明火永不熄灭。凯旋门是法兰西荣耀的纪念碑，十二条大道从它辐射而出。",
       "image": "res://assets/images/illustrations/housing/housing_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "housing_061",
-      "title": "土楼聚居",
-      "summary": "福建土楼圆形方形的夯土建筑，家族聚居防御功能",
-      "full_text": "福建土楼圆形方形的夯土建筑，家族聚居防御功能",
+      "title": "卢浮宫玻璃金字塔",
+      "summary": "卢浮宫庭院中玻璃金字塔由六百块菱形玻璃拼成，钢构架轻盈通透，...",
+      "full_text": "卢浮宫庭院中玻璃金字塔由六百块菱形玻璃拼成，钢构架轻盈通透，地下入口大厅明亮。贝聿铭的玻璃金字塔是古典与现代对话的经典，争议中成为地标。",
       "image": "res://assets/images/illustrations/housing/housing_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "housing_062",
-      "title": "蒙古包",
-      "summary": "蒙古包毡房游牧民居，可拆卸搬迁草原生活，移动家园",
-      "full_text": "蒙古包毡房游牧民居，可拆卸搬迁草原生活，移动家园",
+      "title": "鸟巢国家体育场",
+      "summary": "北京鸟巢国家体育场钢结构交织如鸟巢编织，四万两千吨钢材构成椭...",
+      "full_text": "北京鸟巢国家体育场钢结构交织如鸟巢编织，四万两千吨钢材构成椭圆碗状，红色灯光映照。鸟巢是赫尔佐格与德梅隆的设计，奥运建筑的里程碑。",
       "image": "res://assets/images/illustrations/housing/housing_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "housing_063",
-      "title": "吊脚楼",
-      "summary": "苗族吊脚楼依山而建，底层架空防潮通风，山地民居",
-      "full_text": "苗族吊脚楼依山而建，底层架空防潮通风，山地民居",
+      "title": "水立方游泳中心",
+      "summary": "水立方外立面ETFE膜气泡结构如蓝色水晶，光线穿透变幻色彩，...",
+      "full_text": "水立方外立面ETFE膜气泡结构如蓝色水晶，光线穿透变幻色彩，夜间LED照明如梦如幻。水立方是首个基于泡沫理论设计的建筑，科学与美学的融合。",
       "image": "res://assets/images/illustrations/housing/housing_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "housing_064",
-      "title": "智能住宅",
-      "summary": "智能住宅全屋智能控制，语音调节灯光温度，科技家居",
-      "full_text": "智能住宅全屋智能控制，语音调节灯光温度，科技家居",
+      "title": "古埃及金字塔",
+      "summary": "吉萨高原上胡夫金字塔高一百四十六米，二百三十万块石灰岩垒砌，...",
+      "full_text": "吉萨高原上胡夫金字塔高一百四十六米，二百三十万块石灰岩垒砌，每块重达两吨半。金字塔是古埃及法老的陵墓，四千五百年后仍是人类建筑的不朽奇迹。",
       "image": "res://assets/images/illustrations/housing/housing_064.jpg",
       "image_grid": {
         "x": 3,

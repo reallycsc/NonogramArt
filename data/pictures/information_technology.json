@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "information_technology_000",
-      "title": "算盘计算",
-      "summary": "中国算盘珠算运算，上下珠拨动计算，古老计算工具",
-      "full_text": "中国算盘珠算运算，上下珠拨动计算，古老计算工具",
+      "title": "ENIAC首台电子计算机",
+      "summary": "一九四六年宾夕法尼亚大学，ENIAC轰鸣启动。重达三十吨由一...",
+      "full_text": "一九四六年宾夕法尼亚大学，ENIAC轰鸣启动。重达三十吨由一万八千个真空管组成，每秒执行五千次加法运算，耗电量足以点亮一条街。它为弹道计算而生，却开启了电子计算的全新纪元。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "information_technology_001",
-      "title": "纳皮尔对数",
-      "summary": "纳皮尔发明对数，简化乘除为加减，计算革命",
-      "full_text": "纳皮尔发明对数，简化乘除为加减，计算革命",
+      "title": "冯诺依曼架构",
+      "summary": "一九四五年冯诺依曼提出存储程序概念，将指令和数据存入同一内存...",
+      "full_text": "一九四五年冯诺依曼提出存储程序概念，将指令和数据存入同一内存由控制器依次取指执行。此后七十年从巨型机到手机，冯诺依曼体系至今未变，堪称计算机科学的万世之法。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "information_technology_002",
-      "title": "帕斯卡计算器",
-      "summary": "帕斯卡机械计算器，齿轮转动加减运算，计算先驱",
-      "full_text": "帕斯卡机械计算器，齿轮转动加减运算，计算先驱",
+      "title": "晶体管取代真空管",
+      "summary": "一九四七年贝尔实验室肖克利等人发明晶体管，用半导体替代笨重真...",
+      "full_text": "一九四七年贝尔实验室肖克利等人发明晶体管，用半导体替代笨重真空管。晶体管体积小功耗低寿命长，使计算机从房间缩小到柜子大小。这项发明获诺贝尔物理学奖，是信息革命的真正起点。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "information_technology_003",
-      "title": "巴贝奇差分机",
-      "summary": "巴贝奇差分机设计，齿轮编程自动计算，计算机雏形",
-      "full_text": "巴贝奇差分机设计，齿轮编程自动计算，计算机雏形",
+      "title": "集成电路芯片",
+      "summary": "一九五八年基尔比和诺伊斯分别发明集成电路，将多个晶体管刻在同...",
+      "full_text": "一九五八年基尔比和诺伊斯分别发明集成电路，将多个晶体管刻在同一块硅片上。摩尔定律预言晶体管数每两年翻番，从最初几个到如今数百亿个。集成电路是信息时代的基石，硅谷由此得名。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "information_technology_004",
-      "title": "ENIAC计算机",
-      "summary": "ENIAC第一台电子计算机，真空管占地170平方米",
-      "full_text": "ENIAC第一台电子计算机，真空管占地170平方米",
+      "title": "个人电脑普及",
+      "summary": "一九八一年IBM推出首台个人电脑采用开放架构，苹果Macin...",
+      "full_text": "一九八一年IBM推出首台个人电脑采用开放架构，苹果Macintosh以图形界面和鼠标开创直观交互。电脑从实验室走入千家万户，文字处理和电子表格改变办公方式，信息民主化由此开始。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "information_technology_005",
-      "title": "冯诺依曼架构",
-      "summary": "冯诺依曼存储程序架构，CPU内存输入输出，计算机基础",
-      "full_text": "冯诺依曼存储程序架构，CPU内存输入输出，计算机基础",
+      "title": "操作系统内核",
+      "summary": "操作系统内核负责CPU调度、内存分配和设备驱动。一九六九年U...",
+      "full_text": "操作系统内核负责CPU调度、内存分配和设备驱动。一九六九年Unix以简洁优雅著称，Linux继承其精神成为服务器之王，Windows统治桌面。操作系统让硬件从冰冷芯片变为可用平台。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "information_technology_006",
-      "title": "晶体管计算机",
-      "summary": "晶体管取代真空管，计算机体积缩小性能提升",
-      "full_text": "晶体管取代真空管，计算机体积缩小性能提升",
+      "title": "编程语言演进",
+      "summary": "从打孔卡片机器码到助记符汇编，到C语言指针与内存，再到Pyt...",
+      "full_text": "从打孔卡片机器码到助记符汇编，到C语言指针与内存，再到Python简洁优雅。每步抽象让程序员离机器更远离问题更近。Fortran处理科学计算，COBOL书写商业逻辑，语言演进映射计算需求变迁。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "information_technology_007",
-      "title": "集成电路计算机",
-      "summary": "集成电路计算机，芯片集成运算速度飞跃",
-      "full_text": "集成电路计算机，芯片集成运算速度飞跃",
+      "title": "编译器与解释器",
+      "summary": "编译器将高级语言翻译为机器码，经词法分析语法分析优化和代码生...",
+      "full_text": "编译器将高级语言翻译为机器码，经词法分析语法分析优化和代码生成四阶段。解释器逐行执行无需编译，Python和JavaScript因此灵活便捷。编译求快解释求活，各有千秋。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "information_technology_008",
-      "title": "个人电脑PC",
-      "summary": "个人电脑走进家庭，键盘显示器鼠标，信息革命",
-      "full_text": "个人电脑走进家庭，键盘显示器鼠标，信息革命",
+      "title": "算法与数据结构",
+      "summary": "快速排序用分治法将无序变有序，二叉搜索树让查找从线性降为对数...",
+      "full_text": "快速排序用分治法将无序变有序，二叉搜索树让查找从线性降为对数时间。Dijkstra寻最短路径，动态规划解最优子结构。算法是程序灵魂，时间与空间取舍是永恒主题，好算法让慢百倍程序起死回生。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "information_technology_009",
-      "title": "苹果Macintosh",
-      "summary": "苹果Mac图形界面，鼠标操作所见即所得，人机交互革命",
-      "full_text": "苹果Mac图形界面，鼠标操作所见即所得，人机交互革命",
+      "title": "数据库管理",
+      "summary": "一九七零年科德提出关系模型用表格存储数据SQL精确查询。Or...",
+      "full_text": "一九七零年科德提出关系模型用表格存储数据SQL精确查询。Oracle和MySQL支撑全球业务，ACID事务保证银行转账不出错。索引让亿行数据秒级检索，数据库是信息系统的定海神针。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "information_technology_010",
-      "title": "微软Windows",
-      "summary": "Windows操作系统普及，图形界面办公软件，PC时代",
-      "full_text": "Windows操作系统普及，图形界面办公软件，PC时代",
+      "title": "芯片设计EDA",
+      "summary": "现代芯片集成数百亿晶体管，EDA工具自动完成逻辑综合布局布线...",
+      "full_text": "现代芯片集成数百亿晶体管，EDA工具自动完成逻辑综合布局布线和时序验证，将抽象代码变为物理版图。一颗先进制程芯片设计成本超三亿美元，EDA是芯片之母，没有它就没有数字时代。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "information_technology_011",
-      "title": "笔记本电脑",
-      "summary": "笔记本电脑便携移动，商务旅行随时办公，移动计算",
-      "full_text": "笔记本电脑便携移动，商务旅行随时办公，移动计算",
+      "title": "指令集架构",
+      "summary": "x86复杂指令集主宰PC和服务器，ARM精简指令集以低功耗统...",
+      "full_text": "x86复杂指令集主宰PC和服务器，ARM精简指令集以低功耗统治手机。RISC-V开源指令集打破垄断让人人可设计处理器。指令集是软硬件的契约，决定芯片能理解何种命令，架构之争是产业制高点。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "information_technology_012",
-      "title": "智能手机",
-      "summary": "智能手机触屏操作，APP生态万物互联，掌上电脑",
-      "full_text": "智能手机触屏操作，APP生态万物互联，掌上电脑",
+      "title": "虚拟化技术",
+      "summary": "Hypervisor在一台物理机上运行多个虚拟机各拥独立系统...",
+      "full_text": "Hypervisor在一台物理机上运行多个虚拟机各拥独立系统。VMware让服务器利用率从百分之十五提升到八十，Docker容器进一步轻量化。虚拟化是云计算基石，一台机器变多台资源不再浪费。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "information_technology_013",
-      "title": "平板电脑",
-      "summary": "平板电脑触控大屏，阅读绘画轻便携带，移动终端",
-      "full_text": "平板电脑触控大屏，阅读绘画轻便携带，移动终端",
+      "title": "软件工程方法",
+      "summary": "一九六八年北约会议提出软件工程应对软件危机。瀑布模型严格按阶...",
+      "full_text": "一九六八年北约会议提出软件工程应对软件危机。瀑布模型严格按阶段推进，螺旋模型迭代风险管理。软件工程让编程从手艺变为工程，需求分析架构设计和质量保证缺一不可。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "information_technology_014",
-      "title": "超级计算机",
-      "summary": "超级计算机天河二号，万亿次运算科学计算，算力巅峰",
-      "full_text": "超级计算机天河二号，万亿次运算科学计算，算力巅峰",
+      "title": "版本控制Git",
+      "summary": "二零零五年林纳斯两周写出Git原型，用分布式架构管理Linu...",
+      "full_text": "二零零五年林纳斯两周写出Git原型，用分布式架构管理Linux内核。每个开发者拥有完整仓库分支合并轻量高效。GitHub让全球程序员协作成日常，每次提交都是代码快照，Git是程序员的时光机。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "information_technology_015",
-      "title": "量子计算机",
-      "summary": "量子计算机量子比特，叠加态并行计算，算力革命",
-      "full_text": "量子计算机量子比特，叠加态并行计算，算力革命",
+      "title": "软件测试与质量",
+      "summary": "单元测试验证函数正确性，集成测试检查模块协作，端到端测试模拟...",
+      "full_text": "单元测试验证函数正确性，集成测试检查模块协作，端到端测试模拟用户操作。自动化流水线每次提交运行数千用例，测试金字塔指导投入比例。测试是质量防线，一个未捕获bug可能造成数亿损失。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "information_technology_016",
-      "title": "服务器机房",
-      "summary": "数据中心服务器机架，散热供电网络连接，信息基础设施",
-      "full_text": "数据中心服务器机架，散热供电网络连接，信息基础设施",
+      "title": "敏捷开发迭代",
+      "summary": "二零零一年十七位开发者签署敏捷宣言强调个体互动胜过流程工具。...",
+      "full_text": "二零零一年十七位开发者签署敏捷宣言强调个体互动胜过流程工具。Scrum两周冲刺交付可用软件每日站会同步进度。看板可视化工作流，敏捷拥抱变化快速响应，用户反馈驱动产品持续进化。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "information_technology_017",
-      "title": "云计算平台",
-      "summary": "云计算弹性计算资源，按需使用付费，IT基础设施",
-      "full_text": "云计算弹性计算资源，按需使用付费，IT基础设施",
+      "title": "开源社区协作",
+      "summary": "Linux内核由全球数千开发者共同维护，Apache定义We...",
+      "full_text": "Linux内核由全球数千开发者共同维护，Apache定义Web服务器标准。GitHub上数百万开源项目自由协作。开源是创新引擎，共享与协作创造价值，代码无国界社区即力量。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "information_technology_018",
-      "title": "编程语言",
-      "summary": "编程语言从机器码到Python，抽象层次提升，人机对话",
-      "full_text": "编程语言从机器码到Python，抽象层次提升，人机对话",
+      "title": "前端技术演进",
+      "summary": "从jQuery操作DOM到React虚拟DOM高效渲染，再到...",
+      "full_text": "从jQuery操作DOM到React虚拟DOM高效渲染，再到Vue渐进式框架。组件化让界面像搭积木构建，单页应用体验媲美原生。前端工程化让浏览器应用越来越强大。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "information_technology_019",
-      "title": "操作系统",
-      "summary": "操作系统管理硬件资源，进程调度文件系统，软件基石",
-      "full_text": "操作系统管理硬件资源，进程调度文件系统，软件基石",
+      "title": "移动应用开发",
+      "summary": "二零零七年iPhone发布开启移动互联网。iOS和Andro...",
+      "full_text": "二零零七年iPhone发布开启移动互联网。iOS和Android原生开发性能最优，Flutter一套代码多端运行。移动应用重塑生活方式，手机成为最亲密的数字伙伴。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "information_technology_020",
-      "title": "数据库系统",
-      "summary": "数据库SQL查询管理，结构化存储高效检索，数据管理",
-      "full_text": "数据库SQL查询管理，结构化存储高效检索，数据管理",
+      "title": "API接口设计",
+      "summary": "RESTful API用HTTP动词操作资源成为Web服务标...",
+      "full_text": "RESTful API用HTTP动词操作资源成为Web服务标准。GraphQL精确查询所需字段，gRPC用Protocol Buffers高效序列化。API是系统间契约，好接口设计让集成事半功倍。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "information_technology_021",
-      "title": "软件工程",
-      "summary": "软件工程需求分析设计，测试维护质量保证，工程化开发",
-      "full_text": "软件工程需求分析设计，测试维护质量保证，工程化开发",
+      "title": "容器化部署",
+      "summary": "Docker将应用和依赖打包成轻量镜像秒级启动，Kubern...",
+      "full_text": "Docker将应用和依赖打包成轻量镜像秒级启动，Kubernetes编排管理容器集群自动扩缩容。容器化是云原生基石，开发测试生产环境一致，告别在我机器上能跑的尴尬，微服务架构因此繁荣。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "information_technology_022",
-      "title": "开源运动",
-      "summary": "开源运动Linux诞生，代码共享协作创新，自由软件",
-      "full_text": "开源运动Linux诞生，代码共享协作创新，自由软件",
+      "title": "微服务架构",
+      "summary": "单体应用拆分为独立部署的微服务，每个服务专注一个业务能力独立...",
+      "full_text": "单体应用拆分为独立部署的微服务，每个服务专注一个业务能力独立开发扩展。Netflix率先实践数千服务协同支撑全球流媒体。服务发现链路追踪和熔断降级是运维挑战，微服务让大象起舞也增加复杂度。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "information_technology_023",
-      "title": "万维网诞生",
-      "summary": "蒂姆伯纳斯李发明万维网，HTTP协议HTML语言",
-      "full_text": "蒂姆伯纳斯李发明万维网，HTTP协议HTML语言",
+      "title": "DevOps持续交付",
+      "summary": "CI/CD流水线自动构建测试部署代码，从提交到上线分钟级完成...",
+      "full_text": "CI/CD流水线自动构建测试部署代码，从提交到上线分钟级完成。DevOps打破开发和运维的墙，自动化是效率倍增器，小步快跑胜过大爆炸上线。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "information_technology_024",
-      "title": "浏览器战争",
-      "summary": "浏览器从网景到Chrome，网页渲染引擎竞争，入口之争",
-      "full_text": "浏览器从网景到Chrome，网页渲染引擎竞争，入口之争",
+      "title": "无服务器计算",
+      "summary": "Serverless平台按调用次数计费，开发者只写函数无需管...",
+      "full_text": "Serverless平台按调用次数计费，开发者只写函数无需管理服务器。AWS Lambda响应事件自动执行从零扩展到万并发。无服务器是云原生高级形态，按需付费零运维，但冷启动延迟和调试困难是挑战。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "information_technology_025",
-      "title": "搜索引擎",
-      "summary": "谷歌搜索引擎PageRank，海量信息精准检索，信息导航",
-      "full_text": "谷歌搜索引擎PageRank，海量信息精准检索，信息导航",
+      "title": "阿帕网互联网诞生",
+      "summary": "一九六九年美国国防部建立阿帕网，四个大学节点首次互联。分组交...",
+      "full_text": "一九六九年美国国防部建立阿帕网，四个大学节点首次互联。分组交换让数据拆成小包沿不同路径传输，部分线路中断通信仍可继续。阿帕网是互联网雏形，冷战的恐惧催生了改变世界的网络。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "information_technology_026",
-      "title": "电子邮件",
-      "summary": "电子邮件即时通信，SMTP协议全球收发，数字通信",
-      "full_text": "电子邮件即时通信，SMTP协议全球收发，数字通信",
+      "title": "TCP/IP协议互联",
+      "summary": "TCP将数据拆包编号保证可靠传输，IP为每个节点分配地址负责...",
+      "full_text": "TCP将数据拆包编号保证可靠传输，IP为每个节点分配地址负责路由寻址。一九八三年ARPANET全面切换TCP/IP，不同网络从此互联互通。TCP/IP是互联网通用语言，让全球数十亿设备自由通信。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "information_technology_027",
-      "title": "社交媒体",
-      "summary": "社交媒体脸书推特，用户生成内容分享，网络社区",
-      "full_text": "社交媒体脸书推特，用户生成内容分享，网络社区",
+      "title": "万维网WWW",
+      "summary": "一九八九年蒂姆·伯纳斯-李在CERN提出万维网构想，发明HT...",
+      "full_text": "一九八九年蒂姆·伯纳斯-李在CERN提出万维网构想，发明HTML和HTTP。超链接让文档自由跳转，浏览器让普通人浏览网页。万维网让互联网从学术工具变为大众平台，一个链接改变了整个世界。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "information_technology_028",
-      "title": "电子商务",
-      "summary": "电子商务淘宝亚马逊，在线支付物流配送，数字商业",
-      "full_text": "电子商务淘宝亚马逊，在线支付物流配送，数字商业",
+      "title": "浏览器演进",
+      "summary": "一九九三年Mosaic首次在网页显示图片，网景开启商业化浪潮...",
+      "full_text": "一九九三年Mosaic首次在网页显示图片，网景开启商业化浪潮。IE与网景大战后Chrome凭V8引擎称王。浏览器从文档查看器演变为应用平台，WebAssembly让浏览器运行接近原生代码。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "information_technology_029",
-      "title": "即时通讯",
-      "summary": "微信WhatsApp即时通讯，语音视频文字，随时连接",
-      "full_text": "微信WhatsApp即时通讯，语音视频文字，随时连接",
+      "title": "搜索引擎索引",
+      "summary": "谷歌用爬虫抓取数百亿网页建立倒排索引，PageRank算法根...",
+      "full_text": "谷歌用爬虫抓取数百亿网页建立倒排索引，PageRank算法根据链接关系评估页面重要性。用户输入关键词毫秒级返回结果，每天处理数十亿次搜索。搜索引擎是互联网的导航仪，让信息触手可及。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "information_technology_030",
-      "title": "网络视频",
-      "summary": "YouTube哔哩哔哩视频平台，UGC内容创作，视频时代",
-      "full_text": "YouTube哔哩哔哩视频平台，UGC内容创作，视频时代",
+      "title": "电子邮件通信",
+      "summary": "一九七一年汤姆林森发出第一封电子邮件，选择@符号分隔用户名和...",
+      "full_text": "一九七一年汤姆林森发出第一封电子邮件，选择@符号分隔用户名和主机名。SMTP发送POP3和IMAP接收。电子邮件让异步通信跨越时区，从学术交流到商业往来，至今仍是互联网最基础的应用之一。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "information_technology_031",
-      "title": "网络安全",
-      "summary": "网络安全防火墙加密，黑客攻防数据保护，信息安全",
-      "full_text": "网络安全防火墙加密，黑客攻防数据保护，信息安全",
+      "title": "社交网络连接",
+      "summary": "二零零四年扎克伯格在哈佛宿舍创建Facebook让全球数十亿...",
+      "full_text": "二零零四年扎克伯格在哈佛宿舍创建Facebook让全球数十亿人在线社交。微博用一百四十字改变公共表达，微信朋友圈重塑熟人社交。社交网络让六度分隔变为现实，信息传播从天缩短到秒。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "information_technology_032",
-      "title": "5G通信",
-      "summary": "5G通信高速低延迟，万物互联基础，通信革命",
-      "full_text": "5G通信高速低延迟，万物互联基础，通信革命",
+      "title": "电子商务平台",
+      "summary": "一九九五年亚马逊从网上卖书起步，阿里巴巴让天下没有难做的生意...",
+      "full_text": "一九九五年亚马逊从网上卖书起步，阿里巴巴让天下没有难做的生意。电商平台连接买卖双方，支付系统和物流网络支撑交易闭环。从C2C到B2C到直播带货，电子商务重塑零售格局。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "information_technology_033",
-      "title": "物联网",
-      "summary": "物联网传感器联网，智能家居智慧城市，万物互联",
-      "full_text": "物联网传感器联网，智能家居智慧城市，万物互联",
+      "title": "云计算弹性",
+      "summary": "二零零六年AWS推出EC2和S3，将计算和存储变为按需使用的...",
+      "full_text": "二零零六年AWS推出EC2和S3，将计算和存储变为按需使用的公共服务。云服务器弹性伸缩应对流量洪峰，从IaaS到PaaS到SaaS，企业不再需要自建机房，云计算是数字时代的基础设施。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "information_technology_034",
-      "title": "区块链技术",
-      "summary": "区块链去中心化账本，不可篡改可追溯，信任机器",
-      "full_text": "区块链去中心化账本，不可篡改可追溯，信任机器",
+      "title": "大数据分析",
+      "summary": "Hadoop用MapReduce分布式处理PB级数据，Spa...",
+      "full_text": "Hadoop用MapReduce分布式处理PB级数据，Spark以内存计算提速百倍。从海量日志挖掘用户行为模式，从交易数据发现欺诈线索。大数据让决策从经验驱动变为数据驱动，数据是新时代的石油。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "information_technology_035",
-      "title": "大数据分析",
-      "summary": "大数据4V特征，挖掘分析预测决策，数据驱动",
-      "full_text": "大数据4V特征，挖掘分析预测决策，数据驱动",
+      "title": "DNS域名解析",
+      "summary": "DNS将人类可读域名翻译为机器可用IP地址，递归查询从根服务...",
+      "full_text": "DNS将人类可读域名翻译为机器可用IP地址，递归查询从根服务器逐级找到目标。全球十三组根服务器支撑域名体系，缓存机制加速解析。DNS是互联网的电话簿，域名劫持和DDoS攻击是安全威胁。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "information_technology_036",
-      "title": "云计算服务",
-      "summary": "云计算IaaS PaaS SaaS，按需弹性资源服务，IT新...",
-      "full_text": "云计算IaaS PaaS SaaS，按需弹性资源服务，IT新模式",
+      "title": "CDN内容加速",
+      "summary": "CDN将网页图片和视频缓存到全球数百个边缘节点，用户就近访问...",
+      "full_text": "CDN将网页图片和视频缓存到全球数百个边缘节点，用户就近访问大幅降低延迟。Akamai率先商业化CDN，Netflix用CDN分发全球视频流量。内容分发网络是互联网的快递站，让高清视频流畅播放。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "information_technology_037",
-      "title": "深度学习",
-      "summary": "深度学习神经网络，多层特征自动提取，AI突破",
-      "full_text": "深度学习神经网络，多层特征自动提取，AI突破",
+      "title": "SSL/TLS加密",
+      "summary": "SSL/TLS在浏览器和服务器间建立加密通道，握手协商密钥证...",
+      "full_text": "SSL/TLS在浏览器和服务器间建立加密通道，握手协商密钥证书验证身份。HTTPS小锁图标表示连接安全，中间人攻击无处遁形。从SSL三点零到TLS一点三加密算法不断升级，HTTPS已成Web标配。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "information_technology_038",
-      "title": "图像识别",
-      "summary": "图像识别卷积网络，人脸检测物体分类，视觉AI",
-      "full_text": "图像识别卷积网络，人脸检测物体分类，视觉AI",
+      "title": "网络安全攻防",
+      "summary": "防火墙拦截恶意流量，入侵检测系统监控异常行为，WAF保护We...",
+      "full_text": "防火墙拦截恶意流量，入侵检测系统监控异常行为，WAF保护Web应用免受攻击。黑客利用漏洞入侵安全工程师修补防线，攻防博弈永无止境。零日漏洞价值百万勒索软件肆虐全球，网络安全是数字世界的免疫系统。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "information_technology_039",
-      "title": "自然语言处理",
-      "summary": "自然语言处理理解生成，机器翻译对话系统，语言AI",
-      "full_text": "自然语言处理理解生成，机器翻译对话系统，语言AI",
+      "title": "密码学加密",
+      "summary": "RSA非对称加密用公钥加密私钥解密解决密钥分发难题。AES对...",
+      "full_text": "RSA非对称加密用公钥加密私钥解密解决密钥分发难题。AES对称加密高效保护数据传输，SHA哈希验证完整性。密码学是信息安全的数学基础，量子计算威胁现有体系，后量子密码学正在未雨绸缪。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "information_technology_040",
-      "title": "自动驾驶",
-      "summary": "自动驾驶感知决策控制，激光雷达摄像头，智能出行",
-      "full_text": "自动驾驶感知决策控制，激光雷达摄像头，智能出行",
+      "title": "区块链去中心化",
+      "summary": "二零零八年中本聪发表比特币白皮书，用哈希链和工作量证明保证数...",
+      "full_text": "二零零八年中本聪发表比特币白皮书，用哈希链和工作量证明保证数据不可篡改。区块链是去中心化信任机器，无需第三方即可达成共识。从加密货币到智能合约到供应链溯源，区块链应用边界不断扩展。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "information_technology_041",
-      "title": "AI绘画",
-      "summary": "AI绘画扩散模型生成，文字描述变图像，创意AI",
-      "full_text": "AI绘画扩散模型生成，文字描述变图像，创意AI",
+      "title": "物联网万物互联",
+      "summary": "传感器嵌入家电汽车和工业设备通过互联网连接传输数据。智能家居...",
+      "full_text": "传感器嵌入家电汽车和工业设备通过互联网连接传输数据。智能家居自动调节灯光温度安防，智慧城市用传感器优化交通能源。物联网让万物可感可控，预计二零三零年千亿设备联网。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "information_technology_042",
-      "title": "大语言模型",
-      "summary": "大语言模型GPT，文本生成对话推理，通用AI雏形",
-      "full_text": "大语言模型GPT，文本生成对话推理，通用AI雏形",
+      "title": "边缘计算近端",
+      "summary": "边缘计算在数据产生处就近处理减少云端传输延迟满足实时需求。自...",
+      "full_text": "边缘计算在数据产生处就近处理减少云端传输延迟满足实时需求。自动驾驶在本地毫秒级识别行人障碍物，工厂产线在边缘实时检测产品缺陷。边缘计算是云计算的补充，核心与边缘协同让智能无处不在。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "information_technology_043",
-      "title": "AI医疗诊断",
-      "summary": "AI医疗影像诊断，辅助医生精准判读，智慧医疗",
-      "full_text": "AI医疗影像诊断，辅助医生精准判读，智慧医疗",
+      "title": "5G通信高速",
+      "summary": "5G峰值速率超十Gbps是4G百倍，端到端延迟低至一毫秒。毫...",
+      "full_text": "5G峰值速率超十Gbps是4G百倍，端到端延迟低至一毫秒。毫米波提供超大带宽，大规模天线阵列提升频谱效率。5G支持车联网远程手术和工业互联网，是数字基础设施底座，从消费互联网走向产业互联网。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "information_technology_044",
-      "title": "机器人技术",
-      "summary": "机器人感知运动控制，从工业到服务，智能体",
-      "full_text": "机器人感知运动控制，从工业到服务，智能体",
+      "title": "WiFi无线连接",
+      "summary": "WiFi6用OFDMA和MU-MIMO提升多设备并发性能，理...",
+      "full_text": "WiFi6用OFDMA和MU-MIMO提升多设备并发性能，理论速率近十Gbps。从WiFi1到WiFi7速率提升千倍。WiFi让笔记本和手机摆脱网线束缚，无线自由改变工作和生活方式。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "information_technology_045",
-      "title": "数字孪生",
-      "summary": "数字孪生虚实映射，实时仿真优化决策，元宇宙基础",
-      "full_text": "数字孪生虚实映射，实时仿真优化决策，元宇宙基础",
+      "title": "消息队列异步",
+      "summary": "Kafka每秒处理百万级消息，RabbitMQ灵活路由支持复...",
+      "full_text": "Kafka每秒处理百万级消息，RabbitMQ灵活路由支持复杂场景。消息队列解耦系统间通信削峰填谷保证稳定。双十一秒杀流量洪峰中消息队列缓冲订单请求后端从容处理，异步处理提升系统弹性。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "information_technology_046",
-      "title": "边缘计算",
-      "summary": "边缘计算就近处理，降低延迟节省带宽，分布式计算",
-      "full_text": "边缘计算就近处理，降低延迟节省带宽，分布式计算",
+      "title": "分布式系统",
+      "summary": "分布式系统将计算任务分散到多台机器协同完成，CAP定理证明一...",
+      "full_text": "分布式系统将计算任务分散到多台机器协同完成，CAP定理证明一致性可用性和分区容忍不可兼得。Paxos和Raft算法解决分布式共识，最终一致性在可用性和一致性间取得平衡。分布式系统是大规模服务的基础。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "information_technology_047",
-      "title": "隐私计算",
-      "summary": "隐私计算联邦学习，数据可用不可见，安全共享",
-      "full_text": "隐私计算联邦学习，数据可用不可见，安全共享",
+      "title": "负载均衡分流",
+      "summary": "Nginx和LVS将用户请求分发到多台后端服务器，健康检查自...",
+      "full_text": "Nginx和LVS将用户请求分发到多台后端服务器，健康检查自动剔除故障节点。轮询加权轮询和最少连接是常见策略。负载均衡是高可用系统入口，横向扩展应对流量洪峰，单点故障不再致命。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "information_technology_048",
-      "title": "低代码平台",
-      "summary": "低代码平台拖拽开发，降低编程门槛，全民开发",
-      "full_text": "低代码平台拖拽开发，降低编程门槛，全民开发",
+      "title": "日志监控运维",
+      "summary": "ELK平台收集分析数十亿条系统日志，Prometheus采集...",
+      "full_text": "ELK平台收集分析数十亿条系统日志，Prometheus采集指标触发告警，Grafana可视化仪表盘一目了然。可观测性是运维第三只眼，日志指标和链路追踪三位一体，故障时日志定位原因指标量化影响。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "information_technology_049",
-      "title": "DevOps实践",
-      "summary": "DevOps开发运维一体，持续集成持续交付，敏捷工程",
-      "full_text": "DevOps开发运维一体，持续集成持续交付，敏捷工程",
+      "title": "灰度发布风险",
+      "summary": "灰度发布先让百分之五用户使用新版本，监控错误率和性能指标无异...",
+      "full_text": "灰度发布先让百分之五用户使用新版本，监控错误率和性能指标无异常后逐步扩大到全量。金丝雀发布用一只金丝雀试探矿井毒气，灰度发布用少量流量验证新版本。快速回滚是最后防线，安全上线比快速上线更重要。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "information_technology_050",
-      "title": "AR增强现实",
-      "summary": "AR增强现实叠加信息，虚实融合导航购物，混合体验",
-      "full_text": "AR增强现实叠加信息，虚实融合导航购物，混合体验",
+      "title": "人工智能起源",
+      "summary": "一九五六年达特茅斯会议麦卡锡首次提出人工智能概念，十位学者探...",
+      "full_text": "一九五六年达特茅斯会议麦卡锡首次提出人工智能概念，十位学者探讨机器能否思考。此后经历两次寒冬三次浪潮，从专家系统到深度学习，AI在质疑和期望中曲折前行。七十年坚持终于等来深度学习爆发的黎明。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "information_technology_051",
-      "title": "VR虚拟现实",
-      "summary": "VR虚拟现实沉浸世界，头显手柄交互，虚拟体验",
-      "full_text": "VR虚拟现实沉浸世界，头显手柄交互，虚拟体验",
+      "title": "机器学习训练",
+      "summary": "监督学习用标注数据训练模型预测未知，无监督学习发现数据隐藏结...",
+      "full_text": "监督学习用标注数据训练模型预测未知，无监督学习发现数据隐藏结构，强化学习通过奖惩优化决策。训练集学习规律验证集调参防过拟合测试集评估泛化能力。机器学习让计算机从数据自动提取规律，数据越多模型越强。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "information_technology_052",
-      "title": "数字人技术",
-      "summary": "数字人虚拟形象，AI驱动表情动作，虚拟主播",
-      "full_text": "数字人虚拟形象，AI驱动表情动作，虚拟主播",
+      "title": "深度学习网络",
+      "summary": "二零一二年AlexNet在ImageNet竞赛大幅领先，深度...",
+      "full_text": "二零一二年AlexNet在ImageNet竞赛大幅领先，深度学习时代开启。卷积网络提取图像特征，循环网络处理序列，Transformer统一NLP。GPU是深度学习引擎，过拟合和梯度消失是永恒挑战。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "information_technology_053",
-      "title": "AI伦理",
-      "summary": "AI伦理算法偏见，隐私保护责任归属，科技向善",
-      "full_text": "AI伦理算法偏见，隐私保护责任归属，科技向善",
+      "title": "自然语言处理",
+      "summary": "从规则到统计到深度学习，自然语言处理让机器逐步理解人类语言。...",
+      "full_text": "从规则到统计到深度学习，自然语言处理让机器逐步理解人类语言。机器翻译打破语言壁垒，情感分析洞察舆论走向，问答系统精准回应查询。语义理解是终极目标，语言是思维的载体也是AI的圣杯。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "information_technology_054",
-      "title": "信息技术教育",
-      "summary": "信息技术教育编程思维，数字素养培养，未来技能",
-      "full_text": "信息技术教育编程思维，数字素养培养，未来技能",
+      "title": "计算机视觉",
+      "summary": "卷积神经网络从像素逐层提取边缘纹理和语义特征，实现图像分类和...",
+      "full_text": "卷积神经网络从像素逐层提取边缘纹理和语义特征，实现图像分类和目标检测。人脸识别解锁手机支付，医学影像辅助诊断肿瘤，自动驾驶识别行人红绿灯。计算机视觉让机器拥有眼睛，从看见到看懂。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "information_technology_055",
-      "title": "信息社会",
-      "summary": "信息社会数字化转型，数据成为新石油，时代变革",
-      "full_text": "信息社会数字化转型，数据成为新石油，时代变革",
+      "title": "语音识别合成",
+      "summary": "语音识别将声波转为文字，深度学习将错误率从百分之二十降到五。...",
+      "full_text": "语音识别将声波转为文字，深度学习将错误率从百分之二十降到五。语音合成将文字转为自然语音，神经声码器让机器声音媲美真人。智能助手由此诞生，语音交互是最自然人机界面，方言噪音仍是挑战。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "information_technology_056",
-      "title": "网络安全攻防",
-      "summary": "网络安全红蓝对抗，渗透测试漏洞修复，安全守护",
-      "full_text": "网络安全红蓝对抗，渗透测试漏洞修复，安全守护",
+      "title": "推荐系统个性化",
+      "summary": "协同过滤根据相似用户行为推荐，内容过滤匹配物品特征与用户偏好...",
+      "full_text": "协同过滤根据相似用户行为推荐，内容过滤匹配物品特征与用户偏好，深度学习融合两者捕捉兴趣变化。推荐系统是电商和短视频核心引擎让用户停留时间倍增。信息茧房是双刃剑，精准推荐与多元探索需平衡。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "information_technology_057",
-      "title": "芯片自主可控",
-      "summary": "芯片自主可控国产替代，突破封锁技术攻坚，战略产业",
-      "full_text": "芯片自主可控国产替代，突破封锁技术攻坚，战略产业",
+      "title": "知识图谱推理",
+      "summary": "知识图谱用实体和关系构建语义网络，谷歌知识图谱让搜索直接给出...",
+      "full_text": "知识图谱用实体和关系构建语义网络，谷歌知识图谱让搜索直接给出答案而非链接。图推理发现隐藏知识关联从已知推导未知。知识图谱让机器理解概念间联系，搜索问答推荐因此更智能，结构化知识是AI推理基石。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "information_technology_058",
-      "title": "信息无障碍",
-      "summary": "信息无障碍屏幕阅读器，语音交互辅助技术，科技普惠",
-      "full_text": "信息无障碍屏幕阅读器，语音交互辅助技术，科技普惠",
+      "title": "强化学习决策",
+      "summary": "二零一六年AlphaGo用强化学习击败世界围棋冠军，蒙特卡洛...",
+      "full_text": "二零一六年AlphaGo用强化学习击败世界围棋冠军，蒙特卡洛树搜索与深度网络结合。强化学习让智能体通过试错学习最优策略，从游戏到机器人控制到资源调度。奖励函数设计是关键，决策智能正在走向现实。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "information_technology_059",
-      "title": "容器化部署",
-      "summary": "Docker容器化部署，微服务架构弹性伸缩，云原生技术",
-      "full_text": "Docker容器化部署，微服务架构弹性伸缩，云原生技术",
+      "title": "生成对抗网络",
+      "summary": "生成器制造逼真假样本判别器区分真假，两者对抗训练共同进化。G...",
+      "full_text": "生成器制造逼真假样本判别器区分真假，两者对抗训练共同进化。GAN生成的面孔以假乱真，风格迁移让照片变为梵高画作。从图像生成到视频合成，GAN是AI的想象力引擎，但也引发深度伪造的伦理担忧。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "information_technology_060",
-      "title": "量子通信网络",
-      "summary": "量子通信量子密钥分发，绝对安全不可窃听，量子信息",
-      "full_text": "量子通信量子密钥分发，绝对安全不可窃听，量子信息",
+      "title": "大语言模型",
+      "summary": "GPT系列用Transformer在海量文本上预训练，参数从...",
+      "full_text": "GPT系列用Transformer在海量文本上预训练，参数从亿级跃升至万亿级。提示工程激发模型能力，思维链让推理可见。大语言模型从文本生成到代码编写展现涌现能力，通用人工智能的曙光或许就在前方。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "information_technology_061",
-      "title": "联邦学习",
-      "summary": "联邦学习数据不出域，多方协作训练模型，隐私AI",
-      "full_text": "联邦学习数据不出域，多方协作训练模型，隐私AI",
+      "title": "联邦学习隐私",
+      "summary": "联邦学习让数据不出本地就能联合训练模型，各参与方只共享模型参...",
+      "full_text": "联邦学习让数据不出本地就能联合训练模型，各参与方只共享模型参数不共享原始数据。医院联合训练诊断模型保护患者隐私，手机端个性化推荐不泄露用户行为。联邦学习是合规AI的必由之路，鱼和熊掌可以兼得。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "information_technology_062",
-      "title": "知识图谱",
-      "summary": "知识图谱实体关系网络，语义搜索智能问答，认知智能",
-      "full_text": "知识图谱实体关系网络，语义搜索智能问答，认知智能",
+      "title": "量子计算并行",
+      "summary": "量子比特利用叠加态同时处于零和一，纠缠态让远距比特瞬间关联。...",
+      "full_text": "量子比特利用叠加态同时处于零和一，纠缠态让远距比特瞬间关联。量子计算机在特定问题上指数级超越经典计算机，Shor算法威胁RSA加密。量子计算是计算的革命，但退相干和纠错仍是巨大挑战，实用化尚需时日。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "information_technology_063",
-      "title": "推荐系统",
-      "summary": "推荐系统协同过滤，个性化内容精准推送，信息过滤",
-      "full_text": "推荐系统协同过滤，个性化内容精准推送，信息过滤",
+      "title": "增强现实叠加",
+      "summary": "AR技术将虚拟信息叠加到真实世界，手机摄像头识别场景实时渲染...",
+      "full_text": "AR技术将虚拟信息叠加到真实世界，手机摄像头识别场景实时渲染3D内容。宜家APP让家具虚拟摆放在家中，工业维修用AR眼镜显示操作指引。增强现实让虚实融合，从游戏到教育到医疗AR正在改变感知世界的方式。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "information_technology_064",
-      "title": "数字货币",
-      "summary": "数字货币央行DCEP，区块链技术法定数字货币，金融科技",
-      "full_text": "数字货币央行DCEP，区块链技术法定数字货币，金融科技",
+      "title": "虚拟现实沉浸",
+      "summary": "VR头显创造完全沉浸的虚拟世界，每眼四K分辨率和九十赫兹刷新...",
+      "full_text": "VR头显创造完全沉浸的虚拟世界，每眼四K分辨率和九十赫兹刷新率消除纱窗效应。手柄和体感追踪让用户与虚拟环境自然交互，触觉反馈增加真实感。虚拟现实是通往元宇宙的入口，从游戏到培训应用不断拓展。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_064.jpg",
       "image_grid": {
         "x": 3,
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "information_technology_065",
-      "title": "脑机接口",
-      "summary": "脑机接口意念控制，神经信号解码操作，人机融合",
-      "full_text": "脑机接口意念控制，神经信号解码操作，人机融合",
+      "title": "数字孪生映射",
+      "summary": "数字孪生在虚拟空间创建物理实体的精确副本，传感器实时同步运行...",
+      "full_text": "数字孪生在虚拟空间创建物理实体的精确副本，传感器实时同步运行状态。工厂孪生体模拟产线优化排产，城市孪生体预测交通和能耗。虚拟映射现实优化决策，试错成本从物理世界转移到数字世界。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_065.jpg",
       "image_grid": {
         "x": 3,
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "information_technology_066",
-      "title": "生成式AI",
-      "summary": "生成式AI大模型创作，文本图像代码生成，创造力革命",
-      "full_text": "生成式AI大模型创作，文本图像代码生成，创造力革命",
+      "title": "RPA流程自动化",
+      "summary": "RPA机器人模拟人工操作电脑完成重复性任务，发票处理数据录入...",
+      "full_text": "RPA机器人模拟人工操作电脑完成重复性任务，发票处理数据录入和报表生成自动完成。银行用RPA处理贷款审批，保险公司用RPA核保理赔。流程自动化释放人力让员工专注创造性工作，RPA正在向IPA进化。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_066.jpg",
       "image_grid": {
         "x": 3,
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "information_technology_067",
-      "title": "元宇宙概念",
-      "summary": "元宇宙虚拟世界交互，数字身份虚拟经济，下一代互联网",
-      "full_text": "元宇宙虚拟世界交互，数字身份虚拟经济，下一代互联网",
+      "title": "低代码平台",
+      "summary": "低代码平台用拖拽组件和可视化配置快速搭建应用，业务人员无需编...",
+      "full_text": "低代码平台用拖拽组件和可视化配置快速搭建应用，业务人员无需编程即可构建表单流程。Mendix和OutSystems降低开发门槛。低代码让非技术人员参与应用构建，但复杂场景仍需专业开发。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_067.jpg",
       "image_grid": {
         "x": 3,
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "information_technology_068",
-      "title": "IT国产化",
-      "summary": "IT国产化自主可控，操作系统数据库替代，信息安全",
-      "full_text": "IT国产化自主可控，操作系统数据库替代，信息安全",
+      "title": "AIOps智能运维",
+      "summary": "AI算法分析海量运维数据自动发现异常和根因，告警风暴被智能降...",
+      "full_text": "AI算法分析海量运维数据自动发现异常和根因，告警风暴被智能降噪和关联分析平息。故障预测比修复更有价值，容量规划从经验估计变为数据驱动。智能运维让运维从救火变为预防，MTTR从小时级缩短到分钟级。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_068.jpg",
       "image_grid": {
         "x": 3,
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "information_technology_069",
-      "title": "信息技术未来",
-      "summary": "信息技术量子智能融合，人机共生万物智联，数字文明",
-      "full_text": "信息技术量子智能融合，人机共生万物智联，数字文明",
+      "title": "隐私计算安全",
+      "summary": "多方安全计算让多方在不泄露各自数据前提下联合计算，同态加密在...",
+      "full_text": "多方安全计算让多方在不泄露各自数据前提下联合计算，同态加密在密文上直接运算无需解密。数据可用不可见合规利用创造价值。隐私计算是数据要素流通的技术保障，让数据共享不再以隐私为代价。",
       "image": "res://assets/images/illustrations/information_technology/information_technology_069.jpg",
       "image_grid": {
         "x": 3,

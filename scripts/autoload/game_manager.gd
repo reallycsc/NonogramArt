@@ -40,7 +40,10 @@ var settings: Dictionary = {
 	"sfx_volume": 1.0,
 	"show_errors": true,
 	"auto_mark": true,
+	"auto_rotate": true,
 }
+
+var test_mode: bool = true
 
 var pending_bookshelf_id: String = ""
 var pending_album_id: String = ""
@@ -66,6 +69,7 @@ var _picture_puzzle_counts: Dictionary = {}
 var _picture_done_counts: Dictionary = {}
 
 var _album_icon_cache: Dictionary = {}
+var _album_icon_grey_cache: Dictionary = {}
 var _album_unlock_cache: Dictionary = {}
 
 var data_preloaded: bool = false
@@ -74,6 +78,8 @@ signal preload_finished
 
 func _ready() -> void:
 	load_game()
+	if OrientationManager:
+		OrientationManager.set_auto_rotate(settings.get("auto_rotate", true))
 
 
 func preload_all_data() -> void:
@@ -148,7 +154,24 @@ func get_album_icon(album_id: String) -> Texture2D:
 	return tex
 
 
+func get_album_icon_grey(album_id: String) -> Texture2D:
+	if _album_icon_grey_cache.has(album_id):
+		return _album_icon_grey_cache[album_id]
+	var album = AlbumDataScript.get_album(album_id)
+	var icon_path = album.get("icon", "")
+	var grey_path = icon_path.get_basename() + "_grey.png"
+	var tex: Texture2D = null
+	if grey_path != "" and ResourceLoader.exists(grey_path):
+		tex = load(grey_path)
+	else:
+		tex = get_album_icon(album_id)
+	_album_icon_grey_cache[album_id] = tex
+	return tex
+
+
 func get_album_unlock_status(album_id: String) -> Dictionary:
+	if test_mode:
+		return {"unlocked": true, "reason": "test_mode"}
 	if _album_unlock_cache.has(album_id):
 		return _album_unlock_cache[album_id]
 	var result = is_album_unlocked(album_id)

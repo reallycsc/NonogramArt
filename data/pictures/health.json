@@ -4,8 +4,8 @@
     {
       "id": "health_000",
       "title": "中医望闻问切",
-      "summary": "中医望闻问切四诊合参，老中医把脉看舌苔，辨证论治",
-      "full_text": "中医望闻问切四诊合参，老中医把脉看舌苔，辨证论治",
+      "summary": "老中医端坐诊室为患者把脉，三指搭腕感受脉象浮沉迟数，望舌观色...",
+      "full_text": "老中医端坐诊室为患者把脉，三指搭腕感受脉象浮沉迟数，望舌观色辨证论治。望闻问切是中医四诊，千年智慧守护健康。",
       "image": "res://assets/images/illustrations/health/health_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "health_001",
-      "title": "针灸治疗",
-      "summary": "针灸银针刺入穴位，酸麻胀感循经传导，疏通经络",
-      "full_text": "针灸银针刺入穴位，酸麻胀感循经传导，疏通经络",
+      "title": "针灸经络通调",
+      "summary": "针灸师将银针准确刺入患者穴位，捻转提插得气后留针，经络气血通...",
+      "full_text": "针灸师将银针准确刺入患者穴位，捻转提插得气后留针，经络气血通畅。针灸是中医外治疗法，一根银针通调全身经络。",
       "image": "res://assets/images/illustrations/health/health_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "health_002",
-      "title": "中药煎煮",
-      "summary": "中药砂锅文火煎煮，药香弥漫苦口良药，草本疗愈",
-      "full_text": "中药砂锅文火煎煮，药香弥漫苦口良药，草本疗愈",
+      "title": "中药煎煮汤剂",
+      "summary": "药房药师用戥子称量中药材，砂锅中文火慢煎，药香弥漫整个房间。...",
+      "full_text": "药房药师用戥子称量中药材，砂锅中文火慢煎，药香弥漫整个房间。中药汤剂讲究君臣佐使配伍，煎煮火候影响药效。",
       "image": "res://assets/images/illustrations/health/health_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "health_003",
-      "title": "拔罐疗法",
-      "summary": "拔罐玻璃罐吸附皮肤，淤血紫印祛湿散寒，传统理疗",
-      "full_text": "拔罐玻璃罐吸附皮肤，淤血紫印祛湿散寒，传统理疗",
+      "title": "推拿手法舒筋",
+      "summary": "推拿师双手在患者肩颈部位揉捏按压，滚法推法拿法交替运用，肌肉...",
+      "full_text": "推拿师双手在患者肩颈部位揉捏按压，滚法推法拿法交替运用，肌肉紧张逐渐松弛。推拿是中医外治手法，以手代针疏通经络。",
       "image": "res://assets/images/illustrations/health/health_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "health_004",
-      "title": "推拿按摩",
-      "summary": "推拿师手法揉按穴位，舒筋活络缓解疲劳，手到病除",
-      "full_text": "推拿师手法揉按穴位，舒筋活络缓解疲劳，手到病除",
+      "title": "拔罐祛湿散寒",
+      "summary": "拔罐师用火罐在患者背部拔出圆形印痕，皮肤隆起淤紫，寒湿之气随...",
+      "full_text": "拔罐师用火罐在患者背部拔出圆形印痕，皮肤隆起淤紫，寒湿之气随罐而出。拔罐是中医传统疗法，负压吸引疏通气血。",
       "image": "res://assets/images/illustrations/health/health_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "health_005",
-      "title": "艾灸温通",
-      "summary": "艾灸艾条熏灼穴位，温热感渗透肌肤，温经散寒",
-      "full_text": "艾灸艾条熏灼穴位，温热感渗透肌肤，温经散寒",
+      "title": "艾灸温阳驱寒",
+      "summary": "艾灸师点燃艾条对准患者穴位熏灸，温热感透入皮肤直达经络，阳气...",
+      "full_text": "艾灸师点燃艾条对准患者穴位熏灸，温热感透入皮肤直达经络，阳气渐充。艾灸是中医最古老的疗法，艾草纯阳之性温通经脉。",
       "image": "res://assets/images/illustrations/health/health_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "health_006",
-      "title": "刮痧疗法",
-      "summary": "刮痧板刮拭皮肤出痧，红色痧点排毒解表，民间疗法",
-      "full_text": "刮痧板刮拭皮肤出痧，红色痧点排毒解表，民间疗法",
+      "title": "西医听诊叩诊",
+      "summary": "内科医生佩戴听诊器聆听患者心肺声音，叩诊手指敲击胸腹判断脏器...",
+      "full_text": "内科医生佩戴听诊器聆听患者心肺声音，叩诊手指敲击胸腹判断脏器边界。听诊叩诊是西医基本功，从声音和震动中捕捉疾病线索。",
       "image": "res://assets/images/illustrations/health/health_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "health_007",
-      "title": "藏医尿诊",
-      "summary": "藏医尿诊观察尿液，颜色泡沫判断病情，独特诊断",
-      "full_text": "藏医尿诊观察尿液，颜色泡沫判断病情，独特诊断",
+      "title": "外科手术刀尖",
+      "summary": "外科医生在无影灯下持手术刀精准切割，助手递器械擦血，监护仪滴...",
+      "full_text": "外科医生在无影灯下持手术刀精准切割，助手递器械擦血，监护仪滴答作响。外科手术是现代医学的巅峰，刀尖上拯救生命。",
       "image": "res://assets/images/illustrations/health/health_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "health_008",
-      "title": "苗医熏蒸",
-      "summary": "苗医草药熏蒸疗法，药汽蒸腾渗透肌肤，民族医药",
-      "full_text": "苗医草药熏蒸疗法，药汽蒸腾渗透肌肤，民族医药",
+      "title": "影像诊断透视",
+      "summary": "放射科医生在阅片灯前仔细观察CT影像，黑白灰层次中寻找病灶阴...",
+      "full_text": "放射科医生在阅片灯前仔细观察CT影像，黑白灰层次中寻找病灶阴影。影像诊断是医生的千里眼，透视身体发现隐藏的疾病。",
       "image": "res://assets/images/illustrations/health/health_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "health_009",
-      "title": "中药材市场",
-      "summary": "中药材市场人参鹿茸，摊位陈列琳琅满目，药都盛景",
-      "full_text": "中药材市场人参鹿茸，摊位陈列琳琅满目，药都盛景",
+      "title": "化验检验微观",
+      "summary": "检验科技师操作全自动生化分析仪，血液样本在试管中分离检测，数...",
+      "full_text": "检验科技师操作全自动生化分析仪，血液样本在试管中分离检测，数据精准到小数点。化验是医学的显微镜，数据背后是健康密码。",
       "image": "res://assets/images/illustrations/health/health_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "health_010",
-      "title": "药膳养生",
-      "summary": "药膳当归黄芪炖鸡，食疗养生药食同源，滋补调理",
-      "full_text": "药膳当归黄芪炖鸡，食疗养生药食同源，滋补调理",
+      "title": "药房配药发药",
+      "summary": "药师在药房货架间穿梭取药，核对处方信息后发放药品，叮嘱用药注...",
+      "full_text": "药师在药房货架间穿梭取药，核对处方信息后发放药品，叮嘱用药注意事项。药房是医疗的最后一环，精准配药守护用药安全。",
       "image": "res://assets/images/illustrations/health/health_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "health_011",
-      "title": "太极养生",
-      "summary": "太极拳晨练养生，动作缓慢呼吸深长，身心调和",
-      "full_text": "太极拳晨练养生，动作缓慢呼吸深长，身心调和",
+      "title": "急诊争分夺秒",
+      "summary": "急诊室里医护人员推着担架车飞奔，心电监护仪报警声急促，抢救生...",
+      "full_text": "急诊室里医护人员推着担架车飞奔，心电监护仪报警声急促，抢救生命分秒必争。急诊是医疗的最前线，黄金时间决定生死。",
       "image": "res://assets/images/illustrations/health/health_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "health_012",
-      "title": "经络穴位图",
-      "summary": "人体经络穴位图，十四经脉循行路线，中医理论基础",
-      "full_text": "人体经络穴位图，十四经脉循行路线，中医理论基础",
+      "title": "ICU重症监护",
+      "summary": "ICU病房中患者连接呼吸机和心电监护，护士二十四小时守护在旁...",
+      "full_text": "ICU病房中患者连接呼吸机和心电监护，护士二十四小时守护在旁，随时调整参数。重症监护是生命的最后防线，每台仪器都是生命的支撑。",
       "image": "res://assets/images/illustrations/health/health_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "health_013",
-      "title": "古代医书",
-      "summary": "本草纲目黄帝内经，古籍线装医理深邃，医学经典",
-      "full_text": "本草纲目黄帝内经，古籍线装医理深邃，医学经典",
+      "title": "产房新生命",
+      "summary": "产房中助产士指导产妇用力，婴儿啼哭声划破产房，新生命来到世界...",
+      "full_text": "产房中助产士指导产妇用力，婴儿啼哭声划破产房，新生命来到世界。分娩是生命最神奇的时刻，母子平安是最大的幸福。",
       "image": "res://assets/images/illustrations/health/health_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "health_014",
-      "title": "坐堂行医",
-      "summary": "古代医馆坐堂大夫，望诊开方抓药，悬壶济世",
-      "full_text": "古代医馆坐堂大夫，望诊开方抓药，悬壶济世",
+      "title": "儿科温柔守护",
+      "summary": "儿科医生用贴纸安抚哭闹的小患者，听诊器上套着卡通套，温柔检查...",
+      "full_text": "儿科医生用贴纸安抚哭闹的小患者，听诊器上套着卡通套，温柔检查让孩子不再害怕。儿科需要医术更需要爱心，小患者需要温柔对待。",
       "image": "res://assets/images/illustrations/health/health_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "health_015",
-      "title": "阿育吠陀",
-      "summary": "印度阿育吠陀草药油疗，身心平衡三Dosha，古老医学",
-      "full_text": "印度阿育吠陀草药油疗，身心平衡三Dosha，古老医学",
+      "title": "老年病慢病管理",
+      "summary": "社区医生上门为老人量血压测血糖，调整用药方案，耐心叮嘱饮食运...",
+      "full_text": "社区医生上门为老人量血压测血糖，调整用药方案，耐心叮嘱饮食运动注意事项。慢性病管理是长期工程，规律用药和健康生活方式同样重要。",
       "image": "res://assets/images/illustrations/health/health_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "health_016",
-      "title": "X光检查",
-      "summary": "X光透视骨骼影像，黑白底片诊断骨折，医学影像",
-      "full_text": "X光透视骨骼影像，黑白底片诊断骨折，医学影像",
+      "title": "疫苗接种防护",
+      "summary": "社区卫生服务中心护士为儿童接种疫苗，针头刺入上臂推注疫苗，建...",
+      "full_text": "社区卫生服务中心护士为儿童接种疫苗，针头刺入上臂推注疫苗，建立免疫屏障。疫苗接种是预防医学的基石，一针疫苗胜过百剂良药。",
       "image": "res://assets/images/illustrations/health/health_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "health_017",
-      "title": "CT扫描",
-      "summary": "CT扫描断层成像，环形机器旋转拍摄，精准诊断",
-      "full_text": "CT扫描断层成像，环形机器旋转拍摄，精准诊断",
+      "title": "体检早查早治",
+      "summary": "体检中心受检者依次完成抽血B超心电图检查，早期发现健康隐患。...",
+      "full_text": "体检中心受检者依次完成抽血B超心电图检查，早期发现健康隐患。定期体检是健康管理的基础，早发现早治疗胜过亡羊补牢。",
       "image": "res://assets/images/illustrations/health/health_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "health_018",
-      "title": "核磁共振",
-      "summary": "核磁共振MRI成像，强磁场扫描软组织，无创检查",
-      "full_text": "核磁共振MRI成像，强磁场扫描软组织，无创检查",
+      "title": "心理咨询倾听",
+      "summary": "心理咨询师在安静诊室中倾听来访者诉说烦恼，共情理解引导觉察，...",
+      "full_text": "心理咨询师在安静诊室中倾听来访者诉说烦恼，共情理解引导觉察，帮助走出心理困境。心理咨询是心灵的拐杖，倾诉本身就是疗愈。",
       "image": "res://assets/images/illustrations/health/health_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "health_019",
-      "title": "外科手术",
-      "summary": "手术室无影灯下，主刀医生精细操作，挽救生命",
-      "full_text": "手术室无影灯下，主刀医生精细操作，挽救生命",
+      "title": "精神科药物调治",
+      "summary": "精神科医生根据患者症状调整抗抑郁药物剂量，定期复诊评估疗效。...",
+      "full_text": "精神科医生根据患者症状调整抗抑郁药物剂量，定期复诊评估疗效。精神疾病和身体疾病一样需要治疗，药物是恢复脑化学平衡的重要手段。",
       "image": "res://assets/images/illustrations/health/health_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "health_020",
-      "title": "微创手术",
-      "summary": "微创手术腹腔镜操作，小切口恢复快，精准治疗",
-      "full_text": "微创手术腹腔镜操作，小切口恢复快，精准治疗",
+      "title": "康复训练重建",
+      "summary": "康复治疗师帮助脑卒中患者进行步态训练，平行杠内反复练习行走，...",
+      "full_text": "康复治疗师帮助脑卒中患者进行步态训练，平行杠内反复练习行走，神经重塑恢复功能。康复医学是功能重建的艺术，坚持训练创造奇迹。",
       "image": "res://assets/images/illustrations/health/health_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "health_021",
-      "title": "达芬奇机器人",
-      "summary": "达芬奇手术机器人，机械臂灵活操作，远程精准手术",
-      "full_text": "达芬奇手术机器人，机械臂灵活操作，远程精准手术",
+      "title": "物理治疗理疗",
+      "summary": "物理治疗师用超声波和电刺激治疗运动员肌肉损伤，热敷冷敷交替消...",
+      "full_text": "物理治疗师用超声波和电刺激治疗运动员肌肉损伤，热敷冷敷交替消肿止痛。物理治疗是非侵入性的康复手段，声光电热都是治疗工具。",
       "image": "res://assets/images/illustrations/health/health_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "health_022",
-      "title": "心脏搭桥",
-      "summary": "心脏搭桥手术血管重建，体外循环支持，攻克心脏病",
-      "full_text": "心脏搭桥手术血管重建，体外循环支持，攻克心脏病",
+      "title": "职业治疗复能",
+      "summary": "职业治疗师指导手部受伤患者练习抓握餐具和系扣子，恢复日常生活...",
+      "full_text": "职业治疗师指导手部受伤患者练习抓握餐具和系扣子，恢复日常生活能力。职业治疗帮助患者回归生活，重新掌握吃饭穿衣等基本技能。",
       "image": "res://assets/images/illustrations/health/health_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "health_023",
-      "title": "器官移植",
-      "summary": "器官移植肾脏心脏，供体匹配免疫抑制，生命接力",
-      "full_text": "器官移植肾脏心脏，供体匹配免疫抑制，生命接力",
+      "title": "牙科口腔保健",
+      "summary": "牙医手持口镜探针检查患者牙齿，超声波洁牙器去除牙结石，叮嘱正...",
+      "full_text": "牙医手持口镜探针检查患者牙齿，超声波洁牙器去除牙结石，叮嘱正确刷牙方法。口腔健康是全身健康的第一道门，早晚刷牙定期洗牙。",
       "image": "res://assets/images/illustrations/health/health_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "health_024",
-      "title": "疫苗接种",
-      "summary": "疫苗接种针剂注射，预防传染病群体免疫，公共卫生",
-      "full_text": "疫苗接种针剂注射，预防传染病群体免疫，公共卫生",
+      "title": "眼科视力守护",
+      "summary": "眼科医生用裂隙灯检查患者眼底，验光师调整镜片度数，视力表上字...",
+      "full_text": "眼科医生用裂隙灯检查患者眼底，验光师调整镜片度数，视力表上字母逐渐清晰。眼睛是心灵的窗户，定期检查守护光明。",
       "image": "res://assets/images/illustrations/health/health_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "health_025",
-      "title": "抗生素发现",
-      "summary": "青霉素发现弗莱明，抗生素杀菌消炎，医学里程碑",
-      "full_text": "青霉素发现弗莱明，抗生素杀菌消炎，医学里程碑",
+      "title": "耳鼻喉科检查",
+      "summary": "耳鼻喉科医生用额镜检查患者鼻腔咽喉，纯音测听评估听力损失程度...",
+      "full_text": "耳鼻喉科医生用额镜检查患者鼻腔咽喉，纯音测听评估听力损失程度。耳鼻喉是呼吸和感知的门户，小器官大问题不可忽视。",
       "image": "res://assets/images/illustrations/health/health_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "health_026",
-      "title": "ICU重症监护",
-      "summary": "ICU重症监护室，生命体征监测仪报警，生死一线",
-      "full_text": "ICU重症监护室，生命体征监测仪报警，生死一线",
+      "title": "皮肤科望诊",
+      "summary": "皮肤科医生用皮肤镜放大观察皮损形态，真菌镜检判断是否感染，处...",
+      "full_text": "皮肤科医生用皮肤镜放大观察皮损形态，真菌镜检判断是否感染，处方药膏外涂。皮肤是人体最大的器官，皮疹瘙痒背后原因多样。",
       "image": "res://assets/images/illustrations/health/health_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "health_027",
-      "title": "产房分娩",
-      "summary": "产房新生儿啼哭，助产士迎接新生命，生命诞生",
-      "full_text": "产房新生儿啼哭，助产士迎接新生命，生命诞生",
+      "title": "骨科正骨复位",
+      "summary": "骨科医生在X光引导下为骨折患者手法复位，石膏固定等待骨骼愈合...",
+      "full_text": "骨科医生在X光引导下为骨折患者手法复位，石膏固定等待骨骼愈合。正骨是骨科的基本功，精准复位是功能恢复的前提。",
       "image": "res://assets/images/illustrations/health/health_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "health_028",
-      "title": "基因检测",
-      "summary": "基因检测DNA测序，遗传病风险评估，精准医学",
-      "full_text": "基因检测DNA测序，遗传病风险评估，精准医学",
+      "title": "肿瘤化疗抗癌",
+      "summary": "肿瘤科护士为患者静脉输注化疗药物，输液泵精确控制滴速，抗癌之...",
+      "full_text": "肿瘤科护士为患者静脉输注化疗药物，输液泵精确控制滴速，抗癌之路漫长艰辛。化疗是抗击癌症的重要武器，副作用与疗效并存。",
       "image": "res://assets/images/illustrations/health/health_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "health_029",
-      "title": "靶向治疗",
-      "summary": "靶向药物精准攻击癌细胞，减少副作用，个体化治疗",
-      "full_text": "靶向药物精准攻击癌细胞，减少副作用，个体化治疗",
+      "title": "放疗精准照射",
+      "summary": "放疗技师操作直线加速器对肿瘤进行精准照射，射线束从多角度聚焦...",
+      "full_text": "放疗技师操作直线加速器对肿瘤进行精准照射，射线束从多角度聚焦杀灭癌细胞。放疗是隐形手术刀，精准定位保护正常组织。",
       "image": "res://assets/images/illustrations/health/health_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "health_030",
-      "title": "免疫疗法",
-      "summary": "免疫疗法激活T细胞，自身免疫杀灭肿瘤，抗癌新希望",
-      "full_text": "免疫疗法激活T细胞，自身免疫杀灭肿瘤，抗癌新希望",
+      "title": "器官移植重生",
+      "summary": "移植外科医生将捐献者的肾脏植入患者体内，血管吻合后新肾脏恢复...",
+      "full_text": "移植外科医生将捐献者的肾脏植入患者体内，血管吻合后新肾脏恢复血供。器官移植是现代医学的奇迹，一个器官延续两个生命。",
       "image": "res://assets/images/illustrations/health/health_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "health_031",
-      "title": "干细胞研究",
-      "summary": "干细胞培养分化，组织再生修复，再生医学前景",
-      "full_text": "干细胞培养分化，组织再生修复，再生医学前景",
+      "title": "微创腔镜手术",
+      "summary": "外科医生通过几个小孔插入腔镜和器械，监视器上放大显示手术区域...",
+      "full_text": "外科医生通过几个小孔插入腔镜和器械，监视器上放大显示手术区域，创伤小恢复快。微创手术是外科的未来，小切口解决大问题。",
       "image": "res://assets/images/illustrations/health/health_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "health_032",
-      "title": "远程医疗",
-      "summary": "远程医疗视频问诊，专家远程会诊，医疗资源下沉",
-      "full_text": "远程医疗视频问诊，专家远程会诊，医疗资源下沉",
+      "title": "达芬奇机器人",
+      "summary": "外科医生坐在控制台前操作机械臂进行手术，三维高清视野下完成精...",
+      "full_text": "外科医生坐在控制台前操作机械臂进行手术，三维高清视野下完成精细吻合。手术机器人是微创的升级，人机协作达到前所未有的精准。",
       "image": "res://assets/images/illustrations/health/health_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "health_033",
-      "title": "可穿戴健康",
-      "summary": "智能手环监测心率步数，健康数据实时追踪，自我管理",
-      "full_text": "智能手环监测心率步数，健康数据实时追踪，自我管理",
+      "title": "基因检测预判",
+      "summary": "基因检测实验室中测序仪读取DNA序列，分析遗传变异评估疾病风...",
+      "full_text": "基因检测实验室中测序仪读取DNA序列，分析遗传变异评估疾病风险。基因检测是预防医学的新工具，读懂基因密码预知健康未来。",
       "image": "res://assets/images/illustrations/health/health_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "health_034",
-      "title": "3D打印假肢",
-      "summary": "3D打印假肢定制，轻便灵活价格低，残障人士福音",
-      "full_text": "3D打印假肢定制，轻便灵活价格低，残障人士福音",
+      "title": "靶向精准治疗",
+      "summary": "肿瘤患者服用靶向药物，药物精准识别癌细胞表面的特定靶点，正常...",
+      "full_text": "肿瘤患者服用靶向药物，药物精准识别癌细胞表面的特定靶点，正常细胞不受伤害。靶向治疗是精准医疗的代表，对准靶心一击即中。",
       "image": "res://assets/images/illustrations/health/health_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "health_035",
-      "title": "急救培训",
-      "summary": "急救培训心肺复苏，AED使用黄金四分钟，人人学急救",
-      "full_text": "急救培训心肺复苏，AED使用黄金四分钟，人人学急救",
+      "title": "免疫治疗激活",
+      "summary": "免疫治疗通过激活患者自身免疫系统攻击癌细胞，PD-1抗体让免...",
+      "full_text": "免疫治疗通过激活患者自身免疫系统攻击癌细胞，PD-1抗体让免疫细胞重新识别肿瘤。免疫治疗是抗癌新希望，唤醒身体自身的防御力量。",
       "image": "res://assets/images/illustrations/health/health_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "health_036",
-      "title": "瑜伽冥想",
-      "summary": "瑜伽冥想身心放松，树式平衡呼吸调息，内在健康",
-      "full_text": "瑜伽冥想身心放松，树式平衡呼吸调息，内在健康",
+      "title": "干细胞再生",
+      "summary": "实验室中干细胞在培养皿里分化为心肌细胞，再生医学有望修复受损...",
+      "full_text": "实验室中干细胞在培养皿里分化为心肌细胞，再生医学有望修复受损心脏。干细胞是再生医学的种子，分化潜能带来治愈希望。",
       "image": "res://assets/images/illustrations/health/health_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "health_037",
-      "title": "跑步健身",
-      "summary": "晨跑者公园跑道，耳机音乐节奏迈步，有氧运动",
-      "full_text": "晨跑者公园跑道，耳机音乐节奏迈步，有氧运动",
+      "title": "中药炮制修合",
+      "summary": "中药炮制师将生地黄九蒸九晒成熟地黄，酒制当归增强活血功效，炮...",
+      "full_text": "中药炮制师将生地黄九蒸九晒成熟地黄，酒制当归增强活血功效，炮制减毒增效。中药炮制是中医药的独门技艺，修合无人见存心有天知。",
       "image": "res://assets/images/illustrations/health/health_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "health_038",
-      "title": "均衡饮食",
-      "summary": "均衡饮食蔬果蛋白质，食物金字塔营养搭配，健康基石",
-      "full_text": "均衡饮食蔬果蛋白质，食物金字塔营养搭配，健康基石",
+      "title": "膏方冬令进补",
+      "summary": "老中医为患者开具个性化膏方，阿胶人参枸杞等二十余味药材熬制成...",
+      "full_text": "老中医为患者开具个性化膏方，阿胶人参枸杞等二十余味药材熬制成膏，冬令进补。膏方是中医调补的精华，一人一方量身定制。",
       "image": "res://assets/images/illustrations/health/health_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "health_039",
-      "title": "睡眠健康",
-      "summary": "充足睡眠七至八小时，深度睡眠修复身体，休息之道",
-      "full_text": "充足睡眠七至八小时，深度睡眠修复身体，休息之道",
+      "title": "刮痧出痧解表",
+      "summary": "刮痧师用牛角刮板蘸油在患者颈背部刮拭，皮肤出现紫红色痧点，邪...",
+      "full_text": "刮痧师用牛角刮板蘸油在患者颈背部刮拭，皮肤出现紫红色痧点，邪气随痧而出。刮痧是中医外治法，出痧是邪气外排的表现。",
       "image": "res://assets/images/illustrations/health/health_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "health_040",
-      "title": "心理健康",
-      "summary": "心理咨询师倾听疏导，情绪管理压力释放，心灵健康",
-      "full_text": "心理咨询师倾听疏导，情绪管理压力释放，心灵健康",
+      "title": "药膳食疗养生",
+      "summary": "药膳厨师将黄芪枸杞与乌鸡同炖，食疗方既美味又滋补，药食同源养...",
+      "full_text": "药膳厨师将黄芪枸杞与乌鸡同炖，食疗方既美味又滋补，药食同源养生保健。药膳是中医饮食疗法，日常饮食中融入养生智慧。",
       "image": "res://assets/images/illustrations/health/health_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "health_041",
-      "title": "戒烟限酒",
-      "summary": "戒烟限酒健康生活，尼古丁酒精危害，自律养生",
-      "full_text": "戒烟限酒健康生活，尼古丁酒精危害，自律养生",
+      "title": "太极拳养生",
+      "summary": "清晨公园里老人缓缓打太极拳，呼吸与动作配合，身心合一修身养性...",
+      "full_text": "清晨公园里老人缓缓打太极拳，呼吸与动作配合，身心合一修身养性。太极拳是运动处方，柔和缓慢中强身健体。",
       "image": "res://assets/images/illustrations/health/health_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "health_042",
-      "title": "体检筛查",
-      "summary": "定期体检早期筛查，早发现早治疗，预防医学",
-      "full_text": "定期体检早期筛查，早发现早治疗，预防医学",
+      "title": "八段锦导引",
+      "summary": "八段锦练习者双手托天理三焦，摇头摆尾去心火，八个动作调理五脏...",
+      "full_text": "八段锦练习者双手托天理三焦，摇头摆尾去心火，八个动作调理五脏六腑。八段锦是古代导引术，简单易学老少皆宜。",
       "image": "res://assets/images/illustrations/health/health_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "health_043",
-      "title": "太极拳晨练",
-      "summary": "公园老人太极拳晨练，动作柔和气定神闲，传统养生",
-      "full_text": "公园老人太极拳晨练，动作柔和气定神闲，传统养生",
+      "title": "瑜伽身心合一",
+      "summary": "瑜伽练习者在垫上做出树式平衡，呼吸深沉意识专注，身心在体式中...",
+      "full_text": "瑜伽练习者在垫上做出树式平衡，呼吸深沉意识专注，身心在体式中合一。瑜伽源自古印度，体式呼吸冥想三位一体。",
       "image": "res://assets/images/illustrations/health/health_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "health_044",
-      "title": "游泳健身",
-      "summary": "游泳馆自由泳锻炼，全身运动关节无负担，水中健身",
-      "full_text": "游泳馆自由泳锻炼，全身运动关节无负担，水中健身",
+      "title": "冥想正念减压",
+      "summary": "冥想者盘腿闭目关注呼吸，念头来去不评判不跟随，正念减压缓解焦...",
+      "full_text": "冥想者盘腿闭目关注呼吸，念头来去不评判不跟随，正念减压缓解焦虑。正念冥想是心灵的体操，活在当下是最好的减压。",
       "image": "res://assets/images/illustrations/health/health_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "health_045",
-      "title": "登山远足",
-      "summary": "登山远足亲近自然，山顶远眺心旷神怡，户外运动",
-      "full_text": "登山远足亲近自然，山顶远眺心旷神怡，户外运动",
+      "title": "有氧运动心肺",
+      "summary": "跑步机上锻炼者心率保持在有氧区间，心肺功能逐步增强，脂肪持续...",
+      "full_text": "跑步机上锻炼者心率保持在有氧区间，心肺功能逐步增强，脂肪持续燃烧。有氧运动是健康基石，每周一百五十分钟中等强度运动。",
       "image": "res://assets/images/illustrations/health/health_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "health_046",
-      "title": "冥想减压",
-      "summary": "冥想打坐闭目调息，正念觉察当下，减压放松",
-      "full_text": "冥想打坐闭目调息，正念觉察当下，减压放松",
+      "title": "力量训练增肌",
+      "summary": "健身房中训练者深蹲举起杠铃，肌肉纤维在阻力训练中撕裂重建，力...",
+      "full_text": "健身房中训练者深蹲举起杠铃，肌肉纤维在阻力训练中撕裂重建，力量增长。力量训练不仅塑形，更是预防骨质疏松的良药。",
       "image": "res://assets/images/illustrations/health/health_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "health_047",
-      "title": "健康饮食金字塔",
-      "summary": "健康饮食金字塔，谷物蔬果蛋白质，科学营养",
-      "full_text": "健康饮食金字塔，谷物蔬果蛋白质，科学营养",
+      "title": "拉伸柔韧防伤",
+      "summary": "运动后拉伸肌肉筋膜，每个动作保持三十秒，柔韧性提升减少运动损...",
+      "full_text": "运动后拉伸肌肉筋膜，每个动作保持三十秒，柔韧性提升减少运动损伤。拉伸是运动的收尾，柔韧性是身体年轻的标志。",
       "image": "res://assets/images/illustrations/health/health_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "health_048",
-      "title": "职业病防治",
-      "summary": "职业病防治尘肺颈椎病，劳动保护定期检查，关爱劳动者",
-      "full_text": "职业病防治尘肺颈椎病，劳动保护定期检查，关爱劳动者",
+      "title": "营养均衡膳食",
+      "summary": "营养师设计每日膳食搭配，蛋白质碳水脂肪比例合理，蔬果五色搭配...",
+      "full_text": "营养师设计每日膳食搭配，蛋白质碳水脂肪比例合理，蔬果五色搭配营养全面。均衡膳食是健康的基石，吃对食物比吃药更重要。",
       "image": "res://assets/images/illustrations/health/health_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "health_049",
-      "title": "中医治未病",
-      "summary": "中医治未病预防为主，体质调理养生保健，未病先防",
-      "full_text": "中医治未病预防为主，体质调理养生保健，未病先防",
+      "title": "睡眠卫生习惯",
+      "summary": "卧室温度适宜灯光昏暗，放下手机按时入睡，深度睡眠修复身体和大...",
+      "full_text": "卧室温度适宜灯光昏暗，放下手机按时入睡，深度睡眠修复身体和大脑。良好睡眠是健康的第三支柱，七到八小时是最佳时长。",
       "image": "res://assets/images/illustrations/health/health_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "health_050",
-      "title": "康复训练",
-      "summary": "康复训练师指导患者，步态训练肌力恢复，重获功能",
-      "full_text": "康复训练师指导患者，步态训练肌力恢复，重获功能",
+      "title": "职业病防治",
+      "summary": "职业病防治医生为矿工做尘肺筛查，为程序员评估颈椎状况，早期干...",
+      "full_text": "职业病防治医生为矿工做尘肺筛查，为程序员评估颈椎状况，早期干预预防职业伤害。职业病是工作带来的健康代价，防护比治疗更重要。",
       "image": "res://assets/images/illustrations/health/health_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "health_051",
-      "title": "口腔健康",
-      "summary": "口腔健康刷牙洗牙，龋齿预防牙周护理，牙齿保健",
-      "full_text": "口腔健康刷牙洗牙，龋齿预防牙周护理，牙齿保健",
+      "title": "传染病防控",
+      "summary": "疾控人员穿防护服进行流行病学调查，追踪密切接触者，隔离传染源...",
+      "full_text": "疾控人员穿防护服进行流行病学调查，追踪密切接触者，隔离传染源切断传播链。传染病防控是公共卫生的基石，预防胜于治疗。",
       "image": "res://assets/images/illustrations/health/health_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "health_052",
-      "title": "视力保护",
-      "summary": "视力保护眼保健操，减少屏幕时间户外活动，护眼之道",
-      "full_text": "视力保护眼保健操，减少屏幕时间户外活动，护眼之道",
+      "title": "急救黄金四分",
+      "summary": "路人突发心脏骤停，急救员跪地实施心肺复苏，AED除颤电击恢复...",
+      "full_text": "路人突发心脏骤停，急救员跪地实施心肺复苏，AED除颤电击恢复心跳。黄金四分钟是抢救的关键，人人学急救急救为人人。",
       "image": "res://assets/images/illustrations/health/health_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "health_053",
-      "title": "老年健康",
-      "summary": "老年健康防跌倒慢病管理，定期体检适度运动，安享晚年",
-      "full_text": "老年健康防跌倒慢病管理，定期体检适度运动，安享晚年",
+      "title": "献血爱心传递",
+      "summary": "献血者躺在采血椅上挽起袖子，四百毫升血液流入血袋，挽救陌生人...",
+      "full_text": "献血者躺在采血椅上挽起袖子，四百毫升血液流入血袋，挽救陌生人的生命。无偿献血是爱心的传递，一袋血三个生命。",
       "image": "res://assets/images/illustrations/health/health_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "health_054",
-      "title": "妇幼保健",
-      "summary": "妇幼保健产前检查，新生儿筛查疫苗接种，母婴安全",
-      "full_text": "妇幼保健产前检查，新生儿筛查疫苗接种，母婴安全",
+      "title": "中医体质辨识",
+      "summary": "中医师通过问卷和望诊辨识患者体质，阳虚质畏寒阴虚质怕热，因人...",
+      "full_text": "中医师通过问卷和望诊辨识患者体质，阳虚质畏寒阴虚质怕热，因人制宜养生调理。九种体质各有特点，辨识体质是中医养生的第一步。",
       "image": "res://assets/images/illustrations/health/health_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "health_055",
-      "title": "传染病防控",
-      "summary": "传染病防控隔离消毒，疫苗研发流行病学，公共卫生",
-      "full_text": "传染病防控隔离消毒，疫苗研发流行病学，公共卫生",
+      "title": "远程医疗问诊",
+      "summary": "偏远地区患者通过视频与城市专家连线问诊，高清摄像头展示患处，...",
+      "full_text": "偏远地区患者通过视频与城市专家连线问诊，高清摄像头展示患处，优质医疗资源下沉。远程医疗打破地域限制，一根网线连接名医。",
       "image": "res://assets/images/illustrations/health/health_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "health_056",
-      "title": "急救直升机",
-      "summary": "医疗救援直升机转运，黄金一小时抢救，空中生命线",
-      "full_text": "医疗救援直升机转运，黄金一小时抢救，空中生命线",
+      "title": "智慧医疗AI",
+      "summary": "AI辅助诊断系统分析患者症状和检查结果，给出初步诊断建议供医...",
+      "full_text": "AI辅助诊断系统分析患者症状和检查结果，给出初步诊断建议供医生参考。人工智能是医生的智能助手，提高效率减少漏诊。",
       "image": "res://assets/images/illustrations/health/health_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "health_057",
-      "title": "中药现代化",
-      "summary": "中药现代化提取纯化，有效成分量化分析，传统与现代",
-      "full_text": "中药现代化提取纯化，有效成分量化分析，传统与现代",
+      "title": "社区卫生服务",
+      "summary": "社区医生为居民建立健康档案，定期随访慢性病患者，家庭医生签约...",
+      "full_text": "社区医生为居民建立健康档案，定期随访慢性病患者，家庭医生签约服务。社区卫生是医疗体系的网底，小病在社区大病进医院。",
       "image": "res://assets/images/illustrations/health/health_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "health_058",
-      "title": "全球健康",
-      "summary": "全球健康WHO协调，消除传染病健康公平，人类命运",
-      "full_text": "全球健康WHO协调，消除传染病健康公平，人类命运",
+      "title": "健康科普传播",
+      "summary": "医学科普作者将专业知识转化为通俗文章，辟谣伪科学传播正确健康...",
+      "full_text": "医学科普作者将专业知识转化为通俗文章，辟谣伪科学传播正确健康观念。健康科普是医患沟通的桥梁，知识是最好的疫苗。",
       "image": "res://assets/images/illustrations/health/health_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "health_059",
-      "title": "医疗人工智能",
-      "summary": "AI辅助诊断影像识别，深度学习分析病理，智慧医疗",
-      "full_text": "AI辅助诊断影像识别，深度学习分析病理，智慧医疗",
+      "title": "运动处方定制",
+      "summary": "运动医学医生为患者开具个性化运动处方，频率强度时间类型量体裁...",
+      "full_text": "运动医学医生为患者开具个性化运动处方，频率强度时间类型量体裁衣。运动是良医，科学运动才能安全有效。",
       "image": "res://assets/images/illustrations/health/health_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "health_060",
-      "title": "古代药房",
-      "summary": "古代药房百子柜排列，中药饮片琳琅满目，传统药铺",
-      "full_text": "古代药房百子柜排列，中药饮片琳琅满目，传统药铺",
+      "title": "职业病康复",
+      "summary": "康复中心为职业病患者制定呼吸训练方案，尘肺患者练习腹式呼吸改...",
+      "full_text": "康复中心为职业病患者制定呼吸训练方案，尘肺患者练习腹式呼吸改善肺功能。职业病康复是长期过程，改善生活质量是核心目标。",
       "image": "res://assets/images/illustrations/health/health_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "health_061",
-      "title": "藏药炮制",
-      "summary": "藏药炮制金银矿物入药，独特工艺高原药材，民族医药瑰宝",
-      "full_text": "藏药炮制金银矿物入药，独特工艺高原药材，民族医药瑰宝",
+      "title": "临终关怀安宁",
+      "summary": "安宁疗护病房中护士为晚期患者擦拭身体，止痛药物让患者安详度过...",
+      "full_text": "安宁疗护病房中护士为晚期患者擦拭身体，止痛药物让患者安详度过最后时光。临终关怀是医学的温度，让生命有尊严地谢幕。",
       "image": "res://assets/images/illustrations/health/health_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "health_062",
-      "title": "医疗下乡",
-      "summary": "医疗队下乡义诊，偏远山村送医送药，健康扶贫",
-      "full_text": "医疗队下乡义诊，偏远山村送医送药，健康扶贫",
+      "title": "中医治未病",
+      "summary": "治未病中心中医师为亚健康人群辨识体质，针灸推拿调理偏颇，未病...",
+      "full_text": "治未病中心中医师为亚健康人群辨识体质，针灸推拿调理偏颇，未病先防既病防变。治未病是中医最高理念，预防胜于治疗。",
       "image": "res://assets/images/illustrations/health/health_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "health_063",
-      "title": "运动康复",
-      "summary": "运动康复理疗师指导，运动员伤后恢复训练，重返赛场",
-      "full_text": "运动康复理疗师指导，运动员伤后恢复训练，重返赛场",
+      "title": "心理健康素养",
+      "summary": "学校开展心理健康教育课，学生学会识别情绪和求助方法，心理素养...",
+      "full_text": "学校开展心理健康教育课，学生学会识别情绪和求助方法，心理素养从娃娃抓起。心理健康和身体健康同样重要，消除偏见勇敢求助。",
       "image": "res://assets/images/illustrations/health/health_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "health_064",
-      "title": "医疗人文关怀",
-      "summary": "医生握住患者的手安慰，医患信任温暖，医学温度",
-      "full_text": "医生握住患者的手安慰，医患信任温暖，医学温度",
+      "title": "母婴保健守护",
+      "summary": "妇幼保健院中孕妇接受产前筛查和营养指导，新生儿足跟血筛查遗传...",
+      "full_text": "妇幼保健院中孕妇接受产前筛查和营养指导，新生儿足跟血筛查遗传代谢病。母婴保健是生命起点的守护，优生优育从孕前开始。",
       "image": "res://assets/images/illustrations/health/health_064.jpg",
       "image_grid": {
         "x": 3,

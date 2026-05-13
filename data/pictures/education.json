@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "education_000",
-      "title": "私塾授课",
-      "summary": "古代私塾先生端坐授课，学童摇头晃脑诵读，启蒙教育",
-      "full_text": "古代私塾先生端坐授课，学童摇头晃脑诵读，启蒙教育",
+      "title": "私塾蒙学启蒙",
+      "summary": "私塾中老先生手持戒尺端坐上首，学童摇头晃脑诵读三字经，朱笔批...",
+      "full_text": "私塾中老先生手持戒尺端坐上首，学童摇头晃脑诵读三字经，朱笔批点习字。私塾是古代最基础的教育形式，蒙学从识字开笔起步。",
       "image": "res://assets/images/illustrations/education/education_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "education_001",
-      "title": "书院讲学",
-      "summary": "岳麓书院山长讲学，学子席地而坐聆听，学术殿堂",
-      "full_text": "岳麓书院山长讲学，学子席地而坐聆听，学术殿堂",
+      "title": "孔子杏坛授业",
+      "summary": "杏坛之上孔子席地而坐，弟子七十二人围坐聆听，有教无类因材施教...",
+      "full_text": "杏坛之上孔子席地而坐，弟子七十二人围坐聆听，有教无类因材施教。孔子是中国教育的开创者，打破了贵族垄断知识的局面。",
       "image": "res://assets/images/illustrations/education/education_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "education_002",
-      "title": "科举考场",
-      "summary": "科举考场号舍排列，考生奋笔疾书，十年寒窗一朝功名",
-      "full_text": "科举考场号舍排列，考生奋笔疾书，十年寒窗一朝功名",
+      "title": "汉代太学经师",
+      "summary": "汉代太学中博士官讲授经学，太学生数千人研习五经，射策考试选拔...",
+      "full_text": "汉代太学中博士官讲授经学，太学生数千人研习五经，射策考试选拔人才。太学是中国最早的国家大学，汉武帝独尊儒术后设立。",
       "image": "res://assets/images/illustrations/education/education_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "education_003",
-      "title": "太学求学",
-      "summary": "汉代太学博士传授经学，弟子三千学术争鸣，最高学府",
-      "full_text": "汉代太学博士传授经学，弟子三千学术争鸣，最高学府",
+      "title": "书院自由讲学",
+      "summary": "岳麓书院中山长升堂讲学，生员环坐聆听质疑辩论，朱张会讲传为佳...",
+      "full_text": "岳麓书院中山长升堂讲学，生员环坐聆听质疑辩论，朱张会讲传为佳话。书院是古代高等教育的独特形式，自由讲学学术争鸣是其精神。",
       "image": "res://assets/images/illustrations/education/education_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "education_004",
-      "title": "蒙学识字",
-      "summary": "蒙学三字经百家姓，儿童描红识字，启蒙教育经典",
-      "full_text": "蒙学三字经百家姓，儿童描红识字，启蒙教育经典",
+      "title": "科举号舍考试",
+      "summary": "贡院号舍中考生奋笔疾书，三场考试每场三日，号舍仅容一人转身困...",
+      "full_text": "贡院号舍中考生奋笔疾书，三场考试每场三日，号舍仅容一人转身困难。科举是古代最公平的选才制度，一朝金榜题名改变命运。",
       "image": "res://assets/images/illustrations/education/education_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "education_005",
-      "title": "国子监",
-      "summary": "国子监监生读书，辟雍水环绕讲学，国家教育管理机构",
-      "full_text": "国子监监生读书，辟雍水环绕讲学，国家教育管理机构",
+      "title": "蒙学三百千千",
+      "summary": "学童手捧三字经百家姓千字文，逐字跟读背诵，先识字后明理循序渐...",
+      "full_text": "学童手捧三字经百家姓千字文，逐字跟读背诵，先识字后明理循序渐进。蒙学教材是古代基础教育的精华，朗朗上口便于记忆。",
       "image": "res://assets/images/illustrations/education/education_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "education_006",
-      "title": "孔庙祭孔",
-      "summary": "孔庙祭孔大典，乐舞表演尊师重道，万世师表",
-      "full_text": "孔庙祭孔大典，乐舞表演尊师重道，万世师表",
+      "title": "武举骑射考试",
+      "summary": "武举考场中考生骑马射箭舞刀举石，考校武艺与策论并重。武举始于...",
+      "full_text": "武举考场中考生骑马射箭舞刀举石，考校武艺与策论并重。武举始于唐代武则天时期，文武双全是古代人才的理想标准。",
       "image": "res://assets/images/illustrations/education/education_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "education_007",
-      "title": "竹简书写",
-      "summary": "古人在竹简上刻字书写，刀笔吏记录历史，文字载体",
-      "full_text": "古人在竹简上刻字书写，刀笔吏记录历史，文字载体",
+      "title": "闺阁女教德行",
+      "summary": "闺阁中母亲教女儿诵读女诫内训，学习女红持家之道，女子无才便是...",
+      "full_text": "闺阁中母亲教女儿诵读女诫内训，学习女红持家之道，女子无才便是德。古代女子教育以德行为先，知识教育极为有限。",
       "image": "res://assets/images/illustrations/education/education_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "education_008",
-      "title": "活字印刷",
-      "summary": "毕昇活字印刷术，铅字排版印书，知识传播革命",
-      "full_text": "毕昇活字印刷术，铅字排版印书，知识传播革命",
+      "title": "国子监监生",
+      "summary": "国子监中祭酒司业管理学政，监生研习经史子集，辟雍殿天子讲学。...",
+      "full_text": "国子监中祭酒司业管理学政，监生研习经史子集，辟雍殿天子讲学。国子监是古代最高学府和教育管理机构，天下英才汇聚于此。",
       "image": "res://assets/images/illustrations/education/education_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "education_009",
-      "title": "师徒传承",
-      "summary": "师徒传承手把手教授，口传心授技艺延续，传统教育",
-      "full_text": "师徒传承手把手教授，口传心授技艺延续，传统教育",
+      "title": "师徒口传心授",
+      "summary": "作坊中师傅手把手教徒弟手艺，三年学徒十年出师，口传心授不立文...",
+      "full_text": "作坊中师傅手把手教徒弟手艺，三年学徒十年出师，口传心授不立文字。师徒制是古代职业教育的主要形式，一日为师终身为父。",
       "image": "res://assets/images/illustrations/education/education_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "education_010",
-      "title": "武馆习武",
-      "summary": "武馆师父教弟子练功，扎马地打拳，武术教育",
-      "full_text": "武馆师父教弟子练功，扎马地打拳，武术教育",
+      "title": "算学筹算推演",
+      "summary": "算学馆中学生以算筹推演九章算术，筹算列阵求解方程，逻辑严密。...",
+      "full_text": "算学馆中学生以算筹推演九章算术，筹算列阵求解方程，逻辑严密。算学是古代科技教育的重要分支，祖冲之圆周率领先世界千年。",
       "image": "res://assets/images/illustrations/education/education_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "education_011",
-      "title": "琴棋书画",
-      "summary": "古代文人四艺琴棋书画，修身养性全面发展，素质教育",
-      "full_text": "古代文人四艺琴棋书画，修身养性全面发展，素质教育",
+      "title": "太医局临床",
+      "summary": "太医局中学徒跟随太医临证抄方，背诵黄帝内经伤寒论，望闻问切反...",
+      "full_text": "太医局中学徒跟随太医临证抄方，背诵黄帝内经伤寒论，望闻问切反复实践。中医教育强调经典与临床并重，师承是主要传承方式。",
       "image": "res://assets/images/illustrations/education/education_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "education_012",
-      "title": "新式学堂",
-      "summary": "清末新式学堂废科举，黑板课桌新式教学，教育变革",
-      "full_text": "清末新式学堂废科举，黑板课桌新式教学，教育变革",
+      "title": "书法临池学书",
+      "summary": "书斋中学童临摹颜柳欧赵碑帖，悬腕运笔中锋行笔，日课百字不辍。...",
+      "full_text": "书斋中学童临摹颜柳欧赵碑帖，悬腕运笔中锋行笔，日课百字不辍。书法是古代文人的必修课，字如其人见字如面。",
       "image": "res://assets/images/illustrations/education/education_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "education_013",
-      "title": "西南联大",
-      "summary": "西南联大茅屋铁皮顶，大师云集弦歌不辍，战时教育传奇",
-      "full_text": "西南联大茅屋铁皮顶，大师云集弦歌不辍，战时教育传奇",
+      "title": "画坊白描入门",
+      "summary": "画坊中学徒从白描入手临摹古画，研墨调色皴擦点染，师法自然中得...",
+      "full_text": "画坊中学徒从白描入手临摹古画，研墨调色皴擦点染，师法自然中得心源。古代绘画教育注重临摹与写生结合，师古而不泥古。",
       "image": "res://assets/images/illustrations/education/education_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "education_014",
-      "title": "大学图书馆",
-      "summary": "大学图书馆藏书万卷，学子埋头苦读，知识殿堂",
-      "full_text": "大学图书馆藏书万卷，学子埋头苦读，知识殿堂",
+      "title": "乐坊礼乐教化",
+      "summary": "乐坊中学子学习琴瑟笙箫，宫商角徵羽五音调式，礼乐教化移风易俗...",
+      "full_text": "乐坊中学子学习琴瑟笙箫，宫商角徵羽五音调式，礼乐教化移风易俗。音乐教育在古代属于礼乐制度的重要组成部分。",
       "image": "res://assets/images/illustrations/education/education_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "education_015",
-      "title": "实验室科研",
-      "summary": "大学实验室仪器精密，研究生操作实验，科学探索",
-      "full_text": "大学实验室仪器精密，研究生操作实验，科学探索",
+      "title": "司天监观星",
+      "summary": "司天监中学者观测星象推算历法，浑天仪转动模拟天体运行，记录日...",
+      "full_text": "司天监中学者观测星象推算历法，浑天仪转动模拟天体运行，记录日月蚀。天文教育是古代最精密的科学教育，历法关乎国计民生。",
       "image": "res://assets/images/illustrations/education/education_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "education_016",
-      "title": "黑板粉笔",
-      "summary": "教室黑板粉笔吱嘎，老师板书学生笔记，经典课堂",
-      "full_text": "教室黑板粉笔吱嘎，老师板书学生笔记，经典课堂",
+      "title": "金殿御试策问",
+      "summary": "金銮殿上皇帝亲策贡士，考生对答时务策论，状元榜眼探花钦定名次...",
+      "full_text": "金銮殿上皇帝亲策贡士，考生对答时务策论，状元榜眼探花钦定名次。殿试是科举最高一级，天子门生荣耀至极。",
       "image": "res://assets/images/illustrations/education/education_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "education_017",
-      "title": "考试制度",
-      "summary": "高考考场严肃紧张，十年磨一剑，命运转折点",
-      "full_text": "高考考场严肃紧张，十年磨一剑，命运转折点",
+      "title": "童试秀才功名",
+      "summary": "县试府试院试层层选拔，童生考中秀才方入儒学，科举之路万里长征...",
+      "full_text": "县试府试院试层层选拔，童生考中秀才方入儒学，科举之路万里长征第一步。童试是科举的入门考试，考中秀才方有功名。",
       "image": "res://assets/images/illustrations/education/education_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "education_018",
-      "title": "留学海外",
-      "summary": "留学生远渡重洋求学，异国他乡刻苦，报国之志",
-      "full_text": "留学生远渡重洋求学，异国他乡刻苦，报国之志",
+      "title": "乡试会试功名",
+      "summary": "秋闱乡试中举人春风得意，春闱会试贡士金榜题名，功名之路步步艰...",
+      "full_text": "秋闱乡试中举人春风得意，春闱会试贡士金榜题名，功名之路步步艰辛。乡试会试是科举的中级考试，举人进士是读书人的梦想。",
       "image": "res://assets/images/illustrations/education/education_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "education_019",
-      "title": "扫盲运动",
-      "summary": "扫盲运动夜校识字班，成年人学文化，全民教育",
-      "full_text": "扫盲运动夜校识字班，成年人学文化，全民教育",
+      "title": "负笈游学四方",
+      "summary": "古代学子负笈游学，遍访名师大儒，读万卷书行万里路，广博见闻。...",
+      "full_text": "古代学子负笈游学，遍访名师大儒，读万卷书行万里路，广博见闻。游学是古代教育的补充形式，在行走中增长见识开拓视野。",
       "image": "res://assets/images/illustrations/education/education_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "education_020",
-      "title": "希望工程",
-      "summary": "希望工程山区小学，孩子渴望读书的眼神，教育公平",
-      "full_text": "希望工程山区小学，孩子渴望读书的眼神，教育公平",
+      "title": "废科举兴学堂",
+      "summary": "清末废科举兴学堂，新式学堂教授国文算术格致体操，分科教学取代...",
+      "full_text": "清末废科举兴学堂，新式学堂教授国文算术格致体操，分科教学取代经学。新式学堂是教育近代化的标志，京师大学堂是北京大学的前身。",
       "image": "res://assets/images/illustrations/education/education_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "education_021",
-      "title": "在线教育",
-      "summary": "在线教育视频课程，随时随地学习，打破时空限制",
-      "full_text": "在线教育视频课程，随时随地学习，打破时空限制",
+      "title": "西南联大弦歌",
+      "summary": "西南联大在茅草屋中上课，教授穿长衫讲微积分，炮火中弦歌不辍。...",
+      "full_text": "西南联大在茅草屋中上课，教授穿长衫讲微积分，炮火中弦歌不辍。西南联大是抗战时期教育的奇迹，培养出两位诺贝尔奖得主。",
       "image": "res://assets/images/illustrations/education/education_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "education_022",
-      "title": "STEM教育",
-      "summary": "STEM教育科学实验，孩子动手编程机器人，跨学科学习",
-      "full_text": "STEM教育科学实验，孩子动手编程机器人，跨学科学习",
+      "title": "女子学校兴起",
+      "summary": "教会女子学校中女生学习英文数学钢琴，打破缠足陋习，追求独立人...",
+      "full_text": "教会女子学校中女生学习英文数学钢琴，打破缠足陋习，追求独立人格。女子学校的兴起是女性教育觉醒的开端，知识赋予女性力量。",
       "image": "res://assets/images/illustrations/education/education_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "education_023",
-      "title": "创客空间",
-      "summary": "创客空间3D打印机，学生动手造物，创新实践",
-      "full_text": "创客空间3D打印机，学生动手造物，创新实践",
+      "title": "师范培养师资",
+      "summary": "师范学校中培养新式教师，学习教育学心理学教学法，毕业赴乡村任...",
+      "full_text": "师范学校中培养新式教师，学习教育学心理学教学法，毕业赴乡村任教。师范教育是近代基础教育发展的基石，教师是教育的根本。",
       "image": "res://assets/images/illustrations/education/education_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "education_024",
-      "title": "编程教育",
-      "summary": "少儿编程Scratch积木，逻辑思维培养，数字素养",
-      "full_text": "少儿编程Scratch积木，逻辑思维培养，数字素养",
+      "title": "留洋求学报国",
+      "summary": "留美幼童远渡重洋学习西方科技，詹天佑学成归国修建京张铁路。近...",
+      "full_text": "留美幼童远渡重洋学习西方科技，詹天佑学成归国修建京张铁路。近代留学潮开启了中国向西方学习的序幕，归国留学生成为现代化推动者。",
       "image": "res://assets/images/illustrations/education/education_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "education_025",
-      "title": "翻转课堂",
-      "summary": "翻转课堂先学后教，视频预习课堂讨论，教学创新",
-      "full_text": "翻转课堂先学后教，视频预习课堂讨论，教学创新",
+      "title": "实业学堂技工",
+      "summary": "实业学堂中学生学习机械纺织采矿，车间实习与课堂理论结合。实业...",
+      "full_text": "实业学堂中学生学习机械纺织采矿，车间实习与课堂理论结合。实业教育培养技术人才，张謇创办的大生纱厂是实业救国的典范。",
       "image": "res://assets/images/illustrations/education/education_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "education_026",
-      "title": "蒙台梭利",
-      "summary": "蒙台梭利教具操作，儿童自主探索学习，尊重天性",
-      "full_text": "蒙台梭利教具操作，儿童自主探索学习，尊重天性",
+      "title": "黄埔军校练兵",
+      "summary": "黄埔军校中学员出操射击学习兵法，政治教育与军事训练并重。黄埔...",
+      "full_text": "黄埔军校中学员出操射击学习兵法，政治教育与军事训练并重。黄埔军校是近代军事教育的里程碑，培养了国共两党的军事骨干。",
       "image": "res://assets/images/illustrations/education/education_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "education_027",
-      "title": "项目式学习",
-      "summary": "项目式学习小组合作，解决真实问题，能力培养",
-      "full_text": "项目式学习小组合作，解决真实问题，能力培养",
+      "title": "公共图书馆开放",
+      "summary": "近代公共图书馆向市民开放，书架排列整齐借阅制度规范，知识不再...",
+      "full_text": "近代公共图书馆向市民开放，书架排列整齐借阅制度规范，知识不再被少数人垄断。公共图书馆是近代教育民主化的标志，人人皆有阅读权利。",
       "image": "res://assets/images/illustrations/education/education_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "education_028",
-      "title": "户外教育",
-      "summary": "户外教育自然观察，森林课堂体验学习，亲近自然",
-      "full_text": "户外教育自然观察，森林课堂体验学习，亲近自然",
+      "title": "博物馆科普展",
+      "summary": "博物馆展厅中陈列自然标本和历史文物，讲解员向参观者介绍科学知...",
+      "full_text": "博物馆展厅中陈列自然标本和历史文物，讲解员向参观者介绍科学知识。博物馆是近代社会教育的重要场所，寓教于展启迪民智。",
       "image": "res://assets/images/illustrations/education/education_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "education_029",
-      "title": "特殊教育",
-      "summary": "特殊教育手语盲文，关爱残障儿童，教育公平",
-      "full_text": "特殊教育手语盲文，关爱残障儿童，教育公平",
+      "title": "夜校扫盲识字",
+      "summary": "工厂夜校中工人下班后学习识字算术，煤油灯下认真书写，扫除文盲...",
+      "full_text": "工厂夜校中工人下班后学习识字算术，煤油灯下认真书写，扫除文盲。夜校是近代成人教育的起点，让劳动者获得基本文化知识。",
       "image": "res://assets/images/illustrations/education/education_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "education_030",
-      "title": "职业教育",
-      "summary": "职业教育技能培训，车工焊工实操，工匠培养",
-      "full_text": "职业教育技能培训，车工焊工实操，工匠培养",
+      "title": "九年义务普及",
+      "summary": "九年义务教育保障每个孩子入学，教室中课桌整齐多媒体设备齐全，...",
+      "full_text": "九年义务教育保障每个孩子入学，教室中课桌整齐多媒体设备齐全，免费教育惠及全民。义务教育是现代国家的基本制度，教育公平是社会公平的基石。",
       "image": "res://assets/images/illustrations/education/education_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "education_031",
-      "title": "终身学习",
-      "summary": "终身学习老人大学，活到老学到老，知识无涯",
-      "full_text": "终身学习老人大学，活到老学到老，知识无涯",
+      "title": "高考千军万马",
+      "summary": "六月高考考场外家长翘首以盼，考场内考生奋笔疾书，千万学子同场...",
+      "full_text": "六月高考考场外家长翘首以盼，考场内考生奋笔疾书，千万学子同场竞技。高考是当代中国最重要的选拔考试，分数面前人人平等。",
       "image": "res://assets/images/illustrations/education/education_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "education_032",
-      "title": "远程教育",
-      "summary": "远程教育卫星传输，偏远地区共享资源，教育均衡",
-      "full_text": "远程教育卫星传输，偏远地区共享资源，教育均衡",
+      "title": "大学通识教育",
+      "summary": "大学阶梯教室中教授讲授前沿课程，学生笔记本电脑记录，图书馆自...",
+      "full_text": "大学阶梯教室中教授讲授前沿课程，学生笔记本电脑记录，图书馆自习室座无虚席。现代大学是知识创新和人才培养的核心阵地。",
       "image": "res://assets/images/illustrations/education/education_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "education_033",
-      "title": "AI辅助教学",
-      "summary": "AI辅助教学智能批改，个性化推荐学习，科技赋能",
-      "full_text": "AI辅助教学智能批改，个性化推荐学习，科技赋能",
+      "title": "研究生学术训练",
+      "summary": "研究生在实验室中独立开展课题研究，导师定期指导论文方向，学术...",
+      "full_text": "研究生在实验室中独立开展课题研究，导师定期指导论文方向，学术训练系统深入。研究生教育培养高层次创新人才，是科研力量的储备。",
       "image": "res://assets/images/illustrations/education/education_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "education_034",
-      "title": "VR虚拟课堂",
-      "summary": "VR虚拟课堂沉浸体验，穿越历史遨游太空，身临其境",
-      "full_text": "VR虚拟课堂沉浸体验，穿越历史遨游太空，身临其境",
+      "title": "职校技能实训",
+      "summary": "职业学校中学生在实训车间操作数控机床，理论实践一体化教学。职...",
+      "full_text": "职业学校中学生在实训车间操作数控机床，理论实践一体化教学。职业教育培养技术技能人才，大国工匠从职校起步。",
       "image": "res://assets/images/illustrations/education/education_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "education_035",
-      "title": "教育公平",
-      "summary": "教育公平城乡差距，支教老师奉献山区，知识改变命运",
-      "full_text": "教育公平城乡差距，支教老师奉献山区，知识改变命运",
+      "title": "在线课程学习",
+      "summary": "学生在家中通过电脑观看名师在线课程，弹幕提问实时互动，学习不...",
+      "full_text": "学生在家中通过电脑观看名师在线课程，弹幕提问实时互动，学习不再受时空限制。在线教育打破了优质教育资源的地域壁垒。",
       "image": "res://assets/images/illustrations/education/education_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "education_036",
-      "title": "图书馆数字化",
-      "summary": "图书馆数字化电子书，在线检索海量资源，知识共享",
-      "full_text": "图书馆数字化电子书，在线检索海量资源，知识共享",
+      "title": "STEM跨学科",
+      "summary": "STEM课堂上学生编程控制机器人完成任务，科学探究工程设计数...",
+      "full_text": "STEM课堂上学生编程控制机器人完成任务，科学探究工程设计数学建模融合。STEM教育培养跨学科解决问题的能力，是未来教育的方向。",
       "image": "res://assets/images/illustrations/education/education_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "education_037",
-      "title": "国际学校",
-      "summary": "国际学校多元文化，IB课程全球视野，教育国际化",
-      "full_text": "国际学校多元文化，IB课程全球视野，教育国际化",
+      "title": "幼儿园游戏化",
+      "summary": "幼儿园中孩子们在游戏区角自由探索，老师引导观察记录成长，寓教...",
+      "full_text": "幼儿园中孩子们在游戏区角自由探索，老师引导观察记录成长，寓教于乐。学前教育是人生教育的起点，游戏是最好的学习方式。",
       "image": "res://assets/images/illustrations/education/education_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "education_038",
-      "title": "研学旅行",
-      "summary": "研学旅行博物馆参观，行走的课堂体验式学习",
-      "full_text": "研学旅行博物馆参观，行走的课堂体验式学习",
+      "title": "特殊教育关怀",
+      "summary": "特殊教育学校中老师用手语与听障学生交流，盲文课本触摸阅读，因...",
+      "full_text": "特殊教育学校中老师用手语与听障学生交流，盲文课本触摸阅读，因材施教。特殊教育保障残障儿童受教育权，每个生命都值得被尊重。",
       "image": "res://assets/images/illustrations/education/education_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "education_039",
-      "title": "教育评价改革",
-      "summary": "教育评价改革多元考核，综合素质评价，破除唯分数",
-      "full_text": "教育评价改革多元考核，综合素质评价，破除唯分数",
+      "title": "素质教育五育",
+      "summary": "学校开设美术音乐体育科技等多元课程，学生全面发展而非唯分数论...",
+      "full_text": "学校开设美术音乐体育科技等多元课程，学生全面发展而非唯分数论。素质教育反对应试教育的偏颇，德智体美劳五育并举。",
       "image": "res://assets/images/illustrations/education/education_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "education_040",
-      "title": "校园安全",
-      "summary": "校园安全消防演练，防震避险教育，生命至上",
-      "full_text": "校园安全消防演练，防震避险教育，生命至上",
+      "title": "国际学校视野",
+      "summary": "国际学校中外教全英文授课，IB课程体系培养全球视野，学生多元...",
+      "full_text": "国际学校中外教全英文授课，IB课程体系培养全球视野，学生多元文化交融。国际教育是全球化时代的选择，培养世界公民。",
       "image": "res://assets/images/illustrations/education/education_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "education_041",
-      "title": "心理健康教育",
-      "summary": "学校心理咨询室，沙盘游戏情绪疏导，心灵成长",
-      "full_text": "学校心理咨询室，沙盘游戏情绪疏导，心灵成长",
+      "title": "AI辅助教学",
+      "summary": "智慧教室中AI助教分析学生学习数据，个性化推荐练习题，精准教...",
+      "full_text": "智慧教室中AI助教分析学生学习数据，个性化推荐练习题，精准教学。教育科技正在改变传统教学模式，数据驱动因材施教成为可能。",
       "image": "res://assets/images/illustrations/education/education_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "education_042",
-      "title": "家校合作",
-      "summary": "家长会家校沟通，共同关注孩子成长，教育合力",
-      "full_text": "家长会家校沟通，共同关注孩子成长，教育合力",
+      "title": "社区终身学习",
+      "summary": "社区学院中退休老人学习书法绘画，中年人进修第二学位，活到老学...",
+      "full_text": "社区学院中退休老人学习书法绘画，中年人进修第二学位，活到老学到老。终身教育是学习型社会的基础，知识更新加速学习永不停歇。",
       "image": "res://assets/images/illustrations/education/education_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "education_043",
-      "title": "校园文化",
-      "summary": "校园文化节社团活动，青春活力多彩生活，全面发展",
-      "full_text": "校园文化节社团活动，青春活力多彩生活，全面发展",
+      "title": "家庭亲子共学",
+      "summary": "家长在客厅陪孩子做科学小实验，厨房里讲解食物营养知识，生活即...",
+      "full_text": "家长在客厅陪孩子做科学小实验，厨房里讲解食物营养知识，生活即教育。家庭教育是学校教育的补充，父母是孩子第一任老师。",
       "image": "res://assets/images/illustrations/education/education_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "education_044",
-      "title": "学术研究",
-      "summary": "学术论文发表期刊，同行评审学术交流，知识前沿",
-      "full_text": "学术论文发表期刊，同行评审学术交流，知识前沿",
+      "title": "乡村支教坚守",
+      "summary": "乡村小学中老师一人教授多门课程，多媒体设备连接城市优质课堂，...",
+      "full_text": "乡村小学中老师一人教授多门课程，多媒体设备连接城市优质课堂，缩小差距。乡村教育是教育公平的最后一公里，特岗教师扎根基层。",
       "image": "res://assets/images/illustrations/education/education_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "education_045",
-      "title": "毕业典礼",
-      "summary": "毕业典礼拨穗抛帽，青春告别新征程，人生里程碑",
-      "full_text": "毕业典礼拨穗抛帽，青春告别新征程，人生里程碑",
+      "title": "希望工程助学",
+      "summary": "希望小学在贫困山区拔地而起，助学金资助贫困学生完成学业，知识...",
+      "full_text": "希望小学在贫困山区拔地而起，助学金资助贫困学生完成学业，知识改变命运。教育扶贫是阻断贫困代际传递的根本之策。",
       "image": "res://assets/images/illustrations/education/education_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "education_046",
-      "title": "教师培训",
-      "summary": "教师培训专业发展，教学方法更新，教育者再教育",
-      "full_text": "教师培训专业发展，教学方法更新，教育者再教育",
+      "title": "慕课开放共享",
+      "summary": "慕课平台上哈佛教授的计算机课程免费开放，全球百万学员同步学习...",
+      "full_text": "慕课平台上哈佛教授的计算机课程免费开放，全球百万学员同步学习。慕课让顶尖教育资源触手可及，知识无国界教育零门槛。",
       "image": "res://assets/images/illustrations/education/education_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "education_047",
-      "title": "开放大学",
-      "summary": "开放大学免试入学，成人继续教育，学习无门槛",
-      "full_text": "开放大学免试入学，成人继续教育，学习无门槛",
+      "title": "创客动手造物",
+      "summary": "创客空间中学生使用3D打印机和激光切割机，将创意变为实物，动...",
+      "full_text": "创客空间中学生使用3D打印机和激光切割机，将创意变为实物，动手造物。创客教育培养创新精神和实践能力，从消费者变为创造者。",
       "image": "res://assets/images/illustrations/education/education_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "education_048",
-      "title": "教育科技",
-      "summary": "教育科技平板电脑，互动白板智慧课堂，数字化教学",
-      "full_text": "教育科技平板电脑，互动白板智慧课堂，数字化教学",
+      "title": "研学行知合一",
+      "summary": "学生走进故宫博物院研学，讲解员讲述建筑历史，实地考察比课本更...",
+      "full_text": "学生走进故宫博物院研学，讲解员讲述建筑历史，实地考察比课本更生动。研学旅行将课堂延伸到社会，行万里路与读万卷书并重。",
       "image": "res://assets/images/illustrations/education/education_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "education_049",
-      "title": "早教启蒙",
-      "summary": "早教中心亲子课程，0至3岁大脑开发，科学育儿",
-      "full_text": "早教中心亲子课程，0至3岁大脑开发，科学育儿",
+      "title": "心理辅导关爱",
+      "summary": "学校心理咨询室中沙盘游戏帮助小学生表达情感，团体辅导缓解考试...",
+      "full_text": "学校心理咨询室中沙盘游戏帮助小学生表达情感，团体辅导缓解考试焦虑。心理健康教育是学生全面发展的重要保障，心灵健康同样重要。",
       "image": "res://assets/images/illustrations/education/education_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "education_050",
-      "title": "课后托管",
-      "summary": "课后托管延时服务，作业辅导兴趣班，解决家长难题",
-      "full_text": "课后托管延时服务，作业辅导兴趣班，解决家长难题",
+      "title": "双师远程授课",
+      "summary": "远程双师课堂中城市名师在线授课，乡村教师线下辅导答疑，优质资...",
+      "full_text": "远程双师课堂中城市名师在线授课，乡村教师线下辅导答疑，优质资源共享。双师课堂是教育均衡发展的创新模式，一根网线连接城乡。",
       "image": "res://assets/images/illustrations/education/education_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "education_051",
-      "title": "教育公益",
-      "summary": "教育公益免费午餐，乡村图书角捐赠，爱心助学",
-      "full_text": "教育公益免费午餐，乡村图书角捐赠，爱心助学",
+      "title": "翻转主动学习",
+      "summary": "学生课前观看微课视频预习，课堂上讨论探究解决问题，教师从讲授...",
+      "full_text": "学生课前观看微课视频预习，课堂上讨论探究解决问题，教师从讲授者变为引导者。翻转课堂颠覆了传统教学流程，主动学习取代被动听讲。",
       "image": "res://assets/images/illustrations/education/education_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "education_052",
-      "title": "校园体育",
-      "summary": "校园运动会跑道冲刺，青春汗水拼搏，体育育人",
-      "full_text": "校园运动会跑道冲刺，青春汗水拼搏，体育育人",
+      "title": "蒙台梭利自主",
+      "summary": "蒙台梭利教室中儿童自主选择教具操作，粉红塔棕色梯培养感官与秩...",
+      "full_text": "蒙台梭利教室中儿童自主选择教具操作，粉红塔棕色梯培养感官与秩序感。教师观察记录不干预，尊重儿童内在发展节奏。",
       "image": "res://assets/images/illustrations/education/education_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "education_053",
-      "title": "美育教育",
-      "summary": "美育教育音乐美术，审美情趣培养，艺术素养",
-      "full_text": "美育教育音乐美术，审美情趣培养，艺术素养",
+      "title": "华德福艺术化",
+      "summary": "华德福学校学生用水彩画湿画法表达色彩感受，蜂蜡塑形培养手部精...",
+      "full_text": "华德福学校学生用水彩画湿画法表达色彩感受，蜂蜡塑形培养手部精细动作。艺术化教学滋养儿童心灵，头心手全面发展。",
       "image": "res://assets/images/illustrations/education/education_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "education_054",
-      "title": "劳动教育",
-      "summary": "劳动教育校园种植，动手实践体验，劳动最光荣",
-      "full_text": "劳动教育校园种植，动手实践体验，劳动最光荣",
+      "title": "瑞吉欧方案",
+      "summary": "瑞吉欧教育中儿童围绕光影主题探索，用手电筒和镜子做实验记录发...",
+      "full_text": "瑞吉欧教育中儿童围绕光影主题探索，用手电筒和镜子做实验记录发现。方案教学以儿童兴趣为起点，环境是第三位老师。",
       "image": "res://assets/images/illustrations/education/education_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "education_055",
-      "title": "考试改革",
-      "summary": "考试改革综合素质评价，减少应试压力，素质教育推进",
-      "full_text": "考试改革综合素质评价，减少应试压力，素质教育推进",
+      "title": "全纳融合教育",
+      "summary": "融合教室中听障儿童佩戴助听器与同伴一起上课，手语翻译辅助沟通...",
+      "full_text": "融合教室中听障儿童佩戴助听器与同伴一起上课，手语翻译辅助沟通。全纳教育让每个孩子都不掉队，差异是资源而非缺陷。",
       "image": "res://assets/images/illustrations/education/education_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "education_056",
-      "title": "教育信息化",
-      "summary": "教育信息化智慧校园，大数据分析学情，精准教学",
-      "full_text": "教育信息化智慧校园，大数据分析学情，精准教学",
+      "title": "项目式深学习",
+      "summary": "学生团队围绕社区垃圾分类开展项目研究，调查问卷数据分析提出改...",
+      "full_text": "学生团队围绕社区垃圾分类开展项目研究，调查问卷数据分析提出改进方案。项目式学习培养批判性思维和合作能力。",
       "image": "res://assets/images/illustrations/education/education_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "education_057",
-      "title": "全球教育合作",
-      "summary": "全球教育合作交换生，跨文化理解交流，国际视野",
-      "full_text": "全球教育合作交换生，跨文化理解交流，国际视野",
+      "title": "STEAM跨学科",
+      "summary": "STEAM课堂上学生设计制作自动浇花装置，编程控制土壤湿度传...",
+      "full_text": "STEAM课堂上学生设计制作自动浇花装置，编程控制土壤湿度传感器触发水泵。跨学科融合打破知识壁垒，解决真实问题。",
       "image": "res://assets/images/illustrations/education/education_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "education_058",
-      "title": "创客教育",
-      "summary": "创客教育动手实践，3D打印编程创作，创新培养",
-      "full_text": "创客教育动手实践，3D打印编程创作，创新培养",
+      "title": "教育评价改革",
+      "summary": "学校用成长档案袋替代单一考试评分，收集学生作品反思记录和项目...",
+      "full_text": "学校用成长档案袋替代单一考试评分，收集学生作品反思记录和项目成果。多元评价关注学习过程，每个孩子都有闪光点。",
       "image": "res://assets/images/illustrations/education/education_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "education_059",
-      "title": "特殊教育",
-      "summary": "特殊教育关爱残障儿童，个性化教学辅助，教育公平",
-      "full_text": "特殊教育关爱残障儿童，个性化教学辅助，教育公平",
+      "title": "终身学习社会",
+      "summary": "社区老年大学里银发学员学习智能手机操作和视频剪辑，活到老学到...",
+      "full_text": "社区老年大学里银发学员学习智能手机操作和视频剪辑，活到老学到老。终身学习是时代要求，学习型社会让每个人持续成长。",
       "image": "res://assets/images/illustrations/education/education_059.jpg",
       "image_grid": {
         "x": 3,

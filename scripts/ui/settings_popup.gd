@@ -13,11 +13,13 @@ signal closed
 @onready var sfx_value_label: Label = $PanelContainer/VBoxContainer/SFXContainer/SFXValueLabel
 @onready var language_option: OptionButton = $PanelContainer/VBoxContainer/LanguageContainer/LanguageOptionButton
 @onready var language_label: Label = $PanelContainer/VBoxContainer/LanguageContainer/LanguageLabel
+@onready var auto_rotate_check: CheckButton = $PanelContainer/VBoxContainer/AutoRotateContainer/AutoRotateCheckButton
 
 func _ready() -> void:
 	visible = false
 	bgm_slider.value = AudioManager.bgm_volume * 100.0
 	sfx_slider.value = AudioManager.sfx_volume * 100.0
+	auto_rotate_check.button_pressed = GameManager.settings.get("auto_rotate", true)
 	_update_value_labels()
 	dim_overlay.gui_input.connect(_on_dim_overlay_input)
 	AudioManager.bgm_volume_changed.connect(_on_bgm_volume_changed)
@@ -34,6 +36,7 @@ func show_settings() -> void:
 		return
 	bgm_slider.value = AudioManager.bgm_volume * 100.0
 	sfx_slider.value = AudioManager.sfx_volume * 100.0
+	auto_rotate_check.button_pressed = GameManager.settings.get("auto_rotate", true)
 	_update_value_labels()
 	visible = true
 	panel.scale = Vector2(0.8, 0.8)
@@ -92,8 +95,15 @@ func _on_language_selected(index: int) -> void:
 func _on_close_pressed() -> void:
 	GameManager.settings["bgm_volume"] = AudioManager.bgm_volume
 	GameManager.settings["sfx_volume"] = AudioManager.sfx_volume
+	GameManager.settings["auto_rotate"] = auto_rotate_check.button_pressed
 	GameManager.save_game()
 	hide_settings()
+
+func _on_auto_rotate_toggled(enabled: bool) -> void:
+	OrientationManager.set_auto_rotate(enabled)
+	GameManager.settings["auto_rotate"] = enabled
+	GameManager.save_game()
+	AudioManager.play_sfx("click")
 
 func _unhandled_input(event: InputEvent) -> void:
 	if visible and event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:

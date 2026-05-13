@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "chinese_heritage_000",
-      "title": "遗产分类体系",
-      "summary": "世界遗产分为文化遗产、自然遗产与双重遗产三大类别",
-      "full_text": "世界遗产分为文化遗产、自然遗产与双重遗产三大类别",
+      "title": "文化遗产概述",
+      "summary": "中国拥有五十六项世界遗产，数量居全球第二。从长城到故宫，从丝...",
+      "full_text": "中国拥有五十六项世界遗产，数量居全球第二。从长城到故宫，从丝绸之路到大运河，这些遗产见证了中华文明的悠久与辉煌。保护文化遗产就是守护民族的根与魂，让历史的光芒照亮未来。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "chinese_heritage_001",
-      "title": "中国遗产概览",
-      "summary": "中国世界遗产总数位居全球前列，涵盖古建筑、遗址与自然景观",
-      "full_text": "中国世界遗产总数位居全球前列，涵盖古建筑、遗址与自然景观",
+      "title": "长城保护历程",
+      "summary": "长城跨越两千年历史，绵延两万余里。从战国夯土到明代砖石，每一...",
+      "full_text": "长城跨越两千年历史，绵延两万余里。从战国夯土到明代砖石，每一段都承载着戍边将士的血汗。一九八七年长城被列入世界遗产名录，保护修缮工作至今仍在持续，守护这道中华民族的脊梁。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "chinese_heritage_002",
-      "title": "遗产保护理念",
-      "summary": "修旧如旧原则指导古建筑修缮，最小干预保存历史信息",
-      "full_text": "修旧如旧原则指导古建筑修缮，最小干预保存历史信息",
+      "title": "故宫博物院",
+      "summary": "紫禁城内收藏文物一百八十六万余件，是世界上最大的中国古代艺术...",
+      "full_text": "紫禁城内收藏文物一百八十六万余件，是世界上最大的中国古代艺术博物馆。从商周青铜到宋元书画，从明清瓷器到宫廷珍宝，每一件都是中华文明的瑰宝，故宫已成为文化遗产保护的典范。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "chinese_heritage_003",
-      "title": "文化遗产认定",
-      "summary": "申报遗产需具备突出普遍价值，满足六项标准中至少一项",
-      "full_text": "申报遗产需具备突出普遍价值，满足六项标准中至少一项",
+      "title": "天坛祈年殿",
+      "summary": "北京天坛祈年殿三重蓝色琉璃瓦顶如伞盖高悬，殿内二十八根金丝楠...",
+      "full_text": "北京天坛祈年殿三重蓝色琉璃瓦顶如伞盖高悬，殿内二十八根金丝楠木柱象征四季十二月和十二时辰。明清皇帝在此祈求五谷丰登，天人合一的哲学思想凝结在这座完美的圆形建筑中。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "chinese_heritage_004",
-      "title": "自然遗产标准",
-      "summary": "自然遗产需代表地球演化或生态过程，具有杰出自然美景",
-      "full_text": "自然遗产需代表地球演化或生态过程，具有杰出自然美景",
+      "title": "颐和园昆明湖",
+      "summary": "颐和园昆明湖碧波荡漾，十七孔桥如长虹卧波。万寿山上佛香阁巍峨...",
+      "full_text": "颐和园昆明湖碧波荡漾，十七孔桥如长虹卧波。万寿山上佛香阁巍峨耸立，长廊彩画绵延七百二十八米。慈禧太后的夏宫集南北园林之大成，是中国古典园林艺术的集大成者。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "chinese_heritage_005",
-      "title": "双重遗产价值",
-      "summary": "泰山兼具帝王封禅的人文意义与雄伟壮丽的自然景观",
-      "full_text": "泰山兼具帝王封禅的人文意义与雄伟壮丽的自然景观",
+      "title": "承德避暑山庄",
+      "summary": "承德避暑山庄占地五百六十四万平方米，是中国最大的皇家园林。湖...",
+      "full_text": "承德避暑山庄占地五百六十四万平方米，是中国最大的皇家园林。湖区仿江南水乡，山区拟塞北风光，蒙古包和喇嘛庙并存，多民族文化的融合在这座夏宫中得到了完美体现。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "chinese_heritage_006",
-      "title": "遗产监测体系",
-      "summary": "卫星遥感与地面传感器实时监测遗产保存状况与环境变化",
-      "full_text": "卫星遥感与地面传感器实时监测遗产保存状况与环境变化",
+      "title": "孔庙孔府孔林",
+      "summary": "曲阜三孔是儒家文化的圣地。孔庙大成殿十根深浮雕龙柱精美绝伦，...",
+      "full_text": "曲阜三孔是儒家文化的圣地。孔庙大成殿十根深浮雕龙柱精美绝伦，孔府是衍圣公世代居住的府邸，孔林古木参天，孔子墓前香火不绝。两千余年来这里一直是中华文脉的精神中心。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "chinese_heritage_007",
-      "title": "非遗传承人",
-      "summary": "国家认定非遗代表性传承人，师徒相授确保技艺代代延续",
-      "full_text": "国家认定非遗代表性传承人，师徒相授确保技艺代代延续",
+      "title": "武当山古建筑群",
+      "summary": "武当山金顶铜殿在云海中闪耀，紫霄宫红墙碧瓦掩映在苍松翠柏间。...",
+      "full_text": "武当山金顶铜殿在云海中闪耀，紫霄宫红墙碧瓦掩映在苍松翠柏间。明成祖朱棣调集三十万军民修建的道教建筑群依山就势，道法自然的思想在建筑布局中得到了完美诠释。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "chinese_heritage_008",
-      "title": "遗产缓冲区",
-      "summary": "遗产周边划定缓冲区限制建设，保护历史环境的整体风貌",
-      "full_text": "遗产周边划定缓冲区限制建设，保护历史环境的整体风貌",
+      "title": "乐山大佛",
+      "summary": "岷江、青衣江和大渡河三江汇流处，七十一米高的弥勒佛像依山而坐...",
+      "full_text": "岷江、青衣江和大渡河三江汇流处，七十一米高的弥勒佛像依山而坐。海通和尚为镇水患开凿大佛，历时九十年方才完工。大佛脚背可坐百人，是世界上最大的石刻佛像，千年风霜未能改其慈容。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "chinese_heritage_009",
-      "title": "国际保护公约",
-      "summary": "联合国教科文组织通过世界遗产公约，各国共同守护人类遗产",
-      "full_text": "联合国教科文组织通过世界遗产公约，各国共同守护人类遗产",
+      "title": "都江堰水利工程",
+      "summary": "李冰父子在岷江上修筑的都江堰历经两千二百余年仍在发挥作用。鱼...",
+      "full_text": "李冰父子在岷江上修筑的都江堰历经两千二百余年仍在发挥作用。鱼嘴分水堤将江水一分为二，飞沙堰泄洪排沙，宝瓶口引水灌溉，三大工程巧妙配合，成都平原由此成为天府之国。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "chinese_heritage_010",
-      "title": "中国申遗历程",
-      "summary": "一九八七年长城等首批六项遗产列入世界遗产名录",
-      "full_text": "一九八七年长城等首批六项遗产列入世界遗产名录",
+      "title": "大运河",
+      "summary": "京杭大运河纵贯南北一千七百余公里，连接海河、黄河、淮河、长江...",
+      "full_text": "京杭大运河纵贯南北一千七百余公里，连接海河、黄河、淮河、长江和钱塘江五大水系。隋炀帝开凿的这条黄金水道促进了南北经济文化交流，沿线城镇因运河而兴，千年漕运史是一部流动的文明史。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "chinese_heritage_011",
-      "title": "遗产旅游管理",
-      "summary": "景区限流措施保护遗产免受过度旅游损害，预约制平衡保护与利用",
-      "full_text": "景区限流措施保护遗产免受过度旅游损害，预约制平衡保护与利用",
+      "title": "丝绸之路长安段",
+      "summary": "汉唐长安城是丝绸之路的东方起点，西市胡商云集，驼铃声声。大明...",
+      "full_text": "汉唐长安城是丝绸之路的东方起点，西市胡商云集，驼铃声声。大明宫含元殿遗址见证了万国来朝的盛况，大雁塔保存着玄奘从印度带回的经卷，丝绸之路将中华文明传播到世界各地。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "chinese_heritage_012",
-      "title": "数字化保护",
-      "summary": "三维激光扫描与数字建模技术为古建筑建立精确数字档案",
-      "full_text": "三维激光扫描与数字建模技术为古建筑建立精确数字档案",
+      "title": "黄山奇松怪石",
+      "summary": "黄山以奇松、怪石、云海、温泉四绝著称于世。迎客松伸展枝臂如迎...",
+      "full_text": "黄山以奇松、怪石、云海、温泉四绝著称于世。迎客松伸展枝臂如迎远客，飞来石危立峰顶似欲坠落。云海翻涌如波涛，日出金光穿云破雾，徐霞客赞叹五岳归来不看山，黄山归来不看岳。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "chinese_heritage_013",
-      "title": "考古遗址公园",
-      "summary": "国家考古遗址公园将发掘现场与展示教育结合，公众共享考古成果",
-      "full_text": "国家考古遗址公园将发掘现场与展示教育结合，公众共享考古成果",
+      "title": "九寨沟水色",
+      "summary": "九寨沟一百零八个海子如翡翠镶嵌在山谷之中，五花海水色斑斓如调...",
+      "full_text": "九寨沟一百零八个海子如翡翠镶嵌在山谷之中，五花海水色斑斓如调色板。诺日朗瀑布从密林中飞泻而下，珍珠滩水流跳跃如珠玉。水是九寨沟的灵魂，童话世界的美誉名不虚传。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "chinese_heritage_014",
-      "title": "历史文化名城",
-      "summary": "国务院公布历史文化名城名单，保护古城格局与传统街区风貌",
-      "full_text": "国务院公布历史文化名城名单，保护古城格局与传统街区风貌",
+      "title": "黄龙钙华彩池",
+      "summary": "黄龙沟的钙华彩池沿山谷层层叠叠，三千多个彩池如梯田般排列。池...",
+      "full_text": "黄龙沟的钙华彩池沿山谷层层叠叠，三千多个彩池如梯田般排列。池水随光线变幻出蓝、绿、黄等色彩，金沙铺地的钙华滩流如巨龙鳞甲闪烁，这是大自然历经万年雕琢的地质奇观。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "chinese_heritage_015",
-      "title": "遗产修复技术",
-      "summary": "传统工艺与现代科技结合修复古壁画，化学分析确定原始颜料",
-      "full_text": "传统工艺与现代科技结合修复古壁画，化学分析确定原始颜料",
+      "title": "武陵源峰林",
+      "summary": "张家界三千座砂岩石峰拔地而起，如剑如戟直插云霄。天子山云雾缭...",
+      "full_text": "张家界三千座砂岩石峰拔地而起，如剑如戟直插云霄。天子山云雾缭绕，金鞭溪清流潺潺，百龙天梯直上云天。这片峰林奇观曾激发电影阿凡达的创作灵感，是地球上一处超现实的风景。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "chinese_heritage_016",
-      "title": "水下文化遗产",
-      "summary": "南海一号沉船整体打捞入馆，宋代瓷器与铜钱保存完好",
-      "full_text": "南海一号沉船整体打捞入馆，宋代瓷器与铜钱保存完好",
+      "title": "三江并流",
+      "summary": "怒江、澜沧江和金沙江在滇西北并肩奔流一百七十余公里而不交汇。...",
+      "full_text": "怒江、澜沧江和金沙江在滇西北并肩奔流一百七十余公里而不交汇。雪山巍峨，峡谷深切，从热带雨林到高山冰川的垂直气候带在此浓缩，全球三十四个生物热点地区之一，生物多样性令人惊叹。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "chinese_heritage_017",
-      "title": "文化生态保护区",
-      "summary": "在非遗富集区域建立文化生态保护区，整体保护文化传承环境",
-      "full_text": "在非遗富集区域建立文化生态保护区，整体保护文化传承环境",
+      "title": "四川大熊猫栖息地",
+      "summary": "邛崃山脉的竹林深处，大熊猫抱着竹子悠然进食。卧龙自然保护区是...",
+      "full_text": "邛崃山脉的竹林深处，大熊猫抱着竹子悠然进食。卧龙自然保护区是国宝的家园，海拔从一千二百到六千米的落差孕育了丰富的动植物资源。保护大熊猫就是保护整个生态系统的健康。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "chinese_heritage_018",
-      "title": "遗产教育推广",
-      "summary": "遗产日开放活动让公众走进保护现场，体验文化遗产魅力",
-      "full_text": "遗产日开放活动让公众走进保护现场，体验文化遗产魅力",
+      "title": "昆曲牡丹亭",
+      "summary": "昆曲被誉为百戏之祖，水磨腔婉转悠长。杜丽娘在牡丹亭中惊梦寻梦...",
+      "full_text": "昆曲被誉为百戏之祖，水磨腔婉转悠长。杜丽娘在牡丹亭中惊梦寻梦，一颦一笑皆有情。六百年的昆曲艺术以雅致的唱腔和细腻的表演著称，二〇〇一年被联合国列为人类口头和非物质遗产代表作。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "chinese_heritage_019",
-      "title": "国际合作保护",
-      "summary": "中国与柬埔寨合作修复吴哥窟周萨神庙，国际遗产保护交流",
-      "full_text": "中国与柬埔寨合作修复吴哥窟周萨神庙，国际遗产保护交流",
+      "title": "京剧脸谱",
+      "summary": "红脸关公忠义凛然，白脸曹操奸诈多疑，黑脸包公铁面无私。京剧脸...",
+      "full_text": "红脸关公忠义凛然，白脸曹操奸诈多疑，黑脸包公铁面无私。京剧脸谱用色彩和图案勾勒人物性格，生旦净丑各行当各有特色。唱念做打四功五法，京剧融合了中国戏曲的精华，是国粹艺术的代表。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "chinese_heritage_020",
-      "title": "故宫建筑群",
-      "summary": "紫禁城九千余间房屋沿中轴线对称排列，红墙黄瓦气势恢宏",
-      "full_text": "紫禁城九千余间房屋沿中轴线对称排列，红墙黄瓦气势恢宏",
+      "title": "中国书法",
+      "summary": "从甲骨文到楷书，中国书法历经三千余年演变。王羲之兰亭序飘逸如...",
+      "full_text": "从甲骨文到楷书，中国书法历经三千余年演变。王羲之兰亭序飘逸如行云流水，颜真卿祭侄稿沉痛如悲歌慷慨，张旭狂草奔放如惊涛骇浪。笔墨纸砚间，书法是中华文明最独特的艺术形式。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "chinese_heritage_021",
-      "title": "天坛祈年殿",
-      "summary": "三重蓝色琉璃瓦圆顶殿宇矗立汉白玉台基之上，祭天圣地",
-      "full_text": "三重蓝色琉璃瓦圆顶殿宇矗立汉白玉台基之上，祭天圣地",
+      "title": "中国剪纸",
+      "summary": "一把剪刀一张红纸，民间艺人剪出栩栩如生的花鸟鱼虫。陕北窗花热...",
+      "full_text": "一把剪刀一张红纸，民间艺人剪出栩栩如生的花鸟鱼虫。陕北窗花热烈奔放，蔚县点彩剪纸细腻精巧，扬州剪纸秀丽灵动。剪纸艺术遍布大江南北，是流传最广的民间艺术之一。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "chinese_heritage_022",
-      "title": "布达拉宫",
-      "summary": "红白宫殿依玛布日山垒砌十三层，金顶灵塔殿供奉达赖灵塔",
-      "full_text": "红白宫殿依玛布日山垒砌十三层，金顶灵塔殿供奉达赖灵塔",
+      "title": "中医针灸",
+      "summary": "银针刺入穴位疏通经络，艾灸温煦驱散寒邪。黄帝内经奠定中医理论...",
+      "full_text": "银针刺入穴位疏通经络，艾灸温煦驱散寒邪。黄帝内经奠定中医理论基础，经络学说揭示人体气血运行的奥秘。针灸疗法传播到一百八十多个国家，世界卫生组织认可其治疗数十种疾病的疗效。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "chinese_heritage_023",
-      "title": "颐和园",
-      "summary": "昆明湖畔长廊彩画绵延七百米，万寿山佛香阁俯瞰湖光山色",
-      "full_text": "昆明湖畔长廊彩画绵延七百米，万寿山佛香阁俯瞰湖光山色",
+      "title": "太极拳",
+      "summary": "晨曦中太极拳师在公园里缓缓起势，以柔克刚、以静制动。陈式太极...",
+      "full_text": "晨曦中太极拳师在公园里缓缓起势，以柔克刚、以静制动。陈式太极刚柔并济，杨式太极舒展大方，武当太极道法自然。太极拳融合了道家哲学和武术技击，是身心兼修的东方智慧。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "chinese_heritage_024",
-      "title": "承德避暑山庄",
-      "summary": "清代帝王避暑行宫融合江南园林与北方草原风格，外八庙环列",
-      "full_text": "清代帝王避暑行宫融合江南园林与北方草原风格，外八庙环列",
+      "title": "中国茶艺",
+      "summary": "龙井茶在玻璃杯中舒展如雀舌，普洱茶在紫砂壶中陈香四溢。陆羽茶...",
+      "full_text": "龙井茶在玻璃杯中舒展如雀舌，普洱茶在紫砂壶中陈香四溢。陆羽茶经奠定茶道基础，从采茶制茶到泡茶品茶，每一步都蕴含着东方美学。茶道传入日本发展为茶道，中国茶艺是东方生活美学的精髓。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "chinese_heritage_025",
-      "title": "曲阜孔庙",
-      "summary": "杏坛前古柏参天，大成殿十根龙柱浮雕精美绝伦",
-      "full_text": "杏坛前古柏参天，大成殿十根龙柱浮雕精美绝伦",
+      "title": "敦煌莫高窟保护",
+      "summary": "莫高窟面临风沙侵蚀与游客潮的双重压力，敦煌研究院用数字化技术...",
+      "full_text": "莫高窟面临风沙侵蚀与游客潮的双重压力，敦煌研究院用数字化技术为每个洞窟建立高清档案。治沙工程在崖顶铺设草方格，微环境监测系统实时记录温湿度变化，千年石窟的保护是一场与时间的赛跑。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "chinese_heritage_026",
-      "title": "苏州园林",
-      "summary": "拙政园中亭台楼阁临水而建，太湖石假山曲径通幽",
-      "full_text": "拙政园中亭台楼阁临水而建，太湖石假山曲径通幽",
+      "title": "平遥古城",
+      "summary": "山西平遥古城完整保存了明清时期的城市格局，城墙周长六公里环绕...",
+      "full_text": "山西平遥古城完整保存了明清时期的城市格局，城墙周长六公里环绕着四合院与票号。日升昌票号开创了中国银行业的先河，县衙、文庙与城隍庙各安其位，平遥是了解中国传统城市生活的活标本。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "chinese_heritage_027",
-      "title": "武当山古建筑",
-      "summary": "金殿铜铸鎏金矗立天柱峰顶，紫霄宫道观依山势层叠",
-      "full_text": "金殿铜铸鎏金矗立天柱峰顶，紫霄宫道观依山势层叠",
+      "title": "丽江纳西古乐",
+      "summary": "丽江古城中纳西族老人演奏着源自唐宋的洞经音乐，丝竹管弦声在青...",
+      "full_text": "丽江古城中纳西族老人演奏着源自唐宋的洞经音乐，丝竹管弦声在青石板巷道中回荡。这些古曲在中原早已失传，却在边陲小城完整保存，纳西古乐是活着的音乐化石，连接着千年的文化血脉。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "chinese_heritage_028",
-      "title": "福建土楼",
-      "summary": "圆形方形的夯土民居如飞碟降落山谷，家族聚居防御合一",
-      "full_text": "圆形方形的夯土民居如飞碟降落山谷，家族聚居防御合一",
+      "title": "开平碉楼",
+      "summary": "广东开平的碉楼融合了中西建筑风格，巴洛克山花与岭南骑楼共处一...",
+      "full_text": "广东开平的碉楼融合了中西建筑风格，巴洛克山花与岭南骑楼共处一楼。华侨将在海外所见融入故乡建筑，铁窗与枪眼防御匪患，雕花与彩色玻璃彰显品味，开平碉楼是近代中国侨乡文化的独特见证。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "chinese_heritage_029",
-      "title": "开平碉楼",
-      "summary": "中西合璧的碉楼散落田野之间，巴洛克山花与岭南骑楼交融",
-      "full_text": "中西合璧的碉楼散落田野之间，巴洛克山花与岭南骑楼交融",
+      "title": "福建土楼营造",
+      "summary": "客家工匠用生土夯筑出直径数十米的圆形土楼，墙厚达一米半可御火...",
+      "full_text": "客家工匠用生土夯筑出直径数十米的圆形土楼，墙厚达一米半可御火炮。内院采光通风，祖堂居中，数十户同族聚居。营造技艺代代相传，从选址到夯墙都遵循风水与经验，土楼是家族凝聚力的建筑表达。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "chinese_heritage_030",
-      "title": "丽江古城",
-      "summary": "纳西族木府旁小桥流水穿街过巷，青石板路映照玉龙雪山",
-      "full_text": "纳西族木府旁小桥流水穿街过巷，青石板路映照玉龙雪山",
+      "title": "澳门历史城区",
+      "summary": "澳门历史城区是中国现存最古老的西式建筑群，圣保禄教堂的立面石...",
+      "full_text": "澳门历史城区是中国现存最古老的西式建筑群，圣保禄教堂的立面石雕融合了东方与西方的符号。葡式碎石路面蜿蜒于巴洛克教堂与中式庙宇之间，四百年的中西文化交融在街道的每一个转角留下印记。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "chinese_heritage_031",
-      "title": "平遥古城",
-      "summary": "明代城墙方方正正围合古城，票号日升昌开创中国银行业",
-      "full_text": "明代城墙方方正正围合古城，票号日升昌开创中国银行业",
+      "title": "殷墟甲骨文",
+      "summary": "安阳殷墟出土的甲骨文是中国最早的成熟文字系统，贞人在龟甲与牛...",
+      "full_text": "安阳殷墟出土的甲骨文是中国最早的成熟文字系统，贞人在龟甲与牛骨上刻下占卜记录。从祭祀征伐到天气农事，甲骨文揭示了商代社会的方方面面，汉字三千年的演变脉络由此清晰可循。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "chinese_heritage_032",
-      "title": "澳门历史城区",
-      "summary": "大三巴牌坊石壁矗立山坡之上，葡式碎石路连接教堂与庙宇",
-      "full_text": "大三巴牌坊石壁矗立山坡之上，葡式碎石路连接教堂与庙宇",
+      "title": "高句丽王城",
+      "summary": "吉林集安的高句丽王城依山而建，石砌城墙与夯土台基雄伟壮观。将...",
+      "full_text": "吉林集安的高句丽王城依山而建，石砌城墙与夯土台基雄伟壮观。将军坟被誉为东方金字塔，墓室壁画描绘着四神与出行场景。高句丽政权存续七百年，在东北亚历史上留下了深刻的印记。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "chinese_heritage_033",
-      "title": "大足石刻",
-      "summary": "宝顶山崖壁上千手观音金光闪耀，宋代石刻展现佛教中国化",
-      "full_text": "宝顶山崖壁上千手观音金光闪耀，宋代石刻展现佛教中国化",
+      "title": "元上都遗址",
+      "summary": "内蒙古正蓝旗的元上都遗址是忽必烈建立的夏宫，马可·波罗在此觐...",
+      "full_text": "内蒙古正蓝旗的元上都遗址是忽必烈建立的夏宫，马可·波罗在此觐见大汗。宫殿基址与城墙轮廓仍清晰可辨，宫城内的御天门与水晶殿遗址诉说着元帝国的辉煌，草原上的都城见证了游牧与农耕文明的交汇。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "chinese_heritage_034",
-      "title": "龙门石窟",
-      "summary": "卢舍那大佛端坐伊水西岸崖壁，十七米高面容慈悲庄严",
-      "full_text": "卢舍那大佛端坐伊水西岸崖壁，十七米高面容慈悲庄严",
+      "title": "大足石刻保护",
+      "summary": "重庆大足石刻面临水害与风化的威胁，保护团队为造像搭建遮护棚并...",
+      "full_text": "重庆大足石刻面临水害与风化的威胁，保护团队为造像搭建遮护棚并安装排水系统。三维扫描技术为每尊造像建立数字档案，微环境调控减缓风化速度，千年石刻的保护需要科技与匠心的双重守护。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "chinese_heritage_035",
-      "title": "云冈石窟",
-      "summary": "昙曜五窟巨佛雕刻于武州山砂岩，北魏皇家石窟气象雄浑",
-      "full_text": "昙曜五窟巨佛雕刻于武州山砂岩，北魏皇家石窟气象雄浑",
+      "title": "西递宏村古村落",
+      "summary": "皖南古村落西递与宏村如水墨画卷般展开，白墙黛瓦的马头墙倒映在...",
+      "full_text": "皖南古村落西递与宏村如水墨画卷般展开，白墙黛瓦的马头墙倒映在南湖之中。宏村水系按牛形设计，月沼为牛胃水圳为牛肠，西递牌坊群记录着胡氏家族的科举功名，徽派建筑是江南诗意的永恒定格。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "chinese_heritage_036",
-      "title": "长城嘉峪关",
-      "summary": "河西走廊西端关城巍然矗立，城楼箭楼角楼互为犄角",
-      "full_text": "河西走廊西端关城巍然矗立，城楼箭楼角楼互为犄角",
+      "title": "龙门石窟保护",
+      "summary": "洛阳龙门石窟的石灰岩造像遭受渗水与大气污染的侵蚀，保护团队用...",
+      "full_text": "洛阳龙门石窟的石灰岩造像遭受渗水与大气污染的侵蚀，保护团队用环氧树脂加固裂隙并修建防渗廊道。数字化技术为十万尊造像建立三维模型，卢舍那大佛的微笑在虚拟世界中永驻，石窟保护是跨越千年的承诺。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "chinese_heritage_037",
-      "title": "都江堰",
-      "summary": "李冰父子筑鱼嘴分水堤与飞沙堰，千年水利灌溉成都平原",
-      "full_text": "李冰父子筑鱼嘴分水堤与飞沙堰，千年水利灌溉成都平原",
+      "title": "土司遗址",
+      "summary": "湖南永顺老司城、贵州海龙屯与唐崖土司城见证了元明清三朝的土司...",
+      "full_text": "湖南永顺老司城、贵州海龙屯与唐崖土司城见证了元明清三朝的土司制度。中央王朝通过世袭土司治理边疆，土司城兼具军事防御与行政中心功能，土司遗址是中国统一多民族国家形成过程的重要物证。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "chinese_heritage_038",
-      "title": "赵州桥",
-      "summary": "隋代石匠李春建造敞肩拱桥，单孔石拱横跨洨河一千四百年",
-      "full_text": "隋代石匠李春建造敞肩拱桥，单孔石拱横跨洨河一千四百年",
+      "title": "鼓浪屿",
+      "summary": "厦门鼓浪屿上各国风格的领事馆与别墅鳞次栉比，钢琴博物馆收藏了...",
+      "full_text": "厦门鼓浪屿上各国风格的领事馆与别墅鳞次栉比，钢琴博物馆收藏了百余架古钢琴。万国建筑博览与南音古乐在此交汇，小岛曾是中西文化交流的前沿，如今是海上花园中凝固的近代史。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "chinese_heritage_039",
-      "title": "应县木塔",
-      "summary": "六十七米高木构塔身无一根铁钉，斗拱层叠支撑九百年不倒",
-      "full_text": "六十七米高木构塔身无一根铁钉，斗拱层叠支撑九百年不倒",
+      "title": "良渚古城遗址",
+      "summary": "浙江良渚古城遗址证实了五千年中华文明的存在，水利系统规模宏大...",
+      "full_text": "浙江良渚古城遗址证实了五千年中华文明的存在，水利系统规模宏大，玉琮玉璧制作精美。莫角山宫殿基址面积达三十万平方米，反山王陵出土的玉器数量惊人，良渚是东亚最早的国家社会之一。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "chinese_heritage_040",
-      "title": "嵩岳寺塔",
-      "summary": "十二边形密檐砖塔矗立嵩山之麓，北魏佛塔建筑孤例",
-      "full_text": "十二边形密檐砖塔矗立嵩山之麓，北魏佛塔建筑孤例",
+      "title": "丝绸之路申遗",
+      "summary": "丝绸之路长安-天山廊道的路网由中国、哈萨克斯坦与吉尔吉斯斯坦...",
+      "full_text": "丝绸之路长安-天山廊道的路网由中国、哈萨克斯坦与吉尔吉斯斯坦联合申遗成功。从汉唐长安到撒马尔罕，三十三处遗产点串联起东西方文明交流的轨迹，跨国申遗开创了文化遗产保护的国际合作新模式。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "chinese_heritage_041",
-      "title": "永乐宫壁画",
-      "summary": "三清殿朝元图二百九十位神仙朝拜，线条流畅色彩绚丽",
-      "full_text": "三清殿朝元图二百九十位神仙朝拜，线条流畅色彩绚丽",
+      "title": "杭州西湖文化景观",
+      "summary": "西湖三面云山一面城，苏堤春晓与断桥残雪是千年诗意的凝结。白居...",
+      "full_text": "西湖三面云山一面城，苏堤春晓与断桥残雪是千年诗意的凝结。白居易与苏轼疏浚西湖筑堤，文人雅士在湖畔吟诗作画，西湖是中国山水美学理念的完美物化，自然与人文在此浑然天成。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "chinese_heritage_042",
-      "title": "莫高窟藏经洞",
-      "summary": "第十七窟密室中封存五万卷经卷文书，敦煌遗书震惊世界",
-      "full_text": "第十七窟密室中封存五万卷经卷文书，敦煌遗书震惊世界",
+      "title": "红河哈尼梯田",
+      "summary": "云南红河的哈尼梯田从山脚延伸至云端，级数多达三千余级。哈尼人...",
+      "full_text": "云南红河的哈尼梯田从山脚延伸至云端，级数多达三千余级。哈尼人用千年的时间修筑沟渠引山泉灌溉，森林-村寨-梯田-水系四素同构的生态系统堪称奇迹，梯田是人与自然和谐共生的伟大创造。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "chinese_heritage_043",
-      "title": "秦始皇陵",
-      "summary": "封土如山矗立骊山脚下，地宫水银江河模拟宇宙格局",
-      "full_text": "封土如山矗立骊山脚下，地宫水银江河模拟宇宙格局",
+      "title": "泰山",
+      "summary": "泰山为五岳之首，历代帝王在此封禅祭天。南天门以上云海翻涌，碧...",
+      "full_text": "泰山为五岳之首，历代帝王在此封禅祭天。南天门以上云海翻涌，碧霞祠香火鼎盛，经石峪金刚经刻石字大如斗。从孔子登泰山而小天下到百姓祈子还愿，泰山是中华民族精神的象征与文化信仰的圣地。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "chinese_heritage_044",
-      "title": "殷墟遗址",
-      "summary": "殷墟宫殿基址与王陵出土甲骨文与青铜器，商代文明实证",
-      "full_text": "殷墟宫殿基址与王陵出土甲骨文与青铜器，商代文明实证",
+      "title": "黄山",
+      "summary": "黄山以奇松、怪石、云海、温泉四绝著称于世。迎客松伸展枝臂如迎...",
+      "full_text": "黄山以奇松、怪石、云海、温泉四绝著称于世。迎客松伸展枝臂如迎远客，飞来石危立峰顶似欲坠落。云海翻涌如波涛，日出金光穿云破雾，徐霞客赞叹五岳归来不看山，黄山归来不看岳。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "chinese_heritage_045",
-      "title": "泰山",
-      "summary": "五岳之首泰山日出云海壮美，历代帝王封禅石刻遍布山道",
-      "full_text": "五岳之首泰山日出云海壮美，历代帝王封禅石刻遍布山道",
+      "title": "峨眉山与乐山大佛",
+      "summary": "峨眉山金顶在云海之上闪耀，普贤菩萨铜像骑六牙白象俯瞰众生。报...",
+      "full_text": "峨眉山金顶在云海之上闪耀，普贤菩萨铜像骑六牙白象俯瞰众生。报国寺与万年寺香火绵延，山间猴群与朝圣者共享山路。岷江畔的乐山大佛高七十一米，佛即是山山即是佛，自然与信仰在此合一。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "chinese_heritage_046",
-      "title": "黄山",
-      "summary": "奇松怪石云海温泉四绝闻名天下，迎客松伸展于悬崖之上",
-      "full_text": "奇松怪石云海温泉四绝闻名天下，迎客松伸展于悬崖之上",
+      "title": "武夷山",
+      "summary": "武夷九曲溪竹筏顺流而下，丹霞赤壁在碧水中倒映如画。朱熹在武夷...",
+      "full_text": "武夷九曲溪竹筏顺流而下，丹霞赤壁在碧水中倒映如画。朱熹在武夷精舍讲学创立闽学，大红袍母树在岩缝中生长出天价茶叶。武夷山是朱子理学的摇篮，也是乌龙茶与红茶的发源地，自然与人文双遗产名至实归。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "chinese_heritage_047",
-      "title": "武夷山",
-      "summary": "丹霞地貌九曲溪竹筏漂流而过，朱熹在武夷精舍讲学著述",
-      "full_text": "丹霞地貌九曲溪竹筏漂流而过，朱熹在武夷精舍讲学著述",
+      "title": "青城山与都江堰",
+      "summary": "青城山幽深静谧，张道陵在此创立天师道，道观隐于苍翠之中。山下...",
+      "full_text": "青城山幽深静谧，张道陵在此创立天师道，道观隐于苍翠之中。山下都江堰鱼嘴分水堤将岷江一分为二，飞沙堰泄洪排沙，宝瓶口引水灌溉，二千二百年前的水利工程至今仍在滋养天府之国。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "chinese_heritage_048",
-      "title": "峨眉山",
-      "summary": "金顶十方普贤铜像矗立云海之上，佛光奇观映照舍身崖",
-      "full_text": "金顶十方普贤铜像矗立云海之上，佛光奇观映照舍身崖",
+      "title": "庐山",
+      "summary": "庐山雄峙长江之滨，奇峰峻岭云雾缭绕。白鹿洞书院千年弦歌不绝，...",
+      "full_text": "庐山雄峙长江之滨，奇峰峻岭云雾缭绕。白鹿洞书院千年弦歌不绝，东林寺净土宗祖庭香火鼎盛。别墅群掩映在松柏之间，文人墨客在此留下无数诗篇，自然与人文在此完美融合。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "chinese_heritage_049",
-      "title": "庐山",
-      "summary": "五老峰下白鹿洞书院弦歌不绝，别墅群掩映牯岭松林之中",
-      "full_text": "五老峰下白鹿洞书院弦歌不绝，别墅群掩映牯岭松林之中",
+      "title": "五台山",
+      "summary": "五台山是文殊菩萨的道场，台怀镇佛寺林立。显通寺铜殿金光闪耀，...",
+      "full_text": "五台山是文殊菩萨的道场，台怀镇佛寺林立。显通寺铜殿金光闪耀，塔院寺大白塔巍然矗立，菩萨顶的喇嘛诵经声回荡山谷。汉藏佛教在此共存，青庙与黄庙交相辉映，五台山是佛教中国化的缩影。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "chinese_heritage_050",
-      "title": "武陵源",
-      "summary": "三千石英砂岩峰柱拔地而起，云雾缭绕如水墨画卷",
-      "full_text": "三千石英砂岩峰柱拔地而起，云雾缭绕如水墨画卷",
+      "title": "嵩山",
+      "summary": "中岳嵩山的少林寺是禅宗祖庭与武术圣地，塔林中二百四十余座砖石...",
+      "full_text": "中岳嵩山的少林寺是禅宗祖庭与武术圣地，塔林中二百四十余座砖石墓塔记录着历代高僧。嵩阳书院的将军柏树龄达四千五百年，观星台是郭守敬测算历法的场所，嵩山集佛道儒三教于一山。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "chinese_heritage_051",
-      "title": "九寨沟",
-      "summary": "五花海碧蓝湖水倒映彩林，钙华瀑布飞流直下珍珠滩",
-      "full_text": "五花海碧蓝湖水倒映彩林，钙华瀑布飞流直下珍珠滩",
+      "title": "三清山",
+      "summary": "江西三清山的花岗岩峰林如仙境般矗立云端，巨蟒出山与司春女神造...",
+      "full_text": "江西三清山的花岗岩峰林如仙境般矗立云端，巨蟒出山与司春女神造型惟妙惟肖。三清宫道教建筑群依山就势，晋代葛洪在此炼丹修道，三清山是自然奇观与道教文化的完美结合。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "chinese_heritage_052",
-      "title": "黄龙",
-      "summary": "钙华彩池层叠如梯田铺展雪山之下，金色池水映照蓝天",
-      "full_text": "钙华彩池层叠如梯田铺展雪山之下，金色池水映照蓝天",
+      "title": "武陵源峰林",
+      "summary": "张家界三千座砂岩石峰拔地而起，如剑如戟直插云霄。天子山云雾缭...",
+      "full_text": "张家界三千座砂岩石峰拔地而起，如剑如戟直插云霄。天子山云雾缭绕，金鞭溪清流潺潺，百龙天梯直上云天。这片峰林奇观曾激发电影阿凡达的创作灵感，是地球上一处超现实的风景。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "chinese_heritage_053",
-      "title": "三江并流",
-      "summary": "怒江澜沧江金沙江平行奔流横断山脉，生物多样性热点地区",
-      "full_text": "怒江澜沧江金沙江平行奔流横断山脉，生物多样性热点地区",
+      "title": "九寨沟",
+      "summary": "九寨沟一百零八个海子如翡翠镶嵌在山谷之中，五花海水色斑斓如调...",
+      "full_text": "九寨沟一百零八个海子如翡翠镶嵌在山谷之中，五花海水色斑斓如调色板。诺日朗瀑布从密林中飞泻而下，珍珠滩水流跳跃如珠玉。水是九寨沟的灵魂，童话世界的美誉名不虚传。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "chinese_heritage_054",
-      "title": "四川大熊猫栖息地",
-      "summary": "大熊猫在箭竹林中啃食竹子，邛崃山系保护国宝家园",
-      "full_text": "大熊猫在箭竹林中啃食竹子，邛崃山系保护国宝家园",
+      "title": "黄龙钙华彩池",
+      "summary": "黄龙沟的钙华彩池沿山谷层层叠叠，三千多个彩池如梯田般排列。池...",
+      "full_text": "黄龙沟的钙华彩池沿山谷层层叠叠，三千多个彩池如梯田般排列。池水随光线变幻出蓝、绿、黄等色彩，金沙铺地的钙华滩流如巨龙鳞甲闪烁，这是大自然历经万年雕琢的地质奇观。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "chinese_heritage_055",
-      "title": "中国丹霞",
-      "summary": "赤壁丹崖如火烧云凝固山间，广东丹霞山与福建泰宁各展风姿",
-      "full_text": "赤壁丹崖如火烧云凝固山间，广东丹霞山与福建泰宁各展风姿",
+      "title": "新疆天山",
+      "summary": "天山横贯新疆将大地分为南疆与北疆，博格达峰冰川在阳光下闪耀。...",
+      "full_text": "天山横贯新疆将大地分为南疆与北疆，博格达峰冰川在阳光下闪耀。天池碧水倒映着雪峰，巴音布鲁克草原上九曲十八弯的开都河蜿蜒如带，天山是中亚干旱大陆上的生命之源与文明纽带。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "chinese_heritage_056",
-      "title": "新疆天山",
-      "summary": "博格达峰雪冠映照天池碧水，高山草甸与冰川交错分布",
-      "full_text": "博格达峰雪冠映照天池碧水，高山草甸与冰川交错分布",
+      "title": "可可西里",
+      "summary": "可可西里是中国最大的无人区，藏羚羊在荒原上奔跑迁徙。海拔四千...",
+      "full_text": "可可西里是中国最大的无人区，藏羚羊在荒原上奔跑迁徙。海拔四千六百米的高原上，冰川融水汇成无数湖泊，野牦牛与藏野驴在旷野中觅食。这片最后的荒野是青藏高原生态系统的核心区域。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "chinese_heritage_057",
-      "title": "可可西里",
-      "summary": "藏羚羊在无人区荒原上迁徙，高原湖泊倒映昆仑雪山",
-      "full_text": "藏羚羊在无人区荒原上迁徙，高原湖泊倒映昆仑雪山",
+      "title": "神农架",
+      "summary": "湖北神农架保存着中亚热带最完好的原始森林，金丝猴在树冠间跳跃...",
+      "full_text": "湖北神农架保存着中亚热带最完好的原始森林，金丝猴在树冠间跳跃嬉戏。传说神农氏在此尝百草，珙桐与水杉等活化石植物在此幸存，神农架是华中屋脊上的绿色宝库与生物避难所。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "chinese_heritage_058",
-      "title": "神农架",
-      "summary": "原始森林中金丝猴在树冠间跳跃，华中屋脊保存珍稀物种",
-      "full_text": "原始森林中金丝猴在树冠间跳跃，华中屋脊保存珍稀物种",
+      "title": "梵净山",
+      "summary": "贵州梵净山的红云金顶如巨柱擎天，两座寺庙分立峰顶由天桥相连。...",
+      "full_text": "贵州梵净山的红云金顶如巨柱擎天，两座寺庙分立峰顶由天桥相连。黔金丝猴仅存于此，珙桐花开如白鸽展翅。武陵山脉的主峰是佛教弥勒道场，也是中亚热带生物多样性的最后堡垒。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "chinese_heritage_059",
-      "title": "梵净山",
-      "summary": "红云金顶一柱擎天裂为两峰，蘑菇石危然矗立云海之上",
-      "full_text": "红云金顶一柱擎天裂为两峰，蘑菇石危然矗立云海之上",
+      "title": "中国蚕桑丝织",
+      "summary": "嫘祖教民养蚕的传说流传数千年，江南蚕农在桑园中采摘桑叶喂养蚕...",
+      "full_text": "嫘祖教民养蚕的传说流传数千年，江南蚕农在桑园中采摘桑叶喂养蚕宝宝。缫丝女工将蚕丝从热水中抽出，织工在提花机上织出云锦与蜀锦。丝绸之路因蚕丝而得名，蚕桑丝织是中华文明最悠久的技艺传承。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "chinese_heritage_060",
-      "title": "京剧表演",
-      "summary": "花脸演员勾画脸谱登台亮相，唱念做打展现国粹魅力",
-      "full_text": "花脸演员勾画脸谱登台亮相，唱念做打展现国粹魅力",
+      "title": "中国雕版印刷",
+      "summary": "扬州雕版印刷技艺传承千年，刻工用刻刀在梨木板上反向雕刻文字与...",
+      "full_text": "扬州雕版印刷技艺传承千年，刻工用刻刀在梨木板上反向雕刻文字与图案。刷工将墨汁均匀涂于版面，覆纸轻刷后揭下，一页经卷便告完成。从唐代佛经到清代武英殿聚珍版，雕版印刷是知识传播的基石。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "chinese_heritage_061",
-      "title": "中国书法",
-      "summary": "书法家挥毫落纸如云烟，行草楷隶篆五体各展风姿",
-      "full_text": "书法家挥毫落纸如云烟，行草楷隶篆五体各展风姿",
+      "title": "中国篆刻艺术",
+      "summary": "篆刻家在方寸青田石上以刀代笔，刻出篆书印文。秦汉印章以铜铸为...",
+      "full_text": "篆刻家在方寸青田石上以刀代笔，刻出篆书印文。秦汉印章以铜铸为主，明清流派印以石治印，浙派苍茫皖派婉约。篆刻融书法与雕刻于一炉，方寸之间气象万千，是中国特有的艺术形式。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "chinese_heritage_062",
-      "title": "中医针灸",
-      "summary": "中医师将银针刺入患者穴位，经络理论指导调理气血运行",
-      "full_text": "中医师将银针刺入患者穴位，经络理论指导调理气血运行",
+      "title": "中国皮影戏",
+      "summary": "陕西皮影艺人在白色幕布后操纵牛皮剪影，灯光将彩色人影投射在幕...",
+      "full_text": "陕西皮影艺人在白色幕布后操纵牛皮剪影，灯光将彩色人影投射在幕上。唱腔高亢激昂，武打翻腾如飞，帝王将相与才子佳人在光影中演绎千古故事。皮影戏是中国最古老的影戏艺术，被誉为电影的始祖。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "chinese_heritage_063",
-      "title": "中国剪纸",
-      "summary": "民间艺人用剪刀在红纸上剪出喜鹊登梅，窗花贴满农家窗棂",
-      "full_text": "民间艺人用剪刀在红纸上剪出喜鹊登梅，窗花贴满农家窗棂",
+      "title": "中国木构建筑",
+      "summary": "应县木塔高六十七米，全塔无一根铁钉，斗拱层叠如花绽放。榫卯结...",
+      "full_text": "应县木塔高六十七米，全塔无一根铁钉，斗拱层叠如花绽放。榫卯结构让木构建筑抗震耐久，抬梁式与穿斗式构架各具特色。从南禅寺到太和殿，中国木构建筑体系延续数千年，是东方建筑的灵魂。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "chinese_heritage_064",
-      "title": "中国篆刻",
-      "summary": "篆刻家在寿山石上刻写朱文白文，方寸之间气象万千",
-      "full_text": "篆刻家在寿山石上刻写朱文白文，方寸之间气象万千",
+      "title": "古琴艺术",
+      "summary": "七弦古琴是中国最古老的弹弦乐器，伯牙鼓琴志在高山流水。减字谱...",
+      "full_text": "七弦古琴是中国最古老的弹弦乐器，伯牙鼓琴志在高山流水。减字谱记录着千年的琴曲，广陵散激昂悲壮，平沙落雁悠远空灵。古琴是文人雅士修身养性的器物，琴道蕴含着中国哲学的深邃意境。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_064.jpg",
       "image_grid": {
         "x": 3,
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "chinese_heritage_065",
-      "title": "昆曲",
-      "summary": "昆曲演员水袖轻扬唱腔婉转，牡丹亭游园惊梦传唱四百年",
-      "full_text": "昆曲演员水袖轻扬唱腔婉转，牡丹亭游园惊梦传唱四百年",
+      "title": "中国木版年画",
+      "summary": "杨柳青与桃花坞的年画作坊中，画师绘稿刻工雕版，套色印刷出鲜艳...",
+      "full_text": "杨柳青与桃花坞的年画作坊中，画师绘稿刻工雕版，套色印刷出鲜艳的门神与胖娃娃。年年有余与招财进宝是百姓最朴素的愿望，木版年画是民间美术最生动的载体，春节的喜庆从一张年画开始。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_065.jpg",
       "image_grid": {
         "x": 3,
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "chinese_heritage_066",
-      "title": "古琴艺术",
-      "summary": "琴师端坐抚琴高山流水之音，七弦琴韵传承三千年",
-      "full_text": "琴师端坐抚琴高山流水之音，七弦琴韵传承三千年",
+      "title": "中国制瓷技艺",
+      "summary": "景德镇窑工将高岭土拉坯成型，在一千三百度窑火中烧出如玉的青花...",
+      "full_text": "景德镇窑工将高岭土拉坯成型，在一千三百度窑火中烧出如玉的青花瓷。釉里红与粉彩争奇斗艳，汝窑天青与钧窑窑变各领风骚。从商代原始瓷到清代御窑，中国制瓷技艺代表了陶瓷艺术的最高成就。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_066.jpg",
       "image_grid": {
         "x": 3,
@@ -1410,9 +1410,9 @@
     },
     {
       "id": "chinese_heritage_067",
-      "title": "蒙古长调",
-      "summary": "牧民在草原上引吭高歌长调悠扬，马头琴伴奏回荡天地",
-      "full_text": "牧民在草原上引吭高歌长调悠扬，马头琴伴奏回荡天地",
+      "title": "中国传统制茶",
+      "summary": "龙井茶炒制需抖搭捺拓，铁观音做青要摇晾交替，普洱茶渥堆发酵催...",
+      "full_text": "龙井茶炒制需抖搭捺拓，铁观音做青要摇晾交替，普洱茶渥堆发酵催生陈香。六大茶类各具工艺，从采摘萎凋到揉捻干燥，每道工序都凝结着茶人的经验与智慧。制茶技艺是中华饮食文化的瑰宝。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_067.jpg",
       "image_grid": {
         "x": 3,
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "chinese_heritage_068",
-      "title": "侗族大歌",
-      "summary": "侗族村民在鼓楼前多声部合唱，无指挥无伴奏和声天成",
-      "full_text": "侗族村民在鼓楼前多声部合唱，无指挥无伴奏和声天成",
+      "title": "中国宣纸制作",
+      "summary": "泾县宣纸以青檀皮与沙田稻草为原料，经蒸煮漂白与捞纸晒纸等百余...",
+      "full_text": "泾县宣纸以青檀皮与沙田稻草为原料，经蒸煮漂白与捞纸晒纸等百余道工序制成。纸寿千年的宣纸是书画艺术的最佳载体，轻薄如蝉翼却坚韧耐久，宣纸制作技艺是造纸术的活态传承。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_068.jpg",
       "image_grid": {
         "x": 3,
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "chinese_heritage_069",
-      "title": "端午节龙舟",
-      "summary": "龙舟竞渡鼓声震天，粽叶飘香纪念屈原投江",
-      "full_text": "龙舟竞渡鼓声震天，粽叶飘香纪念屈原投江",
+      "title": "中国珠算",
+      "summary": "算盘上珠下珠拨动如飞，加减乘除瞬间完成。珠算口诀朗朗上口，三...",
+      "full_text": "算盘上珠下珠拨动如飞，加减乘除瞬间完成。珠算口诀朗朗上口，三下五除二的口诀融入日常语言。从宋代算盘到现代珠心算，珠算是中华民族独特的数学智慧，二〇一三年列入人类非物质文化遗产。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_069.jpg",
       "image_grid": {
         "x": 3,
@@ -1473,9 +1473,9 @@
     },
     {
       "id": "chinese_heritage_070",
-      "title": "中国蚕桑丝织",
-      "summary": "蚕妇在桑园采叶喂蚕，缫丝机将蚕丝纺成华美绸缎",
-      "full_text": "蚕妇在桑园采叶喂蚕，缫丝机将蚕丝纺成华美绸缎",
+      "title": "二十四节气",
+      "summary": "立春雨水惊蛰春分，二十四节气精准对应太阳黄经位置，指导着农事...",
+      "full_text": "立春雨水惊蛰春分，二十四节气精准对应太阳黄经位置，指导着农事与生活。冬至饺子夏至面，清明踏青白露收禾，节气不仅是历法更是中国人的生活哲学，天人合一的智慧在节气中代代相传。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_070.jpg",
       "image_grid": {
         "x": 3,
@@ -1494,9 +1494,9 @@
     },
     {
       "id": "chinese_heritage_071",
-      "title": "中国雕版印刷",
-      "summary": "刻工在梨木板上反刻文字，刷墨覆纸印出书页传承知识",
-      "full_text": "刻工在梨木板上反刻文字，刷墨覆纸印出书页传承知识",
+      "title": "中国针灸",
+      "summary": "银针刺入穴位疏通经络，艾灸温煦驱散寒邪。黄帝内经奠定中医理论...",
+      "full_text": "银针刺入穴位疏通经络，艾灸温煦驱散寒邪。黄帝内经奠定中医理论基础，经络学说揭示人体气血运行的奥秘。针灸疗法传播到一百八十多个国家，世界卫生组织认可其治疗数十种疾病的疗效。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_071.jpg",
       "image_grid": {
         "x": 3,
@@ -1516,8 +1516,8 @@
     {
       "id": "chinese_heritage_072",
       "title": "太极拳",
-      "summary": "晨曦中拳师在公园缓缓推手，刚柔相济以意导气",
-      "full_text": "晨曦中拳师在公园缓缓推手，刚柔相济以意导气",
+      "summary": "晨曦中太极拳师在公园里缓缓起势，以柔克刚、以静制动。陈式太极...",
+      "full_text": "晨曦中太极拳师在公园里缓缓起势，以柔克刚、以静制动。陈式太极刚柔并济，杨式太极舒展大方，武当太极道法自然。太极拳融合了道家哲学和武术技击，是身心兼修的东方智慧。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_072.jpg",
       "image_grid": {
         "x": 3,
@@ -1536,9 +1536,9 @@
     },
     {
       "id": "chinese_heritage_073",
-      "title": "中国制瓷",
-      "summary": "景德镇窑工将青花瓷坯送入柴窑，烈火中烧出白地蓝花",
-      "full_text": "景德镇窑工将青花瓷坯送入柴窑，烈火中烧出白地蓝花",
+      "title": "中国书法",
+      "summary": "从甲骨文到楷书，中国书法历经三千余年演变。王羲之兰亭序飘逸如...",
+      "full_text": "从甲骨文到楷书，中国书法历经三千余年演变。王羲之兰亭序飘逸如行云流水，颜真卿祭侄稿沉痛如悲歌慷慨，张旭狂草奔放如惊涛骇浪。笔墨纸砚间，书法是中华文明最独特的艺术形式。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_073.jpg",
       "image_grid": {
         "x": 3,
@@ -1557,9 +1557,9 @@
     },
     {
       "id": "chinese_heritage_074",
-      "title": "中医本草",
-      "summary": "老中医在药柜前称量草药配伍处方，望闻问切辨证施治",
-      "full_text": "老中医在药柜前称量草药配伍处方，望闻问切辨证施治",
+      "title": "中国剪纸",
+      "summary": "一把剪刀一张红纸，民间艺人剪出栩栩如生的花鸟鱼虫。陕北窗花热...",
+      "full_text": "一把剪刀一张红纸，民间艺人剪出栩栩如生的花鸟鱼虫。陕北窗花热烈奔放，蔚县点彩剪纸细腻精巧，扬州剪纸秀丽灵动。剪纸艺术遍布大江南北，是流传最广的民间艺术之一。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_074.jpg",
       "image_grid": {
         "x": 3,
@@ -1578,9 +1578,9 @@
     },
     {
       "id": "chinese_heritage_075",
-      "title": "皮影戏",
-      "summary": "艺人在幕布后操纵皮影人物，灯光映出武将骑马征战",
-      "full_text": "艺人在幕布后操纵皮影人物，灯光映出武将骑马征战",
+      "title": "中国京剧",
+      "summary": "红脸关公忠义凛然，白脸曹操奸诈多疑，黑脸包公铁面无私。唱念做...",
+      "full_text": "红脸关公忠义凛然，白脸曹操奸诈多疑，黑脸包公铁面无私。唱念做打四功五法，生旦净丑各行当各有特色。京剧融合了徽调汉调与昆曲，是国粹艺术的代表，二〇一〇年列入人类非物质文化遗产。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_075.jpg",
       "image_grid": {
         "x": 3,
@@ -1599,9 +1599,9 @@
     },
     {
       "id": "chinese_heritage_076",
-      "title": "木版年画",
-      "summary": "杨柳青年画作坊中套色印刷门神，胖娃娃抱鱼寓意年年有余",
-      "full_text": "杨柳青年画作坊中套色印刷门神，胖娃娃抱鱼寓意年年有余",
+      "title": "中医本草",
+      "summary": "李时珍历时二十七年编纂本草纲目，收录药物一千八百九十二种。从...",
+      "full_text": "李时珍历时二十七年编纂本草纲目，收录药物一千八百九十二种。从神农尝百草到现代药理学验证，中医本草学积累了数千年的用药经验。人参补气、当归养血、黄芪固表，中药是东方医学的独特智慧。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_076.jpg",
       "image_grid": {
         "x": 3,
@@ -1620,9 +1620,9 @@
     },
     {
       "id": "chinese_heritage_077",
-      "title": "中国茶艺",
-      "summary": "茶艺师在紫砂壶中冲泡龙井，闻香品茗传承千年茶道",
-      "full_text": "茶艺师在紫砂壶中冲泡龙井，闻香品茗传承千年茶道",
+      "title": "中国杂技",
+      "summary": "吴桥杂技艺人从幼年练功，顶缸走钢丝令人屏息。转碟如蝶飞舞，蹬...",
+      "full_text": "吴桥杂技艺人从幼年练功，顶缸走钢丝令人屏息。转碟如蝶飞舞，蹬伞轻盈似水，中国杂技以惊险与优美著称于世。从汉代百戏到现代舞台，杂技是力与美的极致展现，二〇一七年列入人类非物质文化遗产。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_077.jpg",
       "image_grid": {
         "x": 3,
@@ -1641,9 +1641,9 @@
     },
     {
       "id": "chinese_heritage_078",
-      "title": "中国结",
-      "summary": "手工艺人用红绳编织盘长结与吉祥结，绳结艺术寓意美好",
-      "full_text": "手工艺人用红绳编织盘长结与吉祥结，绳结艺术寓意美好",
+      "title": "中国龙泉青瓷",
+      "summary": "龙泉窑的梅子青与粉青釉色如翠玉，釉层厚润温润如凝脂。匠人将素...",
+      "full_text": "龙泉窑的梅子青与粉青釉色如翠玉，釉层厚润温润如凝脂。匠人将素胎浸入釉浆反复施釉，在还原焰中烧出天青色。龙泉青瓷是宋代五大名窑之外最杰出的青瓷，烧制技艺延续千年至今不衰。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_078.jpg",
       "image_grid": {
         "x": 3,
@@ -1662,9 +1662,9 @@
     },
     {
       "id": "chinese_heritage_079",
-      "title": "中医推拿",
-      "summary": "推拿师按揉患者经络穴位，手法疏通气血调理筋骨",
-      "full_text": "推拿师按揉患者经络穴位，手法疏通气血调理筋骨",
+      "title": "中国侗族大歌",
+      "summary": "侗族村寨的鼓楼中，男女老少分声部合唱大歌，多声部无指挥无伴奏...",
+      "full_text": "侗族村寨的鼓楼中，男女老少分声部合唱大歌，多声部无指挥无伴奏。蝉歌模仿林间蝉鸣，叙事歌传唱民族历史，侗族大歌是中国少数民族最独特的复调音乐，被誉为清泉般闪光的音乐。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_079.jpg",
       "image_grid": {
         "x": 3,
@@ -1683,9 +1683,9 @@
     },
     {
       "id": "chinese_heritage_080",
-      "title": "川剧变脸",
-      "summary": "川剧演员一拂袖间变换脸谱，绝技传承巴蜀戏曲文化",
-      "full_text": "川剧演员一拂袖间变换脸谱，绝技传承巴蜀戏曲文化",
+      "title": "蒙古族长调",
+      "summary": "草原上牧人骑马放歌，长调悠远绵长如地平线延伸。颤音装饰如风吹...",
+      "full_text": "草原上牧人骑马放歌，长调悠远绵长如地平线延伸。颤音装饰如风吹草浪，歌词赞美蓝天骏马与爱情。长调是蒙古族游牧生活的音乐表达，与马头琴相伴，是草原上最动人的声音。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_080.jpg",
       "image_grid": {
         "x": 3,
@@ -1704,9 +1704,9 @@
     },
     {
       "id": "chinese_heritage_081",
-      "title": "中国古琴斫制",
-      "summary": "斫琴师选用桐木与梓木制作琴身，大漆灰胎工艺传承千年",
-      "full_text": "斫琴师选用桐木与梓木制作琴身，大漆灰胎工艺传承千年",
+      "title": "藏戏",
+      "summary": "藏戏演员戴着白色面具在露天广场上表演，唱腔高亢嘹亮响彻山谷。...",
+      "full_text": "藏戏演员戴着白色面具在露天广场上表演，唱腔高亢嘹亮响彻山谷。文成公主与诺桑法王的故事在鼓钹声中展开，藏戏融合了宗教仪式与民间艺术，是雪域高原上传承六百年的戏剧瑰宝。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_081.jpg",
       "image_grid": {
         "x": 3,
@@ -1725,9 +1725,9 @@
     },
     {
       "id": "chinese_heritage_082",
-      "title": "花丝镶嵌",
-      "summary": "宫廷匠人将金银拉丝编织成凤冠，宝石镶嵌工艺精妙绝伦",
-      "full_text": "宫廷匠人将金银拉丝编织成凤冠，宝石镶嵌工艺精妙绝伦",
+      "title": "中国端午节",
+      "summary": "五月初五龙舟竞渡鼓声震天，粽子投入江中纪念屈原。艾草悬门驱邪...",
+      "full_text": "五月初五龙舟竞渡鼓声震天，粽子投入江中纪念屈原。艾草悬门驱邪避瘟，雄黄酒点额保佑平安。端午节承载着中华民族对忠贞气节的崇敬与对健康平安的祈愿，二〇〇九年列入人类非物质文化遗产。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_082.jpg",
       "image_grid": {
         "x": 3,
@@ -1746,9 +1746,9 @@
     },
     {
       "id": "chinese_heritage_083",
-      "title": "景泰蓝",
-      "summary": "工匠在铜胎上填入彩色珐琅釉料烧制，景泰蓝瓶色彩斑斓",
-      "full_text": "工匠在铜胎上填入彩色珐琅釉料烧制，景泰蓝瓶色彩斑斓",
+      "title": "中国活字印刷",
+      "summary": "毕昇发明泥活字印刷术，将胶泥刻字烧硬后排版印书。此后木活字与...",
+      "full_text": "毕昇发明泥活字印刷术，将胶泥刻字烧硬后排版印书。此后木活字与铜活字相继出现，瑞安木活字印刷术至今仍在传承。宗谱匠人用木活字为各姓修谱，活字印刷是信息复制技术的重大突破。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_083.jpg",
       "image_grid": {
         "x": 3,
@@ -1767,9 +1767,9 @@
     },
     {
       "id": "chinese_heritage_084",
-      "title": "宣纸制作",
-      "summary": "泾县工匠以青檀皮与沙田稻草制浆捞纸，宣纸千年不腐墨韵绝佳",
-      "full_text": "泾县工匠以青檀皮与沙田稻草制浆捞纸，宣纸千年不腐墨韵绝佳",
+      "title": "中国桑蚕丝织",
+      "summary": "蜀锦织工在提花机上穿梭投梭，经纬交织出繁复的纹样。南京云锦用...",
+      "full_text": "蜀锦织工在提花机上穿梭投梭，经纬交织出繁复的纹样。南京云锦用金线与孔雀羽织出龙袍，苏州宋锦以经纬显花细腻典雅。三大名锦各领风骚，桑蚕丝织技艺是丝绸之路的物质根基。",
       "image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_084.jpg",
       "image_grid": {
         "x": 3,

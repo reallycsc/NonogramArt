@@ -278,8 +278,8 @@ static func is_pattern_compatible(row_state: Array, pattern: Array) -> bool:
 # @return: 是否可能
 func is_row_possible(row_state: Array, hints: Array) -> bool:
 	var n = row_state.size()
-	if n >= grid_size.x:
-		return true
+	#if n >= grid_size.x:
+		#return true
 	# 处理空提示情况
 	if hints.is_empty():
 		# 如果提示为空，行必须全未填充
@@ -331,8 +331,8 @@ func get_column(y: int) -> Array:
 # @return: 是否可能
 func is_col_possible(col_state: Array, hints: Array) -> bool:
 	var n = col_state.size()
-	if n >= grid_size.y:
-		return true
+	#if n >= grid_size.y:
+		#return true
 	# 处理空提示情况
 	if hints.is_empty():
 		# 如果提示为空，列必须全未填充

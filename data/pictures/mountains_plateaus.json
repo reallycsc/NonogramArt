@@ -3,9 +3,9 @@
   "pictures": [
     {
       "id": "mountains_plateaus_000",
-      "title": "珠穆朗玛峰",
-      "summary": "世界最高峰珠穆朗玛峰在晨曦中闪耀金色光芒",
-      "full_text": "世界最高峰珠穆朗玛峰在晨曦中闪耀金色光芒",
+      "title": "珠穆朗玛峰日出",
+      "summary": "世界最高峰珠穆朗玛峰在晨曦中闪耀着金色光芒，海拔8848米的...",
+      "full_text": "世界最高峰珠穆朗玛峰在晨曦中闪耀着金色光芒，海拔8848米的金字塔形山体矗立在喜马拉雅山脉中段。旗云在峰顶飘扬如经幡，冰川从山脊缓缓流淌而下，登山者们在四号营地仰望这座地球之巅。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "mountains_plateaus_001",
-      "title": "K2乔戈里峰",
-      "summary": "世界第二高峰乔戈里峰矗立在喀喇昆仑山脉深处",
-      "full_text": "世界第二高峰乔戈里峰矗立在喀喇昆仑山脉深处",
+      "title": "乔戈里峰冰壁",
+      "summary": "世界第二高峰乔戈里峰海拔8611米，矗立于喀喇昆仑山脉深处。...",
+      "full_text": "世界第二高峰乔戈里峰海拔8611米，矗立于喀喇昆仑山脉深处。其北壁近乎垂直的冰壁高达3000米，被登山界称为野蛮巨峰，雪崩频繁从山脊倾泻而下，是技术难度最高的八千米级山峰。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "mountains_plateaus_002",
-      "title": "南迦帕尔巴特峰",
-      "summary": "被称为杀人峰的南迦帕尔巴特峰雪壁陡峭险峻",
-      "full_text": "被称为杀人峰的南迦帕尔巴特峰雪壁陡峭险峻",
+      "title": "干城章嘉五峰并立",
+      "summary": "世界第三高峰干城章嘉海拔8586米，横跨尼泊尔与印度边境。五...",
+      "full_text": "世界第三高峰干城章嘉海拔8586米，横跨尼泊尔与印度边境。五座山峰如五指并立，藏语意为五座雪白的宝藏，冰川从峰间倾泻而下，云雾缭绕中神圣而庄严，被视为守护神山。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "mountains_plateaus_003",
-      "title": "安纳普尔纳峰",
-      "summary": "安纳普尔纳峰群在夕阳下呈现壮丽金色山脊",
-      "full_text": "安纳普尔纳峰群在夕阳下呈现壮丽金色山脊",
+      "title": "洛子峰与珠峰并峙",
+      "summary": "洛子峰海拔8516米，与珠峰仅隔三公里并肩而立形成壮观双峰景...",
+      "full_text": "洛子峰海拔8516米，与珠峰仅隔三公里并肩而立形成壮观双峰景观。其西壁高达2400米是世界上最高的岩壁，冰川悬挂如水晶帘幕，登山者沿南坳路线可同时仰望两座巨峰。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "mountains_plateaus_004",
-      "title": "道拉吉里峰",
-      "summary": "道拉吉里峰白色金字塔形山体在蓝天下巍然耸立",
-      "full_text": "道拉吉里峰白色金字塔形山体在蓝天下巍然耸立",
+      "title": "马卡鲁峰黑金字塔",
+      "summary": "马卡鲁峰海拔8485米，黑色金字塔形山体在冰雪中格外醒目。其...",
+      "full_text": "马卡鲁峰海拔8485米，黑色金字塔形山体在冰雪中格外醒目。其四面均为陡峭冰壁，攀登难度极高，峰顶如黑色利刃刺入苍穹，周围冰川纵横交错，是喜马拉雅最壮美的山峰之一。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "mountains_plateaus_005",
-      "title": "干城章嘉峰",
-      "summary": "世界第三高峰干城章嘉峰横跨尼泊尔与印度边境",
-      "full_text": "世界第三高峰干城章嘉峰横跨尼泊尔与印度边境",
+      "title": "道拉吉里峰雪冠",
+      "summary": "道拉吉里峰海拔8167米，白色金字塔形山体在蓝天下巍然耸立。...",
+      "full_text": "道拉吉里峰海拔8167米，白色金字塔形山体在蓝天下巍然耸立。藏语意为白色山峰，其南壁高达4000米是喜马拉雅最大岩壁之一，冰川从山顶倾泻而下如银色瀑布。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "mountains_plateaus_006",
-      "title": "洛子峰",
-      "summary": "洛子峰与珠峰并肩而立形成壮观双峰并峙景观",
-      "full_text": "洛子峰与珠峰并肩而立形成壮观双峰并峙景观",
+      "title": "安纳普尔纳群峰",
+      "summary": "安纳普尔纳峰群由七座高峰组成，主峰海拔8091米。夕阳将雪峰...",
+      "full_text": "安纳普尔纳峰群由七座高峰组成，主峰海拔8091米。夕阳将雪峰染成金红色，鱼尾峰如利剑直刺苍穹，安纳普尔纳大环线穿越亚热带到冰川带，是世界最著名徒步路线之一。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "mountains_plateaus_007",
-      "title": "马卡鲁峰",
-      "summary": "马卡鲁峰黑色金字塔形山体在冰雪中格外醒目",
-      "full_text": "马卡鲁峰黑色金字塔形山体在冰雪中格外醒目",
+      "title": "南迦帕尔巴特",
+      "summary": "南迦帕尔巴特峰海拔8126米，被称为杀手山峰因攀登死亡率极高...",
+      "full_text": "南迦帕尔巴特峰海拔8126米，被称为杀手山峰因攀登死亡率极高。其鲁帕尔岩壁高达4600米是世界上最高的岩壁，迪亚米尔面是经典攀登路线，印度河在山脚下蜿蜒流淌。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "mountains_plateaus_008",
-      "title": "卓奥友峰",
-      "summary": "卓奥友峰宽阔山体横亘在中尼边境线上气势恢宏",
-      "full_text": "卓奥友峰宽阔山体横亘在中尼边境线上气势恢宏",
+      "title": "贡嘎山蜀山之王",
+      "summary": "贡嘎山海拔7556米是蜀山之王，蜀山之巅的冰雪金字塔在阳光下...",
+      "full_text": "贡嘎山海拔7556米是蜀山之王，蜀山之巅的冰雪金字塔在阳光下闪耀。海螺沟冰川从峰顶延伸至海拔2850米的原始森林中，冰瀑布高达1080米如水晶帘幕，温泉与冰川共存。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "mountains_plateaus_009",
-      "title": "希夏邦马峰",
-      "summary": "唯一完全位于中国境内的八千米级高峰雪冠闪耀",
-      "full_text": "唯一完全位于中国境内的八千米级高峰雪冠闪耀",
+      "title": "慕士塔格冰山之父",
+      "summary": "慕士塔格峰海拔7546米被称为冰山之父，浑圆的穹顶如白色巨蛋...",
+      "full_text": "慕士塔格峰海拔7546米被称为冰山之父，浑圆的穹顶如白色巨蛋矗立在帕米尔高原。其西坡平缓适合滑雪登山，喀拉库勒湖倒映雪山如镜，柯尔克孜牧民在山脚放牧。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "mountains_plateaus_010",
-      "title": "喜马拉雅山麓",
-      "summary": "喜马拉雅山麓翠绿梯田与远处雪山形成鲜明对比",
-      "full_text": "喜马拉雅山麓翠绿梯田与远处雪山形成鲜明对比",
+      "title": "梅里雪山日照金",
+      "summary": "梅里雪山主峰卡瓦格博海拔6740米是藏传佛教神山，至今无人登...",
+      "full_text": "梅里雪山主峰卡瓦格博海拔6740米是藏传佛教神山，至今无人登顶。日照金山时雪峰如燃烧的金字塔，明永冰川从峰顶延伸至海拔2600米，朝圣者绕山转经虔诚无比。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "mountains_plateaus_011",
-      "title": "高原牧场",
-      "summary": "牦牛群在喜马拉雅高原牧场上悠闲地低头吃草",
-      "full_text": "牦牛群在喜马拉雅高原牧场上悠闲地低头吃草",
+      "title": "四姑娘山幺妹峰",
+      "summary": "四姑娘山幺妹峰海拔6250米被称为蜀山皇后，陡峭的岩壁如刀劈...",
+      "full_text": "四姑娘山幺妹峰海拔6250米被称为蜀山皇后，陡峭的岩壁如刀劈斧削。双桥沟红杉林在秋季金黄灿烂，长坪沟冰川从峰顶垂挂如银色瀑布，登山者挑战其北壁如朝圣。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "mountains_plateaus_012",
-      "title": "冰川湖泊",
-      "summary": "冰川融水形成碧蓝高山湖泊静静倒映雪山倒影",
-      "full_text": "冰川融水形成碧蓝高山湖泊静静倒映雪山倒影",
+      "title": "阿尔卑斯马特洪",
+      "summary": "马特洪峰海拔4478米是阿尔卑斯山最标志性的山峰，金字塔形山...",
+      "full_text": "马特洪峰海拔4478米是阿尔卑斯山最标志性的山峰，金字塔形山体如利齿刺破天际。齿轨列车从采尔马特驶向戈尔内格拉特观景台，日出时马特洪峰倒映在利菲尔湖中如画。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "mountains_plateaus_013",
-      "title": "雪山日出",
-      "summary": "金色阳光洒在雪峰上形成壮丽日照金山奇观",
-      "full_text": "金色阳光洒在雪峰上形成壮丽日照金山奇观",
+      "title": "勃朗峰欧洲之巅",
+      "summary": "勃朗峰海拔4808米是西欧最高峰，白色雪冠在阳光下如钻石闪耀...",
+      "full_text": "勃朗峰海拔4808米是西欧最高峰，白色雪冠在阳光下如钻石闪耀。勃朗峰隧道连接法国与意大利，霞慕尼小镇是现代登山运动发源地，冰海冰川从峰顶缓缓流淌而下。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "mountains_plateaus_014",
-      "title": "登山者",
-      "summary": "登山者沿南坳路线在暴风雪中向珠峰顶发起冲击",
-      "full_text": "登山者沿南坳路线在暴风雪中向珠峰顶发起冲击",
+      "title": "少女峰铁路",
+      "summary": "少女峰海拔4158米，欧洲之巅火车站位于海拔3454米的山腹...",
+      "full_text": "少女峰海拔4158米，欧洲之巅火车站位于海拔3454米的山腹中。阿莱奇冰川是阿尔卑斯最长冰川长达23公里如银色巨龙，艾格峰北壁是登山界三大北壁之首，令人敬畏。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "mountains_plateaus_015",
-      "title": "藏羚羊栖息地",
-      "summary": "藏羚羊在可可西里无人区高原上自由奔跑迁徙",
-      "full_text": "藏羚羊在可可西里无人区高原上自由奔跑迁徙",
+      "title": "乞力马扎罗雪冠",
+      "summary": "乞力马扎罗山海拔5895米是非洲最高峰，赤道雪山如白色皇冠矗...",
+      "full_text": "乞力马扎罗山海拔5895米是非洲最高峰，赤道雪山如白色皇冠矗立在东非大草原上。海明威笔下雪冠正在消融，从热带雨林到冰川带垂直分布五带，大象在雪山背景下漫步。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "mountains_plateaus_016",
-      "title": "高山杜鹃",
-      "summary": "粉红色高山杜鹃在喜马拉雅雪山脚下灿烂绽放",
-      "full_text": "粉红色高山杜鹃在喜马拉雅雪山脚下灿烂绽放",
+      "title": "麦金利山极地",
+      "summary": "迪纳利山海拔6190米是北美最高峰，阿拉斯加原住民称之为伟大...",
+      "full_text": "迪纳利山海拔6190米是北美最高峰，阿拉斯加原住民称之为伟大的山。其从基座到峰顶高差5500米是世界最大的山体，极地风暴使攀登窗口极短，北极光在山巅舞动如梦。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "mountains_plateaus_017",
-      "title": "雪线景观",
-      "summary": "雪线以上白雪皑皑以下绿草如茵形成鲜明分界",
-      "full_text": "雪线以上白雪皑皑以下绿草如茵形成鲜明分界",
+      "title": "阿空加瓜南美巅",
+      "summary": "阿空加瓜山海拔6961米是南美和西半球最高峰，被称为石头哨兵...",
+      "full_text": "阿空加瓜山海拔6961米是南美和西半球最高峰，被称为石头哨兵。其西壁是世界上最长的非极地冰川之一，印加人在峰顶发现祭祀遗址，门多萨葡萄酒产区在山脚下。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "mountains_plateaus_018",
-      "title": "喜马拉雅云海",
-      "summary": "云海翻涌在喜马拉雅群峰之间蔚为壮观",
-      "full_text": "云海翻涌在喜马拉雅群峰之间蔚为壮观",
+      "title": "厄尔布鲁士双峰",
+      "summary": "厄尔布鲁士山海拔5642米是欧洲最高峰，休眠火山双峰如白色乳...",
+      "full_text": "厄尔布鲁士山海拔5642米是欧洲最高峰，休眠火山双峰如白色乳房矗立在高加索山脉。其冰川面积达135平方公里是高加索最大，缆车直达海拔3750米，登山者从世界各地前来。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "mountains_plateaus_019",
-      "title": "珠峰北坡",
-      "summary": "珠峰北坡陡峭岩壁在晴空下展现原始粗犷力量",
-      "full_text": "珠峰北坡陡峭岩壁在晴空下展现原始粗犷力量",
+      "title": "查亚峰大洋洲巅",
+      "summary": "查亚峰海拔4884米是大洋洲最高峰，矗立在印尼巴布亚岛的雪山...",
+      "full_text": "查亚峰海拔4884米是大洋洲最高峰，矗立在印尼巴布亚岛的雪山山脉中。其卡尔斯滕兹冰川是赤道附近罕见的冰川，热带雨林与冰雪峰顶形成极端对比，采矿道路通往大本营。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "mountains_plateaus_020",
-      "title": "阿空加瓜山",
-      "summary": "南美最高峰阿空加瓜山巍然矗立于阿根廷境内",
-      "full_text": "南美最高峰阿空加瓜山巍然矗立于阿根廷境内",
+      "title": "文森峰南极之巅",
+      "summary": "文森峰海拔4892米是南极大陆最高峰，在零下四十度的极寒中如...",
+      "full_text": "文森峰海拔4892米是南极大陆最高峰，在零下四十度的极寒中如冰晶雕塑。埃尔斯沃思山脉如白色屏障延伸，登山者需乘特种飞机抵达，极昼时阳光不落如永恒黄昏。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "mountains_plateaus_021",
-      "title": "奥霍斯德尔萨拉多",
-      "summary": "世界最高火山奥霍斯德尔萨拉多山顶终年积雪",
-      "full_text": "世界最高火山奥霍斯德尔萨拉多山顶终年积雪",
+      "title": "富士山樱花",
+      "summary": "富士山海拔3776米是日本最高峰和民族象征，完美圆锥形山体在...",
+      "full_text": "富士山海拔3776米是日本最高峰和民族象征，完美圆锥形山体在樱花映衬下如浮世绘。河口湖倒映富士如镜，吉田口登山道每年七月开放，云海在山腰如白色海洋波涛翻涌。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "mountains_plateaus_022",
-      "title": "科托帕希火山",
-      "summary": "科托帕希完美圆锥形火山口白雪覆盖蔚为壮观",
-      "full_text": "科托帕希完美圆锥形火山口白雪覆盖蔚为壮观",
+      "title": "黄山奇松云海",
+      "summary": "黄山以奇松怪石云海温泉四绝闻名天下，迎客松在悬崖上伸展千年如...",
+      "full_text": "黄山以奇松怪石云海温泉四绝闻名天下，迎客松在悬崖上伸展千年如臂。光明顶观云海如白色海洋波涛翻涌，飞来石如天外飞仙矗立峰顶，日出时金光万道穿透云海。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "mountains_plateaus_023",
-      "title": "钦博拉索峰",
-      "summary": "钦博拉索峰是地球表面距地心最远之处终年冰封",
-      "full_text": "钦博拉索峰是地球表面距地心最远之处终年冰封",
+      "title": "张家界石英砂岩",
+      "summary": "张家界三千座石英砂岩峰柱如天然盆景矗立云雾中，是电影阿凡达悬...",
+      "full_text": "张家界三千座石英砂岩峰柱如天然盆景矗立云雾中，是电影阿凡达悬浮山原型。天门山玻璃栈道悬挂在千米悬崖上，百龙天梯在峰林中垂直升降326米如科幻电梯。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "mountains_plateaus_024",
-      "title": "瓦斯卡兰峰",
-      "summary": "秘鲁最高峰瓦斯卡兰峰在热带阳光下闪耀银光",
-      "full_text": "秘鲁最高峰瓦斯卡兰峰在热带阳光下闪耀银光",
+      "title": "泰山日出",
+      "summary": "泰山海拔1545米是五岳之首，历代帝王封禅之地。日观峰上看日...",
+      "full_text": "泰山海拔1545米是五岳之首，历代帝王封禅之地。日观峰上看日出如东海涌金，南天门在云雾中如天宫入口，十八盘石阶如天梯直上云霄，孔子登泰山而小天下。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "mountains_plateaus_025",
-      "title": "马丘比丘",
-      "summary": "印加古城马丘比丘遗址坐落在安第斯山云雾之间",
-      "full_text": "印加古城马丘比丘遗址坐落在安第斯山云雾之间",
+      "title": "华山险峰",
+      "summary": "华山海拔2154米以险著称，长空栈道悬挂在千米绝壁上仅容一人...",
+      "full_text": "华山海拔2154米以险著称，长空栈道悬挂在千米绝壁上仅容一人侧身。鹞子翻身需攀铁索倒挂而下如壁虎游墙，苍龙岭如刀脊两侧万丈深渊，自古华山一条路名不虚传。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "mountains_plateaus_026",
-      "title": "的的喀喀湖",
-      "summary": "世界最高可通航湖泊的的喀喀湖碧波荡漾映雪山",
-      "full_text": "世界最高可通航湖泊的的喀喀湖碧波荡漾映雪山",
+      "title": "峨眉山佛光",
+      "summary": "峨眉山海拔3099米是普贤菩萨道场，金顶佛光是天下奇观。云海...",
+      "full_text": "峨眉山海拔3099米是普贤菩萨道场，金顶佛光是天下奇观。云海在舍身崖前如白色海洋，阳光将人影投射在云雾上形成七彩光环如佛显灵，万佛顶在云海中如仙岛。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "mountains_plateaus_027",
-      "title": "安第斯神鹫",
-      "summary": "翼展达三米的安第斯神鹫在山谷间优雅翱翔盘旋",
-      "full_text": "翼展达三米的安第斯神鹫在山谷间优雅翱翔盘旋",
+      "title": "武夷山丹霞",
+      "summary": "武夷山丹霞地貌赤壁丹崖如火烧，九曲溪竹筏漂流穿行于峰林之间。...",
+      "full_text": "武夷山丹霞地貌赤壁丹崖如火烧，九曲溪竹筏漂流穿行于峰林之间。玉女峰如少女亭亭玉立，天游峰俯瞰九曲溪如玉带蜿蜒，大红袍母树在岩壁上生长千年，茶香飘溢。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "mountains_plateaus_028",
-      "title": "羊驼",
-      "summary": "毛茸茸的羊驼在安第斯高原草地上成群悠闲觅食",
-      "full_text": "毛茸茸的羊驼在安第斯高原草地上成群悠闲觅食",
+      "title": "长白山天池",
+      "summary": "长白山天池海拔2189米是中国最深火山口湖，十六峰环抱如盆。...",
+      "full_text": "长白山天池海拔2189米是中国最深火山口湖，十六峰环抱如盆。湖水如蓝宝石镶嵌火山口，传说水怪在湖中出没，瀑布从天池缺口倾泻而下如白练，地下森林在火山口中如秘境。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "mountains_plateaus_029",
-      "title": "印加古道",
-      "summary": "古老石阶蜿蜒穿过安第斯山脉的云雾森林深处",
-      "full_text": "古老石阶蜿蜒穿过安第斯山脉的云雾森林深处",
+      "title": "昆仑山万山之祖",
+      "summary": "昆仑山脉绵延2500公里被称为万山之祖，西王母传说在此诞生。...",
+      "full_text": "昆仑山脉绵延2500公里被称为万山之祖，西王母传说在此诞生。玉珠峰海拔6178米是入门级雪山，玉虚峰冰川如银色河流，昆仑山口海拔4767米如天门，青藏公路穿越其间。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "mountains_plateaus_030",
-      "title": "安第斯高原",
-      "summary": "安第斯高原上印第安人传统村落星罗棋布其间",
-      "full_text": "安第斯高原上印第安人传统村落星罗棋布其间",
+      "title": "天山雪莲",
+      "summary": "天山山脉横贯新疆2500公里将疆域分为南疆北疆，博格达峰海拔...",
+      "full_text": "天山山脉横贯新疆2500公里将疆域分为南疆北疆，博格达峰海拔5445米如银色金字塔。雪莲在海拔4000米岩缝中顽强绽放如冰雪精灵，天池如蓝宝石镶嵌峰下，马鹿在云杉林中出没。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "mountains_plateaus_031",
-      "title": "火山带",
-      "summary": "安第斯山脉火山带地热温泉蒸汽升腾烟雾缭绕",
-      "full_text": "安第斯山脉火山带地热温泉蒸汽升腾烟雾缭绕",
+      "title": "秦岭分界线",
+      "summary": "秦岭是中国南北地理分界线，太白山海拔3767米是秦岭主峰。大...",
+      "full_text": "秦岭是中国南北地理分界线，太白山海拔3767米是秦岭主峰。大熊猫在佛坪保护区竹林中悠然生活，朱鹮在洋县湿地翩翩起舞，金丝猴在树冠间跳跃，秦岭是生物多样性宝库。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "mountains_plateaus_032",
-      "title": "安第斯云雾林",
-      "summary": "云雾缭绕的安第斯山坡上苔藓覆盖古树如仙境",
-      "full_text": "云雾缭绕的安第斯山坡上苔藓覆盖古树如仙境",
+      "title": "喜马拉雅南翼",
+      "summary": "喜马拉雅山脉南翼从海拔8000米降至500米垂直分布五带，是...",
+      "full_text": "喜马拉雅山脉南翼从海拔8000米降至500米垂直分布五带，是世界最壮观的生态梯度。从永恒雪线到热带雨林，杜鹃花在海拔三千米处如花海，独角犀在山麓草原漫步。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "mountains_plateaus_033",
-      "title": "盐田",
-      "summary": "印加时代梯田式盐田在山坡上呈现斑斓色彩层次",
-      "full_text": "印加时代梯田式盐田在山坡上呈现斑斓色彩层次",
+      "title": "安第斯山神鹫",
+      "summary": "安第斯山脉绵延7000公里是世界最长山脉，神鹫翼展三米在山巅...",
+      "full_text": "安第斯山脉绵延7000公里是世界最长山脉，神鹫翼展三米在山巅翱翔。马丘比丘在安第斯云雾中如天空之城，的的喀喀湖在高原上如蓝宝石，羊驼在山坡上悠然吃草。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "mountains_plateaus_034",
-      "title": "高原城市",
-      "summary": "拉巴斯作为世界最高首都依山而建层次分明壮观",
-      "full_text": "拉巴斯作为世界最高首都依山而建层次分明壮观",
+      "title": "落基山冰川",
+      "summary": "落基山脉从阿拉斯加延伸至新墨西哥，哥伦比亚冰原是北美最大冰原...",
+      "full_text": "落基山脉从阿拉斯加延伸至新墨西哥，哥伦比亚冰原是北美最大冰原。冰原大道穿越班夫国家公园如画廊，翡翠湖如绿宝石镶嵌山谷，灰熊在河谷中捕食鲑鱼，麋鹿在草甸上漫步。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "mountains_plateaus_035",
-      "title": "冰川峡谷",
-      "summary": "冰川雕刻的深峡谷中湍急河流奔涌而下轰鸣震耳",
-      "full_text": "冰川雕刻的深峡谷中湍急河流奔涌而下轰鸣震耳",
+      "title": "阿尔泰山金矿",
+      "summary": "阿尔泰山脉横跨中俄蒙哈四国，蒙语意为金山因盛产黄金。喀纳斯湖...",
+      "full_text": "阿尔泰山脉横跨中俄蒙哈四国，蒙语意为金山因盛产黄金。喀纳斯湖在秋季如蓝宝石镶嵌金色白桦林，图瓦人在湖畔木屋中生活，雪豹在高山岩壁间潜行如幽灵。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "mountains_plateaus_036",
-      "title": "安第斯日落",
-      "summary": "夕阳将安第斯山脉连绵雪峰染成金红色壮丽无比",
-      "full_text": "夕阳将安第斯山脉连绵雪峰染成金红色壮丽无比",
+      "title": "横断山脉峡谷",
+      "summary": "横断山脉是世界上最年轻的山脉之一，三江并流奇观举世无双。怒江...",
+      "full_text": "横断山脉是世界上最年轻的山脉之一，三江并流奇观举世无双。怒江澜沧江金沙江平行奔流170公里最近处仅隔19公里，虎跳峡江水在巨石间咆哮如雷，垂直高差超3900米。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "mountains_plateaus_037",
-      "title": "山脉纵贯线",
-      "summary": "安第斯山脉纵贯南美七千公里气势磅礴绵延不绝",
-      "full_text": "安第斯山脉纵贯南美七千公里气势磅礴绵延不绝",
+      "title": "大分水岭雨林",
+      "summary": "澳大利亚大分水岭纵贯东部海岸，热带雨林与桉树林交错分布。考拉...",
+      "full_text": "澳大利亚大分水岭纵贯东部海岸，热带雨林与桉树林交错分布。考拉在桉树上昏昏欲睡，琴鸟模仿各种声音如录音机，蓝山三姐妹峰在晨雾中如仙境，鸭嘴兽在溪流中潜游。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "mountains_plateaus_038",
-      "title": "巴塔哥尼亚",
-      "summary": "巴塔哥尼亚荒野中花岗岩尖峰直刺苍穹震撼人心",
-      "full_text": "巴塔哥尼亚荒野中花岗岩尖峰直刺苍穹震撼人心",
+      "title": "斯堪的纳维亚峡",
+      "summary": "斯堪的纳维亚山脉纵贯挪威瑞典，冰川刻蚀出世界最壮观的峡湾。松...",
+      "full_text": "斯堪的纳维亚山脉纵贯挪威瑞典，冰川刻蚀出世界最壮观的峡湾。松恩峡湾深达1308米是世界最深峡湾，布道石悬崖悬空604米如天然观景台，北极光在冬夜如绿色丝带舞动。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "mountains_plateaus_039",
-      "title": "火地岛",
-      "summary": "南美最南端火地岛海岸狂风呼啸浪涛拍打礁石",
-      "full_text": "南美最南端火地岛海岸狂风呼啸浪涛拍打礁石",
+      "title": "比利牛斯雪峰",
+      "summary": "比利牛斯山脉横亘法西边境如天然长城，阿内托峰海拔3404米是...",
+      "full_text": "比利牛斯山脉横亘法西边境如天然长城，阿内托峰海拔3404米是最高峰。高山土拨鼠在草甸上鸣叫，胡兀鹫在悬崖上筑巢，朝圣之路穿越山口通往圣地亚哥，冰川退缩留下冰斗湖。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "mountains_plateaus_040",
-      "title": "阿尔卑斯山",
-      "summary": "阿尔卑斯山马特洪峰尖锥形山体倒映在碧蓝湖中",
-      "full_text": "阿尔卑斯山马特洪峰尖锥形山体倒映在碧蓝湖中",
+      "title": "喀喇昆仑冰川",
+      "summary": "喀喇昆仑山脉拥有极地外最长冰川，巴尔托洛冰川长达66公里如银...",
+      "full_text": "喀喇昆仑山脉拥有极地外最长冰川，巴尔托洛冰川长达66公里如银色巨龙。康切冰川与巴尔托洛冰川交汇如冰河握手，四座八千米级山峰环绕，冰塔林高达30米如水晶森林。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "mountains_plateaus_041",
-      "title": "落基山脉",
-      "summary": "落基山脉群峰连绵松林覆盖倒映在山间湖泊中",
-      "full_text": "落基山脉群峰连绵松林覆盖倒映在山间湖泊中",
+      "title": "念青唐古拉",
+      "summary": "念青唐古拉山脉是青藏高原重要山脉，主峰海拔7162米如银色巨...",
+      "full_text": "念青唐古拉山脉是青藏高原重要山脉，主峰海拔7162米如银色巨塔矗立。纳木错在山脚下如蓝宝石闪耀，藏民在转山路上虔诚磕长头，雪莲在岩缝中绽放如冰中花，高原雄鹰翱翔。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "mountains_plateaus_042",
-      "title": "青藏高原",
-      "summary": "世界屋脊青藏高原平均海拔超过四千米辽阔壮美",
-      "full_text": "世界屋脊青藏高原平均海拔超过四千米辽阔壮美",
+      "title": "唐古拉山口",
+      "summary": "唐古拉山口海拔5231米是青藏公路最高点，经幡在风中猎猎作响...",
+      "full_text": "唐古拉山口海拔5231米是青藏公路最高点，经幡在风中猎猎作响。青藏铁路在此穿越世界海拔最高的冻土隧道，藏羚羊在山间草原上奔跑如风，远眺各拉丹冬雪山如银色皇冠。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "mountains_plateaus_043",
-      "title": "巴西高原",
-      "summary": "巴西高原上热带草原与平顶孤峰交错分布独特",
-      "full_text": "巴西高原上热带草原与平顶孤峰交错分布独特",
+      "title": "祁连山草原",
+      "summary": "祁连山脉绵延800公里如走廊北壁，山顶冰川如银冠。山丹军马场...",
+      "full_text": "祁连山脉绵延800公里如走廊北壁，山顶冰川如银冠。山丹军马场是世界最大马场，油菜花在山脚如金色海洋，祁连山下牧歌悠扬，黑河从山中流出灌溉河西走廊如生命之泉。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "mountains_plateaus_044",
-      "title": "乌拉尔山",
-      "summary": "乌拉尔山脉作为欧亚分界线蜿蜒于密林深处",
-      "full_text": "乌拉尔山脉作为欧亚分界线蜿蜒于密林深处",
+      "title": "大兴安岭林海",
+      "summary": "大兴安岭是中国最大原始林区，兴安落叶松在秋季金黄如海。驯鹿在...",
+      "full_text": "大兴安岭是中国最大原始林区，兴安落叶松在秋季金黄如海。驯鹿在鄂温克族牧民引导下穿越白桦林，猞猁在密林中潜行如幽灵，漠河是中国最北端可见北极光，冬季银装素裹。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "mountains_plateaus_045",
-      "title": "大分水岭",
-      "summary": "澳大利亚大分水岭东侧热带雨林郁郁葱葱繁茂",
-      "full_text": "澳大利亚大分水岭东侧热带雨林郁郁葱葱繁茂",
+      "title": "太行山挂壁",
+      "summary": "太行山脉纵贯华北如天然屏障，挂壁公路在绝壁上开凿如天路。郭亮...",
+      "full_text": "太行山脉纵贯华北如天然屏障，挂壁公路在绝壁上开凿如天路。郭亮村挂壁公路全长1250米由村民手工凿成，红旗渠在太行腰间蜿蜒如天河，太行大峡谷深达千米如地缝。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "mountains_plateaus_046",
-      "title": "乞力马扎罗山",
-      "summary": "赤道雪山乞力马扎罗山顶冰川在热带草原上闪耀",
-      "full_text": "赤道雪山乞力马扎罗山顶冰川在热带草原上闪耀",
+      "title": "武陵源峰林",
+      "summary": "武陵源三千座砂岩峰柱如天然盆景矗立云雾中，被联合国列为世界遗...",
+      "full_text": "武陵源三千座砂岩峰柱如天然盆景矗立云雾中，被联合国列为世界遗产。金鞭溪在峰林间蜿蜒如玉带，天子山云雾缭绕如仙境，百龙天梯在峰林中垂直升降如科幻电梯。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "mountains_plateaus_047",
-      "title": "富士山",
-      "summary": "富士山完美圆锥形轮廓在樱花映衬下格外优美",
-      "full_text": "富士山完美圆锥形轮廓在樱花映衬下格外优美",
+      "title": "丹霞山赤壁",
+      "summary": "丹霞山是世界丹霞地貌命名地，赤壁丹崖如火烧如霞染。阳元石如擎...",
+      "full_text": "丹霞山是世界丹霞地貌命名地，赤壁丹崖如火烧如霞染。阳元石如擎天柱矗立如天地造化，锦江在丹崖间蜿蜒如玉带，长老峰观日出如海上旭日东升，红色砂岩如火焰凝固。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "mountains_plateaus_048",
-      "title": "长白山",
-      "summary": "长白山天池碧蓝湖水镶嵌在火山口峭壁之中",
-      "full_text": "长白山天池碧蓝湖水镶嵌在火山口峭壁之中",
+      "title": "冈底斯山神山",
+      "summary": "冈底斯山脉主峰冈仁波齐海拔6656米，被藏传佛教印度教苯教同...",
+      "full_text": "冈底斯山脉主峰冈仁波齐海拔6656米，被藏传佛教印度教苯教同时尊为神山。十字形冰槽在峰顶如卍字印记，转山路线长52公里信徒磕长头需数日，玛旁雍错在山脚如碧玉。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "mountains_plateaus_049",
-      "title": "昆仑山",
-      "summary": "昆仑山脉被称为万山之祖横贯新疆西藏大地",
-      "full_text": "昆仑山脉被称为万山之祖横贯新疆西藏大地",
+      "title": "巴颜喀拉黄河",
+      "summary": "巴颜喀拉山脉是黄河发源地，约古宗列盆地如珍珠散布的湖泊群是黄...",
+      "full_text": "巴颜喀拉山脉是黄河发源地，约古宗列盆地如珍珠散布的湖泊群是黄河源头。高原草甸上藏野驴奔跑如风，黑颈鹤在湿地中翩翩起舞，三江源纪念碑矗立如守护者，黄河如婴儿在此诞生。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "mountains_plateaus_050",
-      "title": "天山",
-      "summary": "天山山脉雪峰连绵山间云杉林苍翠欲滴如画",
-      "full_text": "天山山脉雪峰连绵山间云杉林苍翠欲滴如画",
+      "title": "大雪山贡嘎",
+      "summary": "大雪山脉是横断山脉最高段，贡嘎山海拔7556米是蜀山之王。海...",
+      "full_text": "大雪山脉是横断山脉最高段，贡嘎山海拔7556米是蜀山之王。海螺沟冰川从峰顶延伸至原始森林中，冰瀑布高达1080米如水晶帘幕，温泉与冰川共存如冰火两重天，云海翻涌。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "mountains_plateaus_051",
-      "title": "横断山脉",
-      "summary": "横断山脉三江并流区峡谷深邃河流湍急奔涌",
-      "full_text": "横断山脉三江并流区峡谷深邃河流湍急奔涌",
+      "title": "雪峰山梯田",
+      "summary": "雪峰山脉是湖南西部天然屏障，紫鹊界梯田从山脚盘旋至山顶如大地...",
+      "full_text": "雪峰山脉是湖南西部天然屏障，紫鹊界梯田从山脚盘旋至山顶如大地指纹。两千年前苗族先民开垦梯田如雕刻，自流灌溉系统无需水库如奇迹，云雾在梯田间如白纱飘荡。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "mountains_plateaus_052",
-      "title": "秦岭",
-      "summary": "秦岭作为中国南北地理分界线南北植被差异显著",
-      "full_text": "秦岭作为中国南北地理分界线南北植被差异显著",
+      "title": "南岭五岭",
+      "summary": "南岭山脉是华南最大山脉，五岭逶迤如巨龙横亘粤桂湘赣。丹霞山赤...",
+      "full_text": "南岭山脉是华南最大山脉，五岭逶迤如巨龙横亘粤桂湘赣。丹霞山赤壁在五岭中如火焰，猫儿山海拔2141米是华南之巅，红豆杉在原始林中如活化石，梅岭古道穿越五岭如诗。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "mountains_plateaus_053",
-      "title": "太行山",
-      "summary": "太行山大峡谷红岩壁立千仞气势雄伟壮观震撼",
-      "full_text": "太行山大峡谷红岩壁立千仞气势雄伟壮观震撼",
+      "title": "贺兰山岩画",
+      "summary": "贺兰山脉纵贯宁夏如天然屏障阻挡风沙，岩画记录远古游牧民族狩猎...",
+      "full_text": "贺兰山脉纵贯宁夏如天然屏障阻挡风沙，岩画记录远古游牧民族狩猎场景。太阳神岩画如远古图腾，西夏王陵在山麓如金字塔，岩羊在悬崖上如飞檐走壁，葡萄园在山脚延伸。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "mountains_plateaus_054",
-      "title": "武夷山",
-      "summary": "武夷山丹霞地貌与翠绿茶田构成如诗如画风景",
-      "full_text": "武夷山丹霞地貌与翠绿茶田构成如诗如画风景",
+      "title": "阴山岩刻",
+      "summary": "阴山山脉横亘内蒙古如天然屏障，岩刻记录新石器时代狩猎场景。阴...",
+      "full_text": "阴山山脉横亘内蒙古如天然屏障，岩刻记录新石器时代狩猎场景。阴山岩刻中北山羊形象栩栩如生如远古画卷，赵长城在山麓蜿蜒如龙，河套平原在阴山南麓如塞外江南。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "mountains_plateaus_055",
-      "title": "德干高原",
-      "summary": "德干高原上亿万年火山岩风化形成广阔台地地貌",
-      "full_text": "德干高原上亿万年火山岩风化形成广阔台地地貌",
+      "title": "六盘山红军",
+      "summary": "六盘山海拔2928米是黄土高原最高峰，毛泽东在此写下不到长城...",
+      "full_text": "六盘山海拔2928米是黄土高原最高峰，毛泽东在此写下不到长城非好汉。六盘山是红军长征翻越的最后一座大山，泾河发源于此如渭河之母，落叶松在秋季金黄如画，云雾缭绕。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "mountains_plateaus_056",
-      "title": "东非高原",
-      "summary": "东非高原上大裂谷湖泊星罗棋布野生动物出没",
-      "full_text": "东非高原上大裂谷湖泊星罗棋布野生动物出没",
+      "title": "武当山道教",
+      "summary": "武当山海拔1612米是道教圣地，金殿在峰顶铜铸鎏金如天宫。紫...",
+      "full_text": "武当山海拔1612米是道教圣地，金殿在峰顶铜铸鎏金如天宫。紫霄宫在云雾中如仙境，太极拳在武当传承千年如行云流水，南岩宫悬空绝壁如凌空飞阁，香客如云虔诚朝拜。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "mountains_plateaus_057",
-      "title": "墨西哥高原",
-      "summary": "墨西哥高原上仙人掌荒漠延伸至天际辽阔苍凉",
-      "full_text": "墨西哥高原上仙人掌荒漠延伸至天际辽阔苍凉",
+      "title": "五台山佛光",
+      "summary": "五台山海拔3061米是文殊菩萨道场，五座台顶如五朵莲花绽放。...",
+      "full_text": "五台山海拔3061米是文殊菩萨道场，五座台顶如五朵莲花绽放。佛光寺东大殿是唐代木构建筑如国宝，白塔在台怀镇如白色巨针矗立，五爷庙香火最旺如人间佛国，晨钟暮鼓。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "mountains_plateaus_058",
-      "title": "帕米尔高原",
-      "summary": "帕米尔高原被称为世界屋脊群山汇聚冰雪覆盖",
-      "full_text": "帕米尔高原被称为世界屋脊群山汇聚冰雪覆盖",
+      "title": "青城山幽境",
+      "summary": "青城山海拔1260米是道教名山，以幽著称天下。上清宫在云雾中...",
+      "full_text": "青城山海拔1260米是道教名山，以幽著称天下。上清宫在云雾中如仙境，天师洞在悬崖上如天外飞来，古木参天遮蔽烈日如绿色华盖，山泉在石间潺潺如琴，道法自然在此体现。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "mountains_plateaus_059",
-      "title": "内华达山脉",
-      "summary": "内华达山脉约塞米蒂花岗岩巨壁巍然耸立云霄",
-      "full_text": "内华达山脉约塞米蒂花岗岩巨壁巍然耸立云霄",
+      "title": "庐山瀑布",
+      "summary": "庐山海拔1474米以瀑布云雾闻名，李白笔下飞流直下三千尺即此...",
+      "full_text": "庐山海拔1474米以瀑布云雾闻名，李白笔下飞流直下三千尺即此。含鄱口观云海如白色海洋，五老峰如五位老人并肩而坐，美庐别墅在牯岭镇如历史见证，不识庐山真面目只缘身在此山中。",
       "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_059.jpg",
       "image_grid": {
         "x": 3,

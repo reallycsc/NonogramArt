@@ -4,8 +4,8 @@
     {
       "id": "archaeology_000",
       "title": "考古学诞生",
-      "summary": "温克尔曼在罗马研究古希腊雕塑，开创以科学方法研究古代艺术",
-      "full_text": "温克尔曼在罗马研究古希腊雕塑，开创以科学方法研究古代艺术",
+      "summary": "十九世纪中叶，考古学从古物学中脱胎而出。谢里曼在特洛伊遗址的...",
+      "full_text": "十九世纪中叶，考古学从古物学中脱胎而出。谢里曼在特洛伊遗址的发掘证实了荷马史诗的真实性，皮特里在埃及创立了地层学方法，科学的考古学由此诞生，人类开始用严谨的方法解读大地之书。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_000.jpg",
       "image_grid": {
         "x": 3,
@@ -24,9 +24,9 @@
     },
     {
       "id": "archaeology_001",
-      "title": "谢里曼发掘特洛伊",
-      "summary": "谢里曼在希萨里克山丘挖出层层城墙遗址，证实特洛伊真实存在",
-      "full_text": "谢里曼在希萨里克山丘挖出层层城墙遗址，证实特洛伊真实存在",
+      "title": "殷墟发掘",
+      "summary": "一九二八年中央研究院历史语言研究所开始发掘安阳殷墟，这是中国...",
+      "full_text": "一九二八年中央研究院历史语言研究所开始发掘安阳殷墟，这是中国首次科学考古发掘。董作宾、李济等学者在洹水南岸出土了大量甲骨文和青铜器，商代文明从传说变为信史。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_001.jpg",
       "image_grid": {
         "x": 3,
@@ -45,9 +45,9 @@
     },
     {
       "id": "archaeology_002",
-      "title": "埃及学创立",
-      "summary": "商博良破译罗塞塔石碑上象形文字，古埃及文明之门由此打开",
-      "full_text": "商博良破译罗塞塔石碑上象形文字，古埃及文明之门由此打开",
+      "title": "秦始皇陵探查",
+      "summary": "一九七四年临潼农民打井时发现兵马俑，震惊世界。铜车马、石铠甲...",
+      "full_text": "一九七四年临潼农民打井时发现兵马俑，震惊世界。铜车马、石铠甲、水禽坑相继出土，地宫中水银模拟江河大海的传说尚未证实。秦始皇帝陵院的考古工作仍在持续，更多秘密等待揭开。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_002.jpg",
       "image_grid": {
         "x": 3,
@@ -66,9 +66,9 @@
     },
     {
       "id": "archaeology_003",
-      "title": "田野考古发端",
-      "summary": "皮特里弗斯在英格兰庄园中系统发掘遗址，建立地层学基本方法",
-      "full_text": "皮特里弗斯在英格兰庄园中系统发掘遗址，建立地层学基本方法",
+      "title": "三星堆发掘",
+      "summary": "四川广汉三星堆出土的青铜纵目面具和金杖颠覆了人们对古蜀文明的...",
+      "full_text": "四川广汉三星堆出土的青铜纵目面具和金杖颠覆了人们对古蜀文明的认知。高达三米的青铜神树、奇异的青铜人头像，这些前所未见的文物表明古蜀文明有着独立于中原的独特文化体系。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_003.jpg",
       "image_grid": {
         "x": 3,
@@ -87,9 +87,9 @@
     },
     {
       "id": "archaeology_004",
-      "title": "罗塞塔石碑",
-      "summary": "法军士兵在尼罗河三角洲挖出刻有三种文字的黑色石碑",
-      "full_text": "法军士兵在尼罗河三角洲挖出刻有三种文字的黑色石碑",
+      "title": "马王堆汉墓",
+      "summary": "长沙马王堆汉墓出土了两千一百年前保存完好的女尸辛追夫人，皮肤...",
+      "full_text": "长沙马王堆汉墓出土了两千一百年前保存完好的女尸辛追夫人，皮肤仍有弹性。素纱禅衣仅重四十九克，帛画T形旌幡色彩鲜艳，竹简医书内容丰富，这是二十世纪最惊人的考古发现之一。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_004.jpg",
       "image_grid": {
         "x": 3,
@@ -108,9 +108,9 @@
     },
     {
       "id": "archaeology_005",
-      "title": "考古类型学",
-      "summary": "蒙特柳斯建立器物类型学序列，通过形态演变排列器物年代",
-      "full_text": "蒙特柳斯建立器物类型学序列，通过形态演变排列器物年代",
+      "title": "曾侯乙墓",
+      "summary": "湖北随州曾侯乙墓出土的编钟共六十五件，总重二千五百公斤，音域...",
+      "full_text": "湖北随州曾侯乙墓出土的编钟共六十五件，总重二千五百公斤，音域跨五个半八度。青铜尊盘采用失蜡法铸造，工艺精湛绝伦。这座战国早期墓葬揭示了曾国的辉煌文明和先秦礼乐制度。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_005.jpg",
       "image_grid": {
         "x": 3,
@@ -129,9 +129,9 @@
     },
     {
       "id": "archaeology_006",
-      "title": "考古地层学",
-      "summary": "发掘者按土层颜色与质地区分文化层，深层早于浅层奠定断代基础",
-      "full_text": "发掘者按土层颜色与质地区分文化层，深层早于浅层奠定断代基础",
+      "title": "良渚古城发掘",
+      "summary": "浙江良渚古城遗址的发掘证实了五千年中华文明的存在。水利系统规...",
+      "full_text": "浙江良渚古城遗址的发掘证实了五千年中华文明的存在。水利系统规模宏大，玉琮玉璧制作精美，莫角山宫殿基址面积达三十万平方米。二〇一九年良渚列入世界遗产名录，中华五千年文明有了实证。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_006.jpg",
       "image_grid": {
         "x": 3,
@@ -150,9 +150,9 @@
     },
     {
       "id": "archaeology_007",
-      "title": "早期古物收藏",
-      "summary": "文艺复兴贵族在书房中陈列古罗马雕塑与钱币，古物收藏风气兴起",
-      "full_text": "文艺复兴贵族在书房中陈列古罗马雕塑与钱币，古物收藏风气兴起",
+      "title": "二里头遗址",
+      "summary": "河南偃师二里头遗址被认为是夏朝晚期都城。宫殿基址的发现表明这...",
+      "full_text": "河南偃师二里头遗址被认为是夏朝晚期都城。宫殿基址的发现表明这里已有成熟的国家形态，绿松石龙形器精美绝伦，铜牌饰上的兽面纹可能是商周饕餮纹的源头。夏文化的探索仍在继续。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_007.jpg",
       "image_grid": {
         "x": 3,
@@ -171,9 +171,9 @@
     },
     {
       "id": "archaeology_008",
-      "title": "大英博物馆建立",
-      "summary": "斯隆遗赠藏品向公众开放，博物馆从私人收藏走向公共机构",
-      "full_text": "斯隆遗赠藏品向公众开放，博物馆从私人收藏走向公共机构",
+      "title": "海昏侯墓",
+      "summary": "江西南昌海昏侯刘贺墓出土文物一万余件，黄金器物数量惊人。马蹄...",
+      "full_text": "江西南昌海昏侯刘贺墓出土文物一万余件，黄金器物数量惊人。马蹄金、麟趾金金光闪耀，竹简论语和齐论语的发现填补了文献空白，蒸馏器的出土将中国蒸馏技术的历史大幅提前。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_008.jpg",
       "image_grid": {
         "x": 3,
@@ -192,9 +192,9 @@
     },
     {
       "id": "archaeology_009",
-      "title": "庞贝发掘始末",
-      "summary": "西班牙工程师在维苏威火山下发现庞贝古城，壁画与遗骸重见天日",
-      "full_text": "西班牙工程师在维苏威火山下发现庞贝古城，壁画与遗骸重见天日",
+      "title": "石峁遗址",
+      "summary": "陕西石峁古城距今四千余年，城墙用石块砌筑，面积达四百万平方米...",
+      "full_text": "陕西石峁古城距今四千余年，城墙用石块砌筑，面积达四百万平方米。城墙上镶嵌着精美的石雕人面像，玉器被插入墙体作为宗教仪式。这座超大型史前城址改写了对早期国家形成的认知。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_009.jpg",
       "image_grid": {
         "x": 3,
@@ -213,9 +213,9 @@
     },
     {
       "id": "archaeology_010",
-      "title": "考古与民族主义",
-      "summary": "十九世纪各国以考古发现建构民族历史，遗址成为国家认同象征",
-      "full_text": "十九世纪各国以考古发现建构民族历史，遗址成为国家认同象征",
+      "title": "陶寺遗址",
+      "summary": "山西襄汾陶寺遗址发现了中国最早的天文观象台，古人通过观测日出...",
+      "full_text": "山西襄汾陶寺遗址发现了中国最早的天文观象台，古人通过观测日出方位确定节气。彩绘龙盘上的蟠龙纹可能是中国龙形象的源头，铜铃和朱书文字的发现将中国文字史向前推进。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_010.jpg",
       "image_grid": {
         "x": 3,
@@ -234,9 +234,9 @@
     },
     {
       "id": "archaeology_011",
-      "title": "考古测绘技术",
-      "summary": "考古学家用经纬仪与平板仪绘制遗址平面图，精确记录遗迹位置",
-      "full_text": "考古学家用经纬仪与平板仪绘制遗址平面图，精确记录遗迹位置",
+      "title": "图坦卡蒙墓",
+      "summary": "一九二二年卡特在帝王谷发现了图坦卡蒙墓，黄金面具和石棺震惊世...",
+      "full_text": "一九二二年卡特在帝王谷发现了图坦卡蒙墓，黄金面具和石棺震惊世界。墓室中数千件随葬品保存完好，法老的木乃伊和内脏罐揭示了古埃及的丧葬习俗，这是最完整的古埃及皇家墓葬。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_011.jpg",
       "image_grid": {
         "x": 3,
@@ -255,9 +255,9 @@
     },
     {
       "id": "archaeology_012",
-      "title": "考古摄影",
-      "summary": "摄影师在发掘现场架设大画幅相机，记录遗迹出土原貌",
-      "full_text": "摄影师在发掘现场架设大画幅相机，记录遗迹出土原貌",
+      "title": "庞贝古城",
+      "summary": "公元七十九年维苏威火山爆发将庞贝城掩埋在火山灰下。十八世纪重...",
+      "full_text": "公元七十九年维苏威火山爆发将庞贝城掩埋在火山灰下。十八世纪重新发掘后，街道、房屋、壁画和面包房完整保存。遇难者的遗体在火山灰中留下空腔，灌注石膏后再现了他们最后的姿态。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_012.jpg",
       "image_grid": {
         "x": 3,
@@ -276,9 +276,9 @@
     },
     {
       "id": "archaeology_013",
-      "title": "考古学学科化",
-      "summary": "大学设立考古学系培养专业人才，田野实习成为必修课程",
-      "full_text": "大学设立考古学系培养专业人才，田野实习成为必修课程",
+      "title": "特洛伊遗址",
+      "summary": "谢里曼在希沙利克山丘发掘出九层城市遗址，特洛伊战争从神话变为...",
+      "full_text": "谢里曼在希沙利克山丘发掘出九层城市遗址，特洛伊战争从神话变为历史。普里阿姆宝藏中的金冠和首饰精美绝伦，尽管地层判断有误，但这一发现开创了用考古学验证文献传说的先河。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_013.jpg",
       "image_grid": {
         "x": 3,
@@ -297,9 +297,9 @@
     },
     {
       "id": "archaeology_014",
-      "title": "考古与文物保护",
-      "summary": "考古发掘后对遗址进行回填保护，可逆性原则指导现场处理",
-      "full_text": "考古发掘后对遗址进行回填保护，可逆性原则指导现场处理",
+      "title": "死海古卷",
+      "summary": "一九四七年贝都因牧羊人在库姆兰洞穴中发现了死海古卷，这是现存...",
+      "full_text": "一九四七年贝都因牧羊人在库姆兰洞穴中发现了死海古卷，这是现存最古老的希伯来圣经抄本。羊皮卷和莎草纸卷记录了两千年前的宗教文献，对研究犹太教和基督教起源具有不可估量的价值。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_014.jpg",
       "image_grid": {
         "x": 3,
@@ -318,9 +318,9 @@
     },
     {
       "id": "archaeology_015",
-      "title": "水下考古先驱",
-      "summary": "库斯托发明水肺潜水装置，考古学家得以深入海底探索沉船",
-      "full_text": "库斯托发明水肺潜水装置，考古学家得以深入海底探索沉船",
+      "title": "罗塞塔石碑",
+      "summary": "一七九九年拿破仑远征埃及期间发现了罗塞塔石碑，上面刻有三种文...",
+      "full_text": "一七九九年拿破仑远征埃及期间发现了罗塞塔石碑，上面刻有三种文字的同一诏书。商博良据此破译了古埃及象形文字，沉默了千年的法老文明终于开口说话，埃及学由此诞生。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_015.jpg",
       "image_grid": {
         "x": 3,
@@ -339,9 +339,9 @@
     },
     {
       "id": "archaeology_016",
-      "title": "航空考古",
-      "summary": "飞行员从空中发现田野中隐约的古代遗址轮廓，航拍开辟新视野",
-      "full_text": "飞行员从空中发现田野中隐约的古代遗址轮廓，航拍开辟新视野",
+      "title": "碳十四测年法",
+      "summary": "一九四九年利比发明碳十四测年法，利用有机物中碳十四的衰变测定...",
+      "full_text": "一九四九年利比发明碳十四测年法，利用有机物中碳十四的衰变测定年代。这一方法将考古学从相对年代推进到绝对年代，误差可控制在数十年内，利比因此获得诺贝尔化学奖。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_016.jpg",
       "image_grid": {
         "x": 3,
@@ -360,9 +360,9 @@
     },
     {
       "id": "archaeology_017",
-      "title": "考古公众化",
-      "summary": "公众考古日邀请市民参与模拟发掘，考古知识走出学术象牙塔",
-      "full_text": "公众考古日邀请市民参与模拟发掘，考古知识走出学术象牙塔",
+      "title": "遥感考古",
+      "summary": "卫星和无人机搭载的多光谱传感器能穿透地表发现地下遗址。激光雷...",
+      "full_text": "卫星和无人机搭载的多光谱传感器能穿透地表发现地下遗址。激光雷达LiDAR在柬埔寨丛林中发现了隐藏的吴哥城外围结构，在伯利兹雨林中揭示了玛雅城市的规模。天空之眼让考古学插上了翅膀。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_017.jpg",
       "image_grid": {
         "x": 3,
@@ -381,9 +381,9 @@
     },
     {
       "id": "archaeology_018",
-      "title": "考古伦理",
-      "summary": "国际考古协会制定伦理准则，禁止商业性发掘与文物走私",
-      "full_text": "国际考古协会制定伦理准则，禁止商业性发掘与文物走私",
+      "title": "DNA考古",
+      "summary": "古DNA技术从骨骼中提取遗传信息，揭示了人类迁徙和演化的历史...",
+      "full_text": "古DNA技术从骨骼中提取遗传信息，揭示了人类迁徙和演化的历史。尼安德特人与智人的基因交流、美洲原住民的亚洲起源、中国南北方人群的遗传差异，DNA为考古学提供了全新的研究维度。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_018.jpg",
       "image_grid": {
         "x": 3,
@@ -402,9 +402,9 @@
     },
     {
       "id": "archaeology_019",
-      "title": "考古学理论革命",
-      "summary": "新考古学主张以假设检验方法研究古代社会，过程考古学兴起",
-      "full_text": "新考古学主张以假设检验方法研究古代社会，过程考古学兴起",
+      "title": "水下考古",
+      "summary": "南海一号宋代沉船整体打捞开创了水下考古的新纪元。这艘满载瓷器...",
+      "full_text": "南海一号宋代沉船整体打捞开创了水下考古的新纪元。这艘满载瓷器和金银的商船在海底沉睡八百年，船体和货物保存完好。水下考古学让沉默在深海中的历史重新浮出水面。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_019.jpg",
       "image_grid": {
         "x": 3,
@@ -423,9 +423,9 @@
     },
     {
       "id": "archaeology_020",
-      "title": "殷墟甲骨文",
-      "summary": "王国维释读甲骨卜辞证实商朝世系，中国信史上推千年",
-      "full_text": "王国维释读甲骨卜辞证实商朝世系，中国信史上推千年",
+      "title": "周口店北京人遗址",
+      "summary": "周口店龙骨山的洞穴中出土了北京猿人的头盖骨化石与用火遗迹，将...",
+      "full_text": "周口店龙骨山的洞穴中出土了北京猿人的头盖骨化石与用火遗迹，将人类历史推至五十万年前。石器与灰烬层证明北京人已掌握用火技术，可惜头骨化石在二战中遗失，至今下落不明。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_020.jpg",
       "image_grid": {
         "x": 3,
@@ -444,9 +444,9 @@
     },
     {
       "id": "archaeology_021",
-      "title": "秦始皇兵马俑",
-      "summary": "农民打井时发现陶俑碎片，考古队发掘出地下军阵震惊世界",
-      "full_text": "农民打井时发现陶俑碎片，考古队发掘出地下军阵震惊世界",
+      "title": "半坡遗址",
+      "summary": "西安半坡遗址揭示了六千年前仰韶文化先民的村落生活，半地穴式房...",
+      "full_text": "西安半坡遗址揭示了六千年前仰韶文化先民的村落生活，半地穴式房屋环绕中心广场排列。彩陶盆上的人面鱼纹神秘莫测，储粮窖穴与围沟表明这里是一个组织有序的母系氏族聚落。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_021.jpg",
       "image_grid": {
         "x": 3,
@@ -465,9 +465,9 @@
     },
     {
       "id": "archaeology_022",
-      "title": "三星堆青铜器",
-      "summary": "三星堆祭祀坑出土纵目面具与青铜神树，古蜀文明面貌一新",
-      "full_text": "三星堆祭祀坑出土纵目面具与青铜神树，古蜀文明面貌一新",
+      "title": "河姆渡遗址",
+      "summary": "浙江河姆渡遗址出土了七千年前的稻谷遗存与干栏式建筑，证明长江...",
+      "full_text": "浙江河姆渡遗址出土了七千年前的稻谷遗存与干栏式建筑，证明长江流域是稻作农业的独立起源地。骨耜与漆碗工艺精湛，陶猪与陶羊反映了家畜饲养，河姆渡改写了对中华文明起源的认知。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_022.jpg",
       "image_grid": {
         "x": 3,
@@ -486,9 +486,9 @@
     },
     {
       "id": "archaeology_023",
-      "title": "马王堆汉墓",
-      "summary": "马王堆出土保存完好的女尸与帛画，两千年不腐震惊考古界",
-      "full_text": "马王堆出土保存完好的女尸与帛画，两千年不腐震惊考古界",
+      "title": "偃师二里头",
+      "summary": "河南偃师二里头遗址被认为是夏朝晚期都城，宫殿基址的发现表明这...",
+      "full_text": "河南偃师二里头遗址被认为是夏朝晚期都城，宫殿基址的发现表明这里已有成熟的国家形态。绿松石龙形器精美绝伦，铜牌饰上的兽面纹可能是商周饕餮纹的源头，夏文化的探索仍在继续。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_023.jpg",
       "image_grid": {
         "x": 3,
@@ -507,9 +507,9 @@
     },
     {
       "id": "archaeology_024",
-      "title": "良渚古城遗址",
-      "summary": "良渚古城发现大型水利工程与玉器作坊，五千年文明实证",
-      "full_text": "良渚古城发现大型水利工程与玉器作坊，五千年文明实证",
+      "title": "殷墟妇好墓",
+      "summary": "安阳殷墟妇好墓是唯一未被盗掘的商代王室墓葬，墓主是商王武丁的...",
+      "full_text": "安阳殷墟妇好墓是唯一未被盗掘的商代王室墓葬，墓主是商王武丁的王后妇好。出土青铜器四百余件、玉器七百余件，妇好既是王后也是统帅军队的女将军，甲骨文中多次记载她率军出征。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_024.jpg",
       "image_grid": {
         "x": 3,
@@ -528,9 +528,9 @@
     },
     {
       "id": "archaeology_025",
-      "title": "二里头遗址",
-      "summary": "二里头宫殿基址与绿松石龙形器出土，夏文化探索关键遗址",
-      "full_text": "二里头宫殿基址与绿松石龙形器出土，夏文化探索关键遗址",
+      "title": "周原遗址",
+      "summary": "陕西周原是西周王朝的发祥地，出土了大量青铜器与甲骨文。窖藏青...",
+      "full_text": "陕西周原是西周王朝的发祥地，出土了大量青铜器与甲骨文。窖藏青铜器铭文记录着西周的册命与赏赐，甲骨卜辞揭示了周人的祭祀制度，周原考古为理解西周礼乐文明提供了丰富的实物证据。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_025.jpg",
       "image_grid": {
         "x": 3,
@@ -549,9 +549,9 @@
     },
     {
       "id": "archaeology_026",
-      "title": "敦煌藏经洞",
-      "summary": "王圆箓道士偶然打开藏经洞密室，五万卷文书重见天日",
-      "full_text": "王圆箓道士偶然打开藏经洞密室，五万卷文书重见天日",
+      "title": "秦公大墓",
+      "summary": "陕西凤翔的秦公大墓是迄今发掘的最大先秦墓葬，墓室面积达五千余...",
+      "full_text": "陕西凤翔的秦公大墓是迄今发掘的最大先秦墓葬，墓室面积达五千余平方米。虽经多次盗掘仍出土了金器与石磬，铭文表明墓主为秦景公，大墓的规模彰显了秦国从西陲小邦到霸主的崛起历程。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_026.jpg",
       "image_grid": {
         "x": 3,
@@ -570,9 +570,9 @@
     },
     {
       "id": "archaeology_027",
-      "title": "周口店北京人",
-      "summary": "裴文中在周口店发现北京人头盖骨化石，人类起源研究重大突破",
-      "full_text": "裴文中在周口店发现北京人头盖骨化石，人类起源研究重大突破",
+      "title": "西汉南越王墓",
+      "summary": "广州象岗山南越王墓出土了丝缕玉衣与金印，墓主为第二代南越王赵...",
+      "full_text": "广州象岗山南越王墓出土了丝缕玉衣与金印，墓主为第二代南越王赵眜。银盒与象牙制品来自海外，证明南越国已与东南亚有贸易往来，岭南地区的汉代考古因这座王墓而面貌一新。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_027.jpg",
       "image_grid": {
         "x": 3,
@@ -591,9 +591,9 @@
     },
     {
       "id": "archaeology_028",
-      "title": "曾侯乙编钟",
-      "summary": "曾侯乙墓出土六十五件青铜编钟，两千四百年前乐器仍可演奏",
-      "full_text": "曾侯乙墓出土六十五件青铜编钟，两千四百年前乐器仍可演奏",
+      "title": "法门寺地宫",
+      "summary": "陕西法门寺唐代地宫出土了佛指舍利与大量皇室供奉珍宝，金银器与...",
+      "full_text": "陕西法门寺唐代地宫出土了佛指舍利与大量皇室供奉珍宝，金银器与秘色瓷工艺登峰造极。地宫封闭于公元八七四年，文物保存完好如初，为研究唐代宫廷佛教与工艺技术提供了无价之宝。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_028.jpg",
       "image_grid": {
         "x": 3,
@@ -612,9 +612,9 @@
     },
     {
       "id": "archaeology_029",
-      "title": "妇好墓",
-      "summary": "殷墟妇好墓出土大量青铜器与玉器，商代女将军身份确认",
-      "full_text": "殷墟妇好墓出土大量青铜器与玉器，商代女将军身份确认",
+      "title": "雷峰塔地宫",
+      "summary": "杭州雷峰塔地宫出土了吴越国王钱俶供奉的佛螺髻发舍利与阿育王塔...",
+      "full_text": "杭州雷峰塔地宫出土了吴越国王钱俶供奉的佛螺髻发舍利与阿育王塔，鎏金银塔内安放着金棺银椁。雷峰塔因白蛇传说闻名，地宫考古让实物与传说交相辉映，五代十国的佛教文化由此得窥一斑。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_029.jpg",
       "image_grid": {
         "x": 3,
@@ -633,9 +633,9 @@
     },
     {
       "id": "archaeology_030",
-      "title": "半坡遗址",
-      "summary": "半坡遗址揭示仰韶文化半地穴式房屋与彩陶，母系氏族社会缩影",
-      "full_text": "半坡遗址揭示仰韶文化半地穴式房屋与彩陶，母系氏族社会缩影",
+      "title": "明定陵发掘",
+      "summary": "一九五六年考古工作者发掘了明神宗定陵，出土了金冠与龙袍等珍贵...",
+      "full_text": "一九五六年考古工作者发掘了明神宗定陵，出土了金冠与龙袍等珍贵文物。但丝织品与木器出土后迅速氧化损毁，这次教训促使此后不再主动发掘帝王陵墓，保护优先成为考古界的共识。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_030.jpg",
       "image_grid": {
         "x": 3,
@@ -654,9 +654,9 @@
     },
     {
       "id": "archaeology_031",
-      "title": "河姆渡遗址",
-      "summary": "河姆渡出土七千年稻谷与干栏式建筑遗迹，长江文明实证",
-      "full_text": "河姆渡出土七千年稻谷与干栏式建筑遗迹，长江文明实证",
+      "title": "金沙遗址",
+      "summary": "成都金沙遗址出土了太阳神鸟金饰与大量象牙，是继三星堆之后古蜀...",
+      "full_text": "成都金沙遗址出土了太阳神鸟金饰与大量象牙，是继三星堆之后古蜀文明的又一重大发现。金面具与铜人像风格与三星堆一脉相承，金沙可能是三星堆衰落之后古蜀国的新都城。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_031.jpg",
       "image_grid": {
         "x": 3,
@@ -675,9 +675,9 @@
     },
     {
       "id": "archaeology_032",
-      "title": "石峁遗址",
-      "summary": "石峁古城石砌城墙与玉器出土，四千年前北方超大聚落",
-      "full_text": "石峁古城石砌城墙与玉器出土，四千年前北方超大聚落",
+      "title": "牛河梁遗址",
+      "summary": "辽宁牛河梁红山文化遗址发现了女神庙与积石冢群，出土的泥塑女神...",
+      "full_text": "辽宁牛河梁红山文化遗址发现了女神庙与积石冢群，出土的泥塑女神像与玉猪龙震惊学界。祭坛与墓葬的规模表明五千年前这里已存在复杂的宗教体系与社会分层，中华文明起源的多元性由此证实。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_032.jpg",
       "image_grid": {
         "x": 3,
@@ -696,9 +696,9 @@
     },
     {
       "id": "archaeology_033",
-      "title": "海昏侯墓",
-      "summary": "海昏侯墓出土马蹄金与竹简，西汉列侯奢华随葬再现人间",
-      "full_text": "海昏侯墓出土马蹄金与竹简，西汉列侯奢华随葬再现人间",
+      "title": "凌家滩遗址",
+      "summary": "安徽含山凌家滩遗址出土了五千三百年前的玉龟与玉版，玉版上的八...",
+      "full_text": "安徽含山凌家滩遗址出土了五千三百年前的玉龟与玉版，玉版上的八角星纹可能是原始八卦的雏形。玉人姿态虔诚，玉鹰展翅欲飞，凌家滩的玉器工艺领先同时期其他文化，是史前文明交流的枢纽。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_033.jpg",
       "image_grid": {
         "x": 3,
@@ -717,9 +717,9 @@
     },
     {
       "id": "archaeology_034",
-      "title": "金沙遗址",
-      "summary": "金沙出土太阳神鸟金饰与象牙堆积，继三星堆后古蜀文明新发现",
-      "full_text": "金沙出土太阳神鸟金饰与象牙堆积，继三星堆后古蜀文明新发现",
+      "title": "贾湖遗址",
+      "summary": "河南舞阳贾湖遗址出土了距今九千年的骨笛，用鹤骨制成能吹奏七声...",
+      "full_text": "河南舞阳贾湖遗址出土了距今九千年的骨笛，用鹤骨制成能吹奏七声音阶。龟甲上的刻划符号可能是汉字的远祖，碳化稻米与狗的埋葬坑揭示了早期农业与家畜驯化，贾湖是中华文明黎明前的曙光。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_034.jpg",
       "image_grid": {
         "x": 3,
@@ -738,9 +738,9 @@
     },
     {
       "id": "archaeology_035",
-      "title": "秦始皇陵铜车马",
-      "summary": "铜车马按二分之一比例铸造，御者与马匹细节栩栩如生",
-      "full_text": "铜车马按二分之一比例铸造，御者与马匹细节栩栩如生",
+      "title": "喇家遗址",
+      "summary": "青海喇家遗址保存了四千年前的灾难现场，母亲紧抱孩子的姿态令人...",
+      "full_text": "青海喇家遗址保存了四千年前的灾难现场，母亲紧抱孩子的姿态令人动容。地震与洪水瞬间摧毁了这座齐家文化村落，面条化石的发现将中国面食历史推至四千年前，喇家是东方的庞贝。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_035.jpg",
       "image_grid": {
         "x": 3,
@@ -759,9 +759,9 @@
     },
     {
       "id": "archaeology_036",
-      "title": "大明宫遗址",
-      "summary": "大明宫含元殿基址发掘揭示唐代皇宫规模，丹凤门遗址复原展示",
-      "full_text": "大明宫含元殿基址发掘揭示唐代皇宫规模，丹凤门遗址复原展示",
+      "title": "老官山汉墓",
+      "summary": "成都老官山汉墓出土了人体经穴髹漆人与九百馀支医简，记载了失传...",
+      "full_text": "成都老官山汉墓出土了人体经穴髹漆人与九百馀支医简，记载了失传已久的扁鹊医派典籍。织机模型揭示了汉代提花织机的结构，老官山的发现为中医学与纺织史研究带来了革命性突破。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_036.jpg",
       "image_grid": {
         "x": 3,
@@ -780,9 +780,9 @@
     },
     {
       "id": "archaeology_037",
-      "title": "南越王墓",
-      "summary": "南越王墓出土丝缕玉衣与印章，岭南王国考古重大发现",
-      "full_text": "南越王墓出土丝缕玉衣与印章，岭南王国考古重大发现",
+      "title": "江口沉银",
+      "summary": "四川彭山江口沉银遗址出水了大量金银器与蜀王金宝，证实了张献忠...",
+      "full_text": "四川彭山江口沉银遗址出水了大量金银器与蜀王金宝，证实了张献忠沉银的传说。考古工作者用围堰发掘法在河道中揭露了战场遗址，金银册与银锭铭文记录着明末藩王的奢华与战乱的残酷。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_037.jpg",
       "image_grid": {
         "x": 3,
@@ -801,9 +801,9 @@
     },
     {
       "id": "archaeology_038",
-      "title": "牛河梁红山遗址",
-      "summary": "牛河梁女神庙与积石冢出土陶塑女神像，红山文明祭祀中心",
-      "full_text": "牛河梁女神庙与积石冢出土陶塑女神像，红山文明祭祀中心",
+      "title": "上林湖越窑",
+      "summary": "浙江上林湖越窑遗址是唐五代秘色瓷的产地，窑址遍布湖岸。考古发...",
+      "full_text": "浙江上林湖越窑遗址是唐五代秘色瓷的产地，窑址遍布湖岸。考古发掘揭示了从早期青瓷到秘色瓷的技术演进，窑工用瓷质匣钵密封烧制出如冰似玉的秘色瓷，唐诗中的千峰翠色终获实证。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_038.jpg",
       "image_grid": {
         "x": 3,
@@ -822,9 +822,9 @@
     },
     {
       "id": "archaeology_039",
-      "title": "陶寺遗址",
-      "summary": "陶寺观象台与朱书扁壶出土，尧都传说与考古发现对话",
-      "full_text": "陶寺观象台与朱书扁壶出土，尧都传说与考古发现对话",
+      "title": "隋唐洛阳城",
+      "summary": "洛阳定鼎门遗址的发掘揭示了隋唐东都的宏大格局，三门道城门宽达...",
+      "full_text": "洛阳定鼎门遗址的发掘揭示了隋唐东都的宏大格局，三门道城门宽达二十八米。含嘉仓的地下粮窖储存着数十万石漕粮，武则天明堂的圆形基址重现了万国朝会的盛景，洛阳城是盛唐气象的考古注脚。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_039.jpg",
       "image_grid": {
         "x": 3,
@@ -843,9 +843,9 @@
     },
     {
       "id": "archaeology_040",
-      "title": "贾湖遗址",
-      "summary": "贾湖出土九千年骨笛与刻符龟甲，音乐与文字起源前推",
-      "full_text": "贾湖出土九千年骨笛与刻符龟甲，音乐与文字起源前推",
+      "title": "辽代陈国公主墓",
+      "summary": "内蒙古陈国公主墓出土了完整的契丹贵族葬具，金面具与银丝网络覆...",
+      "full_text": "内蒙古陈国公主墓出土了完整的契丹贵族葬具，金面具与银丝网络覆盖全身。琥珀璎珞与玻璃杯来自丝路贸易，公主与驸马合葬的姿态庄严肃穆，辽代贵族的奢华生活与丧葬习俗由此得窥全貌。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_040.jpg",
       "image_grid": {
         "x": 3,
@@ -864,9 +864,9 @@
     },
     {
       "id": "archaeology_041",
-      "title": "法门寺地宫",
-      "summary": "法门寺地宫开启发现佛指舍利与唐代皇室供器，密藏千年重现",
-      "full_text": "法门寺地宫开启发现佛指舍利与唐代皇室供器，密藏千年重现",
+      "title": "南海一号",
+      "summary": "南海一号宋代沉船整体打捞开创了水下考古的新纪元，钢结构沉箱将...",
+      "full_text": "南海一号宋代沉船整体打捞开创了水下考古的新纪元，钢结构沉箱将整船连同海底泥沙一起吊起。船内瓷器达八万件，金器与漆器保存完好，这艘福船是海上丝绸之路的实物标本。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_041.jpg",
       "image_grid": {
         "x": 3,
@@ -885,9 +885,9 @@
     },
     {
       "id": "archaeology_042",
-      "title": "定陵发掘",
-      "summary": "定陵地宫打开万历皇帝棺椁，丝织品接触空气迅速氧化损毁",
-      "full_text": "定陵地宫打开万历皇帝棺椁，丝织品接触空气迅速氧化损毁",
+      "title": "秦始皇陵铜车马",
+      "summary": "秦始皇陵出土的两乘铜车马按二分之一比例铸造，工艺精湛令人叹为...",
+      "full_text": "秦始皇陵出土的两乘铜车马按二分之一比例铸造，工艺精湛令人叹为观止。铜马肌肉线条流畅，御官俑神态恭谨，伞盖与车厢的机关灵活可动，铜车马是秦代冶金与铸造技术的最高代表。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_042.jpg",
       "image_grid": {
         "x": 3,
@@ -906,9 +906,9 @@
     },
     {
       "id": "archaeology_043",
-      "title": "狮子山楚王陵",
-      "summary": "徐州狮子山楚王陵出土金缕玉衣与兵马俑，西汉诸侯王陵规制",
-      "full_text": "徐州狮子山楚王陵出土金缕玉衣与兵马俑，西汉诸侯王陵规制",
+      "title": "乌尔王室墓",
+      "summary": "伊拉克乌尔城出土的王室墓葬中，侍从与乐师随主人殉葬，金头盔与...",
+      "full_text": "伊拉克乌尔城出土的王室墓葬中，侍从与乐师随主人殉葬，金头盔与里拉琴工艺精湛。乌尔军旗两面分别描绘战争与宴饮场景，苏美尔文明的社会等级与宗教信仰在墓葬中清晰呈现。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_043.jpg",
       "image_grid": {
         "x": 3,
@@ -927,9 +927,9 @@
     },
     {
       "id": "archaeology_044",
-      "title": "特洛伊遗址",
-      "summary": "谢里曼在希萨里克山丘挖出九层叠压城墙，特洛伊从神话走入历史",
-      "full_text": "谢里曼在希萨里克山丘挖出九层叠压城墙，特洛伊从神话走入历史",
+      "title": "摩亨佐-达罗",
+      "summary": "巴基斯坦摩亨佐-达罗是印度河文明最大的城市遗址，街道呈棋盘式...",
+      "full_text": "巴基斯坦摩亨佐-达罗是印度河文明最大的城市遗址，街道呈棋盘式布局排水系统精巧。大浴池可能是宗教净礼场所，印章文字至今未被破译，这座四千年前的城市规划令现代工程师叹服。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_044.jpg",
       "image_grid": {
         "x": 3,
@@ -948,9 +948,9 @@
     },
     {
       "id": "archaeology_045",
-      "title": "庞贝古城",
-      "summary": "火山灰封存庞贝街道与居民遗骸，罗马城市生活瞬间定格",
-      "full_text": "火山灰封存庞贝街道与居民遗骸，罗马城市生活瞬间定格",
+      "title": "克诺索斯宫殿",
+      "summary": "克里特岛克诺索斯宫殿是米诺斯文明的政治与宗教中心，迷宫般的房...",
+      "full_text": "克里特岛克诺索斯宫殿是米诺斯文明的政治与宗教中心，迷宫般的房间层层相连。壁画上跳跃的公牛与优雅的持蛇女神色彩鲜艳，排水系统比罗马早千年，米诺斯是欧洲最早的高度文明。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_045.jpg",
       "image_grid": {
         "x": 3,
@@ -969,9 +969,9 @@
     },
     {
       "id": "archaeology_046",
-      "title": "图坦卡蒙墓",
-      "summary": "卡特在帝王谷打开图坦卡蒙墓室，黄金面具与珍宝震惊世界",
-      "full_text": "卡特在帝王谷打开图坦卡蒙墓室，黄金面具与珍宝震惊世界",
+      "title": "迈锡尼墓葬",
+      "summary": "希腊迈锡尼的竖井墓中出土了金面具与金杯，阿伽门农金面具虽名不...",
+      "full_text": "希腊迈锡尼的竖井墓中出土了金面具与金杯，阿伽门农金面具虽名不副实却震惊世界。蜂巢墓的叠涩穹顶技术精湛，线性文字B记录着宫廷库存，迈锡尼文明是荷马史诗的历史背景。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_046.jpg",
       "image_grid": {
         "x": 3,
@@ -990,9 +990,9 @@
     },
     {
       "id": "archaeology_047",
-      "title": "乌尔王室墓",
-      "summary": "伍利在乌尔发掘王室墓穴，黄金头盔与里拉琴随殉侍从出土",
-      "full_text": "伍利在乌尔发掘王室墓穴，黄金头盔与里拉琴随殉侍从出土",
+      "title": "赫梯首都哈图沙",
+      "summary": "土耳其哈图沙遗址是赫梯帝国的首都，城墙上的狮子门与狮身人面门...",
+      "full_text": "土耳其哈图沙遗址是赫梯帝国的首都，城墙上的狮子门与狮身人面门气势恢宏。出土的楔形文字泥板记录了赫梯法律与外交条约，卡迭石和约的赫梯版本在此发现，赫梯文明从遗忘中重见天日。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_047.jpg",
       "image_grid": {
         "x": 3,
@@ -1011,9 +1011,9 @@
     },
     {
       "id": "archaeology_048",
-      "title": "摩亨佐达罗",
-      "summary": "印度河古城规划整齐的街道与排水系统出土，四千年前城市文明",
-      "full_text": "印度河古城规划整齐的街道与排水系统出土，四千年前城市文明",
+      "title": "亚述尼尼微",
+      "summary": "伊拉克尼尼微遗址出土了亚述巴尼拔图书馆的两万余块泥板，涵盖文...",
+      "full_text": "伊拉克尼尼微遗址出土了亚述巴尼拔图书馆的两万余块泥板，涵盖文学、医学与占星学。猎狮浮雕栩栩如生，拉玛苏人面牛身像守卫着宫殿大门，亚述帝国的残酷与文明在考古发现中并存。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_048.jpg",
       "image_grid": {
         "x": 3,
@@ -1032,9 +1032,9 @@
     },
     {
       "id": "archaeology_049",
-      "title": "克诺索斯宫殿",
-      "summary": "伊文思在克里特岛发掘米诺斯迷宫宫殿，壁画再现跳牛仪式",
-      "full_text": "伊文思在克里特岛发掘米诺斯迷宫宫殿，壁画再现跳牛仪式",
+      "title": "波斯波利斯",
+      "summary": "伊朗波斯波利斯宫殿遗址的觐见阶梯上，二十个属国的使节浮雕栩栩...",
+      "full_text": "伊朗波斯波利斯宫殿遗址的觐见阶梯上，二十个属国的使节浮雕栩栩如生。万国之门与百柱厅的规模彰显着阿契美尼德帝国的荣光，亚历山大大帝的一把火将这座宫殿化为废墟，却无法焚毁石头上的记忆。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_049.jpg",
       "image_grid": {
         "x": 3,
@@ -1053,9 +1053,9 @@
     },
     {
       "id": "archaeology_050",
-      "title": "死海古卷",
-      "summary": "贝都因牧人在库姆兰洞穴中发现羊皮卷，最古老圣经抄本面世",
-      "full_text": "贝都因牧人在库姆兰洞穴中发现羊皮卷，最古老圣经抄本面世",
+      "title": "复活节岛考古",
+      "summary": "复活节岛的采石场拉诺拉拉库中，近四百尊未完工的摩艾石像散落各...",
+      "full_text": "复活节岛的采石场拉诺拉拉库中，近四百尊未完工的摩艾石像散落各处。考古发现石像的运输依靠摇曳行走法，岛上的森林砍伐导致生态崩溃，拉帕努伊文明的兴衰是人类与自然关系的警世寓言。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_050.jpg",
       "image_grid": {
         "x": 3,
@@ -1074,9 +1074,9 @@
     },
     {
       "id": "archaeology_051",
-      "title": "复活节岛考古",
-      "summary": "考古学家发掘摩艾石像底部祭坛，揭示拉帕努伊文明兴衰",
-      "full_text": "考古学家发掘摩艾石像底部祭坛，揭示拉帕努伊文明兴衰",
+      "title": "吴哥遗迹群",
+      "summary": "柬埔寨吴哥遗迹群包含百余座寺庙，巴戎寺的四面佛微笑神秘安详。...",
+      "full_text": "柬埔寨吴哥遗迹群包含百余座寺庙，巴戎寺的四面佛微笑神秘安详。激光雷达扫描揭示了隐藏在丛林中的城市道路与运河网络，吴哥城面积达一千平方公里，是工业革命前世界上最大的城市。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_051.jpg",
       "image_grid": {
         "x": 3,
@@ -1095,9 +1095,9 @@
     },
     {
       "id": "archaeology_052",
-      "title": "阿尔塔米拉洞穴",
-      "summary": "小女孩在洞穴中抬头发现野牛壁画，旧石器时代艺术重见天日",
-      "full_text": "小女孩在洞穴中抬头发现野牛壁画，旧石器时代艺术重见天日",
+      "title": "特奥蒂瓦坎",
+      "summary": "墨西哥特奥蒂瓦坎的太阳金字塔高六十五米，月亮金字塔与羽蛇神庙...",
+      "full_text": "墨西哥特奥蒂瓦坎的太阳金字塔高六十五米，月亮金字塔与羽蛇神庙沿亡者大道排列。隧道中发现了水银与云母，暗示着复杂的祭祀仪式，这座美洲最大的前哥伦布城市其建造者身份至今成谜。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_052.jpg",
       "image_grid": {
         "x": 3,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": "archaeology_053",
-      "title": "拉斯科洞穴",
-      "summary": "少年追狗跌入洞穴发现史前壁画，奔马与野牛跃然岩壁",
-      "full_text": "少年追狗跌入洞穴发现史前壁画，奔马与野牛跃然岩壁",
+      "title": "奥尔梅克巨石头像",
+      "summary": "墨西哥湾沿岸的奥尔梅克遗址出土了巨大的玄武岩人头雕像，高逾三...",
+      "full_text": "墨西哥湾沿岸的奥尔梅克遗址出土了巨大的玄武岩人头雕像，高逾三米重达五十吨。头像戴着头盔状帽子，面容具有非洲人特征，石料从百里外运来，奥尔梅克是中美洲文明之母。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_053.jpg",
       "image_grid": {
         "x": 3,
@@ -1137,9 +1137,9 @@
     },
     {
       "id": "archaeology_054",
-      "title": "马丘比丘发现",
-      "summary": "宾厄姆在安第斯云雾中发现印加古城，石砌梯田与神庙保存完好",
-      "full_text": "宾厄姆在安第斯云雾中发现印加古城，石砌梯田与神庙保存完好",
+      "title": "昌昌古城",
+      "summary": "秘鲁昌昌是奇穆帝国的首都，世界上最大的土砖城市。宫殿围墙上的...",
+      "full_text": "秘鲁昌昌是奇穆帝国的首都，世界上最大的土砖城市。宫殿围墙上的浮雕描绘着渔网与海鸟，灌溉系统精巧完备，储水池至今仍能蓄水。奇穆文明被印加征服后，昌昌逐渐被沙漠吞噬。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_054.jpg",
       "image_grid": {
         "x": 3,
@@ -1158,9 +1158,9 @@
     },
     {
       "id": "archaeology_055",
-      "title": "罗塞塔石碑",
-      "summary": "法军工兵在尼罗河三角洲挖出三语石碑，象形文字破译关键",
-      "full_text": "法军工兵在尼罗河三角洲挖出三语石碑，象形文字破译关键",
+      "title": "纳斯卡地画考古",
+      "summary": "秘鲁纳斯卡荒漠上的地画从空中俯瞰才能辨识全貌，蜂鸟与蜘蛛图案...",
+      "full_text": "秘鲁纳斯卡荒漠上的地画从空中俯瞰才能辨识全貌，蜂鸟与蜘蛛图案绵延数百米。考古发现地画由去除表面深色石块露出浅色土壤制成，可能与水源崇拜和朝圣路线有关，是沙漠中留给神灵的信笺。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_055.jpg",
       "image_grid": {
         "x": 3,
@@ -1179,9 +1179,9 @@
     },
     {
       "id": "archaeology_056",
-      "title": "图拉真柱考古",
-      "summary": "罗马纪功柱螺旋浮雕记录达契亚战争，考古学家解读军事细节",
-      "full_text": "罗马纪功柱螺旋浮雕记录达契亚战争，考古学家解读军事细节",
+      "title": "维京海盗船葬",
+      "summary": "挪威奥斯堡与戈克斯塔德出土的维京船葬中，酋长被安放于橡木船中...",
+      "full_text": "挪威奥斯堡与戈克斯塔德出土的维京船葬中，酋长被安放于橡木船中，身旁陪葬着武器与马匹。船首龙头雕刻威严，船体结构精巧，维京人的造船与航海技术令其纵横北大西洋三百年。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_056.jpg",
       "image_grid": {
         "x": 3,
@@ -1200,9 +1200,9 @@
     },
     {
       "id": "archaeology_057",
-      "title": "赫梯首都哈图沙",
-      "summary": "考古学家在博阿兹柯伊发掘赫梯都城，泥板楔形文字档案出土",
-      "full_text": "考古学家在博阿兹柯伊发掘赫梯都城，泥板楔形文字档案出土",
+      "title": "阿尔塔米拉洞穴",
+      "summary": "西班牙阿尔塔米拉洞穴顶部绘有十余头野牛，赭红色身躯与黑色轮廓...",
+      "full_text": "西班牙阿尔塔米拉洞穴顶部绘有十余头野牛，赭红色身躯与黑色轮廓线条奔放。这些一万五千年前的壁画最初被发现时被质疑为伪造，后经碳十四测年证实确为旧石器时代杰作，是史前艺术的巅峰。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_057.jpg",
       "image_grid": {
         "x": 3,
@@ -1221,9 +1221,9 @@
     },
     {
       "id": "archaeology_058",
-      "title": "吴哥遗迹调查",
-      "summary": "法国远东学院学者在丛林中清理吴哥遗迹，激光雷达揭示城市规模",
-      "full_text": "法国远东学院学者在丛林中清理吴哥遗迹，激光雷达揭示城市规模",
+      "title": "拉斯科洞穴",
+      "summary": "法国拉斯科洞穴壁画绘制于一万七千年前，奔马与野牛群在岩壁上奔...",
+      "full_text": "法国拉斯科洞穴壁画绘制于一万七千年前，奔马与野牛群在岩壁上奔腾。矿物颜料调出红黄黑三色，线条流畅如一气呵成。洞穴因霉菌侵蚀已对公众关闭，数字技术让虚拟参观成为可能。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_058.jpg",
       "image_grid": {
         "x": 3,
@@ -1242,9 +1242,9 @@
     },
     {
       "id": "archaeology_059",
-      "title": "维京船葬",
-      "summary": "奥斯贝格船葬出土完整维京长船与织机，北欧海盗贵族随葬品",
-      "full_text": "奥斯贝格船葬出土完整维京长船与织机，北欧海盗贵族随葬品",
+      "title": "哥贝克力石阵",
+      "summary": "土耳其哥贝克力石阵距今一万两千年，是已知最古老的大型石砌建筑...",
+      "full_text": "土耳其哥贝克力石阵距今一万两千年，是已知最古老的大型石砌建筑。T形石柱上雕刻着狐狸与蛇的图案，建造者可能是尚未定居的狩猎采集者，这座祭祀建筑比农业革命更早，颠覆了文明起源的理论。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_059.jpg",
       "image_grid": {
         "x": 3,
@@ -1263,9 +1263,9 @@
     },
     {
       "id": "archaeology_060",
-      "title": "碳14测定法",
-      "summary": "利比发明放射性碳测年法，有机遗物年代可精确至数十年内",
-      "full_text": "利比发明放射性碳测年法，有机遗物年代可精确至数十年内",
+      "title": "加泰土丘",
+      "summary": "土耳其加泰土丘是九千年前的新石器时代大型聚落，房屋紧密相连通...",
+      "full_text": "土耳其加泰土丘是九千年前的新石器时代大型聚落，房屋紧密相连通过屋顶出入。墙壁上绘有猎牛与火山喷发的壁画，黑曜石贸易让这里成为富裕的城镇，死者被安葬于居室之下陪伴生者。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_060.jpg",
       "image_grid": {
         "x": 3,
@@ -1284,9 +1284,9 @@
     },
     {
       "id": "archaeology_061",
-      "title": "遥感考古",
-      "summary": "卫星红外影像揭示沙漠下古代河道与遗址，太空考古学诞生",
-      "full_text": "卫星红外影像揭示沙漠下古代河道与遗址，太空考古学诞生",
+      "title": "碳十四测年法",
+      "summary": "利比发明的碳十四测年法利用有机物中碳十四的衰变测定年代，将考...",
+      "full_text": "利比发明的碳十四测年法利用有机物中碳十四的衰变测定年代，将考古学从相对年代推进到绝对年代。加速器质谱法将所需样品量降至毫克级，碳十四测年成为考古学最基础的工具之一。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_061.jpg",
       "image_grid": {
         "x": 3,
@@ -1305,9 +1305,9 @@
     },
     {
       "id": "archaeology_062",
-      "title": "DNA考古",
-      "summary": "从古人骨骼中提取DNA分析族群迁徙，分子考古学改写人类谱系",
-      "full_text": "从古人骨骼中提取DNA分析族群迁徙，分子考古学改写人类谱系",
+      "title": "遥感考古技术",
+      "summary": "卫星与无人机搭载的多光谱传感器能穿透地表发现地下遗址。激光雷...",
+      "full_text": "卫星与无人机搭载的多光谱传感器能穿透地表发现地下遗址。激光雷达LiDAR在柬埔寨丛林中发现了隐藏的吴哥城外围结构，在伯利兹雨林中揭示了玛雅城市的规模，天空之眼让考古学插上了翅膀。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_062.jpg",
       "image_grid": {
         "x": 3,
@@ -1326,9 +1326,9 @@
     },
     {
       "id": "archaeology_063",
-      "title": "三维激光扫描",
-      "summary": "激光扫描仪快速获取遗址三维点云数据，数字建模永久保存信息",
-      "full_text": "激光扫描仪快速获取遗址三维点云数据，数字建模永久保存信息",
+      "title": "古DNA技术",
+      "summary": "古DNA技术从骨骼中提取遗传信息，揭示了人类迁徙和演化的历史...",
+      "full_text": "古DNA技术从骨骼中提取遗传信息，揭示了人类迁徙和演化的历史。尼安德特人与智人的基因交流、美洲原住民的亚洲起源、中国南北方人群的遗传差异，DNA为考古学提供了全新的研究维度。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_063.jpg",
       "image_grid": {
         "x": 3,
@@ -1347,9 +1347,9 @@
     },
     {
       "id": "archaeology_064",
-      "title": "同位素分析",
-      "summary": "锶同位素分析揭示古人迁徙轨迹，牙釉质记录童年生活地域",
-      "full_text": "锶同位素分析揭示古人迁徙轨迹，牙釉质记录童年生活地域",
+      "title": "三维扫描与数字重建",
+      "summary": "三维激光扫描为文物建立毫米级精度的数字模型，虚拟现实技术让消...",
+      "full_text": "三维激光扫描为文物建立毫米级精度的数字模型，虚拟现实技术让消失的建筑在屏幕上重现。巴黎圣母院火灾前的扫描数据成为修复依据，数字考古让文化遗产在虚拟世界中获得永生。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_064.jpg",
       "image_grid": {
         "x": 3,
@@ -1368,9 +1368,9 @@
     },
     {
       "id": "archaeology_065",
-      "title": "GIS考古",
-      "summary": "地理信息系统整合遗址分布与环境数据，空间分析揭示聚落规律",
-      "full_text": "地理信息系统整合遗址分布与环境数据，空间分析揭示聚落规律",
+      "title": "同位素分析",
+      "summary": "锶同位素分析能判断古人迁徙轨迹，氧同位素揭示古代气候变迁，碳...",
+      "full_text": "锶同位素分析能判断古人迁徙轨迹，氧同位素揭示古代气候变迁，碳氮同位素反映古人饮食结构。通过牙齿与骨骼的同位素分析，考古学家重建了个体的生命史，科技手段让骨骼开口讲述自己的故事。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_065.jpg",
       "image_grid": {
         "x": 3,
@@ -1389,9 +1389,9 @@
     },
     {
       "id": "archaeology_066",
-      "title": "探地雷达",
-      "summary": "探地雷达在不挖掘的情况下探测地下遗迹轮廓，无损考古技术",
-      "full_text": "探地雷达在不挖掘的情况下探测地下遗迹轮廓，无损考古技术",
+      "title": "地质雷达探测",
+      "summary": "地质雷达向地下发射电磁波，根据反射信号绘制地下结构图像。考古...",
+      "full_text": "地质雷达向地下发射电磁波，根据反射信号绘制地下结构图像。考古学家用GPR在不发掘的情况下探明墓葬与建筑的位置，秦始皇陵地宫的探测就是GPR技术的成功应用，无损探测是考古学的未来方向。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_066.jpg",
       "image_grid": {
         "x": 3,
@@ -1411,8 +1411,8 @@
     {
       "id": "archaeology_067",
       "title": "微痕分析",
-      "summary": "显微镜下观察石器刃部使用磨损痕迹，推断古代工具功能",
-      "full_text": "显微镜下观察石器刃部使用磨损痕迹，推断古代工具功能",
+      "summary": "显微镜下石器刃部的微小磨痕揭示了工具的使用方式，切割肉类与加...",
+      "full_text": "显微镜下石器刃部的微小磨痕揭示了工具的使用方式，切割肉类与加工木材留下不同的微痕。实验考古复制石器并使用后对比微痕，远古工具的功能从猜测变为实证，微痕分析让沉默的石器开口说话。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_067.jpg",
       "image_grid": {
         "x": 3,
@@ -1431,9 +1431,9 @@
     },
     {
       "id": "archaeology_068",
-      "title": "古蛋白质组学",
-      "summary": "从陶器内壁残留物中提取蛋白质，鉴定古代饮食与奶制品消费",
-      "full_text": "从陶器内壁残留物中提取蛋白质，鉴定古代饮食与奶制品消费",
+      "title": "孢粉分析",
+      "summary": "湖底沉积物中的花粉孢子记录了古代植被的变迁，孢粉分析重建了千...",
+      "full_text": "湖底沉积物中的花粉孢子记录了古代植被的变迁，孢粉分析重建了千年来的气候与生态环境。农业起源时谷物花粉的激增、森林砍伐后杂草花粉的蔓延，孢粉是自然写下的编年史。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_068.jpg",
       "image_grid": {
         "x": 3,
@@ -1452,9 +1452,9 @@
     },
     {
       "id": "archaeology_069",
-      "title": "无人机考古",
-      "summary": "无人机低空航拍生成高精度正射影像，田野调查效率倍增",
-      "full_text": "无人机低空航拍生成高精度正射影像，田野调查效率倍增",
+      "title": "热释光测年",
+      "summary": "陶瓷在烧制时释放了矿物中积存的辐射能量，此后重新积累的能量与...",
+      "full_text": "陶瓷在烧制时释放了矿物中积存的辐射能量，此后重新积累的能量与埋藏时间成正比。热释光测年法可直接测定陶器的烧制年代，误差约百分之五至十，是鉴定陶瓷真伪与断代的重要手段。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_069.jpg",
       "image_grid": {
         "x": 3,
@@ -1473,9 +1473,9 @@
     },
     {
       "id": "archaeology_070",
-      "title": "虚拟复原",
-      "summary": "计算机三维重建古建筑原貌，虚拟现实技术让观众穿越时空",
-      "full_text": "计算机三维重建古建筑原貌，虚拟现实技术让观众穿越时空",
+      "title": "考古GIS系统",
+      "summary": "地理信息系统将遗址位置、地形地貌与文物数据整合在数字地图上，...",
+      "full_text": "地理信息系统将遗址位置、地形地貌与文物数据整合在数字地图上，空间分析揭示聚落分布规律。流域内遗址的兴衰与水系变迁的关系、墓葬群的社会等级空间分化，GIS让考古学从点扩展到面。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_070.jpg",
       "image_grid": {
         "x": 3,
@@ -1494,9 +1494,9 @@
     },
     {
       "id": "archaeology_071",
-      "title": "水下机器人",
-      "summary": "深潜机器人拍摄海底沉船遗骸，声呐扫描绘制遗址分布图",
-      "full_text": "深潜机器人拍摄海底沉船遗骸，声呐扫描绘制遗址分布图",
+      "title": "水下机器人考古",
+      "summary": "深海水下机器人携带高清摄像头与机械臂潜入海底，在千米深处发现...",
+      "full_text": "深海水下机器人携带高清摄像头与机械臂潜入海底，在千米深处发现古代沉船。黑海中发现的二千四百年前古希腊商船保存完好如初，深水考古开辟了水下考古学的新疆域，海底的历史宝库等待开启。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_071.jpg",
       "image_grid": {
         "x": 3,
@@ -1515,9 +1515,9 @@
     },
     {
       "id": "archaeology_072",
-      "title": "考古大数据",
-      "summary": "海量考古数据入库建立全国文物数据库，统计分析揭示文明规律",
-      "full_text": "海量考古数据入库建立全国文物数据库，统计分析揭示文明规律",
+      "title": "蛋白质组学考古",
+      "summary": "从陶器内壁残留物中提取古代蛋白质，鉴定出容器曾盛放的奶制品或...",
+      "full_text": "从陶器内壁残留物中提取古代蛋白质，鉴定出容器曾盛放的奶制品或肉类。骨骼胶原蛋白的分析揭示了古人的饮食与疾病，蛋白质组学为考古学提供了超越DNA的分子级信息，微观世界蕴含着宏观历史。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_072.jpg",
       "image_grid": {
         "x": 3,
@@ -1536,9 +1536,9 @@
     },
     {
       "id": "archaeology_073",
-      "title": "环境考古",
-      "summary": "孢粉分析重建古代植被气候，环境变迁与文明兴衰关联研究",
-      "full_text": "孢粉分析重建古代植被气候，环境变迁与文明兴衰关联研究",
+      "title": "实验考古学",
+      "summary": "考古学家亲手复制石器、烧制陶器与建造房屋，通过实践验证对古代...",
+      "full_text": "考古学家亲手复制石器、烧制陶器与建造房屋，通过实践验证对古代技术的假说。用石斧砍伐树木需要多长时间？用原始方法能搬运多重的巨石？实验考古让理论落地，从实践中理解古人的智慧与局限。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_073.jpg",
       "image_grid": {
         "x": 3,
@@ -1557,9 +1557,9 @@
     },
     {
       "id": "archaeology_074",
-      "title": "实验考古",
-      "summary": "学者按古法复制石器与陶器验证制作工艺，实践还原古代技术",
-      "full_text": "学者按古法复制石器与陶器验证制作工艺，实践还原古代技术",
+      "title": "公众考古学",
+      "summary": "考古工地向公众开放参观，志愿者参与发掘与文物修复。博物馆用互...",
+      "full_text": "考古工地向公众开放参观，志愿者参与发掘与文物修复。博物馆用互动展览讲述考古故事，社交媒体直播发掘过程，公众考古学拉近了专业与大众的距离，让文化遗产保护成为全民的事业。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_074.jpg",
       "image_grid": {
         "x": 3,
@@ -1578,9 +1578,9 @@
     },
     {
       "id": "archaeology_075",
-      "title": "殷墟妇好墓发掘",
-      "summary": "考古学家在殷墟发掘未被盗掘的商代王室墓，青铜礼器完整出土",
-      "full_text": "考古学家在殷墟发掘未被盗掘的商代王室墓，青铜礼器完整出土",
+      "title": "良渚古城发掘",
+      "summary": "浙江良渚古城遗址的发掘证实了五千年中华文明的存在，水利系统规...",
+      "full_text": "浙江良渚古城遗址的发掘证实了五千年中华文明的存在，水利系统规模宏大，玉琮玉璧制作精美。莫角山宫殿基址面积达三十万平方米，反山王陵出土的玉器数量惊人，良渚是东亚最早的国家社会之一。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_075.jpg",
       "image_grid": {
         "x": 3,
@@ -1599,9 +1599,9 @@
     },
     {
       "id": "archaeology_076",
-      "title": "秦始皇陵兵马俑彩绘",
-      "summary": "兵马俑出土时保留彩绘颜料，接触空气后迅速氧化褪色",
-      "full_text": "兵马俑出土时保留彩绘颜料，接触空气后迅速氧化褪色",
+      "title": "二里头遗址",
+      "summary": "河南偃师二里头遗址被认为是夏朝晚期都城，宫殿基址的发现表明这...",
+      "full_text": "河南偃师二里头遗址被认为是夏朝晚期都城，宫殿基址的发现表明这里已有成熟的国家形态。绿松石龙形器精美绝伦，铜牌饰上的兽面纹可能是商周饕餮纹的源头。夏文化的探索仍在继续。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_076.jpg",
       "image_grid": {
         "x": 3,
@@ -1620,9 +1620,9 @@
     },
     {
       "id": "archaeology_077",
-      "title": "南海一号打捞",
-      "summary": "南宋沉船整体打捞移入水晶宫，出水瓷器与铜钱保存完好",
-      "full_text": "南宋沉船整体打捞移入水晶宫，出水瓷器与铜钱保存完好",
+      "title": "石峁遗址",
+      "summary": "陕西石峁古城距今四千余年，城墙用石块砌筑面积达四百万平方米。...",
+      "full_text": "陕西石峁古城距今四千余年，城墙用石块砌筑面积达四百万平方米。城墙上镶嵌着精美的石雕人面像，玉器被插入墙体作为宗教仪式。这座超大型史前城址改写了对早期国家形成的认知。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_077.jpg",
       "image_grid": {
         "x": 3,
@@ -1641,9 +1641,9 @@
     },
     {
       "id": "archaeology_078",
-      "title": "良渚玉器微痕研究",
-      "summary": "显微镜下观察良渚玉器切割痕迹，五千年前治玉技术逐步揭示",
-      "full_text": "显微镜下观察良渚玉器切割痕迹，五千年前治玉技术逐步揭示",
+      "title": "陶寺遗址",
+      "summary": "山西襄汾陶寺遗址发现了中国最早的天文观象台，古人通过观测日出...",
+      "full_text": "山西襄汾陶寺遗址发现了中国最早的天文观象台，古人通过观测日出方位确定节气。彩绘龙盘上的蟠龙纹可能是中国龙形象的源头，铜铃和朱书文字的发现将中国文字史向前推进。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_078.jpg",
       "image_grid": {
         "x": 3,
@@ -1662,9 +1662,9 @@
     },
     {
       "id": "archaeology_079",
-      "title": "考古遗址现场保护",
-      "summary": "考古发掘后搭建保护棚与排水系统，防止遗迹风化与雨水侵蚀",
-      "full_text": "考古发掘后搭建保护棚与排水系统，防止遗迹风化与雨水侵蚀",
+      "title": "三星堆发掘",
+      "summary": "四川广汉三星堆出土的青铜纵目面具和金杖颠覆了人们对古蜀文明的...",
+      "full_text": "四川广汉三星堆出土的青铜纵目面具和金杖颠覆了人们对古蜀文明的认知。高达三米的青铜神树、奇异的青铜人头像，这些前所未见的文物表明古蜀文明有着独立于中原的独特文化体系。",
       "image": "res://assets/images/illustrations/archaeology/archaeology_079.jpg",
       "image_grid": {
         "x": 3,
