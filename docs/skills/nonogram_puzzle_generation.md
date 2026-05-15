@@ -374,28 +374,150 @@ y = (row * puzzle_size + cell_row) * pixel_size
 
 ```powershell
 # 步骤1：生成所有数织关卡（约12分钟）
-C:\Python311\python.exe -u tools\fix_all_dynamic.py
+C:\Python311\python.exe -u tools\fix_all_dynamic_optimized.py chinese_history
 
-# 步骤2：生成所有数织拼接像素图（约30秒）
-C:\Python311\python.exe -u tools\gen_nonogram_image.py
+# 步骤2：生成所有数织拼接像素图（黑白，约30秒）
+C:\Python311\python.exe -u tools\gen_nonogram_image_unified.py chinese_history
+
+# 步骤3：生成所有彩色数织像素图（可选，约30秒）
+C:\Python311\python.exe -u tools\gen_color_nonogram_pixel.py chinese_history
 ```
 
 ### 仅重新生成某张图的关卡
 
-修改 `fix_all_dynamic.py` 中的循环范围，或创建针对单图的脚本（参考 `fix_ch1_dynamic.py`）。
-
-### 验证关卡
-
 ```powershell
-# 查看某个关卡的解网格
-C:\Python311\python.exe -c "
-import json
-with open(r'data\puzzles\chinese_history\chapter1_01_yuanmou_0.json', 'r', encoding='utf-8') as f:
-    d = json.load(f)
-for row in d['solution']:
-    print(''.join('█' if c else '·' for c in row))
-"
+# 修改脚本中的循环范围，或使用命令行参数
+C:\Python311\python.exe -u tools\fix_all_dynamic_optimized.py chinese_history --start 0 --end 1
 ```
+
+## 动态难度设计
+
+### 设计原则
+
+同一张图片的6个分块根据内容复杂度分配不同难度。内容复杂的区域使用更大的网格（更多细节），内容简单的区域使用更小的网格（更易完成）。
+
+### 难度分配规则
+
+| 图片难度 | 低复杂度分块 | 中复杂度分块 | 高复杂度分块 |
+| -------- | ------------ | ------------ | ------------ |
+| 10×10 | 5×5 | 5×5 | 10×10 |
+| 15×15 | 5×5 | 10×10 | 15×15 |
+| 20×20 | 10×10 | 15×15 | 20×20 |
+| 25×25 | 15×15 | 20×20 | 25×25 |
+
+### 复杂度计算 (analyze_block_complexity)
+
+```python
+def analyze_block_complexity(pixel_img, grid_x, grid_y, block_index, sample_size=20):
+    # 1. 提取分块区域
+    # 2. 采样像素计算：
+    #    - 像素多样性：unique_pixels / total_pixels
+    #    - 亮度方差：brightness_variance / 1000
+    #    - 边缘密度：edge_density
+    # 3. 综合复杂度 = 多样性×0.4 + 方差×0.3 + 边缘×0.3
+```
+
+### 动态难度分配流程 (get_difficulty_sizes)
+
+```python
+def get_difficulty_sizes(max_size):
+    if max_size <= 5:
+        return [5, 5, 5, 5, 5, 5]           # 全部新手难度
+    elif max_size <= 10:
+        return [5, 5, 5, 10, 10, 10]       # 2种难度
+    elif max_size <= 15:
+        return [5, 5, 10, 10, 15, 15]       # 3种难度
+    elif max_size <= 20:
+        return [10, 10, 15, 15, 20, 20]     # 3种难度
+    else:
+        return [15, 15, 20, 20, 25, 25]     # 3种难度
+```
+
+### 基础难度配置
+
+每本画册的关卡难度规划定义在 `get_base_difficulty` 函数中：
+
+```python
+def get_base_difficulty(album_id, pic_idx):
+    size_map = {
+        'chinese_history': [
+            (0, 1, 5),    # 第1张：5×5
+            (1, 23, 10),  # 序号1-22：10×10
+            (23, 38, 15), # 序号23-37：15×15
+            (38, 77, 20), # 序号38-76：20×20
+            (77, 105, 25) # 序号77-104：25×25
+        ],
+        # ... 其他画册配置
+    }
+```
+
+## 彩色数织像素图生成
+
+### 功能说明
+
+彩色数织像素图从原像素图中提取每个格子对应的颜色，生成带有原始色彩的数织解图。每个格子的颜色是该格子在原图中的平均颜色。
+
+### 算法流程
+
+```
+原像素图
+    │
+    ▼
+1. 按 image_grid(3×2) 分割6个区域
+    │
+    ▼
+2. 对每个关卡：
+    │  读取 solution 网格
+    │  对每个填充格(1)：
+    │    计算该格在原图对应区域的平均颜色
+    │    用该颜色绘制像素块
+    │
+    ▼
+3. 拼接6个关卡的彩色像素图
+    │
+    ▼
+4. 添加分割线
+    │
+    ▼
+_nonogram_pixel.jpg
+```
+
+### 颜色提取算法
+
+```python
+def generate_color_nonogram_for_block(pixel_img, block_rect, puzzle_data, target_size):
+    solution = puzzle_data['solution']
+    size = puzzle_data['size']['rows']
+    
+    for r in range(size):
+        for c in range(size):
+            if solution[r][c] == 1:
+                # 计算该格在原图的区域
+                src_x = block_rect.x + c * block_rect.w / size
+                src_y = block_rect.y + r * block_rect.h / size
+                
+                # 采样该区域所有像素
+                color_pixels = []
+                for sy in range(src_y, src_y + block_rect.h / size):
+                    for sx in range(src_x, src_x + block_rect.w / size):
+                        color_pixels.append(pixel_img.getpixel((sx, sy)))
+                
+                # 计算平均颜色
+                avg_color = average(color_pixels)
+                
+                # 用平均颜色绘制像素块
+                draw_rectangle(c, r, avg_color)
+```
+
+### 输出规格
+
+| 属性 | 值 |
+| ---- | -- |
+| 文件命名 | `{图片ID}_nonogram_pixel.jpg` |
+| 填充格颜色 | 原图对应区域平均颜色 |
+| 空白格颜色 | 白色 (255,255,255) |
+| 分割线 | 灰色 (128,128,128) |
+| 文件格式 | JPG（quality=95） |
 
 ## 经验教训与注意事项
 
@@ -439,3 +561,27 @@ for row in d['solution']:
 | 15×15 | 216 | 196 | 20 | 90.7% |
 | 20×20 | 120 | 70 | 50 | 58.3% |
 | **合计** | **630** | **556** | **74** | **88.3%** |
+
+### 验证关卡
+
+```powershell
+# 查看某个关卡的解网格
+C:\Python311\python.exe -c "
+import json
+with open(r'data\puzzles\chinese_history\chapter1_01_yuanmou_0.json', 'r', encoding='utf-8') as f:
+    d = json.load(f)
+for row in d['solution']:
+    print(''.join('█' if c else '·' for c in row))
+"
+
+# 查看动态难度分配
+C:\Python311\python.exe -c "
+import json
+pics_file = r'data\pictures\chinese_history.json'
+with open(pics_file, 'r', encoding='utf-8') as f:
+    data = json.load(f)
+print(f'Total pictures: {len(data[\"pictures\"])}')
+for i, pic in enumerate(data['pictures'][:3]):
+    print(f'{i}: {pic[\"id\"]} - puzzles: {len(pic[\"puzzles\"])}')
+"
+```

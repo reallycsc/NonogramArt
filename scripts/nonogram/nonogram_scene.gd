@@ -381,7 +381,7 @@ func _create_pixel_grid_display():
 		return
 	
 	var base_path = img_path.get_basename()
-	var pixel_path = base_path + "_pixel.jpg"
+	var pixel_path = base_path + "_nonogram_pixel.jpg"
 	
 	print("Trying to load pixel image: ", pixel_path)
 	

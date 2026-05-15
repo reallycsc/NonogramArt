@@ -118,7 +118,6 @@ vertical_alignment = 1
 layout_mode = 2
 size_flags_horizontal = 3
 theme = ExtResource("8_uxdmp")
-min_value = 1.0
 value = 50.0
 
 [node name="BGMValueLabel" type="Label" parent="PanelContainer/VBoxContainer/BGMContainer" unique_id=1088502677]
@@ -151,7 +150,6 @@ vertical_alignment = 1
 layout_mode = 2
 size_flags_horizontal = 3
 theme = ExtResource("8_uxdmp")
-min_value = 1.0
 value = 100.0
 
 [node name="SFXValueLabel" type="Label" parent="PanelContainer/VBoxContainer/SFXContainer" unique_id=2082912576]

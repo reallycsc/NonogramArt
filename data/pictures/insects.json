@@ -1,4 +1,4 @@
-{
+﻿{
   "album_id": "insects",
   "pictures": [
     {
@@ -20,7 +20,7 @@
         "insects_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_000_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_000_nonogram_pixel.jpg"
     },
     {
       "id": "insects_001",
@@ -41,7 +41,7 @@
         "insects_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_001_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_001_nonogram_pixel.jpg"
     },
     {
       "id": "insects_002",
@@ -62,7 +62,7 @@
         "insects_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_002_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_002_nonogram_pixel.jpg"
     },
     {
       "id": "insects_003",
@@ -83,7 +83,7 @@
         "insects_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_003_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_003_nonogram_pixel.jpg"
     },
     {
       "id": "insects_004",
@@ -104,7 +104,7 @@
         "insects_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_004_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_004_nonogram_pixel.jpg"
     },
     {
       "id": "insects_005",
@@ -125,7 +125,7 @@
         "insects_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_005_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_005_nonogram_pixel.jpg"
     },
     {
       "id": "insects_006",
@@ -146,7 +146,7 @@
         "insects_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_006_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_006_nonogram_pixel.jpg"
     },
     {
       "id": "insects_007",
@@ -167,7 +167,7 @@
         "insects_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_007_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_007_nonogram_pixel.jpg"
     },
     {
       "id": "insects_008",
@@ -188,7 +188,7 @@
         "insects_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_008_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_008_nonogram_pixel.jpg"
     },
     {
       "id": "insects_009",
@@ -209,7 +209,7 @@
         "insects_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_009_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_009_nonogram_pixel.jpg"
     },
     {
       "id": "insects_010",
@@ -230,7 +230,7 @@
         "insects_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_010_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_010_nonogram_pixel.jpg"
     },
     {
       "id": "insects_011",
@@ -251,7 +251,7 @@
         "insects_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_011_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_011_nonogram_pixel.jpg"
     },
     {
       "id": "insects_012",
@@ -272,7 +272,7 @@
         "insects_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_012_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_012_nonogram_pixel.jpg"
     },
     {
       "id": "insects_013",
@@ -293,7 +293,7 @@
         "insects_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_013_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_013_nonogram_pixel.jpg"
     },
     {
       "id": "insects_014",
@@ -314,7 +314,7 @@
         "insects_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_014_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_014_nonogram_pixel.jpg"
     },
     {
       "id": "insects_015",
@@ -335,7 +335,7 @@
         "insects_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_015_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_015_nonogram_pixel.jpg"
     },
     {
       "id": "insects_016",
@@ -356,7 +356,7 @@
         "insects_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_016_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_016_nonogram_pixel.jpg"
     },
     {
       "id": "insects_017",
@@ -377,7 +377,7 @@
         "insects_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_017_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_017_nonogram_pixel.jpg"
     },
     {
       "id": "insects_018",
@@ -398,7 +398,7 @@
         "insects_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_018_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_018_nonogram_pixel.jpg"
     },
     {
       "id": "insects_019",
@@ -419,7 +419,7 @@
         "insects_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_019_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_019_nonogram_pixel.jpg"
     },
     {
       "id": "insects_020",
@@ -440,7 +440,7 @@
         "insects_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_020_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_020_nonogram_pixel.jpg"
     },
     {
       "id": "insects_021",
@@ -461,7 +461,7 @@
         "insects_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_021_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_021_nonogram_pixel.jpg"
     },
     {
       "id": "insects_022",
@@ -482,7 +482,7 @@
         "insects_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_022_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_022_nonogram_pixel.jpg"
     },
     {
       "id": "insects_023",
@@ -503,7 +503,7 @@
         "insects_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_023_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_023_nonogram_pixel.jpg"
     },
     {
       "id": "insects_024",
@@ -524,7 +524,7 @@
         "insects_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_024_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_024_nonogram_pixel.jpg"
     },
     {
       "id": "insects_025",
@@ -545,7 +545,7 @@
         "insects_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_025_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_025_nonogram_pixel.jpg"
     },
     {
       "id": "insects_026",
@@ -566,7 +566,7 @@
         "insects_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_026_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_026_nonogram_pixel.jpg"
     },
     {
       "id": "insects_027",
@@ -587,7 +587,7 @@
         "insects_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_027_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_027_nonogram_pixel.jpg"
     },
     {
       "id": "insects_028",
@@ -608,7 +608,7 @@
         "insects_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_028_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_028_nonogram_pixel.jpg"
     },
     {
       "id": "insects_029",
@@ -629,7 +629,7 @@
         "insects_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_029_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_029_nonogram_pixel.jpg"
     },
     {
       "id": "insects_030",
@@ -650,7 +650,7 @@
         "insects_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_030_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_030_nonogram_pixel.jpg"
     },
     {
       "id": "insects_031",
@@ -671,7 +671,7 @@
         "insects_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_031_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_031_nonogram_pixel.jpg"
     },
     {
       "id": "insects_032",
@@ -692,7 +692,7 @@
         "insects_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_032_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_032_nonogram_pixel.jpg"
     },
     {
       "id": "insects_033",
@@ -713,7 +713,7 @@
         "insects_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_033_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_033_nonogram_pixel.jpg"
     },
     {
       "id": "insects_034",
@@ -734,7 +734,7 @@
         "insects_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_034_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_034_nonogram_pixel.jpg"
     },
     {
       "id": "insects_035",
@@ -755,7 +755,7 @@
         "insects_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_035_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_035_nonogram_pixel.jpg"
     },
     {
       "id": "insects_036",
@@ -776,7 +776,7 @@
         "insects_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_036_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_036_nonogram_pixel.jpg"
     },
     {
       "id": "insects_037",
@@ -797,7 +797,7 @@
         "insects_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_037_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_037_nonogram_pixel.jpg"
     },
     {
       "id": "insects_038",
@@ -818,7 +818,7 @@
         "insects_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_038_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_038_nonogram_pixel.jpg"
     },
     {
       "id": "insects_039",
@@ -839,7 +839,7 @@
         "insects_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_039_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_039_nonogram_pixel.jpg"
     },
     {
       "id": "insects_040",
@@ -860,7 +860,7 @@
         "insects_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_040_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_040_nonogram_pixel.jpg"
     },
     {
       "id": "insects_041",
@@ -881,7 +881,7 @@
         "insects_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_041_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_041_nonogram_pixel.jpg"
     },
     {
       "id": "insects_042",
@@ -902,7 +902,7 @@
         "insects_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_042_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_042_nonogram_pixel.jpg"
     },
     {
       "id": "insects_043",
@@ -923,7 +923,7 @@
         "insects_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_043_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_043_nonogram_pixel.jpg"
     },
     {
       "id": "insects_044",
@@ -944,7 +944,7 @@
         "insects_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_044_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_044_nonogram_pixel.jpg"
     },
     {
       "id": "insects_045",
@@ -965,7 +965,7 @@
         "insects_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_045_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_045_nonogram_pixel.jpg"
     },
     {
       "id": "insects_046",
@@ -986,7 +986,7 @@
         "insects_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_046_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_046_nonogram_pixel.jpg"
     },
     {
       "id": "insects_047",
@@ -1007,7 +1007,7 @@
         "insects_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_047_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_047_nonogram_pixel.jpg"
     },
     {
       "id": "insects_048",
@@ -1028,7 +1028,7 @@
         "insects_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_048_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_048_nonogram_pixel.jpg"
     },
     {
       "id": "insects_049",
@@ -1049,7 +1049,7 @@
         "insects_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_049_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_049_nonogram_pixel.jpg"
     },
     {
       "id": "insects_050",
@@ -1070,7 +1070,7 @@
         "insects_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_050_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_050_nonogram_pixel.jpg"
     },
     {
       "id": "insects_051",
@@ -1091,7 +1091,7 @@
         "insects_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_051_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_051_nonogram_pixel.jpg"
     },
     {
       "id": "insects_052",
@@ -1112,7 +1112,7 @@
         "insects_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_052_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_052_nonogram_pixel.jpg"
     },
     {
       "id": "insects_053",
@@ -1133,7 +1133,7 @@
         "insects_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_053_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_053_nonogram_pixel.jpg"
     },
     {
       "id": "insects_054",
@@ -1154,7 +1154,7 @@
         "insects_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_054_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_054_nonogram_pixel.jpg"
     },
     {
       "id": "insects_055",
@@ -1175,7 +1175,7 @@
         "insects_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_055_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_055_nonogram_pixel.jpg"
     },
     {
       "id": "insects_056",
@@ -1196,7 +1196,7 @@
         "insects_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_056_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_056_nonogram_pixel.jpg"
     },
     {
       "id": "insects_057",
@@ -1217,7 +1217,7 @@
         "insects_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_057_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_057_nonogram_pixel.jpg"
     },
     {
       "id": "insects_058",
@@ -1238,7 +1238,7 @@
         "insects_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_058_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_058_nonogram_pixel.jpg"
     },
     {
       "id": "insects_059",
@@ -1259,7 +1259,7 @@
         "insects_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_059_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_059_nonogram_pixel.jpg"
     },
     {
       "id": "insects_060",
@@ -1280,7 +1280,7 @@
         "insects_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_060_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_060_nonogram_pixel.jpg"
     },
     {
       "id": "insects_061",
@@ -1301,7 +1301,7 @@
         "insects_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_061_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_061_nonogram_pixel.jpg"
     },
     {
       "id": "insects_062",
@@ -1322,7 +1322,7 @@
         "insects_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_062_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_062_nonogram_pixel.jpg"
     },
     {
       "id": "insects_063",
@@ -1343,7 +1343,7 @@
         "insects_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_063_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_063_nonogram_pixel.jpg"
     },
     {
       "id": "insects_064",
@@ -1364,7 +1364,7 @@
         "insects_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_064_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_064_nonogram_pixel.jpg"
     },
     {
       "id": "insects_065",
@@ -1385,7 +1385,7 @@
         "insects_065_5"
       ],
       "order": 65,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_065_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_065_nonogram_pixel.jpg"
     },
     {
       "id": "insects_066",
@@ -1406,7 +1406,7 @@
         "insects_066_5"
       ],
       "order": 66,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_066_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_066_nonogram_pixel.jpg"
     },
     {
       "id": "insects_067",
@@ -1427,7 +1427,7 @@
         "insects_067_5"
       ],
       "order": 67,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_067_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_067_nonogram_pixel.jpg"
     },
     {
       "id": "insects_068",
@@ -1448,7 +1448,7 @@
         "insects_068_5"
       ],
       "order": 68,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_068_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_068_nonogram_pixel.jpg"
     },
     {
       "id": "insects_069",
@@ -1469,7 +1469,7 @@
         "insects_069_5"
       ],
       "order": 69,
-      "pixel_image": "res://assets/images/illustrations/insects/insects_069_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/insects/insects_069_nonogram_pixel.jpg"
     }
   ]
 }

@@ -1,4 +1,4 @@
-{
+﻿{
   "album_id": "paleontology",
   "pictures": [
     {
@@ -20,7 +20,7 @@
         "paleontology_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_000_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_000_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_001",
@@ -41,7 +41,7 @@
         "paleontology_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_001_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_001_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_002",
@@ -62,7 +62,7 @@
         "paleontology_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_002_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_002_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_003",
@@ -83,7 +83,7 @@
         "paleontology_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_003_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_003_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_004",
@@ -104,7 +104,7 @@
         "paleontology_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_004_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_004_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_005",
@@ -125,7 +125,7 @@
         "paleontology_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_005_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_005_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_006",
@@ -146,7 +146,7 @@
         "paleontology_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_006_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_006_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_007",
@@ -167,7 +167,7 @@
         "paleontology_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_007_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_007_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_008",
@@ -188,7 +188,7 @@
         "paleontology_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_008_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_008_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_009",
@@ -209,7 +209,7 @@
         "paleontology_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_009_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_009_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_010",
@@ -230,7 +230,7 @@
         "paleontology_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_010_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_010_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_011",
@@ -251,7 +251,7 @@
         "paleontology_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_011_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_011_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_012",
@@ -272,7 +272,7 @@
         "paleontology_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_012_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_012_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_013",
@@ -293,7 +293,7 @@
         "paleontology_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_013_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_013_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_014",
@@ -314,7 +314,7 @@
         "paleontology_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_014_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_014_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_015",
@@ -335,7 +335,7 @@
         "paleontology_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_015_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_015_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_016",
@@ -356,7 +356,7 @@
         "paleontology_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_016_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_016_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_017",
@@ -377,7 +377,7 @@
         "paleontology_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_017_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_017_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_018",
@@ -398,7 +398,7 @@
         "paleontology_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_018_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_018_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_019",
@@ -419,7 +419,7 @@
         "paleontology_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_019_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_019_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_020",
@@ -440,7 +440,7 @@
         "paleontology_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_020_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_020_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_021",
@@ -461,7 +461,7 @@
         "paleontology_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_021_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_021_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_022",
@@ -482,7 +482,7 @@
         "paleontology_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_022_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_022_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_023",
@@ -503,7 +503,7 @@
         "paleontology_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_023_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_023_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_024",
@@ -524,7 +524,7 @@
         "paleontology_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_024_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_024_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_025",
@@ -545,7 +545,7 @@
         "paleontology_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_025_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_025_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_026",
@@ -566,7 +566,7 @@
         "paleontology_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_026_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_026_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_027",
@@ -587,7 +587,7 @@
         "paleontology_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_027_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_027_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_028",
@@ -608,7 +608,7 @@
         "paleontology_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_028_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_028_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_029",
@@ -629,7 +629,7 @@
         "paleontology_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_029_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_029_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_030",
@@ -650,7 +650,7 @@
         "paleontology_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_030_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_030_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_031",
@@ -671,7 +671,7 @@
         "paleontology_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_031_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_031_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_032",
@@ -692,7 +692,7 @@
         "paleontology_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_032_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_032_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_033",
@@ -713,7 +713,7 @@
         "paleontology_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_033_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_033_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_034",
@@ -734,7 +734,7 @@
         "paleontology_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_034_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_034_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_035",
@@ -755,7 +755,7 @@
         "paleontology_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_035_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_035_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_036",
@@ -776,7 +776,7 @@
         "paleontology_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_036_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_036_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_037",
@@ -797,7 +797,7 @@
         "paleontology_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_037_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_037_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_038",
@@ -818,7 +818,7 @@
         "paleontology_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_038_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_038_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_039",
@@ -839,7 +839,7 @@
         "paleontology_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_039_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_039_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_040",
@@ -860,7 +860,7 @@
         "paleontology_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_040_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_040_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_041",
@@ -881,7 +881,7 @@
         "paleontology_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_041_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_041_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_042",
@@ -902,7 +902,7 @@
         "paleontology_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_042_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_042_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_043",
@@ -923,7 +923,7 @@
         "paleontology_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_043_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_043_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_044",
@@ -944,7 +944,7 @@
         "paleontology_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_044_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_044_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_045",
@@ -965,7 +965,7 @@
         "paleontology_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_045_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_045_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_046",
@@ -986,7 +986,7 @@
         "paleontology_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_046_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_046_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_047",
@@ -1007,7 +1007,7 @@
         "paleontology_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_047_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_047_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_048",
@@ -1028,7 +1028,7 @@
         "paleontology_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_048_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_048_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_049",
@@ -1049,7 +1049,7 @@
         "paleontology_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_049_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_049_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_050",
@@ -1070,7 +1070,7 @@
         "paleontology_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_050_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_050_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_051",
@@ -1091,7 +1091,7 @@
         "paleontology_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_051_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_051_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_052",
@@ -1112,7 +1112,7 @@
         "paleontology_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_052_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_052_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_053",
@@ -1133,7 +1133,7 @@
         "paleontology_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_053_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_053_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_054",
@@ -1154,7 +1154,7 @@
         "paleontology_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_054_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_054_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_055",
@@ -1175,7 +1175,7 @@
         "paleontology_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_055_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_055_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_056",
@@ -1196,7 +1196,7 @@
         "paleontology_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_056_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_056_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_057",
@@ -1217,7 +1217,7 @@
         "paleontology_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_057_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_057_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_058",
@@ -1238,7 +1238,7 @@
         "paleontology_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_058_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_058_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_059",
@@ -1259,7 +1259,7 @@
         "paleontology_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_059_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_059_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_060",
@@ -1280,7 +1280,7 @@
         "paleontology_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_060_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_060_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_061",
@@ -1301,7 +1301,7 @@
         "paleontology_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_061_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_061_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_062",
@@ -1322,7 +1322,7 @@
         "paleontology_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_062_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_062_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_063",
@@ -1343,7 +1343,7 @@
         "paleontology_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_063_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_063_nonogram_pixel.jpg"
     },
     {
       "id": "paleontology_064",
@@ -1364,7 +1364,7 @@
         "paleontology_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_064_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/paleontology/paleontology_064_nonogram_pixel.jpg"
     }
   ]
 }

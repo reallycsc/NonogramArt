@@ -1,4 +1,4 @@
-{
+﻿{
   "album_id": "fungi",
   "pictures": [
     {
@@ -20,7 +20,7 @@
         "fungi_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_000_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_000_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_001",
@@ -41,7 +41,7 @@
         "fungi_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_001_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_001_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_002",
@@ -62,7 +62,7 @@
         "fungi_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_002_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_002_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_003",
@@ -83,7 +83,7 @@
         "fungi_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_003_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_003_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_004",
@@ -104,7 +104,7 @@
         "fungi_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_004_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_004_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_005",
@@ -125,7 +125,7 @@
         "fungi_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_005_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_005_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_006",
@@ -146,7 +146,7 @@
         "fungi_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_006_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_006_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_007",
@@ -167,7 +167,7 @@
         "fungi_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_007_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_007_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_008",
@@ -188,7 +188,7 @@
         "fungi_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_008_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_008_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_009",
@@ -209,7 +209,7 @@
         "fungi_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_009_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_009_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_010",
@@ -230,7 +230,7 @@
         "fungi_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_010_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_010_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_011",
@@ -251,7 +251,7 @@
         "fungi_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_011_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_011_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_012",
@@ -272,7 +272,7 @@
         "fungi_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_012_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_012_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_013",
@@ -293,7 +293,7 @@
         "fungi_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_013_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_013_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_014",
@@ -314,7 +314,7 @@
         "fungi_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_014_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_014_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_015",
@@ -335,7 +335,7 @@
         "fungi_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_015_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_015_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_016",
@@ -356,7 +356,7 @@
         "fungi_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_016_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_016_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_017",
@@ -377,7 +377,7 @@
         "fungi_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_017_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_017_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_018",
@@ -398,7 +398,7 @@
         "fungi_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_018_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_018_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_019",
@@ -419,7 +419,7 @@
         "fungi_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_019_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_019_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_020",
@@ -440,7 +440,7 @@
         "fungi_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_020_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_020_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_021",
@@ -461,7 +461,7 @@
         "fungi_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_021_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_021_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_022",
@@ -482,7 +482,7 @@
         "fungi_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_022_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_022_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_023",
@@ -503,7 +503,7 @@
         "fungi_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_023_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_023_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_024",
@@ -524,7 +524,7 @@
         "fungi_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_024_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_024_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_025",
@@ -545,7 +545,7 @@
         "fungi_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_025_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_025_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_026",
@@ -566,7 +566,7 @@
         "fungi_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_026_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_026_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_027",
@@ -587,7 +587,7 @@
         "fungi_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_027_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_027_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_028",
@@ -608,7 +608,7 @@
         "fungi_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_028_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_028_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_029",
@@ -629,7 +629,7 @@
         "fungi_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_029_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_029_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_030",
@@ -650,7 +650,7 @@
         "fungi_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_030_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_030_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_031",
@@ -671,7 +671,7 @@
         "fungi_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_031_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_031_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_032",
@@ -692,7 +692,7 @@
         "fungi_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_032_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_032_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_033",
@@ -713,7 +713,7 @@
         "fungi_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_033_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_033_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_034",
@@ -734,7 +734,7 @@
         "fungi_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_034_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_034_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_035",
@@ -755,7 +755,7 @@
         "fungi_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_035_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_035_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_036",
@@ -776,7 +776,7 @@
         "fungi_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_036_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_036_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_037",
@@ -797,7 +797,7 @@
         "fungi_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_037_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_037_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_038",
@@ -818,7 +818,7 @@
         "fungi_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_038_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_038_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_039",
@@ -839,7 +839,7 @@
         "fungi_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_039_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_039_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_040",
@@ -860,7 +860,7 @@
         "fungi_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_040_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_040_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_041",
@@ -881,7 +881,7 @@
         "fungi_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_041_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_041_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_042",
@@ -902,7 +902,7 @@
         "fungi_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_042_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_042_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_043",
@@ -923,7 +923,7 @@
         "fungi_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_043_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_043_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_044",
@@ -944,7 +944,7 @@
         "fungi_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_044_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_044_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_045",
@@ -965,7 +965,7 @@
         "fungi_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_045_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_045_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_046",
@@ -986,7 +986,7 @@
         "fungi_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_046_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_046_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_047",
@@ -1007,7 +1007,7 @@
         "fungi_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_047_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_047_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_048",
@@ -1028,7 +1028,7 @@
         "fungi_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_048_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_048_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_049",
@@ -1049,7 +1049,7 @@
         "fungi_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_049_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_049_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_050",
@@ -1070,7 +1070,7 @@
         "fungi_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_050_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_050_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_051",
@@ -1091,7 +1091,7 @@
         "fungi_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_051_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_051_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_052",
@@ -1112,7 +1112,7 @@
         "fungi_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_052_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_052_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_053",
@@ -1133,7 +1133,7 @@
         "fungi_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_053_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_053_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_054",
@@ -1154,7 +1154,7 @@
         "fungi_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_054_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_054_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_055",
@@ -1175,7 +1175,7 @@
         "fungi_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_055_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_055_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_056",
@@ -1196,7 +1196,7 @@
         "fungi_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_056_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_056_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_057",
@@ -1217,7 +1217,7 @@
         "fungi_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_057_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_057_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_058",
@@ -1238,7 +1238,7 @@
         "fungi_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_058_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_058_nonogram_pixel.jpg"
     },
     {
       "id": "fungi_059",
@@ -1259,7 +1259,7 @@
         "fungi_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/fungi/fungi_059_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fungi/fungi_059_nonogram_pixel.jpg"
     }
   ]
 }

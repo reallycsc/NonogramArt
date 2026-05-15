@@ -1,4 +1,4 @@
-{
+﻿{
   "album_id": "plains_basins",
   "pictures": [
     {
@@ -20,7 +20,7 @@
         "plains_basins_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_000_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_000_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_001",
@@ -41,7 +41,7 @@
         "plains_basins_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_001_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_001_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_002",
@@ -62,7 +62,7 @@
         "plains_basins_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_002_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_002_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_003",
@@ -83,7 +83,7 @@
         "plains_basins_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_003_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_003_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_004",
@@ -104,7 +104,7 @@
         "plains_basins_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_004_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_004_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_005",
@@ -125,7 +125,7 @@
         "plains_basins_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_005_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_005_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_006",
@@ -146,7 +146,7 @@
         "plains_basins_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_006_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_006_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_007",
@@ -167,7 +167,7 @@
         "plains_basins_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_007_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_007_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_008",
@@ -188,7 +188,7 @@
         "plains_basins_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_008_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_008_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_009",
@@ -209,7 +209,7 @@
         "plains_basins_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_009_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_009_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_010",
@@ -230,7 +230,7 @@
         "plains_basins_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_010_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_010_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_011",
@@ -251,7 +251,7 @@
         "plains_basins_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_011_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_011_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_012",
@@ -272,7 +272,7 @@
         "plains_basins_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_012_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_012_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_013",
@@ -293,7 +293,7 @@
         "plains_basins_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_013_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_013_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_014",
@@ -314,7 +314,7 @@
         "plains_basins_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_014_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_014_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_015",
@@ -335,7 +335,7 @@
         "plains_basins_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_015_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_015_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_016",
@@ -356,7 +356,7 @@
         "plains_basins_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_016_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_016_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_017",
@@ -377,7 +377,7 @@
         "plains_basins_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_017_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_017_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_018",
@@ -398,7 +398,7 @@
         "plains_basins_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_018_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_018_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_019",
@@ -419,7 +419,7 @@
         "plains_basins_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_019_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_019_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_020",
@@ -440,7 +440,7 @@
         "plains_basins_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_020_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_020_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_021",
@@ -461,7 +461,7 @@
         "plains_basins_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_021_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_021_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_022",
@@ -482,7 +482,7 @@
         "plains_basins_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_022_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_022_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_023",
@@ -503,7 +503,7 @@
         "plains_basins_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_023_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_023_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_024",
@@ -524,7 +524,7 @@
         "plains_basins_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_024_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_024_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_025",
@@ -545,7 +545,7 @@
         "plains_basins_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_025_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_025_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_026",
@@ -566,7 +566,7 @@
         "plains_basins_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_026_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_026_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_027",
@@ -587,7 +587,7 @@
         "plains_basins_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_027_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_027_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_028",
@@ -608,7 +608,7 @@
         "plains_basins_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_028_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_028_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_029",
@@ -629,7 +629,7 @@
         "plains_basins_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_029_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_029_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_030",
@@ -650,7 +650,7 @@
         "plains_basins_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_030_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_030_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_031",
@@ -671,7 +671,7 @@
         "plains_basins_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_031_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_031_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_032",
@@ -692,7 +692,7 @@
         "plains_basins_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_032_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_032_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_033",
@@ -713,7 +713,7 @@
         "plains_basins_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_033_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_033_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_034",
@@ -734,7 +734,7 @@
         "plains_basins_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_034_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_034_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_035",
@@ -755,7 +755,7 @@
         "plains_basins_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_035_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_035_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_036",
@@ -776,7 +776,7 @@
         "plains_basins_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_036_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_036_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_037",
@@ -797,7 +797,7 @@
         "plains_basins_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_037_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_037_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_038",
@@ -818,7 +818,7 @@
         "plains_basins_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_038_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_038_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_039",
@@ -839,7 +839,7 @@
         "plains_basins_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_039_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_039_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_040",
@@ -860,7 +860,7 @@
         "plains_basins_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_040_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_040_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_041",
@@ -881,7 +881,7 @@
         "plains_basins_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_041_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_041_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_042",
@@ -902,7 +902,7 @@
         "plains_basins_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_042_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_042_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_043",
@@ -923,7 +923,7 @@
         "plains_basins_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_043_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_043_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_044",
@@ -944,7 +944,7 @@
         "plains_basins_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_044_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_044_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_045",
@@ -965,7 +965,7 @@
         "plains_basins_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_045_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_045_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_046",
@@ -986,7 +986,7 @@
         "plains_basins_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_046_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_046_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_047",
@@ -1007,7 +1007,7 @@
         "plains_basins_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_047_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_047_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_048",
@@ -1028,7 +1028,7 @@
         "plains_basins_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_048_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_048_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_049",
@@ -1049,7 +1049,7 @@
         "plains_basins_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_049_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_049_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_050",
@@ -1070,7 +1070,7 @@
         "plains_basins_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_050_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_050_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_051",
@@ -1091,7 +1091,7 @@
         "plains_basins_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_051_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_051_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_052",
@@ -1112,7 +1112,7 @@
         "plains_basins_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_052_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_052_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_053",
@@ -1133,7 +1133,7 @@
         "plains_basins_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_053_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_053_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_054",
@@ -1154,7 +1154,7 @@
         "plains_basins_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_054_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_054_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_055",
@@ -1175,7 +1175,7 @@
         "plains_basins_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_055_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_055_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_056",
@@ -1196,7 +1196,7 @@
         "plains_basins_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_056_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_056_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_057",
@@ -1217,7 +1217,7 @@
         "plains_basins_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_057_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_057_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_058",
@@ -1238,7 +1238,7 @@
         "plains_basins_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_058_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_058_nonogram_pixel.jpg"
     },
     {
       "id": "plains_basins_059",
@@ -1259,7 +1259,7 @@
         "plains_basins_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_059_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/plains_basins/plains_basins_059_nonogram_pixel.jpg"
     }
   ]
 }

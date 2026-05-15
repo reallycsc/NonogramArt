@@ -1,4 +1,4 @@
-{
+﻿{
   "album_id": "flowers",
   "pictures": [
     {
@@ -20,7 +20,7 @@
         "flowers_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_000_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_000_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_001",
@@ -41,7 +41,7 @@
         "flowers_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_001_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_001_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_002",
@@ -62,7 +62,7 @@
         "flowers_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_002_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_002_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_003",
@@ -83,7 +83,7 @@
         "flowers_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_003_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_003_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_004",
@@ -104,7 +104,7 @@
         "flowers_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_004_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_004_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_005",
@@ -125,7 +125,7 @@
         "flowers_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_005_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_005_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_006",
@@ -146,7 +146,7 @@
         "flowers_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_006_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_006_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_007",
@@ -167,7 +167,7 @@
         "flowers_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_007_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_007_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_008",
@@ -188,7 +188,7 @@
         "flowers_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_008_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_008_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_009",
@@ -209,7 +209,7 @@
         "flowers_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_009_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_009_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_010",
@@ -230,7 +230,7 @@
         "flowers_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_010_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_010_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_011",
@@ -251,7 +251,7 @@
         "flowers_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_011_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_011_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_012",
@@ -272,7 +272,7 @@
         "flowers_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_012_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_012_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_013",
@@ -293,7 +293,7 @@
         "flowers_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_013_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_013_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_014",
@@ -314,7 +314,7 @@
         "flowers_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_014_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_014_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_015",
@@ -335,7 +335,7 @@
         "flowers_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_015_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_015_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_016",
@@ -356,7 +356,7 @@
         "flowers_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_016_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_016_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_017",
@@ -377,7 +377,7 @@
         "flowers_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_017_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_017_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_018",
@@ -398,7 +398,7 @@
         "flowers_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_018_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_018_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_019",
@@ -419,7 +419,7 @@
         "flowers_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_019_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_019_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_020",
@@ -440,7 +440,7 @@
         "flowers_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_020_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_020_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_021",
@@ -461,7 +461,7 @@
         "flowers_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_021_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_021_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_022",
@@ -482,7 +482,7 @@
         "flowers_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_022_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_022_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_023",
@@ -503,7 +503,7 @@
         "flowers_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_023_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_023_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_024",
@@ -524,7 +524,7 @@
         "flowers_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_024_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_024_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_025",
@@ -545,7 +545,7 @@
         "flowers_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_025_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_025_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_026",
@@ -566,7 +566,7 @@
         "flowers_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_026_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_026_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_027",
@@ -587,7 +587,7 @@
         "flowers_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_027_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_027_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_028",
@@ -608,7 +608,7 @@
         "flowers_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_028_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_028_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_029",
@@ -629,7 +629,7 @@
         "flowers_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_029_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_029_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_030",
@@ -650,7 +650,7 @@
         "flowers_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_030_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_030_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_031",
@@ -671,7 +671,7 @@
         "flowers_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_031_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_031_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_032",
@@ -692,7 +692,7 @@
         "flowers_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_032_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_032_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_033",
@@ -713,7 +713,7 @@
         "flowers_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_033_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_033_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_034",
@@ -734,7 +734,7 @@
         "flowers_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_034_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_034_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_035",
@@ -755,7 +755,7 @@
         "flowers_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_035_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_035_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_036",
@@ -776,7 +776,7 @@
         "flowers_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_036_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_036_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_037",
@@ -797,7 +797,7 @@
         "flowers_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_037_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_037_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_038",
@@ -818,7 +818,7 @@
         "flowers_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_038_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_038_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_039",
@@ -839,7 +839,7 @@
         "flowers_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_039_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_039_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_040",
@@ -860,7 +860,7 @@
         "flowers_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_040_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_040_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_041",
@@ -881,7 +881,7 @@
         "flowers_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_041_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_041_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_042",
@@ -902,7 +902,7 @@
         "flowers_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_042_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_042_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_043",
@@ -923,7 +923,7 @@
         "flowers_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_043_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_043_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_044",
@@ -944,7 +944,7 @@
         "flowers_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_044_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_044_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_045",
@@ -965,7 +965,7 @@
         "flowers_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_045_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_045_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_046",
@@ -986,7 +986,7 @@
         "flowers_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_046_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_046_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_047",
@@ -1007,7 +1007,7 @@
         "flowers_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_047_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_047_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_048",
@@ -1028,7 +1028,7 @@
         "flowers_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_048_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_048_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_049",
@@ -1049,7 +1049,7 @@
         "flowers_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_049_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_049_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_050",
@@ -1070,7 +1070,7 @@
         "flowers_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_050_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_050_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_051",
@@ -1091,7 +1091,7 @@
         "flowers_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_051_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_051_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_052",
@@ -1112,7 +1112,7 @@
         "flowers_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_052_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_052_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_053",
@@ -1133,7 +1133,7 @@
         "flowers_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_053_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_053_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_054",
@@ -1154,7 +1154,7 @@
         "flowers_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_054_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_054_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_055",
@@ -1175,7 +1175,7 @@
         "flowers_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_055_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_055_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_056",
@@ -1196,7 +1196,7 @@
         "flowers_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_056_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_056_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_057",
@@ -1217,7 +1217,7 @@
         "flowers_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_057_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_057_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_058",
@@ -1238,7 +1238,7 @@
         "flowers_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_058_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_058_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_059",
@@ -1259,7 +1259,7 @@
         "flowers_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_059_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_059_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_060",
@@ -1280,7 +1280,7 @@
         "flowers_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_060_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_060_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_061",
@@ -1301,7 +1301,7 @@
         "flowers_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_061_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_061_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_062",
@@ -1322,7 +1322,7 @@
         "flowers_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_062_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_062_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_063",
@@ -1343,7 +1343,7 @@
         "flowers_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_063_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_063_nonogram_pixel.jpg"
     },
     {
       "id": "flowers_064",
@@ -1364,7 +1364,7 @@
         "flowers_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/flowers/flowers_064_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/flowers/flowers_064_nonogram_pixel.jpg"
     }
   ]
 }

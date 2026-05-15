@@ -49,14 +49,14 @@ func _handle_mouse_input(event: InputEvent) -> void:
 			_update_bounds()
 			position = position.clamp(minPosition, maxPosition)
 			target_position = target_position.clamp(minPosition, maxPosition)
-			if event.button_index == MOUSE_BUTTON_LEFT and event.ctrl_pressed:
+			if event.button_index == MOUSE_BUTTON_LEFT and Input.is_key_pressed(KEY_SPACE):
 				is_dragging = true
 				drag_start_position = event.position
 				get_viewport().set_input_as_handled()
 		else:
 			is_dragging = false
 	if event is InputEventMouseMotion and is_dragging:
-		if event.ctrl_pressed:
+		if Input.is_key_pressed(KEY_SPACE):
 			if (event.position - drag_start_position).length() > drag_threshold:
 				var drag_offset = (drag_start_position - event.position) * drag_sensitivity / zoom.x
 				target_position += drag_offset

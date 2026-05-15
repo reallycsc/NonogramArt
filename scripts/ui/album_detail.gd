@@ -64,9 +64,6 @@ var _preload_pending: bool = false
 var _swipe_start_pos: Vector2 = Vector2.ZERO
 var _swipe_min_distance: float = 50.0
 
-var _typewriter_tween: Tween = null
-var _typewriter_entries: Array = []
-
 const REGION_GAP: float = 0.0
 
 var _fullscreen_viewer: CanvasLayer = null
@@ -147,6 +144,7 @@ func _clear_page(title: Label, area: Control, text: Label, page_num: Label) -> v
 	title.text = ""
 	text.text = ""
 	page_num.text = ""
+	_stop_typewriter(area)
 	if area.has_meta("illustration_ctx"):
 		area.remove_meta("illustration_ctx")
 	var children = area.get_children()
@@ -161,27 +159,26 @@ func _load_picture(picture: Dictionary, title: Label, area: Control, text_label:
 
 	var full_text = picture.get("full_text", "")
 
-	if _typewriter_tween:
-		_typewriter_tween.kill()
-		_typewriter_tween = null
-	_typewriter_entries.clear()
+	_stop_typewriter(area)
 
 	if GameManager.is_picture_completed(pic_id):
 		var should_animate = GameManager.should_show_animation(pic_id)
 		if should_animate:
-			_typewriter_entries.append({
-				"label": title,
-				"full_text": title_text,
-				"gibberish": _generate_gibberish(title_text.length(), pic_id + "_title")
-			})
-			_typewriter_entries.append({
-				"label": text_label,
-				"full_text": full_text,
-				"gibberish": _generate_gibberish(full_text.length(), pic_id)
-			})
-			title.text = _typewriter_entries[0].gibberish
-			text_label.text = _typewriter_entries[1].gibberish
-			_start_typewriter_animation()
+			var entries = [
+				{
+					"label": title,
+					"full_text": title_text,
+					"gibberish": _generate_gibberish(title_text.length(), pic_id + "_title")
+				},
+				{
+					"label": text_label,
+					"full_text": full_text,
+					"gibberish": _generate_gibberish(full_text.length(), pic_id)
+				}
+			]
+			title.text = entries[0].gibberish
+			text_label.text = entries[1].gibberish
+			_start_typewriter_animation(area, entries)
 		else:
 			title.text = title_text
 			text_label.text = full_text
@@ -201,12 +198,20 @@ func _generate_gibberish(length: int, seed_str: String) -> String:
 		result += chars[state % chars.length()]
 	return result
 
-func _start_typewriter_animation() -> void:
-	if _typewriter_entries.is_empty():
+func _stop_typewriter(area: Control) -> void:
+	if area.has_meta("typewriter_tween"):
+		var old_tween: Tween = area.get_meta("typewriter_tween")
+		if old_tween and old_tween.is_valid():
+			old_tween.kill()
+		area.remove_meta("typewriter_tween")
+	area.remove_meta("typewriter_entries")
+
+func _start_typewriter_animation(area: Control, entries: Array) -> void:
+	if entries.is_empty():
 		return
 
 	var max_chars = 0
-	for entry in _typewriter_entries:
+	for entry in entries:
 		max_chars = max(max_chars, entry.full_text.length())
 	if max_chars == 0:
 		return
@@ -215,25 +220,27 @@ func _start_typewriter_animation() -> void:
 	var step_count = ceili(float(max_chars) / float(chars_per_step))
 	var step_duration = 0.06
 
-	if _typewriter_tween:
-		_typewriter_tween.kill()
-	_typewriter_tween = create_tween()
-
+	var tween = create_tween()
 	for step in range(step_count):
-		var start_idx = step * chars_per_step
-		var end_idx = min(start_idx + chars_per_step, max_chars)
-		_typewriter_tween.tween_callback(_typewriter_reveal_step.bind(end_idx))
-		_typewriter_tween.tween_interval(step_duration)
+		var end_idx = min(step * chars_per_step + chars_per_step, max_chars)
+		tween.tween_callback(_typewriter_reveal_step.bind(area, end_idx))
+		tween.tween_interval(step_duration)
 
-	_typewriter_tween.tween_callback(_on_typewriter_finished)
+	tween.tween_callback(_on_typewriter_finished.bind(area))
 
-func _typewriter_reveal_step(end_idx: int) -> void:
-	for entry in _typewriter_entries:
+	area.set_meta("typewriter_tween", tween)
+	area.set_meta("typewriter_entries", entries)
+
+func _typewriter_reveal_step(area: Control, end_idx: int) -> void:
+	if not area.has_meta("typewriter_entries"):
+		return
+	var entries: Array = area.get_meta("typewriter_entries")
+	for entry in entries:
 		var label = entry.label
 		if not is_instance_valid(label):
 			continue
-		var full = entry.full_text
-		var gib = entry.gibberish
+		var full: String = entry.full_text
+		var gib: String = entry.gibberish
 		if full.length() == 0:
 			continue
 		var result = ""
@@ -245,8 +252,11 @@ func _typewriter_reveal_step(end_idx: int) -> void:
 				result += gib[i]
 		label.text = result
 
-func _on_typewriter_finished() -> void:
-	for entry in _typewriter_entries:
+func _on_typewriter_finished(area: Control) -> void:
+	if not area.has_meta("typewriter_entries"):
+		return
+	var entries: Array = area.get_meta("typewriter_entries")
+	for entry in entries:
 		var label = entry.label
 		if is_instance_valid(label):
 			label.text = entry.full_text
@@ -314,7 +324,7 @@ func _build_illustration(area: Control, picture: Dictionary, picture_index: int)
 			img_h = illust_tex.get_height()
 
 		var base_path = img_path.get_basename()
-		var pixel_path = base_path + "_pixel.jpg"
+		var pixel_path = base_path + "_nonogram_pixel.jpg"
 		if ResourceLoader.exists(pixel_path):
 			var tex = ResourceLoader.load(pixel_path, "", ResourceLoader.CACHE_MODE_IGNORE)
 			if tex is Texture2D:
@@ -630,7 +640,7 @@ func _show_fullscreen_viewer(area: Control) -> void:
 
 	var overlay = ColorRect.new()
 	overlay.set_anchors_preset(Control.PRESET_FULL_RECT)
-	overlay.color = Color.BLACK
+	overlay.color = Color(0, 0, 0, 0)
 
 	var img_rect = TextureRect.new()
 	img_rect.set_anchors_preset(Control.PRESET_FULL_RECT)
@@ -648,8 +658,8 @@ func _show_fullscreen_viewer(area: Control) -> void:
 	back_btn.texture_hover = preload("res://assets/images/ui/back_button_hover.png")
 	back_btn.z_index = 10
 
-	canvas.add_child(overlay)
 	canvas.add_child(img_rect)
+	canvas.add_child(overlay)
 	canvas.add_child(back_btn)
 	add_child(canvas)
 
@@ -852,14 +862,14 @@ func _on_settings_pressed() -> void:
 func _on_left_button_pressed() -> void:
 	var step = _get_step()
 	if _current_picture_index > 0:
-		AudioManager.play_sfx("click")
+		#AudioManager.play_sfx("page_flip")
 		_current_picture_index = max(0, _current_picture_index - step)
 		_display_current_pages()
 
 func _on_right_button_pressed() -> void:
 	var step = _get_step()
 	if _current_picture_index < _pictures.size() - 1:
-		AudioManager.play_sfx("click")
+		#AudioManager.play_sfx("page_flip")
 		_current_picture_index = min(_pictures.size() - 1, _current_picture_index + step)
 		_display_current_pages()
 
@@ -966,7 +976,8 @@ func _schedule_preload_adjacent() -> void:
 	if _preload_pending:
 		return
 	_preload_pending = true
-	call_deferred("_do_preload_adjacent")
+	await get_tree().create_timer(0.1).timeout
+	_do_preload_adjacent()
 
 func _do_preload_adjacent() -> void:
 	_preload_pending = false
@@ -1018,7 +1029,7 @@ func _preload_picture_resources(picture: Dictionary) -> void:
 		return
 
 	var base_path = img_path.get_basename()
-	var pixel_path = base_path + "_pixel.jpg"
+	var pixel_path = base_path + "_nonogram_pixel.jpg"
 	if ResourceLoader.exists(pixel_path):
 		var tex = ResourceLoader.load(pixel_path, "", ResourceLoader.CACHE_MODE_IGNORE)
 		if tex is Texture2D:

@@ -12,10 +12,14 @@ var book_button_scene: PackedScene = preload("res://scenes/book_button.tscn")
 @onready var p_title: Label = $PortraitUI/Title
 @onready var p_vbox: VBoxContainer = $PortraitUI/VBoxContainer
 @onready var p_settings_popup: Control = $PortraitUI/CanvasLayer/SettingsPopup
+@onready var p_left_button: TextureButton = $PortraitUI/CanvasLayer/LeftButton
+@onready var p_right_button: TextureButton = $PortraitUI/CanvasLayer/RightButton
 
 @onready var l_title: Label = $LandscapeUI/Title
 @onready var l_vbox: VBoxContainer = $LandscapeUI/VBoxContainer
 @onready var l_settings_popup: Control = $LandscapeUI/CanvasLayer/SettingsPopup
+@onready var l_left_button: TextureButton = $LandscapeUI/CanvasLayer/LeftButton
+@onready var l_right_button: TextureButton = $LandscapeUI/CanvasLayer/RightButton
 
 var bookshelf_list: Array = []
 var current_bookshelf_index: int = 0
@@ -33,7 +37,7 @@ var _swipe_start_pos: Vector2 = Vector2.ZERO
 var _swipe_min_distance: float = 50.0
 
 func _ready() -> void:
-	bookshelf_list = BookshelfDataScript.get_bookshelf_list()
+	bookshelf_list = _filter_valid_bookshelves(BookshelfDataScript.get_bookshelf_list())
 	if GameManager.pending_bookshelf_id != "":
 		for i in range(bookshelf_list.size()):
 			if bookshelf_list[i]["id"] == GameManager.pending_bookshelf_id:
@@ -68,7 +72,7 @@ func _collect_row_containers() -> void:
 
 func _load_shelf() -> void:
 	if bookshelf_list.is_empty():
-		bookshelf_list = BookshelfDataScript.get_bookshelf_list()
+		bookshelf_list = _filter_valid_bookshelves(BookshelfDataScript.get_bookshelf_list())
 	if bookshelf_list.is_empty():
 		return
 	current_bookshelf_index = clamp(current_bookshelf_index, 0, bookshelf_list.size() - 1)
@@ -77,6 +81,7 @@ func _load_shelf() -> void:
 	p_title.text = bookshelf_data["name"]
 	l_title.text = bookshelf_data["name"]
 	current_albums = AlbumDataScript.load_albums(current_bookshelf_id)
+	_update_nav_buttons()
 	_display_albums()
 
 func _display_albums() -> void:
@@ -239,3 +244,21 @@ func _apply_orientation(orientation: int) -> void:
 	_collect_row_containers()
 	if not current_albums.is_empty():
 		_display_albums()
+
+func _filter_valid_bookshelves(shelves: Array) -> Array:
+	var result: Array = []
+	for shelf in shelves:
+		if not shelf is Dictionary or not shelf.has("id"):
+			continue
+		var shelf_id: String = shelf["id"]
+		var albums = AlbumDataScript.load_albums(shelf_id)
+		if not albums.is_empty():
+			result.append(shelf)
+	return result
+
+func _update_nav_buttons() -> void:
+	var show_nav = bookshelf_list.size() > 1
+	p_left_button.visible = show_nav
+	p_right_button.visible = show_nav
+	l_left_button.visible = show_nav
+	l_right_button.visible = show_nav

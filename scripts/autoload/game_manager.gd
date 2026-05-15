@@ -101,11 +101,15 @@ func preload_all_data() -> void:
 			preload_progress.emit(pct, 100, "加载相册数据... %d%%" % int(float(i + 1) / float(album_count) * 100))
 			await get_tree().process_frame
 
-	preload_progress.emit(65, 100, "计算完成度...")
-	_build_completion_cache()
+	preload_progress.emit(65, 100, "检查图片资源...")
+	AlbumDataScript.preload_album_images_check(album_ids)
 	await get_tree().process_frame
 
-	preload_progress.emit(75, 100, "生成图标...")
+	preload_progress.emit(70, 100, "计算完成度...")
+	await _build_completion_cache_async()
+	await get_tree().process_frame
+
+	preload_progress.emit(80, 100, "生成图标...")
 	_preload_album_icons(album_ids)
 	await get_tree().process_frame
 
@@ -247,6 +251,88 @@ func _generate_album_icon(a_id: String, album_colors: Dictionary) -> ImageTextur
 	return ImageTexture.create_from_image(icon)
 
 
+func _build_completion_cache_async() -> void:
+	if _completion_cache_valid:
+		return
+	_completion_cache_valid = true
+	_puzzle_to_album_map.clear()
+	_puzzle_to_picture_map.clear()
+	_picture_to_album_map.clear()
+	_album_puzzle_counts.clear()
+	_album_done_counts.clear()
+	_picture_puzzle_counts.clear()
+	_picture_done_counts.clear()
+	_album_completion_cache.clear()
+	_picture_completion_cache.clear()
+	_bookshelf_completion_cache.clear()
+	_total_completion_cache = -1.0
+
+	var bookshelves = BookshelfDataScript.get_bookshelf_list()
+	var valid_album_ids: Array = []
+	var batch_idx: int = 0
+
+	for bookshelf in bookshelves:
+		var bs_id: String = bookshelf["id"]
+		var albums = AlbumDataScript.load_albums(bs_id)
+		for album in albums:
+			valid_album_ids.append(album["id"])
+
+	for album_id in valid_album_ids:
+		var album_total: int = 0
+		var album_done: int = 0
+		var pictures = AlbumDataScript.load_pictures(album_id)
+		for picture in pictures:
+			var pic_id = picture.get("id", "")
+			_picture_to_album_map[pic_id] = album_id
+			var puzzles = picture.get("puzzles", [])
+			var pic_total: int = puzzles.size()
+			var pic_done: int = 0
+			for pid in puzzles:
+				_puzzle_to_album_map[pid] = album_id
+				_puzzle_to_picture_map[pid] = pic_id
+				if pid in completed_puzzles:
+					pic_done += 1
+			_picture_puzzle_counts[pic_id] = pic_total
+			_picture_done_counts[pic_id] = pic_done
+			if pic_total > 0:
+				_picture_completion_cache[pic_id] = float(pic_done) / float(pic_total)
+			else:
+				_picture_completion_cache[pic_id] = 0.0
+			album_total += pic_total
+			album_done += pic_done
+		_album_puzzle_counts[album_id] = album_total
+		_album_done_counts[album_id] = album_done
+		if album_total > 0:
+			_album_completion_cache[album_id] = float(album_done) / float(album_total)
+		else:
+			_album_completion_cache[album_id] = 0.0
+		batch_idx += 1
+		if batch_idx % 5 == 0:
+			await get_tree().process_frame
+
+	var grand_total: int = 0
+	var grand_done: int = 0
+	for bookshelf in bookshelves:
+		var bs_id: String = bookshelf["id"]
+		var bs_total: int = 0
+		var bs_done: int = 0
+		var albums = AlbumDataScript.load_albums(bs_id)
+		for album in albums:
+			var a_id: String = album["id"]
+			bs_total += _album_puzzle_counts.get(a_id, 0)
+			bs_done += _album_done_counts.get(a_id, 0)
+		if bs_total > 0:
+			_bookshelf_completion_cache[bs_id] = float(bs_done) / float(bs_total)
+		else:
+			_bookshelf_completion_cache[bs_id] = 0.0
+		grand_total += bs_total
+		grand_done += bs_done
+	if grand_total > 0:
+		_total_completion_cache = float(grand_done) / float(grand_total)
+	else:
+		_total_completion_cache = 0.0
+
+
 func _build_completion_cache() -> void:
 	if _completion_cache_valid:
 		return
@@ -263,8 +349,16 @@ func _build_completion_cache() -> void:
 	_bookshelf_completion_cache.clear()
 	_total_completion_cache = -1.0
 
-	var album_ids = AlbumDataScript.get_all_album_ids()
-	for album_id in album_ids:
+	var bookshelves = BookshelfDataScript.get_bookshelf_list()
+	var valid_album_ids: Array = []
+
+	for bookshelf in bookshelves:
+		var bs_id: String = bookshelf["id"]
+		var albums = AlbumDataScript.load_albums(bs_id)
+		for album in albums:
+			valid_album_ids.append(album["id"])
+
+	for album_id in valid_album_ids:
 		var album_total: int = 0
 		var album_done: int = 0
 		var pictures = AlbumDataScript.load_pictures(album_id)
@@ -294,7 +388,6 @@ func _build_completion_cache() -> void:
 		else:
 			_album_completion_cache[album_id] = 0.0
 
-	var bookshelves = BookshelfDataScript.get_bookshelf_list()
 	var grand_total: int = 0
 	var grand_done: int = 0
 	for bookshelf in bookshelves:

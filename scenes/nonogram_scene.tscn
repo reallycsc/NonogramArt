@@ -322,7 +322,7 @@ theme_override_font_sizes/font_size = 16
 text = "鼠标左键：填充 ■
 鼠标右键：标记 X
 鼠标滚轮：缩放画面
-鼠标左键+Ctrl：拖动画面"
+鼠标左键+空格：拖动画面"
 vertical_alignment = 1
 
 [node name="Label2" type="Label" parent="CanvasLayer/TipsNode2" unique_id=921499491]

@@ -427,8 +427,9 @@ C:\Python311\python.exe tools\generate_jimeng4_images.py credit
 | ----------- | ----------------------------------- |
 | Python 3.11 | 运行生成脚本，路径 `C:\Python311\python.exe` |
 | PIL/Pillow  | 图片处理                                |
-| 关卡脚本        | `tools/fix_all_dynamic.py`          |
-| 拼接脚本        | `tools/gen_nonogram_image.py`       |
+| 关卡脚本        | `tools/fix_all_dynamic_optimized.py` | 动态难度生成              |
+| 拼接脚本（黑白）    | `tools/gen_nonogram_image_unified.py` | 黑白拼接像素图            |
+| 拼接脚本（彩色）    | `tools/gen_color_nonogram_pixel.py`  | 彩色拼接像素图            |
 
 #### 完整算法流程
 
@@ -475,6 +476,74 @@ C:\Python311\python.exe tools\generate_jimeng4_images.py credit
     │
     ▼
 关卡JSON文件
+    │
+    ▼
+8. 数织拼接像素图生成
+    │  读取6个关卡的 solution 网格
+    │  按 image_grid(3×2) 排列拼接
+    │  拼接成完整数织像素图
+    │
+    ▼
+9. 彩色数织像素图生成（可选）
+    │  从原像素图提取每个格子的颜色
+    │  生成带原始色彩的数织解图
+    │
+    ▼
+完整生产结果
+```
+
+### 动态难度设计
+
+#### 设计原则
+
+同一张图片的6个分块根据内容复杂度分配不同难度。内容复杂的区域使用更大的网格（更多细节），内容简单的区域使用更小的网格（更易完成）。
+
+#### 难度分配规则
+
+| 图片难度 | 低复杂度分块 | 中复杂度分块 | 高复杂度分块 |
+| -------- | ------------ | ------------ | ------------ |
+| 10×10 | 5×5 | 5×5 | 10×10 |
+| 15×15 | 5×5 | 10×10 | 15×15 |
+| 20×20 | 10×10 | 15×15 | 20×20 |
+| 25×25 | 15×15 | 20×20 | 25×25 |
+
+#### 复杂度计算 (analyze_block_complexity)
+
+```python
+def analyze_block_complexity(pixel_img, grid_x, grid_y, block_index, sample_size=20):
+    # 1. 提取分块区域
+    # 2. 采样像素计算：
+    #    - 像素多样性：unique_pixels / total_pixels
+    #    - 亮度方差：brightness_variance / 1000
+    #    - 边缘密度：edge_density
+    # 3. 综合复杂度 = 多样性×0.4 + 方差×0.3 + 边缘×0.3
+```
+
+#### 动态难度分配流程
+
+```
+图片像素图
+    │
+    ▼
+1. 计算6个分块的复杂度
+    │  analyze_block_complexity() 采样分析
+    │
+    ▼
+2. 按复杂度排序（低→高）
+    │  得到分块索引的排序
+    │
+    ▼
+3. 分配难度
+    │  根据图片最大难度 + 难度分配规则
+    │  生成6个关卡的大小列表
+    │
+    ▼
+4. 按分块复杂度排序分配
+    │  最简单的分块 → 最小难度
+    │  最复杂的分块 → 最大难度
+    │
+    ▼
+6个分块的不同难度
 ```
 
 #### 动态填充率计算
@@ -519,11 +588,14 @@ C:\Python311\python.exe tools\generate_jimeng4_images.py credit
 #### 运行命令
 
 ```powershell
-# 生成所有数织关卡（约5分钟）
-C:\Python311\python.exe -u tools\fix_all_dynamic.py
+# 步骤1：生成所有数织关卡（动态难度，约12分钟）
+C:\Python311\python.exe -u tools\fix_all_dynamic_optimized.py chinese_history
 
-# 生成所有数织拼接像素图（约30秒）
-C:\Python311\python.exe -u tools\gen_nonogram_image.py
+# 步骤2：生成所有数织拼接像素图（黑白，约30秒）
+C:\Python311\python.exe -u tools\gen_nonogram_image_unified.py chinese_history
+
+# 步骤3：生成所有彩色数织像素图（可选，约30秒）
+C:\Python311\python.exe -u tools\gen_color_nonogram_pixel.py chinese_history
 ```
 
 #### 输出格式

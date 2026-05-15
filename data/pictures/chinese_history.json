@@ -1,4 +1,4 @@
-{
+﻿{
   "album_id": "chinese_history",
   "pictures": [
     {
@@ -20,7 +20,7 @@
         "chapter1_01_yuanmou_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_01_yuanmou_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_01_yuanmou_nonogram_pixel.jpg"
     },
     {
       "id": "chapter1_02_beijing_ape",
@@ -41,7 +41,7 @@
         "chapter1_02_beijing_ape_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_02_beijing_ape_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_02_beijing_ape_nonogram_pixel.jpg"
     },
     {
       "id": "chapter1_03_shandingdong",
@@ -62,7 +62,7 @@
         "chapter1_03_shandingdong_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_03_shandingdong_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_03_shandingdong_nonogram_pixel.jpg"
     },
     {
       "id": "chapter1_04_hemudu",
@@ -83,7 +83,7 @@
         "chapter1_04_hemudu_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_04_hemudu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_04_hemudu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter1_05_yangshao",
@@ -104,7 +104,7 @@
         "chapter1_05_yangshao_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_05_yangshao_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_05_yangshao_nonogram_pixel.jpg"
     },
     {
       "id": "chapter1_06_liangzhu",
@@ -125,7 +125,7 @@
         "chapter1_06_liangzhu_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_06_liangzhu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_06_liangzhu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter1_07_huangdi",
@@ -146,7 +146,7 @@
         "chapter1_07_huangdi_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_07_huangdi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_07_huangdi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter1_08_dayu",
@@ -167,7 +167,7 @@
         "chapter1_08_dayu_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_08_dayu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_08_dayu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_09_xia_gongdian",
@@ -188,7 +188,7 @@
         "chapter2_09_xia_gongdian_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_09_xia_gongdian_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_09_xia_gongdian_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_10_erlitou",
@@ -209,7 +209,7 @@
         "chapter2_10_erlitou_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_10_erlitou_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_10_erlitou_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_11_jiaguwen",
@@ -230,7 +230,7 @@
         "chapter2_11_jiaguwen_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_11_jiaguwen_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_11_jiaguwen_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_12_simuwu",
@@ -251,7 +251,7 @@
         "chapter2_12_simuwu_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_12_simuwu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_12_simuwu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_13_qingtongqi",
@@ -272,7 +272,7 @@
         "chapter2_13_qingtongqi_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_13_qingtongqi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_13_qingtongqi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_14_wenwang",
@@ -293,7 +293,7 @@
         "chapter2_14_wenwang_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_14_wenwang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_14_wenwang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_15_wuwang",
@@ -314,7 +314,7 @@
         "chapter2_15_wuwang_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_15_wuwang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_15_wuwang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_16_zhougong",
@@ -335,7 +335,7 @@
         "chapter2_16_zhougong_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_16_zhougong_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_16_zhougong_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_17_wuba",
@@ -356,7 +356,7 @@
         "chapter2_17_wuba_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_17_wuba_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_17_wuba_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_18_kongzi",
@@ -377,7 +377,7 @@
         "chapter2_18_kongzi_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_18_kongzi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_18_kongzi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_19_laozi",
@@ -398,7 +398,7 @@
         "chapter2_19_laozi_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_19_laozi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_19_laozi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_20_sunzi",
@@ -419,7 +419,7 @@
         "chapter2_20_sunzi_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_20_sunzi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_20_sunzi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_21_shangyang",
@@ -440,7 +440,7 @@
         "chapter2_21_shangyang_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_21_shangyang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_21_shangyang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_22_quyuan",
@@ -461,7 +461,7 @@
         "chapter2_22_quyuan_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_22_quyuan_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_22_quyuan_nonogram_pixel.jpg"
     },
     {
       "id": "chapter2_23_jingke",
@@ -482,7 +482,7 @@
         "chapter2_23_jingke_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_23_jingke_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_23_jingke_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_24_qinshihuang",
@@ -503,7 +503,7 @@
         "chapter3_24_qinshihuang_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_24_qinshihuang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_24_qinshihuang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_25_changcheng",
@@ -524,7 +524,7 @@
         "chapter3_25_changcheng_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_25_changcheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_25_changcheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_26_bingmayong",
@@ -545,7 +545,7 @@
         "chapter3_26_bingmayong_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_26_bingmayong_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_26_bingmayong_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_27_chensheng",
@@ -566,7 +566,7 @@
         "chapter3_27_chensheng_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_27_chensheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_27_chensheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_28_chuhan",
@@ -587,7 +587,7 @@
         "chapter3_28_chuhan_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_28_chuhan_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_28_chuhan_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_29_liubang",
@@ -608,7 +608,7 @@
         "chapter3_29_liubang_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_29_liubang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_29_liubang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_30_zhangqian",
@@ -629,7 +629,7 @@
         "chapter3_30_zhangqian_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_30_zhangqian_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_30_zhangqian_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_31_hanwudi",
@@ -650,7 +650,7 @@
         "chapter3_31_hanwudi_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_31_hanwudi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_31_hanwudi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_32_huoqubing",
@@ -671,7 +671,7 @@
         "chapter3_32_huoqubing_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_32_huoqubing_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_32_huoqubing_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_33_simaqian",
@@ -692,7 +692,7 @@
         "chapter3_33_simaqian_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_33_simaqian_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_33_simaqian_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_34_zhaojun",
@@ -713,7 +713,7 @@
         "chapter3_34_zhaojun_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_34_zhaojun_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_34_zhaojun_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_35_wangmang",
@@ -734,7 +734,7 @@
         "chapter3_35_wangmang_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_35_wangmang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_35_wangmang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_36_guangwu",
@@ -755,7 +755,7 @@
         "chapter3_36_guangwu_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_36_guangwu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_36_guangwu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_37_cailun",
@@ -776,7 +776,7 @@
         "chapter3_37_cailun_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_37_cailun_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_37_cailun_nonogram_pixel.jpg"
     },
     {
       "id": "chapter3_38_zhangheng",
@@ -797,7 +797,7 @@
         "chapter3_38_zhangheng_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_38_zhangheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_38_zhangheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_39_taoyuan",
@@ -818,7 +818,7 @@
         "chapter4_39_taoyuan_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_39_taoyuan_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_39_taoyuan_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_40_guandu",
@@ -839,7 +839,7 @@
         "chapter4_40_guandu_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_40_guandu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_40_guandu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_41_chibi",
@@ -860,7 +860,7 @@
         "chapter4_41_chibi_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_41_chibi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_41_chibi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_42_zhugeliang",
@@ -881,7 +881,7 @@
         "chapter4_42_zhugeliang_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_42_zhugeliang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_42_zhugeliang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_43_simayi",
@@ -902,7 +902,7 @@
         "chapter4_43_simayi_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_43_simayi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_43_simayi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_44_wangxizhi",
@@ -923,7 +923,7 @@
         "chapter4_44_wangxizhi_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_44_wangxizhi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_44_wangxizhi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_45_gukaizhi",
@@ -944,7 +944,7 @@
         "chapter4_45_gukaizhi_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_45_gukaizhi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_45_gukaizhi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_46_taoyuanming",
@@ -965,7 +965,7 @@
         "chapter4_46_taoyuanming_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_46_taoyuanming_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_46_taoyuanming_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_47_xiaowendi",
@@ -986,7 +986,7 @@
         "chapter4_47_xiaowendi_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_47_xiaowendi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_47_xiaowendi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_48_longmen",
@@ -1007,7 +1007,7 @@
         "chapter4_48_longmen_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_48_longmen_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_48_longmen_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_49_zuchongzhi",
@@ -1028,7 +1028,7 @@
         "chapter4_49_zuchongzhi_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_49_zuchongzhi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_49_zuchongzhi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter4_50_feishui",
@@ -1049,7 +1049,7 @@
         "chapter4_50_feishui_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_50_feishui_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_50_feishui_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_51_suiwendi",
@@ -1070,7 +1070,7 @@
         "chapter5_51_suiwendi_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_51_suiwendi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_51_suiwendi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_52_yunhe",
@@ -1091,7 +1091,7 @@
         "chapter5_52_yunhe_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_52_yunhe_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_52_yunhe_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_53_zhaozhou",
@@ -1112,7 +1112,7 @@
         "chapter5_53_zhaozhou_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_53_zhaozhou_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_53_zhaozhou_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_54_taizong",
@@ -1133,7 +1133,7 @@
         "chapter5_54_taizong_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_54_taizong_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_54_taizong_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_55_zhenguan",
@@ -1154,7 +1154,7 @@
         "chapter5_55_zhenguan_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_55_zhenguan_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_55_zhenguan_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_56_wuzetian",
@@ -1175,7 +1175,7 @@
         "chapter5_56_wuzetian_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_56_wuzetian_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_56_wuzetian_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_57_xuanzang",
@@ -1196,7 +1196,7 @@
         "chapter5_57_xuanzang_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_57_xuanzang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_57_xuanzang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_58_wencheng",
@@ -1217,7 +1217,7 @@
         "chapter5_58_wencheng_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_58_wencheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_58_wencheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_59_jianzhen",
@@ -1238,7 +1238,7 @@
         "chapter5_59_jianzhen_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_59_jianzhen_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_59_jianzhen_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_60_libai",
@@ -1259,7 +1259,7 @@
         "chapter5_60_libai_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_60_libai_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_60_libai_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_61_dufu",
@@ -1280,7 +1280,7 @@
         "chapter5_61_dufu_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_61_dufu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_61_dufu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_62_yanzhenqing",
@@ -1301,7 +1301,7 @@
         "chapter5_62_yanzhenqing_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_62_yanzhenqing_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_62_yanzhenqing_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_63_wudaozi",
@@ -1322,7 +1322,7 @@
         "chapter5_63_wudaozi_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_63_wudaozi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_63_wudaozi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_64_anshi",
@@ -1343,7 +1343,7 @@
         "chapter5_64_anshi_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_64_anshi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_64_anshi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter5_65_dunhuang",
@@ -1364,7 +1364,7 @@
         "chapter5_65_dunhuang_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_65_dunhuang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_65_dunhuang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_66_zhaokuangyin",
@@ -1385,7 +1385,7 @@
         "chapter6_66_zhaokuangyin_5"
       ],
       "order": 65,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_66_zhaokuangyin_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_66_zhaokuangyin_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_67_beijiu",
@@ -1406,7 +1406,7 @@
         "chapter6_67_beijiu_5"
       ],
       "order": 66,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_67_beijiu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_67_beijiu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_68_sushi",
@@ -1427,7 +1427,7 @@
         "chapter6_68_sushi_5"
       ],
       "order": 67,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_68_sushi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_68_sushi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_69_wanganshi",
@@ -1448,7 +1448,7 @@
         "chapter6_69_wanganshi_5"
       ],
       "order": 68,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_69_wanganshi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_69_wanganshi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_70_yuefei",
@@ -1469,7 +1469,7 @@
         "chapter6_70_yuefei_5"
       ],
       "order": 69,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_70_yuefei_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_70_yuefei_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_71_xinqiji",
@@ -1490,7 +1490,7 @@
         "chapter6_71_xinqiji_5"
       ],
       "order": 70,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_71_xinqiji_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_71_xinqiji_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_72_liqingzhao",
@@ -1511,7 +1511,7 @@
         "chapter6_72_liqingzhao_5"
       ],
       "order": 71,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_72_liqingzhao_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_72_liqingzhao_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_73_xixia",
@@ -1532,7 +1532,7 @@
         "chapter6_73_xixia_5"
       ],
       "order": 72,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_73_xixia_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_73_xixia_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_74_liaobihua",
@@ -1553,7 +1553,7 @@
         "chapter6_74_liaobihua_5"
       ],
       "order": 73,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_74_liaobihua_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_74_liaobihua_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_75_jinducheng",
@@ -1574,7 +1574,7 @@
         "chapter6_75_jinducheng_5"
       ],
       "order": 74,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_75_jinducheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_75_jinducheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_76_bisheng",
@@ -1595,7 +1595,7 @@
         "chapter6_76_bisheng_5"
       ],
       "order": 75,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_76_bisheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_76_bisheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter6_77_qingmingtu",
@@ -1616,7 +1616,7 @@
         "chapter6_77_qingmingtu_5"
       ],
       "order": 76,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_77_qingmingtu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_77_qingmingtu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter7_78_genghis",
@@ -1637,7 +1637,7 @@
         "chapter7_78_genghis_5"
       ],
       "order": 77,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_78_genghis_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_78_genghis_nonogram_pixel.jpg"
     },
     {
       "id": "chapter7_79_hubilie",
@@ -1658,7 +1658,7 @@
         "chapter7_79_hubilie_5"
       ],
       "order": 78,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_79_hubilie_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_79_hubilie_nonogram_pixel.jpg"
     },
     {
       "id": "chapter7_80_marco",
@@ -1679,7 +1679,7 @@
         "chapter7_80_marco_5"
       ],
       "order": 79,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_80_marco_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_80_marco_nonogram_pixel.jpg"
     },
     {
       "id": "chapter7_81_yuandadu",
@@ -1700,7 +1700,7 @@
         "chapter7_81_yuandadu_5"
       ],
       "order": 80,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_81_yuandadu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_81_yuandadu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter7_82_guanhanqing",
@@ -1721,7 +1721,7 @@
         "chapter7_82_guanhanqing_5"
       ],
       "order": 81,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_82_guanhanqing_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_82_guanhanqing_nonogram_pixel.jpg"
     },
     {
       "id": "chapter7_83_guoshoujing",
@@ -1742,7 +1742,7 @@
         "chapter7_83_guoshoujing_5"
       ],
       "order": 82,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_83_guoshoujing_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_83_guoshoujing_nonogram_pixel.jpg"
     },
     {
       "id": "chapter7_84_zhaomengfu",
@@ -1763,7 +1763,7 @@
         "chapter7_84_zhaomengfu_5"
       ],
       "order": 83,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_84_zhaomengfu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_84_zhaomengfu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter7_85_wentianxiang",
@@ -1784,7 +1784,7 @@
         "chapter7_85_wentianxiang_5"
       ],
       "order": 84,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_85_wentianxiang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_85_wentianxiang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter8_86_zhuyuanzhang",
@@ -1805,7 +1805,7 @@
         "chapter8_86_zhuyuanzhang_5"
       ],
       "order": 85,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_86_zhuyuanzhang_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_86_zhuyuanzhang_nonogram_pixel.jpg"
     },
     {
       "id": "chapter8_87_zhenghe",
@@ -1826,7 +1826,7 @@
         "chapter8_87_zhenghe_5"
       ],
       "order": 86,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_87_zhenghe_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_87_zhenghe_nonogram_pixel.jpg"
     },
     {
       "id": "chapter8_88_zijincheng",
@@ -1847,7 +1847,7 @@
         "chapter8_88_zijincheng_5"
       ],
       "order": 87,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_88_zijincheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_88_zijincheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter8_89_mingchangcheng",
@@ -1868,7 +1868,7 @@
         "chapter8_89_mingchangcheng_5"
       ],
       "order": 88,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_89_mingchangcheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_89_mingchangcheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter8_90_lishizhen",
@@ -1889,7 +1889,7 @@
         "chapter8_90_lishizhen_5"
       ],
       "order": 89,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_90_lishizhen_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_90_lishizhen_nonogram_pixel.jpg"
     },
     {
       "id": "chapter8_91_xuxiake",
@@ -1910,7 +1910,7 @@
         "chapter8_91_xuxiake_5"
       ],
       "order": 90,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_91_xuxiake_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_91_xuxiake_nonogram_pixel.jpg"
     },
     {
       "id": "chapter8_92_lizicheng",
@@ -1931,7 +1931,7 @@
         "chapter8_92_lizicheng_5"
       ],
       "order": 91,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_92_lizicheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_92_lizicheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter8_93_wusangui",
@@ -1952,7 +1952,7 @@
         "chapter8_93_wusangui_5"
       ],
       "order": 92,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_93_wusangui_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_93_wusangui_nonogram_pixel.jpg"
     },
     {
       "id": "chapter9_94_kangxi",
@@ -1973,7 +1973,7 @@
         "chapter9_94_kangxi_5"
       ],
       "order": 93,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_94_kangxi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_94_kangxi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter9_95_yongzheng",
@@ -1994,7 +1994,7 @@
         "chapter9_95_yongzheng_5"
       ],
       "order": 94,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_95_yongzheng_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_95_yongzheng_nonogram_pixel.jpg"
     },
     {
       "id": "chapter9_96_qianlong",
@@ -2015,7 +2015,7 @@
         "chapter9_96_qianlong_5"
       ],
       "order": 95,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_96_qianlong_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_96_qianlong_nonogram_pixel.jpg"
     },
     {
       "id": "chapter9_97_siku",
@@ -2036,7 +2036,7 @@
         "chapter9_97_siku_5"
       ],
       "order": 96,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_97_siku_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_97_siku_nonogram_pixel.jpg"
     },
     {
       "id": "chapter9_98_caoxueqin",
@@ -2057,7 +2057,7 @@
         "chapter9_98_caoxueqin_5"
       ],
       "order": 97,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_98_caoxueqin_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_98_caoxueqin_nonogram_pixel.jpg"
     },
     {
       "id": "chapter10_99_yapian",
@@ -2078,7 +2078,7 @@
         "chapter10_99_yapian_5"
       ],
       "order": 98,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_99_yapian_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_99_yapian_nonogram_pixel.jpg"
     },
     {
       "id": "chapter10_100_taiping",
@@ -2099,7 +2099,7 @@
         "chapter10_100_taiping_5"
       ],
       "order": 99,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_100_taiping_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_100_taiping_nonogram_pixel.jpg"
     },
     {
       "id": "chapter10_101_yangwu",
@@ -2120,7 +2120,7 @@
         "chapter10_101_yangwu_5"
       ],
       "order": 100,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_101_yangwu_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_101_yangwu_nonogram_pixel.jpg"
     },
     {
       "id": "chapter10_102_xinhai",
@@ -2141,7 +2141,7 @@
         "chapter10_102_xinhai_5"
       ],
       "order": 101,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_102_xinhai_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_102_xinhai_nonogram_pixel.jpg"
     },
     {
       "id": "chapter11_103_wusi",
@@ -2162,7 +2162,7 @@
         "chapter11_103_wusi_5"
       ],
       "order": 102,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter11_103_wusi_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter11_103_wusi_nonogram_pixel.jpg"
     },
     {
       "id": "chapter11_104_kangri",
@@ -2183,7 +2183,7 @@
         "chapter11_104_kangri_5"
       ],
       "order": 103,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter11_104_kangri_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter11_104_kangri_nonogram_pixel.jpg"
     },
     {
       "id": "chapter11_105_xinzhongguo",
@@ -2204,7 +2204,7 @@
         "chapter11_105_xinzhongguo_5"
       ],
       "order": 104,
-      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter11_105_xinzhongguo_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/chinese_history/chapter11_105_xinzhongguo_nonogram_pixel.jpg"
     }
   ]
 }

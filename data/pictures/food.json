@@ -1,4 +1,4 @@
-{
+﻿{
   "album_id": "food",
   "pictures": [
     {
@@ -20,7 +20,7 @@
         "food_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/food/food_000_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_000_nonogram_pixel.jpg"
     },
     {
       "id": "food_001",
@@ -41,7 +41,7 @@
         "food_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/food/food_001_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_001_nonogram_pixel.jpg"
     },
     {
       "id": "food_002",
@@ -62,7 +62,7 @@
         "food_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/food/food_002_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_002_nonogram_pixel.jpg"
     },
     {
       "id": "food_003",
@@ -83,7 +83,7 @@
         "food_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/food/food_003_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_003_nonogram_pixel.jpg"
     },
     {
       "id": "food_004",
@@ -104,7 +104,7 @@
         "food_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/food/food_004_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_004_nonogram_pixel.jpg"
     },
     {
       "id": "food_005",
@@ -125,7 +125,7 @@
         "food_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/food/food_005_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_005_nonogram_pixel.jpg"
     },
     {
       "id": "food_006",
@@ -146,7 +146,7 @@
         "food_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/food/food_006_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_006_nonogram_pixel.jpg"
     },
     {
       "id": "food_007",
@@ -167,7 +167,7 @@
         "food_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/food/food_007_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_007_nonogram_pixel.jpg"
     },
     {
       "id": "food_008",
@@ -188,7 +188,7 @@
         "food_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/food/food_008_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_008_nonogram_pixel.jpg"
     },
     {
       "id": "food_009",
@@ -209,7 +209,7 @@
         "food_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/food/food_009_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_009_nonogram_pixel.jpg"
     },
     {
       "id": "food_010",
@@ -230,7 +230,7 @@
         "food_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/food/food_010_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_010_nonogram_pixel.jpg"
     },
     {
       "id": "food_011",
@@ -251,7 +251,7 @@
         "food_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/food/food_011_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_011_nonogram_pixel.jpg"
     },
     {
       "id": "food_012",
@@ -272,7 +272,7 @@
         "food_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/food/food_012_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_012_nonogram_pixel.jpg"
     },
     {
       "id": "food_013",
@@ -293,7 +293,7 @@
         "food_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/food/food_013_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_013_nonogram_pixel.jpg"
     },
     {
       "id": "food_014",
@@ -314,7 +314,7 @@
         "food_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/food/food_014_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_014_nonogram_pixel.jpg"
     },
     {
       "id": "food_015",
@@ -335,7 +335,7 @@
         "food_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/food/food_015_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_015_nonogram_pixel.jpg"
     },
     {
       "id": "food_016",
@@ -356,7 +356,7 @@
         "food_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/food/food_016_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_016_nonogram_pixel.jpg"
     },
     {
       "id": "food_017",
@@ -377,7 +377,7 @@
         "food_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/food/food_017_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_017_nonogram_pixel.jpg"
     },
     {
       "id": "food_018",
@@ -398,7 +398,7 @@
         "food_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/food/food_018_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_018_nonogram_pixel.jpg"
     },
     {
       "id": "food_019",
@@ -419,7 +419,7 @@
         "food_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/food/food_019_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_019_nonogram_pixel.jpg"
     },
     {
       "id": "food_020",
@@ -440,7 +440,7 @@
         "food_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/food/food_020_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_020_nonogram_pixel.jpg"
     },
     {
       "id": "food_021",
@@ -461,7 +461,7 @@
         "food_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/food/food_021_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_021_nonogram_pixel.jpg"
     },
     {
       "id": "food_022",
@@ -482,7 +482,7 @@
         "food_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/food/food_022_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_022_nonogram_pixel.jpg"
     },
     {
       "id": "food_023",
@@ -503,7 +503,7 @@
         "food_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/food/food_023_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_023_nonogram_pixel.jpg"
     },
     {
       "id": "food_024",
@@ -524,7 +524,7 @@
         "food_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/food/food_024_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_024_nonogram_pixel.jpg"
     },
     {
       "id": "food_025",
@@ -545,7 +545,7 @@
         "food_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/food/food_025_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_025_nonogram_pixel.jpg"
     },
     {
       "id": "food_026",
@@ -566,7 +566,7 @@
         "food_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/food/food_026_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_026_nonogram_pixel.jpg"
     },
     {
       "id": "food_027",
@@ -587,7 +587,7 @@
         "food_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/food/food_027_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_027_nonogram_pixel.jpg"
     },
     {
       "id": "food_028",
@@ -608,7 +608,7 @@
         "food_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/food/food_028_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_028_nonogram_pixel.jpg"
     },
     {
       "id": "food_029",
@@ -629,7 +629,7 @@
         "food_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/food/food_029_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_029_nonogram_pixel.jpg"
     },
     {
       "id": "food_030",
@@ -650,7 +650,7 @@
         "food_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/food/food_030_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_030_nonogram_pixel.jpg"
     },
     {
       "id": "food_031",
@@ -671,7 +671,7 @@
         "food_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/food/food_031_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_031_nonogram_pixel.jpg"
     },
     {
       "id": "food_032",
@@ -692,7 +692,7 @@
         "food_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/food/food_032_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_032_nonogram_pixel.jpg"
     },
     {
       "id": "food_033",
@@ -713,7 +713,7 @@
         "food_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/food/food_033_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_033_nonogram_pixel.jpg"
     },
     {
       "id": "food_034",
@@ -734,7 +734,7 @@
         "food_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/food/food_034_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_034_nonogram_pixel.jpg"
     },
     {
       "id": "food_035",
@@ -755,7 +755,7 @@
         "food_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/food/food_035_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_035_nonogram_pixel.jpg"
     },
     {
       "id": "food_036",
@@ -776,7 +776,7 @@
         "food_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/food/food_036_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_036_nonogram_pixel.jpg"
     },
     {
       "id": "food_037",
@@ -797,7 +797,7 @@
         "food_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/food/food_037_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_037_nonogram_pixel.jpg"
     },
     {
       "id": "food_038",
@@ -818,7 +818,7 @@
         "food_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/food/food_038_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_038_nonogram_pixel.jpg"
     },
     {
       "id": "food_039",
@@ -839,7 +839,7 @@
         "food_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/food/food_039_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_039_nonogram_pixel.jpg"
     },
     {
       "id": "food_040",
@@ -860,7 +860,7 @@
         "food_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/food/food_040_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_040_nonogram_pixel.jpg"
     },
     {
       "id": "food_041",
@@ -881,7 +881,7 @@
         "food_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/food/food_041_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_041_nonogram_pixel.jpg"
     },
     {
       "id": "food_042",
@@ -902,7 +902,7 @@
         "food_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/food/food_042_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_042_nonogram_pixel.jpg"
     },
     {
       "id": "food_043",
@@ -923,7 +923,7 @@
         "food_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/food/food_043_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_043_nonogram_pixel.jpg"
     },
     {
       "id": "food_044",
@@ -944,7 +944,7 @@
         "food_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/food/food_044_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_044_nonogram_pixel.jpg"
     },
     {
       "id": "food_045",
@@ -965,7 +965,7 @@
         "food_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/food/food_045_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_045_nonogram_pixel.jpg"
     },
     {
       "id": "food_046",
@@ -986,7 +986,7 @@
         "food_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/food/food_046_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_046_nonogram_pixel.jpg"
     },
     {
       "id": "food_047",
@@ -1007,7 +1007,7 @@
         "food_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/food/food_047_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_047_nonogram_pixel.jpg"
     },
     {
       "id": "food_048",
@@ -1028,7 +1028,7 @@
         "food_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/food/food_048_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_048_nonogram_pixel.jpg"
     },
     {
       "id": "food_049",
@@ -1049,7 +1049,7 @@
         "food_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/food/food_049_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_049_nonogram_pixel.jpg"
     },
     {
       "id": "food_050",
@@ -1070,7 +1070,7 @@
         "food_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/food/food_050_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_050_nonogram_pixel.jpg"
     },
     {
       "id": "food_051",
@@ -1091,7 +1091,7 @@
         "food_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/food/food_051_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_051_nonogram_pixel.jpg"
     },
     {
       "id": "food_052",
@@ -1112,7 +1112,7 @@
         "food_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/food/food_052_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_052_nonogram_pixel.jpg"
     },
     {
       "id": "food_053",
@@ -1133,7 +1133,7 @@
         "food_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/food/food_053_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_053_nonogram_pixel.jpg"
     },
     {
       "id": "food_054",
@@ -1154,7 +1154,7 @@
         "food_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/food/food_054_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_054_nonogram_pixel.jpg"
     },
     {
       "id": "food_055",
@@ -1175,7 +1175,7 @@
         "food_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/food/food_055_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_055_nonogram_pixel.jpg"
     },
     {
       "id": "food_056",
@@ -1196,7 +1196,7 @@
         "food_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/food/food_056_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_056_nonogram_pixel.jpg"
     },
     {
       "id": "food_057",
@@ -1217,7 +1217,7 @@
         "food_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/food/food_057_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_057_nonogram_pixel.jpg"
     },
     {
       "id": "food_058",
@@ -1238,7 +1238,7 @@
         "food_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/food/food_058_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_058_nonogram_pixel.jpg"
     },
     {
       "id": "food_059",
@@ -1259,7 +1259,7 @@
         "food_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/food/food_059_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_059_nonogram_pixel.jpg"
     },
     {
       "id": "food_060",
@@ -1280,7 +1280,7 @@
         "food_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/food/food_060_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_060_nonogram_pixel.jpg"
     },
     {
       "id": "food_061",
@@ -1301,7 +1301,7 @@
         "food_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/food/food_061_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_061_nonogram_pixel.jpg"
     },
     {
       "id": "food_062",
@@ -1322,7 +1322,7 @@
         "food_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/food/food_062_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_062_nonogram_pixel.jpg"
     },
     {
       "id": "food_063",
@@ -1343,7 +1343,7 @@
         "food_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/food/food_063_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_063_nonogram_pixel.jpg"
     },
     {
       "id": "food_064",
@@ -1364,7 +1364,7 @@
         "food_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/food/food_064_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_064_nonogram_pixel.jpg"
     },
     {
       "id": "food_065",
@@ -1385,7 +1385,7 @@
         "food_065_5"
       ],
       "order": 65,
-      "pixel_image": "res://assets/images/illustrations/food/food_065_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_065_nonogram_pixel.jpg"
     },
     {
       "id": "food_066",
@@ -1406,7 +1406,7 @@
         "food_066_5"
       ],
       "order": 66,
-      "pixel_image": "res://assets/images/illustrations/food/food_066_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_066_nonogram_pixel.jpg"
     },
     {
       "id": "food_067",
@@ -1427,7 +1427,7 @@
         "food_067_5"
       ],
       "order": 67,
-      "pixel_image": "res://assets/images/illustrations/food/food_067_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_067_nonogram_pixel.jpg"
     },
     {
       "id": "food_068",
@@ -1448,7 +1448,7 @@
         "food_068_5"
       ],
       "order": 68,
-      "pixel_image": "res://assets/images/illustrations/food/food_068_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_068_nonogram_pixel.jpg"
     },
     {
       "id": "food_069",
@@ -1469,7 +1469,7 @@
         "food_069_5"
       ],
       "order": 69,
-      "pixel_image": "res://assets/images/illustrations/food/food_069_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/food/food_069_nonogram_pixel.jpg"
     }
   ]
 }

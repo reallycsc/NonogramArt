@@ -37,7 +37,8 @@ const SFX_CONFIG = {
 	"nonogram_click_cross": "res://assets/audio/sfx/nonogram_click_cross.wav",
 	"congratulations": "res://assets/audio/sfx/congratulations_2.wav",
 	"life_change": "res://assets/audio/sfx/life_change.wav",
-	"game_over": "res://assets/audio/sfx/game_over.wav"
+	"game_over": "res://assets/audio/sfx/game_over.wav",
+	"page_flip": "res://assets/audio/sfx/page_flip.wav"
 }
 
 var _sfx_cache: Dictionary = {}

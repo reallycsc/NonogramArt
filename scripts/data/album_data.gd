@@ -6,6 +6,7 @@ var _pictures_cache: Dictionary = {}
 var _raw_json_cache: Dictionary = {}
 var _raw_json_valid: bool = false
 var _album_by_id_cache: Dictionary = {}
+var _album_images_valid_cache: Dictionary = {}
 
 static var _instance: AlbumData = null
 
@@ -76,11 +77,42 @@ static func load_albums(bookshelf_id: String = "") -> Array:
 			continue
 		if bookshelf_id != "" and album.get("bookshelf_id", "") != bookshelf_id:
 			continue
+		if not _check_album_images(album.get("id", "")):
+			continue
 		result.append(album)
 	result.sort_custom(func(a, b): return a.get("order", 0) < b.get("order", 0))
 	inst._albums_cache[bookshelf_id] = result
 	inst._albums_cache_valid = true
 	return result
+
+
+static func _check_album_images(album_id: String) -> bool:
+	var inst = _get_instance()
+	if inst._album_images_valid_cache.has(album_id):
+		return inst._album_images_valid_cache[album_id]
+	var pictures = load_pictures(album_id)
+	if pictures.is_empty():
+		inst._album_images_valid_cache[album_id] = false
+		return false
+	for picture in pictures:
+		var img_path: String = picture.get("image", "")
+		if img_path == "" or not ResourceLoader.exists(img_path):
+			inst._album_images_valid_cache[album_id] = false
+			return false
+		var pixel_path: String = picture.get("pixel_image", "")
+		if pixel_path == "" or not ResourceLoader.exists(pixel_path):
+			inst._album_images_valid_cache[album_id] = false
+			return false
+	inst._album_images_valid_cache[album_id] = true
+	return true
+
+
+static func preload_album_images_check(album_ids: Array) -> void:
+	var inst = _get_instance()
+	for album_id in album_ids:
+		if inst._album_images_valid_cache.has(album_id):
+			continue
+		_check_album_images(album_id)
 
 
 static func get_album(album_id: String) -> Dictionary:
