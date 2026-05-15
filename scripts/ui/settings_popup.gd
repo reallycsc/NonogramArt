@@ -64,6 +64,8 @@ func hide_settings() -> void:
 func _on_dim_overlay_input(event: InputEvent) -> void:
 	if event is InputEventMouseButton and event.pressed and event.button_index == MOUSE_BUTTON_LEFT:
 		_on_close_pressed()
+	elif event is InputEventScreenTouch and event.pressed:
+		_on_close_pressed()
 
 func _on_bgm_value_changed(value: float) -> void:
 	AudioManager.bgm_volume = value / 100.0

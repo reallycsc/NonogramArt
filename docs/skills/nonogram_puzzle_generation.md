@@ -1,10 +1,10 @@
-# 数织关卡生成与拼接像素图 Skill
+# 数织关卡生成 Skill
 
 ## 概述
 
-从像素图（_pixel.jpg）自动生成数织（Nonogram）关卡，并将所有关卡的解拼接为完整的数织拼接像素图（_nonogram.jpg）。核心原则：**优先填充亮度更低的像素块**，填充率根据像素图颜色含量动态变化，**所有关卡必须可纯逻辑求解**。
+从原图自动生成数织（Nonogram）关卡和彩色像素图。核心原则：**优先填充亮度更低的像素格**，填充率根据原图颜色含量动态变化，**所有关卡必须可纯逻辑求解**。
 
-完整流程：像素图 → 亮度提取 → 动态填充率计算 → 排名生成网格 → 空满行修复 → 线索计算 → 可解性验证 → 网格翻转修复 → 提示格生成（兜底） → 关卡JSON → 拼接像素图。
+完整流程：原图 → 亮度提取 → 动态填充率计算 → 排名生成网格 → 空满行修复 → 线索计算 → 可解性验证 → 网格翻转修复 → 提示格生成（兜底） → 关卡JSON + 彩色像素图 + 黑白数织图。
 
 ## 工具与依赖
 
@@ -12,8 +12,8 @@
 | ---- | ---- |
 | Python 3.11 | 运行生成脚本，路径 `C:\Python311\python.exe` |
 | PIL/Pillow | 图片处理 |
-| 关卡脚本 | `tools/fix_all_dynamic.py` |
-| 拼接脚本 | `tools/gen_nonogram_image.py` |
+| NumPy | 数值计算 |
+| 生成脚本 | `tools/generate_albums_02_06_full.py` |
 
 ## 数据结构
 
@@ -25,7 +25,7 @@
 {
   "id": "chapter1_01_yuanmou",
   "image": "res://assets/images/illustrations/chinese_history/chapter1_01_yuanmou.jpg",
-  "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_01_yuanmou_pixel.jpg",
+  "nonogram_pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_01_yuanmou_nonogram_pixel.jpg",
   "image_grid": { "x": 3, "y": 2 },
   "puzzles": [
     "chapter1_01_yuanmou_0",
@@ -70,7 +70,7 @@
 | col_clues | int[][] | 列线索，空列为 [0] |
 | solution | int[][] | 解网格，1=填充，0=空白 |
 | hint_cells | int[][] | 提示格坐标列表，每项 [row, col] |
-| source_rect | object | 对应像素图的区域 {x, y, w, h} |
+| source_rect | object | 对应彩色像素图的区域 {x, y, w, h} |
 
 ## 关卡大小与难度映射
 
@@ -82,22 +82,24 @@
 | 20 | hard | 60×40 | 第10-11章 |
 | 25 | expert | 75×50 | 预留 |
 
-## 流程一：生成数织关卡
+## 流程一：生成数织关卡与彩色像素图
 
 ### 运行命令
 
 ```powershell
-C:\Python311\python.exe -u tools\fix_all_dynamic.py
+# 生成所有画册的关卡和像素图（约20-30分钟）
+# 同时生成：_nonogram_pixel.jpg（彩色像素图）、_0~5.json（关卡）、_nonogram.jpg（黑白数织图）
+C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
 ```
 
 ### 完整算法流程
 
 ```
-像素图(_pixel.jpg)
+原图 (2496×1664)
     │
     ▼
 1. 亮度提取 (extract_cell_brightness)
-    │  将像素图按 image_grid(3×2) 分块
+    │  将原图按 image_grid(3×2) 分块
     │  每块按 puzzle_size(N×N) 采样
     │  计算每个格子的平均亮度 → [(row, col, brightness), ...]
     │
@@ -141,17 +143,20 @@ C:\Python311\python.exe -u tools\fix_all_dynamic.py
     │  直到完全可解或达到提示格上限
     │
     ▼
-关卡JSON文件
+同时输出：
+  - _nonogram_pixel.jpg（彩色像素图，直接生成）
+  - _0~5.json（关卡JSON文件）
+  - _nonogram.jpg（黑白数织图）
 ```
 
 ### 步骤详解
 
 #### 1. 亮度提取
 
-将像素图按 `image_grid`（3列×2行）分成6个区域，每个区域对应一个关卡。在每个区域内，按 `puzzle_size`（N×N）采样，计算每个格子的平均亮度值。
+将原图按 `image_grid`（3列×2行）分成6个区域，每个区域对应一个关卡。在每个区域内，按 `puzzle_size`（N×N）采样，计算每个格子的平均亮度值。
 
 ```
-像素图 (2496×1664)
+原图 (2496×1664)
 ┌──────────┬──────────┬──────────┐
 │  block0  │  block1  │  block2  │  每块 832×832
 │  5×5采样  │  5×5采样  │  5×5采样  │  → 25个亮度值
@@ -165,7 +170,7 @@ C:\Python311\python.exe -u tools\fix_all_dynamic.py
 
 #### 2. 动态填充率计算
 
-**核心原则：颜色多的像素图填充率高，颜色少的填充率低。**
+**核心原则：颜色多的原图填充率高，颜色少的填充率低。**
 
 使用 Otsu 阈值算法自动确定亮度分割点：
 
@@ -189,7 +194,7 @@ C:\Python311\python.exe -u tools\fix_all_dynamic.py
 
 将所有 N×N 个格子按亮度升序排列（最暗的排最前），填充前 `fill_rate × N²` 个格子。
 
-**关键**：这确保了数织解的形状与像素图的明暗分布一致——暗区域填充，亮区域留空。
+**关键**：这确保了数织解的形状与原图的明暗分布一致——暗区域填充，亮区域留空。
 
 #### 4. 空满行修复
 
@@ -220,7 +225,7 @@ C:\Python311\python.exe -u tools\fix_all_dynamic.py
 3. 对所有排列一致的格子确定其值
 4. 重复直到无新格子可确定
 
-**重要**：`can_solve` 仅用于判断是否需要修复，**不修改解网格**。解始终使用从像素图生成的 `adjusted_grid`（或翻转修复后的网格）。
+**重要**：`can_solve` 仅用于判断是否需要修复，**不修改解网格**。解始终使用从原图生成的 `adjusted_grid`（或翻转修复后的网格）。
 
 #### 7. 网格翻转修复（make_solvable）
 
@@ -285,13 +290,13 @@ C:\Python311\python.exe -u tools\fix_all_dynamic.py
 
 ### source_rect 计算
 
-每个关卡在像素图中的对应区域：
+每个关卡在原图中的对应区域：
 
 ```
 col_idx = puzzle_index % grid_x
 row_idx = puzzle_index // grid_x
-cell_w = pixel_image_width // grid_x
-cell_h = pixel_image_height // grid_y
+cell_w = original_image_width // grid_x
+cell_h = original_image_height // grid_y
 
 source_rect = {
     "x": col_idx * cell_w,
@@ -301,13 +306,9 @@ source_rect = {
 }
 ```
 
-## 流程二：生成数织拼接像素图
+## 流程二：生成黑白数织图
 
-### 运行命令
-
-```powershell
-C:\Python311\python.exe -u tools\gen_nonogram_image.py
-```
+**注意**：黑白数织图由 `generate_nonogram_image` 函数在主生成流程中同步生成，无需单独运行脚本。
 
 ### 算法流程
 
@@ -351,8 +352,8 @@ y = (row * puzzle_size + cell_row) * pixel_size
 
 | 属性 | 值 |
 | ---- | -- |
-| 文件命名 | `{原像素图名}_nonogram.jpg`（将 `_pixel` 替换为 `_nonogram`） |
-| 输出目录 | 与像素图同一目录 |
+| 文件命名 | `{图片ID}_nonogram.jpg` |
+| 输出目录 | 与原图同一目录 |
 | 像素块大小 | 40×40px |
 | 填充格颜色 | 黑色 (0,0,0) |
 | 空白格颜色 | 白色 (255,255,255) |
@@ -373,21 +374,16 @@ y = (row * puzzle_size + cell_row) * pixel_size
 ### 从零开始生成所有关卡和拼接图
 
 ```powershell
-# 步骤1：生成所有数织关卡（约12分钟）
-C:\Python311\python.exe -u tools\fix_all_dynamic_optimized.py chinese_history
-
-# 步骤2：生成所有数织拼接像素图（黑白，约30秒）
-C:\Python311\python.exe -u tools\gen_nonogram_image_unified.py chinese_history
-
-# 步骤3：生成所有彩色数织像素图（可选，约30秒）
-C:\Python311\python.exe -u tools\gen_color_nonogram_pixel.py chinese_history
+# 生成所有画册的关卡和像素图（约20-30分钟）
+# 同时生成：_nonogram_pixel.jpg（彩色像素图）、_0~5.json（关卡）、_nonogram.jpg（黑白数织图）
+C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
 ```
 
-### 仅重新生成某张图的关卡
+### 仅重新生成彩色像素图（从关卡配置）
 
 ```powershell
-# 修改脚本中的循环范围，或使用命令行参数
-C:\Python311\python.exe -u tools\fix_all_dynamic_optimized.py chinese_history --start 0 --end 1
+# 从已有关卡配置读取网格大小，重新生成彩色像素图
+C:\Python311\python.exe -u tools\regenerate_all_nonogram_pixel.py
 ```
 
 ## 动态难度设计
@@ -408,7 +404,7 @@ C:\Python311\python.exe -u tools\fix_all_dynamic_optimized.py chinese_history --
 ### 复杂度计算 (analyze_block_complexity)
 
 ```python
-def analyze_block_complexity(pixel_img, grid_x, grid_y, block_index, sample_size=20):
+def analyze_block_complexity(img, grid_x, grid_y, block_index, sample_size=20):
     # 1. 提取分块区域
     # 2. 采样像素计算：
     #    - 像素多样性：unique_pixels / total_pixels
@@ -451,73 +447,19 @@ def get_base_difficulty(album_id, pic_idx):
     }
 ```
 
-## 彩色数织像素图生成
+## 数织像素图 (_nonogram_pixel.jpg)
 
-### 功能说明
+### 生成方式
 
-彩色数织像素图从原像素图中提取每个格子对应的颜色，生成带有原始色彩的数织解图。每个格子的颜色是该格子在原图中的平均颜色。
-
-### 算法流程
-
-```
-原像素图
-    │
-    ▼
-1. 按 image_grid(3×2) 分割6个区域
-    │
-    ▼
-2. 对每个关卡：
-    │  读取 solution 网格
-    │  对每个填充格(1)：
-    │    计算该格在原图对应区域的平均颜色
-    │    用该颜色绘制像素块
-    │
-    ▼
-3. 拼接6个关卡的彩色像素图
-    │
-    ▼
-4. 添加分割线
-    │
-    ▼
-_nonogram_pixel.jpg
-```
-
-### 颜色提取算法
-
-```python
-def generate_color_nonogram_for_block(pixel_img, block_rect, puzzle_data, target_size):
-    solution = puzzle_data['solution']
-    size = puzzle_data['size']['rows']
-    
-    for r in range(size):
-        for c in range(size):
-            if solution[r][c] == 1:
-                # 计算该格在原图的区域
-                src_x = block_rect.x + c * block_rect.w / size
-                src_y = block_rect.y + r * block_rect.h / size
-                
-                # 采样该区域所有像素
-                color_pixels = []
-                for sy in range(src_y, src_y + block_rect.h / size):
-                    for sx in range(src_x, src_x + block_rect.w / size):
-                        color_pixels.append(pixel_img.getpixel((sx, sy)))
-                
-                # 计算平均颜色
-                avg_color = average(color_pixels)
-                
-                # 用平均颜色绘制像素块
-                draw_rectangle(c, r, avg_color)
-```
+**直接生成**：`generate_pixel_image` 函数按动态难度网格从原图采样颜色，直接生成 `{id}_nonogram_pixel.jpg`。
 
 ### 输出规格
 
 | 属性 | 值 |
 | ---- | -- |
 | 文件命名 | `{图片ID}_nonogram_pixel.jpg` |
-| 填充格颜色 | 原图对应区域平均颜色 |
-| 空白格颜色 | 白色 (255,255,255) |
-| 分割线 | 灰色 (128,128,128) |
-| 文件格式 | JPG（quality=95） |
+| 颜色来源 | 按动态难度网格从原图采样 |
+| 文件格式 | JPG（quality=95） | |
 
 ## 经验教训与注意事项
 
@@ -525,7 +467,7 @@ def generate_color_nonogram_for_block(pixel_img, block_rect, puzzle_data, target
 
 | 问题 | 原因 | 解决方案 |
 | ---- | ---- | -------- |
-| 关卡解与像素图形状不一致 | 使用固定阈值128分割 | 改为Otsu动态阈值+排名法 |
+| 关卡解与原图形状不一致 | 使用固定阈值128分割 | 改为Otsu动态阈值+排名法 |
 | 填充率固定40%不合理 | 颜色丰富和稀少的区域用同一比例 | 动态填充率，根据Otsu自然比例钳制到25%-65% |
 | 空行/全满行无意义 | 排名法可能产生全空或全满的行列 | fix_empty_and_full_lines按亮度排名修复 |
 | can_solve返回部分解 | 约束传播未完全确定时返回含-1的网格 | 始终使用adjusted_grid作为最终解，can_solve仅判断可解性 |
@@ -538,7 +480,7 @@ def generate_color_nonogram_for_block(pixel_img, block_rect, puzzle_data, target
 
 ### 关键设计决策
 
-1. **排名法优于阈值法**：按亮度排名填充比固定阈值分割更能保留像素图的视觉特征
+1. **排名法优于阈值法**：按亮度排名填充比固定阈值分割更能保留原图的视觉特征
 2. **动态填充率优于固定填充率**：颜色多的区域自然需要更多填充格
 3. **翻转修复优于提示格**：翻转使关卡可纯逻辑求解，玩家无需预揭示信息；提示格仅作兜底
 4. **大网格快速评估**：15×15+网格用`_quick_propagate`评估翻转候选，避免完整求解的指数级开销

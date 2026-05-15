@@ -72,3 +72,7 @@ func _apply_orientation(orientation: int) -> void:
 	else:
 		portrait_ui.visible = false
 		landscape_ui.visible = true
+
+func _unhandled_input(event: InputEvent) -> void:
+	if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
+		get_tree().quit()

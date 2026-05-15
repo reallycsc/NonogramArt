@@ -148,6 +148,11 @@ func _on_back_pressed() -> void:
 	AudioManager.play_sfx("click")
 	get_tree().change_scene_to_file("res://scenes/main_menu.tscn")
 
+func _unhandled_input(event: InputEvent) -> void:
+	if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
+		_on_back_pressed()
+		get_viewport().set_input_as_handled()
+
 func _on_settings_pressed() -> void:
 	AudioManager.play_sfx("click")
 	if portrait_ui.visible:

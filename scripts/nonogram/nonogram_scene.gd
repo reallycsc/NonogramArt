@@ -508,6 +508,10 @@ func _on_finish_button_test_pressed() -> void:
 
 # 输入处理
 func _unhandled_input(event: InputEvent) -> void:
+	if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
+		_on_back_button_pressed()
+		get_viewport().set_input_as_handled()
+		return
 	if is_locked:
 		return
 	if event is InputEventMouseMotion and is_dragging:

@@ -1031,27 +1031,6 @@
       "pixel_image": "res://assets/images/illustrations/political_system/political_system_048_nonogram_pixel.jpg"
     },
     {
-      "id": "political_system_049",
-      "title": "拉丁美洲的宪政尝试",
-      "summary": "独立后的拉美各国效仿美国与法国制定宪法，但军人干政与考迪罗独...",
-      "full_text": "独立后的拉美各国效仿美国与法国制定宪法，但军人干政与考迪罗独裁屡见不鲜。宪法上的民主与现实中的威权形成鲜明反差，拉美宪政的曲折道路反映了移植制度的艰难与本土传统的韧性。",
-      "image": "res://assets/images/illustrations/political_system/political_system_049.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "political_system_049_0",
-        "political_system_049_1",
-        "political_system_049_2",
-        "political_system_049_3",
-        "political_system_049_4",
-        "political_system_049_5"
-      ],
-      "order": 49,
-      "pixel_image": "res://assets/images/illustrations/political_system/political_system_049_nonogram_pixel.jpg"
-    },
-    {
       "id": "political_system_050",
       "title": "一八四八年的革命浪潮",
       "summary": "一八四八年革命从巴黎席卷欧洲，民众要求立宪与普选。法兰西第二...",
@@ -1346,48 +1325,6 @@
       "pixel_image": "res://assets/images/illustrations/political_system/political_system_063_nonogram_pixel.jpg"
     },
     {
-      "id": "political_system_064",
-      "title": "民权运动与平等权",
-      "summary": "马丁·路德·金在华盛顿发表我有一个梦想的演说，领导非暴力抗争...",
-      "full_text": "马丁·路德·金在华盛顿发表我有一个梦想的演说，领导非暴力抗争争取黑人平等权利。一九六四年民权法案禁止种族歧视，投票权法案保障黑人选举权，民权运动是美国民主制度自我修正的伟大实践。",
-      "image": "res://assets/images/illustrations/political_system/political_system_064.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "political_system_064_0",
-        "political_system_064_1",
-        "political_system_064_2",
-        "political_system_064_3",
-        "political_system_064_4",
-        "political_system_064_5"
-      ],
-      "order": 64,
-      "pixel_image": "res://assets/images/illustrations/political_system/political_system_064_nonogram_pixel.jpg"
-    },
-    {
-      "id": "political_system_065",
-      "title": "中国的改革开放",
-      "summary": "一九七八年邓小平推行改革开放，在农村实行家庭联产承包责任制，...",
-      "full_text": "一九七八年邓小平推行改革开放，在农村实行家庭联产承包责任制，在沿海设立经济特区。市场经济取代计划经济，中国以渐进改革实现了经济腾飞，改革开放是社会主义制度自我革新的重大探索。",
-      "image": "res://assets/images/illustrations/political_system/political_system_065.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "political_system_065_0",
-        "political_system_065_1",
-        "political_system_065_2",
-        "political_system_065_3",
-        "political_system_065_4",
-        "political_system_065_5"
-      ],
-      "order": 65,
-      "pixel_image": "res://assets/images/illustrations/political_system/political_system_065_nonogram_pixel.jpg"
-    },
-    {
       "id": "political_system_066",
       "title": "苏联解体与民主化",
       "summary": "戈尔巴乔夫推行公开性与改革，但失控的民主化导致苏联解体。十五...",
@@ -1619,27 +1556,6 @@
       "pixel_image": "res://assets/images/illustrations/political_system/political_system_076_nonogram_pixel.jpg"
     },
     {
-      "id": "political_system_077",
-      "title": "俄国十月革命",
-      "summary": "一九一七年十一月七日，列宁领导布尔什维克攻占冬宫，建立了世界...",
-      "full_text": "一九一七年十一月七日，列宁领导布尔什维克攻占冬宫，建立了世界上第一个社会主义国家。阿芙乐尔号巡洋舰的炮声划破彼得格勒的夜空，工人和士兵代表苏维埃掌握了国家政权。",
-      "image": "res://assets/images/illustrations/political_system/political_system_077.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "political_system_077_0",
-        "political_system_077_1",
-        "political_system_077_2",
-        "political_system_077_3",
-        "political_system_077_4",
-        "political_system_077_5"
-      ],
-      "order": 77,
-      "pixel_image": "res://assets/images/illustrations/political_system/political_system_077_nonogram_pixel.jpg"
-    },
-    {
       "id": "political_system_078",
       "title": "魏玛共和国兴衰",
       "summary": "一战后德国建立魏玛共和国，这是德国历史上第一次民主尝试。然而...",
@@ -1680,27 +1596,6 @@
       ],
       "order": 79,
       "pixel_image": "res://assets/images/illustrations/political_system/political_system_079_nonogram_pixel.jpg"
-    },
-    {
-      "id": "political_system_080",
-      "title": "中华人民共和国成立",
-      "summary": "一九四九年十月一日，毛泽东在天安门城楼上庄严宣告中华人民共和...",
-      "full_text": "一九四九年十月一日，毛泽东在天安门城楼上庄严宣告中华人民共和国成立。广场上红旗如海，礼炮齐鸣，中国人民从此站起来了，一个崭新的社会主义国家屹立于世界东方。",
-      "image": "res://assets/images/illustrations/political_system/political_system_080.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "political_system_080_0",
-        "political_system_080_1",
-        "political_system_080_2",
-        "political_system_080_3",
-        "political_system_080_4",
-        "political_system_080_5"
-      ],
-      "order": 80,
-      "pixel_image": "res://assets/images/illustrations/political_system/political_system_080_nonogram_pixel.jpg"
     },
     {
       "id": "political_system_081",
@@ -1891,5 +1786,6 @@
       "order": 89,
       "pixel_image": "res://assets/images/illustrations/political_system/political_system_089_nonogram_pixel.jpg"
     }
-  ]
+  ],
+  "total": 85
 }

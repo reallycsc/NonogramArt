@@ -852,6 +852,14 @@ func _on_back_pressed() -> void:
 		GameManager.pending_bookshelf_id = album.get("bookshelf_id", "")
 	get_tree().change_scene_to_file("res://scenes/book_shelf.tscn")
 
+func _unhandled_input(event: InputEvent) -> void:
+	if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
+		if _fullscreen_viewer:
+			_close_fullscreen_viewer()
+		else:
+			_on_back_pressed()
+		get_viewport().set_input_as_handled()
+
 func _on_settings_pressed() -> void:
 	AudioManager.play_sfx("click")
 	if portrait_ui.visible:
