@@ -11,6 +11,7 @@ var hp_empty_texture: Texture2D = preload("res://assets/images/ui/nonogram/heart
 
 var max_hp:int = 3
 var current_hp:int = 3
+var _game_over_emitted: bool = false
 
 func hp_change(change: int) -> void:
 	current_hp += change
@@ -33,6 +34,10 @@ func hp_change(change: int) -> void:
 			hp2.texture = hp_full_texture
 			hp3.texture = hp_full_texture
 	life_change_audio_player.play()
-	if current_hp == 0:
+	if current_hp == 0 and not _game_over_emitted:
+		_game_over_emitted = true
 		nonogram_scene.is_locked = true
-		life_change_audio_player.finished.connect(GameManager.nonogram_game_over.emit)
+		life_change_audio_player.finished.connect(_on_life_audio_finished)
+
+func _on_life_audio_finished() -> void:
+	GameManager.nonogram_game_over.emit()

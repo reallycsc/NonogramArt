@@ -707,13 +707,37 @@ func _get_region_pixel_rect(index: int, img_w: int, img_h: int, ctx: Dictionary)
 	if has_valid:
 		var sr = puzzles[index].source_rect
 		if sr.has("x") and sr.has("y") and sr.has("w") and sr.has("h"):
-			return Rect2(sr.x, sr.y, sr.w, sr.h)
+			var scale_x = float(img_w) / _get_original_width(ctx)
+			var scale_y = float(img_h) / _get_original_height(ctx)
+			return Rect2(sr.x * scale_x, sr.y * scale_y, sr.w * scale_x, sr.h * scale_y)
 
 	var col = index % grid_x
 	var row = int(float(index) / grid_x)
 	var cell_w = float(img_w) / grid_x
 	var cell_h = float(img_h) / grid_y
 	return Rect2(col * cell_w, row * cell_h, cell_w, cell_h)
+
+func _get_original_width(ctx: Dictionary) -> float:
+	var puzzles = ctx["puzzles"]
+	var max_x = 0.0
+	for puzzle in puzzles:
+		var sr = puzzle.source_rect
+		if sr.has("x") and sr.has("w"):
+			max_x = max(max_x, float(sr.x) + float(sr.w))
+	if max_x > 0:
+		return max_x
+	return float(ctx.get("illustration_width", 1))
+
+func _get_original_height(ctx: Dictionary) -> float:
+	var puzzles = ctx["puzzles"]
+	var max_y = 0.0
+	for puzzle in puzzles:
+		var sr = puzzle.source_rect
+		if sr.has("y") and sr.has("h"):
+			max_y = max(max_y, float(sr.y) + float(sr.h))
+	if max_y > 0:
+		return max_y
+	return float(ctx.get("illustration_height", 1))
 
 func _get_illustration_layout(area: Control, ctx: Dictionary) -> Dictionary:
 	var area_size = area.size

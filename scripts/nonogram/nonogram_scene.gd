@@ -351,122 +351,133 @@ func _find_album_and_picture_for_puzzle(puzzle_id: String) -> Dictionary:
 				return {"album_id": aid, "picture_id": p.get("id", "")}
 	return {}
 
+func _get_original_dims_for_picture(picture_id: String) -> Vector2:
+	var album_ids = AlbumData.get_all_album_ids()
+	for aid in album_ids:
+		var pictures = AlbumData.load_pictures(aid)
+		for p in pictures:
+			if p.get("id", "") == picture_id:
+				var puzzle_ids = p.get("puzzles", [])
+				var max_x = 0.0
+				var max_y = 0.0
+				for pid in puzzle_ids:
+					var puzzle = PuzzleData.load_puzzle(pid)
+					if puzzle:
+						var sr = puzzle.source_rect
+						if sr.has("x") and sr.has("w"):
+							max_x = max(max_x, float(sr.x) + float(sr.w))
+						if sr.has("y") and sr.has("h"):
+							max_y = max(max_y, float(sr.y) + float(sr.h))
+				return Vector2(max_x, max_y)
+	return Vector2.ZERO
+
 func _create_pixel_grid_display():
 	var puzzle = NonogramManager.current_puzzle
 	if not puzzle:
 		print("Error: puzzle is null")
 		return
-	
+
 	var picture_id = puzzle.picture_id
 	var album_id = _album_id
 	var picture: Dictionary = {}
-	
+
 	if album_id != "" and picture_id != "":
 		picture = AlbumData.get_picture(album_id, picture_id)
-	
+
 	if picture.is_empty():
 		var resolved = _find_album_and_picture_for_puzzle(puzzle.id)
 		if not resolved.is_empty():
 			album_id = resolved["album_id"]
 			picture_id = resolved["picture_id"]
 			picture = AlbumData.get_picture(album_id, picture_id)
-	
+
 	if picture.is_empty():
 		print("Error: picture not found for puzzle: ", puzzle.id, " picture_id: ", picture_id, " album_id: ", album_id)
 		return
-	
+
 	var img_path = picture.get("image", "")
 	if img_path == "":
 		print("Error: image path is empty")
 		return
-	
+
 	var base_path = img_path.get_basename()
 	var pixel_path = base_path + "_nonogram_pixel.jpg"
-	
-	print("Trying to load pixel image: ", pixel_path)
-	
+
 	if not ResourceLoader.exists(pixel_path):
 		print("Error: pixel image not found: ", pixel_path)
 		return
-	
+
 	var tex = load(pixel_path)
 	if not tex is Texture2D:
 		print("Error: loaded resource is not a Texture2D")
 		return
-	
+
 	var source_rect = puzzle.source_rect
 	var pixel_img = tex.get_image()
-	print("Pixel image loaded: ", pixel_img.get_width(), "x", pixel_img.get_height())
-	
-	if source_rect.has("x") and source_rect.has("y") and source_rect.has("w") and source_rect.has("h"):
-		var rect = Rect2i(int(source_rect.x), int(source_rect.y), int(source_rect.w), int(source_rect.h))
-		pixel_img = pixel_img.get_region(rect)
-		print("After source_rect: ", pixel_img.get_width(), "x", pixel_img.get_height())
-	
-	var pixel_cell_w = float(pixel_img.get_width()) / float(grid_size.y)
-	var pixel_cell_h = float(pixel_img.get_height()) / float(grid_size.x)
 
-	for x in range(grid_size.x):
-		for y in range(grid_size.y):
-			var cell_region = Rect2i(
-				int(float(y) * pixel_cell_w),
-				int(float(x) * pixel_cell_h),
-				int(pixel_cell_w),
-				int(pixel_cell_h)
-			)
-			var cell_img = pixel_img.get_region(cell_region)
-			
-			var pixel_cell = TextureRect.new()
-			pixel_cell.name = "PixelCell_" + str(x) + "_" + str(y)
-			pixel_cell.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
-			pixel_cell.stretch_mode = TextureRect.STRETCH_SCALE
-			pixel_cell.texture = ImageTexture.create_from_image(cell_img)
-			pixel_cell.modulate.a = 0.0
-			pixel_cell.custom_minimum_size = cell_size
-			pixel_cell.size = cell_size
-			pixel_cell.position = cell_start_position + Vector2(float(y) * cell_size.x, float(x) * cell_size.y)
-			
-			cell_container.add_child(pixel_cell)
-	print("Created ", grid_size.x * grid_size.y, " pixel cells")
+	if source_rect.has("x") and source_rect.has("y") and source_rect.has("w") and source_rect.has("h"):
+		var orig_dims = _get_original_dims_for_picture(puzzle.picture_id)
+		var scale_x = float(pixel_img.get_width()) / orig_dims.x if orig_dims.x > 0 else 1.0
+		var scale_y = float(pixel_img.get_height()) / orig_dims.y if orig_dims.y > 0 else 1.0
+		var rect = Rect2i(
+			int(float(source_rect.x) * scale_x),
+			int(float(source_rect.y) * scale_y),
+			int(float(source_rect.w) * scale_x),
+			int(float(source_rect.h) * scale_y)
+		)
+		pixel_img = pixel_img.get_region(rect)
+
+	var pixel_tex = ImageTexture.create_from_image(pixel_img)
+
+	var pixel_rect = TextureRect.new()
+	pixel_rect.name = "PixelGridRect"
+	pixel_rect.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+	pixel_rect.stretch_mode = TextureRect.STRETCH_SCALE
+	pixel_rect.texture = pixel_tex
+	pixel_rect.custom_minimum_size = cell_size * Vector2(grid_size.y, grid_size.x)
+	pixel_rect.size = pixel_rect.custom_minimum_size
+	pixel_rect.position = cell_start_position
+
+	var shader_mat = ShaderMaterial.new()
+	shader_mat.shader = preload("res://shaders/sweep_reveal.gdshader")
+	shader_mat.set_shader_parameter("progress", 0.0)
+	shader_mat.set_shader_parameter("sweep_width", 0.08)
+	pixel_rect.material = shader_mat
+
+	cell_container.add_child(pixel_rect)
 
 func _play_finish_animation2():
+	var pixel_rect = cell_container.get_node_or_null("PixelGridRect")
+	if not pixel_rect:
+		finish_button.show()
+		return
+
+	var shader_mat = pixel_rect.material as ShaderMaterial
+	if not shader_mat:
+		finish_button.show()
+		return
+
+	var sweep_duration = 1.5
+	var max_diag = float(grid_size.x + grid_size.y - 2)
+	if max_diag < 1.0:
+		max_diag = 1.0
+
 	var tween = create_tween()
 	AnimationManager.register_tween(tween)
 	tween.set_parallel(true)
-	var diagonal_order = _get_diagonal_order()
-	for pos in diagonal_order:
-		var x = pos.x
-		var y = pos.y
-		var idx = x * grid_size.y + y
-		
-		var cell = cells[idx] if idx < cells.size() else null
-		var pixel_cell = cell_container.get_node_or_null("PixelCell_" + str(x) + "_" + str(y))
-		
-		var delay = (x + y) * 0.03
-		
-		if cell:
-			tween.tween_property(cell, "modulate:a", 0, 0.3).set_delay(delay)
-		if pixel_cell:
-			tween.tween_property(pixel_cell, "modulate:a", 1.0, 0.3).set_delay(delay)
-	
+
+	tween.tween_property(shader_mat, "shader_parameter/progress", 1.15, sweep_duration)
+
+	for x in range(grid_size.x):
+		for y in range(grid_size.y):
+			var idx = x * grid_size.y + y
+			if idx < cells.size():
+				var delay = (float(x) + float(y)) / max_diag * sweep_duration * 0.85
+				tween.tween_property(cells[idx], "modulate:a", 0.0, 0.25).set_delay(delay)
+
 	tween.finished.connect(func():
 		finish_button.show()
 	)
-
-func _get_diagonal_order() -> Array:
-	var order = []
-	var max_sum = grid_size.x + grid_size.y - 2
-	
-	for sum_val in range(max_sum + 1):
-		var start_x = max(0, sum_val - (grid_size.y - 1))
-		var end_x = min(grid_size.x - 1, sum_val)
-		
-		for x in range(start_x, end_x + 1):
-			var y = sum_val - x
-			if y >= 0 and y < grid_size.y:
-				order.append(Vector2i(x, y))
-	
-	return order
 
 # 格子悬浮回调
 func _on_cell_hover_updated(x: int, y: int, is_hover: bool):
