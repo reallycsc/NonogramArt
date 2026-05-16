@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "nature_reserves",
   "pictures": [
     {
@@ -65,27 +65,6 @@
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_002_nonogram_pixel.jpg"
     },
     {
-      "id": "nature_reserves_003",
-      "title": "加拉帕戈斯群",
-      "summary": "厄瓜多尔加拉帕戈斯群岛是达尔文进化论的灵感来源，巨龟寿命超百...",
-      "full_text": "厄瓜多尔加拉帕戈斯群岛是达尔文进化论的灵感来源，巨龟寿命超百年如活化石。海鬣蜥在海底啃食海藻如龙如蜥，军舰鸟鼓起红色喉囊如气球如旗帜，达尔文雀喙形各异如进化实证。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_003.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "nature_reserves_003_0",
-        "nature_reserves_003_1",
-        "nature_reserves_003_2",
-        "nature_reserves_003_3",
-        "nature_reserves_003_4",
-        "nature_reserves_003_5"
-      ],
-      "order": 3,
-      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_003_nonogram_pixel.jpg"
-    },
-    {
       "id": "nature_reserves_004",
       "title": "大堡礁海洋",
       "summary": "澳大利亚大堡礁是世界最大的珊瑚礁系统绵延2300公里，从太空...",
@@ -103,7 +82,7 @@
         "nature_reserves_004_4",
         "nature_reserves_004_5"
       ],
-      "order": 4,
+      "order": 3,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_004_nonogram_pixel.jpg"
     },
     {
@@ -124,7 +103,7 @@
         "nature_reserves_005_4",
         "nature_reserves_005_5"
       ],
-      "order": 5,
+      "order": 4,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_005_nonogram_pixel.jpg"
     },
     {
@@ -145,7 +124,7 @@
         "nature_reserves_006_4",
         "nature_reserves_006_5"
       ],
-      "order": 6,
+      "order": 5,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_006_nonogram_pixel.jpg"
     },
     {
@@ -166,7 +145,7 @@
         "nature_reserves_007_4",
         "nature_reserves_007_5"
       ],
-      "order": 7,
+      "order": 6,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_007_nonogram_pixel.jpg"
     },
     {
@@ -187,7 +166,7 @@
         "nature_reserves_008_4",
         "nature_reserves_008_5"
       ],
-      "order": 8,
+      "order": 7,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_008_nonogram_pixel.jpg"
     },
     {
@@ -208,29 +187,8 @@
         "nature_reserves_009_4",
         "nature_reserves_009_5"
       ],
-      "order": 9,
+      "order": 8,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_009_nonogram_pixel.jpg"
-    },
-    {
-      "id": "nature_reserves_010",
-      "title": "可可西里无人",
-      "summary": "青海可可西里是中国最大的无人区面积4.5万平方公里，藏羚羊在...",
-      "full_text": "青海可可西里是中国最大的无人区面积4.5万平方公里，藏羚羊在此产仔如生如命如延。索南达杰为保护藏羚羊献出生命如英如雄如烈如士，藏野驴在荒原上奔跑如风如电如驰，荒凉而壮美。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_010.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "nature_reserves_010_0",
-        "nature_reserves_010_1",
-        "nature_reserves_010_2",
-        "nature_reserves_010_3",
-        "nature_reserves_010_4",
-        "nature_reserves_010_5"
-      ],
-      "order": 10,
-      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_010_nonogram_pixel.jpg"
     },
     {
       "id": "nature_reserves_011",
@@ -250,7 +208,7 @@
         "nature_reserves_011_4",
         "nature_reserves_011_5"
       ],
-      "order": 11,
+      "order": 9,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_011_nonogram_pixel.jpg"
     },
     {
@@ -271,7 +229,7 @@
         "nature_reserves_012_4",
         "nature_reserves_012_5"
       ],
-      "order": 12,
+      "order": 10,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_012_nonogram_pixel.jpg"
     },
     {
@@ -292,7 +250,7 @@
         "nature_reserves_013_4",
         "nature_reserves_013_5"
       ],
-      "order": 13,
+      "order": 11,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_013_nonogram_pixel.jpg"
     },
     {
@@ -313,7 +271,7 @@
         "nature_reserves_014_4",
         "nature_reserves_014_5"
       ],
-      "order": 14,
+      "order": 12,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_014_nonogram_pixel.jpg"
     },
     {
@@ -334,7 +292,7 @@
         "nature_reserves_015_4",
         "nature_reserves_015_5"
       ],
-      "order": 15,
+      "order": 13,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_015_nonogram_pixel.jpg"
     },
     {
@@ -355,7 +313,7 @@
         "nature_reserves_016_4",
         "nature_reserves_016_5"
       ],
-      "order": 16,
+      "order": 14,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_016_nonogram_pixel.jpg"
     },
     {
@@ -376,7 +334,7 @@
         "nature_reserves_017_4",
         "nature_reserves_017_5"
       ],
-      "order": 17,
+      "order": 15,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_017_nonogram_pixel.jpg"
     },
     {
@@ -397,7 +355,7 @@
         "nature_reserves_018_4",
         "nature_reserves_018_5"
       ],
-      "order": 18,
+      "order": 16,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_018_nonogram_pixel.jpg"
     },
     {
@@ -418,7 +376,7 @@
         "nature_reserves_019_4",
         "nature_reserves_019_5"
       ],
-      "order": 19,
+      "order": 17,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_019_nonogram_pixel.jpg"
     },
     {
@@ -439,7 +397,7 @@
         "nature_reserves_020_4",
         "nature_reserves_020_5"
       ],
-      "order": 20,
+      "order": 18,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_020_nonogram_pixel.jpg"
     },
     {
@@ -460,7 +418,7 @@
         "nature_reserves_021_4",
         "nature_reserves_021_5"
       ],
-      "order": 21,
+      "order": 19,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_021_nonogram_pixel.jpg"
     },
     {
@@ -481,7 +439,7 @@
         "nature_reserves_022_4",
         "nature_reserves_022_5"
       ],
-      "order": 22,
+      "order": 20,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_022_nonogram_pixel.jpg"
     },
     {
@@ -502,7 +460,7 @@
         "nature_reserves_023_4",
         "nature_reserves_023_5"
       ],
-      "order": 23,
+      "order": 21,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_023_nonogram_pixel.jpg"
     },
     {
@@ -523,7 +481,7 @@
         "nature_reserves_024_4",
         "nature_reserves_024_5"
       ],
-      "order": 24,
+      "order": 22,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_024_nonogram_pixel.jpg"
     },
     {
@@ -544,7 +502,7 @@
         "nature_reserves_025_4",
         "nature_reserves_025_5"
       ],
-      "order": 25,
+      "order": 23,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_025_nonogram_pixel.jpg"
     },
     {
@@ -565,7 +523,7 @@
         "nature_reserves_026_4",
         "nature_reserves_026_5"
       ],
-      "order": 26,
+      "order": 24,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_026_nonogram_pixel.jpg"
     },
     {
@@ -586,7 +544,7 @@
         "nature_reserves_027_4",
         "nature_reserves_027_5"
       ],
-      "order": 27,
+      "order": 25,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_027_nonogram_pixel.jpg"
     },
     {
@@ -607,7 +565,7 @@
         "nature_reserves_028_4",
         "nature_reserves_028_5"
       ],
-      "order": 28,
+      "order": 26,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_028_nonogram_pixel.jpg"
     },
     {
@@ -628,7 +586,7 @@
         "nature_reserves_029_4",
         "nature_reserves_029_5"
       ],
-      "order": 29,
+      "order": 27,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_029_nonogram_pixel.jpg"
     },
     {
@@ -649,7 +607,7 @@
         "nature_reserves_030_4",
         "nature_reserves_030_5"
       ],
-      "order": 30,
+      "order": 28,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_030_nonogram_pixel.jpg"
     },
     {
@@ -670,7 +628,7 @@
         "nature_reserves_031_4",
         "nature_reserves_031_5"
       ],
-      "order": 31,
+      "order": 29,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_031_nonogram_pixel.jpg"
     },
     {
@@ -691,50 +649,8 @@
         "nature_reserves_032_4",
         "nature_reserves_032_5"
       ],
-      "order": 32,
+      "order": 30,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_032_nonogram_pixel.jpg"
-    },
-    {
-      "id": "nature_reserves_033",
-      "title": "布莱斯峡谷",
-      "summary": "美国犹他布莱斯峡谷红色岩柱如兵如马如俑如阵如列如队如军如团，...",
-      "full_text": "美国犹他布莱斯峡谷红色岩柱如兵如马如俑如阵如列如队如军如团，天然露天剧场如观如众如席如座。日出时岩柱如燃如烧如火如焰如金如红，印第安传说岩柱是变石的恶人如咒如语如法。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_033.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "nature_reserves_033_0",
-        "nature_reserves_033_1",
-        "nature_reserves_033_2",
-        "nature_reserves_033_3",
-        "nature_reserves_033_4",
-        "nature_reserves_033_5"
-      ],
-      "order": 33,
-      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_033_nonogram_pixel.jpg"
-    },
-    {
-      "id": "nature_reserves_034",
-      "title": "冰川国家公园",
-      "summary": "美国蒙大拿冰川国家公园曾有一百五十条冰川如今仅剩二十五条如消...",
-      "full_text": "美国蒙大拿冰川国家公园曾有一百五十条冰川如今仅剩二十五条如消如融如退如缩。向阳大道如画如廊如画如卷如诗如歌如梦如幻，灰熊在河谷中如觅如食如寻如找如猎如捕。",
-      "image": "res://assets/images/illustrations/nature_reserves/nature_reserves_034.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "nature_reserves_034_0",
-        "nature_reserves_034_1",
-        "nature_reserves_034_2",
-        "nature_reserves_034_3",
-        "nature_reserves_034_4",
-        "nature_reserves_034_5"
-      ],
-      "order": 34,
-      "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_034_nonogram_pixel.jpg"
     },
     {
       "id": "nature_reserves_035",
@@ -754,7 +670,7 @@
         "nature_reserves_035_4",
         "nature_reserves_035_5"
       ],
-      "order": 35,
+      "order": 31,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_035_nonogram_pixel.jpg"
     },
     {
@@ -775,7 +691,7 @@
         "nature_reserves_036_4",
         "nature_reserves_036_5"
       ],
-      "order": 36,
+      "order": 32,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_036_nonogram_pixel.jpg"
     },
     {
@@ -796,7 +712,7 @@
         "nature_reserves_037_4",
         "nature_reserves_037_5"
       ],
-      "order": 37,
+      "order": 33,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_037_nonogram_pixel.jpg"
     },
     {
@@ -817,7 +733,7 @@
         "nature_reserves_038_4",
         "nature_reserves_038_5"
       ],
-      "order": 38,
+      "order": 34,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_038_nonogram_pixel.jpg"
     },
     {
@@ -838,7 +754,7 @@
         "nature_reserves_039_4",
         "nature_reserves_039_5"
       ],
-      "order": 39,
+      "order": 35,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_039_nonogram_pixel.jpg"
     },
     {
@@ -859,7 +775,7 @@
         "nature_reserves_040_4",
         "nature_reserves_040_5"
       ],
-      "order": 40,
+      "order": 36,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_040_nonogram_pixel.jpg"
     },
     {
@@ -880,7 +796,7 @@
         "nature_reserves_041_4",
         "nature_reserves_041_5"
       ],
-      "order": 41,
+      "order": 37,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_041_nonogram_pixel.jpg"
     },
     {
@@ -901,7 +817,7 @@
         "nature_reserves_042_4",
         "nature_reserves_042_5"
       ],
-      "order": 42,
+      "order": 38,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_042_nonogram_pixel.jpg"
     },
     {
@@ -922,7 +838,7 @@
         "nature_reserves_043_4",
         "nature_reserves_043_5"
       ],
-      "order": 43,
+      "order": 39,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_043_nonogram_pixel.jpg"
     },
     {
@@ -943,7 +859,7 @@
         "nature_reserves_044_4",
         "nature_reserves_044_5"
       ],
-      "order": 44,
+      "order": 40,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +880,7 @@
         "nature_reserves_045_4",
         "nature_reserves_045_5"
       ],
-      "order": 45,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +901,7 @@
         "nature_reserves_046_4",
         "nature_reserves_046_5"
       ],
-      "order": 46,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +922,7 @@
         "nature_reserves_047_4",
         "nature_reserves_047_5"
       ],
-      "order": 47,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +943,7 @@
         "nature_reserves_048_4",
         "nature_reserves_048_5"
       ],
-      "order": 48,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +964,7 @@
         "nature_reserves_049_4",
         "nature_reserves_049_5"
       ],
-      "order": 49,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +985,7 @@
         "nature_reserves_050_4",
         "nature_reserves_050_5"
       ],
-      "order": 50,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,7 +1006,7 @@
         "nature_reserves_051_4",
         "nature_reserves_051_5"
       ],
-      "order": 51,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_051_nonogram_pixel.jpg"
     },
     {
@@ -1111,7 +1027,7 @@
         "nature_reserves_052_4",
         "nature_reserves_052_5"
       ],
-      "order": 52,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_052_nonogram_pixel.jpg"
     },
     {
@@ -1132,7 +1048,7 @@
         "nature_reserves_053_4",
         "nature_reserves_053_5"
       ],
-      "order": 53,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1069,7 @@
         "nature_reserves_054_4",
         "nature_reserves_054_5"
       ],
-      "order": 54,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1090,7 @@
         "nature_reserves_055_4",
         "nature_reserves_055_5"
       ],
-      "order": 55,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1111,7 @@
         "nature_reserves_056_4",
         "nature_reserves_056_5"
       ],
-      "order": 56,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1132,7 @@
         "nature_reserves_057_4",
         "nature_reserves_057_5"
       ],
-      "order": 57,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1153,7 @@
         "nature_reserves_058_4",
         "nature_reserves_058_5"
       ],
-      "order": 58,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1174,7 @@
         "nature_reserves_059_4",
         "nature_reserves_059_5"
       ],
-      "order": 59,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/nature_reserves/nature_reserves_059_nonogram_pixel.jpg"
     }
   ]

@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "mountains_plateaus",
   "pictures": [
     {
@@ -590,27 +590,6 @@
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_027_nonogram_pixel.jpg"
     },
     {
-      "id": "mountains_plateaus_028",
-      "title": "长白山天池",
-      "summary": "长白山天池海拔2189米是中国最深火山口湖，十六峰环抱如盆。...",
-      "full_text": "长白山天池海拔2189米是中国最深火山口湖，十六峰环抱如盆。湖水如蓝宝石镶嵌火山口，传说水怪在湖中出没，瀑布从天池缺口倾泻而下如白练，地下森林在火山口中如秘境。",
-      "image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_028.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "mountains_plateaus_028_0",
-        "mountains_plateaus_028_1",
-        "mountains_plateaus_028_2",
-        "mountains_plateaus_028_3",
-        "mountains_plateaus_028_4",
-        "mountains_plateaus_028_5"
-      ],
-      "order": 28,
-      "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_028_nonogram_pixel.jpg"
-    },
-    {
       "id": "mountains_plateaus_029",
       "title": "昆仑山万山之祖",
       "summary": "昆仑山脉绵延2500公里被称为万山之祖，西王母传说在此诞生。...",
@@ -628,7 +607,7 @@
         "mountains_plateaus_029_4",
         "mountains_plateaus_029_5"
       ],
-      "order": 29,
+      "order": 28,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_029_nonogram_pixel.jpg"
     },
     {
@@ -649,7 +628,7 @@
         "mountains_plateaus_030_4",
         "mountains_plateaus_030_5"
       ],
-      "order": 30,
+      "order": 29,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_030_nonogram_pixel.jpg"
     },
     {
@@ -670,7 +649,7 @@
         "mountains_plateaus_031_4",
         "mountains_plateaus_031_5"
       ],
-      "order": 31,
+      "order": 30,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_031_nonogram_pixel.jpg"
     },
     {
@@ -691,7 +670,7 @@
         "mountains_plateaus_032_4",
         "mountains_plateaus_032_5"
       ],
-      "order": 32,
+      "order": 31,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_032_nonogram_pixel.jpg"
     },
     {
@@ -712,7 +691,7 @@
         "mountains_plateaus_033_4",
         "mountains_plateaus_033_5"
       ],
-      "order": 33,
+      "order": 32,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_033_nonogram_pixel.jpg"
     },
     {
@@ -733,7 +712,7 @@
         "mountains_plateaus_034_4",
         "mountains_plateaus_034_5"
       ],
-      "order": 34,
+      "order": 33,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_034_nonogram_pixel.jpg"
     },
     {
@@ -754,7 +733,7 @@
         "mountains_plateaus_035_4",
         "mountains_plateaus_035_5"
       ],
-      "order": 35,
+      "order": 34,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_035_nonogram_pixel.jpg"
     },
     {
@@ -775,7 +754,7 @@
         "mountains_plateaus_036_4",
         "mountains_plateaus_036_5"
       ],
-      "order": 36,
+      "order": 35,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_036_nonogram_pixel.jpg"
     },
     {
@@ -796,7 +775,7 @@
         "mountains_plateaus_037_4",
         "mountains_plateaus_037_5"
       ],
-      "order": 37,
+      "order": 36,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_037_nonogram_pixel.jpg"
     },
     {
@@ -817,7 +796,7 @@
         "mountains_plateaus_038_4",
         "mountains_plateaus_038_5"
       ],
-      "order": 38,
+      "order": 37,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_038_nonogram_pixel.jpg"
     },
     {
@@ -838,7 +817,7 @@
         "mountains_plateaus_039_4",
         "mountains_plateaus_039_5"
       ],
-      "order": 39,
+      "order": 38,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_039_nonogram_pixel.jpg"
     },
     {
@@ -859,7 +838,7 @@
         "mountains_plateaus_040_4",
         "mountains_plateaus_040_5"
       ],
-      "order": 40,
+      "order": 39,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_040_nonogram_pixel.jpg"
     },
     {
@@ -880,7 +859,7 @@
         "mountains_plateaus_041_4",
         "mountains_plateaus_041_5"
       ],
-      "order": 41,
+      "order": 40,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_041_nonogram_pixel.jpg"
     },
     {
@@ -901,7 +880,7 @@
         "mountains_plateaus_042_4",
         "mountains_plateaus_042_5"
       ],
-      "order": 42,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_042_nonogram_pixel.jpg"
     },
     {
@@ -922,7 +901,7 @@
         "mountains_plateaus_043_4",
         "mountains_plateaus_043_5"
       ],
-      "order": 43,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_043_nonogram_pixel.jpg"
     },
     {
@@ -943,7 +922,7 @@
         "mountains_plateaus_044_4",
         "mountains_plateaus_044_5"
       ],
-      "order": 44,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +943,7 @@
         "mountains_plateaus_045_4",
         "mountains_plateaus_045_5"
       ],
-      "order": 45,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +964,7 @@
         "mountains_plateaus_046_4",
         "mountains_plateaus_046_5"
       ],
-      "order": 46,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +985,7 @@
         "mountains_plateaus_047_4",
         "mountains_plateaus_047_5"
       ],
-      "order": 47,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +1006,7 @@
         "mountains_plateaus_048_4",
         "mountains_plateaus_048_5"
       ],
-      "order": 48,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +1027,7 @@
         "mountains_plateaus_049_4",
         "mountains_plateaus_049_5"
       ],
-      "order": 49,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +1048,7 @@
         "mountains_plateaus_050_4",
         "mountains_plateaus_050_5"
       ],
-      "order": 50,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,7 +1069,7 @@
         "mountains_plateaus_051_4",
         "mountains_plateaus_051_5"
       ],
-      "order": 51,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_051_nonogram_pixel.jpg"
     },
     {
@@ -1111,7 +1090,7 @@
         "mountains_plateaus_052_4",
         "mountains_plateaus_052_5"
       ],
-      "order": 52,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_052_nonogram_pixel.jpg"
     },
     {
@@ -1132,7 +1111,7 @@
         "mountains_plateaus_053_4",
         "mountains_plateaus_053_5"
       ],
-      "order": 53,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1132,7 @@
         "mountains_plateaus_054_4",
         "mountains_plateaus_054_5"
       ],
-      "order": 54,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1153,7 @@
         "mountains_plateaus_055_4",
         "mountains_plateaus_055_5"
       ],
-      "order": 55,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1174,7 @@
         "mountains_plateaus_056_4",
         "mountains_plateaus_056_5"
       ],
-      "order": 56,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1195,7 @@
         "mountains_plateaus_057_4",
         "mountains_plateaus_057_5"
       ],
-      "order": 57,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1216,7 @@
         "mountains_plateaus_058_4",
         "mountains_plateaus_058_5"
       ],
-      "order": 58,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1237,7 @@
         "mountains_plateaus_059_4",
         "mountains_plateaus_059_5"
       ],
-      "order": 59,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/mountains_plateaus/mountains_plateaus_059_nonogram_pixel.jpg"
     }
   ]

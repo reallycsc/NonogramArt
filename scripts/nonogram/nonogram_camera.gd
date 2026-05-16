@@ -7,6 +7,7 @@ var zoom_step: float = 0.1
 var drag_sensitivity: float = 1.0
 var drag_threshold: float = 10.0
 var smooth_speed: float = 10.0
+var _snap_threshold: float = 0.5
 
 var minPosition:Vector2 = Vector2.ZERO
 var maxPosition:Vector2 = Vector2(1280,720)
@@ -107,7 +108,10 @@ func _update_bounds() -> void:
 	maxPosition = viewport_size - minPosition
 
 func _process(delta):
-	position = position.lerp(target_position, smooth_speed * delta)
+	if position.distance_to(target_position) < _snap_threshold:
+		position = target_position
+	else:
+		position = position.lerp(target_position, smooth_speed * delta)
 
 func reset():
 	zoom = Vector2.ONE

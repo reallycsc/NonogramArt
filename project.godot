@@ -23,6 +23,7 @@ GameManager="*res://scripts/autoload/game_manager.gd"
 AnimationManager="*uid://cpbtx1hbc8g2t"
 AudioManager="*res://scripts/autoload/audio_manager.gd"
 OrientationManager="*res://scripts/autoload/orientation_manager.gd"
+ToastManager="*res://scripts/autoload/toast_manager.gd"
 
 [display]
 

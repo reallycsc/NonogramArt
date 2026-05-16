@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "ecosystems",
   "pictures": [
     {
@@ -527,27 +527,6 @@
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_024_nonogram_pixel.jpg"
     },
     {
-      "id": "ecosystems_025",
-      "title": "丹霞地貌",
-      "summary": "丹霞赤壁红岩如火焰燃烧，砂岩砾岩经亿年风化雕琢，赤壁丹崖碧水...",
-      "full_text": "丹霞赤壁红岩如火焰燃烧，砂岩砾岩经亿年风化雕琢，赤壁丹崖碧水映照，大地上的红色画卷",
-      "image": "res://assets/images/illustrations/ecosystems/ecosystems_025.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "ecosystems_025_0",
-        "ecosystems_025_1",
-        "ecosystems_025_2",
-        "ecosystems_025_3",
-        "ecosystems_025_4",
-        "ecosystems_025_5"
-      ],
-      "order": 25,
-      "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_025_nonogram_pixel.jpg"
-    },
-    {
       "id": "ecosystems_026",
       "title": "雅丹地貌",
       "summary": "雅丹垄脊如城堡列阵戈壁，风力侵蚀塑成千姿百态，魔鬼城中风声呜...",
@@ -565,7 +544,7 @@
         "ecosystems_026_4",
         "ecosystems_026_5"
       ],
-      "order": 26,
+      "order": 25,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_026_nonogram_pixel.jpg"
     },
     {
@@ -586,7 +565,7 @@
         "ecosystems_027_4",
         "ecosystems_027_5"
       ],
-      "order": 27,
+      "order": 26,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_027_nonogram_pixel.jpg"
     },
     {
@@ -607,7 +586,7 @@
         "ecosystems_028_4",
         "ecosystems_028_5"
       ],
-      "order": 28,
+      "order": 27,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_028_nonogram_pixel.jpg"
     },
     {
@@ -628,7 +607,7 @@
         "ecosystems_029_4",
         "ecosystems_029_5"
       ],
-      "order": 29,
+      "order": 28,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_029_nonogram_pixel.jpg"
     },
     {
@@ -649,7 +628,7 @@
         "ecosystems_030_4",
         "ecosystems_030_5"
       ],
-      "order": 30,
+      "order": 29,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_030_nonogram_pixel.jpg"
     },
     {
@@ -670,7 +649,7 @@
         "ecosystems_031_4",
         "ecosystems_031_5"
       ],
-      "order": 31,
+      "order": 30,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_031_nonogram_pixel.jpg"
     },
     {
@@ -691,7 +670,7 @@
         "ecosystems_032_4",
         "ecosystems_032_5"
       ],
-      "order": 32,
+      "order": 31,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_032_nonogram_pixel.jpg"
     },
     {
@@ -712,7 +691,7 @@
         "ecosystems_033_4",
         "ecosystems_033_5"
       ],
-      "order": 33,
+      "order": 32,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_033_nonogram_pixel.jpg"
     },
     {
@@ -733,7 +712,7 @@
         "ecosystems_034_4",
         "ecosystems_034_5"
       ],
-      "order": 34,
+      "order": 33,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_034_nonogram_pixel.jpg"
     },
     {
@@ -754,7 +733,7 @@
         "ecosystems_035_4",
         "ecosystems_035_5"
       ],
-      "order": 35,
+      "order": 34,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_035_nonogram_pixel.jpg"
     },
     {
@@ -775,7 +754,7 @@
         "ecosystems_036_4",
         "ecosystems_036_5"
       ],
-      "order": 36,
+      "order": 35,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_036_nonogram_pixel.jpg"
     },
     {
@@ -796,7 +775,7 @@
         "ecosystems_037_4",
         "ecosystems_037_5"
       ],
-      "order": 37,
+      "order": 36,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_037_nonogram_pixel.jpg"
     },
     {
@@ -817,7 +796,7 @@
         "ecosystems_038_4",
         "ecosystems_038_5"
       ],
-      "order": 38,
+      "order": 37,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_038_nonogram_pixel.jpg"
     },
     {
@@ -838,7 +817,7 @@
         "ecosystems_039_4",
         "ecosystems_039_5"
       ],
-      "order": 39,
+      "order": 38,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_039_nonogram_pixel.jpg"
     },
     {
@@ -859,7 +838,7 @@
         "ecosystems_040_4",
         "ecosystems_040_5"
       ],
-      "order": 40,
+      "order": 39,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_040_nonogram_pixel.jpg"
     },
     {
@@ -880,7 +859,7 @@
         "ecosystems_041_4",
         "ecosystems_041_5"
       ],
-      "order": 41,
+      "order": 40,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_041_nonogram_pixel.jpg"
     },
     {
@@ -901,7 +880,7 @@
         "ecosystems_042_4",
         "ecosystems_042_5"
       ],
-      "order": 42,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_042_nonogram_pixel.jpg"
     },
     {
@@ -922,7 +901,7 @@
         "ecosystems_043_4",
         "ecosystems_043_5"
       ],
-      "order": 43,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_043_nonogram_pixel.jpg"
     },
     {
@@ -943,7 +922,7 @@
         "ecosystems_044_4",
         "ecosystems_044_5"
       ],
-      "order": 44,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +943,7 @@
         "ecosystems_045_4",
         "ecosystems_045_5"
       ],
-      "order": 45,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +964,7 @@
         "ecosystems_046_4",
         "ecosystems_046_5"
       ],
-      "order": 46,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +985,7 @@
         "ecosystems_047_4",
         "ecosystems_047_5"
       ],
-      "order": 47,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +1006,7 @@
         "ecosystems_048_4",
         "ecosystems_048_5"
       ],
-      "order": 48,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +1027,7 @@
         "ecosystems_049_4",
         "ecosystems_049_5"
       ],
-      "order": 49,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +1048,7 @@
         "ecosystems_050_4",
         "ecosystems_050_5"
       ],
-      "order": 50,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,7 +1069,7 @@
         "ecosystems_051_4",
         "ecosystems_051_5"
       ],
-      "order": 51,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_051_nonogram_pixel.jpg"
     },
     {
@@ -1111,7 +1090,7 @@
         "ecosystems_052_4",
         "ecosystems_052_5"
       ],
-      "order": 52,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_052_nonogram_pixel.jpg"
     },
     {
@@ -1132,7 +1111,7 @@
         "ecosystems_053_4",
         "ecosystems_053_5"
       ],
-      "order": 53,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1132,7 @@
         "ecosystems_054_4",
         "ecosystems_054_5"
       ],
-      "order": 54,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1153,7 @@
         "ecosystems_055_4",
         "ecosystems_055_5"
       ],
-      "order": 55,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1174,7 @@
         "ecosystems_056_4",
         "ecosystems_056_5"
       ],
-      "order": 56,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1195,7 @@
         "ecosystems_057_4",
         "ecosystems_057_5"
       ],
-      "order": 57,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1216,7 @@
         "ecosystems_058_4",
         "ecosystems_058_5"
       ],
-      "order": 58,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1237,7 @@
         "ecosystems_059_4",
         "ecosystems_059_5"
       ],
-      "order": 59,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/ecosystems/ecosystems_059_nonogram_pixel.jpg"
     }
   ]

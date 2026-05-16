@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "deserts_gobi",
   "pictures": [
     {
@@ -800,27 +800,6 @@
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_037_nonogram_pixel.jpg"
     },
     {
-      "id": "deserts_gobi_038",
-      "title": "佩特拉玫瑰城",
-      "summary": "佩特拉古城在玫瑰色砂岩峡谷中雕刻而成，卡兹尼神殿立面高四十米...",
-      "full_text": "佩特拉古城在玫瑰色砂岩峡谷中雕刻而成，卡兹尼神殿立面高四十米如梦境。纳巴泰人两千年前在沙漠中建造城市，引水渠道在岩壁中开凿，峡谷通道如裂缝仅容一人通过。",
-      "image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_038.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "deserts_gobi_038_0",
-        "deserts_gobi_038_1",
-        "deserts_gobi_038_2",
-        "deserts_gobi_038_3",
-        "deserts_gobi_038_4",
-        "deserts_gobi_038_5"
-      ],
-      "order": 38,
-      "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_038_nonogram_pixel.jpg"
-    },
-    {
       "id": "deserts_gobi_039",
       "title": "新疆魔鬼城",
       "summary": "新疆乌尔禾魔鬼城雅丹地貌在狂风中发出鬼哭狼嚎之声，风蚀城堡千...",
@@ -838,7 +817,7 @@
         "deserts_gobi_039_4",
         "deserts_gobi_039_5"
       ],
-      "order": 39,
+      "order": 38,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_039_nonogram_pixel.jpg"
     },
     {
@@ -859,7 +838,7 @@
         "deserts_gobi_040_4",
         "deserts_gobi_040_5"
       ],
-      "order": 40,
+      "order": 39,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_040_nonogram_pixel.jpg"
     },
     {
@@ -880,7 +859,7 @@
         "deserts_gobi_041_4",
         "deserts_gobi_041_5"
       ],
-      "order": 41,
+      "order": 40,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_041_nonogram_pixel.jpg"
     },
     {
@@ -901,7 +880,7 @@
         "deserts_gobi_042_4",
         "deserts_gobi_042_5"
       ],
-      "order": 42,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_042_nonogram_pixel.jpg"
     },
     {
@@ -922,7 +901,7 @@
         "deserts_gobi_043_4",
         "deserts_gobi_043_5"
       ],
-      "order": 43,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_043_nonogram_pixel.jpg"
     },
     {
@@ -943,7 +922,7 @@
         "deserts_gobi_044_4",
         "deserts_gobi_044_5"
       ],
-      "order": 44,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +943,7 @@
         "deserts_gobi_045_4",
         "deserts_gobi_045_5"
       ],
-      "order": 45,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +964,7 @@
         "deserts_gobi_046_4",
         "deserts_gobi_046_5"
       ],
-      "order": 46,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +985,7 @@
         "deserts_gobi_047_4",
         "deserts_gobi_047_5"
       ],
-      "order": 47,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +1006,7 @@
         "deserts_gobi_048_4",
         "deserts_gobi_048_5"
       ],
-      "order": 48,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +1027,7 @@
         "deserts_gobi_049_4",
         "deserts_gobi_049_5"
       ],
-      "order": 49,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +1048,7 @@
         "deserts_gobi_050_4",
         "deserts_gobi_050_5"
       ],
-      "order": 50,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,7 +1069,7 @@
         "deserts_gobi_051_4",
         "deserts_gobi_051_5"
       ],
-      "order": 51,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_051_nonogram_pixel.jpg"
     },
     {
@@ -1111,7 +1090,7 @@
         "deserts_gobi_052_4",
         "deserts_gobi_052_5"
       ],
-      "order": 52,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_052_nonogram_pixel.jpg"
     },
     {
@@ -1132,7 +1111,7 @@
         "deserts_gobi_053_4",
         "deserts_gobi_053_5"
       ],
-      "order": 53,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1132,7 @@
         "deserts_gobi_054_4",
         "deserts_gobi_054_5"
       ],
-      "order": 54,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1153,7 @@
         "deserts_gobi_055_4",
         "deserts_gobi_055_5"
       ],
-      "order": 55,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1174,7 @@
         "deserts_gobi_056_4",
         "deserts_gobi_056_5"
       ],
-      "order": 56,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1195,7 @@
         "deserts_gobi_057_4",
         "deserts_gobi_057_5"
       ],
-      "order": 57,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1216,7 @@
         "deserts_gobi_058_4",
         "deserts_gobi_058_5"
       ],
-      "order": 58,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1237,7 @@
         "deserts_gobi_059_4",
         "deserts_gobi_059_5"
       ],
-      "order": 59,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/deserts_gobi/deserts_gobi_059_nonogram_pixel.jpg"
     }
   ]

@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "archaeology",
   "pictures": [
     {
@@ -254,27 +254,6 @@
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_011_nonogram_pixel.jpg"
     },
     {
-      "id": "archaeology_012",
-      "title": "庞贝古城",
-      "summary": "公元七十九年维苏威火山爆发将庞贝城掩埋在火山灰下。十八世纪重...",
-      "full_text": "公元七十九年维苏威火山爆发将庞贝城掩埋在火山灰下。十八世纪重新发掘后，街道、房屋、壁画和面包房完整保存。遇难者的遗体在火山灰中留下空腔，灌注石膏后再现了他们最后的姿态。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_012.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_012_0",
-        "archaeology_012_1",
-        "archaeology_012_2",
-        "archaeology_012_3",
-        "archaeology_012_4",
-        "archaeology_012_5"
-      ],
-      "order": 12,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_012_nonogram_pixel.jpg"
-    },
-    {
       "id": "archaeology_013",
       "title": "特洛伊遗址",
       "summary": "谢里曼在希沙利克山丘发掘出九层城市遗址，特洛伊战争从神话变为...",
@@ -292,7 +271,7 @@
         "archaeology_013_4",
         "archaeology_013_5"
       ],
-      "order": 13,
+      "order": 12,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_013_nonogram_pixel.jpg"
     },
     {
@@ -313,7 +292,7 @@
         "archaeology_014_4",
         "archaeology_014_5"
       ],
-      "order": 14,
+      "order": 13,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_014_nonogram_pixel.jpg"
     },
     {
@@ -334,7 +313,7 @@
         "archaeology_015_4",
         "archaeology_015_5"
       ],
-      "order": 15,
+      "order": 14,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_015_nonogram_pixel.jpg"
     },
     {
@@ -355,7 +334,7 @@
         "archaeology_016_4",
         "archaeology_016_5"
       ],
-      "order": 16,
+      "order": 15,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_016_nonogram_pixel.jpg"
     },
     {
@@ -376,7 +355,7 @@
         "archaeology_017_4",
         "archaeology_017_5"
       ],
-      "order": 17,
+      "order": 16,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_017_nonogram_pixel.jpg"
     },
     {
@@ -397,7 +376,7 @@
         "archaeology_018_4",
         "archaeology_018_5"
       ],
-      "order": 18,
+      "order": 17,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_018_nonogram_pixel.jpg"
     },
     {
@@ -418,7 +397,7 @@
         "archaeology_019_4",
         "archaeology_019_5"
       ],
-      "order": 19,
+      "order": 18,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_019_nonogram_pixel.jpg"
     },
     {
@@ -439,7 +418,7 @@
         "archaeology_020_4",
         "archaeology_020_5"
       ],
-      "order": 20,
+      "order": 19,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_020_nonogram_pixel.jpg"
     },
     {
@@ -460,7 +439,7 @@
         "archaeology_021_4",
         "archaeology_021_5"
       ],
-      "order": 21,
+      "order": 20,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_021_nonogram_pixel.jpg"
     },
     {
@@ -481,7 +460,7 @@
         "archaeology_022_4",
         "archaeology_022_5"
       ],
-      "order": 22,
+      "order": 21,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_022_nonogram_pixel.jpg"
     },
     {
@@ -502,7 +481,7 @@
         "archaeology_023_4",
         "archaeology_023_5"
       ],
-      "order": 23,
+      "order": 22,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_023_nonogram_pixel.jpg"
     },
     {
@@ -523,7 +502,7 @@
         "archaeology_024_4",
         "archaeology_024_5"
       ],
-      "order": 24,
+      "order": 23,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_024_nonogram_pixel.jpg"
     },
     {
@@ -544,7 +523,7 @@
         "archaeology_025_4",
         "archaeology_025_5"
       ],
-      "order": 25,
+      "order": 24,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_025_nonogram_pixel.jpg"
     },
     {
@@ -565,7 +544,7 @@
         "archaeology_026_4",
         "archaeology_026_5"
       ],
-      "order": 26,
+      "order": 25,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_026_nonogram_pixel.jpg"
     },
     {
@@ -586,7 +565,7 @@
         "archaeology_027_4",
         "archaeology_027_5"
       ],
-      "order": 27,
+      "order": 26,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_027_nonogram_pixel.jpg"
     },
     {
@@ -607,7 +586,7 @@
         "archaeology_028_4",
         "archaeology_028_5"
       ],
-      "order": 28,
+      "order": 27,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_028_nonogram_pixel.jpg"
     },
     {
@@ -628,7 +607,7 @@
         "archaeology_029_4",
         "archaeology_029_5"
       ],
-      "order": 29,
+      "order": 28,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_029_nonogram_pixel.jpg"
     },
     {
@@ -649,7 +628,7 @@
         "archaeology_030_4",
         "archaeology_030_5"
       ],
-      "order": 30,
+      "order": 29,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_030_nonogram_pixel.jpg"
     },
     {
@@ -670,7 +649,7 @@
         "archaeology_031_4",
         "archaeology_031_5"
       ],
-      "order": 31,
+      "order": 30,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_031_nonogram_pixel.jpg"
     },
     {
@@ -691,7 +670,7 @@
         "archaeology_032_4",
         "archaeology_032_5"
       ],
-      "order": 32,
+      "order": 31,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_032_nonogram_pixel.jpg"
     },
     {
@@ -712,7 +691,7 @@
         "archaeology_033_4",
         "archaeology_033_5"
       ],
-      "order": 33,
+      "order": 32,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_033_nonogram_pixel.jpg"
     },
     {
@@ -733,7 +712,7 @@
         "archaeology_034_4",
         "archaeology_034_5"
       ],
-      "order": 34,
+      "order": 33,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_034_nonogram_pixel.jpg"
     },
     {
@@ -754,7 +733,7 @@
         "archaeology_035_4",
         "archaeology_035_5"
       ],
-      "order": 35,
+      "order": 34,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_035_nonogram_pixel.jpg"
     },
     {
@@ -775,7 +754,7 @@
         "archaeology_036_4",
         "archaeology_036_5"
       ],
-      "order": 36,
+      "order": 35,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_036_nonogram_pixel.jpg"
     },
     {
@@ -796,7 +775,7 @@
         "archaeology_037_4",
         "archaeology_037_5"
       ],
-      "order": 37,
+      "order": 36,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_037_nonogram_pixel.jpg"
     },
     {
@@ -817,7 +796,7 @@
         "archaeology_038_4",
         "archaeology_038_5"
       ],
-      "order": 38,
+      "order": 37,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_038_nonogram_pixel.jpg"
     },
     {
@@ -838,7 +817,7 @@
         "archaeology_039_4",
         "archaeology_039_5"
       ],
-      "order": 39,
+      "order": 38,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_039_nonogram_pixel.jpg"
     },
     {
@@ -859,7 +838,7 @@
         "archaeology_040_4",
         "archaeology_040_5"
       ],
-      "order": 40,
+      "order": 39,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_040_nonogram_pixel.jpg"
     },
     {
@@ -880,7 +859,7 @@
         "archaeology_041_4",
         "archaeology_041_5"
       ],
-      "order": 41,
+      "order": 40,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_041_nonogram_pixel.jpg"
     },
     {
@@ -901,7 +880,7 @@
         "archaeology_042_4",
         "archaeology_042_5"
       ],
-      "order": 42,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_042_nonogram_pixel.jpg"
     },
     {
@@ -922,7 +901,7 @@
         "archaeology_043_4",
         "archaeology_043_5"
       ],
-      "order": 43,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_043_nonogram_pixel.jpg"
     },
     {
@@ -943,7 +922,7 @@
         "archaeology_044_4",
         "archaeology_044_5"
       ],
-      "order": 44,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +943,7 @@
         "archaeology_045_4",
         "archaeology_045_5"
       ],
-      "order": 45,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +964,7 @@
         "archaeology_046_4",
         "archaeology_046_5"
       ],
-      "order": 46,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +985,7 @@
         "archaeology_047_4",
         "archaeology_047_5"
       ],
-      "order": 47,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +1006,7 @@
         "archaeology_048_4",
         "archaeology_048_5"
       ],
-      "order": 48,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +1027,7 @@
         "archaeology_049_4",
         "archaeology_049_5"
       ],
-      "order": 49,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +1048,7 @@
         "archaeology_050_4",
         "archaeology_050_5"
       ],
-      "order": 50,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,29 +1069,8 @@
         "archaeology_051_4",
         "archaeology_051_5"
       ],
-      "order": 51,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_051_nonogram_pixel.jpg"
-    },
-    {
-      "id": "archaeology_052",
-      "title": "特奥蒂瓦坎",
-      "summary": "墨西哥特奥蒂瓦坎的太阳金字塔高六十五米，月亮金字塔与羽蛇神庙...",
-      "full_text": "墨西哥特奥蒂瓦坎的太阳金字塔高六十五米，月亮金字塔与羽蛇神庙沿亡者大道排列。隧道中发现了水银与云母，暗示着复杂的祭祀仪式，这座美洲最大的前哥伦布城市其建造者身份至今成谜。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_052.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_052_0",
-        "archaeology_052_1",
-        "archaeology_052_2",
-        "archaeology_052_3",
-        "archaeology_052_4",
-        "archaeology_052_5"
-      ],
-      "order": 52,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_052_nonogram_pixel.jpg"
     },
     {
       "id": "archaeology_053",
@@ -1132,7 +1090,7 @@
         "archaeology_053_4",
         "archaeology_053_5"
       ],
-      "order": 53,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1111,7 @@
         "archaeology_054_4",
         "archaeology_054_5"
       ],
-      "order": 54,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1132,7 @@
         "archaeology_055_4",
         "archaeology_055_5"
       ],
-      "order": 55,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1153,7 @@
         "archaeology_056_4",
         "archaeology_056_5"
       ],
-      "order": 56,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1174,7 @@
         "archaeology_057_4",
         "archaeology_057_5"
       ],
-      "order": 57,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1195,7 @@
         "archaeology_058_4",
         "archaeology_058_5"
       ],
-      "order": 58,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1216,7 @@
         "archaeology_059_4",
         "archaeology_059_5"
       ],
-      "order": 59,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_059_nonogram_pixel.jpg"
     },
     {
@@ -1279,7 +1237,7 @@
         "archaeology_060_4",
         "archaeology_060_5"
       ],
-      "order": 60,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_060_nonogram_pixel.jpg"
     },
     {
@@ -1300,7 +1258,7 @@
         "archaeology_061_4",
         "archaeology_061_5"
       ],
-      "order": 61,
+      "order": 59,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,7 +1279,7 @@
         "archaeology_062_4",
         "archaeology_062_5"
       ],
-      "order": 62,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,7 +1300,7 @@
         "archaeology_063_4",
         "archaeology_063_5"
       ],
-      "order": 63,
+      "order": 61,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_063_nonogram_pixel.jpg"
     },
     {
@@ -1363,7 +1321,7 @@
         "archaeology_064_4",
         "archaeology_064_5"
       ],
-      "order": 64,
+      "order": 62,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_064_nonogram_pixel.jpg"
     },
     {
@@ -1384,7 +1342,7 @@
         "archaeology_065_4",
         "archaeology_065_5"
       ],
-      "order": 65,
+      "order": 63,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_065_nonogram_pixel.jpg"
     },
     {
@@ -1405,7 +1363,7 @@
         "archaeology_066_4",
         "archaeology_066_5"
       ],
-      "order": 66,
+      "order": 64,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_066_nonogram_pixel.jpg"
     },
     {
@@ -1426,7 +1384,7 @@
         "archaeology_067_4",
         "archaeology_067_5"
       ],
-      "order": 67,
+      "order": 65,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_067_nonogram_pixel.jpg"
     },
     {
@@ -1447,7 +1405,7 @@
         "archaeology_068_4",
         "archaeology_068_5"
       ],
-      "order": 68,
+      "order": 66,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_068_nonogram_pixel.jpg"
     },
     {
@@ -1468,7 +1426,7 @@
         "archaeology_069_4",
         "archaeology_069_5"
       ],
-      "order": 69,
+      "order": 67,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_069_nonogram_pixel.jpg"
     },
     {
@@ -1489,7 +1447,7 @@
         "archaeology_070_4",
         "archaeology_070_5"
       ],
-      "order": 70,
+      "order": 68,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_070_nonogram_pixel.jpg"
     },
     {
@@ -1510,7 +1468,7 @@
         "archaeology_071_4",
         "archaeology_071_5"
       ],
-      "order": 71,
+      "order": 69,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_071_nonogram_pixel.jpg"
     },
     {
@@ -1531,7 +1489,7 @@
         "archaeology_072_4",
         "archaeology_072_5"
       ],
-      "order": 72,
+      "order": 70,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_072_nonogram_pixel.jpg"
     },
     {
@@ -1552,7 +1510,7 @@
         "archaeology_073_4",
         "archaeology_073_5"
       ],
-      "order": 73,
+      "order": 71,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_073_nonogram_pixel.jpg"
     },
     {
@@ -1573,7 +1531,7 @@
         "archaeology_074_4",
         "archaeology_074_5"
       ],
-      "order": 74,
+      "order": 72,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_074_nonogram_pixel.jpg"
     },
     {
@@ -1594,7 +1552,7 @@
         "archaeology_075_4",
         "archaeology_075_5"
       ],
-      "order": 75,
+      "order": 73,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_075_nonogram_pixel.jpg"
     },
     {
@@ -1615,7 +1573,7 @@
         "archaeology_076_4",
         "archaeology_076_5"
       ],
-      "order": 76,
+      "order": 74,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_076_nonogram_pixel.jpg"
     },
     {
@@ -1636,7 +1594,7 @@
         "archaeology_077_4",
         "archaeology_077_5"
       ],
-      "order": 77,
+      "order": 75,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_077_nonogram_pixel.jpg"
     },
     {
@@ -1657,7 +1615,7 @@
         "archaeology_078_4",
         "archaeology_078_5"
       ],
-      "order": 78,
+      "order": 76,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_078_nonogram_pixel.jpg"
     },
     {
@@ -1678,7 +1636,7 @@
         "archaeology_079_4",
         "archaeology_079_5"
       ],
-      "order": 79,
+      "order": 77,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_079_nonogram_pixel.jpg"
     }
   ]

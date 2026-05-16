@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "contemporary_media",
   "pictures": [
     {
@@ -1199,27 +1199,6 @@
       "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_056_nonogram_pixel.jpg"
     },
     {
-      "id": "contemporary_media_057",
-      "title": "生成对抗网络艺术",
-      "summary": "生成对抗网络以两个神经网络博弈创造图像如真如假如竞如争如进如...",
-      "full_text": "生成对抗网络以两个神经网络博弈创造图像如真如假如竞如争如进如化如超如现如实如人如脸如风如景如梦如境，为人工智能艺术最核心的技术与机器创造力最令人惊叹的展示。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_057.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "contemporary_media_057_0",
-        "contemporary_media_057_1",
-        "contemporary_media_057_2",
-        "contemporary_media_057_3",
-        "contemporary_media_057_4",
-        "contemporary_media_057_5"
-      ],
-      "order": 57,
-      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_057_nonogram_pixel.jpg"
-    },
-    {
       "id": "contemporary_media_058",
       "title": "NFT数字艺术",
       "summary": "NFT以区块链技术确权数字艺术品如唯如一如不可如替如代如收如...",
@@ -1237,7 +1216,7 @@
         "contemporary_media_058_4",
         "contemporary_media_058_5"
       ],
-      "order": 58,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,29 +1237,8 @@
         "contemporary_media_059_4",
         "contemporary_media_059_5"
       ],
-      "order": 59,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_059_nonogram_pixel.jpg"
-    },
-    {
-      "id": "contemporary_media_060",
-      "title": "虚拟现实沉浸体验",
-      "summary": "虚拟现实艺术以头戴设备创造完全沉浸的三维空间如入如境如触如碰...",
-      "full_text": "虚拟现实艺术以头戴设备创造完全沉浸的三维空间如入如境如触如碰如互如动如无如边如界如超如越如物如理如限如制如精如神如自如由，为数字艺术最极致的沉浸形式与身体最深刻的虚拟化。",
-      "image": "res://assets/images/illustrations/contemporary_media/contemporary_media_060.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "contemporary_media_060_0",
-        "contemporary_media_060_1",
-        "contemporary_media_060_2",
-        "contemporary_media_060_3",
-        "contemporary_media_060_4",
-        "contemporary_media_060_5"
-      ],
-      "order": 60,
-      "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_060_nonogram_pixel.jpg"
     },
     {
       "id": "contemporary_media_061",
@@ -1300,7 +1258,7 @@
         "contemporary_media_061_4",
         "contemporary_media_061_5"
       ],
-      "order": 61,
+      "order": 59,
       "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,7 +1279,7 @@
         "contemporary_media_062_4",
         "contemporary_media_062_5"
       ],
-      "order": 62,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,7 +1300,7 @@
         "contemporary_media_063_4",
         "contemporary_media_063_5"
       ],
-      "order": 63,
+      "order": 61,
       "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_063_nonogram_pixel.jpg"
     },
     {
@@ -1363,7 +1321,7 @@
         "contemporary_media_064_4",
         "contemporary_media_064_5"
       ],
-      "order": 64,
+      "order": 62,
       "pixel_image": "res://assets/images/illustrations/contemporary_media/contemporary_media_064_nonogram_pixel.jpg"
     }
   ]

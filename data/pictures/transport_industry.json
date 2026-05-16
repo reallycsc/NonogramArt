@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "transport_industry",
   "pictures": [
     {
@@ -1178,27 +1178,6 @@
       "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_055_nonogram_pixel.jpg"
     },
     {
-      "id": "transport_industry_056",
-      "title": "太空旅游商业",
-      "summary": "商业航天公司用可回收火箭将游客送入亚轨道体验失重，太空旅游不...",
-      "full_text": "商业航天公司用可回收火箭将游客送入亚轨道体验失重，太空旅游不再是梦。太空旅游是商业航天的新赛道，从百万美元到平民价格还需时间。",
-      "image": "res://assets/images/illustrations/transport_industry/transport_industry_056.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "transport_industry_056_0",
-        "transport_industry_056_1",
-        "transport_industry_056_2",
-        "transport_industry_056_3",
-        "transport_industry_056_4",
-        "transport_industry_056_5"
-      ],
-      "order": 56,
-      "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_056_nonogram_pixel.jpg"
-    },
-    {
       "id": "transport_industry_057",
       "title": "交通数字孪生",
       "summary": "数字孪生城市中虚拟交通流模拟真实路况，优化信号和路网设计。数...",
@@ -1216,7 +1195,7 @@
         "transport_industry_057_4",
         "transport_industry_057_5"
       ],
-      "order": 57,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1216,7 @@
         "transport_industry_058_4",
         "transport_industry_058_5"
       ],
-      "order": 58,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1237,7 @@
         "transport_industry_059_4",
         "transport_industry_059_5"
       ],
-      "order": 59,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_059_nonogram_pixel.jpg"
     },
     {
@@ -1279,7 +1258,7 @@
         "transport_industry_060_4",
         "transport_industry_060_5"
       ],
-      "order": 60,
+      "order": 59,
       "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_060_nonogram_pixel.jpg"
     },
     {
@@ -1300,7 +1279,7 @@
         "transport_industry_061_4",
         "transport_industry_061_5"
       ],
-      "order": 61,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,7 +1300,7 @@
         "transport_industry_062_4",
         "transport_industry_062_5"
       ],
-      "order": 62,
+      "order": 61,
       "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,7 +1321,7 @@
         "transport_industry_063_4",
         "transport_industry_063_5"
       ],
-      "order": 63,
+      "order": 62,
       "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_063_nonogram_pixel.jpg"
     },
     {
@@ -1363,7 +1342,7 @@
         "transport_industry_064_4",
         "transport_industry_064_5"
       ],
-      "order": 64,
+      "order": 63,
       "pixel_image": "res://assets/images/illustrations/transport_industry/transport_industry_064_nonogram_pixel.jpg"
     }
   ]

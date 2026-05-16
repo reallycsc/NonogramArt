@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "folk_traditional",
   "pictures": [
     {
@@ -422,27 +422,6 @@
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_019_nonogram_pixel.jpg"
     },
     {
-      "id": "folk_traditional_020",
-      "title": "蒙古长调牧歌",
-      "summary": "蒙古长调为草原上的自由之歌，牧人骑马缓行于无垠草海，歌声如天...",
-      "full_text": "蒙古长调为草原上的自由之歌，牧人骑马缓行于无垠草海，歌声如天如地如风如云如延绵如无尽如呼吸如草原本身，装饰音如马头琴如颤如吟，为世界非物质文化遗产。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_020.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "folk_traditional_020_0",
-        "folk_traditional_020_1",
-        "folk_traditional_020_2",
-        "folk_traditional_020_3",
-        "folk_traditional_020_4",
-        "folk_traditional_020_5"
-      ],
-      "order": 20,
-      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_020_nonogram_pixel.jpg"
-    },
-    {
       "id": "folk_traditional_021",
       "title": "蒙古马头琴",
       "summary": "蒙古马头琴以马皮蒙面马尾为弦，拉奏时如马嘶如风啸如草原如苍凉...",
@@ -460,7 +439,7 @@
         "folk_traditional_021_4",
         "folk_traditional_021_5"
       ],
-      "order": 21,
+      "order": 20,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_021_nonogram_pixel.jpg"
     },
     {
@@ -481,7 +460,7 @@
         "folk_traditional_022_4",
         "folk_traditional_022_5"
       ],
-      "order": 22,
+      "order": 21,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_022_nonogram_pixel.jpg"
     },
     {
@@ -502,7 +481,7 @@
         "folk_traditional_023_4",
         "folk_traditional_023_5"
       ],
-      "order": 23,
+      "order": 22,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_023_nonogram_pixel.jpg"
     },
     {
@@ -523,29 +502,8 @@
         "folk_traditional_024_4",
         "folk_traditional_024_5"
       ],
-      "order": 24,
+      "order": 23,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_024_nonogram_pixel.jpg"
-    },
-    {
-      "id": "folk_traditional_025",
-      "title": "侗族大歌",
-      "summary": "贵州侗族大歌为无指挥无伴奏的多声部合唱，歌者如蝉如鸟如水如风...",
-      "full_text": "贵州侗族大歌为无指挥无伴奏的多声部合唱，歌者如蝉如鸟如水如风如自然如天籁，和声如织如网如层如叠如复如调，为东方最古老的多声部民歌传统与世界非遗代表作。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_025.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "folk_traditional_025_0",
-        "folk_traditional_025_1",
-        "folk_traditional_025_2",
-        "folk_traditional_025_3",
-        "folk_traditional_025_4",
-        "folk_traditional_025_5"
-      ],
-      "order": 25,
-      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_025_nonogram_pixel.jpg"
     },
     {
       "id": "folk_traditional_026",
@@ -565,7 +523,7 @@
         "folk_traditional_026_4",
         "folk_traditional_026_5"
       ],
-      "order": 26,
+      "order": 24,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_026_nonogram_pixel.jpg"
     },
     {
@@ -586,7 +544,7 @@
         "folk_traditional_027_4",
         "folk_traditional_027_5"
       ],
-      "order": 27,
+      "order": 25,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_027_nonogram_pixel.jpg"
     },
     {
@@ -607,7 +565,7 @@
         "folk_traditional_028_4",
         "folk_traditional_028_5"
       ],
-      "order": 28,
+      "order": 26,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_028_nonogram_pixel.jpg"
     },
     {
@@ -628,7 +586,7 @@
         "folk_traditional_029_4",
         "folk_traditional_029_5"
       ],
-      "order": 29,
+      "order": 27,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_029_nonogram_pixel.jpg"
     },
     {
@@ -649,7 +607,7 @@
         "folk_traditional_030_4",
         "folk_traditional_030_5"
       ],
-      "order": 30,
+      "order": 28,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_030_nonogram_pixel.jpg"
     },
     {
@@ -670,7 +628,7 @@
         "folk_traditional_031_4",
         "folk_traditional_031_5"
       ],
-      "order": 31,
+      "order": 29,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_031_nonogram_pixel.jpg"
     },
     {
@@ -691,7 +649,7 @@
         "folk_traditional_032_4",
         "folk_traditional_032_5"
       ],
-      "order": 32,
+      "order": 30,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_032_nonogram_pixel.jpg"
     },
     {
@@ -712,7 +670,7 @@
         "folk_traditional_033_4",
         "folk_traditional_033_5"
       ],
-      "order": 33,
+      "order": 31,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_033_nonogram_pixel.jpg"
     },
     {
@@ -733,7 +691,7 @@
         "folk_traditional_034_4",
         "folk_traditional_034_5"
       ],
-      "order": 34,
+      "order": 32,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_034_nonogram_pixel.jpg"
     },
     {
@@ -754,7 +712,7 @@
         "folk_traditional_035_4",
         "folk_traditional_035_5"
       ],
-      "order": 35,
+      "order": 33,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_035_nonogram_pixel.jpg"
     },
     {
@@ -775,7 +733,7 @@
         "folk_traditional_036_4",
         "folk_traditional_036_5"
       ],
-      "order": 36,
+      "order": 34,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_036_nonogram_pixel.jpg"
     },
     {
@@ -796,7 +754,7 @@
         "folk_traditional_037_4",
         "folk_traditional_037_5"
       ],
-      "order": 37,
+      "order": 35,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_037_nonogram_pixel.jpg"
     },
     {
@@ -817,7 +775,7 @@
         "folk_traditional_038_4",
         "folk_traditional_038_5"
       ],
-      "order": 38,
+      "order": 36,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_038_nonogram_pixel.jpg"
     },
     {
@@ -838,7 +796,7 @@
         "folk_traditional_039_4",
         "folk_traditional_039_5"
       ],
-      "order": 39,
+      "order": 37,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_039_nonogram_pixel.jpg"
     },
     {
@@ -859,71 +817,8 @@
         "folk_traditional_040_4",
         "folk_traditional_040_5"
       ],
-      "order": 40,
+      "order": 38,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_040_nonogram_pixel.jpg"
-    },
-    {
-      "id": "folk_traditional_041",
-      "title": "元宵灯会",
-      "summary": "正月十五元宵灯会为春节最后的高潮，花灯如星如河如海如市如龙如...",
-      "full_text": "正月十五元宵灯会为春节最后的高潮，花灯如星如河如海如市如龙如凤如莲如塔，猜灯谜如智如趣如雅如乐，为中国人最浪漫的夜晚与灯彩工艺最辉煌的展示。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_041.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "folk_traditional_041_0",
-        "folk_traditional_041_1",
-        "folk_traditional_041_2",
-        "folk_traditional_041_3",
-        "folk_traditional_041_4",
-        "folk_traditional_041_5"
-      ],
-      "order": 41,
-      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_041_nonogram_pixel.jpg"
-    },
-    {
-      "id": "folk_traditional_042",
-      "title": "清明祭祖",
-      "summary": "清明节为中国人慎终追远的传统节日，族人齐聚祠堂焚香祭拜如敬如...",
-      "full_text": "清明节为中国人慎终追远的传统节日，族人齐聚祠堂焚香祭拜如敬如诚如孝如思，扫墓如清如理如忆如念，为中华民族最深沉的祖先崇拜与家族凝聚的年度仪式。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_042.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "folk_traditional_042_0",
-        "folk_traditional_042_1",
-        "folk_traditional_042_2",
-        "folk_traditional_042_3",
-        "folk_traditional_042_4",
-        "folk_traditional_042_5"
-      ],
-      "order": 42,
-      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_042_nonogram_pixel.jpg"
-    },
-    {
-      "id": "folk_traditional_043",
-      "title": "端午龙舟",
-      "summary": "端午节龙舟竞渡为纪念屈原的民间盛事，龙舟如箭如飞如龙如腾如鼓...",
-      "full_text": "端午节龙舟竞渡为纪念屈原的民间盛事，龙舟如箭如飞如龙如腾如鼓如雷如喊如潮，粽叶飘香如古如传如俗如习，为中国最激烈的民间体育竞技与最富传说的节日起源。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_043.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "folk_traditional_043_0",
-        "folk_traditional_043_1",
-        "folk_traditional_043_2",
-        "folk_traditional_043_3",
-        "folk_traditional_043_4",
-        "folk_traditional_043_5"
-      ],
-      "order": 43,
-      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_043_nonogram_pixel.jpg"
     },
     {
       "id": "folk_traditional_044",
@@ -943,7 +838,7 @@
         "folk_traditional_044_4",
         "folk_traditional_044_5"
       ],
-      "order": 44,
+      "order": 39,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +859,7 @@
         "folk_traditional_045_4",
         "folk_traditional_045_5"
       ],
-      "order": 45,
+      "order": 40,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +880,7 @@
         "folk_traditional_046_4",
         "folk_traditional_046_5"
       ],
-      "order": 46,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +901,7 @@
         "folk_traditional_047_4",
         "folk_traditional_047_5"
       ],
-      "order": 47,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +922,7 @@
         "folk_traditional_048_4",
         "folk_traditional_048_5"
       ],
-      "order": 48,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +943,7 @@
         "folk_traditional_049_4",
         "folk_traditional_049_5"
       ],
-      "order": 49,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +964,7 @@
         "folk_traditional_050_4",
         "folk_traditional_050_5"
       ],
-      "order": 50,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,7 +985,7 @@
         "folk_traditional_051_4",
         "folk_traditional_051_5"
       ],
-      "order": 51,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_051_nonogram_pixel.jpg"
     },
     {
@@ -1111,7 +1006,7 @@
         "folk_traditional_052_4",
         "folk_traditional_052_5"
       ],
-      "order": 52,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_052_nonogram_pixel.jpg"
     },
     {
@@ -1132,7 +1027,7 @@
         "folk_traditional_053_4",
         "folk_traditional_053_5"
       ],
-      "order": 53,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1048,7 @@
         "folk_traditional_054_4",
         "folk_traditional_054_5"
       ],
-      "order": 54,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1069,7 @@
         "folk_traditional_055_4",
         "folk_traditional_055_5"
       ],
-      "order": 55,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1090,7 @@
         "folk_traditional_056_4",
         "folk_traditional_056_5"
       ],
-      "order": 56,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1111,7 @@
         "folk_traditional_057_4",
         "folk_traditional_057_5"
       ],
-      "order": 57,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1132,7 @@
         "folk_traditional_058_4",
         "folk_traditional_058_5"
       ],
-      "order": 58,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1153,7 @@
         "folk_traditional_059_4",
         "folk_traditional_059_5"
       ],
-      "order": 59,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_059_nonogram_pixel.jpg"
     },
     {
@@ -1279,7 +1174,7 @@
         "folk_traditional_060_4",
         "folk_traditional_060_5"
       ],
-      "order": 60,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_060_nonogram_pixel.jpg"
     },
     {
@@ -1300,7 +1195,7 @@
         "folk_traditional_061_4",
         "folk_traditional_061_5"
       ],
-      "order": 61,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,7 +1216,7 @@
         "folk_traditional_062_4",
         "folk_traditional_062_5"
       ],
-      "order": 62,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,50 +1237,8 @@
         "folk_traditional_063_4",
         "folk_traditional_063_5"
       ],
-      "order": 63,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_063_nonogram_pixel.jpg"
-    },
-    {
-      "id": "folk_traditional_064",
-      "title": "雕版印刷",
-      "summary": "中国雕版印刷以梨木为版反刻文字图像如刀如刻如铁如线如镜如反如...",
-      "full_text": "中国雕版印刷以梨木为版反刻文字图像如刀如刻如铁如线如镜如反如正，上墨覆纸刷印如墨如匀如清如晰，为四大发明之一印刷术的原始形态与文明传播最古老的复制技术。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_064.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "folk_traditional_064_0",
-        "folk_traditional_064_1",
-        "folk_traditional_064_2",
-        "folk_traditional_064_3",
-        "folk_traditional_064_4",
-        "folk_traditional_064_5"
-      ],
-      "order": 64,
-      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_064_nonogram_pixel.jpg"
-    },
-    {
-      "id": "folk_traditional_065",
-      "title": "活字印刷",
-      "summary": "北宋毕昇发明胶泥活字，每字一印如独如立如活如动如排如列如组如...",
-      "full_text": "北宋毕昇发明胶泥活字，每字一印如独如立如活如动如排如列如组如合如拆如散，以松脂蜡粘合如固如定如印如刷，为印刷术最革命性的创新与信息复制技术的历史性飞跃。",
-      "image": "res://assets/images/illustrations/folk_traditional/folk_traditional_065.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "folk_traditional_065_0",
-        "folk_traditional_065_1",
-        "folk_traditional_065_2",
-        "folk_traditional_065_3",
-        "folk_traditional_065_4",
-        "folk_traditional_065_5"
-      ],
-      "order": 65,
-      "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_065_nonogram_pixel.jpg"
     },
     {
       "id": "folk_traditional_066",
@@ -1405,7 +1258,7 @@
         "folk_traditional_066_4",
         "folk_traditional_066_5"
       ],
-      "order": 66,
+      "order": 59,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_066_nonogram_pixel.jpg"
     },
     {
@@ -1426,7 +1279,7 @@
         "folk_traditional_067_4",
         "folk_traditional_067_5"
       ],
-      "order": 67,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_067_nonogram_pixel.jpg"
     },
     {
@@ -1447,7 +1300,7 @@
         "folk_traditional_068_4",
         "folk_traditional_068_5"
       ],
-      "order": 68,
+      "order": 61,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_068_nonogram_pixel.jpg"
     },
     {
@@ -1468,7 +1321,7 @@
         "folk_traditional_069_4",
         "folk_traditional_069_5"
       ],
-      "order": 69,
+      "order": 62,
       "pixel_image": "res://assets/images/illustrations/folk_traditional/folk_traditional_069_nonogram_pixel.jpg"
     }
   ]

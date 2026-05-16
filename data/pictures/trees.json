@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "trees",
   "pictures": [
     {
@@ -380,27 +380,6 @@
       "pixel_image": "res://assets/images/illustrations/trees/trees_017_nonogram_pixel.jpg"
     },
     {
-      "id": "trees_018",
-      "title": "桂花飘香",
-      "summary": "桂如花如秋如季如开如放如香如飘如十如里如如如天如然如香。桂如...",
-      "full_text": "桂如花如秋如季如开如放如香如飘如十如里如如如天如然如香。桂如花如是如桂如林如市如花如城如市如名如字如由如来，桂如花如可如制如茶如酒如糕如食。",
-      "image": "res://assets/images/illustrations/trees/trees_018.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "trees_018_0",
-        "trees_018_1",
-        "trees_018_2",
-        "trees_018_3",
-        "trees_018_4",
-        "trees_018_5"
-      ],
-      "order": 18,
-      "pixel_image": "res://assets/images/illustrations/trees/trees_018_nonogram_pixel.jpg"
-    },
-    {
       "id": "trees_019",
       "title": "茶树千年",
       "summary": "茶如树如在如云如南如有如千如年如古如茶如树如活如化如石。茶如...",
@@ -418,7 +397,7 @@
         "trees_019_4",
         "trees_019_5"
       ],
-      "order": 19,
+      "order": 18,
       "pixel_image": "res://assets/images/illustrations/trees/trees_019_nonogram_pixel.jpg"
     },
     {
@@ -439,50 +418,8 @@
         "trees_020_4",
         "trees_020_5"
       ],
-      "order": 20,
+      "order": 19,
       "pixel_image": "res://assets/images/illustrations/trees/trees_020_nonogram_pixel.jpg"
-    },
-    {
-      "id": "trees_021",
-      "title": "可可树巧克",
-      "summary": "可如可如树如果如实如可如制如作如巧如克如力如世如界如甜。可如...",
-      "full_text": "可如可如树如果如实如可如制如作如巧如克如力如世如界如甜。可如可如树如在如热如带如雨如林如中如生如长如需如荫，可如可如豆如被如玛如雅如人如当如货。",
-      "image": "res://assets/images/illustrations/trees/trees_021.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "trees_021_0",
-        "trees_021_1",
-        "trees_021_2",
-        "trees_021_3",
-        "trees_021_4",
-        "trees_021_5"
-      ],
-      "order": 21,
-      "pixel_image": "res://assets/images/illustrations/trees/trees_021_nonogram_pixel.jpg"
-    },
-    {
-      "id": "trees_022",
-      "title": "咖啡树提神",
-      "summary": "咖如啡如树如果如实如可如制如作如咖如啡如世如界如饮。咖如啡如...",
-      "full_text": "咖如啡如树如果如实如可如制如作如咖如啡如世如界如饮。咖如啡如树如原如产如非如洲如如如今如全如球如种如植，咖如啡如是如世如界如上如交如易如量。",
-      "image": "res://assets/images/illustrations/trees/trees_022.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "trees_022_0",
-        "trees_022_1",
-        "trees_022_2",
-        "trees_022_3",
-        "trees_022_4",
-        "trees_022_5"
-      ],
-      "order": 22,
-      "pixel_image": "res://assets/images/illustrations/trees/trees_022_nonogram_pixel.jpg"
     },
     {
       "id": "trees_023",
@@ -502,7 +439,7 @@
         "trees_023_4",
         "trees_023_5"
       ],
-      "order": 23,
+      "order": 20,
       "pixel_image": "res://assets/images/illustrations/trees/trees_023_nonogram_pixel.jpg"
     },
     {
@@ -523,7 +460,7 @@
         "trees_024_4",
         "trees_024_5"
       ],
-      "order": 24,
+      "order": 21,
       "pixel_image": "res://assets/images/illustrations/trees/trees_024_nonogram_pixel.jpg"
     },
     {
@@ -544,7 +481,7 @@
         "trees_025_4",
         "trees_025_5"
       ],
-      "order": 25,
+      "order": 22,
       "pixel_image": "res://assets/images/illustrations/trees/trees_025_nonogram_pixel.jpg"
     },
     {
@@ -565,7 +502,7 @@
         "trees_026_4",
         "trees_026_5"
       ],
-      "order": 26,
+      "order": 23,
       "pixel_image": "res://assets/images/illustrations/trees/trees_026_nonogram_pixel.jpg"
     },
     {
@@ -586,7 +523,7 @@
         "trees_027_4",
         "trees_027_5"
       ],
-      "order": 27,
+      "order": 24,
       "pixel_image": "res://assets/images/illustrations/trees/trees_027_nonogram_pixel.jpg"
     },
     {
@@ -607,7 +544,7 @@
         "trees_028_4",
         "trees_028_5"
       ],
-      "order": 28,
+      "order": 25,
       "pixel_image": "res://assets/images/illustrations/trees/trees_028_nonogram_pixel.jpg"
     },
     {
@@ -628,7 +565,7 @@
         "trees_029_4",
         "trees_029_5"
       ],
-      "order": 29,
+      "order": 26,
       "pixel_image": "res://assets/images/illustrations/trees/trees_029_nonogram_pixel.jpg"
     },
     {
@@ -649,7 +586,7 @@
         "trees_030_4",
         "trees_030_5"
       ],
-      "order": 30,
+      "order": 27,
       "pixel_image": "res://assets/images/illustrations/trees/trees_030_nonogram_pixel.jpg"
     },
     {
@@ -670,7 +607,7 @@
         "trees_031_4",
         "trees_031_5"
       ],
-      "order": 31,
+      "order": 28,
       "pixel_image": "res://assets/images/illustrations/trees/trees_031_nonogram_pixel.jpg"
     },
     {
@@ -691,7 +628,7 @@
         "trees_032_4",
         "trees_032_5"
       ],
-      "order": 32,
+      "order": 29,
       "pixel_image": "res://assets/images/illustrations/trees/trees_032_nonogram_pixel.jpg"
     },
     {
@@ -712,7 +649,7 @@
         "trees_033_4",
         "trees_033_5"
       ],
-      "order": 33,
+      "order": 30,
       "pixel_image": "res://assets/images/illustrations/trees/trees_033_nonogram_pixel.jpg"
     },
     {
@@ -733,7 +670,7 @@
         "trees_034_4",
         "trees_034_5"
       ],
-      "order": 34,
+      "order": 31,
       "pixel_image": "res://assets/images/illustrations/trees/trees_034_nonogram_pixel.jpg"
     },
     {
@@ -754,7 +691,7 @@
         "trees_035_4",
         "trees_035_5"
       ],
-      "order": 35,
+      "order": 32,
       "pixel_image": "res://assets/images/illustrations/trees/trees_035_nonogram_pixel.jpg"
     },
     {
@@ -775,7 +712,7 @@
         "trees_036_4",
         "trees_036_5"
       ],
-      "order": 36,
+      "order": 33,
       "pixel_image": "res://assets/images/illustrations/trees/trees_036_nonogram_pixel.jpg"
     },
     {
@@ -796,7 +733,7 @@
         "trees_037_4",
         "trees_037_5"
       ],
-      "order": 37,
+      "order": 34,
       "pixel_image": "res://assets/images/illustrations/trees/trees_037_nonogram_pixel.jpg"
     },
     {
@@ -817,7 +754,7 @@
         "trees_038_4",
         "trees_038_5"
       ],
-      "order": 38,
+      "order": 35,
       "pixel_image": "res://assets/images/illustrations/trees/trees_038_nonogram_pixel.jpg"
     },
     {
@@ -838,7 +775,7 @@
         "trees_039_4",
         "trees_039_5"
       ],
-      "order": 39,
+      "order": 36,
       "pixel_image": "res://assets/images/illustrations/trees/trees_039_nonogram_pixel.jpg"
     },
     {
@@ -859,7 +796,7 @@
         "trees_040_4",
         "trees_040_5"
       ],
-      "order": 40,
+      "order": 37,
       "pixel_image": "res://assets/images/illustrations/trees/trees_040_nonogram_pixel.jpg"
     },
     {
@@ -880,7 +817,7 @@
         "trees_041_4",
         "trees_041_5"
       ],
-      "order": 41,
+      "order": 38,
       "pixel_image": "res://assets/images/illustrations/trees/trees_041_nonogram_pixel.jpg"
     },
     {
@@ -901,7 +838,7 @@
         "trees_042_4",
         "trees_042_5"
       ],
-      "order": 42,
+      "order": 39,
       "pixel_image": "res://assets/images/illustrations/trees/trees_042_nonogram_pixel.jpg"
     },
     {
@@ -922,7 +859,7 @@
         "trees_043_4",
         "trees_043_5"
       ],
-      "order": 43,
+      "order": 40,
       "pixel_image": "res://assets/images/illustrations/trees/trees_043_nonogram_pixel.jpg"
     },
     {
@@ -943,7 +880,7 @@
         "trees_044_4",
         "trees_044_5"
       ],
-      "order": 44,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/trees/trees_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +901,7 @@
         "trees_045_4",
         "trees_045_5"
       ],
-      "order": 45,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/trees/trees_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +922,7 @@
         "trees_046_4",
         "trees_046_5"
       ],
-      "order": 46,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/trees/trees_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +943,7 @@
         "trees_047_4",
         "trees_047_5"
       ],
-      "order": 47,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/trees/trees_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +964,7 @@
         "trees_048_4",
         "trees_048_5"
       ],
-      "order": 48,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/trees/trees_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +985,7 @@
         "trees_049_4",
         "trees_049_5"
       ],
-      "order": 49,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/trees/trees_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +1006,7 @@
         "trees_050_4",
         "trees_050_5"
       ],
-      "order": 50,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/trees/trees_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,7 +1027,7 @@
         "trees_051_4",
         "trees_051_5"
       ],
-      "order": 51,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/trees/trees_051_nonogram_pixel.jpg"
     },
     {
@@ -1111,7 +1048,7 @@
         "trees_052_4",
         "trees_052_5"
       ],
-      "order": 52,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/trees/trees_052_nonogram_pixel.jpg"
     },
     {
@@ -1132,7 +1069,7 @@
         "trees_053_4",
         "trees_053_5"
       ],
-      "order": 53,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/trees/trees_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1090,7 @@
         "trees_054_4",
         "trees_054_5"
       ],
-      "order": 54,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/trees/trees_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1111,7 @@
         "trees_055_4",
         "trees_055_5"
       ],
-      "order": 55,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/trees/trees_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1132,7 @@
         "trees_056_4",
         "trees_056_5"
       ],
-      "order": 56,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/trees/trees_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,29 +1153,8 @@
         "trees_057_4",
         "trees_057_5"
       ],
-      "order": 57,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/trees/trees_057_nonogram_pixel.jpg"
-    },
-    {
-      "id": "trees_058",
-      "title": "黄杨木雕",
-      "summary": "黄如杨如木如材如细如密如适如合如雕如刻如工如艺。黄如杨如木如...",
-      "full_text": "黄如杨如木如材如细如密如适如合如雕如刻如工如艺。黄如杨如木如雕如是如中如国如传如统如工如艺如美如术，黄如杨如树如生如长如极如慢如如如缩。",
-      "image": "res://assets/images/illustrations/trees/trees_058.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "trees_058_0",
-        "trees_058_1",
-        "trees_058_2",
-        "trees_058_3",
-        "trees_058_4",
-        "trees_058_5"
-      ],
-      "order": 58,
-      "pixel_image": "res://assets/images/illustrations/trees/trees_058_nonogram_pixel.jpg"
     },
     {
       "id": "trees_059",
@@ -1258,7 +1174,7 @@
         "trees_059_4",
         "trees_059_5"
       ],
-      "order": 59,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/trees/trees_059_nonogram_pixel.jpg"
     },
     {
@@ -1279,7 +1195,7 @@
         "trees_060_4",
         "trees_060_5"
       ],
-      "order": 60,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/trees/trees_060_nonogram_pixel.jpg"
     },
     {
@@ -1300,7 +1216,7 @@
         "trees_061_4",
         "trees_061_5"
       ],
-      "order": 61,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/trees/trees_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,7 +1237,7 @@
         "trees_062_4",
         "trees_062_5"
       ],
-      "order": 62,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/trees/trees_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,7 +1258,7 @@
         "trees_063_4",
         "trees_063_5"
       ],
-      "order": 63,
+      "order": 59,
       "pixel_image": "res://assets/images/illustrations/trees/trees_063_nonogram_pixel.jpg"
     },
     {
@@ -1363,7 +1279,7 @@
         "trees_064_4",
         "trees_064_5"
       ],
-      "order": 64,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/trees/trees_064_nonogram_pixel.jpg"
     }
   ]

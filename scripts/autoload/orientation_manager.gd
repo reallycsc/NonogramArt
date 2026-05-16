@@ -11,12 +11,14 @@ const PORTRAIT_SIZE := Vector2i(720, 1280)
 const LANDSCAPE_SIZE := Vector2i(1280, 720)
 
 var _sensor_available: bool = false
+var _is_desktop: bool = false
 var _debounce_timer: float = 0.0
 var _debounce_duration: float = 0.5
 var _pending_orientation: int = Orientation.PORTRAIT
 var _last_screen_size: Vector2i = Vector2i.ZERO
 
 func _ready() -> void:
+	_is_desktop = not DisplayServer.is_touchscreen_available() and Input.get_accelerometer() == Vector3.ZERO
 	_detect_initial_orientation()
 	_apply_viewport_size()
 	_try_enable_sensor()
@@ -72,6 +74,8 @@ func _try_enable_sensor() -> void:
 
 func _process(delta: float) -> void:
 	if not auto_rotate_enabled:
+		return
+	if _is_desktop:
 		return
 	_check_orientation_by_sensor(delta)
 	_check_orientation_by_screen_size()

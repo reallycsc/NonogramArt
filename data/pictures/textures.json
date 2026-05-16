@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "textures",
   "pictures": [
     {
@@ -863,27 +863,6 @@
       "pixel_image": "res://assets/images/illustrations/textures/textures_040_nonogram_pixel.jpg"
     },
     {
-      "id": "textures_041",
-      "title": "蜡染冰纹",
-      "summary": "蜡染布上蜂蜡自然开裂产生冰裂纹，染液渗入裂纹形成独特纹路。蜡...",
-      "full_text": "蜡染布上蜂蜡自然开裂产生冰裂纹，染液渗入裂纹形成独特纹路。蜡染冰纹是控制的偶然，蜡裂的方向和程度无法完全预设。",
-      "image": "res://assets/images/illustrations/textures/textures_041.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "textures_041_0",
-        "textures_041_1",
-        "textures_041_2",
-        "textures_041_3",
-        "textures_041_4",
-        "textures_041_5"
-      ],
-      "order": 41,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_041_nonogram_pixel.jpg"
-    },
-    {
       "id": "textures_042",
       "title": "木雕刀痕",
       "summary": "木雕师凿刀在木头上留下刀痕，圆刀刻出弧面平刀刻出棱角。木雕纹...",
@@ -901,7 +880,7 @@
         "textures_042_4",
         "textures_042_5"
       ],
-      "order": 42,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/textures/textures_042_nonogram_pixel.jpg"
     },
     {
@@ -922,7 +901,7 @@
         "textures_043_4",
         "textures_043_5"
       ],
-      "order": 43,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/textures/textures_043_nonogram_pixel.jpg"
     },
     {
@@ -943,7 +922,7 @@
         "textures_044_4",
         "textures_044_5"
       ],
-      "order": 44,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/textures/textures_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +943,7 @@
         "textures_045_4",
         "textures_045_5"
       ],
-      "order": 45,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/textures/textures_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +964,7 @@
         "textures_046_4",
         "textures_046_5"
       ],
-      "order": 46,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/textures/textures_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +985,7 @@
         "textures_047_4",
         "textures_047_5"
       ],
-      "order": 47,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/textures/textures_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +1006,7 @@
         "textures_048_4",
         "textures_048_5"
       ],
-      "order": 48,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/textures/textures_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +1027,7 @@
         "textures_049_4",
         "textures_049_5"
       ],
-      "order": 49,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/textures/textures_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +1048,7 @@
         "textures_050_4",
         "textures_050_5"
       ],
-      "order": 50,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/textures/textures_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,29 +1069,8 @@
         "textures_051_4",
         "textures_051_5"
       ],
-      "order": 51,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/textures/textures_051_nonogram_pixel.jpg"
-    },
-    {
-      "id": "textures_052",
-      "title": "漆器推光",
-      "summary": "大漆涂刷数十遍后用鹿角霜推光，漆面温润如玉光可鉴人。漆器纹理...",
-      "full_text": "大漆涂刷数十遍后用鹿角霜推光，漆面温润如玉光可鉴人。漆器纹理是耐心的结晶，每道漆干透再上下一道，数月方成。",
-      "image": "res://assets/images/illustrations/textures/textures_052.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "textures_052_0",
-        "textures_052_1",
-        "textures_052_2",
-        "textures_052_3",
-        "textures_052_4",
-        "textures_052_5"
-      ],
-      "order": 52,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_052_nonogram_pixel.jpg"
     },
     {
       "id": "textures_053",
@@ -1132,7 +1090,7 @@
         "textures_053_4",
         "textures_053_5"
       ],
-      "order": 53,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/textures/textures_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1111,7 @@
         "textures_054_4",
         "textures_054_5"
       ],
-      "order": 54,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/textures/textures_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1132,7 @@
         "textures_055_4",
         "textures_055_5"
       ],
-      "order": 55,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/textures/textures_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1153,7 @@
         "textures_056_4",
         "textures_056_5"
       ],
-      "order": 56,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/textures/textures_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1174,7 @@
         "textures_057_4",
         "textures_057_5"
       ],
-      "order": 57,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/textures/textures_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1195,7 @@
         "textures_058_4",
         "textures_058_5"
       ],
-      "order": 58,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/textures/textures_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1216,7 @@
         "textures_059_4",
         "textures_059_5"
       ],
-      "order": 59,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/textures/textures_059_nonogram_pixel.jpg"
     }
   ]

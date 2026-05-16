@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "festivals",
   "pictures": [
     {
@@ -1073,27 +1073,6 @@
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_050_nonogram_pixel.jpg"
     },
     {
-      "id": "festivals_051",
-      "title": "侗族大歌节",
-      "summary": "侗族大歌节上数百人合唱无指挥无伴奏，多声部自然和声如天籁，鼓...",
-      "full_text": "侗族大歌节上数百人合唱无指挥无伴奏，多声部自然和声如天籁，鼓楼前歌声回荡。侗族大歌是人与自然和谐的声音，列入人类非物质文化遗产。",
-      "image": "res://assets/images/illustrations/festivals/festivals_051.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "festivals_051_0",
-        "festivals_051_1",
-        "festivals_051_2",
-        "festivals_051_3",
-        "festivals_051_4",
-        "festivals_051_5"
-      ],
-      "order": 51,
-      "pixel_image": "res://assets/images/illustrations/festivals/festivals_051_nonogram_pixel.jpg"
-    },
-    {
       "id": "festivals_052",
       "title": "瑶族盘王节",
       "summary": "瑶族盘王节祭祀始祖盘瓠，长鼓舞节奏铿锵，师公诵经祈福，族人齐...",
@@ -1111,7 +1090,7 @@
         "festivals_052_4",
         "festivals_052_5"
       ],
-      "order": 52,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_052_nonogram_pixel.jpg"
     },
     {
@@ -1132,7 +1111,7 @@
         "festivals_053_4",
         "festivals_053_5"
       ],
-      "order": 53,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1132,7 @@
         "festivals_054_4",
         "festivals_054_5"
       ],
-      "order": 54,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1153,7 @@
         "festivals_055_4",
         "festivals_055_5"
       ],
-      "order": 55,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1174,7 @@
         "festivals_056_4",
         "festivals_056_5"
       ],
-      "order": 56,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1195,7 @@
         "festivals_057_4",
         "festivals_057_5"
       ],
-      "order": 57,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1216,7 @@
         "festivals_058_4",
         "festivals_058_5"
       ],
-      "order": 58,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1237,7 @@
         "festivals_059_4",
         "festivals_059_5"
       ],
-      "order": 59,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_059_nonogram_pixel.jpg"
     },
     {
@@ -1279,7 +1258,7 @@
         "festivals_060_4",
         "festivals_060_5"
       ],
-      "order": 60,
+      "order": 59,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_060_nonogram_pixel.jpg"
     },
     {
@@ -1300,7 +1279,7 @@
         "festivals_061_4",
         "festivals_061_5"
       ],
-      "order": 61,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,7 +1300,7 @@
         "festivals_062_4",
         "festivals_062_5"
       ],
-      "order": 62,
+      "order": 61,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,7 +1321,7 @@
         "festivals_063_4",
         "festivals_063_5"
       ],
-      "order": 63,
+      "order": 62,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_063_nonogram_pixel.jpg"
     },
     {
@@ -1363,7 +1342,7 @@
         "festivals_064_4",
         "festivals_064_5"
       ],
-      "order": 64,
+      "order": 63,
       "pixel_image": "res://assets/images/illustrations/festivals/festivals_064_nonogram_pixel.jpg"
     }
   ]

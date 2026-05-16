@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "photography",
   "pictures": [
     {
@@ -611,27 +611,6 @@
       "pixel_image": "res://assets/images/illustrations/photography/photography_028_nonogram_pixel.jpg"
     },
     {
-      "id": "photography_029",
-      "title": "纳切威卢旺达大屠杀",
-      "summary": "美国战地摄影师纳切威拍摄卢旺达种族屠杀，尸骨堆积如柴幸存者面...",
-      "full_text": "美国战地摄影师纳切威拍摄卢旺达种族屠杀，尸骨堆积如柴幸存者面容空洞，以冷静而残酷的影像让世界无法回避，为战地摄影最勇敢的见证者。",
-      "image": "res://assets/images/illustrations/photography/photography_029.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "photography_029_0",
-        "photography_029_1",
-        "photography_029_2",
-        "photography_029_3",
-        "photography_029_4",
-        "photography_029_5"
-      ],
-      "order": 29,
-      "pixel_image": "res://assets/images/illustrations/photography/photography_029_nonogram_pixel.jpg"
-    },
-    {
       "id": "photography_030",
       "title": "维加裸城",
       "summary": "美国摄影师维加深夜跟随急救车拍摄纽约犯罪现场，凶杀尸体火灾废...",
@@ -649,7 +628,7 @@
         "photography_030_4",
         "photography_030_5"
       ],
-      "order": 30,
+      "order": 29,
       "pixel_image": "res://assets/images/illustrations/photography/photography_030_nonogram_pixel.jpg"
     },
     {
@@ -670,7 +649,7 @@
         "photography_031_4",
         "photography_031_5"
       ],
-      "order": 31,
+      "order": 30,
       "pixel_image": "res://assets/images/illustrations/photography/photography_031_nonogram_pixel.jpg"
     },
     {
@@ -691,7 +670,7 @@
         "photography_032_4",
         "photography_032_5"
       ],
-      "order": 32,
+      "order": 31,
       "pixel_image": "res://assets/images/illustrations/photography/photography_032_nonogram_pixel.jpg"
     },
     {
@@ -712,7 +691,7 @@
         "photography_033_4",
         "photography_033_5"
       ],
-      "order": 33,
+      "order": 32,
       "pixel_image": "res://assets/images/illustrations/photography/photography_033_nonogram_pixel.jpg"
     },
     {
@@ -733,7 +712,7 @@
         "photography_034_4",
         "photography_034_5"
       ],
-      "order": 34,
+      "order": 33,
       "pixel_image": "res://assets/images/illustrations/photography/photography_034_nonogram_pixel.jpg"
     },
     {
@@ -754,7 +733,7 @@
         "photography_035_4",
         "photography_035_5"
       ],
-      "order": 35,
+      "order": 34,
       "pixel_image": "res://assets/images/illustrations/photography/photography_035_nonogram_pixel.jpg"
     },
     {
@@ -775,7 +754,7 @@
         "photography_036_4",
         "photography_036_5"
       ],
-      "order": 36,
+      "order": 35,
       "pixel_image": "res://assets/images/illustrations/photography/photography_036_nonogram_pixel.jpg"
     },
     {
@@ -796,7 +775,7 @@
         "photography_037_4",
         "photography_037_5"
       ],
-      "order": 37,
+      "order": 36,
       "pixel_image": "res://assets/images/illustrations/photography/photography_037_nonogram_pixel.jpg"
     },
     {
@@ -817,7 +796,7 @@
         "photography_038_4",
         "photography_038_5"
       ],
-      "order": 38,
+      "order": 37,
       "pixel_image": "res://assets/images/illustrations/photography/photography_038_nonogram_pixel.jpg"
     },
     {
@@ -838,7 +817,7 @@
         "photography_039_4",
         "photography_039_5"
       ],
-      "order": 39,
+      "order": 38,
       "pixel_image": "res://assets/images/illustrations/photography/photography_039_nonogram_pixel.jpg"
     },
     {
@@ -859,7 +838,7 @@
         "photography_040_4",
         "photography_040_5"
       ],
-      "order": 40,
+      "order": 39,
       "pixel_image": "res://assets/images/illustrations/photography/photography_040_nonogram_pixel.jpg"
     },
     {
@@ -880,7 +859,7 @@
         "photography_041_4",
         "photography_041_5"
       ],
-      "order": 41,
+      "order": 40,
       "pixel_image": "res://assets/images/illustrations/photography/photography_041_nonogram_pixel.jpg"
     },
     {
@@ -901,7 +880,7 @@
         "photography_042_4",
         "photography_042_5"
       ],
-      "order": 42,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/photography/photography_042_nonogram_pixel.jpg"
     },
     {
@@ -922,7 +901,7 @@
         "photography_043_4",
         "photography_043_5"
       ],
-      "order": 43,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/photography/photography_043_nonogram_pixel.jpg"
     },
     {
@@ -943,7 +922,7 @@
         "photography_044_4",
         "photography_044_5"
       ],
-      "order": 44,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/photography/photography_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +943,7 @@
         "photography_045_4",
         "photography_045_5"
       ],
-      "order": 45,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/photography/photography_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +964,7 @@
         "photography_046_4",
         "photography_046_5"
       ],
-      "order": 46,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/photography/photography_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +985,7 @@
         "photography_047_4",
         "photography_047_5"
       ],
-      "order": 47,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/photography/photography_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +1006,7 @@
         "photography_048_4",
         "photography_048_5"
       ],
-      "order": 48,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/photography/photography_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +1027,7 @@
         "photography_049_4",
         "photography_049_5"
       ],
-      "order": 49,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/photography/photography_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +1048,7 @@
         "photography_050_4",
         "photography_050_5"
       ],
-      "order": 50,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/photography/photography_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,7 +1069,7 @@
         "photography_051_4",
         "photography_051_5"
       ],
-      "order": 51,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/photography/photography_051_nonogram_pixel.jpg"
     },
     {
@@ -1111,7 +1090,7 @@
         "photography_052_4",
         "photography_052_5"
       ],
-      "order": 52,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/photography/photography_052_nonogram_pixel.jpg"
     },
     {
@@ -1132,7 +1111,7 @@
         "photography_053_4",
         "photography_053_5"
       ],
-      "order": 53,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/photography/photography_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1132,7 @@
         "photography_054_4",
         "photography_054_5"
       ],
-      "order": 54,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/photography/photography_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1153,7 @@
         "photography_055_4",
         "photography_055_5"
       ],
-      "order": 55,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/photography/photography_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1174,7 @@
         "photography_056_4",
         "photography_056_5"
       ],
-      "order": 56,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/photography/photography_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1195,7 @@
         "photography_057_4",
         "photography_057_5"
       ],
-      "order": 57,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/photography/photography_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1216,7 @@
         "photography_058_4",
         "photography_058_5"
       ],
-      "order": 58,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/photography/photography_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1237,7 @@
         "photography_059_4",
         "photography_059_5"
       ],
-      "order": 59,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/photography/photography_059_nonogram_pixel.jpg"
     },
     {
@@ -1279,7 +1258,7 @@
         "photography_060_4",
         "photography_060_5"
       ],
-      "order": 60,
+      "order": 59,
       "pixel_image": "res://assets/images/illustrations/photography/photography_060_nonogram_pixel.jpg"
     },
     {
@@ -1300,7 +1279,7 @@
         "photography_061_4",
         "photography_061_5"
       ],
-      "order": 61,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/photography/photography_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,7 +1300,7 @@
         "photography_062_4",
         "photography_062_5"
       ],
-      "order": 62,
+      "order": 61,
       "pixel_image": "res://assets/images/illustrations/photography/photography_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,7 +1321,7 @@
         "photography_063_4",
         "photography_063_5"
       ],
-      "order": 63,
+      "order": 62,
       "pixel_image": "res://assets/images/illustrations/photography/photography_063_nonogram_pixel.jpg"
     },
     {
@@ -1363,7 +1342,7 @@
         "photography_064_4",
         "photography_064_5"
       ],
-      "order": 64,
+      "order": 63,
       "pixel_image": "res://assets/images/illustrations/photography/photography_064_nonogram_pixel.jpg"
     },
     {
@@ -1384,7 +1363,7 @@
         "photography_065_4",
         "photography_065_5"
       ],
-      "order": 65,
+      "order": 64,
       "pixel_image": "res://assets/images/illustrations/photography/photography_065_nonogram_pixel.jpg"
     },
     {
@@ -1405,7 +1384,7 @@
         "photography_066_4",
         "photography_066_5"
       ],
-      "order": 66,
+      "order": 65,
       "pixel_image": "res://assets/images/illustrations/photography/photography_066_nonogram_pixel.jpg"
     },
     {
@@ -1426,7 +1405,7 @@
         "photography_067_4",
         "photography_067_5"
       ],
-      "order": 67,
+      "order": 66,
       "pixel_image": "res://assets/images/illustrations/photography/photography_067_nonogram_pixel.jpg"
     },
     {
@@ -1447,7 +1426,7 @@
         "photography_068_4",
         "photography_068_5"
       ],
-      "order": 68,
+      "order": 67,
       "pixel_image": "res://assets/images/illustrations/photography/photography_068_nonogram_pixel.jpg"
     },
     {
@@ -1468,7 +1447,7 @@
         "photography_069_4",
         "photography_069_5"
       ],
-      "order": 69,
+      "order": 68,
       "pixel_image": "res://assets/images/illustrations/photography/photography_069_nonogram_pixel.jpg"
     }
   ]

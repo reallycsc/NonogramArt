@@ -187,47 +187,7 @@ func _on_swipe_right() -> void:
 		_load_shelf()
 
 func _show_toast(message: String) -> void:
-	var panel = PanelContainer.new()
-	var style = StyleBoxFlat.new()
-	style.bg_color = Color(0, 0, 0, 0.6)
-	style.corner_radius_top_left = 8
-	style.corner_radius_top_right = 8
-	style.corner_radius_bottom_right = 8
-	style.corner_radius_bottom_left = 8
-	style.content_margin_left = 16.0
-	style.content_margin_top = 8.0
-	style.content_margin_right = 16.0
-	style.content_margin_bottom = 8.0
-	panel.add_theme_stylebox_override("panel", style)
-	panel.anchor_left = 0.5
-	panel.anchor_right = 0.5
-	panel.anchor_top = 0.5
-	panel.anchor_bottom = 0.5
-	panel.grow_horizontal = Control.GROW_DIRECTION_BOTH
-	panel.grow_vertical = Control.GROW_DIRECTION_BOTH
-	panel.modulate.a = 0.0
-	add_child(panel)
-	panel.offset_left = -panel.size.x / 2
-	panel.offset_top = -panel.size.y / 2
-	panel.offset_right = panel.size.x / 2
-	panel.offset_bottom = panel.size.y / 2
-	var label = Label.new()
-	label.text = message
-	label.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
-	label.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
-	label.label_settings = LabelSettings.new()
-	label.label_settings.font_color = Color.WHITE
-	label.label_settings.font_size = 24
-	label.label_settings.outline_color = Color.BLACK
-	label.label_settings.outline_size = 2
-	panel.add_child(label)
-	var tween = create_tween()
-	tween.set_parallel(true)
-	tween.tween_property(panel, "position:y", panel.position.y - 60, 0.8).set_trans(Tween.TRANS_QUAD).set_ease(Tween.EASE_OUT)
-	tween.tween_property(panel, "modulate:a", 1.0, 0.2)
-	tween.chain().tween_interval(1.0)
-	tween.chain().tween_property(panel, "modulate:a", 0.0, 0.5)
-	tween.chain().tween_callback(panel.queue_free)
+	ToastManager.show_toast(message)
 
 func _on_orientation_changed(new_orientation: int) -> void:
 	_apply_orientation(new_orientation)

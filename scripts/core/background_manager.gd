@@ -1,6 +1,8 @@
 class_name BackgroundManager
 
 static var _texture_cache: Dictionary = {}
+static var _lru_order: Array = []
+static var _max_cache_size: int = 12
 
 const PORTRAIT_BG: Dictionary = {
 	"main_menu": "res://assets/images/ui/main/main_bg.jpg",
@@ -32,10 +34,16 @@ static func _get_cached_texture(path: String) -> Texture2D:
 	if path == "":
 		return null
 	if _texture_cache.has(path):
+		_lru_order.erase(path)
+		_lru_order.append(path)
 		return _texture_cache[path]
 	var tex: Texture2D = load(path)
 	if tex:
 		_texture_cache[path] = tex
+		_lru_order.append(path)
+		if _lru_order.size() > _max_cache_size:
+			var evicted = _lru_order.pop_front()
+			_texture_cache.erase(evicted)
 	return tex
 
 static func apply_background(texture_rect: TextureRect, scene_key: String, orientation: int) -> void:

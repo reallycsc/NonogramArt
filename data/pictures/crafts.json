@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "crafts",
   "pictures": [
     {
@@ -170,27 +170,6 @@
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_007_nonogram_pixel.jpg"
     },
     {
-      "id": "crafts_008",
-      "title": "秦始皇铜车马",
-      "summary": "秦始皇陵出土青铜车马如微缩如真实如皇帝出巡如地下帝国，铜马肌...",
-      "full_text": "秦始皇陵出土青铜车马如微缩如真实如皇帝出巡如地下帝国，铜马肌肉如活铜人如御如金如银如丝如彩绘如三千零件如可活动如工程奇迹，为秦代冶金工艺的巅峰。",
-      "image": "res://assets/images/illustrations/crafts/crafts_008.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "crafts_008_0",
-        "crafts_008_1",
-        "crafts_008_2",
-        "crafts_008_3",
-        "crafts_008_4",
-        "crafts_008_5"
-      ],
-      "order": 8,
-      "pixel_image": "res://assets/images/illustrations/crafts/crafts_008_nonogram_pixel.jpg"
-    },
-    {
       "id": "crafts_009",
       "title": "汉代长信宫灯",
       "summary": "河北满城汉墓出土鎏金铜灯，宫女跪坐持灯如侍如真如优雅如温柔，...",
@@ -208,7 +187,7 @@
         "crafts_009_4",
         "crafts_009_5"
       ],
-      "order": 9,
+      "order": 8,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_009_nonogram_pixel.jpg"
     },
     {
@@ -229,7 +208,7 @@
         "crafts_010_4",
         "crafts_010_5"
       ],
-      "order": 10,
+      "order": 9,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_010_nonogram_pixel.jpg"
     },
     {
@@ -250,7 +229,7 @@
         "crafts_011_4",
         "crafts_011_5"
       ],
-      "order": 11,
+      "order": 10,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_011_nonogram_pixel.jpg"
     },
     {
@@ -271,7 +250,7 @@
         "crafts_012_4",
         "crafts_012_5"
       ],
-      "order": 12,
+      "order": 11,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_012_nonogram_pixel.jpg"
     },
     {
@@ -292,7 +271,7 @@
         "crafts_013_4",
         "crafts_013_5"
       ],
-      "order": 13,
+      "order": 12,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_013_nonogram_pixel.jpg"
     },
     {
@@ -313,7 +292,7 @@
         "crafts_014_4",
         "crafts_014_5"
       ],
-      "order": 14,
+      "order": 13,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_014_nonogram_pixel.jpg"
     },
     {
@@ -334,7 +313,7 @@
         "crafts_015_4",
         "crafts_015_5"
       ],
-      "order": 15,
+      "order": 14,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_015_nonogram_pixel.jpg"
     },
     {
@@ -355,7 +334,7 @@
         "crafts_016_4",
         "crafts_016_5"
       ],
-      "order": 16,
+      "order": 15,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_016_nonogram_pixel.jpg"
     },
     {
@@ -376,7 +355,7 @@
         "crafts_017_4",
         "crafts_017_5"
       ],
-      "order": 17,
+      "order": 16,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_017_nonogram_pixel.jpg"
     },
     {
@@ -397,7 +376,7 @@
         "crafts_018_4",
         "crafts_018_5"
       ],
-      "order": 18,
+      "order": 17,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_018_nonogram_pixel.jpg"
     },
     {
@@ -418,7 +397,7 @@
         "crafts_019_4",
         "crafts_019_5"
       ],
-      "order": 19,
+      "order": 18,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_019_nonogram_pixel.jpg"
     },
     {
@@ -439,7 +418,7 @@
         "crafts_020_4",
         "crafts_020_5"
       ],
-      "order": 20,
+      "order": 19,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_020_nonogram_pixel.jpg"
     },
     {
@@ -460,7 +439,7 @@
         "crafts_021_4",
         "crafts_021_5"
       ],
-      "order": 21,
+      "order": 20,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_021_nonogram_pixel.jpg"
     },
     {
@@ -481,7 +460,7 @@
         "crafts_022_4",
         "crafts_022_5"
       ],
-      "order": 22,
+      "order": 21,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_022_nonogram_pixel.jpg"
     },
     {
@@ -502,7 +481,7 @@
         "crafts_023_4",
         "crafts_023_5"
       ],
-      "order": 23,
+      "order": 22,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_023_nonogram_pixel.jpg"
     },
     {
@@ -523,7 +502,7 @@
         "crafts_024_4",
         "crafts_024_5"
       ],
-      "order": 24,
+      "order": 23,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_024_nonogram_pixel.jpg"
     },
     {
@@ -544,7 +523,7 @@
         "crafts_025_4",
         "crafts_025_5"
       ],
-      "order": 25,
+      "order": 24,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_025_nonogram_pixel.jpg"
     },
     {
@@ -565,7 +544,7 @@
         "crafts_026_4",
         "crafts_026_5"
       ],
-      "order": 26,
+      "order": 25,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_026_nonogram_pixel.jpg"
     },
     {
@@ -586,7 +565,7 @@
         "crafts_027_4",
         "crafts_027_5"
       ],
-      "order": 27,
+      "order": 26,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_027_nonogram_pixel.jpg"
     },
     {
@@ -607,7 +586,7 @@
         "crafts_028_4",
         "crafts_028_5"
       ],
-      "order": 28,
+      "order": 27,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_028_nonogram_pixel.jpg"
     },
     {
@@ -628,7 +607,7 @@
         "crafts_029_4",
         "crafts_029_5"
       ],
-      "order": 29,
+      "order": 28,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_029_nonogram_pixel.jpg"
     },
     {
@@ -649,7 +628,7 @@
         "crafts_030_4",
         "crafts_030_5"
       ],
-      "order": 30,
+      "order": 29,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_030_nonogram_pixel.jpg"
     },
     {
@@ -670,7 +649,7 @@
         "crafts_031_4",
         "crafts_031_5"
       ],
-      "order": 31,
+      "order": 30,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_031_nonogram_pixel.jpg"
     },
     {
@@ -691,7 +670,7 @@
         "crafts_032_4",
         "crafts_032_5"
       ],
-      "order": 32,
+      "order": 31,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_032_nonogram_pixel.jpg"
     },
     {
@@ -712,7 +691,7 @@
         "crafts_033_4",
         "crafts_033_5"
       ],
-      "order": 33,
+      "order": 32,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_033_nonogram_pixel.jpg"
     },
     {
@@ -733,7 +712,7 @@
         "crafts_034_4",
         "crafts_034_5"
       ],
-      "order": 34,
+      "order": 33,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_034_nonogram_pixel.jpg"
     },
     {
@@ -754,7 +733,7 @@
         "crafts_035_4",
         "crafts_035_5"
       ],
-      "order": 35,
+      "order": 34,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_035_nonogram_pixel.jpg"
     },
     {
@@ -775,7 +754,7 @@
         "crafts_036_4",
         "crafts_036_5"
       ],
-      "order": 36,
+      "order": 35,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_036_nonogram_pixel.jpg"
     },
     {
@@ -796,7 +775,7 @@
         "crafts_037_4",
         "crafts_037_5"
       ],
-      "order": 37,
+      "order": 36,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_037_nonogram_pixel.jpg"
     },
     {
@@ -817,7 +796,7 @@
         "crafts_038_4",
         "crafts_038_5"
       ],
-      "order": 38,
+      "order": 37,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_038_nonogram_pixel.jpg"
     },
     {
@@ -838,7 +817,7 @@
         "crafts_039_4",
         "crafts_039_5"
       ],
-      "order": 39,
+      "order": 38,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_039_nonogram_pixel.jpg"
     },
     {
@@ -859,7 +838,7 @@
         "crafts_040_4",
         "crafts_040_5"
       ],
-      "order": 40,
+      "order": 39,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_040_nonogram_pixel.jpg"
     },
     {
@@ -880,7 +859,7 @@
         "crafts_041_4",
         "crafts_041_5"
       ],
-      "order": 41,
+      "order": 40,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_041_nonogram_pixel.jpg"
     },
     {
@@ -901,7 +880,7 @@
         "crafts_042_4",
         "crafts_042_5"
       ],
-      "order": 42,
+      "order": 41,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_042_nonogram_pixel.jpg"
     },
     {
@@ -922,7 +901,7 @@
         "crafts_043_4",
         "crafts_043_5"
       ],
-      "order": 43,
+      "order": 42,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_043_nonogram_pixel.jpg"
     },
     {
@@ -943,7 +922,7 @@
         "crafts_044_4",
         "crafts_044_5"
       ],
-      "order": 44,
+      "order": 43,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_044_nonogram_pixel.jpg"
     },
     {
@@ -964,7 +943,7 @@
         "crafts_045_4",
         "crafts_045_5"
       ],
-      "order": 45,
+      "order": 44,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_045_nonogram_pixel.jpg"
     },
     {
@@ -985,7 +964,7 @@
         "crafts_046_4",
         "crafts_046_5"
       ],
-      "order": 46,
+      "order": 45,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_046_nonogram_pixel.jpg"
     },
     {
@@ -1006,7 +985,7 @@
         "crafts_047_4",
         "crafts_047_5"
       ],
-      "order": 47,
+      "order": 46,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_047_nonogram_pixel.jpg"
     },
     {
@@ -1027,7 +1006,7 @@
         "crafts_048_4",
         "crafts_048_5"
       ],
-      "order": 48,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +1027,7 @@
         "crafts_049_4",
         "crafts_049_5"
       ],
-      "order": 49,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +1048,7 @@
         "crafts_050_4",
         "crafts_050_5"
       ],
-      "order": 50,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,7 +1069,7 @@
         "crafts_051_4",
         "crafts_051_5"
       ],
-      "order": 51,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_051_nonogram_pixel.jpg"
     },
     {
@@ -1111,7 +1090,7 @@
         "crafts_052_4",
         "crafts_052_5"
       ],
-      "order": 52,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_052_nonogram_pixel.jpg"
     },
     {
@@ -1132,7 +1111,7 @@
         "crafts_053_4",
         "crafts_053_5"
       ],
-      "order": 53,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_053_nonogram_pixel.jpg"
     },
     {
@@ -1153,7 +1132,7 @@
         "crafts_054_4",
         "crafts_054_5"
       ],
-      "order": 54,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_054_nonogram_pixel.jpg"
     },
     {
@@ -1174,7 +1153,7 @@
         "crafts_055_4",
         "crafts_055_5"
       ],
-      "order": 55,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_055_nonogram_pixel.jpg"
     },
     {
@@ -1195,7 +1174,7 @@
         "crafts_056_4",
         "crafts_056_5"
       ],
-      "order": 56,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,7 +1195,7 @@
         "crafts_057_4",
         "crafts_057_5"
       ],
-      "order": 57,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1216,7 @@
         "crafts_058_4",
         "crafts_058_5"
       ],
-      "order": 58,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1237,7 @@
         "crafts_059_4",
         "crafts_059_5"
       ],
-      "order": 59,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_059_nonogram_pixel.jpg"
     },
     {
@@ -1279,7 +1258,7 @@
         "crafts_060_4",
         "crafts_060_5"
       ],
-      "order": 60,
+      "order": 59,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_060_nonogram_pixel.jpg"
     },
     {
@@ -1300,7 +1279,7 @@
         "crafts_061_4",
         "crafts_061_5"
       ],
-      "order": 61,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,7 +1300,7 @@
         "crafts_062_4",
         "crafts_062_5"
       ],
-      "order": 62,
+      "order": 61,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,7 +1321,7 @@
         "crafts_063_4",
         "crafts_063_5"
       ],
-      "order": 63,
+      "order": 62,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_063_nonogram_pixel.jpg"
     },
     {
@@ -1363,7 +1342,7 @@
         "crafts_064_4",
         "crafts_064_5"
       ],
-      "order": 64,
+      "order": 63,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_064_nonogram_pixel.jpg"
     },
     {
@@ -1384,92 +1363,8 @@
         "crafts_065_4",
         "crafts_065_5"
       ],
-      "order": 65,
+      "order": 64,
       "pixel_image": "res://assets/images/illustrations/crafts/crafts_065_nonogram_pixel.jpg"
-    },
-    {
-      "id": "crafts_066",
-      "title": "端砚雕刻工艺",
-      "summary": "广东端砚以紫端石为材，石质如玉如肤如温如润，雕工如画如景如山...",
-      "full_text": "广东端砚以紫端石为材，石质如玉如肤如温如润，雕工如画如景如山如水，发墨如油如滑如细如绵，为四大名砚之首。",
-      "image": "res://assets/images/illustrations/crafts/crafts_066.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "crafts_066_0",
-        "crafts_066_1",
-        "crafts_066_2",
-        "crafts_066_3",
-        "crafts_066_4",
-        "crafts_066_5"
-      ],
-      "order": 66,
-      "pixel_image": "res://assets/images/illustrations/crafts/crafts_066_nonogram_pixel.jpg"
-    },
-    {
-      "id": "crafts_067",
-      "title": "湖笔制作工序",
-      "summary": "浙江湖笔以山羊毫为材，七十二道工序如择如浸如梳如结，笔锋如锥...",
-      "full_text": "浙江湖笔以山羊毫为材，七十二道工序如择如浸如梳如结，笔锋如锥如剑如尖如锐，为文房四宝之一，书画家必备之具。",
-      "image": "res://assets/images/illustrations/crafts/crafts_067.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "crafts_067_0",
-        "crafts_067_1",
-        "crafts_067_2",
-        "crafts_067_3",
-        "crafts_067_4",
-        "crafts_067_5"
-      ],
-      "order": 67,
-      "pixel_image": "res://assets/images/illustrations/crafts/crafts_067_nonogram_pixel.jpg"
-    },
-    {
-      "id": "crafts_068",
-      "title": "宣纸抄造技艺",
-      "summary": "安徽宣纸以青檀皮沙田稻草为料，经百道工序如蒸如煮如漂如晒，纸...",
-      "full_text": "安徽宣纸以青檀皮沙田稻草为料，经百道工序如蒸如煮如漂如晒，纸薄如蝉翼韧如帛如千年如寿，为书画最理想的载体。",
-      "image": "res://assets/images/illustrations/crafts/crafts_068.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "crafts_068_0",
-        "crafts_068_1",
-        "crafts_068_2",
-        "crafts_068_3",
-        "crafts_068_4",
-        "crafts_068_5"
-      ],
-      "order": 68,
-      "pixel_image": "res://assets/images/illustrations/crafts/crafts_068_nonogram_pixel.jpg"
-    },
-    {
-      "id": "crafts_069",
-      "title": "古琴斫制工艺",
-      "summary": "古琴斫琴师以桐木为面梓木为底，生漆鹿角霜为灰如磨如推如光如润...",
-      "full_text": "古琴斫琴师以桐木为面梓木为底，生漆鹿角霜为灰如磨如推如光如润，音色如钟如磬如松如风，为文人最珍重的乐器制作技艺。",
-      "image": "res://assets/images/illustrations/crafts/crafts_069.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "crafts_069_0",
-        "crafts_069_1",
-        "crafts_069_2",
-        "crafts_069_3",
-        "crafts_069_4",
-        "crafts_069_5"
-      ],
-      "order": 69,
-      "pixel_image": "res://assets/images/illustrations/crafts/crafts_069_nonogram_pixel.jpg"
     }
   ]
 }

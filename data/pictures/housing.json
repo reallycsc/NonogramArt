@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "housing",
   "pictures": [
     {
@@ -989,27 +989,6 @@
       "pixel_image": "res://assets/images/illustrations/housing/housing_046_nonogram_pixel.jpg"
     },
     {
-      "id": "housing_047",
-      "title": "巴黎埃菲尔铁塔",
-      "summary": "埃菲尔铁塔以七千三百吨熟铁构建，一万八千零三十八个铁件以二百...",
-      "full_text": "埃菲尔铁塔以七千三百吨熟铁构建，一万八千零三十八个铁件以二百五十万颗铆钉连接。铁塔是工业革命的纪念碑，建造时饱受争议如今成为象征。",
-      "image": "res://assets/images/illustrations/housing/housing_047.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "housing_047_0",
-        "housing_047_1",
-        "housing_047_2",
-        "housing_047_3",
-        "housing_047_4",
-        "housing_047_5"
-      ],
-      "order": 47,
-      "pixel_image": "res://assets/images/illustrations/housing/housing_047_nonogram_pixel.jpg"
-    },
-    {
       "id": "housing_048",
       "title": "罗马万神殿",
       "summary": "罗马万神殿穹顶直径四十三米，无筋混凝土浇筑，顶部圆洞直径九米...",
@@ -1027,7 +1006,7 @@
         "housing_048_4",
         "housing_048_5"
       ],
-      "order": 48,
+      "order": 47,
       "pixel_image": "res://assets/images/illustrations/housing/housing_048_nonogram_pixel.jpg"
     },
     {
@@ -1048,7 +1027,7 @@
         "housing_049_4",
         "housing_049_5"
       ],
-      "order": 49,
+      "order": 48,
       "pixel_image": "res://assets/images/illustrations/housing/housing_049_nonogram_pixel.jpg"
     },
     {
@@ -1069,7 +1048,7 @@
         "housing_050_4",
         "housing_050_5"
       ],
-      "order": 50,
+      "order": 49,
       "pixel_image": "res://assets/images/illustrations/housing/housing_050_nonogram_pixel.jpg"
     },
     {
@@ -1090,29 +1069,8 @@
         "housing_051_4",
         "housing_051_5"
       ],
-      "order": 51,
+      "order": 50,
       "pixel_image": "res://assets/images/illustrations/housing/housing_051_nonogram_pixel.jpg"
-    },
-    {
-      "id": "housing_052",
-      "title": "圣家族大教堂",
-      "summary": "巴塞罗那圣家族大教堂如巨型石笋生长，双曲面柱如森林树干分叉支...",
-      "full_text": "巴塞罗那圣家族大教堂如巨型石笋生长，双曲面柱如森林树干分叉支撑穹顶。高迪将自然形态融入建筑，这座教堂建造了一百四十余年仍未完工。",
-      "image": "res://assets/images/illustrations/housing/housing_052.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "housing_052_0",
-        "housing_052_1",
-        "housing_052_2",
-        "housing_052_3",
-        "housing_052_4",
-        "housing_052_5"
-      ],
-      "order": 52,
-      "pixel_image": "res://assets/images/illustrations/housing/housing_052_nonogram_pixel.jpg"
     },
     {
       "id": "housing_053",
@@ -1132,50 +1090,8 @@
         "housing_053_4",
         "housing_053_5"
       ],
-      "order": 53,
+      "order": 51,
       "pixel_image": "res://assets/images/illustrations/housing/housing_053_nonogram_pixel.jpg"
-    },
-    {
-      "id": "housing_054",
-      "title": "莫斯科克里姆林宫",
-      "summary": "克里姆林宫红墙围合，洋葱头穹顶金光闪耀，伊凡钟楼高耸八十一米...",
-      "full_text": "克里姆林宫红墙围合，洋葱头穹顶金光闪耀，伊凡钟楼高耸八十一米俯瞰莫斯科河。克里姆林宫是俄罗斯权力的象征，建筑群跨越六个世纪。",
-      "image": "res://assets/images/illustrations/housing/housing_054.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "housing_054_0",
-        "housing_054_1",
-        "housing_054_2",
-        "housing_054_3",
-        "housing_054_4",
-        "housing_054_5"
-      ],
-      "order": 54,
-      "pixel_image": "res://assets/images/illustrations/housing/housing_054_nonogram_pixel.jpg"
-    },
-    {
-      "id": "housing_055",
-      "title": "秘鲁马丘比丘",
-      "summary": "安第斯山巅马丘比丘以巨石精密咬合砌筑，无灰浆缝隙不及刀刃，梯...",
-      "full_text": "安第斯山巅马丘比丘以巨石精密咬合砌筑，无灰浆缝隙不及刀刃，梯田引水系统完善。印加人在海拔两千四百米处建造城市，是山地建筑的奇迹。",
-      "image": "res://assets/images/illustrations/housing/housing_055.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "housing_055_0",
-        "housing_055_1",
-        "housing_055_2",
-        "housing_055_3",
-        "housing_055_4",
-        "housing_055_5"
-      ],
-      "order": 55,
-      "pixel_image": "res://assets/images/illustrations/housing/housing_055_nonogram_pixel.jpg"
     },
     {
       "id": "housing_056",
@@ -1195,7 +1111,7 @@
         "housing_056_4",
         "housing_056_5"
       ],
-      "order": 56,
+      "order": 52,
       "pixel_image": "res://assets/images/illustrations/housing/housing_056_nonogram_pixel.jpg"
     },
     {
@@ -1216,50 +1132,8 @@
         "housing_057_4",
         "housing_057_5"
       ],
-      "order": 57,
+      "order": 53,
       "pixel_image": "res://assets/images/illustrations/housing/housing_057_nonogram_pixel.jpg"
-    },
-    {
-      "id": "housing_058",
-      "title": "雅典帕特农神庙",
-      "summary": "雅典卫城帕特农神庙多立克柱廊围合，四十六根大理石柱支撑，视觉...",
-      "full_text": "雅典卫城帕特农神庙多立克柱廊围合，四十六根大理石柱支撑，视觉修正曲线精妙。帕特农神庙是古希腊建筑的最高成就，西方建筑美学的源头。",
-      "image": "res://assets/images/illustrations/housing/housing_058.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "housing_058_0",
-        "housing_058_1",
-        "housing_058_2",
-        "housing_058_3",
-        "housing_058_4",
-        "housing_058_5"
-      ],
-      "order": 58,
-      "pixel_image": "res://assets/images/illustrations/housing/housing_058_nonogram_pixel.jpg"
-    },
-    {
-      "id": "housing_059",
-      "title": "纽约自由女神像",
-      "summary": "自由女神像高九十三米矗立纽约港，铜板外壳锻打成型，内部钢骨架...",
-      "full_text": "自由女神像高九十三米矗立纽约港，铜板外壳锻打成型，内部钢骨架由埃菲尔设计。自由女神像是法国赠予美国的礼物，成为自由与希望的象征。",
-      "image": "res://assets/images/illustrations/housing/housing_059.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "housing_059_0",
-        "housing_059_1",
-        "housing_059_2",
-        "housing_059_3",
-        "housing_059_4",
-        "housing_059_5"
-      ],
-      "order": 59,
-      "pixel_image": "res://assets/images/illustrations/housing/housing_059_nonogram_pixel.jpg"
     },
     {
       "id": "housing_060",
@@ -1279,29 +1153,8 @@
         "housing_060_4",
         "housing_060_5"
       ],
-      "order": 60,
+      "order": 54,
       "pixel_image": "res://assets/images/illustrations/housing/housing_060_nonogram_pixel.jpg"
-    },
-    {
-      "id": "housing_061",
-      "title": "卢浮宫玻璃金字塔",
-      "summary": "卢浮宫庭院中玻璃金字塔由六百块菱形玻璃拼成，钢构架轻盈通透，...",
-      "full_text": "卢浮宫庭院中玻璃金字塔由六百块菱形玻璃拼成，钢构架轻盈通透，地下入口大厅明亮。贝聿铭的玻璃金字塔是古典与现代对话的经典，争议中成为地标。",
-      "image": "res://assets/images/illustrations/housing/housing_061.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "housing_061_0",
-        "housing_061_1",
-        "housing_061_2",
-        "housing_061_3",
-        "housing_061_4",
-        "housing_061_5"
-      ],
-      "order": 61,
-      "pixel_image": "res://assets/images/illustrations/housing/housing_061_nonogram_pixel.jpg"
     },
     {
       "id": "housing_062",
@@ -1321,7 +1174,7 @@
         "housing_062_4",
         "housing_062_5"
       ],
-      "order": 62,
+      "order": 55,
       "pixel_image": "res://assets/images/illustrations/housing/housing_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,29 +1195,8 @@
         "housing_063_4",
         "housing_063_5"
       ],
-      "order": 63,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/housing/housing_063_nonogram_pixel.jpg"
-    },
-    {
-      "id": "housing_064",
-      "title": "古埃及金字塔",
-      "summary": "吉萨高原上胡夫金字塔高一百四十六米，二百三十万块石灰岩垒砌，...",
-      "full_text": "吉萨高原上胡夫金字塔高一百四十六米，二百三十万块石灰岩垒砌，每块重达两吨半。金字塔是古埃及法老的陵墓，四千五百年后仍是人类建筑的不朽奇迹。",
-      "image": "res://assets/images/illustrations/housing/housing_064.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "housing_064_0",
-        "housing_064_1",
-        "housing_064_2",
-        "housing_064_3",
-        "housing_064_4",
-        "housing_064_5"
-      ],
-      "order": 64,
-      "pixel_image": "res://assets/images/illustrations/housing/housing_064_nonogram_pixel.jpg"
     }
   ]
 }

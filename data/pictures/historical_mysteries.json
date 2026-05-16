@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "historical_mysteries",
   "pictures": [
     {
@@ -1178,27 +1178,6 @@
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_055_nonogram_pixel.jpg"
     },
     {
-      "id": "historical_mysteries_056",
-      "title": "纳斯卡线条用途",
-      "summary": "秘鲁纳斯卡荒漠上的巨型地画绵延数百米，蜂鸟与蜘蛛图案只有从空...",
-      "full_text": "秘鲁纳斯卡荒漠上的巨型地画绵延数百米，蜂鸟与蜘蛛图案只有从空中才能看清。是天文历法、水源崇拜还是朝圣路线？地下渠道的发现暗示与水资源有关，但为何要制作只有神灵才能欣赏的图案？荒漠上的信笺仍无人能读。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_056.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "historical_mysteries_056_0",
-        "historical_mysteries_056_1",
-        "historical_mysteries_056_2",
-        "historical_mysteries_056_3",
-        "historical_mysteries_056_4",
-        "historical_mysteries_056_5"
-      ],
-      "order": 56,
-      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_056_nonogram_pixel.jpg"
-    },
-    {
       "id": "historical_mysteries_057",
       "title": "巨石阵建造者",
       "summary": "索尔兹伯里平原上的巨石阵建于四千五百年前，蓝砂岩从威尔士运来...",
@@ -1216,7 +1195,7 @@
         "historical_mysteries_057_4",
         "historical_mysteries_057_5"
       ],
-      "order": 57,
+      "order": 56,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_057_nonogram_pixel.jpg"
     },
     {
@@ -1237,7 +1216,7 @@
         "historical_mysteries_058_4",
         "historical_mysteries_058_5"
       ],
-      "order": 58,
+      "order": 57,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_058_nonogram_pixel.jpg"
     },
     {
@@ -1258,7 +1237,7 @@
         "historical_mysteries_059_4",
         "historical_mysteries_059_5"
       ],
-      "order": 59,
+      "order": 58,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_059_nonogram_pixel.jpg"
     },
     {
@@ -1279,7 +1258,7 @@
         "historical_mysteries_060_4",
         "historical_mysteries_060_5"
       ],
-      "order": 60,
+      "order": 59,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_060_nonogram_pixel.jpg"
     },
     {
@@ -1300,7 +1279,7 @@
         "historical_mysteries_061_4",
         "historical_mysteries_061_5"
       ],
-      "order": 61,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,29 +1300,8 @@
         "historical_mysteries_062_4",
         "historical_mysteries_062_5"
       ],
-      "order": 62,
+      "order": 61,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_062_nonogram_pixel.jpg"
-    },
-    {
-      "id": "historical_mysteries_063",
-      "title": "哥贝克力石阵目的",
-      "summary": "一万两千年前的哥贝克力石阵比农业革命更早，狩猎采集者为何要建...",
-      "full_text": "一万两千年前的哥贝克力石阵比农业革命更早，狩猎采集者为何要建造如此宏伟的祭祀建筑？T形石柱是否代表神灵或祖先？建造者从何处获得组织能力？石阵被有意掩埋而非废弃，这一行为背后的动机是考古学最深邃的谜题之一。",
-      "image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_063.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "historical_mysteries_063_0",
-        "historical_mysteries_063_1",
-        "historical_mysteries_063_2",
-        "historical_mysteries_063_3",
-        "historical_mysteries_063_4",
-        "historical_mysteries_063_5"
-      ],
-      "order": 63,
-      "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_063_nonogram_pixel.jpg"
     },
     {
       "id": "historical_mysteries_064",
@@ -1363,7 +1321,7 @@
         "historical_mysteries_064_4",
         "historical_mysteries_064_5"
       ],
-      "order": 64,
+      "order": 62,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_064_nonogram_pixel.jpg"
     },
     {
@@ -1384,7 +1342,7 @@
         "historical_mysteries_065_4",
         "historical_mysteries_065_5"
       ],
-      "order": 65,
+      "order": 63,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_065_nonogram_pixel.jpg"
     },
     {
@@ -1405,7 +1363,7 @@
         "historical_mysteries_066_4",
         "historical_mysteries_066_5"
       ],
-      "order": 66,
+      "order": 64,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_066_nonogram_pixel.jpg"
     },
     {
@@ -1426,7 +1384,7 @@
         "historical_mysteries_067_4",
         "historical_mysteries_067_5"
       ],
-      "order": 67,
+      "order": 65,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_067_nonogram_pixel.jpg"
     },
     {
@@ -1447,7 +1405,7 @@
         "historical_mysteries_068_4",
         "historical_mysteries_068_5"
       ],
-      "order": 68,
+      "order": 66,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_068_nonogram_pixel.jpg"
     },
     {
@@ -1468,7 +1426,7 @@
         "historical_mysteries_069_4",
         "historical_mysteries_069_5"
       ],
-      "order": 69,
+      "order": 67,
       "pixel_image": "res://assets/images/illustrations/historical_mysteries/historical_mysteries_069_nonogram_pixel.jpg"
     }
   ]

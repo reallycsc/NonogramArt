@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "transportation",
   "pictures": [
     {
@@ -1262,27 +1262,6 @@
       "pixel_image": "res://assets/images/illustrations/transportation/transportation_059_nonogram_pixel.jpg"
     },
     {
-      "id": "transportation_060",
-      "title": "智慧港口自动化",
-      "summary": "智慧港口中无人桥吊精准抓取集装箱，自动导引车沿磁钉路线穿梭，...",
-      "full_text": "智慧港口中无人桥吊精准抓取集装箱，自动导引车沿磁钉路线穿梭，中控室远程操控。自动化港口将装卸效率提升三倍，是港口物流的未来形态。",
-      "image": "res://assets/images/illustrations/transportation/transportation_060.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "transportation_060_0",
-        "transportation_060_1",
-        "transportation_060_2",
-        "transportation_060_3",
-        "transportation_060_4",
-        "transportation_060_5"
-      ],
-      "order": 60,
-      "pixel_image": "res://assets/images/illustrations/transportation/transportation_060_nonogram_pixel.jpg"
-    },
-    {
       "id": "transportation_061",
       "title": "深海潜水器",
       "summary": "蛟龙号深海潜水器潜入七千米海底，钛合金球壳抵抗巨大水压，机械...",
@@ -1300,7 +1279,7 @@
         "transportation_061_4",
         "transportation_061_5"
       ],
-      "order": 61,
+      "order": 60,
       "pixel_image": "res://assets/images/illustrations/transportation/transportation_061_nonogram_pixel.jpg"
     },
     {
@@ -1321,7 +1300,7 @@
         "transportation_062_4",
         "transportation_062_5"
       ],
-      "order": 62,
+      "order": 61,
       "pixel_image": "res://assets/images/illustrations/transportation/transportation_062_nonogram_pixel.jpg"
     },
     {
@@ -1342,7 +1321,7 @@
         "transportation_063_4",
         "transportation_063_5"
       ],
-      "order": 63,
+      "order": 62,
       "pixel_image": "res://assets/images/illustrations/transportation/transportation_063_nonogram_pixel.jpg"
     },
     {
@@ -1363,7 +1342,7 @@
         "transportation_064_4",
         "transportation_064_5"
       ],
-      "order": 64,
+      "order": 63,
       "pixel_image": "res://assets/images/illustrations/transportation/transportation_064_nonogram_pixel.jpg"
     }
   ]
