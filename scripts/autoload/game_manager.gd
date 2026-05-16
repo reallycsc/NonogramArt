@@ -76,6 +76,8 @@ var data_preloaded: bool = false
 signal preload_progress(step: int, total: int, description: String)
 signal preload_finished
 
+var _scene_preload_requests: Dictionary = {}
+
 func _ready() -> void:
 	load_game()
 	if OrientationManager:
@@ -101,8 +103,8 @@ func preload_all_data() -> void:
 			preload_progress.emit(pct, 100, "加载相册数据... %d%%" % int(float(i + 1) / float(album_count) * 100))
 			await get_tree().process_frame
 
-	preload_progress.emit(65, 100, "检查图片资源...")
-	AlbumDataScript.preload_album_images_check(album_ids)
+	preload_progress.emit(65, 100, "构建关卡索引...")
+	PuzzleData.build_puzzle_index()
 	await get_tree().process_frame
 
 	preload_progress.emit(70, 100, "计算完成度...")
@@ -122,6 +124,24 @@ func preload_all_data() -> void:
 
 	data_preloaded = true
 	preload_finished.emit()
+	preload_scene("res://scenes/book_shelf.tscn")
+
+
+func preload_scene(scene_path: String) -> void:
+	if _scene_preload_requests.has(scene_path):
+		return
+	if not ResourceLoader.exists(scene_path):
+		return
+	var err = ResourceLoader.load_threaded_request(scene_path)
+	if err == OK:
+		_scene_preload_requests[scene_path] = true
+
+
+func is_scene_preloaded(scene_path: String) -> bool:
+	if not _scene_preload_requests.has(scene_path):
+		return false
+	var status = ResourceLoader.load_threaded_get_status(scene_path)
+	return status == ResourceLoader.THREAD_LOAD_LOADED
 
 
 func _preload_album_icons(album_ids: Array) -> void:
@@ -720,4 +740,33 @@ func get_album_id_for_puzzle(puzzle_id: String) -> String:
 				return album_id
 	
 	push_warning("GameManager: Puzzle '%s' not found in any album" % puzzle_id)
+	return ""
+
+
+func get_album_id_for_picture(picture_id: String) -> String:
+	_build_completion_cache()
+	if _picture_to_album_map.has(picture_id):
+		return _picture_to_album_map[picture_id]
+	var album_ids = AlbumDataScript.get_all_album_ids()
+	for album_id in album_ids:
+		var pictures = AlbumDataScript.load_pictures(album_id)
+		for picture in pictures:
+			if picture.get("id", "") == picture_id:
+				_picture_to_album_map[picture_id] = album_id
+				return album_id
+	return ""
+
+
+func get_picture_id_for_puzzle(puzzle_id: String) -> String:
+	_build_completion_cache()
+	if _puzzle_to_picture_map.has(puzzle_id):
+		return _puzzle_to_picture_map[puzzle_id]
+	var album_id = get_album_id_for_puzzle(puzzle_id)
+	if album_id == "":
+		return ""
+	var pictures = AlbumDataScript.load_pictures(album_id)
+	for picture in pictures:
+		if puzzle_id in picture.get("puzzles", []):
+			_puzzle_to_picture_map[puzzle_id] = picture.get("id", "")
+			return picture.get("id", "")
 	return ""

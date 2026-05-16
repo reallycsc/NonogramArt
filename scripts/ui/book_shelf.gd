@@ -46,6 +46,7 @@ func _ready() -> void:
 		GameManager.pending_bookshelf_id = ""
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
 	_apply_orientation(OrientationManager.current_orientation)
+	GameManager.preload_scene("res://scenes/album_detail.tscn")
 	_load_shelf()
 	if GameManager.pending_album_id != "":
 		AudioManager.play_bgm_for_album(GameManager.pending_album_id)

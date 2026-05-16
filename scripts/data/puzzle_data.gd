@@ -13,6 +13,7 @@ var difficulty: String = "easy"
 var source_rect: Dictionary = {}
 
 var _cache: Dictionary = {}
+var _puzzle_album_index: Dictionary = {}
 
 
 static var _instance: PuzzleData = null
@@ -28,8 +29,21 @@ static func invalidate_cache(puzzle_id: String = "") -> void:
 	var inst = _get_instance()
 	if puzzle_id == "":
 		inst._cache.clear()
+		inst._puzzle_album_index.clear()
 	else:
 		inst._cache.erase(puzzle_id)
+
+
+static func build_puzzle_index() -> void:
+	var inst = _get_instance()
+	if not inst._puzzle_album_index.is_empty():
+		return
+	var album_ids = AlbumData.get_all_album_ids()
+	for album_id in album_ids:
+		var pictures = AlbumData.load_pictures(album_id)
+		for picture in pictures:
+			for pid in picture.get("puzzles", []):
+				inst._puzzle_album_index[pid] = album_id
 
 
 static func from_json(data: Dictionary) -> PuzzleData:
@@ -60,12 +74,20 @@ static func load_puzzle(puzzle_id: String) -> PuzzleData:
 	var inst = _get_instance()
 	if inst._cache.has(puzzle_id):
 		return inst._cache[puzzle_id]
+	var album_id = inst._puzzle_album_index.get(puzzle_id, "")
+	if album_id != "":
+		var path = "res://data/puzzles/" + album_id + "/" + puzzle_id + ".json"
+		var p = _load_puzzle_file(path)
+		if p:
+			inst._cache[puzzle_id] = p
+		return p
 	var album_ids = AlbumData.get_all_album_ids()
-	for album_id in album_ids:
-		var pictures = AlbumData.load_pictures(album_id)
+	for aid in album_ids:
+		var pictures = AlbumData.load_pictures(aid)
 		for picture in pictures:
 			if puzzle_id in picture.get("puzzles", []):
-				var path = "res://data/puzzles/" + album_id + "/" + puzzle_id + ".json"
+				inst._puzzle_album_index[puzzle_id] = aid
+				var path = "res://data/puzzles/" + aid + "/" + puzzle_id + ".json"
 				var p = _load_puzzle_file(path)
 				if p:
 					inst._cache[puzzle_id] = p

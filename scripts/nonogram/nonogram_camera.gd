@@ -26,6 +26,14 @@ var _pinch_drag_start_pos: Vector2 = Vector2.ZERO
 func _ready():
 	viewport_size = get_viewport_rect().size
 	maxPosition = viewport_size
+	target_position = position
+
+func reset_for_viewport() -> void:
+	viewport_size = get_viewport_rect().size
+	maxPosition = viewport_size
+	target_position = viewport_size / 2
+	position = target_position
+	_update_bounds()
 
 func set_touch_mode(enabled: bool) -> void:
 	_touch_mode = enabled

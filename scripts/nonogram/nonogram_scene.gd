@@ -43,6 +43,7 @@ var colHint_scene: PackedScene = preload("res://scenes/col_hint.tscn")
 var cell_size:Vector2 = Vector2(32,32)
 var cell_start_position = Vector2(0,0) # 格子在cellContainer中的起始位置
 var board_size:Vector2 = Vector2.ZERO
+var _original_board_size: Vector2 = Vector2.ZERO
 
 var cells: Array[CellColor] = []
 var rowHints: Array[RowHint] = []       # 行提示
@@ -207,22 +208,19 @@ func setup_frame_and_dividers():
 # 缩放整体大小并设置棋盘居中
 func setup_board_size_and_position():
 	var screen_size = get_viewport_rect().size
-	var max_grid_size = max(grid_size.x, grid_size.y)
-	var scale_vector
-	if max_grid_size <= 10:
-		scale_vector = screen_size / board_size * 0.9
-	else:
-		scale_vector = screen_size / board_size * 0.9
+	if _original_board_size == Vector2.ZERO:
+		_original_board_size = board_size
+	var scale_vector = screen_size / _original_board_size * 0.9
 	var new_scale = Vector2.ONE * min(scale_vector.x, scale_vector.y)
 	game_board.scale = new_scale
-	board_size = board_size * new_scale
-	game_board.position = (screen_size-board_size)/2
+	board_size = _original_board_size * new_scale
+	game_board.position = (screen_size - board_size) / 2
 	game_board.position.clamp(Vector2.ZERO, screen_size)
 	
 # 设置相机
 func setup_camera():
 	camera.make_current()
-	camera.position = get_viewport_rect().size/2
+	camera.reset_for_viewport()
 	camera.min_zoom = 1
 	camera.max_zoom = 1.5
 
@@ -343,18 +341,17 @@ func _play_finish_animation1():
 	tween.finished.connect(_play_finish_animation2)
 
 func _find_album_and_picture_for_puzzle(puzzle_id: String) -> Dictionary:
-	var album_ids = AlbumData.get_all_album_ids()
-	for aid in album_ids:
-		var pictures = AlbumData.load_pictures(aid)
-		for p in pictures:
-			if puzzle_id in p.get("puzzles", []):
-				return {"album_id": aid, "picture_id": p.get("id", "")}
+	var album_id = GameManager.get_album_id_for_puzzle(puzzle_id)
+	if album_id != "":
+		var picture_id = GameManager.get_picture_id_for_puzzle(puzzle_id)
+		if picture_id != "":
+			return {"album_id": album_id, "picture_id": picture_id}
 	return {}
 
 func _get_original_dims_for_picture(picture_id: String) -> Vector2:
-	var album_ids = AlbumData.get_all_album_ids()
-	for aid in album_ids:
-		var pictures = AlbumData.load_pictures(aid)
+	var album_id = GameManager.get_album_id_for_picture(picture_id)
+	if album_id != "":
+		var pictures = AlbumData.load_pictures(album_id)
 		for p in pictures:
 			if p.get("id", "") == picture_id:
 				var puzzle_ids = p.get("puzzles", [])
@@ -789,7 +786,9 @@ func _on_orientation_changed(new_orientation: int) -> void:
 func _apply_orientation(orientation: int) -> void:
 	if not is_inside_tree():
 		return
-	camera.position = get_viewport_rect().size/2
+	camera.reset_for_viewport()
+	if _original_board_size != Vector2.ZERO:
+		setup_board_size_and_position()
 	if _first_orientation_applied:
 		BackgroundManager.apply_background_with_transition(background, "nonogram", orientation, self)
 	else:

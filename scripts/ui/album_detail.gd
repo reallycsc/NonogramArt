@@ -79,6 +79,7 @@ func _ready() -> void:
 	AudioManager.play_bgm_for_album(current_album_id)
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
 	_apply_orientation(OrientationManager.current_orientation)
+	GameManager.preload_scene("res://scenes/nonogram_scene.tscn")
 
 func _exit_tree() -> void:
 	if OrientationManager.orientation_changed.is_connected(_on_orientation_changed):
@@ -311,7 +312,7 @@ func _build_illustration(area: Control, picture: Dictionary, picture_index: int)
 		var img_h: int = 0
 
 		if img_path != "" and ResourceLoader.exists(img_path):
-			var tex = ResourceLoader.load(img_path, "", ResourceLoader.CACHE_MODE_IGNORE)
+			var tex = ResourceLoader.load(img_path, "", ResourceLoader.CACHE_MODE_REUSE)
 			if tex is Texture2D:
 				illust_tex = tex
 				img_w = tex.get_width()
@@ -326,7 +327,7 @@ func _build_illustration(area: Control, picture: Dictionary, picture_index: int)
 		var base_path = img_path.get_basename()
 		var pixel_path = base_path + "_nonogram_pixel.jpg"
 		if ResourceLoader.exists(pixel_path):
-			var tex = ResourceLoader.load(pixel_path, "", ResourceLoader.CACHE_MODE_IGNORE)
+			var tex = ResourceLoader.load(pixel_path, "", ResourceLoader.CACHE_MODE_REUSE)
 			if tex is Texture2D:
 				pixel_tex = tex
 
@@ -640,12 +641,13 @@ func _show_fullscreen_viewer(area: Control) -> void:
 
 	var overlay = ColorRect.new()
 	overlay.set_anchors_preset(Control.PRESET_FULL_RECT)
-	overlay.color = Color(0, 0, 0, 0)
+	overlay.color = Color(0, 0, 0, 0.75)
 
 	var img_rect = TextureRect.new()
 	img_rect.set_anchors_preset(Control.PRESET_FULL_RECT)
 	img_rect.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
 	img_rect.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+	img_rect.mouse_filter = Control.MOUSE_FILTER_IGNORE
 	img_rect.texture = illust_tex
 
 	var back_btn = TextureButton.new()
@@ -658,8 +660,8 @@ func _show_fullscreen_viewer(area: Control) -> void:
 	back_btn.texture_hover = preload("res://assets/images/ui/back_button_hover.png")
 	back_btn.z_index = 10
 
-	canvas.add_child(img_rect)
 	canvas.add_child(overlay)
+	canvas.add_child(img_rect)
 	canvas.add_child(back_btn)
 	add_child(canvas)
 
@@ -1051,7 +1053,7 @@ func _preload_picture_resources(picture: Dictionary) -> void:
 	var img_h: int = 0
 
 	if img_path != "" and ResourceLoader.exists(img_path):
-		var tex = ResourceLoader.load(img_path, "", ResourceLoader.CACHE_MODE_IGNORE)
+		var tex = ResourceLoader.load(img_path, "", ResourceLoader.CACHE_MODE_REUSE)
 		if tex is Texture2D:
 			illust_tex = tex
 			img_w = tex.get_width()
@@ -1063,7 +1065,7 @@ func _preload_picture_resources(picture: Dictionary) -> void:
 	var base_path = img_path.get_basename()
 	var pixel_path = base_path + "_nonogram_pixel.jpg"
 	if ResourceLoader.exists(pixel_path):
-		var tex = ResourceLoader.load(pixel_path, "", ResourceLoader.CACHE_MODE_IGNORE)
+		var tex = ResourceLoader.load(pixel_path, "", ResourceLoader.CACHE_MODE_REUSE)
 		if tex is Texture2D:
 			pixel_tex = tex
 
