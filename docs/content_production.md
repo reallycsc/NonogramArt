@@ -487,6 +487,7 @@ C:\Python311\python.exe tools\generate_jimeng4_images.py credit
 9. 彩色数织像素图生成（可选）
     │  从原像素图提取每个格子的颜色
     │  生成带原始色彩的数织解图
+    │  无分割线、无白边（浮点数精确坐标+黑色画布初始化）
     │
     ▼
 完整生产结果
@@ -625,6 +626,8 @@ C:\Python311\python.exe -u tools\gen_color_nonogram_pixel.py chinese_history
 | can\_solve返回部分解 | 约束传播未完全确定时返回含-1的网格 | 始终使用adjusted\_grid作为最终解，can\_solve仅判断可解性 |
 | 提示格重复添加         | 约束传播已确定的格子被再次添加    | 添加跳过已确定格子逻辑                              |
 | 大关卡提示格不足        | 固定上限15对20×20关卡不够   | 动态上限 `max(15, size*size//4)`             |
+| 数织像素图有白色分割线    | `gen_color_nonogram_pixel.py` 在分块间绘制灰色分割线 | 删除分割线绘制代码，6个分块紧密拼接            |
+| 数织像素图有白边/白色缝隙  | 整数除法导致像素块之间有未覆盖的白色缝隙   | 改为浮点数计算 + `round()` 精确坐标 + `np.zeros()` 黑色画布初始化 |
 
 ### 5.3 验证与修复工具
 

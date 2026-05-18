@@ -43,7 +43,7 @@ var settings: Dictionary = {
 	"auto_rotate": true,
 }
 
-var test_mode: bool = false
+var test_mode: bool = true
 
 var pending_bookshelf_id: String = ""
 var pending_album_id: String = ""

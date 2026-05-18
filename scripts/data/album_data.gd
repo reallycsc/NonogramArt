@@ -7,6 +7,7 @@ var _raw_json_cache: Dictionary = {}
 var _raw_json_valid: bool = false
 var _album_by_id_cache: Dictionary = {}
 var _album_images_valid_cache: Dictionary = {}
+var _album_available_cache: Dictionary = {}
 
 static var _instance: AlbumData = null
 
@@ -77,8 +78,6 @@ static func load_albums(bookshelf_id: String = "") -> Array:
 			continue
 		if bookshelf_id != "" and album.get("bookshelf_id", "") != bookshelf_id:
 			continue
-		if not _check_album_images(album.get("id", "")):
-			continue
 		result.append(album)
 	result.sort_custom(func(a, b): return a.get("order", 0) < b.get("order", 0))
 	inst._albums_cache[bookshelf_id] = result
@@ -90,6 +89,9 @@ static func _check_album_images(album_id: String) -> bool:
 	var inst = _get_instance()
 	if inst._album_images_valid_cache.has(album_id):
 		return inst._album_images_valid_cache[album_id]
+	if not DLCManager.is_album_available(album_id):
+		inst._album_images_valid_cache[album_id] = false
+		return false
 	var pictures = load_pictures(album_id)
 	if pictures.is_empty():
 		inst._album_images_valid_cache[album_id] = false
@@ -105,6 +107,10 @@ static func _check_album_images(album_id: String) -> bool:
 			return false
 	inst._album_images_valid_cache[album_id] = true
 	return true
+
+
+static func is_album_content_available(album_id: String) -> bool:
+	return _check_album_images(album_id)
 
 
 static func preload_album_images_check(album_ids: Array) -> void:

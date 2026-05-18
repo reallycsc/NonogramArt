@@ -18,7 +18,7 @@ var _pending_orientation: int = Orientation.PORTRAIT
 var _last_screen_size: Vector2i = Vector2i.ZERO
 
 func _ready() -> void:
-	_is_desktop = not DisplayServer.is_touchscreen_available() and Input.get_accelerometer() == Vector3.ZERO
+	_is_desktop = OS.get_name() in ["Windows", "macOS", "Linux"]
 	_detect_initial_orientation()
 	_apply_viewport_size()
 	_try_enable_sensor()
@@ -33,11 +33,11 @@ func _ready() -> void:
 func _notification(what: int) -> void:
 	if what == NOTIFICATION_WM_SIZE_CHANGED:
 		if auto_rotate_enabled:
-			_check_orientation_by_screen_size()
+			call_deferred("_check_orientation_by_screen_size")
 
 func _on_window_size_changed() -> void:
 	if auto_rotate_enabled:
-		_check_orientation_by_screen_size()
+		call_deferred("_check_orientation_by_screen_size")
 
 func _detect_initial_orientation() -> void:
 	var size = _get_effective_size()
@@ -119,7 +119,8 @@ func _check_orientation_by_screen_size() -> void:
 func _apply_orientation(orientation: int) -> void:
 	current_orientation = orientation
 	_apply_viewport_size()
-	_sync_display_orientation()
+	if not auto_rotate_enabled:
+		_sync_display_orientation()
 	orientation_changed.emit(orientation)
 
 func _sync_display_orientation() -> void:

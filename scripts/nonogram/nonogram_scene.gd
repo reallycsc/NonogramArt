@@ -86,7 +86,6 @@ func _ready():
 	game_over_popup.exit_requested.connect(_on_back_button_pressed)
 
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
-	_apply_orientation(OrientationManager.current_orientation)
 	
 	_detect_input_device()
 	check_button.button_pressed = true
@@ -112,9 +111,9 @@ func _ready():
 	setup_board_size_and_position()
 	setup_tips()
 	setup_camera()
+	_apply_orientation(OrientationManager.current_orientation)
 	NonogramManager.check_and_update_after_ready()
 	AudioManager.play_bgm_for_album(_album_id)
-
 	
 	
 # 设置提示数字
@@ -371,7 +370,6 @@ func _get_original_dims_for_picture(picture_id: String) -> Vector2:
 func _create_pixel_grid_display():
 	var puzzle = NonogramManager.current_puzzle
 	if not puzzle:
-		print("Error: puzzle is null")
 		return
 
 	var picture_id = puzzle.picture_id
@@ -389,24 +387,20 @@ func _create_pixel_grid_display():
 			picture = AlbumData.get_picture(album_id, picture_id)
 
 	if picture.is_empty():
-		print("Error: picture not found for puzzle: ", puzzle.id, " picture_id: ", picture_id, " album_id: ", album_id)
 		return
 
 	var img_path = picture.get("image", "")
 	if img_path == "":
-		print("Error: image path is empty")
 		return
 
 	var base_path = img_path.get_basename()
 	var pixel_path = base_path + "_nonogram_pixel.jpg"
 
 	if not ResourceLoader.exists(pixel_path):
-		print("Error: pixel image not found: ", pixel_path)
 		return
 
 	var tex = load(pixel_path)
 	if not tex is Texture2D:
-		print("Error: loaded resource is not a Texture2D")
 		return
 
 	var source_rect = puzzle.source_rect
@@ -427,50 +421,37 @@ func _create_pixel_grid_display():
 	var pixel_tex = ImageTexture.create_from_image(pixel_img)
 
 	var pixel_rect = TextureRect.new()
-	pixel_rect.name = "PixelGridRect"
+	pixel_rect.name = "PixelImage"
 	pixel_rect.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 	pixel_rect.stretch_mode = TextureRect.STRETCH_SCALE
 	pixel_rect.texture = pixel_tex
 	pixel_rect.custom_minimum_size = cell_size * Vector2(grid_size.y, grid_size.x)
 	pixel_rect.size = pixel_rect.custom_minimum_size
 	pixel_rect.position = cell_start_position
-
-	var shader_mat = ShaderMaterial.new()
-	shader_mat.shader = preload("res://shaders/sweep_reveal.gdshader")
-	shader_mat.set_shader_parameter("progress", 0.0)
-	shader_mat.set_shader_parameter("sweep_width", 0.08)
-	pixel_rect.material = shader_mat
-
 	cell_container.add_child(pixel_rect)
+	cell_container.move_child(pixel_rect, 0)
 
 func _play_finish_animation2():
-	var pixel_rect = cell_container.get_node_or_null("PixelGridRect")
+	var pixel_rect = cell_container.get_node_or_null("PixelImage")
 	if not pixel_rect:
 		finish_button.show()
 		return
 
-	var shader_mat = pixel_rect.material as ShaderMaterial
-	if not shader_mat:
-		finish_button.show()
-		return
-
-	var sweep_duration = 1.5
 	var max_diag = float(grid_size.x + grid_size.y - 2)
 	if max_diag < 1.0:
 		max_diag = 1.0
 
+	var fade_duration = 1.5
 	var tween = create_tween()
 	AnimationManager.register_tween(tween)
 	tween.set_parallel(true)
-
-	tween.tween_property(shader_mat, "shader_parameter/progress", 1.15, sweep_duration)
 
 	for x in range(grid_size.x):
 		for y in range(grid_size.y):
 			var idx = x * grid_size.y + y
 			if idx < cells.size():
-				var delay = (float(x) + float(y)) / max_diag * sweep_duration * 0.85
-				tween.tween_property(cells[idx], "modulate:a", 0.0, 0.25).set_delay(delay)
+				var delay = (float(x) + float(y)) / max_diag * fade_duration * 0.85
+				tween.tween_property(cells[idx], "modulate:a", 0.0, 0.3).set_delay(delay)
 
 	tween.finished.connect(func():
 		finish_button.show()
@@ -521,6 +502,8 @@ func _unhandled_input(event: InputEvent) -> void:
 		get_viewport().set_input_as_handled()
 		return
 	if is_locked:
+		return
+	if _is_touch_device and (event is InputEventMouseButton or event is InputEventMouseMotion):
 		return
 	if event is InputEventMouseMotion and is_dragging:
 		# 只处理和初始格子相同行或相同列的格子
@@ -789,8 +772,35 @@ func _apply_orientation(orientation: int) -> void:
 	camera.reset_for_viewport()
 	if _original_board_size != Vector2.ZERO:
 		setup_board_size_and_position()
+	_apply_check_button_position(orientation)
 	if _first_orientation_applied:
 		BackgroundManager.apply_background_with_transition(background, "nonogram", orientation, self)
 	else:
 		BackgroundManager.apply_background(background, "nonogram", orientation)
 		_first_orientation_applied = true
+
+func _apply_check_button_position(orientation: int) -> void:
+	if orientation == OrientationManager.Orientation.LANDSCAPE:
+		check_button.anchor_left = 0.0
+		check_button.anchor_right = 0.0
+		check_button.anchor_top = 1.0
+		check_button.anchor_bottom = 1.0
+		check_button.offset_left = 10.0
+		check_button.offset_right = 0.0
+		check_button.offset_top = 0.0
+		check_button.offset_bottom = -160.0
+		check_button.grow_horizontal = Control.GROW_DIRECTION_END
+		check_button.grow_vertical = Control.GROW_DIRECTION_BEGIN
+		check_button.scale = Vector2(0.7, 0.7)
+	else:
+		check_button.anchor_left = 0.5
+		check_button.anchor_right = 0.5
+		check_button.anchor_top = 1.0
+		check_button.anchor_bottom = 1.0
+		check_button.offset_left = -100.0
+		check_button.offset_right = 100.0
+		check_button.offset_top = 0.0
+		check_button.offset_bottom = -150.0
+		check_button.grow_horizontal = Control.GROW_DIRECTION_BOTH
+		check_button.grow_vertical = Control.GROW_DIRECTION_BEGIN
+		check_button.scale = Vector2(1.0, 1.0)

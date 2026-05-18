@@ -453,13 +453,36 @@ def get_base_difficulty(album_id, pic_idx):
 
 **直接生成**：`generate_pixel_image` 函数按动态难度网格从原图采样颜色，直接生成 `{id}_nonogram_pixel.jpg`。
 
+### 设计要求
+
+- **无分割线**：6个分块之间不绘制任何分割线，像素块紧密拼接
+- **无白边**：使用浮点数精确计算像素块坐标（`round()`），确保每个像素块无缝覆盖，不留白色缝隙
+- **黑色画布初始化**：使用 `np.zeros()` 初始化画布，避免白色底色透出
+
+### 像素块坐标计算
+
+```python
+cell_w = img_width / GRID_X   # 浮点数精确计算
+cell_h = img_height / GRID_Y
+
+pixel_w = block_w / puzzle_size
+pixel_h = block_h / puzzle_size
+
+dst_x0 = int(round(x0_f + c * pixel_w))    # round() 确保无缝拼接
+dst_y0 = int(round(y0_f + r * pixel_h))
+dst_x1 = int(round(x0_f + (c + 1) * pixel_w))
+dst_y1 = int(round(y0_f + (r + 1) * pixel_h))
+```
+
 ### 输出规格
 
 | 属性 | 值 |
 | ---- | -- |
 | 文件命名 | `{图片ID}_nonogram_pixel.jpg` |
 | 颜色来源 | 按动态难度网格从原图采样 |
-| 文件格式 | JPG（quality=95） | |
+| 分割线 | 无（分块间紧密拼接，不绘制分割线） |
+| 白边 | 无（浮点数精确计算，无缝隙） |
+| 文件格式 | JPG（quality=95） |
 
 ## 经验教训与注意事项
 
@@ -476,6 +499,8 @@ def get_base_difficulty(album_id, pic_idx):
 | **get_line_possibilities排列不足** | `max_start = length - pos - min_remaining - block` 多减了pos | 改为 `max_start = length - min_remaining - block`，pos已通过range下限处理 |
 | **can_solve误报可解** | 排列不足导致约束传播过早收敛 | 修复max_start公式后排列完整，约束传播正确 |
 | **5×5关卡需猜测** | 求解器bug掩盖了不可解问题 | 修复求解器 + make_solvable翻转修复 |
+| **数织像素图有白色分割线** | `gen_color_nonogram_pixel.py` 在分块间绘制灰色分割线 | 删除分割线绘制代码，6个分块紧密拼接 |
+| **数织像素图有白边/白色缝隙** | 整数除法 `cell_w = img_width // 3` 导致像素块之间有未覆盖的白色缝隙 | 改为浮点数计算 `cell_w = img_width / 3` + `round()` 精确坐标 + `np.zeros()` 黑色画布初始化 |
 | **大网格make_solvable极慢** | 每个翻转候选都运行完整can_solve | 小网格用完整验证，大网格用快速约束传播评估 |
 
 ### 关键设计决策

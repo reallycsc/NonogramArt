@@ -47,6 +47,9 @@ func _ready() -> void:
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
 	_apply_orientation(OrientationManager.current_orientation)
 	GameManager.preload_scene("res://scenes/album_detail.tscn")
+	DLCManager.album_pack_loaded.connect(_on_album_pack_loaded)
+	DLCManager.album_pack_download_failed.connect(_on_album_pack_download_failed)
+	DLCManager.album_pack_download_progress.connect(_on_album_pack_download_progress)
 	_load_shelf()
 	if GameManager.pending_album_id != "":
 		AudioManager.play_bgm_for_album(GameManager.pending_album_id)
@@ -108,11 +111,37 @@ func _display_albums() -> void:
 		row.add_child(book_btn)
 		book_btn.setup(album)
 		book_btn.locked_album_clicked.connect(_on_locked_album_clicked)
+		book_btn.download_album_clicked.connect(_on_download_album_clicked)
 		album_index += 1
 
 func _on_locked_album_clicked(album_id: String) -> void:
 	AudioManager.play_sfx("click")
 	_show_toast("完成前一本画册即可解锁")
+
+func _on_download_album_clicked(album_id: String) -> void:
+	AudioManager.play_sfx("click")
+	if DLCManager.is_downloading():
+		_show_toast("正在下载中，请稍候...")
+		return
+	var btn = _find_book_button(album_id)
+	if btn:
+		btn.show_download_started()
+	DLCManager.download_album(album_id)
+
+func _on_album_pack_loaded(album_id: String) -> void:
+	if is_inside_tree():
+		_load_shelf()
+
+func _on_album_pack_download_failed(album_id: String, error: String) -> void:
+	_show_toast("下载失败: " + error)
+	var btn = _find_book_button(album_id)
+	if btn:
+		btn.show_download_failed()
+
+func _on_album_pack_download_progress(album_id: String, downloaded: int, total: int) -> void:
+	var btn = _find_book_button(album_id)
+	if btn:
+		btn.update_download_progress(downloaded, total)
 
 func _on_left_button_pressed() -> void:
 	AudioManager.play_sfx("click")
@@ -188,6 +217,13 @@ func _on_swipe_right() -> void:
 
 func _show_toast(message: String) -> void:
 	ToastManager.show_toast(message)
+
+func _find_book_button(target_album_id: String) -> Node:
+	for row in _row_containers:
+		for child in row.get_children():
+			if child is TextureButton and child.album_id == target_album_id:
+				return child
+	return null
 
 func _on_orientation_changed(new_orientation: int) -> void:
 	_apply_orientation(new_orientation)
