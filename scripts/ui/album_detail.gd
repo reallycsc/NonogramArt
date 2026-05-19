@@ -21,32 +21,30 @@ const NONOGRAM_BTN_LOCKED = preload("res://assets/images/ui/album/picture_nonogr
 
 @onready var portrait_ui: Control = $PortraitUI
 @onready var landscape_ui: Control = $LandscapeUI
-@onready var portrait_canvas: CanvasLayer = $PortraitUI/CanvasLayer
-@onready var landscape_canvas: CanvasLayer = $LandscapeUI/CanvasLayer
 
 @onready var p_page: Control = $PortraitUI/PageContent
 @onready var p_title: Label = $PortraitUI/PageContent/Title
 @onready var p_illustration_area: Control = $PortraitUI/PageContent/VBoxContainer/IllustrationArea
 @onready var p_album_text: Label = $PortraitUI/PageContent/VBoxContainer/AlbumText
 @onready var p_page_num: Label = $PortraitUI/PageContent/PageNumLabel
-@onready var p_settings_popup: Control = $PortraitUI/CanvasLayer/SettingsPopup
-@onready var p_left_button: TextureButton = $PortraitUI/CanvasLayer/LeftButton
-@onready var p_right_button: TextureButton = $PortraitUI/CanvasLayer/RightButton
+@onready var p_left_button: TextureButton = $PortraitUI/LeftButton
+@onready var p_right_button: TextureButton = $PortraitUI/RightButton
 
 @onready var l_page: Control = $LandscapeUI/PageContent
 @onready var l_title: Label = $LandscapeUI/PageContent/Title
 @onready var l_illustration_area: Control = $LandscapeUI/PageContent/VBoxContainer/IllustrationArea
 @onready var l_album_text: Label = $LandscapeUI/PageContent/VBoxContainer/AlbumText
 @onready var l_page_num: Label = $LandscapeUI/PageContent/PageNumLabel
-@onready var l_settings_popup: Control = $LandscapeUI/CanvasLayer/SettingsPopup
-@onready var l_left_button: TextureButton = $LandscapeUI/CanvasLayer/LeftButton
-@onready var l_right_button: TextureButton = $LandscapeUI/CanvasLayer/RightButton
+@onready var l_left_button: TextureButton = $LandscapeUI/LeftButton
+@onready var l_right_button: TextureButton = $LandscapeUI/RightButton
 
 @onready var l_page2: Control = $LandscapeUI/PageContent2
 @onready var l_title2: Label = $LandscapeUI/PageContent2/Title
 @onready var l_illustration_area2: Control = $LandscapeUI/PageContent2/VBoxContainer/IllustrationArea
 @onready var l_album_text2: Label = $LandscapeUI/PageContent2/VBoxContainer/AlbumText
 @onready var l_page_num2: Label = $LandscapeUI/PageContent2/PageNumLabel
+
+@onready var settings_popup: Control = $CanvasLayer/SettingsPopup
 
 var current_album_id: String = ""
 var current_picture_id: String = ""
@@ -886,12 +884,16 @@ func _unhandled_input(event: InputEvent) -> void:
 			_on_back_pressed()
 		get_viewport().set_input_as_handled()
 
+func _notification(what: int) -> void:
+	if what == NOTIFICATION_WM_GO_BACK_REQUEST:
+		if _fullscreen_viewer:
+			_close_fullscreen_viewer()
+		else:
+			_on_back_pressed()
+
 func _on_settings_pressed() -> void:
 	AudioManager.play_sfx("click")
-	if portrait_ui.visible:
-		p_settings_popup.show_settings()
-	else:
-		l_settings_popup.show_settings()
+	settings_popup.show_settings()
 
 func _on_left_button_pressed() -> void:
 	var step = _get_step()
@@ -923,6 +925,10 @@ func _update_page_navigation() -> void:
 func _input(event: InputEvent) -> void:
 	if not DisplayServer.is_touchscreen_available():
 		return
+	if settings_popup.visible:
+		return
+	if _fullscreen_viewer:
+		return
 	if event is InputEventScreenTouch:
 		if event.pressed:
 			_swipe_start_pos = event.position
@@ -933,7 +939,23 @@ func _input(event: InputEvent) -> void:
 					_on_swipe_right()
 				else:
 					_on_swipe_left()
+			else:
+				_handle_illustration_tap(event.position)
 			_swipe_start_pos = Vector2.ZERO
+
+func _handle_illustration_tap(pos: Vector2) -> void:
+	var area: Control = _get_active_illustration_area()
+	if not area:
+		return
+	if not area.get_global_rect().has_point(pos):
+		return
+	if not area.has_meta("illustration_ctx"):
+		return
+	var ctx: Dictionary = area.get_meta("illustration_ctx")
+	var picture_id: String = ctx.get("picture_id", "")
+	if not GameManager.is_picture_completed(picture_id):
+		return
+	_show_fullscreen_viewer(area)
 
 func _on_swipe_left() -> void:
 	if _current_picture_index < _pictures.size() - 1:
@@ -954,14 +976,18 @@ func _apply_orientation(orientation: int) -> void:
 		return
 	if orientation == OrientationManager.Orientation.PORTRAIT:
 		portrait_ui.visible = true
-		portrait_canvas.visible = true
+		p_left_button.visible = true
+		p_right_button.visible = true
 		landscape_ui.visible = false
-		landscape_canvas.visible = false
+		l_left_button.visible = false
+		l_right_button.visible = false
 	else:
 		portrait_ui.visible = false
-		portrait_canvas.visible = false
+		p_left_button.visible = false
+		p_right_button.visible = false
 		landscape_ui.visible = true
-		landscape_canvas.visible = true
+		l_left_button.visible = true
+		l_right_button.visible = true
 	if _is_landscape() and _current_picture_index % 2 == 1 and _current_picture_index > 0:
 		_current_picture_index -= 1
 	_display_current_pages()

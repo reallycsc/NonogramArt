@@ -19,10 +19,13 @@ signal download_album_clicked(album_id: String)
 @onready var progress_label: Label = $BookIconNode/ProgressLabel
 
 var album_id: String = ""
+var _needs_completion_animation: bool = false
+var _completion_tween: Tween = null
 
 func setup(data: Dictionary) -> void:
 	album_id = data.get("id", "")
 	book_name.text = data.get("name", "")
+	_needs_completion_animation = false
 
 	var unlock_result = GameManager.get_album_unlock_status(album_id)
 	if not unlock_result.unlocked:
@@ -50,6 +53,9 @@ func setup(data: Dictionary) -> void:
 		texture_pressed = BTN_GREY_PRESSED
 		book_icon.texture = GameManager.get_album_icon_grey(album_id)
 		if DLCManager.is_downloading() and DLCManager.get_downloading_album_id() == album_id:
+			dlc_download.hide()
+			progress_bar.show()
+			progress_label.show()
 			status_label.text = "下载中..."
 			status_label.add_theme_color_override("font_color", Color(0.3, 0.6, 1.0))
 		else:
@@ -65,8 +71,18 @@ func setup(data: Dictionary) -> void:
 	if completion >= 1.0 or GameManager.test_mode:
 		book_icon.texture = GameManager.get_album_icon(album_id)
 		if completion >= 1.0:
-			status_label.text = "已完成"
-			status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
+			if GameManager.should_show_album_animation(album_id):
+				_needs_completion_animation = true
+				texture_normal = BTN_NORMAL
+				texture_hover = BTN_HOVER
+				texture_pressed = BTN_PRESSED
+				modulate = Color(0.5, 0.5, 0.5)
+				scale = Vector2(0.95, 0.95)
+				status_label.text = "已完成"
+				status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
+			else:
+				status_label.text = "已完成"
+				status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
 		else:
 			status_label.text = "%d%%" % int(completion * 100)
 			status_label.add_theme_color_override("font_color", Color.WHITE)
@@ -77,6 +93,33 @@ func setup(data: Dictionary) -> void:
 		book_icon.texture = GameManager.get_album_icon_grey(album_id)
 		status_label.text = "%d%%" % int(completion * 100)
 		status_label.add_theme_color_override("font_color", Color.WHITE)
+
+func play_completion_animation(delay: float = 0.0) -> void:
+	if not _needs_completion_animation:
+		return
+	_needs_completion_animation = false
+
+	if _completion_tween and _completion_tween.is_valid():
+		_completion_tween.kill()
+	_completion_tween = create_tween()
+	_completion_tween.set_ease(Tween.EASE_OUT)
+	_completion_tween.set_trans(Tween.TRANS_QUAD)
+
+	_completion_tween.tween_interval(delay)
+
+	_completion_tween.set_parallel(true)
+	_completion_tween.tween_property(self, "modulate", Color(1.2, 1.15, 1.0), 0.6)
+	_completion_tween.tween_property(self, "scale", Vector2(1.05, 1.05), 0.6)
+
+	_completion_tween.set_parallel(false)
+	_completion_tween.set_ease(Tween.EASE_IN_OUT)
+	_completion_tween.tween_property(self, "modulate", Color(1.0, 1.0, 1.0), 0.3)
+	_completion_tween.tween_property(self, "scale", Vector2(1.0, 1.0), 0.3)
+
+	_completion_tween.tween_callback(_on_completion_animation_finished)
+
+func _on_completion_animation_finished() -> void:
+	GameManager.mark_album_animation_shown(album_id)
 
 func update_download_progress(downloaded: int, total: int) -> void:
 	if total <= 0:

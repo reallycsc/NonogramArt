@@ -29,6 +29,7 @@ static func invalidate_cache(album_id: String = "") -> void:
 		inst._album_by_id_cache.clear()
 	else:
 		inst._pictures_cache.erase(album_id)
+		inst._album_images_valid_cache.erase(album_id)
 
 
 static func _load_albums_json() -> Dictionary:

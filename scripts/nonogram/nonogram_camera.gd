@@ -1,5 +1,7 @@
 extends Camera2D
 
+signal zoom_changed(new_zoom: float)
+
 var min_zoom: float = 1
 var max_zoom: float = 1
 var zoom_step: float = 0.1
@@ -18,11 +20,6 @@ var target_position: Vector2 = position
 var viewport_size: Vector2 = Vector2.ZERO
 
 var _touch_mode: bool = false
-var _pinch_touches: Dictionary = {}
-var _pinch_start_distance: float = 0.0
-var _pinch_start_zoom: Vector2 = Vector2.ONE
-var _pinch_start_center: Vector2 = Vector2.ZERO
-var _pinch_drag_start_pos: Vector2 = Vector2.ZERO
 
 func _ready():
 	viewport_size = get_viewport_rect().size
@@ -43,9 +40,8 @@ func _unhandled_input(event: InputEvent) -> void:
 	if not AnimationManager.wait_for_all_animations():
 		return
 	if _touch_mode:
-		_handle_touch_input(event)
-	else:
-		_handle_mouse_input(event)
+		return
+	_handle_mouse_input(event)
 
 func _handle_mouse_input(event: InputEvent) -> void:
 	if event is InputEventMouseButton:
@@ -58,6 +54,7 @@ func _handle_mouse_input(event: InputEvent) -> void:
 			_update_bounds()
 			position = position.clamp(minPosition, maxPosition)
 			target_position = target_position.clamp(minPosition, maxPosition)
+			zoom_changed.emit(zoom.x)
 			if event.button_index == MOUSE_BUTTON_LEFT and Input.is_key_pressed(KEY_SPACE):
 				is_dragging = true
 				drag_start_position = event.position
@@ -71,36 +68,6 @@ func _handle_mouse_input(event: InputEvent) -> void:
 				target_position += drag_offset
 				target_position = target_position.clamp(minPosition, maxPosition)
 				drag_start_position = event.position
-			get_viewport().set_input_as_handled()
-
-func _handle_touch_input(event: InputEvent) -> void:
-	if event is InputEventScreenTouch:
-		if event.pressed:
-			_pinch_touches[event.index] = event.position
-			if _pinch_touches.size() == 2:
-				var positions = _pinch_touches.values()
-				_pinch_start_distance = positions[0].distance_to(positions[1])
-				_pinch_start_zoom = zoom
-				_pinch_start_center = (positions[0] + positions[1]) / 2.0
-				_pinch_drag_start_pos = target_position
-		else:
-			_pinch_touches.erase(event.index)
-		get_viewport().set_input_as_handled()
-	elif event is InputEventScreenDrag:
-		_pinch_touches[event.index] = event.position
-		if _pinch_touches.size() == 2:
-			var positions = _pinch_touches.values()
-			var current_distance = positions[0].distance_to(positions[1])
-			if _pinch_start_distance > 0.0:
-				var scale_factor = current_distance / _pinch_start_distance
-				var new_zoom = _pinch_start_zoom * scale_factor
-				new_zoom = new_zoom.clamp(Vector2(min_zoom, min_zoom), Vector2(max_zoom, max_zoom))
-				zoom = new_zoom
-				_update_bounds()
-				var current_center = (positions[0] + positions[1]) / 2.0
-				var center_delta = (_pinch_start_center - current_center) / zoom.x
-				target_position = _pinch_drag_start_pos + center_delta
-				target_position = target_position.clamp(minPosition, maxPosition)
 			get_viewport().set_input_as_handled()
 
 func _update_bounds() -> void:

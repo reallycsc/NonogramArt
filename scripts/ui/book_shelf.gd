@@ -6,20 +6,16 @@ var book_button_scene: PackedScene = preload("res://scenes/book_button.tscn")
 
 @onready var portrait_ui: Control = $PortraitUI
 @onready var landscape_ui: Control = $LandscapeUI
-@onready var portrait_canvas: CanvasLayer = $PortraitUI/CanvasLayer
-@onready var landscape_canvas: CanvasLayer = $LandscapeUI/CanvasLayer
-
 @onready var p_title: Label = $PortraitUI/Title
 @onready var p_vbox: VBoxContainer = $PortraitUI/VBoxContainer
-@onready var p_settings_popup: Control = $PortraitUI/CanvasLayer/SettingsPopup
-@onready var p_left_button: TextureButton = $PortraitUI/CanvasLayer/LeftButton
-@onready var p_right_button: TextureButton = $PortraitUI/CanvasLayer/RightButton
-
 @onready var l_title: Label = $LandscapeUI/Title
 @onready var l_vbox: VBoxContainer = $LandscapeUI/VBoxContainer
-@onready var l_settings_popup: Control = $LandscapeUI/CanvasLayer/SettingsPopup
-@onready var l_left_button: TextureButton = $LandscapeUI/CanvasLayer/LeftButton
-@onready var l_right_button: TextureButton = $LandscapeUI/CanvasLayer/RightButton
+
+@onready var canvas: CanvasLayer = $CanvasLayer
+@onready var settings_popup: Control = $CanvasLayer/SettingsPopup
+@onready var left_button: TextureButton = $CanvasLayer/LeftButton
+@onready var right_button: TextureButton = $CanvasLayer/RightButton
+@onready var exit_popup: Control = $CanvasLayer/ExitConfirmPopup
 
 var bookshelf_list: Array = []
 var current_bookshelf_index: int = 0
@@ -103,6 +99,7 @@ func _display_albums() -> void:
 		return
 
 	var album_index: int = 0
+	var animation_buttons: Array = []
 	for album in current_albums:
 		var row = _get_row_for_index(album_index)
 		if row == null:
@@ -112,11 +109,23 @@ func _display_albums() -> void:
 		book_btn.setup(album)
 		book_btn.locked_album_clicked.connect(_on_locked_album_clicked)
 		book_btn.download_album_clicked.connect(_on_download_album_clicked)
+		if book_btn._needs_completion_animation:
+			animation_buttons.append(book_btn)
 		album_index += 1
+
+	_play_completion_animations(animation_buttons)
 
 func _on_locked_album_clicked(album_id: String) -> void:
 	AudioManager.play_sfx("click")
 	_show_toast("完成前一本画册即可解锁")
+
+func _play_completion_animations(buttons: Array) -> void:
+	if buttons.is_empty():
+		return
+	AudioManager.play_sfx("congratulations")
+	var stagger_delay: float = 0.35
+	for i in range(buttons.size()):
+		buttons[i].play_completion_animation(i * stagger_delay)
 
 func _on_download_album_clicked(album_id: String) -> void:
 	AudioManager.play_sfx("click")
@@ -178,20 +187,24 @@ func _on_back_pressed() -> void:
 	AudioManager.play_sfx("click")
 	get_tree().change_scene_to_file("res://scenes/main_menu.tscn")
 
+
 func _unhandled_input(event: InputEvent) -> void:
 	if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
 		_on_back_pressed()
 		get_viewport().set_input_as_handled()
 
+func _notification(what: int) -> void:
+	if what == NOTIFICATION_WM_GO_BACK_REQUEST:
+		_on_back_pressed()
+
 func _on_settings_pressed() -> void:
 	AudioManager.play_sfx("click")
-	if portrait_ui.visible:
-		p_settings_popup.show_settings()
-	else:
-		l_settings_popup.show_settings()
+	settings_popup.show_settings()
 
 func _input(event: InputEvent) -> void:
 	if not DisplayServer.is_touchscreen_available():
+		return
+	if settings_popup.visible:
 		return
 	if event is InputEventScreenTouch:
 		if event.pressed:
@@ -233,15 +246,11 @@ func _apply_orientation(orientation: int) -> void:
 		return
 	if orientation == OrientationManager.Orientation.PORTRAIT:
 		portrait_ui.visible = true
-		portrait_canvas.visible = true
 		landscape_ui.visible = false
-		landscape_canvas.visible = false
 		_books_per_row = BOOKS_PER_ROW_PORTRAIT
 	else:
 		portrait_ui.visible = false
-		portrait_canvas.visible = false
 		landscape_ui.visible = true
-		landscape_canvas.visible = true
 		_books_per_row = BOOKS_PER_ROW_LANDSCAPE
 	_collect_row_containers()
 	if not current_albums.is_empty():
@@ -260,7 +269,5 @@ func _filter_valid_bookshelves(shelves: Array) -> Array:
 
 func _update_nav_buttons() -> void:
 	var show_nav = bookshelf_list.size() > 1
-	p_left_button.visible = show_nav
-	p_right_button.visible = show_nav
-	l_left_button.visible = show_nav
-	l_right_button.visible = show_nav
+	left_button.visible = show_nav
+	right_button.visible = show_nav

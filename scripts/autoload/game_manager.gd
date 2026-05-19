@@ -34,6 +34,7 @@ var completed_puzzles: Array = []
 var completed_pictures: Array = []
 var completed_albums: Array = []
 var animation_shown_pictures: Array = []
+var animation_shown_albums: Array = []
 var album_picture_index: Dictionary = {}
 var settings: Dictionary = {
 	"bgm_volume": 0.8,
@@ -43,7 +44,7 @@ var settings: Dictionary = {
 	"auto_rotate": true,
 }
 
-var test_mode: bool = true
+var test_mode: bool = false
 
 var pending_bookshelf_id: String = ""
 var pending_album_id: String = ""
@@ -531,6 +532,16 @@ func mark_animation_shown(picture_id: String) -> void:
 		save_game()
 
 
+func should_show_album_animation(album_id: String) -> bool:
+	return album_id in completed_albums and not album_id in animation_shown_albums
+
+
+func mark_album_animation_shown(album_id: String) -> void:
+	if not album_id in animation_shown_albums:
+		animation_shown_albums.append(album_id)
+		save_game()
+
+
 func save_picture_index(album_id: String, index: int) -> void:
 	album_picture_index[album_id] = index
 	save_game()
@@ -643,12 +654,13 @@ func _check_album_unlock() -> void:
 
 func save_game() -> void:
 	var data = {
-		"version": 5,
+		"version": 6,
 		"album_progress": album_progress,
 		"completed_puzzles": completed_puzzles,
 		"completed_pictures": completed_pictures,
 		"completed_albums": completed_albums,
 		"animation_shown_pictures": animation_shown_pictures,
+		"animation_shown_albums": animation_shown_albums,
 		"album_picture_index": album_picture_index,
 		"settings": settings,
 	}
@@ -682,6 +694,7 @@ func load_game() -> void:
 	completed_pictures = _ensure_array(data.get("completed_pictures", []))
 	completed_albums = _ensure_array(data.get("completed_albums", []))
 	animation_shown_pictures = _ensure_array(data.get("animation_shown_pictures", []))
+	animation_shown_albums = _ensure_array(data.get("animation_shown_albums", []))
 	album_picture_index = data.get("album_picture_index", {})
 	if not album_picture_index is Dictionary:
 		album_picture_index = {}

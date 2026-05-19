@@ -113,21 +113,9 @@ text = "999/999"
 horizontal_alignment = 1
 vertical_alignment = 1
 
-[node name="CanvasLayer" type="CanvasLayer" parent="PortraitUI" unique_id=1672208898]
-visible = false
-
-[node name="BackButton" type="TextureButton" parent="PortraitUI/CanvasLayer" unique_id=339821207]
+[node name="LeftButton" type="TextureButton" parent="PortraitUI" unique_id=2014256429]
 custom_minimum_size = Vector2(0, 48)
-offset_left = 20.0
-offset_top = 20.0
-offset_right = 122.0
-offset_bottom = 124.0
-texture_normal = ExtResource("2_sifvh")
-texture_pressed = ExtResource("3_56mfb")
-texture_hover = ExtResource("4_f6elx")
-
-[node name="LeftButton" type="TextureButton" parent="PortraitUI/CanvasLayer" unique_id=2014256429]
-custom_minimum_size = Vector2(0, 48)
+layout_mode = 1
 anchors_preset = 7
 anchor_left = 0.5
 anchor_top = 1.0
@@ -143,8 +131,9 @@ texture_normal = ExtResource("6_gd1ga")
 texture_pressed = ExtResource("7_5olgg")
 texture_hover = ExtResource("8_p5f60")
 
-[node name="RightButton" type="TextureButton" parent="PortraitUI/CanvasLayer" unique_id=1858827941]
+[node name="RightButton" type="TextureButton" parent="PortraitUI" unique_id=1858827941]
 custom_minimum_size = Vector2(0, 48)
+layout_mode = 1
 anchors_preset = 7
 anchor_left = 0.5
 anchor_top = 1.0
@@ -160,26 +149,7 @@ texture_normal = ExtResource("9_vk71n")
 texture_pressed = ExtResource("10_diffj")
 texture_hover = ExtResource("11_w05x7")
 
-[node name="SettingsButton" type="TextureButton" parent="PortraitUI/CanvasLayer" unique_id=1492513499]
-anchors_preset = 1
-anchor_left = 1.0
-anchor_right = 1.0
-offset_left = -182.0
-offset_top = 20.0
-offset_right = -20.0
-offset_bottom = 183.0
-grow_horizontal = 0
-scale = Vector2(0.6, 0.6)
-pivot_offset_ratio = Vector2(1, 0)
-texture_normal = ExtResource("12_vk71n")
-texture_pressed = ExtResource("13_diffj")
-texture_hover = ExtResource("14_w05x7")
-
-[node name="SettingsPopup" parent="PortraitUI/CanvasLayer" unique_id=1173192113 instance=ExtResource("15_settings")]
-visible = false
-
 [node name="LandscapeUI" type="Control" parent="." unique_id=758370882]
-visible = false
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -341,21 +311,9 @@ text = "999/999"
 horizontal_alignment = 1
 vertical_alignment = 1
 
-[node name="CanvasLayer" type="CanvasLayer" parent="LandscapeUI" unique_id=920340232]
-visible = false
-
-[node name="BackButton" type="TextureButton" parent="LandscapeUI/CanvasLayer" unique_id=127132590]
+[node name="LeftButton" type="TextureButton" parent="LandscapeUI" unique_id=2014782409]
 custom_minimum_size = Vector2(0, 48)
-offset_left = 20.0
-offset_top = 20.0
-offset_right = 122.0
-offset_bottom = 124.0
-texture_normal = ExtResource("2_sifvh")
-texture_pressed = ExtResource("3_56mfb")
-texture_hover = ExtResource("4_f6elx")
-
-[node name="LeftButton" type="TextureButton" parent="LandscapeUI/CanvasLayer" unique_id=2014782409]
-custom_minimum_size = Vector2(0, 48)
+layout_mode = 1
 anchors_preset = 7
 anchor_left = 0.5
 anchor_top = 1.0
@@ -371,8 +329,9 @@ texture_normal = ExtResource("6_gd1ga")
 texture_pressed = ExtResource("7_5olgg")
 texture_hover = ExtResource("8_p5f60")
 
-[node name="RightButton" type="TextureButton" parent="LandscapeUI/CanvasLayer" unique_id=1573280815]
+[node name="RightButton" type="TextureButton" parent="LandscapeUI" unique_id=1573280815]
 custom_minimum_size = Vector2(0, 48)
+layout_mode = 1
 anchors_preset = 7
 anchor_left = 0.5
 anchor_top = 1.0
@@ -388,7 +347,19 @@ texture_normal = ExtResource("9_vk71n")
 texture_pressed = ExtResource("10_diffj")
 texture_hover = ExtResource("11_w05x7")
 
-[node name="SettingsButton" type="TextureButton" parent="LandscapeUI/CanvasLayer" unique_id=648653211]
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=491026267]
+
+[node name="BackButton" type="TextureButton" parent="CanvasLayer" unique_id=2098676211]
+custom_minimum_size = Vector2(0, 48)
+offset_left = 20.0
+offset_top = 20.0
+offset_right = 122.0
+offset_bottom = 124.0
+texture_normal = ExtResource("2_sifvh")
+texture_pressed = ExtResource("3_56mfb")
+texture_hover = ExtResource("4_f6elx")
+
+[node name="SettingsButton" type="TextureButton" parent="CanvasLayer" unique_id=16425786]
 anchors_preset = 1
 anchor_left = 1.0
 anchor_right = 1.0
@@ -403,14 +374,12 @@ texture_normal = ExtResource("12_vk71n")
 texture_pressed = ExtResource("13_diffj")
 texture_hover = ExtResource("14_w05x7")
 
-[node name="SettingsPopup" parent="LandscapeUI/CanvasLayer" unique_id=1721136415 instance=ExtResource("15_settings")]
+[node name="SettingsPopup" parent="CanvasLayer" unique_id=1721136415 instance=ExtResource("15_settings")]
 visible = false
 
-[connection signal="pressed" from="PortraitUI/CanvasLayer/BackButton" to="." method="_on_back_pressed"]
-[connection signal="pressed" from="PortraitUI/CanvasLayer/LeftButton" to="." method="_on_left_button_pressed"]
-[connection signal="pressed" from="PortraitUI/CanvasLayer/RightButton" to="." method="_on_right_button_pressed"]
-[connection signal="pressed" from="PortraitUI/CanvasLayer/SettingsButton" to="." method="_on_settings_pressed"]
-[connection signal="pressed" from="LandscapeUI/CanvasLayer/BackButton" to="." method="_on_back_pressed"]
-[connection signal="pressed" from="LandscapeUI/CanvasLayer/LeftButton" to="." method="_on_left_button_pressed"]
-[connection signal="pressed" from="LandscapeUI/CanvasLayer/RightButton" to="." method="_on_right_button_pressed"]
-[connection signal="pressed" from="LandscapeUI/CanvasLayer/SettingsButton" to="." method="_on_settings_pressed"]
+[connection signal="pressed" from="PortraitUI/LeftButton" to="." method="_on_left_button_pressed"]
+[connection signal="pressed" from="PortraitUI/RightButton" to="." method="_on_right_button_pressed"]
+[connection signal="pressed" from="LandscapeUI/LeftButton" to="." method="_on_left_button_pressed"]
+[connection signal="pressed" from="LandscapeUI/RightButton" to="." method="_on_right_button_pressed"]
+[connection signal="pressed" from="CanvasLayer/BackButton" to="." method="_on_back_pressed"]
+[connection signal="pressed" from="CanvasLayer/SettingsButton" to="." method="_on_settings_pressed"]

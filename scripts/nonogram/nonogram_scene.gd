@@ -14,15 +14,22 @@ extends Control
 @onready var finish_audio_player: AudioStreamPlayer2D = $CanvasLayer/FinishNode/FinishAudioPlayer
 
 @onready var tips_node: Control = $CanvasLayer/TipsNode
-@onready var tips_node2: Control = $CanvasLayer/TipsNode2
+@onready var tips_node2: Control = $CanvasLayer/HelpButton/TipsNode2
 
 @onready var camera: Camera2D = $NonogramCamera
 @onready var click_audio_player: AudioStreamPlayer2D = $ClickAudioPlayer
 @onready var click_cross_audio_player: AudioStreamPlayer2D = $ClickCrossAudioPlayer
 @onready var game_over_popup: Control = $CanvasLayer/GameOverPopup
-@onready var check_button: CheckButton = $CanvasLayer/CheckButton
-@onready var fill_label: RichTextLabel = $CanvasLayer/CheckButton/FillLabel
-@onready var cross_label: RichTextLabel = $CanvasLayer/CheckButton/CrossLabel
+
+@onready var portrait_ui: Control = $CanvasLayer/PortraitUI
+@onready var landscape_ui: Control = $CanvasLayer/LandscapeUI
+@onready var p_check_button: CheckButton = $CanvasLayer/PortraitUI/CheckButton
+@onready var p_slider_container: Control = $CanvasLayer/PortraitUI/Slider
+@onready var p_camera_zoom_slider: HSlider = $CanvasLayer/PortraitUI/Slider/Mask/CameraZoomSlider
+@onready var l_check_button: CheckButton = $CanvasLayer/LandscapeUI/CheckButton
+@onready var l_slider_container: Control = $CanvasLayer/LandscapeUI/Slider
+@onready var l_camera_zoom_slider: VSlider = $CanvasLayer/LandscapeUI/Slider/Mask/CameraZoomSlider
+
 
 var _is_touch_device: bool = false
 var _touch_dragging: bool = false
@@ -32,6 +39,20 @@ var _touch_is_row_dragging: bool = false
 var _touch_is_col_dragging: bool = false
 var _touch_cell_state_pair: Vector2i = Vector2i(-1, -1)
 var _touch_just_handled: bool = false
+var _active_touch_count: int = 0
+var _pinch_touches: Dictionary = {}
+var _pinch_start_center: Vector2 = Vector2.ZERO
+var _pinch_drag_start_pos: Vector2 = Vector2.ZERO
+var _pending_touch_event: InputEventScreenTouch = null
+var _touch_commit_timer: SceneTreeTimer = null
+var _slider_updating: bool = false
+var _touch_press_time: float = 0.0
+var _touch_drag_committed: bool = false
+var _long_press_triggered: bool = false
+var _touch_progress: Control = null
+var _progress_tween: Tween = null
+var _progress_delay_timer: SceneTreeTimer = null
+var _progress_delay_pos: Vector2 = Vector2.ZERO
 
 var _first_orientation_applied: bool = false
 
@@ -66,6 +87,8 @@ var _picture_id: String = ""
 var _picture_index: int = -1
 
 func _ready():
+	if GameManager.test_mode:
+		$CanvasLayer/FinishButtonTest.show()
 	# 连接信号
 	GameManager.nonogram_cell_updated.connect(_on_cell_updated)
 	GameManager.nonogram_cell_finished.connect(_on_cell_finished)
@@ -88,8 +111,15 @@ func _ready():
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
 	
 	_detect_input_device()
-	check_button.button_pressed = true
+	l_check_button.button_pressed = true
+	p_check_button.button_pressed = true
 	Input.joy_connection_changed.connect(_on_joy_connection_changed)
+	
+	var indicator_script = load("res://scripts/ui/touch_progress_indicator.gd")
+	_touch_progress = Control.new()
+	_touch_progress.set_script(indicator_script)
+	_touch_progress.z_index = 100
+	$CanvasLayer.add_child(_touch_progress)
 	
 	if not NonogramManager.setup_game():
 		printerr("数织关卡初始化失败")
@@ -222,21 +252,23 @@ func setup_camera():
 	camera.reset_for_viewport()
 	camera.min_zoom = 1
 	camera.max_zoom = 1.5
+	l_camera_zoom_slider.min_value = camera.min_zoom
+	l_camera_zoom_slider.max_value = camera.max_zoom
+	l_camera_zoom_slider.step = camera.zoom_step
+	l_camera_zoom_slider.value = camera.zoom.x
+	p_camera_zoom_slider.min_value = camera.min_zoom
+	p_camera_zoom_slider.max_value = camera.max_zoom
+	p_camera_zoom_slider.step = camera.zoom_step
+	p_camera_zoom_slider.value = camera.zoom.x
+	camera.zoom_changed.connect(_on_camera_zoom_changed)
 
 func setup_tips():
-	match GameManager.current_language:
-		GameManager.Language.CHINESE:
-			$CanvasLayer/TipsNode/Mask.size.x = 220
-			$CanvasLayer/TipsNode2/Mask.size.x = 220
-		_:
-			$CanvasLayer/TipsNode/Mask.size.x = 260
-			$CanvasLayer/TipsNode2/Mask.size.x = 300
 	if _is_touch_device:
-		$CanvasLayer/TipsNode2/Label1.hide()
-		$CanvasLayer/TipsNode2/Label2.show()
+		$CanvasLayer/HelpButton/TipsNode2/Label1.hide()
+		$CanvasLayer/HelpButton/TipsNode2/Label2.show()
 	else:
-		$CanvasLayer/TipsNode2/Label1.show()
-		$CanvasLayer/TipsNode2/Label2.hide()
+		$CanvasLayer/HelpButton/TipsNode2/Label1.show()
+		$CanvasLayer/HelpButton/TipsNode2/Label2.hide()
 
 func show_ui():
 	$CanvasLayer.show()
@@ -301,7 +333,8 @@ func _on_colHint_error(index: int, is_error: bool):
 func _on_game_completed():
 	tips_node.hide()
 	tips_node2.hide()
-	check_button.hide()
+	portrait_ui.hide()
+	landscape_ui.hide()
 	hp_node.hide()
 	is_locked = true
 	# 相机复位动画
@@ -309,6 +342,8 @@ func _on_game_completed():
 		var tween_camera = create_tween()
 		AnimationManager.register_tween(tween_camera)
 		tween_camera.tween_property(camera, "zoom", Vector2.ONE, 0.5)
+		tween_camera.parallel().tween_property(l_camera_zoom_slider, "value", 1.0, 0.5)
+		tween_camera.parallel().tween_property(p_camera_zoom_slider, "value", 1.0, 0.5)
 	# 播放恭喜完成的文字动画
 	finish_node.show()
 	finish_rect.scale = Vector2(0.8,0.8)
@@ -441,7 +476,7 @@ func _play_finish_animation2():
 	if max_diag < 1.0:
 		max_diag = 1.0
 
-	var fade_duration = 1.5
+	var fade_duration = 1.0
 	var tween = create_tween()
 	AnimationManager.register_tween(tween)
 	tween.set_parallel(true)
@@ -497,7 +532,22 @@ func _on_finish_button_test_pressed() -> void:
 
 # 输入处理
 func _unhandled_input(event: InputEvent) -> void:
+	if tips_node2.visible:
+		if (event is InputEventMouseButton and event.pressed) or (event is InputEventScreenTouch and event.pressed):
+			var click_pos: Vector2
+			if event is InputEventMouseButton:
+				click_pos = event.global_position
+			else:
+				click_pos = event.position
+			if not tips_node2.get_global_rect().has_point(click_pos):
+				tips_node2.hide()
+				get_viewport().set_input_as_handled()
+				return
 	if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
+		if tips_node2.visible:
+			tips_node2.hide()
+			get_viewport().set_input_as_handled()
+			return
 		_on_back_button_pressed()
 		get_viewport().set_input_as_handled()
 		return
@@ -624,7 +674,8 @@ func _on_game_over():
 	is_locked = true
 	tips_node.hide()
 	tips_node2.hide()
-	check_button.hide()
+	portrait_ui.hide()
+	landscape_ui.hide()
 	game_over_popup.show_game_over()
 
 func _on_language_changed(language: int) -> void:
@@ -633,6 +684,8 @@ func _on_language_changed(language: int) -> void:
 func _exit_tree() -> void:
 	if OrientationManager.orientation_changed.is_connected(_on_orientation_changed):
 		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
+	if camera.zoom_changed.is_connected(_on_camera_zoom_changed):
+		camera.zoom_changed.disconnect(_on_camera_zoom_changed)
 	GameManager.nonogram_cell_updated.disconnect(_on_cell_updated)
 	GameManager.nonogram_cell_finished.disconnect(_on_cell_finished)
 	GameManager.nonogram_rowHint_is_only_one_pattern.disconnect(_on_rowHint_is_only_one_pattern)
@@ -658,110 +711,266 @@ func _detect_input_device() -> void:
 		_is_touch_device = true
 	else:
 		_is_touch_device = false
-	check_button.visible = _is_touch_device
 	camera.set_touch_mode(_is_touch_device)
+	_apply_ui_visibility(OrientationManager.current_orientation)
 
 func _on_joy_connection_changed(_device: int, _connected: bool) -> void:
 	_detect_input_device()
 
 func _get_touch_button_index() -> int:
-	if check_button.button_pressed:
-		return MOUSE_BUTTON_LEFT
+	var is_fill: bool
+	if landscape_ui.visible:
+		is_fill = l_check_button.button_pressed
 	else:
-		return MOUSE_BUTTON_RIGHT
+		is_fill = p_check_button.button_pressed
+	return MOUSE_BUTTON_LEFT if is_fill else MOUSE_BUTTON_RIGHT
 
 func _screen_to_world(screen_pos: Vector2) -> Vector2:
 	var canvas_transform = get_viewport().canvas_transform
 	return canvas_transform.affine_inverse() * screen_pos
 
-func _handle_touch_input(event: InputEventScreenTouch) -> void:
+func _handle_touch_press(evt: InputEventScreenTouch) -> void:
 	if is_locked:
 		return
-	if event.pressed:
-		var cell_index = get_cell_at_position(_screen_to_world(event.position))
-		if is_valid_cell_position(cell_index) and not is_cell_finished(cell_index):
-			var btn_idx = _get_touch_button_index()
-			_touch_cell_state_pair = NonogramManager.on_cell_clicked(cell_index.x, cell_index.y, btn_idx)
-			var is_error = NonogramManager.check_and_handle_error(cell_index.x, cell_index.y, _touch_cell_state_pair.y)
-			if is_error:
-				_on_cell_finished(cell_index.x, cell_index.y, is_error)
-			else:
-				_touch_dragging = true
-				_touch_start_cell = cell_index
-				_touch_last_cell = cell_index
-				_touch_is_row_dragging = false
-				_touch_is_col_dragging = false
-				if btn_idx == MOUSE_BUTTON_LEFT:
-					AudioManager.play_sfx("nonogram_click")
-				else:
-					AudioManager.play_sfx("nonogram_click_cross")
+	var cell_index = get_cell_at_position(_screen_to_world(evt.position))
+	if is_valid_cell_position(cell_index) and not is_cell_finished(cell_index):
+		_touch_dragging = true
+		_touch_start_cell = cell_index
+		_touch_last_cell = cell_index
+		_touch_is_row_dragging = false
+		_touch_is_col_dragging = false
+		_touch_drag_committed = false
 	else:
+		_touch_dragging = false
+		_touch_start_cell = Vector2i(-1, -1)
+
+func _handle_touch_release(event: InputEventScreenTouch) -> void:
+	if _touch_drag_committed:
 		_touch_cell_state_pair = Vector2i(-1, -1)
 		_touch_dragging = false
 		_touch_is_row_dragging = false
 		_touch_is_col_dragging = false
 		_touch_start_cell = Vector2i(-1, -1)
 		_touch_last_cell = Vector2i(-1, -1)
+		_touch_drag_committed = false
+		_long_press_triggered = false
+		return
+	if _touch_dragging and _touch_start_cell != Vector2i(-1, -1):
+		var cell_index = _touch_start_cell
+		if is_valid_cell_position(cell_index) and not is_cell_finished(cell_index):
+			var duration = Time.get_ticks_msec() - _touch_press_time
+			var btn_idx: int
+			var is_fill_mode = _get_touch_button_index() == MOUSE_BUTTON_LEFT
+			if is_fill_mode:
+				if duration < 500:
+					btn_idx = MOUSE_BUTTON_LEFT
+				else:
+					btn_idx = MOUSE_BUTTON_RIGHT
+			else:
+				btn_idx = MOUSE_BUTTON_RIGHT
+			_touch_cell_state_pair = NonogramManager.on_cell_clicked(cell_index.x, cell_index.y, btn_idx)
+			var is_error = NonogramManager.check_and_handle_error(cell_index.x, cell_index.y, _touch_cell_state_pair.y)
+			if is_error:
+				_on_cell_finished(cell_index.x, cell_index.y, is_error)
+			else:
+				if btn_idx == MOUSE_BUTTON_LEFT:
+					AudioManager.play_sfx("nonogram_click")
+				else:
+					AudioManager.play_sfx("nonogram_click_cross")
+	_touch_cell_state_pair = Vector2i(-1, -1)
+	_touch_dragging = false
+	_touch_is_row_dragging = false
+	_touch_is_col_dragging = false
+	_touch_start_cell = Vector2i(-1, -1)
+	_touch_last_cell = Vector2i(-1, -1)
+	_touch_drag_committed = false
+	_long_press_triggered = false
 
 func _handle_touch_drag(event: InputEventScreenDrag) -> void:
 	if is_locked or not _touch_dragging:
 		return
 	var cell_index = get_cell_at_position(_screen_to_world(event.position))
-	if is_valid_cell_position(cell_index) and not is_cell_finished(cell_index) and cell_index != _touch_last_cell:
-		if not _touch_is_row_dragging and not _touch_is_col_dragging:
-			if cell_index.x != _touch_start_cell.x:
-				_touch_is_row_dragging = true
-			elif cell_index.y != _touch_start_cell.y:
-				_touch_is_col_dragging = true
-		var btn_idx = _get_touch_button_index()
-		var is_error = false
-		if _touch_is_row_dragging:
-			if _touch_last_cell.x < cell_index.x:
-				for i in range(_touch_last_cell.x, cell_index.x + 1):
-					NonogramManager.on_cell_dragging(i, _touch_start_cell.y, btn_idx, _touch_cell_state_pair)
-					is_error = NonogramManager.check_and_handle_error(i, _touch_start_cell.y, _touch_cell_state_pair.y)
-					if is_error:
-						_on_cell_finished(i, _touch_start_cell.y, is_error)
-						break
-			elif _touch_last_cell.x > cell_index.x:
-				for i in range(cell_index.x, _touch_last_cell.x):
-					NonogramManager.on_cell_dragging(i, _touch_start_cell.y, btn_idx, _touch_cell_state_pair)
-					is_error = NonogramManager.check_and_handle_error(i, _touch_start_cell.y, _touch_cell_state_pair.y)
-					if is_error:
-						_on_cell_finished(i, _touch_start_cell.y, is_error)
-						break
-		elif _touch_is_col_dragging:
-			if _touch_last_cell.y < cell_index.y:
-				for i in range(_touch_last_cell.y, cell_index.y + 1):
-					NonogramManager.on_cell_dragging(_touch_start_cell.x, i, btn_idx, _touch_cell_state_pair)
-					is_error = NonogramManager.check_and_handle_error(_touch_start_cell.x, i, _touch_cell_state_pair.y)
-					if is_error:
-						_on_cell_finished(_touch_start_cell.x, i, is_error)
-						break
-			elif _touch_last_cell.y > cell_index.y:
-				for i in range(cell_index.y, _touch_last_cell.y):
-					NonogramManager.on_cell_dragging(_touch_start_cell.x, i, btn_idx, _touch_cell_state_pair)
-					is_error = NonogramManager.check_and_handle_error(_touch_start_cell.x, i, _touch_cell_state_pair.y)
-					if is_error:
-						_on_cell_finished(_touch_start_cell.x, i, is_error)
-						break
-		_touch_last_cell = cell_index
-		if is_error:
-			_touch_dragging = false
-		else:
+	if not is_valid_cell_position(cell_index) or is_cell_finished(cell_index) or cell_index == _touch_last_cell:
+		return
+	if not _touch_drag_committed:
+		if _touch_start_cell != Vector2i(-1, -1) and is_valid_cell_position(_touch_start_cell) and not is_cell_finished(_touch_start_cell):
+			var btn_idx = _get_touch_button_index()
+			_touch_cell_state_pair = NonogramManager.on_cell_clicked(_touch_start_cell.x, _touch_start_cell.y, btn_idx)
+			var is_error = NonogramManager.check_and_handle_error(_touch_start_cell.x, _touch_start_cell.y, _touch_cell_state_pair.y)
+			if is_error:
+				_on_cell_finished(_touch_start_cell.x, _touch_start_cell.y, is_error)
+				_touch_dragging = false
+				return
 			if btn_idx == MOUSE_BUTTON_LEFT:
 				AudioManager.play_sfx("nonogram_click")
 			else:
 				AudioManager.play_sfx("nonogram_click_cross")
+		_touch_drag_committed = true
+		_hide_touch_progress()
+	if not _touch_is_row_dragging and not _touch_is_col_dragging:
+		if cell_index.x != _touch_start_cell.x:
+			_touch_is_row_dragging = true
+		elif cell_index.y != _touch_start_cell.y:
+			_touch_is_col_dragging = true
+	var btn_idx = MOUSE_BUTTON_RIGHT if _long_press_triggered else _get_touch_button_index()
+	var is_error = false
+	if _touch_is_row_dragging:
+		if _touch_last_cell.x < cell_index.x:
+			for i in range(_touch_last_cell.x, cell_index.x + 1):
+				NonogramManager.on_cell_dragging(i, _touch_start_cell.y, btn_idx, _touch_cell_state_pair)
+				is_error = NonogramManager.check_and_handle_error(i, _touch_start_cell.y, _touch_cell_state_pair.y)
+				if is_error:
+					_on_cell_finished(i, _touch_start_cell.y, is_error)
+					break
+		elif _touch_last_cell.x > cell_index.x:
+			for i in range(cell_index.x, _touch_last_cell.x):
+				NonogramManager.on_cell_dragging(i, _touch_start_cell.y, btn_idx, _touch_cell_state_pair)
+				is_error = NonogramManager.check_and_handle_error(i, _touch_start_cell.y, _touch_cell_state_pair.y)
+				if is_error:
+					_on_cell_finished(i, _touch_start_cell.y, is_error)
+					break
+	elif _touch_is_col_dragging:
+		if _touch_last_cell.y < cell_index.y:
+			for i in range(_touch_last_cell.y, cell_index.y + 1):
+				NonogramManager.on_cell_dragging(_touch_start_cell.x, i, btn_idx, _touch_cell_state_pair)
+				is_error = NonogramManager.check_and_handle_error(_touch_start_cell.x, i, _touch_cell_state_pair.y)
+				if is_error:
+					_on_cell_finished(_touch_start_cell.x, i, is_error)
+					break
+		elif _touch_last_cell.y > cell_index.y:
+			for i in range(cell_index.y, _touch_last_cell.y):
+				NonogramManager.on_cell_dragging(_touch_start_cell.x, i, btn_idx, _touch_cell_state_pair)
+				is_error = NonogramManager.check_and_handle_error(_touch_start_cell.x, i, _touch_cell_state_pair.y)
+				if is_error:
+					_on_cell_finished(_touch_start_cell.x, i, is_error)
+					break
+	_touch_last_cell = cell_index
+	if is_error:
+		_touch_dragging = false
+	else:
+		if btn_idx == MOUSE_BUTTON_LEFT:
+			AudioManager.play_sfx("nonogram_click")
+		else:
+			AudioManager.play_sfx("nonogram_click_cross")
 
 func _input(event: InputEvent) -> void:
-	if event is InputEventScreenTouch and event.index == 0:
-		_touch_just_handled = true
-		_handle_touch_input(event)
-		get_viewport().set_input_as_handled()
-	elif event is InputEventScreenDrag and event.index == 0:
-		_handle_touch_drag(event)
-		get_viewport().set_input_as_handled()
+	if not _is_touch_device:
+		return
+	if is_locked:
+		return
+	if not AnimationManager.wait_for_all_animations():
+		return
+	if event is InputEventScreenTouch:
+		if event.pressed:
+			_pinch_touches[event.index] = event.position
+			_active_touch_count += 1
+		else:
+			_pinch_touches.erase(event.index)
+			_active_touch_count = max(0, _active_touch_count - 1)
+		if _active_touch_count >= 2:
+			_cancel_pending_touch()
+			_cancel_touch_drag()
+			_hide_touch_progress()
+			if _pinch_touches.size() == 2:
+				var positions = _pinch_touches.values()
+				_pinch_start_center = (positions[0] + positions[1]) / 2.0
+				_pinch_drag_start_pos = camera.target_position
+			return
+		if event.index == 0:
+			_touch_just_handled = true
+			if event.pressed:
+				_touch_press_time = Time.get_ticks_msec()
+				_pending_touch_event = event
+				_touch_commit_timer = get_tree().create_timer(0.1)
+				_touch_commit_timer.timeout.connect(_commit_pending_touch)
+				var cell_idx = get_cell_at_position(_screen_to_world(event.position))
+				if is_valid_cell_position(cell_idx) and not is_cell_finished(cell_idx):
+					_progress_delay_pos = event.position
+					_progress_delay_timer = get_tree().create_timer(0.1)
+					_progress_delay_timer.timeout.connect(_on_progress_delay_timeout)
+			else:
+				_hide_touch_progress()
+				if _pending_touch_event != null:
+					_commit_pending_touch()
+				_handle_touch_release(event)
+	elif event is InputEventScreenDrag:
+		_pinch_touches[event.index] = event.position
+		if _active_touch_count >= 2 and _pinch_touches.size() == 2:
+			var positions = _pinch_touches.values()
+			var current_center = (positions[0] + positions[1]) / 2.0
+			var center_delta = (_pinch_start_center - current_center) / camera.zoom.x
+			camera.target_position = _pinch_drag_start_pos + center_delta
+			camera.target_position = camera.target_position.clamp(camera.minPosition, camera.maxPosition)
+			return
+		if event.index == 0:
+			if _pending_touch_event != null:
+				_commit_pending_touch()
+			_handle_touch_drag(event)
+
+func _commit_pending_touch() -> void:
+	var evt = _pending_touch_event
+	_pending_touch_event = null
+	_touch_commit_timer = null
+	if evt != null:
+		_handle_touch_press(evt)
+
+func _cancel_pending_touch() -> void:
+	if _touch_commit_timer != null and _touch_commit_timer.time_left > 0:
+		_touch_commit_timer.timeout.disconnect(_commit_pending_touch)
+	_pending_touch_event = null
+	_touch_commit_timer = null
+
+func _cancel_touch_drag() -> void:
+	_touch_dragging = false
+	_touch_is_row_dragging = false
+	_touch_is_col_dragging = false
+	_touch_start_cell = Vector2i(-1, -1)
+	_touch_last_cell = Vector2i(-1, -1)
+	_touch_cell_state_pair = Vector2i(-1, -1)
+	_touch_drag_committed = false
+	_long_press_triggered = false
+
+func _show_touch_progress(screen_pos: Vector2) -> void:
+	if not _is_touch_device or _touch_progress == null:
+		return
+	_touch_progress.show_at(screen_pos)
+	_touch_progress.set_progress(0.2)
+	if _progress_tween:
+		_progress_tween.kill()
+	_progress_tween = create_tween()
+	_progress_tween.tween_method(_touch_progress.set_progress, 0.2, 1.0, 0.4)
+	_progress_tween.finished.connect(_on_progress_complete)
+
+func _on_progress_complete() -> void:
+	_progress_tween = null
+	_long_press_triggered = true
+	if _touch_progress:
+		_touch_progress.hide_indicator()
+	if _touch_dragging and _touch_start_cell != Vector2i(-1, -1):
+		var cell_index = _touch_start_cell
+		if is_valid_cell_position(cell_index) and not is_cell_finished(cell_index):
+			_touch_cell_state_pair = NonogramManager.on_cell_clicked(cell_index.x, cell_index.y, MOUSE_BUTTON_RIGHT)
+			var is_error = NonogramManager.check_and_handle_error(cell_index.x, cell_index.y, _touch_cell_state_pair.y)
+			if is_error:
+				_on_cell_finished(cell_index.x, cell_index.y, is_error)
+				_touch_dragging = false
+				return
+			AudioManager.play_sfx("nonogram_click_cross")
+		_touch_drag_committed = true
+
+func _hide_touch_progress() -> void:
+	if _progress_delay_timer and _progress_delay_timer.time_left > 0:
+		_progress_delay_timer.timeout.disconnect(_on_progress_delay_timeout)
+	_progress_delay_timer = null
+	if _progress_tween:
+		_progress_tween.kill()
+		_progress_tween = null
+	if _touch_progress:
+		_touch_progress.hide_indicator()
+
+func _on_progress_delay_timeout() -> void:
+	_progress_delay_timer = null
+	_show_touch_progress(_progress_delay_pos)
 
 func _on_orientation_changed(new_orientation: int) -> void:
 	_apply_orientation(new_orientation)
@@ -772,35 +981,55 @@ func _apply_orientation(orientation: int) -> void:
 	camera.reset_for_viewport()
 	if _original_board_size != Vector2.ZERO:
 		setup_board_size_and_position()
-	_apply_check_button_position(orientation)
+	_apply_ui_visibility(orientation)
 	if _first_orientation_applied:
 		BackgroundManager.apply_background_with_transition(background, "nonogram", orientation, self)
 	else:
 		BackgroundManager.apply_background(background, "nonogram", orientation)
 		_first_orientation_applied = true
 
-func _apply_check_button_position(orientation: int) -> void:
+func _apply_ui_visibility(orientation: int) -> void:
+	if is_locked:
+		portrait_ui.hide()
+		landscape_ui.hide()
+		return
+	var fill_mode: bool = true
+	if portrait_ui.visible:
+		fill_mode = p_check_button.button_pressed
+	elif landscape_ui.visible:
+		fill_mode = l_check_button.button_pressed
 	if orientation == OrientationManager.Orientation.LANDSCAPE:
-		check_button.anchor_left = 0.0
-		check_button.anchor_right = 0.0
-		check_button.anchor_top = 1.0
-		check_button.anchor_bottom = 1.0
-		check_button.offset_left = 10.0
-		check_button.offset_right = 0.0
-		check_button.offset_top = 0.0
-		check_button.offset_bottom = -160.0
-		check_button.grow_horizontal = Control.GROW_DIRECTION_END
-		check_button.grow_vertical = Control.GROW_DIRECTION_BEGIN
-		check_button.scale = Vector2(0.7, 0.7)
+		portrait_ui.hide()
+		landscape_ui.show()
 	else:
-		check_button.anchor_left = 0.5
-		check_button.anchor_right = 0.5
-		check_button.anchor_top = 1.0
-		check_button.anchor_bottom = 1.0
-		check_button.offset_left = -100.0
-		check_button.offset_right = 100.0
-		check_button.offset_top = 0.0
-		check_button.offset_bottom = -150.0
-		check_button.grow_horizontal = Control.GROW_DIRECTION_BOTH
-		check_button.grow_vertical = Control.GROW_DIRECTION_BEGIN
-		check_button.scale = Vector2(1.0, 1.0)
+		landscape_ui.hide()
+		portrait_ui.show()
+	p_check_button.button_pressed = fill_mode
+	l_check_button.button_pressed = fill_mode
+	p_check_button.visible = _is_touch_device
+	l_check_button.visible = _is_touch_device
+	p_slider_container.visible = _is_touch_device
+	l_slider_container.visible = _is_touch_device
+
+
+func _on_camera_zoom_slider_value_changed(value: float) -> void:
+	if _slider_updating:
+		return
+	_slider_updating = true
+	camera.zoom = Vector2(value, value)
+	camera._update_bounds()
+	camera.position = camera.position.clamp(camera.minPosition, camera.maxPosition)
+	camera.target_position = camera.target_position.clamp(camera.minPosition, camera.maxPosition)
+	p_camera_zoom_slider.value = value
+	l_camera_zoom_slider.value = value
+	_slider_updating = false
+
+func _on_camera_zoom_changed(new_zoom: float) -> void:
+	_slider_updating = true
+	p_camera_zoom_slider.value = new_zoom
+	l_camera_zoom_slider.value = new_zoom
+	_slider_updating = false
+
+
+func _on_help_button_pressed() -> void:
+	tips_node2.show()

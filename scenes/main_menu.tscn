@@ -12,6 +12,7 @@
 [ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="8_rcqid"]
 [ext_resource type="Theme" uid="uid://dm1u1qw4djtk5" path="res://resources/themes/main_theme.tres" id="9_5dd4i"]
 [ext_resource type="PackedScene" uid="uid://sb2u2ok8lge" path="res://scenes/settings_popup.tscn" id="9_settings"]
+[ext_resource type="PackedScene" uid="uid://8yq7jhts2jxh" path="res://scenes/exit_confirm_popup.tscn" id="10_exit_popup"]
 [ext_resource type="VideoStream" uid="uid://cr54ov0ww52cm" path="res://assets/images/ui/main/main_bg_landscape.ogv" id="13_1ajci"]
 
 [node name="MainMenu" type="Control" unique_id=2008341208]
@@ -24,7 +25,6 @@ grow_vertical = 2
 script = ExtResource("1")
 
 [node name="PortraitUI" type="Control" parent="." unique_id=1968450260]
-visible = false
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -46,80 +46,6 @@ offset_bottom = 40.0
 stream = ExtResource("3_rcqid")
 autoplay = true
 loop = true
-
-[node name="StartButton" type="TextureButton" parent="PortraitUI" unique_id=1587805908]
-visible = false
-layout_mode = 1
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-offset_left = -184.5
-offset_top = 141.0
-offset_right = 184.5
-offset_bottom = 259.0
-grow_horizontal = 2
-grow_vertical = 2
-texture_normal = ExtResource("4_oa1go")
-texture_pressed = ExtResource("4_jk1qb")
-texture_hover = ExtResource("5_5dd4i")
-
-[node name="SettingsButton" type="TextureButton" parent="PortraitUI" unique_id=490758039]
-layout_mode = 1
-anchors_preset = 1
-anchor_left = 1.0
-anchor_right = 1.0
-offset_left = -182.0
-offset_top = 20.0
-offset_right = -20.0
-offset_bottom = 183.0
-grow_horizontal = 0
-scale = Vector2(0.6, 0.6)
-pivot_offset_ratio = Vector2(1, 0)
-texture_normal = ExtResource("6_lgwnu")
-texture_pressed = ExtResource("7_flqon")
-texture_hover = ExtResource("8_rcqid")
-
-[node name="LoadPanel" type="Control" parent="PortraitUI" unique_id=809761843]
-layout_mode = 1
-anchors_preset = 12
-anchor_top = 1.0
-anchor_right = 1.0
-anchor_bottom = 1.0
-grow_horizontal = 2
-grow_vertical = 0
-
-[node name="VBox" type="VBoxContainer" parent="PortraitUI/LoadPanel" unique_id=388201611]
-layout_mode = 1
-anchors_preset = 12
-anchor_top = 1.0
-anchor_right = 1.0
-anchor_bottom = 1.0
-offset_left = 10.0
-offset_top = -80.0
-offset_right = -10.0
-offset_bottom = -24.0
-grow_horizontal = 2
-grow_vertical = 0
-
-[node name="LoadLabel" type="Label" parent="PortraitUI/LoadPanel/VBox" unique_id=-1356491686]
-layout_mode = 2
-theme_override_colors/font_color = Color(1, 1, 1, 1)
-theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.5019608)
-theme_override_font_sizes/font_size = 20
-text = "加载中..."
-horizontal_alignment = 1
-
-[node name="ProgressBar" type="ProgressBar" parent="PortraitUI/LoadPanel/VBox" unique_id=562323742]
-custom_minimum_size = Vector2(360, 24)
-layout_mode = 2
-theme = ExtResource("9_5dd4i")
-show_percentage = false
-
-[node name="SettingsPopup" parent="PortraitUI" unique_id=549195619 instance=ExtResource("9_settings")]
-visible = false
-layout_mode = 1
 
 [node name="LandscapeUI" type="Control" parent="." unique_id=611614353]
 layout_mode = 1
@@ -144,7 +70,44 @@ stream = ExtResource("13_1ajci")
 autoplay = true
 loop = true
 
-[node name="StartButton" type="TextureButton" parent="LandscapeUI" unique_id=1849604584]
+[node name="LoadPanel" type="Control" parent="." unique_id=809761843]
+visible = false
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="VBox" type="VBoxContainer" parent="LoadPanel" unique_id=388201611]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 10.0
+offset_top = -80.0
+offset_right = -10.0
+offset_bottom = -24.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="LoadLabel" type="Label" parent="LoadPanel/VBox" unique_id=-1356491686]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.5019608)
+theme_override_font_sizes/font_size = 20
+text = "加载中..."
+horizontal_alignment = 1
+
+[node name="ProgressBar" type="ProgressBar" parent="LoadPanel/VBox" unique_id=562323742]
+custom_minimum_size = Vector2(360, 24)
+layout_mode = 2
+theme = ExtResource("9_5dd4i")
+show_percentage = false
+
+[node name="StartButton" type="TextureButton" parent="." unique_id=1587805908]
 visible = false
 layout_mode = 1
 anchors_preset = 8
@@ -153,16 +116,16 @@ anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
 offset_left = -184.5
-offset_top = 41.0
+offset_top = 141.0
 offset_right = 184.5
-offset_bottom = 159.0
+offset_bottom = 259.0
 grow_horizontal = 2
 grow_vertical = 2
 texture_normal = ExtResource("4_oa1go")
 texture_pressed = ExtResource("4_jk1qb")
 texture_hover = ExtResource("5_5dd4i")
 
-[node name="SettingsButton" type="TextureButton" parent="LandscapeUI" unique_id=2118953104]
+[node name="SettingsButton" type="TextureButton" parent="." unique_id=490758039]
 layout_mode = 1
 anchors_preset = 1
 anchor_left = 1.0
@@ -178,47 +141,13 @@ texture_normal = ExtResource("6_lgwnu")
 texture_pressed = ExtResource("7_flqon")
 texture_hover = ExtResource("8_rcqid")
 
-[node name="LoadPanel" type="Control" parent="LandscapeUI" unique_id=1689823618]
-layout_mode = 1
-anchors_preset = 12
-anchor_top = 1.0
-anchor_right = 1.0
-anchor_bottom = 1.0
-offset_left = 10.0
-offset_right = -10.0
-grow_horizontal = 2
-grow_vertical = 0
-
-[node name="VBox" type="VBoxContainer" parent="LandscapeUI/LoadPanel" unique_id=1433924548]
-layout_mode = 1
-anchors_preset = 12
-anchor_top = 1.0
-anchor_right = 1.0
-anchor_bottom = 1.0
-offset_top = -80.0
-offset_bottom = -24.0
-grow_horizontal = 2
-grow_vertical = 0
-
-[node name="LoadLabel" type="Label" parent="LandscapeUI/LoadPanel/VBox" unique_id=774413333]
-layout_mode = 2
-theme_override_colors/font_color = Color(1, 1, 1, 1)
-theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.5019608)
-theme_override_font_sizes/font_size = 20
-text = "加载中..."
-horizontal_alignment = 1
-
-[node name="ProgressBar" type="ProgressBar" parent="LandscapeUI/LoadPanel/VBox" unique_id=776875245]
-custom_minimum_size = Vector2(360, 24)
-layout_mode = 2
-theme = ExtResource("9_5dd4i")
-show_percentage = false
-
-[node name="SettingsPopup" parent="LandscapeUI" unique_id=1721136415 instance=ExtResource("9_settings")]
+[node name="SettingsPopup" parent="." unique_id=549195619 instance=ExtResource("9_settings")]
 visible = false
 layout_mode = 1
 
-[connection signal="pressed" from="PortraitUI/StartButton" to="." method="_on_start_pressed"]
-[connection signal="pressed" from="PortraitUI/SettingsButton" to="." method="_on_settings_pressed"]
-[connection signal="pressed" from="LandscapeUI/StartButton" to="." method="_on_start_pressed"]
-[connection signal="pressed" from="LandscapeUI/SettingsButton" to="." method="_on_settings_pressed"]
+[node name="ExitConfirmPopup" parent="." unique_id=926832504 instance=ExtResource("10_exit_popup")]
+visible = false
+layout_mode = 1
+
+[connection signal="pressed" from="StartButton" to="." method="_on_start_pressed"]
+[connection signal="pressed" from="SettingsButton" to="." method="_on_settings_pressed"]

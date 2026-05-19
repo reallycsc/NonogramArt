@@ -143,11 +143,6 @@ func on_cell_clicked(x: int, y: int, button_index: int) -> Vector2i:
 		
 	return Vector2i(cell_state1, cell_state2)
 
-# 处理格子拖拽
-# @param x: 格子X坐标
-# @param y: 格子Y坐标
-# @param button_index: 鼠标按钮索引
-# @param cell_state_pair: 拖拽起始和目标状态
 func on_cell_dragging(x: int, y: int, button_index: int, cell_state_pair: Vector2i):
 	if x < 0 or x >= grid_size.x or y < 0 or y >= grid_size.y:
 		return

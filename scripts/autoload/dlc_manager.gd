@@ -11,9 +11,12 @@ var _version: String = "1.0"
 var _downloading: bool = false
 var _downloading_album_id: String = ""
 var _http: HTTPRequest = null
+var _progress_timer: Timer = null
+var _tmp_path: String = ""
+var _total_size: int = -1
 
 func _ready():
-	set_base_url("https://github.com/reallycsc/NonogramArt_DLC/releases/download/")
+	set_base_url("https://ghfast.top/https://github.com/reallycsc/NonogramArt_DLC/releases/download/")
 	DirAccess.make_dir_recursive_absolute(_pack_dir)
 	_scan_existing_packs()
 
@@ -69,45 +72,93 @@ func download_album(album_id: String) -> void:
 			return
 	_downloading = true
 	_downloading_album_id = album_id
+	_tmp_path = pck_path + ".tmp"
+	_total_size = -1
 	var file_name = "album_" + album_id + ".pck"
 	var url = _base_url + file_name + "/" + file_name
 	_http = HTTPRequest.new()
 	add_child(_http)
-	_http.download_file = pck_path + ".tmp"
-	_http.download_progress.connect(_on_download_progress)
-	var err = _http.request(url)
+	_http.use_threads = true
+	_http.download_file = _tmp_path
+	var headers = ["User-Agent: NonogramArt/1.0"]
+	var err = _http.request(url, headers)
 	if err != OK:
 		_cleanup_http()
 		album_pack_download_failed.emit(album_id, "Request failed: " + str(err))
 		return
+	_start_progress_timer()
 	var result = await _http.request_completed
-	_cleanup_http()
-	if result == null or result.size() < 4 or result[0] != HTTPRequest.RESULT_SUCCESS:
-		if FileAccess.file_exists(pck_path + ".tmp"):
-			DirAccess.remove_absolute(pck_path + ".tmp")
-		album_pack_download_failed.emit(album_id, "Download failed")
+	_stop_progress_timer()
+	var was_album_id = _downloading_album_id
+	if result == null or result.size() < 4:
+		if FileAccess.file_exists(_tmp_path):
+			DirAccess.remove_absolute(_tmp_path)
+		_cleanup_http()
+		album_pack_download_failed.emit(was_album_id, "No response")
 		return
-	var file = FileAccess.open(pck_path + ".tmp", FileAccess.READ)
+	var result_code = result[0]
+	var response_code = result[1]
+	if result_code != HTTPRequest.RESULT_SUCCESS:
+		if FileAccess.file_exists(_tmp_path):
+			DirAccess.remove_absolute(_tmp_path)
+		_cleanup_http()
+		album_pack_download_failed.emit(was_album_id, "HTTP error: result=%d code=%d" % [result_code, response_code])
+		return
+	_poll_progress()
+	var file = FileAccess.open(_tmp_path, FileAccess.READ)
 	if not file:
-		album_pack_download_failed.emit(album_id, "Temp file not found")
+		_cleanup_http()
+		album_pack_download_failed.emit(was_album_id, "Temp file not found")
 		return
 	file.close()
-	DirAccess.rename_absolute(pck_path + ".tmp", pck_path)
-	if not load_album_pack(album_id):
-		album_pack_download_failed.emit(album_id, "PCK load failed")
+	DirAccess.rename_absolute(_tmp_path, pck_path)
+	_cleanup_http()
+	if not load_album_pack(was_album_id):
+		album_pack_download_failed.emit(was_album_id, "PCK load failed")
 
-func _on_download_progress(downloaded: int, total: int) -> void:
-	if _downloading_album_id != "":
-		album_pack_download_progress.emit(_downloading_album_id, downloaded, total)
+func _start_progress_timer() -> void:
+	_progress_timer = Timer.new()
+	_progress_timer.wait_time = 0.5
+	_progress_timer.one_shot = false
+	add_child(_progress_timer)
+	_progress_timer.timeout.connect(_poll_progress)
+	_progress_timer.start()
+
+func _stop_progress_timer() -> void:
+	if _progress_timer:
+		_progress_timer.stop()
+		if _progress_timer.timeout.is_connected(_poll_progress):
+			_progress_timer.timeout.disconnect(_poll_progress)
+		_progress_timer.queue_free()
+		_progress_timer = null
+
+func _poll_progress() -> void:
+	if _downloading_album_id == "" or not FileAccess.file_exists(_tmp_path):
+		return
+	var f = FileAccess.open(_tmp_path, FileAccess.READ)
+	if not f:
+		return
+	var downloaded = f.get_length()
+	f.close()
+	if _total_size <= 0:
+		_total_size = _get_content_length()
+	album_pack_download_progress.emit(_downloading_album_id, downloaded, _total_size)
+
+func _get_content_length() -> int:
+	if not _http:
+		return -1
+	var body_size = _http.get_body_size()
+	if body_size > 0:
+		return body_size
+	return -1
 
 func _cleanup_http() -> void:
 	if _http:
-		if _http.download_progress.is_connected(_on_download_progress):
-			_http.download_progress.disconnect(_on_download_progress)
 		_http.queue_free()
 		_http = null
 	_downloading = false
 	_downloading_album_id = ""
+	_tmp_path = ""
 
 func is_downloading() -> bool:
 	return _downloading

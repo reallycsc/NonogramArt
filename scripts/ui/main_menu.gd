@@ -5,47 +5,39 @@ extends Control
 @onready var portrait_video_bg: VideoStreamPlayer = $PortraitUI/VideoStreamPlayer
 @onready var landscape_video_bg: VideoStreamPlayer = $LandscapeUI/VideoStreamPlayer
 
-@onready var p_start_button: TextureButton = $PortraitUI/StartButton
-@onready var p_progress_bar: ProgressBar = $PortraitUI/LoadPanel/VBox/ProgressBar
-@onready var p_load_label: Label = $PortraitUI/LoadPanel/VBox/LoadLabel
-@onready var p_load_panel: Control = $PortraitUI/LoadPanel
-@onready var p_settings_popup: Control = $PortraitUI/SettingsPopup
+@onready var progress_bar: ProgressBar = $LoadPanel/VBox/ProgressBar
+@onready var load_label: Label = $LoadPanel/VBox/LoadLabel
+@onready var load_panel: Control = $LoadPanel
+@onready var settings_popup: Control = $SettingsPopup
+@onready var exit_popup: Control = $ExitConfirmPopup
 
-@onready var l_start_button: TextureButton = $LandscapeUI/StartButton
-@onready var l_progress_bar: ProgressBar = $LandscapeUI/LoadPanel/VBox/ProgressBar
-@onready var l_load_label: Label = $LandscapeUI/LoadPanel/VBox/LoadLabel
-@onready var l_load_panel: Control = $LandscapeUI/LoadPanel
-@onready var l_settings_popup: Control = $LandscapeUI/SettingsPopup
+var _exit_callback: Callable = func(): get_tree().quit()
 
 func _ready() -> void:
-	p_load_panel.visible = true
-	l_load_panel.visible = true
-	p_progress_bar.value = 0
-	l_progress_bar.value = 0
+	load_panel.visible = true
+	progress_bar.value = 0
 	GameManager.preload_progress.connect(_on_preload_progress)
 	GameManager.preload_finished.connect(_on_preload_finished)
 	GameManager.preload_all_data()
 	AudioManager.play_bgm("main_menu")
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
 	_apply_orientation(OrientationManager.current_orientation)
+	exit_popup.confirmed.connect(_on_exit_confirmed)
+	exit_popup.cancelled.connect(_on_exit_cancelled)
 
 func _exit_tree() -> void:
 	if OrientationManager.orientation_changed.is_connected(_on_orientation_changed):
 		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
 
 func _on_preload_progress(step: int, _total: int, description: String) -> void:
-	p_progress_bar.value = step
-	l_progress_bar.value = step
-	p_load_label.text = description
-	l_load_label.text = description
+	progress_bar.value = step
+	load_label.text = description
 
 func _on_preload_finished() -> void:
-	p_load_panel.visible = false
-	l_load_panel.visible = false
+	load_panel.visible = false
+	$StartButton.visible = true
 	portrait_video_bg.visible = true
 	landscape_video_bg.visible = true
-	p_start_button.visible = true
-	l_start_button.visible = true
 
 func _on_start_pressed() -> void:
 	AudioManager.play_sfx("click")
@@ -55,10 +47,7 @@ func _on_start_pressed() -> void:
 
 func _on_settings_pressed() -> void:
 	AudioManager.play_sfx("click")
-	if portrait_ui.visible:
-		p_settings_popup.show_settings()
-	else:
-		l_settings_popup.show_settings()
+	settings_popup.show_settings()
 
 func _on_orientation_changed(new_orientation: int) -> void:
 	_apply_orientation(new_orientation)
@@ -75,4 +64,18 @@ func _apply_orientation(orientation: int) -> void:
 
 func _unhandled_input(event: InputEvent) -> void:
 	if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
-		get_tree().quit()
+		_show_exit_confirm()
+
+func _notification(what: int) -> void:
+	if what == NOTIFICATION_WM_GO_BACK_REQUEST:
+		_show_exit_confirm()
+
+func _show_exit_confirm() -> void:
+	exit_popup.show_popup()
+	get_viewport().set_input_as_handled()
+
+func _on_exit_confirmed() -> void:
+	_exit_callback.call()
+
+func _on_exit_cancelled() -> void:
+	pass
