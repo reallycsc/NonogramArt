@@ -1,7 +1,5 @@
 extends Control
 
-signal closed
-
 @onready var dim_overlay: ColorRect = $DimOverlay
 @onready var panel: Panel = $PanelContainer
 @onready var title_label: Label = $PanelContainer/TitleLabel
@@ -47,7 +45,6 @@ func show_settings() -> void:
 	tween.tween_property(dim_overlay, "color", Color(0, 0, 0, 0.6), 0.3)
 	tween.tween_property(panel, "scale", Vector2.ONE, 0.3).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
 	tween.tween_property(panel, "modulate:a", 1.0, 0.2)
-	AudioManager.play_sfx("click")
 
 func hide_settings() -> void:
 	AudioManager.play_sfx("click")
@@ -58,7 +55,6 @@ func hide_settings() -> void:
 	tween.tween_property(dim_overlay, "color", Color(0, 0, 0, 0.0), 0.15)
 	tween.chain().tween_callback(func():
 		visible = false
-		closed.emit()
 	)
 
 func _on_dim_overlay_input(event: InputEvent) -> void:

@@ -44,7 +44,7 @@ var settings: Dictionary = {
 	"auto_rotate": true,
 }
 
-var test_mode: bool = false
+var test_mode: bool = true
 
 var pending_bookshelf_id: String = ""
 var pending_album_id: String = ""
@@ -116,7 +116,8 @@ func preload_all_data() -> void:
 	_preload_album_icons(album_ids)
 	await get_tree().process_frame
 
-	preload_progress.emit(90, 100, "检查解锁状态...")
+	preload_progress.emit(90, 100, "检查资源...")
+	AlbumDataScript.preload_album_images_check(album_ids)
 	_preload_album_unlock_status(album_ids)
 	await get_tree().process_frame
 
@@ -156,6 +157,12 @@ func _preload_album_icons(album_ids: Array) -> void:
 			_album_icon_cache[album_id] = load(icon_path)
 		else:
 			_album_icon_cache[album_id] = _generate_album_icon(album_id, album_colors)
+		if not _album_icon_grey_cache.has(album_id):
+			var grey_path = icon_path.get_basename() + "_grey.png"
+			if grey_path != "" and ResourceLoader.exists(grey_path):
+				_album_icon_grey_cache[album_id] = load(grey_path)
+			else:
+				_album_icon_grey_cache[album_id] = _album_icon_cache[album_id]
 
 
 func _preload_album_unlock_status(album_ids: Array) -> void:

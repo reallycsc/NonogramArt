@@ -161,6 +161,10 @@ func _on_book_button_pressed() -> void:
 	if not AlbumData.is_album_content_available(album_id):
 		download_album_clicked.emit(album_id)
 		return
+	var missing = AlbumData.check_missing_resources(album_id)
+	if not missing.is_empty():
+		ToastManager.show_toast("缺少: " + ", ".join(missing))
+		return
 	AudioManager.play_sfx("click")
 	GameManager.pending_album_id = album_id
 	get_tree().change_scene_to_file("res://scenes/album_detail.tscn")

@@ -1,6 +1,6 @@
 class_name NonogramGrid
 
-enum CellState { UNKNOWN, FILLED, EMPTY }
+enum CellState { UNKNOWN, FILLED, EMPTY, CROSSED }
 
 signal cell_changed(row: int, col: int, state: int)
 signal puzzle_completed
@@ -40,10 +40,7 @@ func setup(puzzle: PuzzleData) -> void:
 		var r = cell.x
 		var c = cell.y
 		if r >= 0 and r < rows and c >= 0 and c < cols:
-			if solution[r][c] == 1:
-				grid[r][c] = CellState.FILLED
-			else:
-				grid[r][c] = CellState.EMPTY
+			grid[r][c] = CellState.CROSSED
 			cell_changed.emit(r, c, grid[r][c])
 
 
@@ -82,10 +79,10 @@ func toggle_fill(row: int, col: int) -> void:
 
 
 func toggle_mark(row: int, col: int) -> void:
-	if grid[row][col] == CellState.EMPTY:
+	if grid[row][col] == CellState.CROSSED:
 		set_cell(row, col, CellState.UNKNOWN)
 	else:
-		set_cell(row, col, CellState.EMPTY)
+		set_cell(row, col, CellState.CROSSED)
 
 
 func undo() -> void:
@@ -124,10 +121,7 @@ func reset() -> void:
 		var r = cell.x
 		var c = cell.y
 		if r >= 0 and r < rows and c >= 0 and c < cols:
-			if solution[r][c] == 1:
-				grid[r][c] = CellState.FILLED
-			else:
-				grid[r][c] = CellState.EMPTY
+			grid[r][c] = CellState.CROSSED
 	_undo_stack.clear()
 	_redo_stack.clear()
 	error_count = 0
@@ -182,7 +176,7 @@ func _check_completion() -> void:
 		for c in range(cols):
 			if solution[r][c] == 1 and grid[r][c] != CellState.FILLED:
 				return
-			if solution[r][c] == 0 and grid[r][c] == CellState.FILLED:
+			if solution[r][c] == 0 and grid[r][c] != CellState.EMPTY and grid[r][c] != CellState.CROSSED:
 				return
 	is_complete = true
 	puzzle_completed.emit()

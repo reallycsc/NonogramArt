@@ -4,8 +4,8 @@ var progress: float = 0.0
 
 var _ring_color: Color = Color(1, 1, 1, 1)
 var _bg_color: Color = Color(1, 1, 1, 0.25)
-var _ring_width: float = 10.0
-var _radius: float = 40.0
+var _ring_width: float = 20.0
+var _radius: float = 100.0
 
 func _ready():
 	var s = _radius * 2.0 + _ring_width * 2.0

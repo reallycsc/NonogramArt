@@ -62,7 +62,14 @@ static func from_json(data: Dictionary) -> PuzzleData:
 	p.hint_cells = []
 	for cell in data.get("hint_cells", []):
 		if cell is Array and cell.size() >= 2:
-			p.hint_cells.append(Vector2i(cell[0], cell[1]))
+			var r = cell[0]
+			var c = cell[1]
+			if r >= 0 and r < p.rows and c >= 0 and c < p.cols:
+				if p.solution.size() > r and p.solution[r].size() > c:
+					if p.solution[r][c] == 0:
+						p.hint_cells.append(Vector2i(r, c))
+				else:
+					p.hint_cells.append(Vector2i(r, c))
 	p.difficulty = data.get("difficulty", "easy")
 	var sr = data.get("source_rect", {})
 	if sr.has("x"):

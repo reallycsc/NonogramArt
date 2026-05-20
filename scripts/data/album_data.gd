@@ -189,3 +189,41 @@ static func get_all_album_ids() -> Array:
 		if album is Dictionary and album.has("id"):
 			ids.append(album["id"])
 	return ids
+
+
+static func check_missing_resources(album_id: String) -> Array:
+	var missing: Array = []
+	var pictures = load_pictures(album_id)
+	if pictures.is_empty():
+		missing.append("画册数据")
+		return missing
+	var missing_images: bool = false
+	var missing_puzzles: bool = false
+	var missing_bgm: bool = false
+	var pictures_with_puzzle: int = 0
+	for picture in pictures:
+		var img_path: String = picture.get("image", "")
+		if img_path == "" or not ResourceLoader.exists(img_path):
+			missing_images = true
+		var pixel_path: String = picture.get("pixel_image", "")
+		if pixel_path == "" or not ResourceLoader.exists(pixel_path):
+			missing_images = true
+		var puzzle_id: String = picture.get("id", "")
+		if puzzle_id != "":
+			for i in range(6):
+				var puzzle_path = "res://data/puzzles/" + album_id + "/" + puzzle_id + "_" + str(i) + ".json"
+				if ResourceLoader.exists(puzzle_path):
+					pictures_with_puzzle += 1
+					break
+	if missing_images:
+		missing.append("图片资源")
+	if pictures_with_puzzle < pictures.size():
+		missing_puzzles = true
+	if missing_puzzles:
+		missing.append("数织关卡")
+	var bgm_path = "res://assets/audio/music/" + album_id + ".mp3"
+	if not ResourceLoader.exists(bgm_path):
+		missing_bgm = true
+	if missing_bgm:
+		missing.append("背景音乐")
+	return missing

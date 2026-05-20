@@ -66,7 +66,14 @@ const REGION_GAP: float = 0.0
 
 var _fullscreen_viewer: CanvasLayer = null
 
+func _set_background_mouse_filter() -> void:
+	for ui in [portrait_ui, landscape_ui]:
+		for child in ui.get_children():
+			if child is TextureRect or child is VideoStreamPlayer:
+				child.mouse_filter = Control.MOUSE_FILTER_IGNORE
+
 func _ready() -> void:
+	_set_background_mouse_filter()
 	p_illustration_area.resized.connect(_on_illustration_area_resized.bind(p_illustration_area))
 	l_illustration_area.resized.connect(_on_illustration_area_resized.bind(l_illustration_area))
 	l_illustration_area2.resized.connect(_on_illustration_area_resized.bind(l_illustration_area2))
@@ -80,6 +87,8 @@ func _ready() -> void:
 	GameManager.preload_scene("res://scenes/nonogram_scene.tscn")
 
 func _exit_tree() -> void:
+	if current_album_id != "" and _current_picture_index >= 0:
+		GameManager.save_picture_index(current_album_id, _current_picture_index)
 	if OrientationManager.orientation_changed.is_connected(_on_orientation_changed):
 		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
 	if _fullscreen_viewer:
@@ -96,6 +105,14 @@ func _get_active_illustration_area() -> Control:
 	if _is_landscape():
 		return l_illustration_area
 	return p_illustration_area
+
+func _get_active_illustration_areas() -> Array:
+	if _is_landscape():
+		var areas = [l_illustration_area]
+		if l_page2.visible:
+			areas.append(l_illustration_area2)
+		return areas
+	return [p_illustration_area]
 
 func _get_step() -> int:
 	return 2 if _is_landscape() else 1
@@ -115,19 +132,17 @@ func _load_pictures_list() -> void:
 		else:
 			_current_picture_index = 0
 
-	if _is_landscape() and _current_picture_index % 2 == 1 and _current_picture_index > 0:
-		_current_picture_index -= 1
-
 	_display_current_pages()
 
 func _display_current_pages() -> void:
-	var picture = _pictures[_current_picture_index]
+	var display_index = _get_display_index()
+	var picture = _pictures[display_index]
 	current_picture_id = picture.get("id", "")
-	_load_picture(picture, p_title, p_illustration_area, p_album_text, p_page_num, _current_picture_index)
+	_load_picture(picture, p_title, p_illustration_area, p_album_text, p_page_num, display_index)
 
 	if _is_landscape():
-		_load_picture(picture, l_title, l_illustration_area, l_album_text, l_page_num, _current_picture_index)
-		var second_index = _current_picture_index + 1
+		_load_picture(picture, l_title, l_illustration_area, l_album_text, l_page_num, display_index)
+		var second_index = display_index + 1
 		if second_index < _pictures.size():
 			l_page2.visible = true
 			var picture2 = _pictures[second_index]
@@ -138,6 +153,13 @@ func _display_current_pages() -> void:
 
 	_update_page_navigation()
 	_schedule_preload_adjacent()
+	GameManager.album_picture_index[current_album_id] = _current_picture_index
+
+func _get_display_index() -> int:
+	var idx = _current_picture_index
+	if _is_landscape() and idx % 2 == 1 and idx > 0:
+		return idx - 1
+	return idx
 
 func _clear_page(title: Label, area: Control, text: Label, page_num: Label) -> void:
 	title.text = ""
@@ -910,15 +932,16 @@ func _on_right_button_pressed() -> void:
 		_display_current_pages()
 
 func _update_page_navigation() -> void:
-	var can_go_left = _current_picture_index > 0
-	var can_go_right = _current_picture_index < _pictures.size() - 1
+	var display_index = _get_display_index()
+	var can_go_left = display_index > 0
+	var can_go_right = display_index < _pictures.size() - 1
 
 	if portrait_ui.visible:
 		p_page_num.text = "%d/%d" % [_current_picture_index + 1, _pictures.size()]
 		p_left_button.visible = can_go_left
 		p_right_button.visible = can_go_right
 	else:
-		l_page_num.text = "%d/%d" % [_current_picture_index + 1, _pictures.size()]
+		l_page_num.text = "%d/%d" % [display_index + 1, _pictures.size()]
 		l_left_button.visible = can_go_left
 		l_right_button.visible = can_go_right
 
@@ -944,18 +967,21 @@ func _input(event: InputEvent) -> void:
 			_swipe_start_pos = Vector2.ZERO
 
 func _handle_illustration_tap(pos: Vector2) -> void:
-	var area: Control = _get_active_illustration_area()
-	if not area:
+	var canvas_pos = get_viewport().canvas_transform.affine_inverse() * pos
+	var areas = _get_active_illustration_areas()
+	for area in areas:
+		if not area:
+			continue
+		if not area.get_global_rect().has_point(canvas_pos):
+			continue
+		if not area.has_meta("illustration_ctx"):
+			continue
+		var ctx: Dictionary = area.get_meta("illustration_ctx")
+		var picture_id: String = ctx.get("picture_id", "")
+		if not GameManager.is_picture_completed(picture_id):
+			continue
+		_show_fullscreen_viewer(area)
 		return
-	if not area.get_global_rect().has_point(pos):
-		return
-	if not area.has_meta("illustration_ctx"):
-		return
-	var ctx: Dictionary = area.get_meta("illustration_ctx")
-	var picture_id: String = ctx.get("picture_id", "")
-	if not GameManager.is_picture_completed(picture_id):
-		return
-	_show_fullscreen_viewer(area)
 
 func _on_swipe_left() -> void:
 	if _current_picture_index < _pictures.size() - 1:
@@ -988,8 +1014,6 @@ func _apply_orientation(orientation: int) -> void:
 		landscape_ui.visible = true
 		l_left_button.visible = true
 		l_right_button.visible = true
-	if _is_landscape() and _current_picture_index % 2 == 1 and _current_picture_index > 0:
-		_current_picture_index -= 1
 	_display_current_pages()
 
 func _schedule_preload_adjacent() -> void:
@@ -1001,18 +1025,21 @@ func _schedule_preload_adjacent() -> void:
 
 func _do_preload_adjacent() -> void:
 	_preload_pending = false
+	var display_index = _get_display_index()
 	var step = _get_step()
 	var indices = []
-	var next_idx = _current_picture_index + step
+	var next_idx = display_index + step
 	if next_idx < _pictures.size():
 		indices.append(next_idx)
-	var prev_idx = _current_picture_index - step
+	var prev_idx = display_index - step
 	if prev_idx >= 0:
 		indices.append(prev_idx)
 	if _is_landscape():
-		var next2 = _current_picture_index + step + 1
+		var next2 = display_index + step + 1
 		if next2 < _pictures.size():
 			indices.append(next2)
+		if prev_idx >= 0 and prev_idx + 1 < _pictures.size():
+			indices.append(prev_idx + 1)
 	for idx in indices:
 		var picture = _pictures[idx]
 		var pic_id = picture.get("id", "")

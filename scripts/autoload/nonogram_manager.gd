@@ -54,7 +54,21 @@ func setup_game() -> bool:
 	for x in range(grid_size.x):
 		for y in range(grid_size.y):
 			GameManager.nonogram_cell_updated.emit(x, y, player_grid[x][y])
+	for cell in current_puzzle.hint_cells:
+		var cx = cell.x
+		var cy = cell.y
+		if cx >= 0 and cx < grid_size.x and cy >= 0 and cy < grid_size.y:
+			player_grid[cx][cy] = CellState.CROSSED
 	return true
+
+func apply_hint_cells() -> void:
+	for cell in current_puzzle.hint_cells:
+		var cx = cell.x
+		var cy = cell.y
+		if cx >= 0 and cx < grid_size.x and cy >= 0 and cy < grid_size.y:
+			player_grid[cx][cy] = CellState.CROSSED
+			GameManager.nonogram_cell_updated.emit(cx, cy, CellState.CROSSED)
+			GameManager.nonogram_cell_finished.emit(cx, cy)
 
 func _convert_clues_to_hints(clues: Array) -> Array:
 	var hints: Array = []

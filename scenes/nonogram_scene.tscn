@@ -24,6 +24,7 @@
 [ext_resource type="Texture2D" uid="uid://cyvm8gm7uqeb6" path="res://assets/images/ui/nonogram/switch_left_fill.png" id="16_6x2w3"]
 [ext_resource type="Texture2D" uid="uid://cekeh1mjr0oaq" path="res://assets/images/ui/nonogram/switch_right_cross.png" id="17_0oa8t"]
 [ext_resource type="Theme" uid="uid://dm1u1qw4djtk5" path="res://resources/themes/main_theme.tres" id="20_m1ass"]
+[ext_resource type="PackedScene" uid="uid://d2sottgwh8mwg" path="res://scenes/help_popup.tscn" id="21_helppop"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_4avmy"]
 content_margin_left = 0.0
@@ -281,57 +282,12 @@ texture_normal = ExtResource("8_tp6lh")
 texture_pressed = ExtResource("9_7h8da")
 texture_hover = ExtResource("10_srkwk")
 
-[node name="TipsNode2" type="Control" parent="CanvasLayer/HelpButton" unique_id=1247087782]
-visible = false
-layout_mode = 1
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-grow_horizontal = 2
-grow_vertical = 2
-
-[node name="Mask" type="Panel" parent="CanvasLayer/HelpButton/TipsNode2" unique_id=1961863869]
-layout_mode = 0
-offset_right = 260.0
-offset_bottom = 135.0
-theme_override_styles/panel = SubResource("StyleBoxFlat_4avmy")
-
-[node name="Label1" type="Label" parent="CanvasLayer/HelpButton/TipsNode2" unique_id=1097670998]
-visible = false
-layout_mode = 0
-offset_left = 15.0
-offset_top = 7.0
-offset_right = 247.0
-offset_bottom = 128.0
-theme_override_colors/font_color = Color(0.3764706, 0.22352941, 0.07450981, 1)
-theme_override_font_sizes/font_size = 20
-text = "鼠标左键：填充 ■
-鼠标右键：标记 X
-鼠标滚轮：缩放画面
-鼠标左键+空格：拖动画面"
-vertical_alignment = 1
-
-[node name="Label2" type="Label" parent="CanvasLayer/HelpButton/TipsNode2" unique_id=921499491]
-layout_mode = 0
-offset_left = 15.0
-offset_top = 7.0
-offset_right = 247.0
-offset_bottom = 128.0
-theme_override_colors/font_color = Color(0.3764706, 0.22352941, 0.07450981, 1)
-theme_override_font_sizes/font_size = 20
-text = "单指：填充 ■
-单指长按：标记 X
-双指拖拽：拖动画面"
-vertical_alignment = 1
-
 [node name="FinishButtonTest" type="Button" parent="CanvasLayer" unique_id=1681173622]
 visible = false
-offset_left = 20.0
-offset_top = 140.0
-offset_right = 195.0
-offset_bottom = 176.0
+offset_left = 39.0
+offset_top = 227.0
+offset_right = 214.0
+offset_bottom = 263.0
 theme_override_colors/font_color = Color(1, 1, 1, 1)
 text = "直接完成（测试用)"
 
@@ -530,6 +486,9 @@ vertical_alignment = 1
 [node name="GameOverPopup" parent="CanvasLayer" unique_id=1122931534 instance=ExtResource("10_gameover")]
 visible = false
 
+[node name="HelpPopup" parent="CanvasLayer" unique_id=998877665 instance=ExtResource("21_helppop")]
+visible = false
+
 [node name="NonogramCamera" type="Camera2D" parent="." unique_id=407348352]
 visible = false
 position = Vector2(640, 360)
@@ -541,7 +500,9 @@ stream = ExtResource("3_8lnqw")
 [node name="ClickCrossAudioPlayer" type="AudioStreamPlayer2D" parent="." unique_id=1837665738]
 stream = ExtResource("4_t65rq")
 
+[connection signal="pressed" from="CanvasLayer/PortraitUI/CheckButton" to="." method="_on_check_button_pressed"]
 [connection signal="value_changed" from="CanvasLayer/PortraitUI/Slider/Mask/CameraZoomSlider" to="." method="_on_camera_zoom_slider_value_changed"]
+[connection signal="pressed" from="CanvasLayer/LandscapeUI/CheckButton" to="." method="_on_check_button_pressed"]
 [connection signal="value_changed" from="CanvasLayer/LandscapeUI/Slider/Mask/CameraZoomSlider" to="." method="_on_camera_zoom_slider_value_changed"]
 [connection signal="pressed" from="CanvasLayer/BackButton" to="." method="_on_back_button_pressed"]
 [connection signal="pressed" from="CanvasLayer/HelpButton" to="." method="_on_help_button_pressed"]

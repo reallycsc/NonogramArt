@@ -16,7 +16,7 @@ var _tmp_path: String = ""
 var _total_size: int = -1
 
 func _ready():
-	set_base_url("https://ghfast.top/https://github.com/reallycsc/NonogramArt_DLC/releases/download/")
+	set_base_url("https://ghfast.top/https://github.com/reallycsc/NonogramArt_DLC/releases/download/v1.0")
 	DirAccess.make_dir_recursive_absolute(_pack_dir)
 	_scan_existing_packs()
 
@@ -75,7 +75,7 @@ func download_album(album_id: String) -> void:
 	_tmp_path = pck_path + ".tmp"
 	_total_size = -1
 	var file_name = "album_" + album_id + ".pck"
-	var url = _base_url + file_name + "/" + file_name
+	var url = _base_url + file_name
 	_http = HTTPRequest.new()
 	add_child(_http)
 	_http.use_threads = true

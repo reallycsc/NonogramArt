@@ -13,7 +13,14 @@ extends Control
 
 var _exit_callback: Callable = func(): get_tree().quit()
 
+func _set_background_mouse_filter() -> void:
+	for ui in [portrait_ui, landscape_ui]:
+		for child in ui.get_children():
+			if child is TextureRect or child is VideoStreamPlayer:
+				child.mouse_filter = Control.MOUSE_FILTER_IGNORE
+
 func _ready() -> void:
+	_set_background_mouse_filter()
 	load_panel.visible = true
 	progress_bar.value = 0
 	GameManager.preload_progress.connect(_on_preload_progress)
@@ -36,8 +43,6 @@ func _on_preload_progress(step: int, _total: int, description: String) -> void:
 func _on_preload_finished() -> void:
 	load_panel.visible = false
 	$StartButton.visible = true
-	portrait_video_bg.visible = true
-	landscape_video_bg.visible = true
 
 func _on_start_pressed() -> void:
 	AudioManager.play_sfx("click")

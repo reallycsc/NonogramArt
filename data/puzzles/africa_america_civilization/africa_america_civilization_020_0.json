@@ -1,90 +1,98 @@
 {
-    "id": "africa_america_civilization_020_0",
-    "name": "分块0",
-    "picture_id": "africa_america_civilization_020",
-    "size": {
-        "rows": 5,
-        "cols": 5
-    },
-    "difficulty": "tutorial",
-    "row_clues": [
-        [
-            0
-        ],
-        [
-            1
-        ],
-        [
-            2,
-            1
-        ],
-        [
-            1
-        ],
-        [
-            1,
-            2
-        ]
-    ],
-    "col_clues": [
-        [
-            4
-        ],
-        [
-            1
-        ],
-        [
-            1
-        ],
-        [
-            1
-        ],
-        [
-            1
-        ]
-    ],
-    "solution": [
-        [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        [
-            1,
-            0,
-            0,
-            0,
-            0
-        ],
-        [
-            1,
-            1,
-            0,
-            0,
-            1
-        ],
-        [
-            1,
-            0,
-            0,
-            0,
-            0
-        ],
-        [
-            1,
-            0,
-            1,
-            1,
-            0
-        ]
-    ],
-    "hint_cells": [],
-    "source_rect": {
-        "x": 0,
-        "y": 0,
-        "w": 832,
-        "h": 832
-    }
+	"id": "africa_america_civilization_020_0",
+	"name": "分块0",
+	"picture_id": "africa_america_civilization_020",
+	"size": {
+		"rows": 5,
+		"cols": 5
+	},
+	"difficulty": "tutorial",
+	"row_clues": [
+		[
+			3
+		],
+		[
+			2,
+			1
+		],
+		[
+			2,
+			1
+		],
+		[
+			1
+		],
+		[
+			2
+		]
+	],
+	"col_clues": [
+		[
+			2
+		],
+		[
+			4
+		],
+		[
+			1,
+			1
+		],
+		[
+			1,
+			1,
+			1
+		],
+		[
+			1
+		]
+	],
+	"solution": [
+		[
+			0,
+			1,
+			1,
+			1,
+			0
+		],
+		[
+			1,
+			1,
+			0,
+			0,
+			1
+		],
+		[
+			1,
+			1,
+			0,
+			1,
+			0
+		],
+		[
+			0,
+			1,
+			0,
+			0,
+			0
+		],
+		[
+			0,
+			0,
+			1,
+			1,
+			0
+		]
+	],
+	"hint_cells": [
+		[
+			3,
+			3
+		]
+	],
+	"source_rect": {
+		"x": 0,
+		"y": 0,
+		"w": 426,
+		"h": 426
+	}
 }

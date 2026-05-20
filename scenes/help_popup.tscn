@@ -1,0 +1,77 @@
+[gd_scene format=3 uid="uid://d2sottgwh8mwg"]
+
+[ext_resource type="Script" uid="uid://cdsgq2lt7d7tv" path="res://scripts/nonogram/help_popup.gd" id="1_lounj"]
+[ext_resource type="Texture2D" uid="uid://diie5mgia1d0h" path="res://assets/images/ui/nonogram/help_panel.png" id="1_nxm3u"]
+[ext_resource type="Texture2D" uid="uid://dhxxgf4of6h06" path="res://assets/images/ui/nonogram/panel_close_btn.png" id="2_omfso"]
+[ext_resource type="Texture2D" uid="uid://wplt1gq3gn6r" path="res://assets/images/ui/nonogram/panel_close_btn_pressed.png" id="3_lounj"]
+[ext_resource type="Texture2D" uid="uid://c7h35cqtfh77t" path="res://assets/images/ui/nonogram/panel_close_btn_hover.png" id="4_8tct3"]
+
+[node name="HelpPopup" type="Control" unique_id=1587180565]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_lounj")
+
+[node name="DimOverlay" type="ColorRect" parent="." unique_id=427398994]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.6)
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=2099778328]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -319.5
+offset_top = -467.0
+offset_right = 319.5
+offset_bottom = 467.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.7, 0.7)
+pivot_offset_ratio = Vector2(0.5, 0.5)
+texture = ExtResource("1_nxm3u")
+
+[node name="TitleLabel" type="Label" parent="TextureRect" unique_id=1451183035]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -50.0
+offset_top = 5.0
+offset_right = 50.0
+offset_bottom = 61.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_outline_color = Color(0.42745098, 0.24313726, 0.06666667, 1)
+theme_override_constants/outline_size = 8
+theme_override_font_sizes/font_size = 40
+text = "帮  助"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="CloseButton" type="TextureButton" parent="TextureRect" unique_id=120238028]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -105.428345
+offset_top = 12.85714
+offset_right = 8.571655
+offset_bottom = 128.85715
+grow_horizontal = 0
+pivot_offset_ratio = Vector2(0.5, 0.5)
+texture_normal = ExtResource("2_omfso")
+texture_pressed = ExtResource("3_lounj")
+texture_hover = ExtResource("4_8tct3")
+
+[connection signal="pressed" from="TextureRect/CloseButton" to="." method="hide_help"]
