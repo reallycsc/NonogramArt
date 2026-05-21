@@ -41,3 +41,4 @@ func hp_change(change: int) -> void:
 
 func _on_life_audio_finished() -> void:
 	GameManager.nonogram_game_over.emit()
+	

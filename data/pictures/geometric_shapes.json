@@ -1,0 +1,165 @@
+{
+  "album_id": "geometric_shapes",
+  "pictures": [
+    {
+      "id": "geometric_shapes_000",
+      "title": "空心正方形",
+      "summary": "正方形是最基础的几何图形",
+      "full_text": "正方形是最基础的几何图形，四条边相等，四个角都是直角。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_000"
+      ],
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000_nonogram_pixel.jpg"
+    },
+    {
+      "id": "geometric_shapes_001",
+      "title": "实心三角形",
+      "summary": "三角形是最简单的多边形",
+      "full_text": "三角形是最简单的多边形，由三条边组成。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_001.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_001"
+      ],
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_001_nonogram_pixel.jpg"
+    },
+    {
+      "id": "geometric_shapes_002",
+      "title": "十字形",
+      "summary": "对称图形的典型代表",
+      "full_text": "十字形由两条垂直相交的线段组成，是对称图形的典型代表。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_002.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_002"
+      ],
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_002_nonogram_pixel.jpg"
+    },
+    {
+      "id": "geometric_shapes_003",
+      "title": "菱形",
+      "summary": "四边相等的平行四边形",
+      "full_text": "菱形是四边相等的平行四边形，具有完美的对称性。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_003.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_003"
+      ],
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_003_nonogram_pixel.jpg"
+    },
+    {
+      "id": "geometric_shapes_004",
+      "title": "同心正方形",
+      "summary": "多个嵌套的正方形组成",
+      "full_text": "同心正方形由多个嵌套的正方形组成，展示了图形的层次结构。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_004.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_004"
+      ],
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_004_nonogram_pixel.jpg"
+    },
+    {
+      "id": "geometric_shapes_005",
+      "title": "箭头",
+      "summary": "三角形和矩形的组合",
+      "full_text": "箭头是由三角形和矩形组合而成的指向性图形，在日常生活中广泛使用。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_005.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_005"
+      ],
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_005_nonogram_pixel.jpg"
+    },
+    {
+      "id": "geometric_shapes_006",
+      "title": "心形",
+      "summary": "表达爱与情感的象征性图形",
+      "full_text": "心形是表达爱与情感的象征性图形，由两条曲线在顶部相交形成。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_006.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_006"
+      ],
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_006_nonogram_pixel.jpg"
+    },
+    {
+      "id": "geometric_shapes_007",
+      "title": "星形",
+      "summary": "多个三角形围绕中心点排列",
+      "full_text": "星形是由多个三角形围绕中心点排列组成的对称图形，象征着希望与梦想。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_007.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_007"
+      ],
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_007_nonogram_pixel.jpg"
+    },
+    {
+      "id": "geometric_shapes_008",
+      "title": "嵌套三角形",
+      "summary": "多个大小不同的三角形层层嵌套",
+      "full_text": "嵌套三角形由多个大小不同的三角形层层嵌套而成，展示了复杂的层次结构。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_008.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_008"
+      ],
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_008_nonogram_pixel.jpg"
+    },
+    {
+      "id": "geometric_shapes_009",
+      "title": "螺旋",
+      "summary": "围绕中心点不断向外扩展的曲线",
+      "full_text": "螺旋是一种围绕中心点不断向外扩展的曲线图形，在自然界中广泛存在。",
+      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_009.jpg",
+      "image_grid": {
+        "x": 1,
+        "y": 1
+      },
+      "puzzles": [
+        "geometric_shapes_009"
+      ],
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_009_nonogram_pixel.jpg"
+    }
+  ]
+}

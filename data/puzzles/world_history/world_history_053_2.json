@@ -78,7 +78,12 @@
 			1
 		]
 	],
-	"hint_cells": [],
+	"hint_cells": [
+		[
+			0,
+			4
+		]
+	],
 	"source_rect": {
 		"x": 852,
 		"y": 0,

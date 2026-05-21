@@ -51,32 +51,34 @@ var current_picture_id: String = ""
 var _pictures: Array = []
 var _current_picture_index: int = 0
 var _fade_tween: Tween = null
+var _reveal_tween: Tween = null
+var _just_completed_puzzle_id: String = ""
 
 var _puzzle_cache: Dictionary = {}
 var _texture_cache: Dictionary = {}
 var _texture_lru: Array = []
-const MAX_CACHED_PICTURES: int = 6
+const MAX_CACHED_PICTURES: int = 12
+var _region_tex_cache: Dictionary = {}
 
 var _preload_pending: bool = false
+var _loading_textures: Dictionary = {}
+var _pending_display: bool = false
 
 var _swipe_start_pos: Vector2 = Vector2.ZERO
 var _swipe_min_distance: float = 50.0
+var _viewer_close_msec: int = 0
 
 const REGION_GAP: float = 0.0
 
 var _fullscreen_viewer: CanvasLayer = null
 
-func _set_background_mouse_filter() -> void:
-	for ui in [portrait_ui, landscape_ui]:
-		for child in ui.get_children():
-			if child is TextureRect or child is VideoStreamPlayer:
-				child.mouse_filter = Control.MOUSE_FILTER_IGNORE
-
 func _ready() -> void:
-	_set_background_mouse_filter()
 	p_illustration_area.resized.connect(_on_illustration_area_resized.bind(p_illustration_area))
 	l_illustration_area.resized.connect(_on_illustration_area_resized.bind(l_illustration_area))
 	l_illustration_area2.resized.connect(_on_illustration_area_resized.bind(l_illustration_area2))
+	if GameManager.pending_puzzle_id != "":
+		_just_completed_puzzle_id = GameManager.pending_puzzle_id
+		GameManager.pending_puzzle_id = ""
 	if GameManager.pending_album_id != "":
 		current_album_id = GameManager.pending_album_id
 		GameManager.pending_album_id = ""
@@ -97,6 +99,9 @@ func _exit_tree() -> void:
 	_puzzle_cache.clear()
 	_texture_cache.clear()
 	_texture_lru.clear()
+	_region_tex_cache.clear()
+	_loading_textures.clear()
+	_pending_display = false
 
 func _is_landscape() -> bool:
 	return landscape_ui.visible
@@ -131,8 +136,6 @@ func _load_pictures_list() -> void:
 			_current_picture_index = saved_index
 		else:
 			_current_picture_index = 0
-
-	_display_current_pages()
 
 func _display_current_pages() -> void:
 	var display_index = _get_display_index()
@@ -289,6 +292,9 @@ func _string_to_seed(s: String) -> int:
 	return abs(hash_val) & 0x7fffffff
 
 func _build_illustration(area: Control, picture: Dictionary, picture_index: int) -> void:
+	if _reveal_tween:
+		_reveal_tween.kill()
+		_reveal_tween = null
 	if area.has_meta("illustration_ctx"):
 		area.remove_meta("illustration_ctx")
 
@@ -298,10 +304,7 @@ func _build_illustration(area: Control, picture: Dictionary, picture_index: int)
 	ctx["picture_index"] = picture_index
 	ctx["region_buttons"] = {}
 
-	var children = area.get_children()
-	for child in children:
-		area.remove_child(child)
-		child.free()
+	_clear_area_children(area)
 
 	ctx["puzzles"] = []
 	var puzzle_ids = picture.get("puzzles", [])
@@ -326,51 +329,104 @@ func _build_illustration(area: Control, picture: Dictionary, picture_index: int)
 		_texture_lru.erase(pic_id)
 		_texture_lru.append(pic_id)
 	else:
-		var illust_tex: Texture2D = null
-		var pixel_tex: Texture2D = null
-		var img_w: int = 0
-		var img_h: int = 0
-
-		if img_path != "" and ResourceLoader.exists(img_path):
-			var tex = ResourceLoader.load(img_path, "", ResourceLoader.CACHE_MODE_REUSE)
-			if tex is Texture2D:
-				illust_tex = tex
-				img_w = tex.get_width()
-				img_h = tex.get_height()
-
-		if illust_tex == null:
-			var placeholder_img = _generate_placeholder_illustration(ctx)
-			illust_tex = ImageTexture.create_from_image(placeholder_img)
-			img_w = illust_tex.get_width()
-			img_h = illust_tex.get_height()
-
-		var base_path = img_path.get_basename()
-		var pixel_path = base_path + "_nonogram_pixel.jpg"
-		if ResourceLoader.exists(pixel_path):
-			var tex = ResourceLoader.load(pixel_path, "", ResourceLoader.CACHE_MODE_REUSE)
-			if tex is Texture2D:
-				pixel_tex = tex
-
-		ctx["illustration_texture"] = illust_tex
-		ctx["pixel_texture"] = pixel_tex
-		ctx["illustration_width"] = img_w
-		ctx["illustration_height"] = img_h
-
-		_texture_cache[pic_id] = {
-			"illust_tex": illust_tex,
-			"pixel_tex": pixel_tex,
-			"img_w": img_w,
-			"img_h": img_h
-		}
-		_texture_lru.append(pic_id)
-
-		while _texture_lru.size() > MAX_CACHED_PICTURES:
-			var evict_id = _texture_lru.pop_front()
-			_texture_cache.erase(evict_id)
+		if _loading_textures.has(pic_id):
+			var loading = _loading_textures[pic_id]
+			var illust_tex_cached: Texture2D = loading.get("illust_tex")
+			if illust_tex_cached == null and loading.get("state", "") == "loading_illust":
+				var l_img_path: String = loading["img_path"]
+				illust_tex_cached = ResourceLoader.load_threaded_get(l_img_path) as Texture2D
+				loading["illust_tex"] = illust_tex_cached
+				var picture_data: Dictionary = loading.get("picture", {})
+				var pixel_path = picture_data.get("pixel_image", "")
+				if pixel_path == "":
+					pixel_path = l_img_path.get_basename() + "_nonogram_pixel.jpg"
+				if pixel_path != "" and ResourceLoader.exists(pixel_path):
+					ResourceLoader.load_threaded_request(pixel_path, "", false)
+					loading["state"] = "loading_pixel"
+					loading["pixel_path"] = pixel_path
+				else:
+					loading["state"] = "done"
+			if illust_tex_cached:
+				var pixel_tex_cached: Texture2D = loading.get("pixel_tex")
+				if pixel_tex_cached == null and loading.has("pixel_path"):
+					var pixel_path: String = loading["pixel_path"]
+					pixel_tex_cached = ResourceLoader.load_threaded_get(pixel_path) as Texture2D
+				ctx["illustration_texture"] = illust_tex_cached
+				ctx["pixel_texture"] = pixel_tex_cached
+				ctx["illustration_width"] = illust_tex_cached.get_width()
+				ctx["illustration_height"] = illust_tex_cached.get_height()
+				_loading_textures.erase(pic_id)
+				_texture_cache[pic_id] = {
+					"illust_tex": illust_tex_cached,
+					"pixel_tex": pixel_tex_cached,
+					"img_w": illust_tex_cached.get_width(),
+					"img_h": illust_tex_cached.get_height()
+				}
+				_texture_lru.append(pic_id)
+				_evict_texture_cache()
+			else:
+				_loading_textures.erase(pic_id)
+				_load_textures_sync(ctx, pic_id, img_path, picture)
+		else:
+			_load_textures_sync(ctx, pic_id, img_path, picture)
 
 	area.set_meta("illustration_ctx", ctx)
-
 	_create_illustration_display(area, ctx)
+
+func _load_textures_sync(ctx: Dictionary, pic_id: String, img_path: String, picture: Dictionary) -> void:
+	var illust_tex: Texture2D = null
+	var pixel_tex: Texture2D = null
+	var img_w: int = 0
+	var img_h: int = 0
+
+	if img_path != "" and ResourceLoader.exists(img_path):
+		var tex = ResourceLoader.load(img_path, "", ResourceLoader.CACHE_MODE_REUSE)
+		if tex is Texture2D:
+			illust_tex = tex
+			img_w = tex.get_width()
+			img_h = tex.get_height()
+
+	if illust_tex == null:
+		var placeholder_img = _generate_placeholder_illustration(ctx)
+		illust_tex = ImageTexture.create_from_image(placeholder_img)
+		img_w = illust_tex.get_width()
+		img_h = illust_tex.get_height()
+
+	var pixel_path = picture.get("pixel_image", "")
+	if pixel_path == "":
+		pixel_path = img_path.get_basename() + "_nonogram_pixel.jpg"
+	if pixel_path != "" and ResourceLoader.exists(pixel_path):
+		var tex = ResourceLoader.load(pixel_path, "", ResourceLoader.CACHE_MODE_REUSE)
+		if tex is Texture2D:
+			pixel_tex = tex
+
+	ctx["illustration_texture"] = illust_tex
+	ctx["pixel_texture"] = pixel_tex
+	ctx["illustration_width"] = img_w
+	ctx["illustration_height"] = img_h
+
+	_texture_cache[pic_id] = {
+		"illust_tex": illust_tex,
+		"pixel_tex": pixel_tex,
+		"img_w": img_w,
+		"img_h": img_h
+	}
+	_texture_lru.append(pic_id)
+	_evict_texture_cache()
+
+func _clear_area_children(area: Control) -> void:
+	var children = area.get_children()
+	if children.is_empty():
+		return
+	for child in children:
+		area.remove_child(child)
+		child.queue_free()
+
+func _evict_texture_cache() -> void:
+	while _texture_lru.size() > MAX_CACHED_PICTURES:
+		var evict_id = _texture_lru.pop_front()
+		_texture_cache.erase(evict_id)
+		_region_tex_cache.erase(evict_id)
 
 func _compute_grid_layout(ctx: Dictionary, picture: Dictionary) -> void:
 	ctx["has_valid_source_rects"] = false
@@ -464,12 +520,18 @@ func _compute_grid_from_count(ctx: Dictionary) -> void:
 
 func _create_illustration_display(area: Control, ctx: Dictionary) -> void:
 	var picture_id: String = ctx["picture_id"]
-	if GameManager.is_picture_completed(picture_id):
+	if GameManager.is_picture_completed(picture_id) and _just_completed_puzzle_id == "":
 		_create_completed_display(area, ctx)
 		return
 
 	var puzzles = ctx["puzzles"]
 	var is_locked = _is_picture_locked(ctx["picture_index"])
+	var just_completed_idx = -1
+	if _just_completed_puzzle_id != "":
+		for i in range(puzzles.size()):
+			if puzzles[i].id == _just_completed_puzzle_id:
+				just_completed_idx = i
+				break
 
 	for i in range(puzzles.size()):
 		var puzzle = puzzles[i]
@@ -486,22 +548,32 @@ func _create_illustration_display(area: Control, ctx: Dictionary) -> void:
 			btn.set_meta("locked", true)
 		elif not completed:
 			_set_btn_tex_nonogram(btn, max(puzzle.rows, puzzle.cols))
+		elif i == just_completed_idx:
+			_set_btn_tex_nonogram(btn, max(puzzle.rows, puzzle.cols))
 		else:
 			var source_tex: Texture2D = ctx["pixel_texture"]
 			if source_tex == null:
 				source_tex = ctx["illustration_texture"]
 			if source_tex:
-				var region = _get_region_pixel_rect(i, source_tex.get_width(), source_tex.get_height(), ctx)
-				var atlas = AtlasTexture.new()
-				atlas.atlas = source_tex
-				atlas.region = region
-				var region_img = atlas.get_image()
-				var target_size = 160
-				region_img.resize(target_size, target_size, Image.INTERPOLATE_NEAREST)
-				var small_tex = ImageTexture.create_from_image(region_img)
-				btn.texture_normal = small_tex
-				btn.texture_hover = small_tex
-				btn.texture_pressed = small_tex
+				var cache_key = picture_id + "_" + puzzle.id
+				if _region_tex_cache.has(cache_key):
+					var small_tex = _region_tex_cache[cache_key]
+					btn.texture_normal = small_tex
+					btn.texture_hover = small_tex
+					btn.texture_pressed = small_tex
+				else:
+					var region = _get_region_pixel_rect(i, source_tex.get_width(), source_tex.get_height(), ctx)
+					var atlas = AtlasTexture.new()
+					atlas.atlas = source_tex
+					atlas.region = region
+					var region_img = atlas.get_image()
+					var target_size = 160
+					region_img.resize(target_size, target_size, Image.INTERPOLATE_NEAREST)
+					var small_tex = ImageTexture.create_from_image(region_img)
+					_region_tex_cache[cache_key] = small_tex
+					btn.texture_normal = small_tex
+					btn.texture_hover = small_tex
+					btn.texture_pressed = small_tex
 				btn.mouse_entered.connect(_on_region_btn_hover.bind(btn, true))
 				btn.mouse_exited.connect(_on_region_btn_hover.bind(btn, false))
 				btn.button_down.connect(_on_region_btn_press.bind(btn, true))
@@ -514,6 +586,118 @@ func _create_illustration_display(area: Control, ctx: Dictionary) -> void:
 		ctx["region_buttons"][puzzle.id] = btn
 
 	_update_region_positions(area)
+
+	if just_completed_idx >= 0:
+		_play_puzzle_reveal_animation(area, ctx, just_completed_idx)
+	else:
+		_just_completed_puzzle_id = ""
+
+func _play_puzzle_reveal_animation(area: Control, ctx: Dictionary, puzzle_idx: int) -> void:
+	var puzzles = ctx["puzzles"]
+	var puzzle = puzzles[puzzle_idx]
+	var picture_id: String = ctx["picture_id"]
+	var btn = ctx["region_buttons"].get(puzzle.id) as TextureButton
+	if not btn:
+		return
+
+	var source_tex: Texture2D = ctx["pixel_texture"]
+	if source_tex == null:
+		source_tex = ctx["illustration_texture"]
+	if source_tex == null:
+		return
+
+	var cache_key = picture_id + "_" + puzzle.id
+	var pixel_tex: Texture2D = null
+	if _region_tex_cache.has(cache_key):
+		pixel_tex = _region_tex_cache[cache_key]
+	else:
+		var region = _get_region_pixel_rect(puzzle_idx, source_tex.get_width(), source_tex.get_height(), ctx)
+		var atlas = AtlasTexture.new()
+		atlas.atlas = source_tex
+		atlas.region = region
+		var region_img = atlas.get_image()
+		var target_size = 160
+		region_img.resize(target_size, target_size, Image.INTERPOLATE_NEAREST)
+		pixel_tex = ImageTexture.create_from_image(region_img)
+		_region_tex_cache[cache_key] = pixel_tex
+
+	var grid_x: int = ctx["grid_x"]
+	var col = puzzle_idx % grid_x
+	var row = int(float(puzzle_idx) / grid_x)
+	var layout = _get_illustration_layout(area, ctx)
+
+	if layout.display_w <= 0 or layout.display_h <= 0:
+		await get_tree().process_frame
+		if not is_instance_valid(area) or not area.has_meta("illustration_ctx"):
+			_just_completed_puzzle_id = ""
+			return
+		layout = _get_illustration_layout(area, ctx)
+		if layout.display_w <= 0 or layout.display_h <= 0:
+			_just_completed_puzzle_id = ""
+			return
+
+	var overlay_pos = Vector2(
+		layout.offset_x + col * (layout.cell_w + REGION_GAP),
+		layout.offset_y + row * (layout.cell_h + REGION_GAP)
+	)
+	var overlay_size = Vector2(layout.cell_w, layout.cell_h)
+
+	if not is_instance_valid(btn):
+		_just_completed_puzzle_id = ""
+		return
+
+	btn.position = overlay_pos
+	btn.size = overlay_size
+
+	var overlay = TextureRect.new()
+	overlay.name = "RevealOverlay"
+	overlay.texture = pixel_tex
+	overlay.stretch_mode = TextureRect.STRETCH_SCALE
+	overlay.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
+	overlay.modulate.a = 0.0
+	overlay.mouse_filter = Control.MOUSE_FILTER_IGNORE
+	overlay.position = overlay_pos
+	overlay.size = overlay_size
+	area.add_child(overlay)
+
+	var tween = create_tween()
+	AnimationManager.register_tween(tween)
+	if _reveal_tween:
+		_reveal_tween.kill()
+	_reveal_tween = tween
+	tween.parallel().tween_property(btn, "modulate:a", 0.0, 0.6).set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_IN)
+	tween.parallel().tween_property(overlay, "modulate:a", 1.0, 0.6).set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_OUT)
+	tween.tween_callback(func():
+		_just_completed_puzzle_id = ""
+		if not is_instance_valid(btn):
+			if is_instance_valid(overlay):
+				overlay.queue_free()
+			return
+		btn.texture_normal = pixel_tex
+		btn.texture_hover = pixel_tex
+		btn.texture_pressed = pixel_tex
+		btn.modulate.a = 1.0
+		btn.mouse_entered.connect(_on_region_btn_hover.bind(btn, true))
+		btn.mouse_exited.connect(_on_region_btn_hover.bind(btn, false))
+		btn.button_down.connect(_on_region_btn_press.bind(btn, true))
+		btn.button_up.connect(_on_region_btn_press.bind(btn, false))
+		if is_instance_valid(overlay):
+			overlay.queue_free()
+		var all_done = true
+		for p in puzzles:
+			if not GameManager.is_puzzle_completed(p.id):
+				all_done = false
+				break
+		if all_done and is_instance_valid(area):
+			_play_picture_complete_animation(area, ctx)
+	)
+
+func _play_picture_complete_animation(area: Control, ctx: Dictionary) -> void:
+	var picture_id: String = ctx["picture_id"]
+	if not GameManager.should_show_animation(picture_id):
+		GameManager.mark_animation_shown(picture_id)
+	_clear_area_children(area)
+	_create_completed_display(area, ctx)
 
 func _on_region_btn_hover(btn: TextureButton, entered: bool) -> void:
 	if btn.button_pressed:
@@ -565,6 +749,7 @@ func _create_completed_display(area: Control, ctx: Dictionary) -> void:
 	var should_animate = GameManager.should_show_animation(picture_id)
 	var illust_tex: Texture2D = ctx["illustration_texture"]
 	var pixel_tex: Texture2D = ctx["pixel_texture"]
+	var is_touch = DisplayServer.is_touchscreen_available()
 
 	if pixel_tex and illust_tex and should_animate:
 		var pixel_rect = TextureRect.new()
@@ -572,6 +757,8 @@ func _create_completed_display(area: Control, ctx: Dictionary) -> void:
 		pixel_rect.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
 		pixel_rect.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 		pixel_rect.texture = pixel_tex
+		if is_touch:
+			pixel_rect.mouse_filter = Control.MOUSE_FILTER_IGNORE
 		area.add_child(pixel_rect)
 		_update_completed_illustration_layout(area)
 
@@ -581,6 +768,8 @@ func _create_completed_display(area: Control, ctx: Dictionary) -> void:
 		hd_rect.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
 		hd_rect.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 		hd_rect.texture = illust_tex
+		if is_touch:
+			hd_rect.mouse_filter = Control.MOUSE_FILTER_IGNORE
 		var shader_mat = ShaderMaterial.new()
 		shader_mat.shader = preload("res://shaders/sweep_reveal.gdshader")
 		shader_mat.set_shader_parameter("progress", 0.0)
@@ -593,7 +782,8 @@ func _create_completed_display(area: Control, ctx: Dictionary) -> void:
 		_fade_tween = create_tween()
 		_fade_tween.tween_method(_set_sweep_progress.bind(shader_mat), 0.0, 1.15, 1.5)
 		_fade_tween.tween_callback(_on_animation_finished.bind(picture_id))
-		_fade_tween.tween_callback(_enable_hd_click.bind(area))
+		if not is_touch:
+			_fade_tween.tween_callback(_enable_hd_click.bind(area))
 	elif illust_tex:
 		var hd_rect = TextureRect.new()
 		hd_rect.name = "HDImageRect"
@@ -601,7 +791,10 @@ func _create_completed_display(area: Control, ctx: Dictionary) -> void:
 		hd_rect.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
 		hd_rect.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 		hd_rect.texture = illust_tex
-		hd_rect.gui_input.connect(_on_hd_image_input.bind(area))
+		if is_touch:
+			hd_rect.mouse_filter = Control.MOUSE_FILTER_IGNORE
+		else:
+			hd_rect.gui_input.connect(_on_hd_image_input.bind(area))
 		area.add_child(hd_rect)
 	elif pixel_tex:
 		var pixel_rect = TextureRect.new()
@@ -609,6 +802,8 @@ func _create_completed_display(area: Control, ctx: Dictionary) -> void:
 		pixel_rect.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
 		pixel_rect.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 		pixel_rect.texture = pixel_tex
+		if is_touch:
+			pixel_rect.mouse_filter = Control.MOUSE_FILTER_IGNORE
 		area.add_child(pixel_rect)
 		_update_completed_illustration_layout(area)
 
@@ -704,6 +899,8 @@ func _close_fullscreen_viewer() -> void:
 		return
 	var viewer = _fullscreen_viewer
 	_fullscreen_viewer = null
+	_viewer_close_msec = Time.get_ticks_msec()
+	_swipe_start_pos = Vector2.ZERO
 	var tween = create_tween()
 	tween.tween_property(viewer, "modulate:a", 0.0, 0.2)
 	tween.tween_callback(viewer.queue_free)
@@ -967,7 +1164,9 @@ func _input(event: InputEvent) -> void:
 			_swipe_start_pos = Vector2.ZERO
 
 func _handle_illustration_tap(pos: Vector2) -> void:
-	var canvas_pos = get_viewport().canvas_transform.affine_inverse() * pos
+	if Time.get_ticks_msec() - _viewer_close_msec < 300:
+		return
+	var canvas_pos = get_viewport().get_mouse_position()
 	var areas = _get_active_illustration_areas()
 	for area in areas:
 		if not area:
@@ -1059,37 +1258,77 @@ func _preload_picture_resources(picture: Dictionary) -> void:
 	var img_path = picture.get("image", "")
 	if _texture_cache.has(pic_id):
 		return
-
-	var illust_tex: Texture2D = null
-	var pixel_tex: Texture2D = null
-	var img_w: int = 0
-	var img_h: int = 0
-
-	if img_path != "" and ResourceLoader.exists(img_path):
-		var tex = ResourceLoader.load(img_path, "", ResourceLoader.CACHE_MODE_REUSE)
-		if tex is Texture2D:
-			illust_tex = tex
-			img_w = tex.get_width()
-			img_h = tex.get_height()
-
-	if illust_tex == null:
+	if _loading_textures.has(pic_id):
 		return
 
-	var base_path = img_path.get_basename()
-	var pixel_path = base_path + "_nonogram_pixel.jpg"
-	if ResourceLoader.exists(pixel_path):
-		var tex = ResourceLoader.load(pixel_path, "", ResourceLoader.CACHE_MODE_REUSE)
-		if tex is Texture2D:
-			pixel_tex = tex
+	if img_path != "" and ResourceLoader.exists(img_path):
+		ResourceLoader.load_threaded_request(img_path, "", false)
+		_loading_textures[pic_id] = {
+			"img_path": img_path,
+			"picture": picture,
+			"state": "loading_illust",
+			"illust_tex": null,
+			"pixel_tex": null,
+			"ctx": {}
+		}
+		if not _pending_display:
+			_pending_display = true
+			_process_texture_loading.call_deferred()
 
-	_texture_cache[pic_id] = {
-		"illust_tex": illust_tex,
-		"pixel_tex": pixel_tex,
-		"img_w": img_w,
-		"img_h": img_h
-	}
-	_texture_lru.append(pic_id)
+func _process_texture_loading() -> void:
+	_pending_display = false
+	var keys = _loading_textures.keys()
+	for pic_id in keys:
+		if not _loading_textures.has(pic_id):
+			continue
+		var info = _loading_textures[pic_id]
+		var state: String = info.get("state", "")
 
-	while _texture_lru.size() > MAX_CACHED_PICTURES:
-		var evict_id = _texture_lru.pop_front()
-		_texture_cache.erase(evict_id)
+		if state == "loading_illust":
+			var img_path: String = info["img_path"]
+			var status = ResourceLoader.load_threaded_get_status(img_path)
+			if status == ResourceLoader.THREAD_LOAD_LOADED:
+				var illust_tex = ResourceLoader.load_threaded_get(img_path) as Texture2D
+				if illust_tex:
+					info["illust_tex"] = illust_tex
+					var picture: Dictionary = info["picture"]
+					var pixel_path = picture.get("pixel_image", "")
+					if pixel_path == "":
+						pixel_path = img_path.get_basename() + "_nonogram_pixel.jpg"
+					if pixel_path != "" and ResourceLoader.exists(pixel_path):
+						ResourceLoader.load_threaded_request(pixel_path, "", false)
+						info["state"] = "loading_pixel"
+						info["pixel_path"] = pixel_path
+					else:
+						info["state"] = "done"
+				else:
+					info["state"] = "done"
+			elif status == ResourceLoader.THREAD_LOAD_FAILED:
+				info["state"] = "done"
+		elif state == "loading_pixel":
+			var pixel_path: String = info.get("pixel_path", "")
+			var status = ResourceLoader.load_threaded_get_status(pixel_path)
+			if status == ResourceLoader.THREAD_LOAD_LOADED:
+				var pixel_tex = ResourceLoader.load_threaded_get(pixel_path) as Texture2D
+				info["pixel_tex"] = pixel_tex
+				info["state"] = "done"
+			elif status == ResourceLoader.THREAD_LOAD_FAILED:
+				info["state"] = "done"
+
+		if info.get("state", "") == "done":
+			var illust_tex: Texture2D = info.get("illust_tex")
+			if illust_tex:
+				_texture_cache[pic_id] = {
+					"illust_tex": illust_tex,
+					"pixel_tex": info.get("pixel_tex"),
+					"img_w": illust_tex.get_width(),
+					"img_h": illust_tex.get_height()
+				}
+				_texture_lru.append(pic_id)
+				_evict_texture_cache()
+			_loading_textures.erase(pic_id)
+
+	if not _loading_textures.is_empty():
+		_pending_display = true
+		await get_tree().process_frame
+		_process_texture_loading()

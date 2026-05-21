@@ -1,0 +1,247 @@
+{
+  "album_id": "daily_items",
+  "pictures": [
+    {
+      "id": "daily_items_000",
+      "title": "杯子",
+      "summary": "清晨的第一缕阳光透过窗帘，杯中的咖啡正冒着热气",
+      "full_text": "清晨的第一缕阳光透过窗帘，杯中的咖啡正冒着热气。杯子是一把打开日常的钥匙，用简单的线条诉说着生活的温度。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_000.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_000"],
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_000_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_001",
+      "title": "书本",
+      "summary": "翻开一本书，就是打开一扇通往世界的窗户",
+      "full_text": "翻开一本书，就是打开一扇通往世界的窗户。每一页都是一个新世界，每一行文字都是一次心灵的旅行。书本藏着知识的重量与智慧的光芒。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_001.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_001"],
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_001_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_002",
+      "title": "雨伞",
+      "summary": "雨天的诗篇，晴天的风景",
+      "full_text": "雨天的诗篇，晴天的风景。这把小小的雨伞，承载着遮挡风雨的使命，也撑起了心中那片不被淋湿的天空。雨伞描绘的是庇护与依靠。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_002.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_002"],
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_002_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_004",
+      "title": "花朵",
+      "summary": "春天来了，花儿竞相绽放",
+      "full_text": "春天来了，花儿竞相绽放。每一朵花都是大自然的微笑，每一片花瓣都承载着生命的希望。花朵散发着芬芳的气息与生命的力量。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_004.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_004"],
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_004_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_005",
+      "title": "手机",
+      "summary": "口袋里的宇宙，掌心中的世界",
+      "full_text": "口袋里的宇宙，掌心中的世界。这块小小的屏幕连接着人与人，也连接着过去与未来。这个图形是数字时代的魔法盒子。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_005.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_005"],
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_005_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_007",
+      "title": "帽子",
+      "summary": "戴上一顶帽子，世界似乎变得不一样了",
+      "full_text": "戴上一顶帽子，世界似乎变得不一样了。帽子是身份的象征，也是心情的表达。这个图形是头顶上的一道风景线。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_007.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_007"],
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_007_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_008",
+      "title": "鞋子",
+      "summary": "鞋子知道我们走过的每一段路",
+      "full_text": "鞋子知道我们走过的每一段路，见过多少人，去过多少地方。这个图形丈量着人生的每一步，也承载着远方的梦想。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_008.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_008"],
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_008_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_009",
+      "title": "时钟",
+      "summary": "时间是一条单行道，而时钟是指引方向的明灯",
+      "full_text": "时间是一条单行道，而时钟是指引方向的明灯。它提醒我们每一刻都值得珍惜。这个图形在滴答声中诉说着永恒。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_009.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_009"],
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_009_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_010",
+      "title": "信封",
+      "summary": "信封里装着的不仅是文字，更是思念与牵挂",
+      "full_text": "信封里装着的不仅是文字，更是思念、祝福与牵挂。在电子邮件的时代，手写的信更显珍贵。这个图形承载着纸短情长的温度。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_010.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_010"],
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_010_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_011",
+      "title": "星星",
+      "summary": "仰望星空，你是否看见了自己的梦想",
+      "full_text": "仰望星空，你是否看见了自己的梦想？每一颗星星都是一个故事，照亮黑夜也照亮心灵。这个图形是夜空中最温柔的光芒。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_011.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_011"],
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_011_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_012",
+      "title": "笑脸",
+      "summary": "微笑是最美的语言",
+      "full_text": "微笑是最美的语言，不需要翻译就能传递温暖。一个微笑可以治愈心灵，可以拉近距离。这个图形是世界上最通用的表情。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_012.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_012"],
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_012_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_013",
+      "title": "气球",
+      "summary": "童年记忆里，气球是最快乐的符号",
+      "full_text": "童年记忆里，气球是最快乐的符号。它代表着自由、喜悦和对天空的向往。这个图形轻轻飘向云端，带走所有烦恼。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_013.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_013"],
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_013_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_014",
+      "title": "房子",
+      "summary": "家不只是一栋建筑，更是心灵的港湾",
+      "full_text": "家不只是一栋建筑，更是心灵的港湾。每一扇窗户都透出温暖的光，每一扇门都欢迎归来的人。这个图形是归属感的最佳诠释。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_014.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_014"],
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_014_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_015",
+      "title": "汽车",
+      "summary": "四轮承载着自由的梦想",
+      "full_text": "四轮承载着自由的梦想，一路向前，去往任何想去的地方。它见证着沿途的风景，也见证着人生的旅程。这个图形是速度与远方的诗篇。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_015.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_015"],
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_015_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_016",
+      "title": "树木",
+      "summary": "年轮记录着岁月，枝叶诉说着生命",
+      "full_text": "年轮记录着岁月，枝叶诉说着生命。每棵树都有自己的故事，根深深扎入土地，枝叶伸向天空。这个图形是时间与生命的见证者。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_016.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_016"],
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_016_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_017",
+      "title": "月亮",
+      "summary": "弯弯的月牙挂在夜空，勾起多少思乡的情愫",
+      "full_text": "弯弯的月牙挂在夜空，勾起多少思乡的情愫。它是黑夜的眼睛，温柔地注视着人间。月牙是夜空中最诗意的存在。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_017.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_017"],
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_017_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_018",
+      "title": "云朵",
+      "summary": "天空的画布，云朵是最自由的画家",
+      "full_text": "天空的画布，云朵是最自由的画家。它一会儿变成小兔，一会儿变成棉絮。云朵是童心的最好寄托，也是想象力的翅膀。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_018.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_018"],
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_018_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_019",
+      "title": "心形",
+      "summary": "爱是人类最美的语言，心形是最直接的表达",
+      "full_text": "爱是人类最美的语言，心形是最直接的表达。一颗红心跳动着最真挚的情感。心形是所有美好情感的象征。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_019.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_019"],
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_019_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_020",
+      "title": "蝴蝶",
+      "summary": "化茧成蝶，是生命最美的蜕变",
+      "full_text": "化茧成蝶，是生命最美的蜕变。蝴蝶扇动着翅膀，带来了春天的气息。蝴蝶是自由与美丽的化身，也是希望的使者。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_020.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_020"],
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_020_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_022",
+      "title": "蛋糕",
+      "summary": "生日蜡烛的光芒照亮了又一年的人生",
+      "full_text": "生日蜡烛的光芒照亮了又一年的人生，蛋糕的甜蜜诉说着祝福。蛋糕是成长与庆祝的甜蜜时刻。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_022.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_022"],
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_022_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_023",
+      "title": "圣诞树",
+      "summary": "圣诞树亮起来了彩灯，挂满了礼物与欢笑",
+      "full_text": "圣诞树亮起来了彩灯，挂满了礼物与欢笑。这是冬日里最温暖的光，是年末最期待的节日符号。圣诞树是温馨与欢乐的象征。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_023.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_023"],
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_023_nonogram_pixel.jpg"
+    },
+    {
+      "id": "daily_items_024",
+      "title": "太阳",
+      "summary": "太阳是万物之源，照亮了世界也温暖了人心",
+      "full_text": "太阳是万物之源，照亮了世界也温暖了人心。没有太阳就没有生命，也就没有希望。太阳是光明与力量的永恒源泉。",
+      "image": "res://assets/images/illustrations/daily_items/daily_items_024.jpg",
+      "image_grid": {"x": 1, "y": 1},
+      "puzzles": ["daily_items_024"],
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/daily_items/daily_items_024_nonogram_pixel.jpg"
+    }
+  ]
+}

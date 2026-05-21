@@ -1,49 +1,75 @@
 {
   "bookshelves": [
     {
+      "id": "beginner_paradise",
+      "name": "启蒙乐园",
+      "icon": "res://assets/images/icons/bookshelf_beginner.png",
+      "order": 0
+    },
+    {
       "id": "humanities_history",
       "name": "人文历史",
       "icon": "res://assets/images/icons/bookshelf_humanities.png",
-      "order": 0
+      "order": 1
     },
     {
       "id": "art_creativity",
       "name": "艺术创作",
       "icon": "res://assets/images/icons/bookshelf_art.png",
-      "order": 1
+      "order": 2
     },
     {
       "id": "nature_geography",
       "name": "自然地理",
       "icon": "res://assets/images/icons/bookshelf_nature.png",
-      "order": 2
+      "order": 3
     },
     {
       "id": "biology_world",
       "name": "生物世界",
       "icon": "res://assets/images/icons/bookshelf_biology.png",
-      "order": 3
+      "order": 4
     },
     {
       "id": "life_society",
       "name": "生活社会",
       "icon": "res://assets/images/icons/bookshelf_life.png",
-      "order": 4
+      "order": 5
     },
     {
       "id": "technology_industry",
       "name": "科技工业",
       "icon": "res://assets/images/icons/bookshelf_tech.png",
-      "order": 5
+      "order": 6
     },
     {
       "id": "general_materials",
       "name": "综合素材",
       "icon": "res://assets/images/icons/bookshelf_general.png",
-      "order": 6
+      "order": 7
     }
   ],
   "albums": [
+    {
+      "id": "geometric_shapes",
+      "name": "几何图形",
+      "description": "基础几何图形入门，从简单到复杂逐步掌握数织技巧",
+      "bookshelf_id": "beginner_paradise",
+      "icon": "res://assets/images/icons/album_geometric_shapes.png",
+      "unlock_condition": null,
+      "bgm": "res://assets/audio/music/geometric_shapes.mp3",
+      "order": 0
+    },
+    {
+      "id": "daily_items",
+      "name": "日常物品",
+      "description": "日常物品图鉴，从简单到复杂逐步掌握数织技巧",
+      "bookshelf_id": "beginner_paradise",
+      "icon": "res://assets/images/icons/album_daily_items.png",
+      "unlock_condition": "complete_album:geometric_shapes",
+      "bgm": "res://assets/audio/music/daily_items.mp3",
+      "order": 1
+    },
     {
       "id": "chinese_history",
       "name": "中国通史",
@@ -51,6 +77,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_chinese_history.png",
       "unlock_condition": null,
+      "bgm": "res://assets/audio/music/chinese_history.mp3",
       "order": 0
     },
     {
@@ -60,6 +87,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_world_history.png",
       "unlock_condition": "complete_album:chinese_history",
+      "bgm": "res://assets/audio/music/world_history.mp3",
       "order": 1
     },
     {
@@ -69,6 +97,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_asian_civilization.png",
       "unlock_condition": "complete_album:world_history",
+      "bgm": "res://assets/audio/music/asian_civilization.mp3",
       "order": 2
     },
     {
@@ -78,6 +107,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_european_civilization.png",
       "unlock_condition": "complete_album:asian_civilization",
+      "bgm": "res://assets/audio/music/european_civilization.mp3",
       "order": 3
     },
     {
@@ -87,6 +117,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_africa_america.png",
       "unlock_condition": "complete_album:european_civilization",
+      "bgm": "res://assets/audio/music/africa_america_civilization.mp3",
       "order": 4
     },
     {
@@ -96,6 +127,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_war_military.png",
       "unlock_condition": "complete_album:africa_america_civilization",
+      "bgm": "res://assets/audio/music/war_military.mp3",
       "order": 5
     },
     {
@@ -105,6 +137,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_political_system.png",
       "unlock_condition": "complete_album:war_military",
+      "bgm": "res://assets/audio/music/political_system.mp3",
       "order": 6
     },
     {
@@ -114,6 +147,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_economic_trade.png",
       "unlock_condition": "complete_album:political_system",
+      "bgm": "res://assets/audio/music/economic_trade.mp3",
       "order": 7
     },
     {
@@ -123,6 +157,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_world_heritage.png",
       "unlock_condition": "complete_album:economic_trade",
+      "bgm": "res://assets/audio/music/world_heritage.mp3",
       "order": 8
     },
     {
@@ -132,6 +167,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_chinese_heritage.png",
       "unlock_condition": "complete_album:world_heritage",
+      "bgm": "res://assets/audio/music/chinese_heritage.mp3",
       "order": 9
     },
     {
@@ -141,6 +177,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_archaeology.png",
       "unlock_condition": "complete_album:chinese_heritage",
+      "bgm": "res://assets/audio/music/archaeology.mp3",
       "order": 10
     },
     {
@@ -150,6 +187,7 @@
       "bookshelf_id": "humanities_history",
       "icon": "res://assets/images/icons/album_historical_mysteries.png",
       "unlock_condition": "complete_album:archaeology",
+      "bgm": "res://assets/audio/music/historical_mysteries.mp3",
       "order": 11
     },
     {
@@ -159,6 +197,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_chinese_painting.png",
       "unlock_condition": "complete_album:chinese_history",
+      "bgm": "res://assets/audio/music/chinese_painting.mp3",
       "order": 0
     },
     {
@@ -168,6 +207,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_western_painting.png",
       "unlock_condition": "complete_album:chinese_painting",
+      "bgm": "res://assets/audio/music/western_painting.mp3",
       "order": 1
     },
     {
@@ -177,6 +217,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_sculpture.png",
       "unlock_condition": "complete_album:western_painting",
+      "bgm": "res://assets/audio/music/sculpture.mp3",
       "order": 2
     },
     {
@@ -186,6 +227,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_photography.png",
       "unlock_condition": "complete_album:sculpture",
+      "bgm": "res://assets/audio/music/photography.mp3",
       "order": 3
     },
     {
@@ -195,6 +237,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_architecture.png",
       "unlock_condition": "complete_album:photography",
+      "bgm": "res://assets/audio/music/architecture.mp3",
       "order": 4
     },
     {
@@ -204,6 +247,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_crafts.png",
       "unlock_condition": "complete_album:architecture",
+      "bgm": "res://assets/audio/music/crafts.mp3",
       "order": 5
     },
     {
@@ -213,6 +257,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_design.png",
       "unlock_condition": "complete_album:crafts",
+      "bgm": "res://assets/audio/music/design.mp3",
       "order": 6
     },
     {
@@ -222,6 +267,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_performing_arts.png",
       "unlock_condition": "complete_album:design",
+      "bgm": "res://assets/audio/music/performing_arts.mp3",
       "order": 7
     },
     {
@@ -231,6 +277,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_folk_traditional.png",
       "unlock_condition": "complete_album:performing_arts",
+      "bgm": "res://assets/audio/music/folk_traditional.mp3",
       "order": 8
     },
     {
@@ -240,6 +287,7 @@
       "bookshelf_id": "art_creativity",
       "icon": "res://assets/images/icons/album_contemporary_media.png",
       "unlock_condition": "complete_album:folk_traditional",
+      "bgm": "res://assets/audio/music/contemporary_media.mp3",
       "order": 9
     },
     {
@@ -249,6 +297,7 @@
       "bookshelf_id": "nature_geography",
       "icon": "res://assets/images/icons/album_mountains_plateaus.png",
       "unlock_condition": "complete_album:chinese_history",
+      "bgm": "res://assets/audio/music/mountains_plateaus.mp3",
       "order": 0
     },
     {
@@ -258,6 +307,7 @@
       "bookshelf_id": "nature_geography",
       "icon": "res://assets/images/icons/album_plains_basins.png",
       "unlock_condition": "complete_album:mountains_plateaus",
+      "bgm": "res://assets/audio/music/plains_basins.mp3",
       "order": 1
     },
     {
@@ -267,6 +317,7 @@
       "bookshelf_id": "nature_geography",
       "icon": "res://assets/images/icons/album_deserts_gobi.png",
       "unlock_condition": "complete_album:plains_basins",
+      "bgm": "res://assets/audio/music/deserts_gobi.mp3",
       "order": 2
     },
     {
@@ -276,6 +327,7 @@
       "bookshelf_id": "nature_geography",
       "icon": "res://assets/images/icons/album_rivers_lakes.png",
       "unlock_condition": "complete_album:deserts_gobi",
+      "bgm": "res://assets/audio/music/rivers_lakes.mp3",
       "order": 3
     },
     {
@@ -285,6 +337,7 @@
       "bookshelf_id": "nature_geography",
       "icon": "res://assets/images/icons/album_atmosphere.png",
       "unlock_condition": "complete_album:rivers_lakes",
+      "bgm": "res://assets/audio/music/atmosphere.mp3",
       "order": 4
     },
     {
@@ -294,6 +347,7 @@
       "bookshelf_id": "nature_geography",
       "icon": "res://assets/images/icons/album_geology.png",
       "unlock_condition": "complete_album:atmosphere",
+      "bgm": "res://assets/audio/music/geology.mp3",
       "order": 5
     },
     {
@@ -303,6 +357,7 @@
       "bookshelf_id": "nature_geography",
       "icon": "res://assets/images/icons/album_paleontology.png",
       "unlock_condition": "complete_album:geology",
+      "bgm": "res://assets/audio/music/paleontology.mp3",
       "order": 6
     },
     {
@@ -312,6 +367,7 @@
       "bookshelf_id": "nature_geography",
       "icon": "res://assets/images/icons/album_nature_reserves.png",
       "unlock_condition": "complete_album:paleontology",
+      "bgm": "res://assets/audio/music/nature_reserves.mp3",
       "order": 7
     },
     {
@@ -321,6 +377,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_mammals.png",
       "unlock_condition": "complete_album:chinese_history",
+      "bgm": "res://assets/audio/music/mammals.mp3",
       "order": 0
     },
     {
@@ -330,6 +387,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_birds.png",
       "unlock_condition": "complete_album:mammals",
+      "bgm": "res://assets/audio/music/birds.mp3",
       "order": 1
     },
     {
@@ -339,6 +397,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_reptiles.png",
       "unlock_condition": "complete_album:birds",
+      "bgm": "res://assets/audio/music/reptiles.mp3",
       "order": 2
     },
     {
@@ -348,6 +407,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_fish.png",
       "unlock_condition": "complete_album:reptiles",
+      "bgm": "res://assets/audio/music/fish.mp3",
       "order": 3
     },
     {
@@ -357,6 +417,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_insects.png",
       "unlock_condition": "complete_album:fish",
+      "bgm": "res://assets/audio/music/insects.mp3",
       "order": 4
     },
     {
@@ -366,6 +427,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_trees.png",
       "unlock_condition": "complete_album:insects",
+      "bgm": "res://assets/audio/music/trees.mp3",
       "order": 5
     },
     {
@@ -375,6 +437,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_flowers.png",
       "unlock_condition": "complete_album:trees",
+      "bgm": "res://assets/audio/music/flowers.mp3",
       "order": 6
     },
     {
@@ -384,6 +447,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_crops.png",
       "unlock_condition": "complete_album:flowers",
+      "bgm": "res://assets/audio/music/crops.mp3",
       "order": 7
     },
     {
@@ -393,6 +457,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_fungi.png",
       "unlock_condition": "complete_album:crops",
+      "bgm": "res://assets/audio/music/fungi.mp3",
       "order": 8
     },
     {
@@ -402,6 +467,7 @@
       "bookshelf_id": "biology_world",
       "icon": "res://assets/images/icons/album_ecosystems.png",
       "unlock_condition": "complete_album:fungi",
+      "bgm": "res://assets/audio/music/ecosystems.mp3",
       "order": 9
     },
     {
@@ -411,6 +477,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_fashion.png",
       "unlock_condition": "complete_album:chinese_history",
+      "bgm": "res://assets/audio/music/fashion.mp3",
       "order": 0
     },
     {
@@ -420,6 +487,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_food.png",
       "unlock_condition": "complete_album:fashion",
+      "bgm": "res://assets/audio/music/food.mp3",
       "order": 1
     },
     {
@@ -429,6 +497,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_housing.png",
       "unlock_condition": "complete_album:food",
+      "bgm": "res://assets/audio/music/housing.mp3",
       "order": 2
     },
     {
@@ -438,6 +507,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_transportation.png",
       "unlock_condition": "complete_album:housing",
+      "bgm": "res://assets/audio/music/transportation.mp3",
       "order": 3
     },
     {
@@ -447,6 +517,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_festivals.png",
       "unlock_condition": "complete_album:transportation",
+      "bgm": "res://assets/audio/music/festivals.mp3",
       "order": 4
     },
     {
@@ -456,6 +527,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_religion.png",
       "unlock_condition": "complete_album:festivals",
+      "bgm": "res://assets/audio/music/religion.mp3",
       "order": 5
     },
     {
@@ -465,6 +537,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_family.png",
       "unlock_condition": "complete_album:religion",
+      "bgm": "res://assets/audio/music/family.mp3",
       "order": 6
     },
     {
@@ -474,6 +547,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_workplace.png",
       "unlock_condition": "complete_album:family",
+      "bgm": "res://assets/audio/music/workplace.mp3",
       "order": 7
     },
     {
@@ -483,6 +557,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_education.png",
       "unlock_condition": "complete_album:workplace",
+      "bgm": "res://assets/audio/music/education.mp3",
       "order": 8
     },
     {
@@ -492,6 +567,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_sports.png",
       "unlock_condition": "complete_album:education",
+      "bgm": "res://assets/audio/music/sports.mp3",
       "order": 9
     },
     {
@@ -501,6 +577,7 @@
       "bookshelf_id": "life_society",
       "icon": "res://assets/images/icons/album_entertainment.png",
       "unlock_condition": "complete_album:sports",
+      "bgm": "res://assets/audio/music/entertainment.mp3",
       "order": 10
     },
     {
@@ -510,6 +587,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_health.png",
       "unlock_condition": "complete_album:chinese_history",
+      "bgm": "res://assets/audio/music/health.mp3",
       "order": 0
     },
     {
@@ -519,6 +597,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_math_physics.png",
       "unlock_condition": "complete_album:health",
+      "bgm": "res://assets/audio/music/math_physics.mp3",
       "order": 1
     },
     {
@@ -528,6 +607,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_chemistry_biology.png",
       "unlock_condition": "complete_album:math_physics",
+      "bgm": "res://assets/audio/music/chemistry_biology.mp3",
       "order": 2
     },
     {
@@ -537,6 +617,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_astronomy.png",
       "unlock_condition": "complete_album:chemistry_biology",
+      "bgm": "res://assets/audio/music/astronomy.mp3",
       "order": 3
     },
     {
@@ -546,6 +627,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_mechanical_electronic.png",
       "unlock_condition": "complete_album:astronomy",
+      "bgm": "res://assets/audio/music/mechanical_electronic.mp3",
       "order": 4
     },
     {
@@ -555,6 +637,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_energy.png",
       "unlock_condition": "complete_album:mechanical_electronic",
+      "bgm": "res://assets/audio/music/energy.mp3",
       "order": 5
     },
     {
@@ -564,6 +647,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_civil_engineering.png",
       "unlock_condition": "complete_album:energy",
+      "bgm": "res://assets/audio/music/civil_engineering.mp3",
       "order": 6
     },
     {
@@ -573,6 +657,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_information_technology.png",
       "unlock_condition": "complete_album:civil_engineering",
+      "bgm": "res://assets/audio/music/information_technology.mp3",
       "order": 7
     },
     {
@@ -582,6 +667,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_industrial_production.png",
       "unlock_condition": "complete_album:information_technology",
+      "bgm": "res://assets/audio/music/industrial_production.mp3",
       "order": 8
     },
     {
@@ -591,6 +677,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_agriculture_food.png",
       "unlock_condition": "complete_album:industrial_production",
+      "bgm": "res://assets/audio/music/agriculture_food.mp3",
       "order": 9
     },
     {
@@ -600,6 +687,7 @@
       "bookshelf_id": "technology_industry",
       "icon": "res://assets/images/icons/album_transport_industry.png",
       "unlock_condition": "complete_album:agriculture_food",
+      "bgm": "res://assets/audio/music/transport_industry.mp3",
       "order": 10
     },
     {
@@ -609,6 +697,7 @@
       "bookshelf_id": "general_materials",
       "icon": "res://assets/images/icons/album_abstract.png",
       "unlock_condition": "complete_album:chinese_history",
+      "bgm": "res://assets/audio/music/abstract.mp3",
       "order": 0
     },
     {
@@ -618,6 +707,7 @@
       "bookshelf_id": "general_materials",
       "icon": "res://assets/images/icons/album_symbols.png",
       "unlock_condition": "complete_album:abstract",
+      "bgm": "res://assets/audio/music/symbols.mp3",
       "order": 1
     },
     {
@@ -627,6 +717,7 @@
       "bookshelf_id": "general_materials",
       "icon": "res://assets/images/icons/album_textures.png",
       "unlock_condition": "complete_album:symbols",
+      "bgm": "res://assets/audio/music/textures.mp3",
       "order": 2
     },
     {
@@ -636,6 +727,7 @@
       "bookshelf_id": "general_materials",
       "icon": "res://assets/images/icons/album_miscellaneous.png",
       "unlock_condition": "complete_album:textures",
+      "bgm": "res://assets/audio/music/miscellaneous.mp3",
       "order": 3
     }
   ]

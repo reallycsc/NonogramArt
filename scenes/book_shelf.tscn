@@ -3,7 +3,6 @@
 [ext_resource type="Script" uid="uid://8d0dh2too1e" path="res://scripts/ui/book_shelf.gd" id="1_dfexf"]
 [ext_resource type="Texture2D" uid="uid://gcstd03niqkb" path="res://assets/images/ui/bookshelf/bookshelf_bg.jpg" id="2_dfexf"]
 [ext_resource type="Texture2D" uid="uid://bb0swdnygkro7" path="res://assets/images/ui/back_button.png" id="3_ma18u"]
-[ext_resource type="VideoStream" uid="uid://cgulsiv44ram0" path="res://assets/images/ui/bookshelf/bookshelf_bg.ogv" id="3_ol580"]
 [ext_resource type="PackedScene" uid="uid://chgcpflkirnwe" path="res://scenes/book_button.tscn" id="3_w3vyw"]
 [ext_resource type="Texture2D" uid="uid://dl21gtkbq8vbh" path="res://assets/images/ui/back_button_pressed.png" id="4_g0x57"]
 [ext_resource type="Texture2D" uid="uid://b0i3m271x717t" path="res://assets/images/ui/back_button_hover.png" id="5_yqlnh"]
@@ -22,7 +21,6 @@
 [ext_resource type="Texture2D" uid="uid://chtsxgh2gs2js" path="res://assets/images/ui/right_btn_pressed.png" id="13_vybtj"]
 [ext_resource type="Texture2D" uid="uid://dlhx7s1qgcvjf" path="res://assets/images/ui/right_btn_hover.png" id="14_gjber"]
 [ext_resource type="Texture2D" uid="uid://bj7thwo8d2e1i" path="res://assets/images/ui/bookshelf/bookshelf_bg_landscape.jpg" id="17_kiyxp"]
-[ext_resource type="VideoStream" uid="uid://gsexwrl7cl5y" path="res://assets/images/ui/bookshelf/bookshelf_bg_landscape.ogv" id="19_vybtj"]
 [ext_resource type="PackedScene" uid="uid://8yq7jhts2jxh" path="res://scenes/exit_confirm_popup.tscn" id="20_exit_popup"]
 
 [node name="BookShelf" type="Control" unique_id=1605551044]
@@ -33,6 +31,7 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_dfexf")
+metadata/_edit_horizontal_guides_ = [35.0]
 
 [node name="PortraitUI" type="Control" parent="." unique_id=768950018]
 visible = false
@@ -54,7 +53,6 @@ layout_mode = 0
 offset_right = 720.0
 offset_bottom = 1280.0
 mouse_filter = 2
-stream = ExtResource("3_ol580")
 autoplay = true
 loop = true
 
@@ -63,12 +61,12 @@ layout_mode = 1
 anchors_preset = 5
 anchor_left = 0.5
 anchor_right = 0.5
-offset_left = -96.0
-offset_top = 170.0
-offset_right = 96.0
-offset_bottom = 237.0
+offset_left = -87.0
+offset_top = 177.0
+offset_right = 105.0
+offset_bottom = 244.0
 grow_horizontal = 2
-pivot_offset = Vector2(80, 28)
+pivot_offset_ratio = Vector2(0.5, 0.5)
 theme_override_font_sizes/font_size = 40
 text = "书架标题"
 horizontal_alignment = 1
@@ -92,42 +90,46 @@ pivot_offset_ratio = Vector2(0.5, 0.5)
 mouse_filter = 2
 
 [node name="Item1" type="TextureRect" parent="PortraitUI/Items" unique_id=340223518]
+visible = false
 layout_mode = 0
-offset_top = -85.77783
+offset_top = -64.66675
 offset_right = 454.0
-offset_bottom = 43.222168
+offset_bottom = 64.33325
 texture = ExtResource("7_0gvcf")
 
 [node name="Item2" type="TextureRect" parent="PortraitUI/Items" unique_id=1210872896]
+visible = false
 layout_mode = 0
-offset_top = 86.5556
+offset_top = 112.111145
 offset_right = 454.0
-offset_bottom = 242.5556
+offset_bottom = 268.11115
 texture = ExtResource("8_2nosd")
 
 [node name="Item3" type="TextureRect" parent="PortraitUI/Items" unique_id=1052334453]
+visible = false
 layout_mode = 0
 offset_left = 0.333292
-offset_top = 330.8888
+offset_top = 363.11102
 offset_right = 454.33328
-offset_bottom = 447.8888
+offset_bottom = 480.11102
 texture = ExtResource("10_h6irh")
 
 [node name="Item4" type="TextureRect" parent="PortraitUI/Items" unique_id=490977335]
+visible = false
 layout_mode = 0
-offset_top = 500.00018
+offset_top = 536.6669
 offset_right = 454.0
-offset_bottom = 653.0002
+offset_bottom = 689.6669
 texture = ExtResource("9_h6vwf")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="PortraitUI" unique_id=365469575]
 layout_mode = 0
 offset_left = 117.0
-offset_top = 263.0
+offset_top = 275.0
 offset_right = 604.0
-offset_bottom = 1182.0
+offset_bottom = 1242.0
 size_flags_vertical = 3
-theme_override_constants/separation = -4
+theme_override_constants/separation = 2
 
 [node name="HBoxContainer" type="HBoxContainer" parent="PortraitUI/VBoxContainer" unique_id=1309764569]
 layout_mode = 2
@@ -194,7 +196,6 @@ layout_mode = 0
 offset_right = 720.0
 offset_bottom = 1280.0
 mouse_filter = 2
-stream = ExtResource("19_vybtj")
 autoplay = true
 loop = true
 
@@ -204,12 +205,12 @@ anchors_preset = 5
 anchor_left = 0.5
 anchor_right = 0.5
 offset_left = -96.0
-offset_top = 100.0
+offset_top = 87.0
 offset_right = 96.0
-offset_bottom = 167.0
+offset_bottom = 154.0
 grow_horizontal = 2
 pivot_offset = Vector2(80, 28)
-theme_override_font_sizes/font_size = 32
+theme_override_font_sizes/font_size = 28
 text = "书架标题"
 horizontal_alignment = 1
 vertical_alignment = 1
@@ -234,34 +235,34 @@ mouse_filter = 2
 [node name="Item1" type="TextureRect" parent="LandscapeUI/Items" unique_id=2110104151]
 visible = false
 layout_mode = 0
-offset_top = -23.181824
+offset_top = -35.908936
 offset_right = 454.0
-offset_bottom = 105.81818
+offset_bottom = 93.091064
 texture = ExtResource("7_0gvcf")
 
 [node name="Item2" type="TextureRect" parent="LandscapeUI/Items" unique_id=827203121]
 visible = false
 layout_mode = 0
-offset_top = 130.5152
+offset_top = 125.06067
 offset_right = 454.0
-offset_bottom = 286.5152
+offset_bottom = 281.06067
 texture = ExtResource("8_2nosd")
 
 [node name="Item3" type="TextureRect" parent="LandscapeUI/Items" unique_id=668076464]
 visible = false
 layout_mode = 0
 offset_left = 0.333292
-offset_top = 349.39386
+offset_top = 354.8484
 offset_right = 454.33328
-offset_bottom = 466.39386
+offset_bottom = 471.8484
 texture = ExtResource("10_h6irh")
 
 [node name="Item4" type="TextureRect" parent="LandscapeUI/Items" unique_id=1049693539]
 visible = false
 layout_mode = 0
-offset_top = 493.9395
+offset_top = 512.1216
 offset_right = 454.0
-offset_bottom = 646.9395
+offset_bottom = 665.1216
 texture = ExtResource("9_h6vwf")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="LandscapeUI" unique_id=1933717796]
@@ -271,16 +272,16 @@ anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
-offset_left = -243.5
-offset_top = -396.0
-offset_right = 243.5
-offset_bottom = 523.0
+offset_left = -320.5
+offset_top = -420.0
+offset_right = 320.5
+offset_bottom = 547.0
 grow_horizontal = 2
 grow_vertical = 2
 scale = Vector2(0.545, 0.545)
 pivot_offset_ratio = Vector2(0.5, 0.5)
 size_flags_vertical = 3
-theme_override_constants/separation = -4
+theme_override_constants/separation = 6
 
 [node name="HBoxContainer" type="HBoxContainer" parent="LandscapeUI/VBoxContainer" unique_id=470520214]
 layout_mode = 2

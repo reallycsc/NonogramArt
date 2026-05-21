@@ -10,16 +10,18 @@
 
 | 依赖 | 说明 |
 | ---- | ---- |
-| Python 3.11 | 运行生成脚本，路径 `C:\Python311\python.exe` |
+| Python 3.11 | 运行生成脚本 |
 | PIL/Pillow | 图片处理 |
 | NumPy | 数值计算 |
-| 生成脚本 | `tools/generate_albums_02_06_full.py` |
+| 生成脚本 | `tools/fix_all_dynamic_optimized.py`（最新优化版本） |
 
 ## 数据结构
 
 ### 图片配置文件
 
 `data/pictures/{album_id}.json` 中每张图片的配置：
+
+**image_grid = {x:3, y:2}（6分块）示例**：
 
 ```json
 {
@@ -34,6 +36,37 @@
     "chapter1_01_yuanmou_3",
     "chapter1_01_yuanmou_4",
     "chapter1_01_yuanmou_5"
+  ]
+}
+```
+
+**image_grid = {x:1, y:1}（1分块）示例**：
+
+```json
+{
+  "id": "geometric_shapes_000",
+  "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000.jpg",
+  "nonogram_pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000_nonogram_pixel.jpg",
+  "image_grid": { "x": 1, "y": 1 },
+  "puzzles": [
+    "geometric_shapes_000_0"
+  ]
+}
+```
+
+**image_grid = {x:2, y:2}（4分块）示例**：
+
+```json
+{
+  "id": "future_album_000",
+  "image": "res://assets/images/illustrations/future_album/future_album_000.jpg",
+  "nonogram_pixel_image": "res://assets/images/illustrations/future_album/future_album_000_nonogram_pixel.jpg",
+  "image_grid": { "x": 2, "y": 2 },
+  "puzzles": [
+    "future_album_000_0",
+    "future_album_000_1",
+    "future_album_000_2",
+    "future_album_000_3"
   ]
 }
 ```
@@ -74,32 +107,40 @@
 
 ## 关卡大小与难度映射
 
-| grid_size | difficulty | 拼接网格(3×2分块) | 适用章节 |
-| --------- | ---------- | ------------------ | -------- |
-| 5 | tutorial | 15×10 | 第1章 |
-| 10 | easy | 30×20 | 第2-5章 |
-| 15 | medium | 45×30 | 第6-9章 |
-| 20 | hard | 60×40 | 第10-11章 |
-| 25 | expert | 75×50 | 预留 |
+| grid_size | difficulty | 拼接网格(3×2分块) | 拼接网格(2×2分块) | 拼接网格(1×1分块) | 适用章节 |
+| --------- | ---------- | ------------------ | ------------------ | ------------------ | -------- |
+| 5 | tutorial | 15×10 | 10×10 | 5×5 | 第1章 |
+| 10 | easy | 30×20 | 20×20 | 10×10 | 第2-5章 |
+| 15 | medium | 45×30 | 30×30 | 15×15 | 第6-9章 |
+| 20 | hard | 60×40 | 40×40 | 20×20 | 第10-11章 |
+| 25 | expert | 75×50 | 50×50 | 25×25 | 预留 |
 
 ## 流程一：生成数织关卡与彩色像素图
 
 ### 运行命令
 
 ```powershell
-# 生成所有画册的关卡和像素图（约20-30分钟）
-# 同时生成：_nonogram_pixel.jpg（彩色像素图）、_0~5.json（关卡）、_nonogram.jpg（黑白数织图）
-C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
+# 生成单个画册的关卡
+python tools/fix_all_dynamic_optimized.py {album_id}
+
+# 示例：生成中国通史画册
+python tools/fix_all_dynamic_optimized.py chinese_history
+
+# 示例：生成世界历史画册
+python tools/fix_all_dynamic_optimized.py world_history
+
+# 指定范围生成（用于调试）
+python tools/fix_all_dynamic_optimized.py chinese_history --start 0 --end 10
 ```
 
 ### 完整算法流程
 
 ```
-原图 (2496×1664)
+原图
     │
     ▼
 1. 亮度提取 (extract_cell_brightness)
-    │  将原图按 image_grid(3×2) 分块
+    │  将原图按 image_grid(X×Y) 分块
     │  每块按 puzzle_size(N×N) 采样
     │  计算每个格子的平均亮度 → [(row, col, brightness), ...]
     │
@@ -126,34 +167,35 @@ C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
     │
     ▼
 6. 可解性验证 (can_solve)
-    │  约束传播算法
+    │  约束传播算法（_propagate）
+    │  深度1试探算法（_probe）
     │  返回是否纯逻辑可解
     │
     ▼
 7. 网格翻转修复 (make_solvable, 仅不可解时)
     │  翻转未知格子使关卡可纯逻辑求解
-    │  优先翻转亮度接近阈值的格子（视觉偏差最小）
-    │  小网格(≤10)：完整求解验证每个候选
-    │  大网格(>10)：快速约束传播评估候选
+    │  优先翻转"填充未知格"（solution=1但求解后仍为-1）
+    │  亮度接近阈值的格子优先（视觉偏差最小）
+    │  时间限制：10秒
     │
     ▼
-8. 提示格生成 (find_hint_cells, 仅翻转修复仍不可解时)
-    │  逐步揭示约束传播卡住的格子
-    │  每揭示一个 → 重新约束传播
-    │  直到完全可解或达到提示格上限
+8. 提示叉叉生成 (find_hint_cells, 兜底机制)
+    │  只标记 solution=0 的空白格（X标记）
+    │  贪心策略：选择解决未知格最多的位置
+    │  支持增量提示（在已有提示基础上继续添加）
+    │  提示数量限制：max(15, size²/2)
     │
     ▼
-同时输出：
-  - _nonogram_pixel.jpg（彩色像素图，直接生成）
-  - _0~5.json（关卡JSON文件）
-  - _nonogram.jpg（黑白数织图）
+输出关卡JSON文件
 ```
 
 ### 步骤详解
 
 #### 1. 亮度提取
 
-将原图按 `image_grid`（3列×2行）分成6个区域，每个区域对应一个关卡。在每个区域内，按 `puzzle_size`（N×N）采样，计算每个格子的平均亮度值。
+将原图按 `image_grid`（X列×Y行）分成 X×Y 个区域，每个区域对应一个关卡。在每个区域内，按 `puzzle_size`（N×N）采样，计算每个格子的平均亮度值。
+
+**image_grid = {x:3, y:2}（6分块）示例**：
 
 ```
 原图 (2496×1664)
@@ -164,6 +206,29 @@ C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
 │  block3  │  block4  │  block5  │
 │  5×5采样  │  5×5采样  │  5×5采样  │
 └──────────┴──────────┴──────────┘
+```
+
+**image_grid = {x:2, y:2}（4分块）示例**：
+
+```
+原图 (1280×1280)
+┌──────────┬──────────┐
+│  block0  │  block1  │  每块 640×640
+│  5×5采样  │  5×5采样  │  → 25个亮度值
+├──────────┼──────────┤
+│  block2  │  block3  │
+│  5×5采样  │  5×5采样  │
+└──────────┴──────────┘
+```
+
+**image_grid = {x:1, y:1}（1分块）示例**：
+
+```
+原图 (1280×1280)
+┌────────────────────┐
+│      block0        │  整图 1280×1280
+│      5×5采样        │  → 25个亮度值
+└────────────────────┘
 ```
 
 采样方式：将每块区域等分为 N×N 个子区域，计算每个子区域内所有像素的 RGB 平均值，再取三通道均值作为亮度。
@@ -220,11 +285,17 @@ C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
 
 使用约束传播（Constraint Propagation）+ 深度试探（Probing）算法验证关卡是否可纯逻辑求解：
 
-1. 为每行/列生成所有可能的排列（`_generate_line_arrangements`）
-2. 迭代过滤与已知格子矛盾的排列（`_propagate`）
-3. 对所有排列一致的格子确定其值
-4. 重复直到无新格子可确定
-5. 深度试探（`_probe`）：对未确定格尝试两种值，若某值导致矛盾则确定另一值；若两种值推出的结果有交集则确定交集部分
+1. 为每行/列生成所有可能的排列（`_generate_line_arrangements_cached`，带LRU缓存）
+2. 约束传播（`_propagate`）：迭代过滤与已知格子矛盾的排列，对所有排列一致的格子确定其值
+3. 深度试探（`_probe`）：对未确定格尝试两种值，若某值导致矛盾则确定另一值；若两种值推出的结果有交集则确定交集部分
+4. 时间限制：30秒（防止复杂关卡卡住）
+
+**自适应试探深度**：
+| 网格大小 | 最大试探深度 |
+| -------- | ------------ |
+| ≤10×10 | max_depth=3 |
+| ≤15×15 | max_depth=2 |
+| >15×15 | max_depth=1 |
 
 **重要**：`can_solve` 仅用于判断是否需要修复，**不修改解网格**。解始终使用从原图生成的 `adjusted_grid`（或翻转修复后的网格）。
 
@@ -237,19 +308,24 @@ C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
 
 **算法流程**：
 1. 运行 `can_solve` 获取当前未确定的格子列表
-2. 对每个候选格子（最多10个），翻转后重新计算线索和可解性
-3. 选择使"剩余未知格子数"最少的翻转（评分最优）
-4. 若翻转使关卡完全可解，优先选择该翻转
-5. 翻转后修复可能产生的空行/空列
-6. 重复直到可解或达到翻转上限
+2. 优先收集"填充未知格"（solution=1 但求解后仍为 -1 的格子），这些格子翻转后可以标记为提示叉叉
+3. 对候选格子按亮度接近阈值的程度排序（视觉偏差最小）
+4. 两阶段评估：
+   - 阶段1：快速约束传播筛选（`_quick_propagate`）
+   - 阶段2：深度试探精确评估（`_count_unknown_after_solve`）
+5. 选择使"剩余未知格子数"最少的翻转（评分最优）
+6. 翻转后修复可能产生的空行/空列（`_fix_empty_full_lines`）
+7. 重复直到可解或达到翻转上限
 
 **翻转上限策略**：
-| 网格大小 | 最大翻转数 | 评估方式 |
+| 网格大小 | 最大翻转数 | 时间限制 |
 | -------- | ---------- | -------- |
-| ≤10×10 | size² // 4 | 完整 `can_solve` 验证 |
-| >10×10 | size | 快速 `_quick_propagate` 评估 |
+| ≤10×10 | size²/3 | 10秒 |
+| >10×10 | size²/3 | 10秒 |
 
-**亮度惩罚**：翻转时优先选择亮度接近阈值的格子（`brightness_penalty = brightness / 255 * 0.1`），使视觉偏差最小。
+**亮度惩罚**：翻转时优先选择亮度接近阈值的格子（`brightness_penalty = abs(brightness - threshold) / threshold`），使视觉偏差最小。
+
+**填充格奖励**：优先翻转填充格而非空白格，因为填充格翻转后可以标记为提示叉叉（`filled_bonus = -size * 0.5`）。
 
 #### 8. 提示叉叉生成（兜底机制）
 
@@ -257,24 +333,29 @@ C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
 
 **设计原则**：提示叉叉只标记 solution=0 的格子（空白格），游戏初始化时这些格子显示为X标记状态，告诉玩家"这个格子一定是空的"。不标记 solution=1 的填充格，避免直接揭示答案。
 
-1. 找到约束传播卡住的格子（值为-1）
-2. 筛选出 solution=0 的卡住格子（空白格），这些是候选提示叉叉
-3. 按所在行列的未确定格子数排序（少的优先，约束传播效果更强）
-4. 逐一标记为X，每标记一个后重新约束传播
-5. 跳过已被传播确定的格子
-6. 直到完全可解或达到提示叉叉上限
+**算法流程**：
+1. 初始化网格，将已有提示叉叉设为已知空格（值为0）
+2. 运行约束传播和深度试探
+3. 如果完全可解，结束
+4. 找到所有 solution=0 的未知格（空白格候选）
+5. 贪心评估：选择所在行列未确定格最少的格子（约束效果最强）
+6. 逐一标记为提示叉叉，每标记一个后重新约束传播
+7. 跳过已被传播确定的格子
+8. 直到完全可解或达到提示叉叉上限
 
-提示叉叉上限：`max(15, size × size // 5)`
+**提示叉叉上限**：`max(15, size × size // 2)`
 
 | 关卡大小 | 提示叉叉上限 |
 | -------- | ---------- |
 | 5×5 | 15 |
-| 10×10 | 20 |
-| 15×15 | 45 |
-| 20×20 | 80 |
-| 25×25 | 125 |
+| 10×10 | 50 |
+| 15×15 | 112 |
+| 20×20 | 200 |
+| 25×25 | 312 |
 
-**增强策略**：当逐格贪心无法推进时，评估整行/列的揭示效果，选择能推进最多推理的行/列一次性揭示其中的空白格。
+**支持增量提示**：`find_hint_cells` 函数支持 `existing_hints` 参数，在已有提示基础上继续添加，避免重复。
+
+**去重机制**：保存前对 hint_cells 去重，防止重试循环中重复添加相同的提示格。
 
 ### 输出格式
 
@@ -293,7 +374,6 @@ C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
 | OK | 纯逻辑可解（无需提示叉叉） |
 | OK flips=N | 纯逻辑可解（翻转了N个格子） |
 | HINTS(n) | 需要n个提示叉叉，可完全求解 |
-| PARTIAL(n) | 达到提示叉叉上限仍未完全求解（需增加上限） |
 
 ### source_rect 计算
 
@@ -320,16 +400,20 @@ source_rect = {
 ### 算法流程
 
 ```
-关卡JSON文件(6个)
+关卡JSON文件(X×Y个)
     │
     ▼
 1. 读取每个关卡的 solution 网格
     │
     ▼
-2. 按 image_grid(3×2) 排列拼接
-    │  puzzle_0 | puzzle_1 | puzzle_2
-    │  ---------+----------+---------
-    │  puzzle_3 | puzzle_4 | puzzle_5
+2. 按 image_grid(X×Y) 排列拼接
+    │  3×2: puzzle_0 | puzzle_1 | puzzle_2
+    │       ---------+----------+---------
+    │       puzzle_3 | puzzle_4 | puzzle_5
+    │  2×2: puzzle_0 | puzzle_1
+    │       ---------+---------
+    │       puzzle_2 | puzzle_3
+    │  1×1: puzzle_0
     │
     ▼
 3. 生成黑白像素图
@@ -343,7 +427,7 @@ _nonogram.jpg
 
 ### 拼接规则
 
-6个关卡按 `image_grid`（3列×2行）排列：
+关卡按 `image_grid`（X列×Y行）排列：
 
 ```
 puzzle_index → (col, row)
@@ -368,6 +452,8 @@ y = (row * puzzle_size + cell_row) * pixel_size
 
 ### 各关卡大小对应的输出尺寸
 
+image_grid = {x:3, y:2}（6分块）：
+
 | puzzle_size | 拼接网格 | 图片尺寸 |
 | ----------- | -------- | -------- |
 | 5 | 15×10 | 600×400 |
@@ -376,30 +462,54 @@ y = (row * puzzle_size + cell_row) * pixel_size
 | 20 | 60×40 | 2400×1600 |
 | 25 | 75×50 | 3000×2000 |
 
+image_grid = {x:2, y:2}（4分块）：
+
+| puzzle_size | 拼接网格 | 图片尺寸 |
+| ----------- | -------- | -------- |
+| 5 | 10×10 | 400×400 |
+| 10 | 20×20 | 800×800 |
+| 15 | 30×30 | 1200×1200 |
+| 20 | 40×40 | 1600×1600 |
+| 25 | 50×50 | 2000×2000 |
+
+image_grid = {x:1, y:1}（1分块）：
+
+| puzzle_size | 拼接网格 | 图片尺寸 |
+| ----------- | -------- | -------- |
+| 5 | 5×5 | 200×200 |
+| 10 | 10×10 | 400×400 |
+| 15 | 15×15 | 600×600 |
+
 ## 完整操作流程
 
-### 从零开始生成所有关卡和拼接图
+### 生成单个画册的数织关卡
 
 ```powershell
-# 生成所有画册的关卡和像素图（约20-30分钟）
-# 同时生成：_nonogram_pixel.jpg（彩色像素图）、_0~5.json（关卡）、_nonogram.jpg（黑白数织图）
-C:\Python311\python.exe -u tools\generate_albums_02_06_full.py
+# 生成单个画册的关卡
+python tools/fix_all_dynamic_optimized.py {album_id}
+
+# 示例
+python tools/fix_all_dynamic_optimized.py chinese_history
 ```
 
-### 仅重新生成彩色像素图（从关卡配置）
+### 检查画册可解率
 
 ```powershell
-# 从已有关卡配置读取网格大小，重新生成彩色像素图
-C:\Python311\python.exe -u tools\regenerate_all_nonogram_pixel.py
+# 检查单个画册的可解率（快速版，使用深度1试探）
+python tools/check_chinese_fast.py
+
+# 修改脚本中的 base 变量可检查其他画册
 ```
 
 ## 动态难度设计
 
 ### 设计原则
 
-同一张图片的6个分块根据内容复杂度分配不同难度。内容复杂的区域使用更大的网格（更多细节），内容简单的区域使用更小的网格（更易完成）。
+同一张图片的多个分块根据内容复杂度分配不同难度。内容复杂的区域使用更大的网格（更多细节），内容简单的区域使用更小的网格（更易完成）。分块数量由 image_grid 决定（1×1=1块，2×2=4块，3×2=6块）。
 
 ### 难度分配规则
+
+6分块（image_grid = {x:3, y:2}）：
 
 | 图片难度 | 低复杂度分块 | 中复杂度分块 | 高复杂度分块 |
 | -------- | ------------ | ------------ | ------------ |
@@ -407,6 +517,23 @@ C:\Python311\python.exe -u tools\regenerate_all_nonogram_pixel.py
 | 15×15 | 5×5 | 10×10 | 15×15 |
 | 20×20 | 10×10 | 15×15 | 20×20 |
 | 25×25 | 15×15 | 20×20 | 25×25 |
+
+4分块（image_grid = {x:2, y:2}）：
+
+| 图片难度 | 低复杂度分块 | 中复杂度分块 | 高复杂度分块 |
+| -------- | ------------ | ------------ | ------------ |
+| 10×10 | 5×5 | 10×10 | 10×10 |
+| 15×15 | 5×5 | 10×10 | 15×15 |
+| 20×20 | 10×10 | 15×15 | 20×20 |
+| 25×25 | 15×15 | 20×20 | 25×25 |
+
+1分块（image_grid = {x:1, y:1}）：
+
+| 图片难度 | 该分块难度 |
+| -------- | ---------- |
+| 5×5 | 5×5 |
+| 10×10 | 10×10 |
+| 15×15 | 15×15 |
 
 ### 复杂度计算 (analyze_block_complexity)
 
@@ -422,18 +549,42 @@ def analyze_block_complexity(img, grid_x, grid_y, block_index, sample_size=20):
 
 ### 动态难度分配流程 (get_difficulty_sizes)
 
+根据 image_grid 的分块数量选择对应的难度分配函数：
+
 ```python
-def get_difficulty_sizes(max_size):
-    if max_size <= 5:
-        return [5, 5, 5, 5, 5, 5]           # 全部新手难度
-    elif max_size <= 10:
-        return [5, 5, 5, 10, 10, 10]       # 2种难度
-    elif max_size <= 15:
-        return [5, 5, 10, 10, 15, 15]       # 3种难度
-    elif max_size <= 20:
-        return [10, 10, 15, 15, 20, 20]     # 3种难度
+def get_difficulty_sizes(max_size, num_blocks):
+    if num_blocks == 6:
+        return get_difficulty_sizes_6block(max_size)
+    elif num_blocks == 4:
+        return get_difficulty_sizes_4block(max_size)
+    elif num_blocks == 1:
+        return [max_size]
     else:
-        return [15, 15, 20, 20, 25, 25]     # 3种难度
+        raise ValueError(f"Unsupported num_blocks: {num_blocks}")
+
+def get_difficulty_sizes_6block(max_size):
+    if max_size <= 5:
+        return [5, 5, 5, 5, 5, 5]
+    elif max_size <= 10:
+        return [5, 5, 5, 10, 10, 10]
+    elif max_size <= 15:
+        return [5, 5, 10, 10, 15, 15]
+    elif max_size <= 20:
+        return [10, 10, 15, 15, 20, 20]
+    else:
+        return [15, 15, 20, 20, 25, 25]
+
+def get_difficulty_sizes_4block(max_size):
+    if max_size <= 5:
+        return [5, 5, 5, 5]
+    elif max_size <= 10:
+        return [5, 10, 10, 10]
+    elif max_size <= 15:
+        return [5, 10, 10, 15]
+    elif max_size <= 20:
+        return [10, 15, 15, 20]
+    else:
+        return [15, 20, 20, 25]
 ```
 
 ### 基础难度配置
@@ -462,15 +613,15 @@ def get_base_difficulty(album_id, pic_idx):
 
 ### 设计要求
 
-- **无分割线**：6个分块之间不绘制任何分割线，像素块紧密拼接
+- **无分割线**：多个分块之间不绘制任何分割线，像素块紧密拼接
 - **无白边**：使用浮点数精确计算像素块坐标（`round()`），确保每个像素块无缝覆盖，不留白色缝隙
 - **黑色画布初始化**：使用 `np.zeros()` 初始化画布，避免白色底色透出
 
 ### 像素块坐标计算
 
 ```python
-cell_w = img_width / GRID_X   # 浮点数精确计算
-cell_h = img_height / GRID_Y
+cell_w = img_width / image_grid_x   # 浮点数精确计算
+cell_h = img_height / image_grid_y
 
 pixel_w = block_w / puzzle_size
 pixel_h = block_h / puzzle_size
@@ -502,22 +653,24 @@ dst_y1 = int(round(y0_f + (r + 1) * pixel_h))
 | 空行/全满行无意义 | 排名法可能产生全空或全满的行列 | fix_empty_and_full_lines按亮度排名修复 |
 | can_solve返回部分解 | 约束传播未完全确定时返回含-1的网格 | 始终使用adjusted_grid作为最终解，can_solve仅判断可解性 |
 | 提示格重复添加 | 约束传播已确定的格子被再次添加 | 添加 `if grid[r][c] != -1: continue` 跳过已确定格子 |
-| 大关卡提示格不足 | 固定上限15对20×20关卡不够 | 动态上限 `max(15, size*size//4)` |
-| **get_line_possibilities排列不足** | `max_start = length - pos - min_remaining - block` 多减了pos | 改为 `max_start = length - min_remaining - block`，pos已通过range下限处理 |
-| **can_solve误报可解** | 排列不足导致约束传播过早收敛 | 修复max_start公式后排列完整，约束传播正确 |
-| **5×5关卡需猜测** | 求解器bug掩盖了不可解问题 | 修复求解器 + make_solvable翻转修复 |
-| **数织像素图有白色分割线** | `gen_color_nonogram_pixel.py` 在分块间绘制灰色分割线 | 删除分割线绘制代码，6个分块紧密拼接 |
-| **数织像素图有白边/白色缝隙** | 整数除法 `cell_w = img_width // 3` 导致像素块之间有未覆盖的白色缝隙 | 改为浮点数计算 `cell_w = img_width / 3` + `round()` 精确坐标 + `np.zeros()` 黑色画布初始化 |
-| **大网格make_solvable极慢** | 每个翻转候选都运行完整can_solve | 小网格用完整验证，大网格用快速约束传播评估 |
+| 大关卡提示格不足 | 固定上限15对20×20关卡不够 | 动态上限 `max(15, size²//2)` |
+| 数织像素图有白色分割线 | 分块间绘制灰色分割线 | 删除分割线绘制代码，分块紧密拼接 |
+| 数织像素图有白边/白色缝隙 | 整数除法导致像素块之间有未覆盖的白色缝隙 | 浮点数计算 `cell_w = img_width / image_grid_x` + `round()` + `np.zeros()` |
+| **排列生成算法Bug** | `_generate_line_arrangements` 的 base case 使用 `start <= length` 判断，导致某些线索（如[1,2]在5格中）只生成1个排列而非3个 | 改为 `len(current) <= length`，直接检查当前排列的实际长度 |
+| **生成速度极慢** | 排列数量增加后，深度试探算法每步复制和过滤更多排列 | 禁用深度试探（`max_depth=0`），只使用约束传播，添加时间限制 |
+| **hint_cells重复** | 重试循环中重复调用 `find_hint_cells` 不知道已有提示格 | 新增 `existing_hints` 参数，支持增量添加；保存前去重 |
+| **fully_solvable检查逻辑错误** | 用 `len(hint_cells) < max_h` 判断可解性 | 新增 `can_solve_with_hints` 函数，正确验证含hint_cells的可解性 |
+| **生成时make_solvable超时** | 每个翻转候选都运行完整can_solve | 添加时间限制（10秒），减少评估候选数量 |
 
 ### 关键设计决策
 
 1. **排名法优于阈值法**：按亮度排名填充比固定阈值分割更能保留原图的视觉特征
 2. **动态填充率优于固定填充率**：颜色多的区域自然需要更多填充格
 3. **翻转修复优于提示叉叉**：翻转使关卡可纯逻辑求解，玩家无需预揭示信息；提示叉叉仅作兜底
-4. **大网格快速评估**：15×15+网格用`_quick_propagate`评估翻转候选，避免完整求解的指数级开销
-5. **提示叉叉策略**：只标记 solution=0 的空白格（显示为X），不标记填充格，避免直接揭示答案；优先标记约束传播效果最强的空白格（所在行列未确定格子最少的）
-6. **`_generate_line_arrangements`的max_start公式**：`max_start = length - min_remaining - block`，其中 `min_remaining = sum(blocks[clue_idx+1:]) + (num_blocks - clue_idx - 1)` 包含后续块的长度和间隔，pos通过`range(pos, max_start+1)`作为下限
+4. **排列生成必须完整**：`_generate_line_arrangements` 的 base case 必须使用 `len(current) <= length`，否则会导致约束传播不完整
+5. **提示叉叉策略**：只标记 solution=0 的空白格（显示为X），不标记填充格，避免直接揭示答案；优先标记约束传播效果最强的空白格
+6. **生成速度优化**：禁用深度试探（`max_depth=0`），只使用约束传播，大幅提高生成速度
+7. **时间限制保护**：所有耗时操作都有时间限制，防止单个关卡卡住整个流程
 
 ### 性能参考
 
@@ -526,22 +679,26 @@ dst_y1 = int(round(y0_f + (r + 1) * pixel_h))
 | 生成630个关卡（chinese_history，含_probe+行/列揭示） | 630 | 约993秒 |
 | 生成105张拼接图 | 105 | 约30秒 |
 
-### 可解性统计（chinese_history，增强算法）
+### 可解性统计（修复排列Bug后）
+
+修复排列生成Bug后，可解率大幅提升：
 
 | 网格大小 | 总数 | 纯逻辑可解 | 需提示叉叉 | 可解率 |
 | -------- | ---- | ---------- | ---------- | ------ |
-| 5×5 | 6 | 6 | 0 | 100% |
-| 10×10 | 288 | 148 | 140 | 51.4% |
-| 15×15 | 216 | 52 | 164 | 24.1% |
-| 20×20 | 120 | 6 | 134 | 5.0% |
-| 25×25 | 56 | 0 | 56 | 0% |
-| **合计** | **630** | **92** | **538** | **14.6%** |
+| 5×5 | 102 | 102 | 0 | **100%** |
+| 10×10 | 174 | 174 | 0 | **100%** |
+| 15×15 | 164 | 163 | 1 | **99.4%** |
+| 20×20 | 134 | 133 | 1 | **99.3%** |
+| 25×25 | 56 | 55 | 1 | **98.2%** |
+| **合计** | **630** | **627** | **3** | **99.5%** |
+
+检查脚本：`tools/check_chinese_fast.py`（使用约束传播 + 深度1试探）
 
 ### 验证关卡
 
 ```powershell
 # 查看某个关卡的解网格
-C:\Python311\python.exe -c "
+python -c "
 import json
 with open(r'data\puzzles\chinese_history\chapter1_01_yuanmou_0.json', 'r', encoding='utf-8') as f:
     d = json.load(f)
@@ -549,14 +706,20 @@ for row in d['solution']:
     print(''.join('█' if c else '·' for c in row))
 "
 
-# 查看动态难度分配
-C:\Python311\python.exe -c "
-import json
-pics_file = r'data\pictures\chinese_history.json'
-with open(pics_file, 'r', encoding='utf-8') as f:
-    data = json.load(f)
-print(f'Total pictures: {len(data[\"pictures\"])}')
-for i, pic in enumerate(data['pictures'][:3]):
-    print(f'{i}: {pic[\"id\"]} - puzzles: {len(pic[\"puzzles\"])}')
-"
+# 检查画册可解率
+python tools/check_chinese_fast.py
+```
+
+### 检查其他画册可解率
+
+修改 `tools/check_chinese_fast.py` 中的 `base` 变量：
+
+```python
+base = r"H:\Work\MyProject\NonogramArt\data\puzzles\{album_id}"
+```
+
+然后运行：
+
+```powershell
+python tools/check_chinese_fast.py
 ```

@@ -13,8 +13,6 @@ extends Control
 @onready var finish_rect: TextureRect = $CanvasLayer/FinishNode/FinishTextureRect
 @onready var finish_audio_player: AudioStreamPlayer2D = $CanvasLayer/FinishNode/FinishAudioPlayer
 
-@onready var tips_node: Control = $CanvasLayer/TipsNode
-@onready var tips_node2: Control = $CanvasLayer/HelpButton/TipsNode2
 @onready var help_popup: Control = $CanvasLayer/HelpPopup
 
 @onready var camera: Camera2D = $NonogramCamera
@@ -333,12 +331,12 @@ func _on_colHint_error(index: int, is_error: bool):
 
 # 游戏完成回调
 func _on_game_completed():
-	tips_node.hide()
-	tips_node2.hide()
 	help_popup.hide()
 	portrait_ui.hide()
 	landscape_ui.hide()
 	hp_node.hide()
+	$CanvasLayer/BackButton.hide()
+	$CanvasLayer/HelpButton.hide()
 	is_locked = true
 	if _minimap:
 		_minimap.force_hide()
@@ -376,7 +374,9 @@ func _play_finish_animation1():
 	AnimationManager.register_tween(tween)
 	# 棋盘移动到居中为止
 	var position_new = cell_container.position - cell_start_position/2
+	var hp_posx_new = (get_viewport_rect().size.x - hp_node.size.x)/2
 	tween.parallel().tween_property(cell_container, "position", position_new, 0.5)
+	tween.parallel().tween_property(hp_node, "position:x", hp_posx_new, 0.5)
 	tween.finished.connect(_play_finish_animation2)
 
 func _find_album_and_picture_for_puzzle(puzzle_id: String) -> Dictionary:
@@ -433,10 +433,12 @@ func _create_pixel_grid_display():
 	if img_path == "":
 		return
 
-	var base_path = img_path.get_basename()
-	var pixel_path = base_path + "_nonogram_pixel.jpg"
+	var pixel_path = picture.get("pixel_image", "")
+	if pixel_path == "":
+		var base_path = img_path.get_basename()
+		pixel_path = base_path + "_nonogram_pixel.jpg"
 
-	if not ResourceLoader.exists(pixel_path):
+	if pixel_path == "" or not ResourceLoader.exists(pixel_path):
 		return
 
 	var tex = load(pixel_path)
@@ -497,7 +499,6 @@ func _play_finish_animation2():
 		finish_button.show()
 	)
 
-# 格子悬浮回调
 func _on_cell_hover_updated(x: int, y: int, is_hover: bool):
 	if is_locked:
 		return
@@ -528,6 +529,7 @@ func _on_finish_button_pressed() -> void:
 	GameManager.pending_album_id = _album_id
 	GameManager.pending_picture_id = _picture_id
 	GameManager.pending_picture_index = _picture_index
+	GameManager.pending_puzzle_id = NonogramManager.current_puzzle_id
 	get_tree().change_scene_to_file("res://scenes/album_detail.tscn")
 
 func _on_finish_button_test_pressed() -> void:
@@ -554,10 +556,6 @@ func _unhandled_input(event: InputEvent) -> void:
 			get_viewport().set_input_as_handled()
 		return
 	if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
-		if tips_node2.visible:
-			tips_node2.hide()
-			get_viewport().set_input_as_handled()
-			return
 		_on_back_button_pressed()
 		get_viewport().set_input_as_handled()
 		return
@@ -687,8 +685,6 @@ func _on_life_updated(life: int, x: int = 0, y: int = 0):
 # 游戏结束回调
 func _on_game_over():
 	is_locked = true
-	tips_node.hide()
-	tips_node2.hide()
 	help_popup.hide()
 	portrait_ui.hide()
 	landscape_ui.hide()
@@ -698,9 +694,6 @@ func _on_game_over():
 	
 func _notification(what: int) -> void:
 	if what == NOTIFICATION_WM_GO_BACK_REQUEST:
-		if tips_node2.visible:
-			tips_node2.hide()
-			return
 		_on_back_button_pressed()
 
 func _exit_tree() -> void:

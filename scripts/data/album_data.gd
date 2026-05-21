@@ -103,9 +103,8 @@ static func _check_album_images(album_id: String) -> bool:
 			inst._album_images_valid_cache[album_id] = false
 			return false
 		var pixel_path: String = picture.get("pixel_image", "")
-		if pixel_path == "" or not ResourceLoader.exists(pixel_path):
-			inst._album_images_valid_cache[album_id] = false
-			return false
+		if pixel_path != "" and not ResourceLoader.exists(pixel_path):
+			pass
 	inst._album_images_valid_cache[album_id] = true
 	return true
 
@@ -199,31 +198,39 @@ static func check_missing_resources(album_id: String) -> Array:
 		return missing
 	var missing_images: bool = false
 	var missing_puzzles: bool = false
-	var missing_bgm: bool = false
 	var pictures_with_puzzle: int = 0
 	for picture in pictures:
 		var img_path: String = picture.get("image", "")
 		if img_path == "" or not ResourceLoader.exists(img_path):
 			missing_images = true
 		var pixel_path: String = picture.get("pixel_image", "")
-		if pixel_path == "" or not ResourceLoader.exists(pixel_path):
+		if pixel_path != "" and not ResourceLoader.exists(pixel_path):
 			missing_images = true
 		var puzzle_id: String = picture.get("id", "")
 		if puzzle_id != "":
-			for i in range(6):
-				var puzzle_path = "res://data/puzzles/" + album_id + "/" + puzzle_id + "_" + str(i) + ".json"
-				if ResourceLoader.exists(puzzle_path):
-					pictures_with_puzzle += 1
-					break
+			var puzzle_list = picture.get("puzzles", [])
+			if puzzle_list.size() > 0:
+				for pid in puzzle_list:
+					var puzzle_path = "res://data/puzzles/" + album_id + "/" + str(pid) + ".json"
+					if ResourceLoader.exists(puzzle_path):
+						pictures_with_puzzle += 1
+						break
+			else:
+				for i in range(6):
+					var puzzle_path = "res://data/puzzles/" + album_id + "/" + puzzle_id + "_" + str(i) + ".json"
+					if ResourceLoader.exists(puzzle_path):
+						pictures_with_puzzle += 1
+						break
 	if missing_images:
 		missing.append("图片资源")
 	if pictures_with_puzzle < pictures.size():
 		missing_puzzles = true
 	if missing_puzzles:
 		missing.append("数织关卡")
-	var bgm_path = "res://assets/audio/music/" + album_id + ".mp3"
+	var album = get_album(album_id)
+	var bgm_path = album.get("bgm", "")
+	if bgm_path == "":
+		bgm_path = "res://assets/audio/music/" + album_id + ".mp3"
 	if not ResourceLoader.exists(bgm_path):
-		missing_bgm = true
-	if missing_bgm:
-		missing.append("背景音乐")
+		printerr("配置的bgm文件缺失")
 	return missing

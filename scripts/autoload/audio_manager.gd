@@ -38,7 +38,8 @@ const SFX_CONFIG = {
 	"congratulations": "res://assets/audio/sfx/congratulations_2.wav",
 	"life_change": "res://assets/audio/sfx/life_change.wav",
 	"game_over": "res://assets/audio/sfx/game_over.wav",
-	"page_flip": "res://assets/audio/sfx/page_flip.wav"
+	"page_flip": "res://assets/audio/sfx/page_flip.wav",
+	"get_star": "res://assets/audio/sfx/get_star.wav"
 }
 
 var _sfx_cache: Dictionary = {}
@@ -117,7 +118,26 @@ func play_bgm_for_album(album_id: String) -> void:
 	if album_id == "":
 		play_bgm("main_menu")
 		return
-	play_bgm(album_id)
+	var album = AlbumData.get_album(album_id)
+	var bgm_path = album.get("bgm", "")
+	if bgm_path != "":
+		if bgm_path == _current_bgm_key and _bgm_player.playing:
+			return
+		var stream = _load_bgm_from_path(bgm_path)
+		if stream == null:
+			push_error("AudioManager: 背景音乐加载失败: " + bgm_path + "，维持当前播放")
+			return
+		_current_bgm_key = bgm_path
+		if _bgm_player.playing:
+			if _bgm_fade_tween:
+				_bgm_fade_tween.kill()
+			_bgm_fade_tween = create_tween()
+			_bgm_fade_tween.tween_property(_bgm_player, "volume_db", -80.0, 1.0)
+			_bgm_fade_tween.tween_callback(_start_bgm.bind(stream, 1.0))
+		else:
+			_start_bgm(stream, 0.0)
+	else:
+		play_bgm(album_id)
 
 func play_bgm_for_scene(scene_path: String) -> void:
 	match scene_path:
@@ -152,6 +172,17 @@ func _load_bgm(key: String) -> AudioStream:
 	var stream = load(path)
 	if stream is AudioStream:
 		_bgm_cache[key] = stream
+		return stream
+	return null
+
+func _load_bgm_from_path(path: String) -> AudioStream:
+	if _bgm_cache.has(path):
+		return _bgm_cache[path]
+	if not ResourceLoader.exists(path):
+		return null
+	var stream = load(path)
+	if stream is AudioStream:
+		_bgm_cache[path] = stream
 		return stream
 	return null
 

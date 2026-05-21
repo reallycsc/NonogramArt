@@ -9,7 +9,6 @@
 	"difficulty": "tutorial",
 	"row_clues": [
 		[
-			1,
 			1
 		],
 		[
@@ -29,7 +28,6 @@
 	],
 	"col_clues": [
 		[
-			1,
 			1
 		],
 		[
@@ -48,7 +46,7 @@
 	],
 	"solution": [
 		[
-			1,
+			0,
 			0,
 			0,
 			0,

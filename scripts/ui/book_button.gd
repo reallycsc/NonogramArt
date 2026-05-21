@@ -6,15 +6,19 @@ const BTN_PRESSED = preload("res://assets/images/ui/bookshelf/bookcover/book_bla
 const BTN_GREY_NORMAL = preload("res://assets/images/ui/bookshelf/bookcover/book_blank_grey.png")
 const BTN_GREY_HOVER = preload("res://assets/images/ui/bookshelf/bookcover/book_blank_hover_grey.png")
 const BTN_GREY_PRESSED = preload("res://assets/images/ui/bookshelf/bookcover/book_blank_pressed_grey.png")
+const BTN_EMPTY_NORMAL = preload("res://assets/images/ui/bookshelf/bookcover/book_empty.png")
+const BTN_EMPTY_HOVER = preload("res://assets/images/ui/bookshelf/bookcover/book_empty_hover.png")
+const BTN_EMPTY_PRESSED = preload("res://assets/images/ui/bookshelf/bookcover/book_empty_pressed.png")
+
 
 signal locked_album_clicked(album_id: String)
 signal download_album_clicked(album_id: String)
 
+@onready var book_icon_node: Control = $BookIconNode
 @onready var book_icon: Sprite2D = $BookIconNode/BookIcon
 @onready var lock_label: Label = $BookIconNode/LockLabel
 @onready var status_label: Label = $BookIconNode/StatusLabel
-@onready var book_name: Label = $BookName
-@onready var dlc_download: TextureRect = $BookIconNode/DLCDownload
+@onready var dlc_download: TextureRect = $DLCDownload
 @onready var progress_bar: ProgressBar = $BookIconNode/ProgressBar
 @onready var progress_label: Label = $BookIconNode/ProgressLabel
 
@@ -24,26 +28,21 @@ var _completion_tween: Tween = null
 
 func setup(data: Dictionary) -> void:
 	album_id = data.get("id", "")
-	book_name.text = data.get("name", "")
 	_needs_completion_animation = false
 
 	var unlock_result = GameManager.get_album_unlock_status(album_id)
 	if not unlock_result.unlocked:
-		lock_label.show()
+		book_icon_node.hide()
 		dlc_download.hide()
-		progress_bar.hide()
-		progress_label.hide()
-		texture_normal = BTN_GREY_NORMAL
-		texture_hover = BTN_GREY_HOVER
-		texture_pressed = BTN_GREY_PRESSED
+		texture_normal = BTN_EMPTY_NORMAL
+		texture_hover = BTN_EMPTY_HOVER
+		texture_pressed = BTN_EMPTY_PRESSED
 		self_modulate = Color(0.4, 0.4, 0.4)
 		book_icon.texture = GameManager.get_album_icon_grey(album_id)
 		book_icon.modulate = Color(0.4, 0.4, 0.4)
 		status_label.text = "未解锁"
 		status_label.add_theme_color_override("font_color", Color.WHITE)
-		return
-
-	if not AlbumData.is_album_content_available(album_id):
+	elif not AlbumData.is_album_content_available(album_id):
 		lock_label.hide()
 		dlc_download.show()
 		progress_bar.hide()
@@ -61,38 +60,37 @@ func setup(data: Dictionary) -> void:
 		else:
 			status_label.text = "点击下载"
 			status_label.add_theme_color_override("font_color", Color(0.3, 0.8, 0.3))
-		return
-
-	lock_label.hide()
-	dlc_download.hide()
-	progress_bar.hide()
-	progress_label.hide()
-	var completion = GameManager.get_album_completion(album_id)
-	if completion >= 1.0 or GameManager.test_mode:
-		book_icon.texture = GameManager.get_album_icon(album_id)
-		if completion >= 1.0:
-			if GameManager.should_show_album_animation(album_id):
-				_needs_completion_animation = true
-				texture_normal = BTN_NORMAL
-				texture_hover = BTN_HOVER
-				texture_pressed = BTN_PRESSED
-				modulate = Color(0.5, 0.5, 0.5)
-				scale = Vector2(0.95, 0.95)
-				status_label.text = "已完成"
-				status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
+	else:
+		lock_label.hide()
+		dlc_download.hide()
+		progress_bar.hide()
+		progress_label.hide()
+		var completion = GameManager.get_album_completion(album_id)
+		if completion >= 1.0 or GameManager.test_mode:
+			book_icon.texture = GameManager.get_album_icon(album_id)
+			if completion >= 1.0:
+				if GameManager.should_show_album_animation(album_id):
+					_needs_completion_animation = true
+					texture_normal = BTN_NORMAL
+					texture_hover = BTN_HOVER		
+					texture_pressed = BTN_PRESSED	
+					modulate = Color(0.5, 0.5, 0.5)
+					scale = Vector2(0.95, 0.95)
+					status_label.text = "已完成"
+					status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
+				else:
+					status_label.text = "已完成"
+					status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
 			else:
-				status_label.text = "已完成"
-				status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
+				status_label.text = "%d%%" % int(completion * 100)
+				status_label.add_theme_color_override("font_color", Color.WHITE)
 		else:
+			texture_normal = BTN_GREY_NORMAL
+			texture_hover = BTN_GREY_HOVER
+			texture_pressed = BTN_GREY_PRESSED
+			book_icon.texture = GameManager.get_album_icon_grey(album_id)
 			status_label.text = "%d%%" % int(completion * 100)
 			status_label.add_theme_color_override("font_color", Color.WHITE)
-	else:
-		texture_normal = BTN_GREY_NORMAL
-		texture_hover = BTN_GREY_HOVER
-		texture_pressed = BTN_GREY_PRESSED
-		book_icon.texture = GameManager.get_album_icon_grey(album_id)
-		status_label.text = "%d%%" % int(completion * 100)
-		status_label.add_theme_color_override("font_color", Color.WHITE)
 
 func play_completion_animation(delay: float = 0.0) -> void:
 	if not _needs_completion_animation:

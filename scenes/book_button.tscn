@@ -16,14 +16,19 @@ texture_pressed = ExtResource("2_hihs0")
 texture_hover = ExtResource("3_kraq4")
 script = ExtResource("2_iwf0o")
 
-[node name="BookIconNode" type="Node2D" parent="." unique_id=339340094]
-position = Vector2(93, 93)
+[node name="BookIconNode" type="Control" parent="." unique_id=733863265]
+anchors_preset = 0
+offset_left = 93.0
+offset_top = 93.0
+offset_right = 93.0
+offset_bottom = 93.0
 
 [node name="BookIcon" type="Sprite2D" parent="BookIconNode" unique_id=1476259516]
 scale = Vector2(0.42, 0.42)
 texture = ExtResource("3_fn2xn")
 
 [node name="LockLabel" type="Label" parent="BookIconNode" unique_id=1442272343]
+layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5
@@ -44,22 +49,8 @@ text = "🔒"
 horizontal_alignment = 1
 vertical_alignment = 1
 
-[node name="DLCDownload" type="TextureRect" parent="BookIconNode" unique_id=188612910]
-visible = false
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-offset_left = -49.5
-offset_top = -34.5
-offset_right = 49.5
-offset_bottom = 64.5
-grow_horizontal = 2
-grow_vertical = 2
-texture = ExtResource("6_kraq4")
-
 [node name="ProgressBar" type="ProgressBar" parent="BookIconNode" unique_id=1349728063]
+layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5
@@ -75,6 +66,7 @@ value = 50.0
 show_percentage = false
 
 [node name="ProgressLabel" type="Label" parent="BookIconNode" unique_id=1731433250]
+layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5
@@ -94,6 +86,7 @@ horizontal_alignment = 1
 vertical_alignment = 1
 
 [node name="StatusLabel" type="Label" parent="BookIconNode" unique_id=1910136792]
+layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5
@@ -117,22 +110,20 @@ text = "未解锁"
 horizontal_alignment = 1
 vertical_alignment = 1
 
-[node name="BookName" type="Label" parent="." unique_id=172310362]
+[node name="DLCDownload" type="TextureRect" parent="." unique_id=188612910]
 visible = false
 layout_mode = 1
-anchors_preset = 5
+anchors_preset = 8
 anchor_left = 0.5
+anchor_top = 0.5
 anchor_right = 0.5
-offset_left = -37.5
-offset_top = 25.0
-offset_right = 42.5
-offset_bottom = 53.0
+anchor_bottom = 0.5
+offset_left = -46.0
+offset_top = -35.0
+offset_right = 53.0
+offset_bottom = 64.0
 grow_horizontal = 2
-theme_override_colors/font_outline_color = Color(1, 1, 1, 1)
-theme_override_constants/outline_size = 2
-theme_override_font_sizes/font_size = 12
-text = "书本名称最多八字"
-horizontal_alignment = 1
-vertical_alignment = 1
+grow_vertical = 2
+texture = ExtResource("6_kraq4")
 
 [connection signal="pressed" from="." to="." method="_on_book_button_pressed"]
