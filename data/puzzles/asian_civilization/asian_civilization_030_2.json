@@ -1,94 +1,91 @@
 {
-	"id": "asian_civilization_030_2",
-	"name": "分块2",
-	"picture_id": "asian_civilization_030",
-	"size": {
-		"rows": 5,
-		"cols": 5
-	},
-	"difficulty": "tutorial",
-	"row_clues": [
-		[
-			2
-		],
-		[
-			1,
-			1
-		],
-		[
-			1
-		],
-		[
-			2
-		],
-		[
-			1
-		]
-	],
-	"col_clues": [
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			4
-		]
-	],
-	"solution": [
-		[
-			0,
-			1,
-			1,
-			0,
-			0
-		],
-		[
-			1,
-			0,
-			0,
-			0,
-			1
-		],
-		[
-			0,
-			0,
-			0,
-			0,
-			1
-		],
-		[
-			0,
-			0,
-			0,
-			1,
-			1
-		],
-		[
-			0,
-			0,
-			0,
-			0,
-			1
-		]
-	],
-	"hint_cells": [
-		[
-			0,
-			0
-		]
-	],
-	"source_rect": {
-		"x": 852,
-		"y": 0,
-		"w": 426,
-		"h": 426
-	}
+  "id": "asian_civilization_030_2",
+  "name": "asian_civilization_030_2",
+  "picture_id": "asian_civilization_030",
+  "size": 5,
+  "difficulty": "tutorial",
+  "solution": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "row_clues": [
+    [
+      1
+    ],
+    [
+      1
+    ],
+    [
+      4
+    ],
+    [
+      3
+    ],
+    [
+      1
+    ]
+  ],
+  "col_clues": [
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      2
+    ],
+    [
+      1
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "hint_cells": [
+    [
+      4,
+      0
+    ]
+  ],
+  "source_rect": {
+    "x": 852,
+    "y": 0,
+    "width": 426,
+    "height": 426
+  }
 }

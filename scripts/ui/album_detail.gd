@@ -18,6 +18,7 @@ const NONOGRAM_BTN_25 = preload("res://assets/images/ui/album/picture_nonogram_2
 const NONOGRAM_BTN_25_HOVER = preload("res://assets/images/ui/album/picture_nonogram_25_hover.png")
 const NONOGRAM_BTN_25_PRESSED = preload("res://assets/images/ui/album/picture_nonogram_25_pressed.png")
 const NONOGRAM_BTN_LOCKED = preload("res://assets/images/ui/album/picture_nonogram_locked.png")
+const BadgeButtonScene = preload("res://scenes/badge_button.tscn")
 
 @onready var portrait_ui: Control = $PortraitUI
 @onready var landscape_ui: Control = $LandscapeUI
@@ -29,6 +30,7 @@ const NONOGRAM_BTN_LOCKED = preload("res://assets/images/ui/album/picture_nonogr
 @onready var p_page_num: Label = $PortraitUI/PageContent/PageNumLabel
 @onready var p_left_button: TextureButton = $PortraitUI/LeftButton
 @onready var p_right_button: TextureButton = $PortraitUI/RightButton
+@onready var p_medals_container: HBoxContainer = $PortraitUI/Medals
 
 @onready var l_page: Control = $LandscapeUI/PageContent
 @onready var l_title: Label = $LandscapeUI/PageContent/Title
@@ -43,16 +45,18 @@ const NONOGRAM_BTN_LOCKED = preload("res://assets/images/ui/album/picture_nonogr
 @onready var l_illustration_area2: Control = $LandscapeUI/PageContent2/VBoxContainer/IllustrationArea
 @onready var l_album_text2: Label = $LandscapeUI/PageContent2/VBoxContainer/AlbumText
 @onready var l_page_num2: Label = $LandscapeUI/PageContent2/PageNumLabel
+@onready var l_medals_container: HBoxContainer = $LandscapeUI/Medals
 
 @onready var settings_popup: Control = $CanvasLayer/SettingsPopup
+
+
 
 var current_album_id: String = ""
 var current_picture_id: String = ""
 var _pictures: Array = []
 var _current_picture_index: int = 0
-var _fade_tween: Tween = null
-var _reveal_tween: Tween = null
 var _just_completed_puzzle_id: String = ""
+var _pending_light_fly_picture_id: String = ""
 
 var _puzzle_cache: Dictionary = {}
 var _texture_cache: Dictionary = {}
@@ -87,6 +91,7 @@ func _ready() -> void:
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
 	_apply_orientation(OrientationManager.current_orientation)
 	GameManager.preload_scene("res://scenes/nonogram_scene.tscn")
+	_setup_chapter_badges()
 
 func _exit_tree() -> void:
 	if current_album_id != "" and _current_picture_index >= 0:
@@ -292,9 +297,11 @@ func _string_to_seed(s: String) -> int:
 	return abs(hash_val) & 0x7fffffff
 
 func _build_illustration(area: Control, picture: Dictionary, picture_index: int) -> void:
-	if _reveal_tween:
-		_reveal_tween.kill()
-		_reveal_tween = null
+	if area.has_meta("reveal_tween"):
+		var old_tween: Tween = area.get_meta("reveal_tween")
+		if old_tween and old_tween.is_valid():
+			old_tween.kill()
+		area.remove_meta("reveal_tween")
 	if area.has_meta("illustration_ctx"):
 		area.remove_meta("illustration_ctx")
 
@@ -589,8 +596,8 @@ func _create_illustration_display(area: Control, ctx: Dictionary) -> void:
 
 	if just_completed_idx >= 0:
 		_play_puzzle_reveal_animation(area, ctx, just_completed_idx)
-	else:
-		_just_completed_puzzle_id = ""
+	elif GameManager.is_picture_completed(picture_id):
+		_create_completed_display(area, ctx)
 
 func _play_puzzle_reveal_animation(area: Control, ctx: Dictionary, puzzle_idx: int) -> void:
 	var puzzles = ctx["puzzles"]
@@ -662,9 +669,11 @@ func _play_puzzle_reveal_animation(area: Control, ctx: Dictionary, puzzle_idx: i
 
 	var tween = create_tween()
 	AnimationManager.register_tween(tween)
-	if _reveal_tween:
-		_reveal_tween.kill()
-	_reveal_tween = tween
+	if area.has_meta("reveal_tween"):
+		var old_tween: Tween = area.get_meta("reveal_tween")
+		if old_tween and old_tween.is_valid():
+			old_tween.kill()
+	area.set_meta("reveal_tween", tween)
 	tween.parallel().tween_property(btn, "modulate:a", 0.0, 0.6).set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_IN)
 	tween.parallel().tween_property(overlay, "modulate:a", 1.0, 0.6).set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_OUT)
 	tween.tween_callback(func():
@@ -689,15 +698,20 @@ func _play_puzzle_reveal_animation(area: Control, ctx: Dictionary, puzzle_idx: i
 				all_done = false
 				break
 		if all_done and is_instance_valid(area):
+			_pending_light_fly_picture_id = ctx["picture_id"]
 			_play_picture_complete_animation(area, ctx)
 	)
 
 func _play_picture_complete_animation(area: Control, ctx: Dictionary) -> void:
 	var picture_id: String = ctx["picture_id"]
-	if not GameManager.should_show_animation(picture_id):
+	var will_animate = GameManager.should_show_animation(picture_id)
+	if not will_animate:
 		GameManager.mark_animation_shown(picture_id)
 	_clear_area_children(area)
 	_create_completed_display(area, ctx)
+	if not will_animate and _pending_light_fly_picture_id == picture_id and _is_area_in_active_orientation(area):
+		_pending_light_fly_picture_id = ""
+		_play_light_fly_to_badge(picture_id)
 
 func _on_region_btn_hover(btn: TextureButton, entered: bool) -> void:
 	if btn.button_pressed:
@@ -777,13 +791,16 @@ func _create_completed_display(area: Control, ctx: Dictionary) -> void:
 		hd_rect.material = shader_mat
 		area.add_child(hd_rect)
 
-		if _fade_tween:
-			_fade_tween.kill()
-		_fade_tween = create_tween()
-		_fade_tween.tween_method(_set_sweep_progress.bind(shader_mat), 0.0, 1.15, 1.5)
-		_fade_tween.tween_callback(_on_animation_finished.bind(picture_id))
+		if area.has_meta("fade_tween"):
+			var old_tween: Tween = area.get_meta("fade_tween")
+			if old_tween and old_tween.is_valid():
+				old_tween.kill()
+		var fade_tween = create_tween()
+		area.set_meta("fade_tween", fade_tween)
+		fade_tween.tween_method(_set_sweep_progress.bind(shader_mat), 0.0, 1.15, 1.5)
+		fade_tween.tween_callback(_on_animation_finished.bind(picture_id, area))
 		if not is_touch:
-			_fade_tween.tween_callback(_enable_hd_click.bind(area))
+			fade_tween.tween_callback(_enable_hd_click.bind(area))
 	elif illust_tex:
 		var hd_rect = TextureRect.new()
 		hd_rect.name = "HDImageRect"
@@ -827,8 +844,17 @@ func _update_illustration_layout(area: Control) -> void:
 	_update_region_positions(area)
 	_update_completed_illustration_layout(area)
 
-func _on_animation_finished(pic_id: String) -> void:
+func _on_animation_finished(pic_id: String, area: Control) -> void:
 	GameManager.mark_animation_shown(pic_id)
+	if _pending_light_fly_picture_id == pic_id and _is_area_in_active_orientation(area):
+		_pending_light_fly_picture_id = ""
+		_play_light_fly_to_badge(pic_id)
+
+
+func _is_area_in_active_orientation(area: Control) -> bool:
+	if _is_landscape():
+		return area == l_illustration_area or area == l_illustration_area2
+	return area == p_illustration_area
 
 func _enable_hd_click(area: Control) -> void:
 	var hd_rect = area.get_node_or_null("HDImageRect") as TextureRect
@@ -1332,3 +1358,225 @@ func _process_texture_loading() -> void:
 		_pending_display = true
 		await get_tree().process_frame
 		_process_texture_loading()
+
+
+func _get_active_medals_container() -> HBoxContainer:
+	if _is_landscape():
+		return l_medals_container
+	return p_medals_container
+
+
+func _setup_chapter_badges() -> void:
+	_clear_medals_container(p_medals_container)
+	_clear_medals_container(l_medals_container)
+
+	if current_album_id == "":
+		return
+
+	var chapters = AlbumDataScript.get_chapters(current_album_id)
+	if chapters.is_empty():
+		return
+
+	var just_completed_pic_id = _get_just_completed_picture_id()
+
+	for chapter in chapters:
+		var chapter_id: String = chapter.get("id", "")
+		var chapter_name: String = chapter.get("name", "")
+		var picture_ids = chapter.get("picture_ids", [])
+
+		var completed_count = 0
+		for pid in picture_ids:
+			if GameManager.is_picture_completed(pid):
+				completed_count += 1
+
+		if just_completed_pic_id != "" and just_completed_pic_id in picture_ids:
+			completed_count -= 1
+
+		var total_count = picture_ids.size()
+
+		var badge_icon_path: String = chapter.get("badge_icon", "")
+		var badge_tex: Texture2D = null
+		if badge_icon_path != "" and ResourceLoader.exists(badge_icon_path):
+			badge_tex = load(badge_icon_path) as Texture2D
+		var badge_icon_grey_path = badge_icon_path.get_basename() + "_grey.png"
+		var badge_grey_tex: Texture2D = null
+		if badge_icon_grey_path != "" and ResourceLoader.exists(badge_icon_grey_path):
+			badge_grey_tex = load(badge_icon_grey_path) as Texture2D
+
+		if badge_tex:
+			_add_badge_to_container(p_medals_container, chapter_id, chapter_name, badge_tex, badge_grey_tex, completed_count, total_count)
+			_add_badge_to_container(l_medals_container, chapter_id, chapter_name, badge_tex, badge_grey_tex, completed_count, total_count)
+
+
+func _clear_medals_container(container: HBoxContainer) -> void:
+	for child in container.get_children():
+		container.remove_child(child)
+		child.queue_free()
+
+
+func _add_badge_to_container(container: HBoxContainer, chapter_id: String, chapter_name: String, badge_tex: Texture2D, badge_grey_tex: Texture2D, completed_count: int, total_count: int) -> void:
+	var badge = BadgeButtonScene.instantiate()
+	badge.name = "Badge_" + chapter_id
+	container.add_child(badge)
+	badge.setup(chapter_id, chapter_name, badge_tex, badge_grey_tex, completed_count, total_count)
+			
+
+
+func _get_just_completed_picture_id() -> String:
+	if _just_completed_puzzle_id == "":
+		return ""
+	var pictures = _pictures
+	for picture in pictures:
+		var puzzle_ids = picture.get("puzzles", [])
+		if _just_completed_puzzle_id in puzzle_ids:
+			return picture.get("id", "")
+	return ""
+
+
+func _update_chapter_badges() -> void:
+	if current_album_id == "":
+		return
+
+	var chapters = AlbumDataScript.get_chapters(current_album_id)
+	if chapters.is_empty():
+		return
+
+	for chapter in chapters:
+		var chapter_id: String = chapter.get("id", "")
+		var picture_ids = chapter.get("picture_ids", [])
+
+		var completed_count = 0
+		for pid in picture_ids:
+			if GameManager.is_picture_completed(pid):
+				completed_count += 1
+		var total_count = picture_ids.size()
+
+		for container in [p_medals_container, l_medals_container]:
+			var badge = container.get_node_or_null("Badge_" + chapter_id)
+			if badge and badge.has_method("update_progress"):
+				badge.update_progress(completed_count, total_count)
+
+
+func _find_chapter_for_picture(picture_id: String) -> Dictionary:
+	if current_album_id == "":
+		return {}
+	var chapters = AlbumDataScript.get_chapters(current_album_id)
+	for chapter in chapters:
+		var picture_ids = chapter.get("picture_ids", [])
+		if picture_id in picture_ids:
+			return chapter
+	return {}
+
+
+func _find_illustration_area_for_picture(picture_id: String) -> Control:
+	var areas = _get_active_illustration_areas()
+	for area in areas:
+		if not is_instance_valid(area):
+			continue
+		if not area.has_meta("illustration_ctx"):
+			continue
+		var ctx: Dictionary = area.get_meta("illustration_ctx")
+		if ctx.get("picture_id", "") == picture_id:
+			return area
+	if not areas.is_empty():
+		return areas[0]
+	return null
+
+
+func _play_light_fly_to_badge(picture_id: String) -> void:
+	var chapter = _find_chapter_for_picture(picture_id)
+	if chapter.is_empty():
+		_update_chapter_badges()
+		return
+
+	var chapter_id: String = chapter.get("id", "")
+	var active_container = _get_active_medals_container()
+	var badge = active_container.get_node_or_null("Badge_" + chapter_id)
+	if not badge:
+		_update_chapter_badges()
+		return
+
+	var area = _find_illustration_area_for_picture(picture_id)
+	if not area:
+		_update_chapter_badges()
+		return
+
+	var area_rect = area.get_global_rect()
+	var start_pos = area_rect.position + area_rect.size * 0.5
+	var end_pos = badge.get_global_center()
+
+	var light = _create_light_particle()
+	$CanvasLayer.add_child(light)
+	light.global_position = start_pos - light.size * 0.5
+
+	var distance = start_pos.distance_to(end_pos)
+	var duration = clampf(distance / 800.0, 0.4, 1.0)
+	var target_pos = end_pos - light.size * 0.5
+
+	var tween = create_tween()
+	AnimationManager.register_tween(tween)
+
+	tween.tween_property(light, "global_position:x", target_pos.x, duration).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN_OUT)
+	tween.parallel().tween_property(light, "global_position:y", target_pos.y, duration).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN_OUT)
+	tween.parallel().tween_property(light, "modulate:a", 0.8, duration * 0.5).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_OUT)
+	tween.parallel().tween_property(light, "scale", Vector2(0.6, 0.6), duration).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN)
+
+	tween.tween_callback(func():
+		if is_instance_valid(light):
+			light.queue_free()
+		if is_instance_valid(badge) and badge.has_method("increment_count"):
+			badge.increment_count()
+			badge.play_receive_light_animation()
+		var other_container = l_medals_container if active_container == p_medals_container else p_medals_container
+		var other_badge = other_container.get_node_or_null("Badge_" + chapter_id)
+		if other_badge and other_badge.has_method("increment_count"):
+			other_badge.increment_count()
+	)
+
+
+func _create_light_particle() -> Control:
+	var container = Control.new()
+	container.name = "LightParticle"
+	container.mouse_filter = Control.MOUSE_FILTER_IGNORE
+	container.z_index = 100
+	container.size = Vector2(48, 48)
+
+	var glow_outer = ColorRect.new()
+	glow_outer.name = "GlowOuter"
+	glow_outer.set_anchors_preset(Control.PRESET_FULL_RECT)
+	var outer_mat = ShaderMaterial.new()
+	outer_mat.shader = preload("res://shaders/light_glow.gdshader")
+	outer_mat.set_shader_parameter("color", Vector3(1.0, 1.0, 1.0))
+	outer_mat.set_shader_parameter("intensity", 0.6)
+	glow_outer.material = outer_mat
+	glow_outer.mouse_filter = Control.MOUSE_FILTER_IGNORE
+	container.add_child(glow_outer)
+
+	var glow_inner = ColorRect.new()
+	glow_inner.name = "GlowInner"
+	glow_inner.set_anchors_preset(Control.PRESET_CENTER)
+	glow_inner.offset_left = -10.0
+	glow_inner.offset_top = -10.0
+	glow_inner.offset_right = 10.0
+	glow_inner.offset_bottom = 10.0
+	var inner_mat = ShaderMaterial.new()
+	inner_mat.shader = preload("res://shaders/light_glow.gdshader")
+	inner_mat.set_shader_parameter("color", Vector3(1.0, 1.0, 1.0))
+	inner_mat.set_shader_parameter("intensity", 1.2)
+	glow_inner.material = inner_mat
+	glow_inner.mouse_filter = Control.MOUSE_FILTER_IGNORE
+	container.add_child(glow_inner)
+
+	var core = ColorRect.new()
+	core.name = "Core"
+	core.set_anchors_preset(Control.PRESET_CENTER)
+	core.offset_left = -4.0
+	core.offset_top = -4.0
+	core.offset_right = 4.0
+	core.offset_bottom = 4.0
+	core.color = Color(1.0, 1.0, 1.0, 1.0)
+	core.mouse_filter = Control.MOUSE_FILTER_IGNORE
+	container.add_child(core)
+
+	container.pivot_offset = container.size * 0.5
+	return container

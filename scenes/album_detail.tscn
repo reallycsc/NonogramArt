@@ -16,8 +16,6 @@
 [ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="14_w05x7"]
 [ext_resource type="PackedScene" uid="uid://sb2u2ok8lge" path="res://scenes/settings_popup.tscn" id="15_settings"]
 [ext_resource type="Texture2D" uid="uid://cx8m3me4jdktm" path="res://assets/images/ui/album/album_bg_landscape.jpg" id="16_w05x7"]
-[ext_resource type="Texture2D" uid="uid://cgkvkaadgcbhp" path="res://assets/images/ui/bookshelf/medal01.png" id="17_1lmjr"]
-[ext_resource type="Texture2D" uid="uid://cxnhwaud81fx1" path="res://assets/images/ui/bookshelf/medal01_unlocked.png" id="18_07boc"]
 
 [node name="AlbumDetail" type="Control" unique_id=838641819]
 layout_mode = 3
@@ -29,6 +27,7 @@ grow_vertical = 2
 script = ExtResource("1_wuixv")
 
 [node name="PortraitUI" type="Control" parent="." unique_id=195944737]
+visible = false
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -151,8 +150,21 @@ texture_normal = ExtResource("9_vk71n")
 texture_pressed = ExtResource("10_diffj")
 texture_hover = ExtResource("11_w05x7")
 
+[node name="Medals" type="HBoxContainer" parent="PortraitUI" unique_id=165154367]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -257.0
+offset_top = 130.0
+offset_right = 257.0
+offset_bottom = 208.0
+grow_horizontal = 2
+scale = Vector2(1.1, 1.1)
+pivot_offset_ratio = Vector2(0.5, 0.5)
+alignment = 1
+
 [node name="LandscapeUI" type="Control" parent="." unique_id=758370882]
-visible = false
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -350,6 +362,20 @@ texture_normal = ExtResource("9_vk71n")
 texture_pressed = ExtResource("10_diffj")
 texture_hover = ExtResource("11_w05x7")
 
+[node name="Medals" type="HBoxContainer" parent="LandscapeUI" unique_id=432126328]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -270.00003
+offset_top = 32.999996
+offset_right = 270.0
+offset_bottom = 111.0
+grow_horizontal = 2
+scale = Vector2(1.1, 1.1)
+pivot_offset_ratio = Vector2(0.5, 0.5)
+alignment = 1
+
 [node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=491026267]
 
 [node name="BackButton" type="TextureButton" parent="CanvasLayer" unique_id=2098676211]
@@ -379,94 +405,6 @@ texture_hover = ExtResource("14_w05x7")
 
 [node name="SettingsPopup" parent="CanvasLayer" unique_id=1721136415 instance=ExtResource("15_settings")]
 visible = false
-
-[node name="Medals" type="HBoxContainer" parent="CanvasLayer" unique_id=165154367]
-anchors_preset = 5
-anchor_left = 0.5
-anchor_right = 0.5
-offset_left = -257.0
-offset_top = 130.0
-offset_right = 257.0
-offset_bottom = 208.0
-grow_horizontal = 2
-scale = Vector2(1.1, 1.1)
-pivot_offset_ratio = Vector2(0.5, 0.5)
-
-[node name="Medel01" type="TextureButton" parent="CanvasLayer/Medals" unique_id=1522803110]
-layout_mode = 2
-texture_normal = ExtResource("17_1lmjr")
-texture_pressed = ExtResource("17_1lmjr")
-texture_hover = ExtResource("17_1lmjr")
-texture_disabled = ExtResource("18_07boc")
-
-[node name="Medel02" type="TextureButton" parent="CanvasLayer/Medals" unique_id=997191103]
-layout_mode = 2
-disabled = true
-texture_normal = ExtResource("17_1lmjr")
-texture_pressed = ExtResource("17_1lmjr")
-texture_hover = ExtResource("17_1lmjr")
-texture_disabled = ExtResource("18_07boc")
-
-[node name="Label" type="Label" parent="CanvasLayer/Medals/Medel02" unique_id=631038566]
-layout_mode = 1
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-offset_left = -27.909088
-offset_top = -16.72728
-offset_right = 26.090912
-offset_bottom = 11.27272
-grow_horizontal = 2
-grow_vertical = 2
-theme_override_colors/font_color = Color(1, 1, 1, 1)
-theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
-theme_override_constants/outline_size = 5
-theme_override_font_sizes/font_size = 20
-text = "10/15"
-horizontal_alignment = 1
-vertical_alignment = 1
-
-[node name="Medel03" type="TextureButton" parent="CanvasLayer/Medals" unique_id=1633126381]
-layout_mode = 2
-disabled = true
-texture_normal = ExtResource("17_1lmjr")
-texture_pressed = ExtResource("17_1lmjr")
-texture_hover = ExtResource("17_1lmjr")
-texture_disabled = ExtResource("18_07boc")
-
-[node name="Medel04" type="TextureButton" parent="CanvasLayer/Medals" unique_id=1130150346]
-layout_mode = 2
-disabled = true
-texture_normal = ExtResource("17_1lmjr")
-texture_pressed = ExtResource("17_1lmjr")
-texture_hover = ExtResource("17_1lmjr")
-texture_disabled = ExtResource("18_07boc")
-
-[node name="Medel05" type="TextureButton" parent="CanvasLayer/Medals" unique_id=1230484160]
-layout_mode = 2
-disabled = true
-texture_normal = ExtResource("17_1lmjr")
-texture_pressed = ExtResource("17_1lmjr")
-texture_hover = ExtResource("17_1lmjr")
-texture_disabled = ExtResource("18_07boc")
-
-[node name="Medel06" type="TextureButton" parent="CanvasLayer/Medals" unique_id=1170058372]
-layout_mode = 2
-disabled = true
-texture_normal = ExtResource("17_1lmjr")
-texture_pressed = ExtResource("17_1lmjr")
-texture_hover = ExtResource("17_1lmjr")
-texture_disabled = ExtResource("18_07boc")
-
-[node name="Medel07" type="TextureButton" parent="CanvasLayer/Medals" unique_id=1331850406]
-layout_mode = 2
-disabled = true
-texture_normal = ExtResource("17_1lmjr")
-texture_pressed = ExtResource("17_1lmjr")
-texture_hover = ExtResource("17_1lmjr")
-texture_disabled = ExtResource("18_07boc")
 
 [connection signal="pressed" from="PortraitUI/LeftButton" to="." method="_on_left_button_pressed"]
 [connection signal="pressed" from="PortraitUI/RightButton" to="." method="_on_right_button_pressed"]

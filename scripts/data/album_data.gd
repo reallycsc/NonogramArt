@@ -139,6 +139,16 @@ static func get_album(album_id: String) -> Dictionary:
 	return {}
 
 
+static func get_chapters(album_id: String) -> Array:
+	var album = get_album(album_id)
+	if album.is_empty():
+		return []
+	var chapters = album.get("chapters", [])
+	if not chapters is Array:
+		return []
+	return chapters
+
+
 static func load_pictures(album_id: String) -> Array:
 	var inst = _get_instance()
 	if inst._pictures_cache.has(album_id):

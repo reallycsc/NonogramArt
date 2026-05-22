@@ -15,7 +15,8 @@
         "geometric_shapes_000"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geometric_shapes_001",
@@ -31,7 +32,8 @@
         "geometric_shapes_001"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geometric_shapes_002",
@@ -47,7 +49,8 @@
         "geometric_shapes_002"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geometric_shapes_003",
@@ -63,7 +66,8 @@
         "geometric_shapes_003"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geometric_shapes_004",
@@ -79,7 +83,8 @@
         "geometric_shapes_004"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geometric_shapes_005",
@@ -95,7 +100,8 @@
         "geometric_shapes_005"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geometric_shapes_006",
@@ -111,7 +117,8 @@
         "geometric_shapes_006"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geometric_shapes_007",
@@ -127,39 +134,8 @@
         "geometric_shapes_007"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_007_nonogram_pixel.jpg"
-    },
-    {
-      "id": "geometric_shapes_008",
-      "title": "嵌套三角形",
-      "summary": "多个大小不同的三角形层层嵌套",
-      "full_text": "嵌套三角形由多个大小不同的三角形层层嵌套而成，展示了复杂的层次结构。",
-      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_008.jpg",
-      "image_grid": {
-        "x": 1,
-        "y": 1
-      },
-      "puzzles": [
-        "geometric_shapes_008"
-      ],
-      "order": 8,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_008_nonogram_pixel.jpg"
-    },
-    {
-      "id": "geometric_shapes_009",
-      "title": "螺旋",
-      "summary": "围绕中心点不断向外扩展的曲线",
-      "full_text": "螺旋是一种围绕中心点不断向外扩展的曲线图形，在自然界中广泛存在。",
-      "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_009.jpg",
-      "image_grid": {
-        "x": 1,
-        "y": 1
-      },
-      "puzzles": [
-        "geometric_shapes_009"
-      ],
-      "order": 9,
-      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     }
   ]
 }

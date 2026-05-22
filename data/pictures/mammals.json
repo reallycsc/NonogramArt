@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "mammals",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "mammals_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_001",
@@ -41,7 +42,8 @@
         "mammals_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_002",
@@ -62,7 +64,8 @@
         "mammals_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_003",
@@ -83,7 +86,8 @@
         "mammals_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_004",
@@ -104,7 +108,8 @@
         "mammals_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_005",
@@ -125,7 +130,8 @@
         "mammals_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_006",
@@ -146,7 +152,8 @@
         "mammals_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_007",
@@ -167,7 +174,8 @@
         "mammals_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_008",
@@ -188,7 +196,8 @@
         "mammals_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_009",
@@ -209,7 +218,8 @@
         "mammals_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_010",
@@ -230,7 +240,8 @@
         "mammals_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_011",
@@ -251,7 +262,8 @@
         "mammals_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_012",
@@ -272,7 +284,8 @@
         "mammals_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_013",
@@ -293,7 +306,8 @@
         "mammals_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_014",
@@ -314,7 +328,8 @@
         "mammals_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_015",
@@ -335,7 +350,8 @@
         "mammals_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_016",
@@ -356,7 +372,8 @@
         "mammals_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_017",
@@ -377,7 +394,8 @@
         "mammals_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_018",
@@ -398,7 +416,8 @@
         "mammals_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_019",
@@ -419,7 +438,8 @@
         "mammals_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_020",
@@ -440,7 +460,8 @@
         "mammals_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_021",
@@ -461,7 +482,8 @@
         "mammals_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_022",
@@ -482,7 +504,8 @@
         "mammals_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_023",
@@ -503,7 +526,8 @@
         "mammals_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_024",
@@ -524,7 +548,8 @@
         "mammals_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "mammals_025",
@@ -545,7 +570,8 @@
         "mammals_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_026",
@@ -566,7 +592,8 @@
         "mammals_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_027",
@@ -587,7 +614,8 @@
         "mammals_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_028",
@@ -608,7 +636,8 @@
         "mammals_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_029",
@@ -629,7 +658,8 @@
         "mammals_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_030",
@@ -650,7 +680,8 @@
         "mammals_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_031",
@@ -671,7 +702,8 @@
         "mammals_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_032",
@@ -692,7 +724,8 @@
         "mammals_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_033",
@@ -713,7 +746,8 @@
         "mammals_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_034",
@@ -734,7 +768,8 @@
         "mammals_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_035",
@@ -755,7 +790,8 @@
         "mammals_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_036",
@@ -776,7 +812,8 @@
         "mammals_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_037",
@@ -797,7 +834,8 @@
         "mammals_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_038",
@@ -818,7 +856,8 @@
         "mammals_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_039",
@@ -839,7 +878,8 @@
         "mammals_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_040",
@@ -860,7 +900,8 @@
         "mammals_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_041",
@@ -881,7 +922,8 @@
         "mammals_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_042",
@@ -902,7 +944,8 @@
         "mammals_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_043",
@@ -923,7 +966,8 @@
         "mammals_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_044",
@@ -944,7 +988,8 @@
         "mammals_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_045",
@@ -965,7 +1010,8 @@
         "mammals_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_046",
@@ -986,7 +1032,8 @@
         "mammals_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_047",
@@ -1007,7 +1054,8 @@
         "mammals_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_048",
@@ -1028,7 +1076,8 @@
         "mammals_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_049",
@@ -1049,7 +1098,8 @@
         "mammals_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "mammals_050",
@@ -1070,7 +1120,8 @@
         "mammals_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_051",
@@ -1091,7 +1142,8 @@
         "mammals_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_052",
@@ -1112,7 +1164,8 @@
         "mammals_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_053",
@@ -1133,7 +1186,8 @@
         "mammals_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_054",
@@ -1154,7 +1208,8 @@
         "mammals_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_055",
@@ -1175,7 +1230,8 @@
         "mammals_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_056",
@@ -1196,7 +1252,8 @@
         "mammals_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_057",
@@ -1217,7 +1274,8 @@
         "mammals_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_058",
@@ -1238,7 +1296,8 @@
         "mammals_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_059",
@@ -1259,7 +1318,8 @@
         "mammals_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_060",
@@ -1280,7 +1340,8 @@
         "mammals_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_060_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_060_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_061",
@@ -1301,7 +1362,8 @@
         "mammals_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_061_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_061_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_062",
@@ -1322,7 +1384,8 @@
         "mammals_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_062_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_062_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_063",
@@ -1343,7 +1406,8 @@
         "mammals_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_063_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_063_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_064",
@@ -1364,7 +1428,8 @@
         "mammals_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_064_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_064_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_065",
@@ -1385,7 +1450,8 @@
         "mammals_065_5"
       ],
       "order": 65,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_065_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_065_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_066",
@@ -1406,7 +1472,8 @@
         "mammals_066_5"
       ],
       "order": 66,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_066_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_066_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_067",
@@ -1427,7 +1494,8 @@
         "mammals_067_5"
       ],
       "order": 67,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_067_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_067_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "mammals_068",
@@ -1448,7 +1516,8 @@
         "mammals_068_5"
       ],
       "order": 68,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_068_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_068_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_069",
@@ -1469,7 +1538,8 @@
         "mammals_069_5"
       ],
       "order": 69,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_069_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_069_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_070",
@@ -1490,7 +1560,8 @@
         "mammals_070_5"
       ],
       "order": 70,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_070_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_070_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_071",
@@ -1511,7 +1582,8 @@
         "mammals_071_5"
       ],
       "order": 71,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_071_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_071_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_072",
@@ -1532,7 +1604,8 @@
         "mammals_072_5"
       ],
       "order": 72,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_072_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_072_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_073",
@@ -1553,7 +1626,8 @@
         "mammals_073_5"
       ],
       "order": 73,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_073_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_073_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_074",
@@ -1574,7 +1648,8 @@
         "mammals_074_5"
       ],
       "order": 74,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_074_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_074_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_075",
@@ -1595,7 +1670,8 @@
         "mammals_075_5"
       ],
       "order": 75,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_075_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_075_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_076",
@@ -1616,7 +1692,8 @@
         "mammals_076_5"
       ],
       "order": 76,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_076_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_076_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_077",
@@ -1637,7 +1714,8 @@
         "mammals_077_5"
       ],
       "order": 77,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_077_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_077_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_078",
@@ -1658,7 +1736,8 @@
         "mammals_078_5"
       ],
       "order": 78,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_078_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_078_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "mammals_079",
@@ -1679,7 +1758,8 @@
         "mammals_079_5"
       ],
       "order": 79,
-      "pixel_image": "res://assets/images/illustrations/mammals/mammals_079_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/mammals/mammals_079_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     }
   ]
 }

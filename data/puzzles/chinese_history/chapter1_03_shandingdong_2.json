@@ -1,98 +1,85 @@
 {
-	"id": "chapter1_03_shandingdong_2",
-	"name": "chapter1_03_shandingdong_2",
-	"picture_id": "chapter1_03_shandingdong",
-	"size": {
-		"rows": 5,
-		"cols": 5
-	},
-	"difficulty": "tutorial",
-	"solution": [
-		[
-			0,
-			0,
-			1,
-			0,
-			0
-		],
-		[
-			0,
-			0,
-			0,
-			0,
-			1
-		],
-		[
-			1,
-			0,
-			0,
-			0,
-			0
-		],
-		[
-			0,
-			0,
-			1,
-			0,
-			1
-		],
-		[
-			1,
-			1,
-			0,
-			1,
-			1
-		]
-	],
-	"row_clues": [
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1,
-			1
-		],
-		[
-			2,
-			2
-		]
-	],
-	"col_clues": [
-		[
-			1,
-			1
-		],
-		[
-			1
-		],
-		[
-			1,
-			1
-		],
-		[
-			1
-		],
-		[
-			1,
-			2
-		]
-	],
-	"hint_cells": [
-		[
-			0,
-			4
-		]
-	],
-	"source_rect": {
-		"x": 852,
-		"y": 0,
-		"w": 426,
-		"h": 426
-	}
+  "id": "chapter1_03_shandingdong_2",
+  "name": "chapter1_03_shandingdong_2",
+  "picture_id": "chapter1_03_shandingdong",
+  "size": 5,
+  "difficulty": "tutorial",
+  "solution": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      0
+    ]
+  ],
+  "row_clues": [
+    [
+      1
+    ],
+    [
+      5
+    ],
+    [
+      5
+    ],
+    [
+      3
+    ],
+    [
+      2
+    ]
+  ],
+  "col_clues": [
+    [
+      3
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      4
+    ],
+    [
+      2
+    ]
+  ],
+  "hint_cells": [],
+  "source_rect": {
+    "x": 852,
+    "y": 0,
+    "width": 426,
+    "height": 426
+  }
 }

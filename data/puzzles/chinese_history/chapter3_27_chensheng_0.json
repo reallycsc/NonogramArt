@@ -1,95 +1,87 @@
 {
-	"id": "chapter3_27_chensheng_0",
-	"name": "chapter3_27_chensheng_0",
-	"picture_id": "chapter3_27_chensheng",
-	"size": {
-		"rows": 5,
-		"cols": 5
-	},
-	"difficulty": "tutorial",
-	"solution": [
-		[
-			1,
-			1,
-			0,
-			0,
-			0
-		],
-		[
-			1,
-			0,
-			0,
-			0,
-			0
-		],
-		[
-			1,
-			0,
-			1,
-			0,
-			0
-		],
-		[
-			0,
-			0,
-			0,
-			1,
-			1
-		],
-		[
-			1,
-			0,
-			0,
-			0,
-			0
-		]
-	],
-	"row_clues": [
-		[
-			2
-		],
-		[
-			1
-		],
-		[
-			1,
-			1
-		],
-		[
-			2
-		],
-		[
-			1
-		]
-	],
-	"col_clues": [
-		[
-			3,
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		]
-	],
-	"hint_cells": [
-		[
-			2,
-			4
-		]
-	],
-	"source_rect": {
-		"x": 0,
-		"y": 0,
-		"w": 426,
-		"h": 426
-	}
+  "id": "chapter3_27_chensheng_0",
+  "name": "chapter3_27_chensheng_0",
+  "picture_id": "chapter3_27_chensheng",
+  "size": 5,
+  "difficulty": "tutorial",
+  "solution": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "row_clues": [
+    [
+      5
+    ],
+    [
+      4
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      2
+    ]
+  ],
+  "col_clues": [
+    [
+      1,
+      2
+    ],
+    [
+      5
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      2
+    ],
+    [
+      2
+    ]
+  ],
+  "hint_cells": [],
+  "source_rect": {
+    "x": 0,
+    "y": 0,
+    "width": 426,
+    "height": 426
+  }
 }

@@ -86,6 +86,7 @@ var is_replay: bool = false
 var _album_id: String = ""
 var _picture_id: String = ""
 var _picture_index: int = -1
+var _puzzle_just_completed: bool = false
 
 func _ready():
 	if GameManager.test_mode:
@@ -134,6 +135,7 @@ func _ready():
 	GameManager.pending_album_id = ""
 	GameManager.pending_picture_id = ""
 	GameManager.pending_picture_index = -1
+	GameManager.pending_puzzle_id = ""
 	
 	setup_hints()
 	setup_grid()
@@ -331,6 +333,7 @@ func _on_colHint_error(index: int, is_error: bool):
 
 # 游戏完成回调
 func _on_game_completed():
+	_puzzle_just_completed = true
 	help_popup.hide()
 	portrait_ui.hide()
 	landscape_ui.hide()
@@ -400,10 +403,10 @@ func _get_original_dims_for_picture(picture_id: String) -> Vector2:
 					var puzzle = PuzzleData.load_puzzle(pid)
 					if puzzle:
 						var sr = puzzle.source_rect
-						if sr.has("x") and sr.has("w"):
-							max_x = max(max_x, float(sr.x) + float(sr.w))
-						if sr.has("y") and sr.has("h"):
-							max_y = max(max_y, float(sr.y) + float(sr.h))
+						if sr.has("x") and sr.has("width"):
+							max_x = max(max_x, float(sr.x) + float(sr.width))
+						if sr.has("y") and sr.has("height"):
+							max_y = max(max_y, float(sr.y) + float(sr.height))
 				return Vector2(max_x, max_y)
 	return Vector2.ZERO
 
@@ -448,15 +451,15 @@ func _create_pixel_grid_display():
 	var source_rect = puzzle.source_rect
 	var pixel_img = tex.get_image()
 
-	if source_rect.has("x") and source_rect.has("y") and source_rect.has("w") and source_rect.has("h"):
+	if source_rect.has("x") and source_rect.has("y") and source_rect.has("width") and source_rect.has("height"):
 		var orig_dims = _get_original_dims_for_picture(puzzle.picture_id)
 		var scale_x = float(pixel_img.get_width()) / orig_dims.x if orig_dims.x > 0 else 1.0
 		var scale_y = float(pixel_img.get_height()) / orig_dims.y if orig_dims.y > 0 else 1.0
 		var rect = Rect2i(
 			int(float(source_rect.x) * scale_x),
 			int(float(source_rect.y) * scale_y),
-			int(float(source_rect.w) * scale_x),
-			int(float(source_rect.h) * scale_y)
+			int(float(source_rect.width) * scale_x),
+			int(float(source_rect.height) * scale_y)
 		)
 		pixel_img = pixel_img.get_region(rect)
 
@@ -529,7 +532,8 @@ func _on_finish_button_pressed() -> void:
 	GameManager.pending_album_id = _album_id
 	GameManager.pending_picture_id = _picture_id
 	GameManager.pending_picture_index = _picture_index
-	GameManager.pending_puzzle_id = NonogramManager.current_puzzle_id
+	if _puzzle_just_completed:
+		GameManager.pending_puzzle_id = NonogramManager.current_puzzle_id
 	get_tree().change_scene_to_file("res://scenes/album_detail.tscn")
 
 func _on_finish_button_test_pressed() -> void:

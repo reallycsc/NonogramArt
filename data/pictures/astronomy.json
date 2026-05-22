@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "astronomy",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "astronomy_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_001",
@@ -41,7 +42,8 @@
         "astronomy_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_002",
@@ -62,7 +64,8 @@
         "astronomy_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_003",
@@ -83,7 +86,8 @@
         "astronomy_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_004",
@@ -104,7 +108,8 @@
         "astronomy_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_005",
@@ -125,7 +130,8 @@
         "astronomy_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_006",
@@ -146,7 +152,8 @@
         "astronomy_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_007",
@@ -167,7 +174,8 @@
         "astronomy_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_008",
@@ -188,7 +196,8 @@
         "astronomy_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_009",
@@ -209,7 +218,8 @@
         "astronomy_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_010",
@@ -230,7 +240,8 @@
         "astronomy_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_011",
@@ -251,7 +262,8 @@
         "astronomy_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_012",
@@ -272,7 +284,8 @@
         "astronomy_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_013",
@@ -293,7 +306,8 @@
         "astronomy_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_014",
@@ -314,7 +328,8 @@
         "astronomy_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_015",
@@ -335,7 +350,8 @@
         "astronomy_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "astronomy_016",
@@ -356,7 +372,8 @@
         "astronomy_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_017",
@@ -377,7 +394,8 @@
         "astronomy_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_018",
@@ -398,7 +416,8 @@
         "astronomy_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_019",
@@ -419,7 +438,8 @@
         "astronomy_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_020",
@@ -440,7 +460,8 @@
         "astronomy_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_021",
@@ -461,7 +482,8 @@
         "astronomy_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_022",
@@ -482,7 +504,8 @@
         "astronomy_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_023",
@@ -503,7 +526,8 @@
         "astronomy_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_024",
@@ -524,7 +548,8 @@
         "astronomy_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_025",
@@ -545,7 +570,8 @@
         "astronomy_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_026",
@@ -566,7 +592,8 @@
         "astronomy_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_027",
@@ -587,7 +614,8 @@
         "astronomy_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_028",
@@ -608,7 +636,8 @@
         "astronomy_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_029",
@@ -629,7 +658,8 @@
         "astronomy_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_030",
@@ -650,7 +680,8 @@
         "astronomy_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_031",
@@ -671,7 +702,8 @@
         "astronomy_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "astronomy_032",
@@ -692,7 +724,8 @@
         "astronomy_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_033",
@@ -713,7 +746,8 @@
         "astronomy_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_034",
@@ -734,7 +768,8 @@
         "astronomy_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_035",
@@ -755,7 +790,8 @@
         "astronomy_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_036",
@@ -776,7 +812,8 @@
         "astronomy_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_037",
@@ -797,7 +834,8 @@
         "astronomy_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_038",
@@ -818,7 +856,8 @@
         "astronomy_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_039",
@@ -839,7 +878,8 @@
         "astronomy_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_040",
@@ -860,7 +900,8 @@
         "astronomy_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_041",
@@ -881,7 +922,8 @@
         "astronomy_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_042",
@@ -902,7 +944,8 @@
         "astronomy_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_043",
@@ -923,7 +966,8 @@
         "astronomy_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_044",
@@ -944,7 +988,8 @@
         "astronomy_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_045",
@@ -965,7 +1010,8 @@
         "astronomy_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_046",
@@ -986,7 +1032,8 @@
         "astronomy_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_047",
@@ -1007,7 +1054,8 @@
         "astronomy_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_048",
@@ -1028,7 +1076,8 @@
         "astronomy_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "astronomy_049",
@@ -1049,7 +1098,8 @@
         "astronomy_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_050",
@@ -1070,7 +1120,8 @@
         "astronomy_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_051",
@@ -1091,7 +1142,8 @@
         "astronomy_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_052",
@@ -1112,7 +1164,8 @@
         "astronomy_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_053",
@@ -1133,7 +1186,8 @@
         "astronomy_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_054",
@@ -1154,7 +1208,8 @@
         "astronomy_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_055",
@@ -1175,7 +1230,8 @@
         "astronomy_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_056",
@@ -1196,7 +1252,8 @@
         "astronomy_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_057",
@@ -1217,7 +1274,8 @@
         "astronomy_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_058",
@@ -1238,7 +1296,8 @@
         "astronomy_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_059",
@@ -1259,7 +1318,8 @@
         "astronomy_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_060",
@@ -1280,7 +1340,8 @@
         "astronomy_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_060_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_060_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_061",
@@ -1301,7 +1362,8 @@
         "astronomy_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_061_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_061_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_062",
@@ -1322,7 +1384,8 @@
         "astronomy_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_062_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_062_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_063",
@@ -1343,7 +1406,8 @@
         "astronomy_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_063_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_063_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "astronomy_064",
@@ -1364,7 +1428,8 @@
         "astronomy_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_064_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/astronomy/astronomy_064_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     }
   ]
 }

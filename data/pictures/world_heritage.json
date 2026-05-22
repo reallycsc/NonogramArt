@@ -20,7 +20,8 @@
         "world_heritage_002_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_003",
@@ -41,7 +42,8 @@
         "world_heritage_003_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_004",
@@ -62,7 +64,8 @@
         "world_heritage_004_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_005",
@@ -83,7 +86,8 @@
         "world_heritage_005_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_006",
@@ -104,7 +108,8 @@
         "world_heritage_006_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_009",
@@ -125,7 +130,8 @@
         "world_heritage_009_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_012",
@@ -146,7 +152,8 @@
         "world_heritage_012_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_013",
@@ -167,7 +174,8 @@
         "world_heritage_013_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_014",
@@ -188,7 +196,8 @@
         "world_heritage_014_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_015",
@@ -209,7 +218,8 @@
         "world_heritage_015_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_016",
@@ -230,7 +240,8 @@
         "world_heritage_016_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_018",
@@ -251,7 +262,8 @@
         "world_heritage_018_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_019",
@@ -272,7 +284,8 @@
         "world_heritage_019_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_020",
@@ -293,7 +306,8 @@
         "world_heritage_020_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_021",
@@ -314,7 +328,8 @@
         "world_heritage_021_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_022",
@@ -335,7 +350,8 @@
         "world_heritage_022_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "world_heritage_023",
@@ -356,7 +372,8 @@
         "world_heritage_023_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_024",
@@ -377,7 +394,8 @@
         "world_heritage_024_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_025",
@@ -398,7 +416,8 @@
         "world_heritage_025_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_026",
@@ -419,7 +438,8 @@
         "world_heritage_026_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_027",
@@ -440,7 +460,8 @@
         "world_heritage_027_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_028",
@@ -461,7 +482,8 @@
         "world_heritage_028_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_029",
@@ -482,7 +504,8 @@
         "world_heritage_029_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_030",
@@ -503,7 +526,8 @@
         "world_heritage_030_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_031",
@@ -524,7 +548,8 @@
         "world_heritage_031_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_032",
@@ -545,7 +570,8 @@
         "world_heritage_032_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_033",
@@ -566,7 +592,8 @@
         "world_heritage_033_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_034",
@@ -587,7 +614,8 @@
         "world_heritage_034_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_035",
@@ -608,7 +636,8 @@
         "world_heritage_035_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_036",
@@ -629,7 +658,8 @@
         "world_heritage_036_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_037",
@@ -650,7 +680,8 @@
         "world_heritage_037_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_038",
@@ -671,7 +702,8 @@
         "world_heritage_038_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_039",
@@ -692,7 +724,8 @@
         "world_heritage_039_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_040",
@@ -713,7 +746,8 @@
         "world_heritage_040_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_041",
@@ -734,7 +768,8 @@
         "world_heritage_041_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_042",
@@ -755,7 +790,8 @@
         "world_heritage_042_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_043",
@@ -776,7 +812,8 @@
         "world_heritage_043_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_044",
@@ -797,7 +834,8 @@
         "world_heritage_044_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_045",
@@ -818,7 +856,8 @@
         "world_heritage_045_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_046",
@@ -839,7 +878,8 @@
         "world_heritage_046_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_047",
@@ -860,7 +900,8 @@
         "world_heritage_047_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_048",
@@ -881,7 +922,8 @@
         "world_heritage_048_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_050",
@@ -902,7 +944,8 @@
         "world_heritage_050_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_051",
@@ -923,7 +966,8 @@
         "world_heritage_051_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_052",
@@ -944,7 +988,8 @@
         "world_heritage_052_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "world_heritage_053",
@@ -965,7 +1010,8 @@
         "world_heritage_053_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_054",
@@ -986,7 +1032,8 @@
         "world_heritage_054_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_055",
@@ -1007,7 +1054,8 @@
         "world_heritage_055_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_056",
@@ -1028,7 +1076,8 @@
         "world_heritage_056_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_057",
@@ -1049,7 +1098,8 @@
         "world_heritage_057_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_058",
@@ -1070,7 +1120,8 @@
         "world_heritage_058_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_059",
@@ -1091,7 +1142,8 @@
         "world_heritage_059_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_060",
@@ -1112,7 +1164,8 @@
         "world_heritage_060_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_060_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_060_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_061",
@@ -1133,7 +1186,8 @@
         "world_heritage_061_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_061_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_061_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_063",
@@ -1154,7 +1208,8 @@
         "world_heritage_063_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_063_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_063_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_064",
@@ -1175,7 +1230,8 @@
         "world_heritage_064_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_064_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_064_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_066",
@@ -1196,7 +1252,8 @@
         "world_heritage_066_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_066_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_066_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_067",
@@ -1217,7 +1274,8 @@
         "world_heritage_067_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_067_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_067_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "world_heritage_069",
@@ -1238,7 +1296,8 @@
         "world_heritage_069_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_069_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_069_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_070",
@@ -1259,7 +1318,8 @@
         "world_heritage_070_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_070_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_070_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_071",
@@ -1280,7 +1340,8 @@
         "world_heritage_071_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_071_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_071_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_072",
@@ -1301,7 +1362,8 @@
         "world_heritage_072_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_072_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_072_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_073",
@@ -1322,7 +1384,8 @@
         "world_heritage_073_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_073_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_073_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_074",
@@ -1343,7 +1406,8 @@
         "world_heritage_074_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_074_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_074_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_075",
@@ -1364,7 +1428,8 @@
         "world_heritage_075_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_075_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_075_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_076",
@@ -1385,7 +1450,8 @@
         "world_heritage_076_5"
       ],
       "order": 65,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_076_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_076_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_077",
@@ -1406,7 +1472,8 @@
         "world_heritage_077_5"
       ],
       "order": 66,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_077_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_077_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_078",
@@ -1427,7 +1494,8 @@
         "world_heritage_078_5"
       ],
       "order": 67,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_078_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_078_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "world_heritage_079",
@@ -1448,7 +1516,8 @@
         "world_heritage_079_5"
       ],
       "order": 68,
-      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_079_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/world_heritage/world_heritage_079_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     }
   ]
 }

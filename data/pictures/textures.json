@@ -20,7 +20,8 @@
         "textures_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_001",
@@ -41,7 +42,8 @@
         "textures_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_002",
@@ -62,7 +64,8 @@
         "textures_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_003",
@@ -83,7 +86,8 @@
         "textures_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_004",
@@ -104,7 +108,8 @@
         "textures_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_005",
@@ -125,7 +130,8 @@
         "textures_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_006",
@@ -146,7 +152,8 @@
         "textures_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_007",
@@ -167,7 +174,8 @@
         "textures_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_008",
@@ -188,7 +196,8 @@
         "textures_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_009",
@@ -209,7 +218,8 @@
         "textures_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_010",
@@ -230,7 +240,8 @@
         "textures_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_011",
@@ -251,7 +262,8 @@
         "textures_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_012",
@@ -272,7 +284,8 @@
         "textures_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_013",
@@ -293,7 +306,8 @@
         "textures_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_014",
@@ -314,7 +328,8 @@
         "textures_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_015",
@@ -335,7 +350,8 @@
         "textures_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_016",
@@ -356,7 +372,8 @@
         "textures_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_017",
@@ -377,7 +394,8 @@
         "textures_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_018",
@@ -398,7 +416,8 @@
         "textures_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_019",
@@ -419,7 +438,8 @@
         "textures_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "textures_020",
@@ -440,7 +460,8 @@
         "textures_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_021",
@@ -461,7 +482,8 @@
         "textures_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_022",
@@ -482,7 +504,8 @@
         "textures_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_023",
@@ -503,7 +526,8 @@
         "textures_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_024",
@@ -524,7 +548,8 @@
         "textures_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_025",
@@ -545,7 +570,8 @@
         "textures_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_026",
@@ -566,7 +592,8 @@
         "textures_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_027",
@@ -587,7 +614,8 @@
         "textures_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_028",
@@ -608,7 +636,8 @@
         "textures_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_029",
@@ -629,7 +658,8 @@
         "textures_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_030",
@@ -650,7 +680,8 @@
         "textures_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_031",
@@ -671,7 +702,8 @@
         "textures_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_032",
@@ -692,7 +724,8 @@
         "textures_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_033",
@@ -713,7 +746,8 @@
         "textures_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_034",
@@ -734,7 +768,8 @@
         "textures_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_035",
@@ -755,7 +790,8 @@
         "textures_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_036",
@@ -776,7 +812,8 @@
         "textures_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_037",
@@ -797,7 +834,8 @@
         "textures_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_038",
@@ -818,7 +856,8 @@
         "textures_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_039",
@@ -839,7 +878,8 @@
         "textures_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "textures_040",
@@ -860,7 +900,8 @@
         "textures_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_042",
@@ -881,7 +922,8 @@
         "textures_042_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_043",
@@ -902,7 +944,8 @@
         "textures_043_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_044",
@@ -923,7 +966,8 @@
         "textures_044_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_045",
@@ -944,7 +988,8 @@
         "textures_045_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_046",
@@ -965,7 +1010,8 @@
         "textures_046_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_047",
@@ -986,7 +1032,8 @@
         "textures_047_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_048",
@@ -1007,7 +1054,8 @@
         "textures_048_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_049",
@@ -1028,7 +1076,8 @@
         "textures_049_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_050",
@@ -1049,7 +1098,8 @@
         "textures_050_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_051",
@@ -1070,7 +1120,8 @@
         "textures_051_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_053",
@@ -1091,7 +1142,8 @@
         "textures_053_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_054",
@@ -1112,7 +1164,8 @@
         "textures_054_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_055",
@@ -1133,7 +1186,8 @@
         "textures_055_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_056",
@@ -1154,7 +1208,8 @@
         "textures_056_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_057",
@@ -1175,7 +1230,8 @@
         "textures_057_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_058",
@@ -1196,7 +1252,8 @@
         "textures_058_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "textures_059",
@@ -1217,7 +1274,8 @@
         "textures_059_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/textures/textures_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/textures/textures_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     }
   ]
 }

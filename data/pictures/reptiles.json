@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "reptiles",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "reptiles_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_001",
@@ -41,7 +42,8 @@
         "reptiles_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_002",
@@ -62,7 +64,8 @@
         "reptiles_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_003",
@@ -83,7 +86,8 @@
         "reptiles_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_004",
@@ -104,7 +108,8 @@
         "reptiles_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_005",
@@ -125,7 +130,8 @@
         "reptiles_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_006",
@@ -146,7 +152,8 @@
         "reptiles_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_007",
@@ -167,7 +174,8 @@
         "reptiles_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_008",
@@ -188,7 +196,8 @@
         "reptiles_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_009",
@@ -209,7 +218,8 @@
         "reptiles_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_010",
@@ -230,7 +240,8 @@
         "reptiles_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_011",
@@ -251,7 +262,8 @@
         "reptiles_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_012",
@@ -272,7 +284,8 @@
         "reptiles_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_013",
@@ -293,7 +306,8 @@
         "reptiles_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_014",
@@ -314,7 +328,8 @@
         "reptiles_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_015",
@@ -335,7 +350,8 @@
         "reptiles_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_016",
@@ -356,7 +372,8 @@
         "reptiles_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_017",
@@ -377,7 +394,8 @@
         "reptiles_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_018",
@@ -398,7 +416,8 @@
         "reptiles_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_019",
@@ -419,7 +438,8 @@
         "reptiles_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_020",
@@ -440,7 +460,8 @@
         "reptiles_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_021",
@@ -461,7 +482,8 @@
         "reptiles_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_022",
@@ -482,7 +504,8 @@
         "reptiles_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_023",
@@ -503,7 +526,8 @@
         "reptiles_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_024",
@@ -524,7 +548,8 @@
         "reptiles_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_025",
@@ -545,7 +570,8 @@
         "reptiles_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_026",
@@ -566,7 +592,8 @@
         "reptiles_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_027",
@@ -587,7 +614,8 @@
         "reptiles_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_028",
@@ -608,7 +636,8 @@
         "reptiles_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_029",
@@ -629,7 +658,8 @@
         "reptiles_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_030",
@@ -650,7 +680,8 @@
         "reptiles_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_031",
@@ -671,7 +702,8 @@
         "reptiles_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_032",
@@ -692,7 +724,8 @@
         "reptiles_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_033",
@@ -713,7 +746,8 @@
         "reptiles_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_034",
@@ -734,7 +768,8 @@
         "reptiles_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_035",
@@ -755,7 +790,8 @@
         "reptiles_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_036",
@@ -776,7 +812,8 @@
         "reptiles_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_037",
@@ -797,7 +834,8 @@
         "reptiles_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_038",
@@ -818,7 +856,8 @@
         "reptiles_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_039",
@@ -839,7 +878,8 @@
         "reptiles_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_040",
@@ -860,7 +900,8 @@
         "reptiles_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_041",
@@ -881,7 +922,8 @@
         "reptiles_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_042",
@@ -902,7 +944,8 @@
         "reptiles_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_043",
@@ -923,7 +966,8 @@
         "reptiles_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_044",
@@ -944,7 +988,8 @@
         "reptiles_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_045",
@@ -965,7 +1010,8 @@
         "reptiles_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_046",
@@ -986,7 +1032,8 @@
         "reptiles_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_047",
@@ -1007,7 +1054,8 @@
         "reptiles_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_048",
@@ -1028,7 +1076,8 @@
         "reptiles_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_049",
@@ -1049,7 +1098,8 @@
         "reptiles_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_050",
@@ -1070,7 +1120,8 @@
         "reptiles_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_051",
@@ -1091,7 +1142,8 @@
         "reptiles_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_052",
@@ -1112,7 +1164,8 @@
         "reptiles_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_053",
@@ -1133,7 +1186,8 @@
         "reptiles_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "reptiles_054",
@@ -1154,7 +1208,8 @@
         "reptiles_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_055",
@@ -1175,7 +1230,8 @@
         "reptiles_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_056",
@@ -1196,7 +1252,8 @@
         "reptiles_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_057",
@@ -1217,7 +1274,8 @@
         "reptiles_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_058",
@@ -1238,7 +1296,8 @@
         "reptiles_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_059",
@@ -1259,7 +1318,8 @@
         "reptiles_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_060",
@@ -1280,7 +1340,8 @@
         "reptiles_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_060_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_060_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_061",
@@ -1301,7 +1362,8 @@
         "reptiles_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_061_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_061_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "reptiles_062",
@@ -1322,7 +1384,8 @@
         "reptiles_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_062_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_062_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "reptiles_063",
@@ -1343,7 +1406,8 @@
         "reptiles_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_063_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_063_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "reptiles_064",
@@ -1364,7 +1428,8 @@
         "reptiles_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_064_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/reptiles/reptiles_064_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     }
   ]
 }

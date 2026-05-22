@@ -54,8 +54,8 @@ static func from_json(data: Dictionary) -> PuzzleData:
 	if p.picture_id == "":
 		p.picture_id = data.get("story_id", "")
 	var size = data.get("size", {})
-	p.rows = size.get("rows", 0)
-	p.cols = size.get("cols", 0)
+	p.rows = size
+	p.cols = size
 	p.row_clues = data.get("row_clues", [])
 	p.col_clues = data.get("col_clues", [])
 	p.solution = data.get("solution", [])

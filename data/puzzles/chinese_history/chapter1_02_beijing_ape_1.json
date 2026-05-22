@@ -1,89 +1,86 @@
 {
-	"id": "chapter1_02_beijing_ape_1",
-	"name": "chapter1_02_beijing_ape_1",
-	"picture_id": "chapter1_02_beijing_ape",
-	"size": {
-		"rows": 5,
-		"cols": 5
-	},
-	"difficulty": "tutorial",
-	"solution": [
-		[
-			1,
-			0,
-			0,
-			0,
-			0
-		],
-		[
-			0,
-			0,
-			0,
-			0,
-			1
-		],
-		[
-			0,
-			0,
-			0,
-			0,
-			1
-		],
-		[
-			0,
-			0,
-			0,
-			1,
-			1
-		],
-		[
-			1,
-			1,
-			1,
-			1,
-			0
-		]
-	],
-	"row_clues": [
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			2
-		],
-		[
-			4
-		]
-	],
-	"col_clues": [
-		[
-			1,
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			2
-		],
-		[
-			3
-		]
-	],
-	"hint_cells": [],
-	"source_rect": {
-		"x": 426,
-		"y": 0,
-		"w": 426,
-		"h": 426
-	}
+  "id": "chapter1_02_beijing_ape_1",
+  "name": "chapter1_02_beijing_ape_1",
+  "picture_id": "chapter1_02_beijing_ape",
+  "size": 5,
+  "difficulty": "tutorial",
+  "solution": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "row_clues": [
+    [
+      3
+    ],
+    [
+      5
+    ],
+    [
+      4
+    ],
+    [
+      3
+    ],
+    [
+      1
+    ]
+  ],
+  "col_clues": [
+    [
+      3
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      3
+    ],
+    [
+      2,
+      1
+    ]
+  ],
+  "hint_cells": [],
+  "source_rect": {
+    "x": 426,
+    "y": 0,
+    "width": 426,
+    "height": 426
+  }
 }

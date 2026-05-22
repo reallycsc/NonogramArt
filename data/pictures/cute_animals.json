@@ -1,0 +1,605 @@
+{
+  "album_id": "cute_animals",
+  "pictures": [
+    {
+      "id": "cute_animals_000",
+      "title": "小猫",
+      "summary": "慵懒地蜷缩在窗台上，小猫用柔软的呼噜声编织着午后的美梦。",
+      "full_text": "慵懒地蜷缩在窗台上，小猫用柔软的呼噜声编织着午后的美梦。它是家中的小精灵，用一双明亮的眼睛洞察世间万物。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_000.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_000_d1",
+        "cute_animals_000_d2",
+        "cute_animals_000_d3",
+        "cute_animals_000_d4"
+      ],
+      "order": 0,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
+    },
+    {
+      "id": "cute_animals_001",
+      "title": "小狗",
+      "summary": "摇着尾巴奔向主人，小狗是忠诚与快乐的化身。",
+      "full_text": "摇着尾巴奔向主人，小狗是忠诚与快乐的化身。它的世界很简单，一个拥抱就是整个天堂。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_001.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_001_d1",
+        "cute_animals_001_d2",
+        "cute_animals_001_d3",
+        "cute_animals_001_d4"
+      ],
+      "order": 1,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
+    },
+    {
+      "id": "cute_animals_002",
+      "title": "小兔",
+      "summary": "长长的耳朵竖起来，红红的眼睛眨呀眨。",
+      "full_text": "长长的耳朵竖起来，红红的眼睛眨呀眨。小兔是春天里最温柔的使者，蹦蹦跳跳间带来满园生机。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_002.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_002_d1",
+        "cute_animals_002_d2",
+        "cute_animals_002_d3",
+        "cute_animals_002_d4"
+      ],
+      "order": 2,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
+    },
+    {
+      "id": "cute_animals_003",
+      "title": "仓鼠",
+      "summary": "圆滚滚的身体塞满了腮帮子，仓鼠是小小的美食家。",
+      "full_text": "圆滚滚的身体塞满了腮帮子，仓鼠是小小的美食家。它把整个秋天都藏进了地洞里，为冬天准备着最甜蜜的惊喜。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_003.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_003_d1",
+        "cute_animals_003_d2",
+        "cute_animals_003_d3",
+        "cute_animals_003_d4"
+      ],
+      "order": 3,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
+    },
+    {
+      "id": "cute_animals_004",
+      "title": "金鱼",
+      "summary": "摇曳着轻纱般的尾巴，金鱼在水中翩翩起舞。",
+      "full_text": "摇曳着轻纱般的尾巴，金鱼在水中翩翩起舞。它是流动的艺术品，用橙红色的身姿点亮了整个鱼缸。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_004.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_004_d1",
+        "cute_animals_004_d2",
+        "cute_animals_004_d3",
+        "cute_animals_004_d4"
+      ],
+      "order": 4,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
+    },
+    {
+      "id": "cute_animals_005",
+      "title": "小鸡",
+      "summary": "毛茸茸的黄球在地上滚来滚去，小鸡是春天最萌的音符。",
+      "full_text": "毛茸茸的黄球在地上滚来滚去，小鸡是春天最萌的音符。叽叽喳喳地唱着歌，每一声都是对生命的赞美。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_005.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_005_d1",
+        "cute_animals_005_d2",
+        "cute_animals_005_d3",
+        "cute_animals_005_d4"
+      ],
+      "order": 5,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
+    },
+    {
+      "id": "cute_animals_006",
+      "title": "乌龟",
+      "summary": "背着小房子慢悠悠地散步，乌龟是时间的智者。",
+      "full_text": "背着小房子慢悠悠地散步，乌龟是时间的智者。它不急不躁，一步一步，走出了属于自己的风景。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_006.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_006_d1",
+        "cute_animals_006_d2",
+        "cute_animals_006_d3",
+        "cute_animals_006_d4"
+      ],
+      "order": 6,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
+    },
+    {
+      "id": "cute_animals_007",
+      "title": "小猪",
+      "summary": "圆滚滚的鼻子拱来拱去，小猪是农场里最快乐的小胖子。",
+      "full_text": "圆滚滚的鼻子拱来拱去，小猪是农场里最快乐的小胖子。它用泥巴做面膜，用哼哼声唱情歌，生活简单而满足。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_007.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_007_d1",
+        "cute_animals_007_d2",
+        "cute_animals_007_d3",
+        "cute_animals_007_d4"
+      ],
+      "order": 7,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
+    },
+    {
+      "id": "cute_animals_008",
+      "title": "绵羊",
+      "summary": "像一朵行走的白云，绵羊温柔地漫步在绿草地上。",
+      "full_text": "像一朵行走的白云，绵羊温柔地漫步在绿草地上。它那蓬松的羊毛是冬日里最温暖的承诺，是大自然赐予的柔软礼物。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_008.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_008_d1",
+        "cute_animals_008_d2",
+        "cute_animals_008_d3",
+        "cute_animals_008_d4"
+      ],
+      "order": 8,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
+    },
+    {
+      "id": "cute_animals_009",
+      "title": "奶牛",
+      "summary": "黑白相间的花纹是它独特的时尚宣言，奶牛是牧场里最优雅的女士。",
+      "full_text": "黑白相间的花纹是它独特的时尚宣言，奶牛是牧场里最优雅的女士。每一滴牛奶都是它对世界的温柔馈赠。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_009.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_009_d1",
+        "cute_animals_009_d2",
+        "cute_animals_009_d3",
+        "cute_animals_009_d4"
+      ],
+      "order": 9,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
+    },
+    {
+      "id": "cute_animals_010",
+      "title": "小马",
+      "summary": "飘逸的鬃毛随风飞扬，小马是草原上自由的风。",
+      "full_text": "飘逸的鬃毛随风飞扬，小马是草原上自由的风。它用蹄声敲击大地，奏响属于旷野的乐章。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_010.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_010_d1",
+        "cute_animals_010_d2",
+        "cute_animals_010_d3",
+        "cute_animals_010_d4"
+      ],
+      "order": 10,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
+    },
+    {
+      "id": "cute_animals_011",
+      "title": "鸭子",
+      "summary": "摇摇摆摆地走过农场，嘎嘎嘎地唱着歌。",
+      "full_text": "摇摇摆摆地走过农场，嘎嘎嘎地唱着歌。鸭子是池塘里最忙碌的小船，划出一道道快乐的水波纹。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_011.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_011_d1",
+        "cute_animals_011_d2",
+        "cute_animals_011_d3",
+        "cute_animals_011_d4"
+      ],
+      "order": 11,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
+    },
+    {
+      "id": "cute_animals_012",
+      "title": "小鹅",
+      "summary": "昂首挺胸地巡视着领地，小鹅是农场里最尽职的小保安。",
+      "full_text": "昂首挺胸地巡视着领地，小鹅是农场里最尽职的小保安。它虽然个头不大，却有着保护伙伴的勇气。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_012.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_012_d1",
+        "cute_animals_012_d2",
+        "cute_animals_012_d3",
+        "cute_animals_012_d4"
+      ],
+      "order": 12,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
+    },
+    {
+      "id": "cute_animals_013",
+      "title": "山羊",
+      "summary": "站在陡峭的山崖上，山羊是攀岩的高手。",
+      "full_text": "站在陡峭的山崖上，山羊是攀岩的高手。它那小小的胡须随风飘动，是山间最酷的冒险家。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_013.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_013_d1",
+        "cute_animals_013_d2",
+        "cute_animals_013_d3",
+        "cute_animals_013_d4"
+      ],
+      "order": 13,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
+    },
+    {
+      "id": "cute_animals_014",
+      "title": "小驴",
+      "summary": "长长的耳朵是它的天线，小驴是农场里最勤劳的伙伴。",
+      "full_text": "长长的耳朵是它的天线，小驴是农场里最勤劳的伙伴。它虽然倔强，却有着最踏实的心。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_014.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_014_d1",
+        "cute_animals_014_d2",
+        "cute_animals_014_d3",
+        "cute_animals_014_d4"
+      ],
+      "order": 14,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
+    },
+    {
+      "id": "cute_animals_015",
+      "title": "小鹿",
+      "summary": "斑驳的阳光洒在林间，小鹿轻盈地穿过树丛。",
+      "full_text": "斑驳的阳光洒在林间，小鹿轻盈地穿过树丛。它那温柔的大眼睛里映着整片森林，是林中最美的精灵。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_015.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_015_d1",
+        "cute_animals_015_d2",
+        "cute_animals_015_d3",
+        "cute_animals_015_d4"
+      ],
+      "order": 15,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
+    },
+    {
+      "id": "cute_animals_016",
+      "title": "松鼠",
+      "summary": "抱着松果大快朵颐，松鼠是森林里最忙碌的收藏家。",
+      "full_text": "抱着松果大快朵颐，松鼠是森林里最忙碌的收藏家。它把坚果藏在树洞里，为冬天准备着满满的幸福。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_016.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_016_d1",
+        "cute_animals_016_d2",
+        "cute_animals_016_d3",
+        "cute_animals_016_d4"
+      ],
+      "order": 16,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
+    },
+    {
+      "id": "cute_animals_017",
+      "title": "狐狸",
+      "summary": "披着火红的大衣穿行于林间，狐狸是森林里最聪明的谋士。",
+      "full_text": "披着火红的大衣穿行于林间，狐狸是森林里最聪明的谋士。它那灵动的眼神中藏着大自然的智慧。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_017.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_017_d1",
+        "cute_animals_017_d2",
+        "cute_animals_017_d3",
+        "cute_animals_017_d4"
+      ],
+      "order": 17,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
+    },
+    {
+      "id": "cute_animals_018",
+      "title": "熊猫",
+      "summary": "抱着竹子悠然自得，熊猫是国宝级的萌物。",
+      "full_text": "抱着竹子悠然自得，熊猫是国宝级的萌物。黑白分明的配色是它天生的礼服，慵懒的姿态是它对生活的态度。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_018.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_018_d1",
+        "cute_animals_018_d2",
+        "cute_animals_018_d3",
+        "cute_animals_018_d4"
+      ],
+      "order": 18,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
+    },
+    {
+      "id": "cute_animals_019",
+      "title": "考拉",
+      "summary": "抱着桉树打盹儿，考拉是澳洲最佛系的居民。",
+      "full_text": "抱着桉树打盹儿，考拉是澳洲最佛系的居民。它一天要睡二十个小时，是慢生活的最佳代言人。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_019.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_019_d1",
+        "cute_animals_019_d2",
+        "cute_animals_019_d3",
+        "cute_animals_019_d4"
+      ],
+      "order": 19,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
+    },
+    {
+      "id": "cute_animals_020",
+      "title": "刺猬",
+      "summary": "浑身是刺却内心柔软，刺猬是自我保护的专家。",
+      "full_text": "浑身是刺却内心柔软，刺猬是自我保护的专家。它蜷成一个小球，把脆弱藏在刺的盔甲之下。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_020.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_020_d1",
+        "cute_animals_020_d2",
+        "cute_animals_020_d3",
+        "cute_animals_020_d4"
+      ],
+      "order": 20,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
+    },
+    {
+      "id": "cute_animals_021",
+      "title": "猫头鹰",
+      "summary": "睁着圆溜溜的大眼睛守候夜空，猫头鹰是暗夜里的智者。",
+      "full_text": "睁着圆溜溜的大眼睛守候夜空，猫头鹰是暗夜里的智者。它无声地飞翔，是月光下最神秘的守护者。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_021.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_021_d1",
+        "cute_animals_021_d2",
+        "cute_animals_021_d3",
+        "cute_animals_021_d4"
+      ],
+      "order": 21,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
+    },
+    {
+      "id": "cute_animals_022",
+      "title": "海豚",
+      "summary": "跃出海面的瞬间，海豚划出一道优美的弧线。",
+      "full_text": "跃出海面的瞬间，海豚划出一道优美的弧线。它是大海的微笑，用欢快的叫声传递着海洋的快乐。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_022.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_022_d1",
+        "cute_animals_022_d2",
+        "cute_animals_022_d3",
+        "cute_animals_022_d4"
+      ],
+      "order": 22,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
+    },
+    {
+      "id": "cute_animals_023",
+      "title": "企鹅",
+      "summary": "穿着燕尾服摇摇摆摆，企鹅是南极最绅士的居民。",
+      "full_text": "穿着燕尾服摇摇摆摆，企鹅是南极最绅士的居民。它在冰天雪地中坚守着温暖，用身体守护着每一颗蛋。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_023.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_023_d1",
+        "cute_animals_023_d2",
+        "cute_animals_023_d3",
+        "cute_animals_023_d4"
+      ],
+      "order": 23,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
+    },
+    {
+      "id": "cute_animals_024",
+      "title": "小鲸鱼",
+      "summary": "喷出高高的水柱，小鲸鱼是海洋中温柔的巨人。",
+      "full_text": "喷出高高的水柱，小鲸鱼是海洋中温柔的巨人。它的歌声穿越千里，是大海最深情的旋律。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_024.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_024_d1",
+        "cute_animals_024_d2",
+        "cute_animals_024_d3",
+        "cute_animals_024_d4"
+      ],
+      "order": 24,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
+    },
+    {
+      "id": "cute_animals_025",
+      "title": "蝴蝶鱼",
+      "summary": "披着绚丽的彩衣在珊瑚间穿梭，蝴蝶鱼是海底最优雅的舞者。",
+      "full_text": "披着绚丽的彩衣在珊瑚间穿梭，蝴蝶鱼是海底最优雅的舞者。它那斑斓的色彩是海洋最珍贵的画作。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_025.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_025_d1",
+        "cute_animals_025_d2",
+        "cute_animals_025_d3",
+        "cute_animals_025_d4"
+      ],
+      "order": 25,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
+    },
+    {
+      "id": "cute_animals_026",
+      "title": "海龟",
+      "summary": "慢悠悠地划过碧蓝的海水，海龟是海洋里最古老的旅行者。",
+      "full_text": "慢悠悠地划过碧蓝的海水，海龟是海洋里最古老的旅行者。它背着岁月的痕迹，游过了千年的时光。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_026.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_026_d1",
+        "cute_animals_026_d2",
+        "cute_animals_026_d3",
+        "cute_animals_026_d4"
+      ],
+      "order": 26,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
+    },
+    {
+      "id": "cute_animals_027",
+      "title": "鹦鹉",
+      "summary": "披着七彩的羽毛站在枝头，鹦鹉是热带雨林中最健谈的居民。",
+      "full_text": "披着七彩的羽毛站在枝头，鹦鹉是热带雨林中最健谈的居民。它学舌逗趣，是森林里最会社交的小明星。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_027.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_027_d1",
+        "cute_animals_027_d2",
+        "cute_animals_027_d3",
+        "cute_animals_027_d4"
+      ],
+      "order": 27,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
+    },
+    {
+      "id": "cute_animals_028",
+      "title": "天鹅",
+      "summary": "优雅地滑过湖面，天鹅是水上的芭蕾舞者。",
+      "full_text": "优雅地滑过湖面，天鹅是水上的芭蕾舞者。它那修长的脖颈划出完美的曲线，是纯洁与优雅的化身。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_028.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_028_d1",
+        "cute_animals_028_d2",
+        "cute_animals_028_d3",
+        "cute_animals_028_d4"
+      ],
+      "order": 28,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
+    },
+    {
+      "id": "cute_animals_029",
+      "title": "小燕子",
+      "summary": "剪刀似的尾巴划过春风，小燕子是报春的使者。",
+      "full_text": "剪刀似的尾巴划过春风，小燕子是报春的使者。它衔泥筑巢，用勤劳编织着温暖的家。",
+      "image": "res://assets/images/illustrations/cute_animals/cute_animals_029.jpg",
+      "image_grid": {
+        "x": 2,
+        "y": 2
+      },
+      "puzzles": [
+        "cute_animals_029_d1",
+        "cute_animals_029_d2",
+        "cute_animals_029_d3",
+        "cute_animals_029_d4"
+      ],
+      "order": 29,
+      "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
+    }
+  ]
+}

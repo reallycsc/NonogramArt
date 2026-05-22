@@ -2,9 +2,9 @@
 
 ## 概述
 
-从原图自动生成数织（Nonogram）关卡和彩色像素图。核心原则：**优先填充亮度更低的像素格**，填充率根据原图颜色含量动态变化，**所有关卡必须可纯逻辑求解**。
+从原图自动生成数织（Nonogram）关卡和彩色像素图。核心原则：**从原图提取主体形状作为数织解，优先保持形状完整，提示叉叉优先于翻转修复**。
 
-完整流程：原图 → 亮度提取 → 动态填充率计算 → 排名生成网格 → 空满行修复 → 线索计算 → 可解性验证 → 网格翻转修复 → 提示格生成（兜底） → 关卡JSON + 彩色像素图 + 黑白数织图。
+完整流程：读取画册文档 → 解析难度范围 → 原图分块 → 复杂度计算 → 动态难度分配 → Otsu二值化提取主体形状 → 线索计算 → 可解性验证 → 提示叉叉生成（优先） → 最小翻转修复（最后手段） → 关卡JSON + 彩色像素图。
 
 ## 工具与依赖
 
@@ -13,7 +13,7 @@
 | Python 3.11 | 运行生成脚本 |
 | PIL/Pillow | 图片处理 |
 | NumPy | 数值计算 |
-| 生成脚本 | `tools/fix_all_dynamic_optimized.py`（最新优化版本） |
+| 画册文档 | `docs/albums/{album_id}.md`，定义难度范围和章节划分 |
 
 ## 数据结构
 
@@ -27,7 +27,7 @@
 {
   "id": "chapter1_01_yuanmou",
   "image": "res://assets/images/illustrations/chinese_history/chapter1_01_yuanmou.jpg",
-  "nonogram_pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_01_yuanmou_nonogram_pixel.jpg",
+  "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_01_yuanmou_nonogram_pixel.jpg",
   "image_grid": { "x": 3, "y": 2 },
   "puzzles": [
     "chapter1_01_yuanmou_0",
@@ -46,7 +46,7 @@
 {
   "id": "geometric_shapes_000",
   "image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000.jpg",
-  "nonogram_pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000_nonogram_pixel.jpg",
+  "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000_nonogram_pixel.jpg",
   "image_grid": { "x": 1, "y": 1 },
   "puzzles": [
     "geometric_shapes_000_0"
@@ -58,15 +58,15 @@
 
 ```json
 {
-  "id": "future_album_000",
-  "image": "res://assets/images/illustrations/future_album/future_album_000.jpg",
-  "nonogram_pixel_image": "res://assets/images/illustrations/future_album/future_album_000_nonogram_pixel.jpg",
+  "id": "cute_animals_000",
+  "image": "res://assets/images/illustrations/cute_animals/cute_animals_000.jpg",
+  "pixel_image": "res://assets/images/illustrations/cute_animals/cute_animals_000_nonogram_pixel.jpg",
   "image_grid": { "x": 2, "y": 2 },
   "puzzles": [
-    "future_album_000_0",
-    "future_album_000_1",
-    "future_album_000_2",
-    "future_album_000_3"
+    "cute_animals_000_d1",
+    "cute_animals_000_d2",
+    "cute_animals_000_d3",
+    "cute_animals_000_d4"
   ]
 }
 ```
@@ -77,16 +77,16 @@
 
 ```json
 {
-  "id": "chapter1_01_yuanmou_0",
-  "name": "元谋人遗址-分块0",
-  "picture_id": "chapter1_01_yuanmou",
-  "size": { "rows": 5, "cols": 5 },
+  "id": "cute_animals_000_d1",
+  "name": "cute_animals_000_d1",
+  "picture_id": "cute_animals_000",
+  "size": 5,
   "difficulty": "tutorial",
   "row_clues": [[1, 2], [2], [2], [2, 1], [4]],
   "col_clues": [[4], [4], [1, 1], [1, 1], [2]],
   "solution": [[1,0,1,1,0], [1,1,0,0,0], [1,1,0,0,0], [1,1,0,0,1], [0,1,1,1,1]],
   "hint_cells": [],
-  "source_rect": { "x": 0, "y": 0, "w": 832, "h": 832 }
+  "source_rect": { "x": 0, "y": 0, "width": 640, "height": 640 }
 }
 ```
 
@@ -94,106 +94,120 @@
 
 | 字段 | 类型 | 说明 |
 | ---- | ---- | ---- |
-| id | string | 关卡唯一标识，格式 `{picture_id}_{分块序号}` |
-| name | string | 关卡名称，格式 `{图片标题}-分块{序号}` |
+| id | string | 关卡唯一标识 |
+| name | string | 关卡名称 |
 | picture_id | string | 所属图片ID |
-| size | object | 网格尺寸，rows = cols（正方形） |
-| difficulty | string | 难度：tutorial/easy/medium/hard/expert |
+| size | int | 网格尺寸（正方形，size×size） |
+| difficulty | string | 难度：tutorial(≤5)/easy(≤10)/medium(≤15)/hard(≤20)/expert(≤25) |
 | row_clues | int[][] | 行线索，空行为 [0] |
 | col_clues | int[][] | 列线索，空列为 [0] |
 | solution | int[][] | 解网格，1=填充，0=空白 |
-| hint_cells | int[][] | 提示叉叉坐标列表，每项 [row, col]，仅包含 solution=0 的格子，游戏初始化时显示为X标记 |
-| source_rect | object | 对应彩色像素图的区域 {x, y, w, h} |
+| hint_cells | int[][] | 提示叉叉坐标列表，每项 [row, col]，仅包含 solution=0 的格子 |
+| source_rect | object | 对应原图的区域 {x, y, width, height} |
 
 ## 关卡大小与难度映射
 
-| grid_size | difficulty | 拼接网格(3×2分块) | 拼接网格(2×2分块) | 拼接网格(1×1分块) | 适用章节 |
-| --------- | ---------- | ------------------ | ------------------ | ------------------ | -------- |
-| 5 | tutorial | 15×10 | 10×10 | 5×5 | 第1章 |
-| 10 | easy | 30×20 | 20×20 | 10×10 | 第2-5章 |
-| 15 | medium | 45×30 | 30×30 | 15×15 | 第6-9章 |
-| 20 | hard | 60×40 | 40×40 | 20×20 | 第10-11章 |
-| 25 | expert | 75×50 | 50×50 | 25×25 | 预留 |
+| grid_size | difficulty | 说明 |
+| --------- | ---------- | ---- |
+| 5 | tutorial | 入门级，适合新手 |
+| 10 | easy | 初级，适合进阶 |
+| 15 | medium | 中级，需要一定经验 |
+| 20 | hard | 高级，需要丰富经验 |
+| 25 | expert | 专家级，最高难度 |
 
 ## 流程一：生成数织关卡与彩色像素图
 
 ### 运行命令
 
 ```powershell
-# 生成单个画册的关卡
-python tools/fix_all_dynamic_optimized.py {album_id}
+# 生成指定画册的关卡
+python tools/generate_nonogram.py {album_id}
+
+# 示例：生成可爱动物画册
+python tools/generate_nonogram.py cute_animals
 
 # 示例：生成中国通史画册
-python tools/fix_all_dynamic_optimized.py chinese_history
-
-# 示例：生成世界历史画册
-python tools/fix_all_dynamic_optimized.py world_history
-
-# 指定范围生成（用于调试）
-python tools/fix_all_dynamic_optimized.py chinese_history --start 0 --end 10
+python tools/generate_nonogram.py chinese_history
 ```
 
 ### 完整算法流程
 
 ```
+画册文档 (docs/albums/{album_id}.md)
+    │  解析每张图片的难度范围（min_size ~ max_size）
+    │  解析章节划分
+    │
+    ▼
 原图
     │
     ▼
-1. 亮度提取 (extract_cell_brightness)
-    │  将原图按 image_grid(X×Y) 分块
+1. 原图分块
+    │  按 image_grid(X×Y) 分成 X×Y 个区域
+    │  每个区域对应一个关卡
+    │
+    ▼
+2. 复杂度计算 (calculate_complexity)
+    │  计算每个区域的边缘密度和信息熵
+    │  综合得出复杂度分数
+    │
+    ▼
+3. 动态难度分配 (allocate_difficulties)
+    │  根据画册文档的难度范围限定 min_size ~ max_size
+    │  根据区域复杂度排序，在范围内分配递进难度
+    │  低复杂度 → 较小网格，高复杂度 → 较大网格
+    │
+    ▼
+4. Otsu二值化提取主体形状 (detect_subject_and_binarize)
+    │  在原始高分辨率图像上计算Otsu阈值
+    │  峰值背景检测：近白像素>15%→白背景→暗色主体
+    │                    近黑像素>15%→黑背景→亮色主体
+    │                    否则→少数派优先
+    │  按阈值将每个格子二值化→主体形状网格
+    │
+    ▼
+5. 亮度提取 (extract_cell_brightness_area)
     │  每块按 puzzle_size(N×N) 采样
-    │  计算每个格子的平均亮度 → [(row, col, brightness), ...]
+    │  计算每个格子的区域平均灰度亮度 → [(row, col, brightness), ...]
     │
     ▼
-2. 动态填充率计算 (compute_dynamic_fill_rate)
-    │  Otsu阈值 → 自然暗像素比例(natural_rate)
-    │  钳制到 [0.25, 0.65] → fill_rate
-    │
-    ▼
-3. 排名生成网格 (generate_grid_by_ranking)
-    │  按亮度升序排列所有格子
-    │  填充前 fill_rate 比例的格子（最暗的优先）
-    │
-    ▼
-4. 空满行修复 (fix_empty_and_full_lines)
-    │  对全空行：填充该行最暗的 size//3 个格子
-    │  对全满行：清除该行最亮的 size//3 个格子
-    │  对全空列/全满列：同理处理
-    │
-    ▼
-5. 线索计算 (compute_clues)
+6. 线索计算 (compute_clues)
     │  从网格提取行/列连续填充数
     │  空行/空列 → [0]
     │
     ▼
-6. 可解性验证 (can_solve)
+7. 可解性验证 (can_solve)
     │  约束传播算法（_propagate）
-    │  深度1试探算法（_probe）
     │  返回是否纯逻辑可解
     │
     ▼
-7. 网格翻转修复 (make_solvable, 仅不可解时)
-    │  翻转未知格子使关卡可纯逻辑求解
-    │  优先翻转"填充未知格"（solution=1但求解后仍为-1）
-    │  亮度接近阈值的格子优先（视觉偏差最小）
+8. 提示叉叉生成 (find_hint_cells, 优先策略)
+    │  只标记 solution=0 的空白格（X标记）
+    │  贪心策略：选择解决未知格最多的位置
+    │  支持增量提示
+    │
+    ▼
+9. 最小翻转修复 (make_solvable, 最后手段)
+    │  仅当提示叉叉不足以使关卡可解时使用
+    │  最多翻转 min(10, size²//20) 个格子
+    │  优先翻转亮度接近阈值的格子
+    │  翻转后重新添加提示叉叉
     │  时间限制：10秒
     │
     ▼
-8. 提示叉叉生成 (find_hint_cells, 兜底机制)
-    │  只标记 solution=0 的空白格（X标记）
-    │  贪心策略：选择解决未知格最多的位置
-    │  支持增量提示（在已有提示基础上继续添加）
-    │  提示数量限制：max(15, size²/2)
-    │
-    ▼
-输出关卡JSON文件
+输出关卡JSON文件 + 彩色像素图
 ```
 
 ### 步骤详解
 
-#### 1. 亮度提取
+#### 1. 原图分块
 
-将原图按 `image_grid`（X列×Y行）分成 X×Y 个区域，每个区域对应一个关卡。在每个区域内，按 `puzzle_size`（N×N）采样，计算每个格子的平均亮度值。
+将原图按 `image_grid`（X列×Y行）分成 X×Y 个区域，每个区域对应一个关卡。分块数量由画册配置决定：
+
+| image_grid | 分块数 | 适用场景 |
+| ---------- | ------ | -------- |
+| {x:1, y:1} | 1 | 单关卡图片 |
+| {x:2, y:2} | 4 | 4关卡图片（如可爱动物） |
+| {x:3, y:2} | 6 | 6关卡图片（如中国通史） |
 
 **image_grid = {x:3, y:2}（6分块）示例**：
 
@@ -201,10 +215,8 @@ python tools/fix_all_dynamic_optimized.py chinese_history --start 0 --end 10
 原图 (2496×1664)
 ┌──────────┬──────────┬──────────┐
 │  block0  │  block1  │  block2  │  每块 832×832
-│  5×5采样  │  5×5采样  │  5×5采样  │  → 25个亮度值
 ├──────────┼──────────┼──────────┤
 │  block3  │  block4  │  block5  │
-│  5×5采样  │  5×5采样  │  5×5采样  │
 └──────────┴──────────┴──────────┘
 ```
 
@@ -214,10 +226,8 @@ python tools/fix_all_dynamic_optimized.py chinese_history --start 0 --end 10
 原图 (1280×1280)
 ┌──────────┬──────────┐
 │  block0  │  block1  │  每块 640×640
-│  5×5采样  │  5×5采样  │  → 25个亮度值
 ├──────────┼──────────┤
 │  block2  │  block3  │
-│  5×5采样  │  5×5采样  │
 └──────────┴──────────┘
 ```
 
@@ -227,149 +237,454 @@ python tools/fix_all_dynamic_optimized.py chinese_history --start 0 --end 10
 原图 (1280×1280)
 ┌────────────────────┐
 │      block0        │  整图 1280×1280
-│      5×5采样        │  → 25个亮度值
 └────────────────────┘
 ```
 
-采样方式：将每块区域等分为 N×N 个子区域，计算每个子区域内所有像素的 RGB 平均值，再取三通道均值作为亮度。
+#### 2. 复杂度计算
 
-#### 2. 动态填充率计算
+对每个分块区域计算图像复杂度，用于动态难度分配：
 
-**核心原则：颜色多的原图填充率高，颜色少的填充率低。**
+```python
+def calculate_block_complexity(block_array):
+    # 1. 转灰度图
+    gray = np.dot(block_array[..., :3], [0.299, 0.587, 0.114]).astype(np.uint8)
+    
+    # 2. 边缘密度：水平和垂直方向的像素差异，归一化到 [0, 1]
+    edges_x = np.abs(np.diff(gray, axis=1)).sum()
+    edges_y = np.abs(np.diff(gray, axis=0)).sum()
+    edge_density = (edges_x + edges_y) / (gray.shape[0] * gray.shape[1] * 255)
+    
+    # 3. 信息熵：衡量图像的信息量
+    hist, _ = np.histogram(gray, bins=256, range=(0, 255))
+    prob = hist / hist.sum()
+    prob = prob[prob > 0]
+    entropy = -np.sum(prob * np.log2(prob)) if len(prob) > 0 else 0
+    
+    # 4. 综合复杂度 = 边缘密度×50 + 信息熵
+    # 边缘密度权重 50 使其与信息熵（通常 0-8）量级相当
+    complexity = edge_density * 50 + entropy
+    return complexity
+```
 
-使用 Otsu 阈值算法自动确定亮度分割点：
+**复杂度分数含义**：
+- 边缘密度：图像中边缘/细节的多少，高边缘密度表示内容复杂
+- 信息熵：图像颜色的丰富程度，高熵值表示颜色层次丰富
+- 综合分数：两者加权求和，得分越高表示区域越复杂
 
-1. 将亮度值构建256-bin直方图
-2. 遍历所有可能阈值，计算类间方差
-3. 取方差最大的阈值作为分割点
-4. 统计低于阈值的像素比例 = natural_rate
-5. 钳制到 [0.25, 0.65] 得到 fill_rate
+#### 3. 动态难度分配
 
-| 参数 | 值 | 说明 |
-| ---- | -- | ---- |
-| 填充率下限 | 0.25 | 避免关卡过于稀疏 |
-| 填充率上限 | 0.65 | 避免关卡过于密集 |
+**核心原则：画册文档设定难度范围（最低～最高），区域复杂度决定范围内的具体分配。**
+
+##### 3.1 读取画册文档确定难度范围
+
+从 `docs/albums/{album_id}.md` 中解析每张图片的难度范围。每张图片的难度范围由其所属章节决定：
+
+```python
+def get_chapter_difficulty_range(pic_idx):
+    # 可爱动物画册示例
+    if pic_idx >= 0 and pic_idx <= 6:      # 第1章：萌宠乐园
+        return 5, 10
+    elif pic_idx >= 7 and pic_idx <= 14:   # 第2章：农场伙伴
+        return 5, 10
+    elif pic_idx >= 15 and pic_idx <= 21:  # 第3章：森林精灵
+        return 5, 15
+    elif pic_idx >= 22 and pic_idx <= 29:  # 第4章：海洋与天空
+        return 5, 15
+    else:
+        return 5, 10
+```
+
+##### 3.2 完整难度分配算法
+
+根据分块数量和难度范围，为每个区域分配具体难度：
+
+```python
+def get_dynamic_difficulties(img_path, grid_x, grid_y, pic_idx):
+    # 1. 读取原图并计算分块尺寸
+    img = Image.open(img_path).convert('RGBA')
+    img_w, img_h = img.size
+    img_array = np.array(img)
+    block_w = img_w // grid_x
+    block_h = img_h // grid_y
+    
+    # 2. 获取章节限定的难度范围
+    min_size, max_size = get_chapter_difficulty_range(pic_idx)
+    
+    # 3. 计算每个区域的复杂度
+    complexities = []
+    for by in range(grid_y):
+        for bx in range(grid_x):
+            start_x = bx * block_w
+            start_y = by * block_h
+            block_array = img_array[start_y:start_y+block_h, start_x:start_x+block_w]
+            complexity = calculate_block_complexity(block_array)
+            complexities.append((bx, by, complexity))
+    
+    # 4. 按复杂度排序（低→高）
+    complexities.sort(key=lambda x: x[2])
+    
+    # 5. 确定可用难度等级
+    num_blocks = grid_x * grid_y
+    available_sizes = [5, 10, 15, 20, 25]
+    valid_sizes = sorted([s for s in available_sizes if min_size <= s <= max_size])
+    
+    # 6. 按复杂度排名均匀分配难度
+    difficulties = [0] * num_blocks
+    for idx, (bx, by, _) in enumerate(complexities):
+        pos = by * grid_x + bx
+        if len(valid_sizes) == 1:
+            difficulties[pos] = valid_sizes[0]
+        else:
+            # 均匀分配：最低复杂度→最小难度，最高复杂度→最大难度
+            size_idx = int(idx * (len(valid_sizes) - 1) / (num_blocks - 1))
+            size_idx = min(size_idx, len(valid_sizes) - 1)
+            difficulties[pos] = valid_sizes[size_idx]
+    
+    return difficulties
+```
+
+##### 3.3 分配示例
+
+**可爱动物画册实际分配结果**（4分块，2×2）：
+
+4分块（image_grid = {x:2, y:2}），难度范围 5×5～10×10：
+
+| 图片 | 复杂度排名（低→高） | 分配难度 | 说明 |
+| ---- | ------------------- | -------- | ---- |
+| cute_animals_000 | [中, 低, 高, 低] | [5, 5, 10, 5] | 右下角简单 |
+| cute_animals_003 | [低, 低, 低, 高] | [5, 5, 5, 10] | 前三角简单 |
+| cute_animals_013 | [高, 低, 低, 低] | [10, 5, 5, 5] | 左上角复杂 |
+| cute_animals_014 | [低, 低, 低, 高] | [5, 5, 5, 10] | 右下角复杂 |
+
+4分块（image_grid = {x:2, y:2}），难度范围 5×5～15×15：
+
+| 图片 | 复杂度排名（低→高） | 分配难度 | 说明 |
+| ---- | ------------------- | -------- | ---- |
+| cute_animals_019 | [高, 低, 中, 低] | [15, 5, 10, 5] | 左上角最复杂 |
+| cute_animals_023 | [高, 中, 低, 低] | [15, 10, 5, 5] | 左上角最复杂 |
+| cute_animals_026 | [低, 低, 高, 中] | [5, 5, 15, 10] | 左下角最复杂 |
+| cute_animals_029 | [低, 高, 低, 中] | [5, 15, 5, 10] | 右上角最复杂 |
+
+**关键特点**：
+- 不同图片的难度分布完全不同，由各区域的实际复杂度决定
+- 左上角不一定是5×5，取决于哪个区域复杂度最低
+- 复杂度最高的区域会分配到范围内最大的难度
+
+#### 4. Otsu二值化提取主体形状
+
+**核心原则：从原图直接提取主体形状作为数织解，而非按排名填充。**
+
+##### 4.1 算法流程
+
+```python
+def detect_subject_and_binarize(block_img, size):
+    # 1. 在原始高分辨率图像上计算中心加权Otsu阈值
+    img_array = np.array(block_img.convert('RGBA'))
+    gray_full = (0.299 * img_array[:,:,0] + 0.587 * img_array[:,:,1] 
+                 + 0.114 * img_array[:,:,2]).astype(int)
+    
+    # 2. 计算中心权重（距离中心越近权重越高）
+    h, w = gray_full.shape
+    cy, cx = h / 2.0, w / 2.0
+    max_dist = np.sqrt(cy ** 2 + cx ** 2)
+    y_coords = np.arange(h, dtype=np.float64).reshape(-1, 1)
+    x_coords = np.arange(w, dtype=np.float64).reshape(1, -1)
+    dist = np.sqrt((y_coords - cy) ** 2 + (x_coords - cx) ** 2)
+    weights = 1.0 - 0.6 * (dist / max_dist)  # 中心权重1.0，角落权重0.4
+    
+    # 3. 加权Otsu阈值计算
+    gray_flat = gray_full.flatten()
+    weight_flat = weights.flatten()
+    whist = np.bincount(gray_flat, weights=weight_flat, minlength=256)
+    # ... 加权Otsu算法 ...
+    threshold_val = otsu_result
+    
+    # 4. 中心vs边缘主体类型判断
+    margin_y, margin_x = max(1, int(h * 0.2)), max(1, int(w * 0.2))
+    center_region = gray_full[margin_y:h-margin_y, margin_x:w-margin_x]
+    edge_region = np.concatenate([gray_full[:margin_y,:].flatten(),
+                                   gray_full[h-margin_y:,:].flatten(),
+                                   gray_full[margin_y:h-margin_y,:margin_x].flatten(),
+                                   gray_full[margin_y:h-margin_y,w-margin_x:].flatten()])
+    
+    center_dark_ratio = float((center_region < threshold_val).sum()) / center_region.size
+    edge_dark_ratio = float((edge_region < threshold_val).sum()) / edge_region.size
+    
+    if abs(center_dark_ratio - edge_dark_ratio) > 0.05:
+        use_dark = center_dark_ratio > edge_dark_ratio  # 中心更暗→暗色主体
+    else:
+        # 比例接近时使用加权判断
+        w_dark = float(np.sum(weight_flat * (gray_flat < threshold_val)))
+        w_light = float(np.sum(weight_flat * (gray_flat >= threshold_val)))
+        use_dark = w_dark > w_light
+    
+    # 5. 生成Otsu二值化网格（优先策略）
+    brightness = extract_cell_brightness_area(block_img, size)
+    grid = [[0] * size for _ in range(size)]
+    for r, c, b_val in brightness:
+        if use_dark:
+            grid[r][c] = 1 if b_val < threshold_val else 0
+        else:
+            grid[r][c] = 1 if b_val >= threshold_val else 0
+    
+    otsu_fill_rate = sum(sum(row) for row in grid) / (size * size)
+    
+    # 6. 仅当Otsu填充率<15%时，使用边缘检测+连通区域分析作为回退
+    if otsu_fill_rate < 0.15:
+        sobel_x = np.zeros_like(gray_full, dtype=np.float64)
+        sobel_y = np.zeros_like(gray_full, dtype=np.float64)
+        sobel_x[:, 1:-1] = gray_full[:, 2:] - gray_full[:, :-2]
+        sobel_y[1:-1, :] = gray_full[2:, :] - gray_full[:-2, :]
+        edges = np.sqrt(sobel_x ** 2 + sobel_y ** 2)
+        edge_threshold = np.percentile(edges, 85)
+        edge_mask = edges > edge_threshold
+        
+        # 边缘膨胀 + 孔洞填充 + 连通区域标记
+        edge_mask = np.pad(edge_mask, 1, mode='constant')
+        for _ in range(2):
+            edge_mask = np.logical_or(edge_mask, np.logical_and(
+                np.roll(edge_mask, 1, axis=0),
+                np.logical_and(
+                    np.roll(edge_mask, 1, axis=1),
+                    np.logical_and(
+                        np.roll(edge_mask, -1, axis=0),
+                        np.roll(edge_mask, -1, axis=1)
+                    )
+                )
+            ))
+        
+        from scipy.ndimage import binary_fill_holes
+        filled = binary_fill_holes(edge_mask).astype(np.int32)
+        center_y, center_x = h // 2, w // 2
+        if h > 2 and w > 2:
+            filled[center_y-1:center_y+2, center_x-1:center_x+2] = 1
+            from scipy.ndimage import label
+            labeled, num_features = label(filled)
+            if num_features > 0:
+                center_label = labeled[center_y, center_x]
+                filled = (labeled == center_label).astype(np.int32)
+        
+        edge_based_grid = [[0] * size for _ in range(size)]
+        cell_h, cell_w = h / size, w / size
+        for r in range(size):
+            for c in range(size):
+                y0, y1 = int(r * cell_h), int((r + 1) * cell_h)
+                x0, x1 = int(c * cell_w), int((c + 1) * cell_w)
+                region = filled[y0:y1, x0:x1]
+                if region.size > 0 and np.mean(region) > 0.2:
+                    edge_based_grid[r][c] = 1
+        
+        edge_fill_rate = sum(sum(row) for row in edge_based_grid) / (size * size)
+        if edge_fill_rate > otsu_fill_rate:
+            grid = [[edge_based_grid[r][c] for c in range(size)] for r in range(size)]
+    
+    # 7. 填充率上限钳制（超过65%时移除最不确定的格子）
+    fill_count = sum(grid[r][c] for r in range(size) for c in range(size))
+    fill_rate = fill_count / (size * size)
+    
+    max_fill_rate = 0.65
+    if fill_rate > max_fill_rate:
+        target_count = int(max_fill_rate * size * size)
+        candidates = []
+        for r, c, b_val in brightness:
+            if grid[r][c] == 1:
+                if use_dark:
+                    margin = b_val - threshold_val
+                else:
+                    margin = threshold_val - b_val
+                candidates.append((margin, r, c))
+        candidates.sort(reverse=True)
+        for margin, r, c in candidates:
+            if fill_count <= target_count:
+                break
+            grid[r][c] = 0
+            fill_count -= 1
+        fill_rate = fill_count / (size * size)
+    
+    return grid, use_dark, threshold_val, fill_rate
+```
+
+##### 4.2 中心加权Otsu原理
+
+**传统Otsu的问题**：当图片边缘有大面积背景时，全局阈值会被边缘区域主导，导致主体区域分割错误。
+
+**中心加权策略**：
+- 距离图片中心越近的像素权重越高（1.0）
+- 距离图片边缘越近的像素权重越低（0.4）
+- 阈值计算时更关注中心区域（主体通常位于中心）
+
+```
+权重分布示意：
+┌─────────────────────────┐
+│ 0.4  0.5  0.7  0.5  0.4 │
+│ 0.5  0.7  0.9  0.7  0.5 │
+│ 0.7  0.9  1.0  0.9  0.7 │
+│ 0.5  0.7  0.9  0.7  0.5 │
+│ 0.4  0.5  0.7  0.5  0.4 │
+└─────────────────────────┘
+```
+
+##### 4.3 中心vs边缘主体类型判断
+
+**核心思想**：比较中心区域和边缘区域的暗像素比例差异。
+
+| 条件 | 判断 | 适用场景 |
+| ---- | ---- | -------- |
+| 中心暗像素比例 > 边缘暗像素比例 + 5% | 暗色主体 | 暗色物体在亮色背景上 |
+| 中心暗像素比例 < 边缘暗像素比例 - 5% | 亮色主体 | 亮色物体在暗色背景上 |
+| 比例差异 < 5% | 加权少数派优先 | 背景复杂的图片 |
 
 **示例**：
-- 颜色丰富的区域：natural_rate=68% → fill_rate=65%（上限）
-- 颜色适中的区域：natural_rate=40% → fill_rate=40%
-- 颜色稀少的区域：natural_rate=12% → fill_rate=25%（下限）
+- 云朵图片：中心是白色云朵，边缘是蓝色天空 → 中心暗比例 < 边缘暗比例 → 亮色主体
+- 汽车图片：中心是浅色车身，边缘是浅色道路 → 比例接近 → 加权少数派判断
 
-#### 3. 排名生成网格
+##### 4.4 边缘检测+连通区域分析（低填充率回退策略）
 
-将所有 N×N 个格子按亮度升序排列（最暗的排最前），填充前 `fill_rate × N²` 个格子。
+**适用场景**：仅当Otsu二值化结果填充率<15%时才执行，应对主体有清晰轮廓但颜色与背景接近的情况（如浅色汽车在浅色道路上）。
 
-**关键**：这确保了数织解的形状与原图的明暗分布一致——暗区域填充，亮区域留空。
+**算法流程**：
+1. **优先使用Otsu**：首先使用中心加权Otsu生成网格，检查填充率
+2. **低填充率触发**：仅当Otsu填充率<15%时，执行边缘检测+连通区域分析
+3. **Sobel边缘检测**：检测图像中的高对比度边缘
+4. **边缘膨胀**：连接断开的边缘线
+5. **孔洞填充**：填充边缘包围的区域
+6. **连通区域标记**：只保留中心主体区域，去除背景噪点
+7. **选择更好的结果**：比较边缘检测填充率与Otsu填充率，选择填充率更高的结果
 
-#### 4. 空满行修复
+**优化效果示例**：
 
-数织规则要求每行/列至少有一个线索（不能全空或全满）。修复策略：
+| 图片 | Otsu填充率 | 边缘检测填充率 | 效果 |
+| ---- | ---------- | -------------- | ---- |
+| 汽车 | 10% | 61% | ✅ 显著改善 |
+| 雨伞 | 36% | - | ✅ 使用Otsu结果 |
+| 花朵 | 32% | - | ✅ 使用Otsu结果 |
 
-| 情况 | 处理方式 | 填充/清除数量 |
-| ---- | -------- | ------------- |
-| 全空行 | 填充该行亮度最低的格子 | max(1, size//3) |
-| 全满行 | 清除该行亮度最高的格子 | max(1, size//3) |
-| 全空列 | 填充该列亮度最低的格子 | max(1, size//3) |
-| 全满列 | 清除该列亮度最高的格子 | max(1, size//3) |
+##### 4.5 填充率上限钳制
 
-修复后仍保持"暗优先"原则——需要填充时选最暗的，需要清除时选最亮的。
+**问题**：某些图片Otsu二值化后填充率过高（如>80%），导致数织关卡过于简单。
 
-#### 5. 线索计算
+**解决策略**：
+- 设定最大填充率：65%
+- 超过此值时，按亮度接近阈值的程度排序，移除最不确定的填充格
+- 优先移除"边缘"格子（亮度最接近阈值），保留"核心"格子（亮度明显偏离阈值）
+
+**算法流程**：
+1. 计算当前填充率
+2. 如果超过65%，计算需要移除的格子数：`target_count = int(0.65 * size * size)`
+3. 收集所有填充格，按亮度接近阈值的程度排序（边缘格在前，核心格在后）
+4. 从前往后移除格子，直到填充率降到65%以下
+
+**优化效果**：
+
+| 图片 | 优化前填充率 | 优化后填充率 |
+| ---- | ------------ | ------------ |
+| 云朵 | 85% | 65% |
+| 太阳 | 92% | 65% |
+| 书本 | 84% | 65% |
+
+##### 4.6 主体识别示例
+
+| 图片 | 近白比例 | 近黑比例 | 中心暗比例 | 边缘暗比例 | 判断结果 | 说明 |
+| ---- | -------- | -------- | ---------- | ---------- | -------- | ---- |
+| 空心正方形（蓝框白底） | 36% | 0% | 低 | 高 | 暗色主体 | 白底→蓝色边框是主体 |
+| 实心三角形（红底白底） | 40% | 0% | 高 | 低 | 暗色主体 | 白底→红色三角是主体 |
+| 黑猫（亮底） | 70% | 0% | 高 | 低 | 暗色主体 | 白底→黑猫是主体 |
+| 白天鹅（暗底） | 0% | 65% | 低 | 高 | 亮色主体 | 黑底→白天鹅是主体 |
+| 云朵（蓝天） | 低 | 高 | 低 | 高 | 亮色主体 | 蓝底→白云是主体 |
+
+#### 5. 亮度提取
+
+将每个分块区域按 `puzzle_size`（N×N）采样，计算每个格子的**区域平均灰度亮度值**（而非中心点采样）。
+
+采样方式：将每块区域等分为 N×N 个子区域，取每个子区域所有像素的加权平均灰度值 `gray = mean(0.299*R + 0.587*G + 0.114*B)`。
+
+**为什么用区域平均而非中心点？** 中心点采样在高对比度边界处可能采到错误的值，区域平均更稳定。
+
+#### 6. 线索计算
 
 从网格提取标准数织线索：
 - 行线索：每行从左到右统计连续填充块数
 - 列线索：每列从上到下统计连续填充块数
 - 空行/空列的线索为 `[0]`
 
-#### 6. 可解性验证
+#### 7. 可解性验证
 
-使用约束传播（Constraint Propagation）+ 深度试探（Probing）算法验证关卡是否可纯逻辑求解：
+使用约束传播（Constraint Propagation）算法验证关卡是否可纯逻辑求解：
 
-1. 为每行/列生成所有可能的排列（`_generate_line_arrangements_cached`，带LRU缓存）
+1. 为每行/列生成所有可能的排列（`_gen_arr`，带LRU缓存）
 2. 约束传播（`_propagate`）：迭代过滤与已知格子矛盾的排列，对所有排列一致的格子确定其值
-3. 深度试探（`_probe`）：对未确定格尝试两种值，若某值导致矛盾则确定另一值；若两种值推出的结果有交集则确定交集部分
-4. 时间限制：30秒（防止复杂关卡卡住）
+3. 检查是否所有格子都已确定
 
-**自适应试探深度**：
-| 网格大小 | 最大试探深度 |
-| -------- | ------------ |
-| ≤10×10 | max_depth=3 |
-| ≤15×15 | max_depth=2 |
-| >15×15 | max_depth=1 |
+**重要**：`can_solve` 仅用于判断是否需要修复，**不修改解网格**。解始终使用从原图生成的网格（或翻转修复后的网格）。
 
-**重要**：`can_solve` 仅用于判断是否需要修复，**不修改解网格**。解始终使用从原图生成的 `adjusted_grid`（或翻转修复后的网格）。
+#### 8. 提示叉叉生成（优先策略）
 
-#### 7. 网格翻转修复（make_solvable）
+**核心原则：提示叉叉不改变解的形状，优先于翻转使用。**
 
-当关卡不可纯逻辑求解时，**优先翻转格子使关卡可解**，而非添加提示格。翻转比提示格更优因为：
-- 玩家无需任何预揭示信息
-- 翻转后的网格仍保持视觉一致性
-- 特别适合小网格（5×5、10×10），提示格在小网格中过于明显
-
-**算法流程**：
-1. 运行 `can_solve` 获取当前未确定的格子列表
-2. 优先收集"填充未知格"（solution=1 但求解后仍为 -1 的格子），这些格子翻转后可以标记为提示叉叉
-3. 对候选格子按亮度接近阈值的程度排序（视觉偏差最小）
-4. 两阶段评估：
-   - 阶段1：快速约束传播筛选（`_quick_propagate`）
-   - 阶段2：深度试探精确评估（`_count_unknown_after_solve`）
-5. 选择使"剩余未知格子数"最少的翻转（评分最优）
-6. 翻转后修复可能产生的空行/空列（`_fix_empty_full_lines`）
-7. 重复直到可解或达到翻转上限
-
-**翻转上限策略**：
-| 网格大小 | 最大翻转数 | 时间限制 |
-| -------- | ---------- | -------- |
-| ≤10×10 | size²/3 | 10秒 |
-| >10×10 | size²/3 | 10秒 |
-
-**亮度惩罚**：翻转时优先选择亮度接近阈值的格子（`brightness_penalty = abs(brightness - threshold) / threshold`），使视觉偏差最小。
-
-**填充格奖励**：优先翻转填充格而非空白格，因为填充格翻转后可以标记为提示叉叉（`filled_bonus = -size * 0.5`）。
-
-#### 8. 提示叉叉生成（兜底机制）
-
-当翻转修复仍无法使关卡可解时，通过逐步标记空白格（X标记）来辅助求解：
+当关卡无法纯推理完成时，首先添加提示叉叉（X标记，标记空白格）。提示叉叉的优势：
+- **不改变解的形状**：只标记已知为空的格子，不修改填充格
+- **帮助推理**：减少搜索空间，使约束传播能继续推进
+- **用户体验好**：玩家看到X标记可以跳过这些格子
 
 **设计原则**：提示叉叉只标记 solution=0 的格子（空白格），游戏初始化时这些格子显示为X标记状态，告诉玩家"这个格子一定是空的"。不标记 solution=1 的填充格，避免直接揭示答案。
 
 **算法流程**：
 1. 初始化网格，将已有提示叉叉设为已知空格（值为0）
-2. 运行约束传播和深度试探
+2. 运行约束传播
 3. 如果完全可解，结束
-4. 找到所有 solution=0 的未知格（空白格候选）
+4. 找到所有 solution=0 的未知格
 5. 贪心评估：选择所在行列未确定格最少的格子（约束效果最强）
 6. 逐一标记为提示叉叉，每标记一个后重新约束传播
-7. 跳过已被传播确定的格子
-8. 直到完全可解或达到提示叉叉上限
+7. 直到完全可解或达到提示叉叉上限
 
-**提示叉叉上限**：`max(15, size × size // 2)`
+**提示叉叉上限**：`max(15, size²//4)`
 
-| 关卡大小 | 提示叉叉上限 |
-| -------- | ---------- |
-| 5×5 | 15 |
-| 10×10 | 50 |
-| 15×15 | 112 |
-| 20×20 | 200 |
-| 25×25 | 312 |
+#### 9. 最小翻转修复（最后手段）
 
-**支持增量提示**：`find_hint_cells` 函数支持 `existing_hints` 参数，在已有提示基础上继续添加，避免重复。
+**核心原则：翻转会改变解的形状，仅在提示叉叉不足时使用，且严格限制翻转数量。**
 
-**去重机制**：保存前对 hint_cells 去重，防止重试循环中重复添加相同的提示格。
+**算法流程**：
+1. 运行 `can_solve` 获取当前未确定的格子列表
+2. 优先收集"填充未知格"（solution=1 但求解后仍为 -1 的格子）
+3. 对候选格子按亮度接近阈值的程度排序（视觉偏差最小）
+4. 逐一尝试翻转，评估翻转后的剩余未知格子数
+5. 选择使"剩余未知格子数"最少的翻转
+6. 翻转后修复可能产生的空行/空列
+7. 重复直到可解或达到翻转上限
+8. 翻转后重新添加提示叉叉
+
+**翻转上限策略**：`min(10, max(3, size²//20))`
+
+| 网格大小 | 最大翻转数 | 说明 |
+| -------- | ---------- | ---- |
+| 5×5 | 3 | 小网格几乎不需要翻转 |
+| 10×10 | 5 | 中等网格少量翻转 |
+| 15×15 | 7 | 大网格允许稍多翻转 |
+| 20×20 | 10 | 最大网格上限 |
+
+**亮度惩罚**：翻转时优先选择亮度接近阈值的格子，使视觉偏差最小。
+
+**处理流程**：
+1. 纯推理可解 → 完成（最佳情况）
+2. 不可解 → 添加提示叉叉 → 可解 → 完成
+3. 提示叉叉不足 → 最小翻转（≤10格）+ 更多提示 → 完成
+4. 仍不足 → 再尝试2轮翻转（每轮≤5格）+ 提示 → 完成
 
 ### 输出格式
 
 运行时逐行输出每个关卡的状态：
 
 ```
-[1] chapter1_01_yuanmou_0 (5x5) nat=68% fill=56% OK [0.4s]
-[2] chapter1_01_yuanmou_1 (5x5) nat=32% fill=44% OK flips=1 [0.8s]
-[3] chapter1_04_hemudu_3 (10x10) nat=32% fill=38% HINTS(9) [8.8s]
+[1] cute_animals_000_d1 (5x5) subject=light nat=28% fill=28% OK
+[2] cute_animals_000_d2 (5x5) subject=dark nat=36% fill=36% OK flips=1
+[3] cute_animals_000_d3 (10x10) subject=light nat=37% fill=37% OK flips=1
+[4] cute_animals_000_d4 (10x10) subject=light nat=48% fill=48% OK
 ```
 
 | 字段 | 说明 |
 | ---- | ---- |
-| nat | Otsu自然暗像素比例 |
+| subject | 主体类型：dark=暗色主体，light=亮色主体 |
+| nat | 主体自然比例 |
 | fill | 实际填充率 |
 | OK | 纯逻辑可解（无需提示叉叉） |
 | OK flips=N | 纯逻辑可解（翻转了N个格子） |
@@ -388,114 +703,129 @@ cell_h = original_image_height // grid_y
 source_rect = {
     "x": col_idx * cell_w,
     "y": row_idx * cell_h,
-    "w": cell_w,
-    "h": cell_h
+    "width": cell_w,
+    "height": cell_h
 }
 ```
 
-## 流程二：生成黑白数织图
+## 流程二：生成数织像素图
 
-**注意**：黑白数织图由 `generate_nonogram_image` 函数在主生成流程中同步生成，无需单独运行脚本。
+### 设计原则
 
-### 算法流程
+数织像素图是原图的像素化版本，用于在游戏中展示数织完成后的效果。每个格子的颜色从原图对应位置采样，格子大小由对应关卡的难度决定。
+
+### 生成算法
+
+```python
+def generate_nonogram_pixel_image(img_path, output_path, grid_x, grid_y, difficulties):
+    img = Image.open(img_path).convert('RGBA')
+    img_w, img_h = img.size
+    
+    block_w = img_w // grid_x
+    block_h = img_h // grid_y
+    img_array = np.array(img)
+    
+    # 输出尺寸与原图相同
+    result_img = Image.new('RGB', (img_w, img_h), (255, 255, 255))
+    
+    for block_idx in range(grid_x * grid_y):
+        bx = block_idx % grid_x
+        by = block_idx // grid_x
+        
+        start_x = bx * block_w
+        start_y = by * block_h
+        block_array = img_array[start_y:start_y+block_h, start_x:start_x+block_w]
+        
+        size = difficulties[block_idx]  # 该区域的关卡难度（如5、10、15）
+        cell_w = block_w / size         # 每个像素格的宽度（浮点数）
+        cell_h = block_h / size         # 每个像素格的高度（浮点数）
+        
+        for r in range(size):
+            for c in range(size):
+                # 采样位置：格子中心点
+                px = int(c * cell_w + cell_w / 2)
+                py = int(r * cell_h + cell_h / 2)
+                color = block_array[py, px][:3]  # 从原图获取颜色
+                
+                # 填充区域：格子对应的像素范围
+                y_start = start_y + int(r * cell_h)
+                y_end = start_y + int((r + 1) * cell_h)
+                x_start = start_x + int(c * cell_w)
+                x_end = start_x + int((c + 1) * cell_w)
+                
+                # 用原图颜色填充该格子
+                for y in range(y_start, min(y_end, img_h)):
+                    for x in range(x_start, min(x_end, img_w)):
+                        result_img.putpixel((x, y), (int(color[0]), int(color[1]), int(color[2])))
+    
+    result_img.save(output_path)
+```
+
+### 关键设计要点
+
+1. **输出尺寸与原图相同**：像素图的尺寸等于原图尺寸，不做缩放
+2. **网格大小由关卡难度决定**：5×5关卡的区域分成5×5格，10×10关卡的区域分成10×10格，15×15关卡的区域分成15×15格
+3. **颜色从原图获取**：每个格子的颜色取自原图对应位置的中心点像素
+4. **浮点数精确计算**：使用浮点数计算格子坐标，避免白边和缝隙
+5. **不同难度区域格子大小不同**：5×5区域每格128px，10×10区域每格64px，15×15区域每格约42px（以640px宽的分块为例）
+
+### 像素图示例
+
+4分块（image_grid = {x:2, y:2}），难度 [5, 10, 10, 15]：
 
 ```
-关卡JSON文件(X×Y个)
-    │
-    ▼
-1. 读取每个关卡的 solution 网格
-    │
-    ▼
-2. 按 image_grid(X×Y) 排列拼接
-    │  3×2: puzzle_0 | puzzle_1 | puzzle_2
-    │       ---------+----------+---------
-    │       puzzle_3 | puzzle_4 | puzzle_5
-    │  2×2: puzzle_0 | puzzle_1
-    │       ---------+---------
-    │       puzzle_2 | puzzle_3
-    │  1×1: puzzle_0
-    │
-    ▼
-3. 生成黑白像素图
-    │  solution=1 → 黑色(0,0,0)
-    │  solution=0 → 白色(255,255,255)
-    │  每格 40×40 像素
-    │
-    ▼
-_nonogram.jpg
+原图 (1280×1280)
+┌──────────┬──────────┐
+│  5×5格   │  10×10格  │  每块 640×640
+│  每格128px│  每格64px │
+├──────────┼──────────┤
+│  10×10格 │  15×15格  │
+│  每格64px │  每格42px │
+└──────────┴──────────┘
+输出尺寸：1280×1280（与原图相同）
 ```
 
-### 拼接规则
-
-关卡按 `image_grid`（X列×Y行）排列：
+6分块（image_grid = {x:3, y:2}），难度 [5, 5, 10, 10, 15, 15]：
 
 ```
-puzzle_index → (col, row)
-col = puzzle_index % grid_x
-row = puzzle_index // grid_x
-
-像素坐标：
-x = (col * puzzle_size + cell_col) * pixel_size
-y = (row * puzzle_size + cell_row) * pixel_size
+原图 (2496×1664)
+┌──────────┬──────────┬──────────┐
+│  5×5格   │  5×5格   │  10×10格  │  每块 832×832
+├──────────┼──────────┼──────────┤
+│  10×10格 │  15×15格 │  15×15格  │
+└──────────┴──────────┴──────────┘
+输出尺寸：2496×1664（与原图相同）
 ```
 
 ### 输出规格
 
 | 属性 | 值 |
 | ---- | -- |
-| 文件命名 | `{图片ID}_nonogram.jpg` |
-| 输出目录 | 与原图同一目录 |
-| 像素块大小 | 40×40px |
-| 填充格颜色 | 黑色 (0,0,0) |
-| 空白格颜色 | 白色 (255,255,255) |
-| 文件格式 | JPG（quality=95） |
-
-### 各关卡大小对应的输出尺寸
-
-image_grid = {x:3, y:2}（6分块）：
-
-| puzzle_size | 拼接网格 | 图片尺寸 |
-| ----------- | -------- | -------- |
-| 5 | 15×10 | 600×400 |
-| 10 | 30×20 | 1200×800 |
-| 15 | 45×30 | 1800×1200 |
-| 20 | 60×40 | 2400×1600 |
-| 25 | 75×50 | 3000×2000 |
-
-image_grid = {x:2, y:2}（4分块）：
-
-| puzzle_size | 拼接网格 | 图片尺寸 |
-| ----------- | -------- | -------- |
-| 5 | 10×10 | 400×400 |
-| 10 | 20×20 | 800×800 |
-| 15 | 30×30 | 1200×1200 |
-| 20 | 40×40 | 1600×1600 |
-| 25 | 50×50 | 2000×2000 |
-
-image_grid = {x:1, y:1}（1分块）：
-
-| puzzle_size | 拼接网格 | 图片尺寸 |
-| ----------- | -------- | -------- |
-| 5 | 5×5 | 200×200 |
-| 10 | 10×10 | 400×400 |
-| 15 | 15×15 | 600×600 |
+| 文件命名 | `{图片ID}_nonogram_pixel.jpg` |
+| 输出尺寸 | 与原图相同 |
+| 颜色来源 | 从原图对应位置中心点采样 |
+| 网格大小 | 由对应关卡的难度决定 |
+| 分割线 | 无（分块间紧密拼接） |
+| 白边 | 无（浮点数精确计算） |
+| 文件格式 | JPG |
 
 ## 完整操作流程
 
-### 生成单个画册的数织关卡
+### 生成指定画册的数织关卡
 
 ```powershell
-# 生成单个画册的关卡
-python tools/fix_all_dynamic_optimized.py {album_id}
+# 生成指定画册的关卡
+python tools/generate_nonogram.py {album_id}
 
 # 示例
-python tools/fix_all_dynamic_optimized.py chinese_history
+python tools/generate_nonogram.py cute_animals
+python tools/generate_nonogram.py chinese_history
 ```
 
 ### 检查画册可解率
 
 ```powershell
-# 检查单个画册的可解率（快速版，使用深度1试探）
+# 检查单个画册的可解率
 python tools/check_chinese_fast.py
 
 # 修改脚本中的 base 变量可检查其他画册
@@ -505,142 +835,81 @@ python tools/check_chinese_fast.py
 
 ### 设计原则
 
-同一张图片的多个分块根据内容复杂度分配不同难度。内容复杂的区域使用更大的网格（更多细节），内容简单的区域使用更小的网格（更易完成）。分块数量由 image_grid 决定（1×1=1块，2×2=4块，3×2=6块）。
+1. **画册文档定义难度范围**：每张图片的难度范围由其所属章节决定，文档中设定最低和最高难度
+2. **区域复杂度决定具体分配**：在同一张图片的多个分块中，根据每个区域的图像复杂度分配不同难度
+3. **低复杂度→小网格，高复杂度→大网格**：内容简单的区域使用更小的网格，内容复杂的区域使用更大的网格
 
-### 难度分配规则
+### 画册文档格式
 
-6分块（image_grid = {x:3, y:2}）：
+画册文档（`docs/albums/{album_id}.md`）中定义每张图片的难度范围：
 
-| 图片难度 | 低复杂度分块 | 中复杂度分块 | 高复杂度分块 |
-| -------- | ------------ | ------------ | ------------ |
-| 10×10 | 5×5 | 5×5 | 10×10 |
-| 15×15 | 5×5 | 10×10 | 15×15 |
-| 20×20 | 10×10 | 15×15 | 20×20 |
-| 25×25 | 15×15 | 20×20 | 25×25 |
+```markdown
+### 动态难度策略
 
-4分块（image_grid = {x:2, y:2}）：
+| 章节 | 难度范围 | 说明 |
+| ---- | -------- | ---- |
+| 第1章：萌宠乐园 | 5×5～10×10 | 前期关卡，从5×5开始逐步提升到10×10 |
+| 第3章：森林精灵 | 5×5～15×15 | 后期关卡，从5×5开始逐步提升到15×15 |
 
-| 图片难度 | 低复杂度分块 | 中复杂度分块 | 高复杂度分块 |
-| -------- | ------------ | ------------ | ------------ |
-| 10×10 | 5×5 | 10×10 | 10×10 |
-| 15×15 | 5×5 | 10×10 | 15×15 |
-| 20×20 | 10×10 | 15×15 | 20×20 |
-| 25×25 | 15×15 | 20×20 | 25×25 |
+### 图片内容规划
 
-1分块（image_grid = {x:1, y:1}）：
-
-| 图片难度 | 该分块难度 |
-| -------- | ---------- |
-| 5×5 | 5×5 |
-| 10×10 | 10×10 |
-| 15×15 | 15×15 |
-
-### 复杂度计算 (analyze_block_complexity)
-
-```python
-def analyze_block_complexity(img, grid_x, grid_y, block_index, sample_size=20):
-    # 1. 提取分块区域
-    # 2. 采样像素计算：
-    #    - 像素多样性：unique_pixels / total_pixels
-    #    - 亮度方差：brightness_variance / 1000
-    #    - 边缘密度：edge_density
-    # 3. 综合复杂度 = 多样性×0.4 + 方差×0.3 + 边缘×0.3
+| 序号 | 章节 | 标题 | 文件名 | 难度范围 |
+| ---- | ---- | ---- | ------ | -------- |
+| 1 | 第1章 | 小猫 | cute_animals_000.jpg | 5×5～10×10 |
+| 16 | 第3章 | 小鹿 | cute_animals_015.jpg | 5×5～15×15 |
 ```
 
-### 动态难度分配流程 (get_difficulty_sizes)
+### 难度分配流程
 
-根据 image_grid 的分块数量选择对应的难度分配函数：
-
-```python
-def get_difficulty_sizes(max_size, num_blocks):
-    if num_blocks == 6:
-        return get_difficulty_sizes_6block(max_size)
-    elif num_blocks == 4:
-        return get_difficulty_sizes_4block(max_size)
-    elif num_blocks == 1:
-        return [max_size]
-    else:
-        raise ValueError(f"Unsupported num_blocks: {num_blocks}")
-
-def get_difficulty_sizes_6block(max_size):
-    if max_size <= 5:
-        return [5, 5, 5, 5, 5, 5]
-    elif max_size <= 10:
-        return [5, 5, 5, 10, 10, 10]
-    elif max_size <= 15:
-        return [5, 5, 10, 10, 15, 15]
-    elif max_size <= 20:
-        return [10, 10, 15, 15, 20, 20]
-    else:
-        return [15, 15, 20, 20, 25, 25]
-
-def get_difficulty_sizes_4block(max_size):
-    if max_size <= 5:
-        return [5, 5, 5, 5]
-    elif max_size <= 10:
-        return [5, 10, 10, 10]
-    elif max_size <= 15:
-        return [5, 10, 10, 15]
-    elif max_size <= 20:
-        return [10, 15, 15, 20]
-    else:
-        return [15, 20, 20, 25]
+```
+1. 读取画册文档
+   │  解析每张图片所属章节 → 确定难度范围 [min_size, max_size]
+   │
+   ▼
+2. 计算每个区域的复杂度
+   │  边缘密度 + 信息熵 → 综合复杂度分数
+   │
+   ▼
+3. 按复杂度排序
+   │  低复杂度 → 小网格
+   │  高复杂度 → 大网格
+   │
+   ▼
+4. 在 [min_size, max_size] 范围内分配
+   │  可用难度等级：5, 10, 15, 20, 25
+   │  过滤出范围内的等级
+   │  按复杂度排名均匀分配
+   │
+   ▼
+输出每个区域的难度
 ```
 
-### 基础难度配置
+### 不同分块数量的分配规则
 
-每本画册的关卡难度规划定义在 `get_base_difficulty` 函数中：
+#### 1分块（image_grid = {x:1, y:1}）
 
-```python
-def get_base_difficulty(album_id, pic_idx):
-    size_map = {
-        'chinese_history': [
-            (0, 1, 5),    # 第1张：5×5
-            (1, 23, 10),  # 序号1-22：10×10
-            (23, 38, 15), # 序号23-37：15×15
-            (38, 77, 20), # 序号38-76：20×20
-            (77, 105, 25) # 序号77-104：25×25
-        ],
-        # ... 其他画册配置
-    }
-```
+直接使用难度范围内的最大值：
 
-## 数织像素图 (_nonogram_pixel.jpg)
+| 难度范围 | 分配难度 |
+| -------- | -------- |
+| 5×5～5×5 | 5×5 |
+| 5×5～10×10 | 10×10 |
+| 5×5～15×15 | 15×15 |
 
-### 生成方式
+#### 4分块（image_grid = {x:2, y:2}）
 
-**直接生成**：`generate_pixel_image` 函数按动态难度网格从原图采样颜色，直接生成 `{id}_nonogram_pixel.jpg`。
+| 难度范围 | 低复杂度×2 | 高复杂度×2 |
+| -------- | ---------- | ---------- |
+| 5×5～10×10 | 5×5 | 10×10 |
+| 5×5～15×15 | 5×5, 10×10 | 10×10, 15×15 |
 
-### 设计要求
+#### 6分块（image_grid = {x:3, y:2}）
 
-- **无分割线**：多个分块之间不绘制任何分割线，像素块紧密拼接
-- **无白边**：使用浮点数精确计算像素块坐标（`round()`），确保每个像素块无缝覆盖，不留白色缝隙
-- **黑色画布初始化**：使用 `np.zeros()` 初始化画布，避免白色底色透出
-
-### 像素块坐标计算
-
-```python
-cell_w = img_width / image_grid_x   # 浮点数精确计算
-cell_h = img_height / image_grid_y
-
-pixel_w = block_w / puzzle_size
-pixel_h = block_h / puzzle_size
-
-dst_x0 = int(round(x0_f + c * pixel_w))    # round() 确保无缝拼接
-dst_y0 = int(round(y0_f + r * pixel_h))
-dst_x1 = int(round(x0_f + (c + 1) * pixel_w))
-dst_y1 = int(round(y0_f + (r + 1) * pixel_h))
-```
-
-### 输出规格
-
-| 属性 | 值 |
-| ---- | -- |
-| 文件命名 | `{图片ID}_nonogram_pixel.jpg` |
-| 颜色来源 | 按动态难度网格从原图采样 |
-| 分割线 | 无（分块间紧密拼接，不绘制分割线） |
-| 白边 | 无（浮点数精确计算，无缝隙） |
-| 文件格式 | JPG（quality=95） |
+| 难度范围 | 低复杂度×2 | 中复杂度×2 | 高复杂度×2 |
+| -------- | ---------- | ---------- | ---------- |
+| 5×5～10×10 | 5×5 | 5×5, 10×10 | 10×10 |
+| 5×5～15×15 | 5×5 | 10×10 | 15×15 |
+| 5×5～20×20 | 5×5, 10×10 | 10×10, 15×15 | 15×15, 20×20 |
 
 ## 经验教训与注意事项
 
@@ -649,77 +918,41 @@ dst_y1 = int(round(y0_f + (r + 1) * pixel_h))
 | 问题 | 原因 | 解决方案 |
 | ---- | ---- | -------- |
 | 关卡解与原图形状不一致 | 使用固定阈值128分割 | 改为Otsu动态阈值+排名法 |
+| 主体识别错误 | 始终假设暗色是主体 | 智能主体识别：比较暗色/亮色比例，自动判断主体类型 |
 | 填充率固定40%不合理 | 颜色丰富和稀少的区域用同一比例 | 动态填充率，根据Otsu自然比例钳制到25%-65% |
 | 空行/全满行无意义 | 排名法可能产生全空或全满的行列 | fix_empty_and_full_lines按亮度排名修复 |
 | can_solve返回部分解 | 约束传播未完全确定时返回含-1的网格 | 始终使用adjusted_grid作为最终解，can_solve仅判断可解性 |
-| 提示格重复添加 | 约束传播已确定的格子被再次添加 | 添加 `if grid[r][c] != -1: continue` 跳过已确定格子 |
+| 提示格重复添加 | 约束传播已确定的格子被再次添加 | 跳过已确定格子 |
 | 大关卡提示格不足 | 固定上限15对20×20关卡不够 | 动态上限 `max(15, size²//2)` |
 | 数织像素图有白色分割线 | 分块间绘制灰色分割线 | 删除分割线绘制代码，分块紧密拼接 |
-| 数织像素图有白边/白色缝隙 | 整数除法导致像素块之间有未覆盖的白色缝隙 | 浮点数计算 `cell_w = img_width / image_grid_x` + `round()` + `np.zeros()` |
-| **排列生成算法Bug** | `_generate_line_arrangements` 的 base case 使用 `start <= length` 判断，导致某些线索（如[1,2]在5格中）只生成1个排列而非3个 | 改为 `len(current) <= length`，直接检查当前排列的实际长度 |
-| **生成速度极慢** | 排列数量增加后，深度试探算法每步复制和过滤更多排列 | 禁用深度试探（`max_depth=0`），只使用约束传播，添加时间限制 |
-| **hint_cells重复** | 重试循环中重复调用 `find_hint_cells` 不知道已有提示格 | 新增 `existing_hints` 参数，支持增量添加；保存前去重 |
-| **fully_solvable检查逻辑错误** | 用 `len(hint_cells) < max_h` 判断可解性 | 新增 `can_solve_with_hints` 函数，正确验证含hint_cells的可解性 |
-| **生成时make_solvable超时** | 每个翻转候选都运行完整can_solve | 添加时间限制（10秒），减少评估候选数量 |
+| 数织像素图有白边/白色缝隙 | 整数除法导致像素块之间有未覆盖的白色缝隙 | 浮点数计算 + 精确坐标 |
+| 排列生成算法Bug | base case 使用 `start <= length` 判断 | 改为 `len(current) <= length` |
+| 生成速度极慢 | 深度试探算法每步复制和过滤更多排列 | 禁用深度试探（`max_depth=0`），只使用约束传播 |
+| hint_cells重复 | 重试循环中重复调用不知道已有提示格 | 新增 `existing_hints` 参数，支持增量添加；保存前去重 |
+| fully_solvable检查逻辑错误 | 用 `len(hint_cells) < max_h` 判断可解性 | 新增 `can_solve_with_hints` 函数 |
+| 像素图尺寸与原图不一致 | 使用固定像素大小拼接 | 改为与原图相同尺寸，根据难度动态计算格子大小 |
+| 像素图颜色不正确 | 使用黑白二值 | 改为从原图对应位置中心点采样真实颜色 |
+| 难度分配固定 | 所有图片左上角都是5×5 | 根据区域复杂度动态分配难度 |
+| RGBA无法保存为JPEG | JPEG不支持透明通道 | 添加 `img.convert('RGB')` 转换 |
+| JSON BOM编码错误 | 文件含BOM头 | 使用 `encoding='utf-8-sig'` 读取 |
+| 浅色主体在浅色背景上识别失败 | 颜色接近导致二值化效果差 | 新增边缘检测+连通区域分析，利用轮廓定位主体 |
+| 全局Otsu阈值被边缘背景主导 | 大面积背景影响阈值计算 | 新增中心加权Otsu，更关注中心区域 |
+| 云朵/太阳等亮色主体误判为暗色 | 主体颜色与背景颜色对比不明显 | 新增中心vs边缘主体类型判断 |
+| 填充率过高导致关卡过于简单 | Otsu二值化后填充率>80% | 新增填充率上限钳制，超过65%时移除最不确定的格子 |
+| 边缘检测总是执行，影响速度 | 所有图片都执行边缘检测 | 改为仅当Otsu填充率<15%时才执行边缘检测作为回退 |
 
-### 关键设计决策
+### 经验与教训
 
-1. **排名法优于阈值法**：按亮度排名填充比固定阈值分割更能保留原图的视觉特征
-2. **动态填充率优于固定填充率**：颜色多的区域自然需要更多填充格
-3. **翻转修复优于提示叉叉**：翻转使关卡可纯逻辑求解，玩家无需预揭示信息；提示叉叉仅作兜底
-4. **排列生成必须完整**：`_generate_line_arrangements` 的 base case 必须使用 `len(current) <= length`，否则会导致约束传播不完整
-5. **提示叉叉策略**：只标记 solution=0 的空白格（显示为X），不标记填充格，避免直接揭示答案；优先标记约束传播效果最强的空白格
-6. **生成速度优化**：禁用深度试探（`max_depth=0`），只使用约束传播，大幅提高生成速度
-7. **时间限制保护**：所有耗时操作都有时间限制，防止单个关卡卡住整个流程
+1. **Otsu阈值必须在原始高分辨率图像上计算**：在下采样后的5×5网格（仅25个采样点）上计算Otsu阈值，会导致所有格子被判定为同一类（fill=0%或fill=100%）。必须在原始高分辨率图像上计算阈值，然后下采样到目标网格。
 
-### 性能参考
+2. **排名填充法会破坏形状**：旧的 `generate_grid_by_ranking_with_subject` 按亮度排名后取前N%的像素作为填充格，这会破坏原始形状的连续性。例如，空心正方形的边框可能被排名法拆散。正确做法是用Otsu二值化直接提取主体形状。
 
-| 操作 | 数量 | 耗时 |
-| ---- | ---- | ---- |
-| 生成630个关卡（chinese_history，含_probe+行/列揭示） | 630 | 约993秒 |
-| 生成105张拼接图 | 105 | 约30秒 |
+3. **少数派优先不适用于所有图形**：少数派优先假设"主体总是占少数"，但对空心图形（如空心正方形，边框占64%）不适用。峰值背景检测通过识别背景颜色来解决这个问题。
 
-### 可解性统计（修复排列Bug后）
+4. **翻转过度会破坏形状**：旧算法最多翻转 `size²//3` 个格子（15×15网格=75次翻转），严重破坏原始形状。新算法限制翻转数量为 `min(10, max(3, size²//20))`，并优先使用提示叉叉。
 
-修复排列生成Bug后，可解率大幅提升：
+5. **fix_empty_and_full_lines 会修改形状**：全空行/全满行在数织中是完全合法的（线索为[0]或[size]），不需要修复。修改它们会破坏原始形状。
 
-| 网格大小 | 总数 | 纯逻辑可解 | 需提示叉叉 | 可解率 |
-| -------- | ---- | ---------- | ---------- | ------ |
-| 5×5 | 102 | 102 | 0 | **100%** |
-| 10×10 | 174 | 174 | 0 | **100%** |
-| 15×15 | 164 | 163 | 1 | **99.4%** |
-| 20×20 | 134 | 133 | 1 | **99.3%** |
-| 25×25 | 56 | 55 | 1 | **98.2%** |
-| **合计** | **630** | **627** | **3** | **99.5%** |
+6. **提示叉叉优先于翻转**：提示叉叉只标记空白格，不改变解的形状，应优先使用。翻转是最后手段，应严格限制数量。
 
-检查脚本：`tools/check_chinese_fast.py`（使用约束传播 + 深度1试探）
-
-### 验证关卡
-
-```powershell
-# 查看某个关卡的解网格
-python -c "
-import json
-with open(r'data\puzzles\chinese_history\chapter1_01_yuanmou_0.json', 'r', encoding='utf-8') as f:
-    d = json.load(f)
-for row in d['solution']:
-    print(''.join('█' if c else '·' for c in row))
-"
-
-# 检查画册可解率
-python tools/check_chinese_fast.py
-```
-
-### 检查其他画册可解率
-
-修改 `tools/check_chinese_fast.py` 中的 `base` 变量：
-
-```python
-base = r"H:\Work\MyProject\NonogramArt\data\puzzles\{album_id}"
-```
-
-然后运行：
-
-```powershell
-python tools/check_chinese_fast.py
-```
+7. **区域平均采样优于中心点采样**：中心点采样在高对比度边界处可能采到错误的值，区域平均更稳定。

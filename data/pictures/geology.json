@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "geology",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "geology_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_001",
@@ -41,7 +42,8 @@
         "geology_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_002",
@@ -62,7 +64,8 @@
         "geology_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_003",
@@ -83,7 +86,8 @@
         "geology_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_004",
@@ -104,7 +108,8 @@
         "geology_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_005",
@@ -125,7 +130,8 @@
         "geology_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_006",
@@ -146,7 +152,8 @@
         "geology_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_007",
@@ -167,7 +174,8 @@
         "geology_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_008",
@@ -188,7 +196,8 @@
         "geology_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_009",
@@ -209,7 +218,8 @@
         "geology_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_010",
@@ -230,7 +240,8 @@
         "geology_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_011",
@@ -251,7 +262,8 @@
         "geology_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_012",
@@ -272,7 +284,8 @@
         "geology_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_013",
@@ -293,7 +306,8 @@
         "geology_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_014",
@@ -314,7 +328,8 @@
         "geology_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_015",
@@ -335,7 +350,8 @@
         "geology_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_016",
@@ -356,7 +372,8 @@
         "geology_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_017",
@@ -377,7 +394,8 @@
         "geology_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_018",
@@ -398,7 +416,8 @@
         "geology_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_019",
@@ -419,7 +438,8 @@
         "geology_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_020",
@@ -440,7 +460,8 @@
         "geology_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_021",
@@ -461,7 +482,8 @@
         "geology_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_022",
@@ -482,7 +504,8 @@
         "geology_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_023",
@@ -503,7 +526,8 @@
         "geology_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_024",
@@ -524,7 +548,8 @@
         "geology_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_025",
@@ -545,7 +570,8 @@
         "geology_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_026",
@@ -566,7 +592,8 @@
         "geology_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_027",
@@ -587,7 +614,8 @@
         "geology_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_028",
@@ -608,7 +636,8 @@
         "geology_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_029",
@@ -629,7 +658,8 @@
         "geology_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_030",
@@ -650,7 +680,8 @@
         "geology_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_031",
@@ -671,7 +702,8 @@
         "geology_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_032",
@@ -692,7 +724,8 @@
         "geology_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_033",
@@ -713,7 +746,8 @@
         "geology_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_034",
@@ -734,7 +768,8 @@
         "geology_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_035",
@@ -755,7 +790,8 @@
         "geology_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_036",
@@ -776,7 +812,8 @@
         "geology_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_037",
@@ -797,7 +834,8 @@
         "geology_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_038",
@@ -818,7 +856,8 @@
         "geology_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_039",
@@ -839,7 +878,8 @@
         "geology_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_040",
@@ -860,7 +900,8 @@
         "geology_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_041",
@@ -881,7 +922,8 @@
         "geology_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_042",
@@ -902,7 +944,8 @@
         "geology_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_043",
@@ -923,7 +966,8 @@
         "geology_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "geology_044",
@@ -944,7 +988,8 @@
         "geology_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_045",
@@ -965,7 +1010,8 @@
         "geology_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_046",
@@ -986,7 +1032,8 @@
         "geology_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "geology_047",
@@ -1007,7 +1054,8 @@
         "geology_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_048",
@@ -1028,7 +1076,8 @@
         "geology_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_049",
@@ -1049,7 +1098,8 @@
         "geology_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "geology_050",
@@ -1070,7 +1120,8 @@
         "geology_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_051",
@@ -1091,7 +1142,8 @@
         "geology_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_052",
@@ -1112,7 +1164,8 @@
         "geology_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_053",
@@ -1133,7 +1186,8 @@
         "geology_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_054",
@@ -1154,7 +1208,8 @@
         "geology_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_055",
@@ -1175,7 +1230,8 @@
         "geology_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_056",
@@ -1196,7 +1252,8 @@
         "geology_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_057",
@@ -1217,7 +1274,8 @@
         "geology_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_058",
@@ -1238,7 +1296,8 @@
         "geology_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_059",
@@ -1259,7 +1318,8 @@
         "geology_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_060",
@@ -1280,7 +1340,8 @@
         "geology_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_060_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_060_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_061",
@@ -1301,7 +1362,8 @@
         "geology_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_061_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_061_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_062",
@@ -1322,7 +1384,8 @@
         "geology_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_062_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_062_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_063",
@@ -1343,7 +1406,8 @@
         "geology_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_063_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_063_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "geology_064",
@@ -1364,7 +1428,8 @@
         "geology_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/geology/geology_064_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/geology/geology_064_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     }
   ]
 }

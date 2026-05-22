@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "birds",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "birds_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_001",
@@ -41,7 +42,8 @@
         "birds_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_002",
@@ -62,7 +64,8 @@
         "birds_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_003",
@@ -83,7 +86,8 @@
         "birds_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_004",
@@ -104,7 +108,8 @@
         "birds_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_005",
@@ -125,7 +130,8 @@
         "birds_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_006",
@@ -146,7 +152,8 @@
         "birds_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_007",
@@ -167,7 +174,8 @@
         "birds_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_008",
@@ -188,7 +196,8 @@
         "birds_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_009",
@@ -209,7 +218,8 @@
         "birds_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_010",
@@ -230,7 +240,8 @@
         "birds_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_011",
@@ -251,7 +262,8 @@
         "birds_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_012",
@@ -272,7 +284,8 @@
         "birds_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_013",
@@ -293,7 +306,8 @@
         "birds_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_014",
@@ -314,7 +328,8 @@
         "birds_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_015",
@@ -335,7 +350,8 @@
         "birds_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_016",
@@ -356,7 +372,8 @@
         "birds_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_017",
@@ -377,7 +394,8 @@
         "birds_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_018",
@@ -398,7 +416,8 @@
         "birds_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_019",
@@ -419,7 +438,8 @@
         "birds_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_020",
@@ -440,7 +460,8 @@
         "birds_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_021",
@@ -461,7 +482,8 @@
         "birds_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_022",
@@ -482,7 +504,8 @@
         "birds_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_023",
@@ -503,7 +526,8 @@
         "birds_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_024",
@@ -524,7 +548,8 @@
         "birds_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_025",
@@ -545,7 +570,8 @@
         "birds_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_026",
@@ -566,7 +592,8 @@
         "birds_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_027",
@@ -587,7 +614,8 @@
         "birds_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_028",
@@ -608,7 +636,8 @@
         "birds_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_029",
@@ -629,7 +658,8 @@
         "birds_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_030",
@@ -650,7 +680,8 @@
         "birds_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_031",
@@ -671,7 +702,8 @@
         "birds_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_032",
@@ -692,7 +724,8 @@
         "birds_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_033",
@@ -713,7 +746,8 @@
         "birds_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_034",
@@ -734,7 +768,8 @@
         "birds_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_035",
@@ -755,7 +790,8 @@
         "birds_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_036",
@@ -776,7 +812,8 @@
         "birds_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_037",
@@ -797,7 +834,8 @@
         "birds_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_038",
@@ -818,7 +856,8 @@
         "birds_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_039",
@@ -839,7 +878,8 @@
         "birds_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_040",
@@ -860,7 +900,8 @@
         "birds_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_041",
@@ -881,7 +922,8 @@
         "birds_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_042",
@@ -902,7 +944,8 @@
         "birds_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_043",
@@ -923,7 +966,8 @@
         "birds_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_044",
@@ -944,7 +988,8 @@
         "birds_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_045",
@@ -965,7 +1010,8 @@
         "birds_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_046",
@@ -986,7 +1032,8 @@
         "birds_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_047",
@@ -1007,7 +1054,8 @@
         "birds_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_048",
@@ -1028,7 +1076,8 @@
         "birds_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_049",
@@ -1049,7 +1098,8 @@
         "birds_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_050",
@@ -1070,7 +1120,8 @@
         "birds_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_051",
@@ -1091,7 +1142,8 @@
         "birds_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_052",
@@ -1112,7 +1164,8 @@
         "birds_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_053",
@@ -1133,7 +1186,8 @@
         "birds_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_054",
@@ -1154,7 +1208,8 @@
         "birds_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_055",
@@ -1175,7 +1230,8 @@
         "birds_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_056",
@@ -1196,7 +1252,8 @@
         "birds_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_057",
@@ -1217,7 +1274,8 @@
         "birds_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_058",
@@ -1238,7 +1296,8 @@
         "birds_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "birds_059",
@@ -1259,7 +1318,8 @@
         "birds_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_060",
@@ -1280,7 +1340,8 @@
         "birds_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_060_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_060_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_061",
@@ -1301,7 +1362,8 @@
         "birds_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_061_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_061_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_062",
@@ -1322,7 +1384,8 @@
         "birds_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_062_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_062_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_063",
@@ -1343,7 +1406,8 @@
         "birds_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_063_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_063_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "birds_064",
@@ -1364,7 +1428,8 @@
         "birds_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_064_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_064_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_065",
@@ -1385,7 +1450,8 @@
         "birds_065_5"
       ],
       "order": 65,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_065_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_065_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_066",
@@ -1406,7 +1472,8 @@
         "birds_066_5"
       ],
       "order": 66,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_066_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_066_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_067",
@@ -1427,7 +1494,8 @@
         "birds_067_5"
       ],
       "order": 67,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_067_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_067_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_068",
@@ -1448,7 +1516,8 @@
         "birds_068_5"
       ],
       "order": 68,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_068_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_068_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_069",
@@ -1469,7 +1538,8 @@
         "birds_069_5"
       ],
       "order": 69,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_069_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_069_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_070",
@@ -1490,7 +1560,8 @@
         "birds_070_5"
       ],
       "order": 70,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_070_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_070_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_071",
@@ -1511,7 +1582,8 @@
         "birds_071_5"
       ],
       "order": 71,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_071_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_071_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "birds_072",
@@ -1532,7 +1604,8 @@
         "birds_072_5"
       ],
       "order": 72,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_072_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_072_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_073",
@@ -1553,7 +1626,8 @@
         "birds_073_5"
       ],
       "order": 73,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_073_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_073_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "birds_074",
@@ -1574,7 +1648,8 @@
         "birds_074_5"
       ],
       "order": 74,
-      "pixel_image": "res://assets/images/illustrations/birds/birds_074_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/birds/birds_074_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     }
   ]
 }

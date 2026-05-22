@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "abstract",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "abstract_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_001",
@@ -41,7 +42,8 @@
         "abstract_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_002",
@@ -62,7 +64,8 @@
         "abstract_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_003",
@@ -83,7 +86,8 @@
         "abstract_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_004",
@@ -104,7 +108,8 @@
         "abstract_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_005",
@@ -125,7 +130,8 @@
         "abstract_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_006",
@@ -146,7 +152,8 @@
         "abstract_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_007",
@@ -167,7 +174,8 @@
         "abstract_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_008",
@@ -188,7 +196,8 @@
         "abstract_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_009",
@@ -209,7 +218,8 @@
         "abstract_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_010",
@@ -230,7 +240,8 @@
         "abstract_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_011",
@@ -251,7 +262,8 @@
         "abstract_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_012",
@@ -272,7 +284,8 @@
         "abstract_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_013",
@@ -293,7 +306,8 @@
         "abstract_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_014",
@@ -314,7 +328,8 @@
         "abstract_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_015",
@@ -335,7 +350,8 @@
         "abstract_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_016",
@@ -356,7 +372,8 @@
         "abstract_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_017",
@@ -377,7 +394,8 @@
         "abstract_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_018",
@@ -398,7 +416,8 @@
         "abstract_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_019",
@@ -419,7 +438,8 @@
         "abstract_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "abstract_020",
@@ -440,7 +460,8 @@
         "abstract_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_021",
@@ -461,7 +482,8 @@
         "abstract_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_022",
@@ -482,7 +504,8 @@
         "abstract_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_023",
@@ -503,7 +526,8 @@
         "abstract_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_024",
@@ -524,7 +548,8 @@
         "abstract_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_025",
@@ -545,7 +570,8 @@
         "abstract_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_026",
@@ -566,7 +592,8 @@
         "abstract_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_027",
@@ -587,7 +614,8 @@
         "abstract_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_028",
@@ -608,7 +636,8 @@
         "abstract_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_029",
@@ -629,7 +658,8 @@
         "abstract_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_030",
@@ -650,7 +680,8 @@
         "abstract_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_031",
@@ -671,7 +702,8 @@
         "abstract_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_032",
@@ -692,7 +724,8 @@
         "abstract_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_033",
@@ -713,7 +746,8 @@
         "abstract_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_034",
@@ -734,7 +768,8 @@
         "abstract_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_035",
@@ -755,7 +790,8 @@
         "abstract_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_036",
@@ -776,7 +812,8 @@
         "abstract_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_037",
@@ -797,7 +834,8 @@
         "abstract_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_038",
@@ -818,7 +856,8 @@
         "abstract_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_039",
@@ -839,7 +878,8 @@
         "abstract_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "abstract_040",
@@ -860,7 +900,8 @@
         "abstract_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_041",
@@ -881,7 +922,8 @@
         "abstract_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_042",
@@ -902,7 +944,8 @@
         "abstract_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_043",
@@ -923,7 +966,8 @@
         "abstract_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_044",
@@ -944,7 +988,8 @@
         "abstract_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_045",
@@ -965,7 +1010,8 @@
         "abstract_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_046",
@@ -986,7 +1032,8 @@
         "abstract_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_047",
@@ -1007,7 +1054,8 @@
         "abstract_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_048",
@@ -1028,7 +1076,8 @@
         "abstract_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_049",
@@ -1049,7 +1098,8 @@
         "abstract_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_050",
@@ -1070,7 +1120,8 @@
         "abstract_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_051",
@@ -1091,7 +1142,8 @@
         "abstract_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_052",
@@ -1112,7 +1164,8 @@
         "abstract_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_053",
@@ -1133,7 +1186,8 @@
         "abstract_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_054",
@@ -1154,7 +1208,8 @@
         "abstract_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_055",
@@ -1175,7 +1230,8 @@
         "abstract_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_056",
@@ -1196,7 +1252,8 @@
         "abstract_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_057",
@@ -1217,7 +1274,8 @@
         "abstract_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_058",
@@ -1238,7 +1296,8 @@
         "abstract_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "abstract_059",
@@ -1259,7 +1318,8 @@
         "abstract_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/abstract/abstract_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/abstract/abstract_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     }
   ]
 }

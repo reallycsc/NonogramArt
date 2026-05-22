@@ -1,96 +1,89 @@
 {
-	"id": "chapter2_21_shangyang_1",
-	"name": "chapter2_21_shangyang_1",
-	"picture_id": "chapter2_21_shangyang",
-	"size": {
-		"rows": 5,
-		"cols": 5
-	},
-	"difficulty": "tutorial",
-	"solution": [
-		[
-			0,
-			0,
-			1,
-			1,
-			0
-		],
-		[
-			1,
-			0,
-			0,
-			0,
-			0
-		],
-		[
-			0,
-			0,
-			1,
-			0,
-			0
-		],
-		[
-			0,
-			0,
-			0,
-			1,
-			0
-		],
-		[
-			0,
-			1,
-			1,
-			1,
-			1
-		]
-	],
-	"row_clues": [
-		[
-			2
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			4
-		]
-	],
-	"col_clues": [
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1,
-			1,
-			1
-		],
-		[
-			1,
-			2
-		],
-		[
-			1
-		]
-	],
-	"hint_cells": [
-		[
-			1,
-			4
-		]
-	],
-	"source_rect": {
-		"x": 426,
-		"y": 0,
-		"w": 426,
-		"h": 426
-	}
+  "id": "chapter2_21_shangyang_1",
+  "name": "chapter2_21_shangyang_1",
+  "picture_id": "chapter2_21_shangyang",
+  "size": 5,
+  "difficulty": "tutorial",
+  "solution": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "row_clues": [
+    [
+      0
+    ],
+    [
+      4
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      4
+    ]
+  ],
+  "col_clues": [
+    [
+      1,
+      1
+    ],
+    [
+      4
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      4
+    ],
+    [
+      3
+    ]
+  ],
+  "hint_cells": [],
+  "source_rect": {
+    "x": 426,
+    "y": 0,
+    "width": 426,
+    "height": 426
+  }
 }

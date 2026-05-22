@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "crops",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "crops_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_001",
@@ -41,7 +42,8 @@
         "crops_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_002",
@@ -62,7 +64,8 @@
         "crops_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_003",
@@ -83,7 +86,8 @@
         "crops_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_004",
@@ -104,7 +108,8 @@
         "crops_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_005",
@@ -125,7 +130,8 @@
         "crops_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_006",
@@ -146,7 +152,8 @@
         "crops_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_007",
@@ -167,7 +174,8 @@
         "crops_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_008",
@@ -188,7 +196,8 @@
         "crops_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_009",
@@ -209,7 +218,8 @@
         "crops_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_010",
@@ -230,7 +240,8 @@
         "crops_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_011",
@@ -251,7 +262,8 @@
         "crops_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_012",
@@ -272,7 +284,8 @@
         "crops_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_013",
@@ -293,7 +306,8 @@
         "crops_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_014",
@@ -314,7 +328,8 @@
         "crops_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_015",
@@ -335,7 +350,8 @@
         "crops_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_016",
@@ -356,7 +372,8 @@
         "crops_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_017",
@@ -377,7 +394,8 @@
         "crops_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_018",
@@ -398,7 +416,8 @@
         "crops_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_019",
@@ -419,7 +438,8 @@
         "crops_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "crops_020",
@@ -440,7 +460,8 @@
         "crops_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_021",
@@ -461,7 +482,8 @@
         "crops_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_022",
@@ -482,7 +504,8 @@
         "crops_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_023",
@@ -503,7 +526,8 @@
         "crops_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_024",
@@ -524,7 +548,8 @@
         "crops_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_025",
@@ -545,7 +570,8 @@
         "crops_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_026",
@@ -566,7 +592,8 @@
         "crops_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_027",
@@ -587,7 +614,8 @@
         "crops_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_028",
@@ -608,7 +636,8 @@
         "crops_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_029",
@@ -629,7 +658,8 @@
         "crops_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_030",
@@ -650,7 +680,8 @@
         "crops_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_031",
@@ -671,7 +702,8 @@
         "crops_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_032",
@@ -692,7 +724,8 @@
         "crops_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_033",
@@ -713,7 +746,8 @@
         "crops_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_034",
@@ -734,7 +768,8 @@
         "crops_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_035",
@@ -755,7 +790,8 @@
         "crops_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_036",
@@ -776,7 +812,8 @@
         "crops_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_037",
@@ -797,7 +834,8 @@
         "crops_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_038",
@@ -818,7 +856,8 @@
         "crops_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_039",
@@ -839,7 +878,8 @@
         "crops_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "crops_040",
@@ -860,7 +900,8 @@
         "crops_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_041",
@@ -881,7 +922,8 @@
         "crops_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_042",
@@ -902,7 +944,8 @@
         "crops_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_043",
@@ -923,7 +966,8 @@
         "crops_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_044",
@@ -944,7 +988,8 @@
         "crops_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_045",
@@ -965,7 +1010,8 @@
         "crops_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_046",
@@ -986,7 +1032,8 @@
         "crops_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_047",
@@ -1007,7 +1054,8 @@
         "crops_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_048",
@@ -1028,7 +1076,8 @@
         "crops_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_049",
@@ -1049,7 +1098,8 @@
         "crops_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_050",
@@ -1070,7 +1120,8 @@
         "crops_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_051",
@@ -1091,7 +1142,8 @@
         "crops_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_052",
@@ -1112,7 +1164,8 @@
         "crops_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_053",
@@ -1133,7 +1186,8 @@
         "crops_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_054",
@@ -1154,7 +1208,8 @@
         "crops_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_055",
@@ -1175,7 +1230,8 @@
         "crops_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_056",
@@ -1196,7 +1252,8 @@
         "crops_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_057",
@@ -1217,7 +1274,8 @@
         "crops_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_058",
@@ -1238,7 +1296,8 @@
         "crops_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "crops_059",
@@ -1259,7 +1318,8 @@
         "crops_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/crops/crops_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/crops/crops_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     }
   ]
 }

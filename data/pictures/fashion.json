@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "fashion",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "fashion_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_001",
@@ -41,7 +42,8 @@
         "fashion_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_002",
@@ -62,7 +64,8 @@
         "fashion_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_003",
@@ -83,7 +86,8 @@
         "fashion_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_004",
@@ -104,7 +108,8 @@
         "fashion_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_005",
@@ -125,7 +130,8 @@
         "fashion_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_006",
@@ -146,7 +152,8 @@
         "fashion_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_007",
@@ -167,7 +174,8 @@
         "fashion_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_008",
@@ -188,7 +196,8 @@
         "fashion_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_009",
@@ -209,7 +218,8 @@
         "fashion_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_010",
@@ -230,7 +240,8 @@
         "fashion_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_011",
@@ -251,7 +262,8 @@
         "fashion_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_012",
@@ -272,7 +284,8 @@
         "fashion_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_013",
@@ -293,7 +306,8 @@
         "fashion_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_014",
@@ -314,7 +328,8 @@
         "fashion_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_015",
@@ -335,7 +350,8 @@
         "fashion_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "fashion_016",
@@ -356,7 +372,8 @@
         "fashion_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_017",
@@ -377,7 +394,8 @@
         "fashion_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_018",
@@ -398,7 +416,8 @@
         "fashion_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_019",
@@ -419,7 +438,8 @@
         "fashion_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_020",
@@ -440,7 +460,8 @@
         "fashion_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_021",
@@ -461,7 +482,8 @@
         "fashion_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_022",
@@ -482,7 +504,8 @@
         "fashion_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_023",
@@ -503,7 +526,8 @@
         "fashion_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_024",
@@ -524,7 +548,8 @@
         "fashion_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_025",
@@ -545,7 +570,8 @@
         "fashion_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_026",
@@ -566,7 +592,8 @@
         "fashion_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_027",
@@ -587,7 +614,8 @@
         "fashion_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_028",
@@ -608,7 +636,8 @@
         "fashion_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_029",
@@ -629,7 +658,8 @@
         "fashion_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_030",
@@ -650,7 +680,8 @@
         "fashion_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_031",
@@ -671,7 +702,8 @@
         "fashion_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_032",
@@ -692,7 +724,8 @@
         "fashion_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "fashion_033",
@@ -713,7 +746,8 @@
         "fashion_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_034",
@@ -734,7 +768,8 @@
         "fashion_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_035",
@@ -755,7 +790,8 @@
         "fashion_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_036",
@@ -776,7 +812,8 @@
         "fashion_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_037",
@@ -797,7 +834,8 @@
         "fashion_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_038",
@@ -818,7 +856,8 @@
         "fashion_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_039",
@@ -839,7 +878,8 @@
         "fashion_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_040",
@@ -860,7 +900,8 @@
         "fashion_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_041",
@@ -881,7 +922,8 @@
         "fashion_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_042",
@@ -902,7 +944,8 @@
         "fashion_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_043",
@@ -923,7 +966,8 @@
         "fashion_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_044",
@@ -944,7 +988,8 @@
         "fashion_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_045",
@@ -965,7 +1010,8 @@
         "fashion_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_046",
@@ -986,7 +1032,8 @@
         "fashion_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_047",
@@ -1007,7 +1054,8 @@
         "fashion_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_048",
@@ -1028,7 +1076,8 @@
         "fashion_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "fashion_049",
@@ -1049,7 +1098,8 @@
         "fashion_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_050",
@@ -1070,7 +1120,8 @@
         "fashion_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_051",
@@ -1091,7 +1142,8 @@
         "fashion_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_052",
@@ -1112,7 +1164,8 @@
         "fashion_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_053",
@@ -1133,7 +1186,8 @@
         "fashion_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_054",
@@ -1154,7 +1208,8 @@
         "fashion_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_055",
@@ -1175,7 +1230,8 @@
         "fashion_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_056",
@@ -1196,7 +1252,8 @@
         "fashion_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_057",
@@ -1217,7 +1274,8 @@
         "fashion_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_058",
@@ -1238,7 +1296,8 @@
         "fashion_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_059",
@@ -1259,7 +1318,8 @@
         "fashion_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_060",
@@ -1280,7 +1340,8 @@
         "fashion_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_060_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_060_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_061",
@@ -1301,7 +1362,8 @@
         "fashion_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_061_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_061_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_062",
@@ -1322,7 +1384,8 @@
         "fashion_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_062_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_062_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_063",
@@ -1343,7 +1406,8 @@
         "fashion_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_063_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_063_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "fashion_064",
@@ -1364,7 +1428,8 @@
         "fashion_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/fashion/fashion_064_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/fashion/fashion_064_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     }
   ]
 }

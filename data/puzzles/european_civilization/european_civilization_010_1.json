@@ -1,94 +1,89 @@
 {
-	"id": "european_civilization_010_1",
-	"name": "分块1",
-	"picture_id": "european_civilization_010",
-	"size": {
-		"rows": 5,
-		"cols": 5
-	},
-	"difficulty": "tutorial",
-	"row_clues": [
-		[
-			1
-		],
-		[
-			2
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1,
-			2
-		]
-	],
-	"col_clues": [
-		[
-			4
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1
-		]
-	],
-	"solution": [
-		[
-			0,
-			0,
-			0,
-			0,
-			1
-		],
-		[
-			1,
-			1,
-			0,
-			0,
-			0
-		],
-		[
-			1,
-			0,
-			0,
-			0,
-			0
-		],
-		[
-			1,
-			0,
-			0,
-			0,
-			0
-		],
-		[
-			1,
-			0,
-			1,
-			1,
-			0
-		]
-	],
-	"hint_cells": [
-		[
-			0,
-			2
-		]
-	],
-	"source_rect": {
-		"x": 426,
-		"y": 0,
-		"w": 426,
-		"h": 426
-	}
+  "id": "european_civilization_010_1",
+  "name": "european_civilization_010_1",
+  "picture_id": "european_civilization_010",
+  "size": 5,
+  "difficulty": "tutorial",
+  "solution": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "row_clues": [
+    [
+      5
+    ],
+    [
+      3
+    ],
+    [
+      5
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ]
+  ],
+  "col_clues": [
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      4
+    ],
+    [
+      3
+    ],
+    [
+      3
+    ]
+  ],
+  "hint_cells": [],
+  "source_rect": {
+    "x": 426,
+    "y": 0,
+    "width": 426,
+    "height": 426
+  }
 }

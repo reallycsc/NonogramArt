@@ -2,7 +2,70 @@
 
 ## 概述
 
-使用即梦(Jimeng) CLI工具的4.0模型，批量生成画册配图，并生成对应的像素图。支持防爬限流、内容审核自动重试、进度断点续传。完整流程：原图生成 → 像素图生成 → 数据文件更新。
+使用即梦(Jimeng) CLI工具的4.0模型，批量生成画册配图，并生成对应的像素图。支持防爬限流、内容审核自动重试、进度断点续传。完整流程：网络参考图搜索与筛选 → 原图生成 → 像素图生成 → 数据文件更新。
+
+## 网络参考图搜索与筛选
+
+### 流程说明
+
+为每个主题从百度图片搜索4张候选图片，使用CLIP模型计算每张图与主题描述的相关性分数，保留分数最高的1张作为参考图，以`_net`后缀保存在输出目录中。
+
+### 搜索与筛选流程
+
+```
+画册文档中每个主题的标题和描述
+    │
+    ▼
+1. 构建搜索查询
+    │  查询格式："{标题} 文物 考古"
+    │
+    ▼
+2. 百度图片搜索
+    │  搜索4张候选图片
+    │  获取图片URL、标题、尺寸
+    │
+    ▼
+3. 下载候选图片到内存
+    │  逐张下载，跳过非图片内容
+    │
+    ▼
+4. CLIP相关性评分
+    │  正向文本："{标题}: {描述前60字}"
+    │  负向文本："random unrelated image noise blurry low quality"
+    │  计算softmax概率作为相关性分数(0~1)
+    │
+    ▼
+5. 保留最高分图片
+    │  按CLIP分数排序
+    │  保留分数最高的1张
+    │  分数阈值：0.90（低于此分数不保存）
+    │
+    ▼
+6. 保存参考图
+    │  命名：{主题ID}_net.jpg
+    │  保存到输出目录
+```
+
+### CLIP模型
+
+| 项目 | 说明 |
+| ---- | ---- |
+| 模型 | openai/clip-vit-base-patch32 |
+| 设备 | 自动检测CUDA/CPU |
+| 镜像 | hf-mirror.com |
+| 输入 | 图片 + 文本描述 |
+| 输出 | 相关性概率分数(0~1) |
+
+### 参考图命名规范
+
+```
+参考图：{主题ID}_net.jpg
+示例：chinese_painting_000_net.jpg
+```
+
+### 参考图用途
+
+参考图保存在输出目录中，作为该主题的视觉参考存档，不直接参与即梦AI的文生图流程。即梦AI仍使用纯文本提示词(text2image)模式生成图片。
 
 ## 核心规则：每主题生成4张图片
 
@@ -21,6 +84,7 @@
 原图：{主题ID}.jpg
 4张图：{主题ID}_1.jpg、{主题ID}_2.jpg、{主题ID}_3.jpg、{主题ID}_4.jpg
 顺延：{主题ID}_5.jpg、{主题ID}_6.jpg、{主题ID}_7.jpg、{主题ID}_8.jpg
+参考图：{主题ID}_net.jpg
 ```
 
 ### 文件存在性检查逻辑
@@ -45,7 +109,7 @@ def get_next_suffix(topic_id, base_dir):
 
 | 场景 | 首次生成 | 再次生成同一主题 |
 | ---- | ---- | ----------- |
-| 元谋人主题 | chapter1_01_yuanmou_**_1.jpg</br>chapter1_01_yuanmou_**_2.jpg</br>chapter1_01_yuanmou_**_3.jpg</br>chapter1_01_yuanmou_**_4.jpg | chapter1_01_yuanmou_**_5.jpg</br>chapter1_01_yuanmou_**_6.jpg</br>chapter1_01_yuanmou_**_7.jpg</br>chapter1_01_yuanmou_**_8.jpg |
+| 元谋人主题 | chapter1_01_yuanmou_**_net.jpg（参考图）</br>chapter1_01_yuanmou_**_1.jpg</br>chapter1_01_yuanmou_**_2.jpg</br>chapter1_01_yuanmou_**_3.jpg</br>chapter1_01_yuanmou_**_4.jpg | chapter1_01_yuanmou_**_5.jpg</br>chapter1_01_yuanmou_**_6.jpg</br>chapter1_01_yuanmou_**_7.jpg</br>chapter1_01_yuanmou_**_8.jpg |
 
 ## 工具与依赖
 
@@ -54,6 +118,7 @@ def get_next_suffix(topic_id, base_dir):
 | `dreamina.exe` | 即梦CLI工具，位于项目根目录 |
 | Python 3.11 | 运行生成脚本 |
 | PIL/Pillow | 图片处理 |
+| `transformers` + `torch` | CLIP模型，用于网络图片相关性评分 |
 
 ## 提示词规则
 

@@ -1,94 +1,88 @@
 {
-	"id": "africa_america_civilization_008_1",
-	"name": "分块1",
-	"picture_id": "africa_america_civilization_008",
-	"size": {
-		"rows": 5,
-		"cols": 5
-	},
-	"difficulty": "tutorial",
-	"row_clues": [
-		[
-			1
-		],
-		[
-			1
-		],
-		[
-			1,
-			1
-		],
-		[
-			2,
-			2
-		],
-		[
-			2,
-			1
-		]
-	],
-	"col_clues": [
-		[
-			1
-		],
-		[
-			1,
-			2
-		],
-		[
-			1,
-			1
-		],
-		[
-			1
-		],
-		[
-			1,
-			3
-		]
-	],
-	"solution": [
-		[
-			0,
-			0,
-			0,
-			0,
-			1
-		],
-		[
-			0,
-			1,
-			0,
-			0,
-			0
-		],
-		[
-			0,
-			0,
-			1,
-			0,
-			1
-		],
-		[
-			1,
-			1,
-			0,
-			1,
-			1
-		],
-		[
-			0,
-			1,
-			1,
-			0,
-			1
-		]
-	],
-	"hint_cells": [],
-	"source_rect": {
-		"x": 426,
-		"y": 0,
-		"w": 426,
-		"h": 426
-	}
+  "id": "africa_america_civilization_008_1",
+  "name": "africa_america_civilization_008_1",
+  "picture_id": "africa_america_civilization_008",
+  "size": 5,
+  "difficulty": "tutorial",
+  "solution": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "row_clues": [
+    [
+      5
+    ],
+    [
+      5
+    ],
+    [
+      1
+    ],
+    [
+      1
+    ],
+    [
+      4
+    ]
+  ],
+  "col_clues": [
+    [
+      2,
+      1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      5
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      2
+    ]
+  ],
+  "hint_cells": [],
+  "source_rect": {
+    "x": 426,
+    "y": 0,
+    "width": 426,
+    "height": 426
+  }
 }

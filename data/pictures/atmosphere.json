@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "atmosphere",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "atmosphere_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_001",
@@ -41,7 +42,8 @@
         "atmosphere_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_002",
@@ -62,7 +64,8 @@
         "atmosphere_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_003",
@@ -83,7 +86,8 @@
         "atmosphere_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_004",
@@ -104,7 +108,8 @@
         "atmosphere_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_005",
@@ -125,7 +130,8 @@
         "atmosphere_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_006",
@@ -146,7 +152,8 @@
         "atmosphere_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_007",
@@ -167,7 +174,8 @@
         "atmosphere_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_008",
@@ -188,7 +196,8 @@
         "atmosphere_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_009",
@@ -209,7 +218,8 @@
         "atmosphere_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_010",
@@ -230,7 +240,8 @@
         "atmosphere_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_011",
@@ -251,7 +262,8 @@
         "atmosphere_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_012",
@@ -272,7 +284,8 @@
         "atmosphere_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_013",
@@ -293,7 +306,8 @@
         "atmosphere_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_014",
@@ -314,7 +328,8 @@
         "atmosphere_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_015",
@@ -335,7 +350,8 @@
         "atmosphere_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_016",
@@ -356,7 +372,8 @@
         "atmosphere_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_017",
@@ -377,7 +394,8 @@
         "atmosphere_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_018",
@@ -398,7 +416,8 @@
         "atmosphere_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_019",
@@ -419,7 +438,8 @@
         "atmosphere_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "atmosphere_020",
@@ -440,7 +460,8 @@
         "atmosphere_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_021",
@@ -461,7 +482,8 @@
         "atmosphere_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_022",
@@ -482,7 +504,8 @@
         "atmosphere_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_023",
@@ -503,7 +526,8 @@
         "atmosphere_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_024",
@@ -524,7 +548,8 @@
         "atmosphere_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_025",
@@ -545,7 +570,8 @@
         "atmosphere_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_026",
@@ -566,7 +592,8 @@
         "atmosphere_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_027",
@@ -587,7 +614,8 @@
         "atmosphere_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_028",
@@ -608,7 +636,8 @@
         "atmosphere_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_029",
@@ -629,7 +658,8 @@
         "atmosphere_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_030",
@@ -650,7 +680,8 @@
         "atmosphere_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_031",
@@ -671,7 +702,8 @@
         "atmosphere_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_032",
@@ -692,7 +724,8 @@
         "atmosphere_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_033",
@@ -713,7 +746,8 @@
         "atmosphere_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_034",
@@ -734,7 +768,8 @@
         "atmosphere_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_035",
@@ -755,7 +790,8 @@
         "atmosphere_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_036",
@@ -776,7 +812,8 @@
         "atmosphere_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_037",
@@ -797,7 +834,8 @@
         "atmosphere_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_038",
@@ -818,7 +856,8 @@
         "atmosphere_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_039",
@@ -839,7 +878,8 @@
         "atmosphere_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "atmosphere_040",
@@ -860,7 +900,8 @@
         "atmosphere_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_041",
@@ -881,7 +922,8 @@
         "atmosphere_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_042",
@@ -902,7 +944,8 @@
         "atmosphere_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_043",
@@ -923,7 +966,8 @@
         "atmosphere_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_044",
@@ -944,7 +988,8 @@
         "atmosphere_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_045",
@@ -965,7 +1010,8 @@
         "atmosphere_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_046",
@@ -986,7 +1032,8 @@
         "atmosphere_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_047",
@@ -1007,7 +1054,8 @@
         "atmosphere_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_048",
@@ -1028,7 +1076,8 @@
         "atmosphere_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_049",
@@ -1049,7 +1098,8 @@
         "atmosphere_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_050",
@@ -1070,7 +1120,8 @@
         "atmosphere_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_051",
@@ -1091,7 +1142,8 @@
         "atmosphere_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_052",
@@ -1112,7 +1164,8 @@
         "atmosphere_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_053",
@@ -1133,7 +1186,8 @@
         "atmosphere_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_054",
@@ -1154,7 +1208,8 @@
         "atmosphere_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_055",
@@ -1175,7 +1230,8 @@
         "atmosphere_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_056",
@@ -1196,7 +1252,8 @@
         "atmosphere_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_057",
@@ -1217,7 +1274,8 @@
         "atmosphere_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_058",
@@ -1238,7 +1296,8 @@
         "atmosphere_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "atmosphere_059",
@@ -1259,7 +1318,8 @@
         "atmosphere_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/atmosphere/atmosphere_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     }
   ]
 }

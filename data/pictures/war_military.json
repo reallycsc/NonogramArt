@@ -1,4 +1,4 @@
-﻿{
+{
   "album_id": "war_military",
   "pictures": [
     {
@@ -20,7 +20,8 @@
         "war_military_000_5"
       ],
       "order": 0,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_000_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_000_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_001",
@@ -41,7 +42,8 @@
         "war_military_001_5"
       ],
       "order": 1,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_001_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_001_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_002",
@@ -62,7 +64,8 @@
         "war_military_002_5"
       ],
       "order": 2,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_002_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_002_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_003",
@@ -83,7 +86,8 @@
         "war_military_003_5"
       ],
       "order": 3,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_003_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_003_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_004",
@@ -104,7 +108,8 @@
         "war_military_004_5"
       ],
       "order": 4,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_004_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_004_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_005",
@@ -125,7 +130,8 @@
         "war_military_005_5"
       ],
       "order": 5,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_005_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_005_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_006",
@@ -146,7 +152,8 @@
         "war_military_006_5"
       ],
       "order": 6,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_006_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_006_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_007",
@@ -167,7 +174,8 @@
         "war_military_007_5"
       ],
       "order": 7,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_007_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_007_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_008",
@@ -188,7 +196,8 @@
         "war_military_008_5"
       ],
       "order": 8,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_008_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_008_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_009",
@@ -209,7 +218,8 @@
         "war_military_009_5"
       ],
       "order": 9,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_009_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_009_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_010",
@@ -230,7 +240,8 @@
         "war_military_010_5"
       ],
       "order": 10,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_010_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_010_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_011",
@@ -251,7 +262,8 @@
         "war_military_011_5"
       ],
       "order": 11,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_011_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_011_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_012",
@@ -272,7 +284,8 @@
         "war_military_012_5"
       ],
       "order": 12,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_012_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_012_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_013",
@@ -293,7 +306,8 @@
         "war_military_013_5"
       ],
       "order": 13,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_013_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_013_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_014",
@@ -314,7 +328,8 @@
         "war_military_014_5"
       ],
       "order": 14,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_014_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_014_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_015",
@@ -335,7 +350,8 @@
         "war_military_015_5"
       ],
       "order": 15,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_015_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_015_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_016",
@@ -356,7 +372,8 @@
         "war_military_016_5"
       ],
       "order": 16,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_016_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_016_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_017",
@@ -377,7 +394,8 @@
         "war_military_017_5"
       ],
       "order": 17,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_017_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_017_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_018",
@@ -398,7 +416,8 @@
         "war_military_018_5"
       ],
       "order": 18,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_018_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_018_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_019",
@@ -419,7 +438,8 @@
         "war_military_019_5"
       ],
       "order": 19,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_019_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_019_nonogram_pixel.jpg",
+      "chapter_id": "chapter_1"
     },
     {
       "id": "war_military_020",
@@ -440,7 +460,8 @@
         "war_military_020_5"
       ],
       "order": 20,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_020_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_020_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_021",
@@ -461,7 +482,8 @@
         "war_military_021_5"
       ],
       "order": 21,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_021_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_021_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_022",
@@ -482,7 +504,8 @@
         "war_military_022_5"
       ],
       "order": 22,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_022_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_022_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_023",
@@ -503,7 +526,8 @@
         "war_military_023_5"
       ],
       "order": 23,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_023_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_023_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_024",
@@ -524,7 +548,8 @@
         "war_military_024_5"
       ],
       "order": 24,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_024_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_024_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_025",
@@ -545,7 +570,8 @@
         "war_military_025_5"
       ],
       "order": 25,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_025_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_025_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_026",
@@ -566,7 +592,8 @@
         "war_military_026_5"
       ],
       "order": 26,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_026_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_026_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_027",
@@ -587,7 +614,8 @@
         "war_military_027_5"
       ],
       "order": 27,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_027_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_027_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_028",
@@ -608,7 +636,8 @@
         "war_military_028_5"
       ],
       "order": 28,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_028_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_028_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_029",
@@ -629,7 +658,8 @@
         "war_military_029_5"
       ],
       "order": 29,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_029_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_029_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_030",
@@ -650,7 +680,8 @@
         "war_military_030_5"
       ],
       "order": 30,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_030_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_030_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_031",
@@ -671,7 +702,8 @@
         "war_military_031_5"
       ],
       "order": 31,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_031_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_031_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_032",
@@ -692,7 +724,8 @@
         "war_military_032_5"
       ],
       "order": 32,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_032_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_032_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_033",
@@ -713,7 +746,8 @@
         "war_military_033_5"
       ],
       "order": 33,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_033_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_033_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_034",
@@ -734,7 +768,8 @@
         "war_military_034_5"
       ],
       "order": 34,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_034_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_034_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_035",
@@ -755,7 +790,8 @@
         "war_military_035_5"
       ],
       "order": 35,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_035_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_035_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_036",
@@ -776,7 +812,8 @@
         "war_military_036_5"
       ],
       "order": 36,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_036_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_036_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_037",
@@ -797,7 +834,8 @@
         "war_military_037_5"
       ],
       "order": 37,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_037_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_037_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_038",
@@ -818,7 +856,8 @@
         "war_military_038_5"
       ],
       "order": 38,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_038_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_038_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_039",
@@ -839,7 +878,8 @@
         "war_military_039_5"
       ],
       "order": 39,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_039_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_039_nonogram_pixel.jpg",
+      "chapter_id": "chapter_2"
     },
     {
       "id": "war_military_040",
@@ -860,7 +900,8 @@
         "war_military_040_5"
       ],
       "order": 40,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_040_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_040_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_041",
@@ -881,7 +922,8 @@
         "war_military_041_5"
       ],
       "order": 41,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_041_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_041_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_042",
@@ -902,7 +944,8 @@
         "war_military_042_5"
       ],
       "order": 42,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_042_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_042_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_043",
@@ -923,7 +966,8 @@
         "war_military_043_5"
       ],
       "order": 43,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_043_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_043_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_044",
@@ -944,7 +988,8 @@
         "war_military_044_5"
       ],
       "order": 44,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_044_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_044_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_045",
@@ -965,7 +1010,8 @@
         "war_military_045_5"
       ],
       "order": 45,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_045_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_045_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_046",
@@ -986,7 +1032,8 @@
         "war_military_046_5"
       ],
       "order": 46,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_046_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_046_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_047",
@@ -1007,7 +1054,8 @@
         "war_military_047_5"
       ],
       "order": 47,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_047_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_047_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_048",
@@ -1028,7 +1076,8 @@
         "war_military_048_5"
       ],
       "order": 48,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_048_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_048_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_049",
@@ -1049,7 +1098,8 @@
         "war_military_049_5"
       ],
       "order": 49,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_049_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_049_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_050",
@@ -1070,7 +1120,8 @@
         "war_military_050_5"
       ],
       "order": 50,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_050_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_050_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_051",
@@ -1091,7 +1142,8 @@
         "war_military_051_5"
       ],
       "order": 51,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_051_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_051_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_052",
@@ -1112,7 +1164,8 @@
         "war_military_052_5"
       ],
       "order": 52,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_052_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_052_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_053",
@@ -1133,7 +1186,8 @@
         "war_military_053_5"
       ],
       "order": 53,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_053_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_053_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_054",
@@ -1154,7 +1208,8 @@
         "war_military_054_5"
       ],
       "order": 54,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_054_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_054_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_055",
@@ -1175,7 +1230,8 @@
         "war_military_055_5"
       ],
       "order": 55,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_055_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_055_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_056",
@@ -1196,7 +1252,8 @@
         "war_military_056_5"
       ],
       "order": 56,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_056_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_056_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_057",
@@ -1217,7 +1274,8 @@
         "war_military_057_5"
       ],
       "order": 57,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_057_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_057_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_058",
@@ -1238,7 +1296,8 @@
         "war_military_058_5"
       ],
       "order": 58,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_058_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_058_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_059",
@@ -1259,7 +1318,8 @@
         "war_military_059_5"
       ],
       "order": 59,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_059_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_059_nonogram_pixel.jpg",
+      "chapter_id": "chapter_3"
     },
     {
       "id": "war_military_060",
@@ -1280,7 +1340,8 @@
         "war_military_060_5"
       ],
       "order": 60,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_060_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_060_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_061",
@@ -1301,7 +1362,8 @@
         "war_military_061_5"
       ],
       "order": 61,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_061_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_061_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_062",
@@ -1322,7 +1384,8 @@
         "war_military_062_5"
       ],
       "order": 62,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_062_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_062_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_063",
@@ -1343,7 +1406,8 @@
         "war_military_063_5"
       ],
       "order": 63,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_063_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_063_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_064",
@@ -1364,7 +1428,8 @@
         "war_military_064_5"
       ],
       "order": 64,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_064_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_064_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_065",
@@ -1385,7 +1450,8 @@
         "war_military_065_5"
       ],
       "order": 65,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_065_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_065_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_066",
@@ -1406,7 +1472,8 @@
         "war_military_066_5"
       ],
       "order": 66,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_066_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_066_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_067",
@@ -1427,7 +1494,8 @@
         "war_military_067_5"
       ],
       "order": 67,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_067_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_067_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_068",
@@ -1448,7 +1516,8 @@
         "war_military_068_5"
       ],
       "order": 68,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_068_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_068_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_069",
@@ -1469,7 +1538,8 @@
         "war_military_069_5"
       ],
       "order": 69,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_069_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_069_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_070",
@@ -1490,7 +1560,8 @@
         "war_military_070_5"
       ],
       "order": 70,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_070_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_070_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_071",
@@ -1511,7 +1582,8 @@
         "war_military_071_5"
       ],
       "order": 71,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_071_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_071_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_072",
@@ -1532,7 +1604,8 @@
         "war_military_072_5"
       ],
       "order": 72,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_072_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_072_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_073",
@@ -1553,7 +1626,8 @@
         "war_military_073_5"
       ],
       "order": 73,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_073_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_073_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_074",
@@ -1574,7 +1648,8 @@
         "war_military_074_5"
       ],
       "order": 74,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_074_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_074_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_075",
@@ -1595,7 +1670,8 @@
         "war_military_075_5"
       ],
       "order": 75,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_075_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_075_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_076",
@@ -1616,7 +1692,8 @@
         "war_military_076_5"
       ],
       "order": 76,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_076_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_076_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_077",
@@ -1637,7 +1714,8 @@
         "war_military_077_5"
       ],
       "order": 77,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_077_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_077_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_078",
@@ -1658,7 +1736,8 @@
         "war_military_078_5"
       ],
       "order": 78,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_078_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_078_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_079",
@@ -1679,7 +1758,8 @@
         "war_military_079_5"
       ],
       "order": 79,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_079_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_079_nonogram_pixel.jpg",
+      "chapter_id": "chapter_4"
     },
     {
       "id": "war_military_080",
@@ -1700,7 +1780,8 @@
         "war_military_080_5"
       ],
       "order": 80,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_080_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_080_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_081",
@@ -1721,7 +1802,8 @@
         "war_military_081_5"
       ],
       "order": 81,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_081_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_081_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_082",
@@ -1742,7 +1824,8 @@
         "war_military_082_5"
       ],
       "order": 82,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_082_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_082_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_083",
@@ -1763,7 +1846,8 @@
         "war_military_083_5"
       ],
       "order": 83,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_083_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_083_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_084",
@@ -1784,7 +1868,8 @@
         "war_military_084_5"
       ],
       "order": 84,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_084_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_084_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_085",
@@ -1805,7 +1890,8 @@
         "war_military_085_5"
       ],
       "order": 85,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_085_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_085_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_086",
@@ -1826,7 +1912,8 @@
         "war_military_086_5"
       ],
       "order": 86,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_086_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_086_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_087",
@@ -1847,7 +1934,8 @@
         "war_military_087_5"
       ],
       "order": 87,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_087_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_087_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_088",
@@ -1868,7 +1956,8 @@
         "war_military_088_5"
       ],
       "order": 88,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_088_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_088_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_089",
@@ -1889,7 +1978,8 @@
         "war_military_089_5"
       ],
       "order": 89,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_089_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_089_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_090",
@@ -1910,7 +2000,8 @@
         "war_military_090_5"
       ],
       "order": 90,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_090_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_090_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_091",
@@ -1931,7 +2022,8 @@
         "war_military_091_5"
       ],
       "order": 91,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_091_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_091_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_092",
@@ -1952,7 +2044,8 @@
         "war_military_092_5"
       ],
       "order": 92,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_092_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_092_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_093",
@@ -1973,7 +2066,8 @@
         "war_military_093_5"
       ],
       "order": 93,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_093_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_093_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_094",
@@ -1994,7 +2088,8 @@
         "war_military_094_5"
       ],
       "order": 94,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_094_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_094_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_095",
@@ -2015,7 +2110,8 @@
         "war_military_095_5"
       ],
       "order": 95,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_095_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_095_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_096",
@@ -2036,7 +2132,8 @@
         "war_military_096_5"
       ],
       "order": 96,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_096_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_096_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_097",
@@ -2057,7 +2154,8 @@
         "war_military_097_5"
       ],
       "order": 97,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_097_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_097_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_098",
@@ -2078,7 +2176,8 @@
         "war_military_098_5"
       ],
       "order": 98,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_098_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_098_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     },
     {
       "id": "war_military_099",
@@ -2099,7 +2198,8 @@
         "war_military_099_5"
       ],
       "order": 99,
-      "pixel_image": "res://assets/images/illustrations/war_military/war_military_099_nonogram_pixel.jpg"
+      "pixel_image": "res://assets/images/illustrations/war_military/war_military_099_nonogram_pixel.jpg",
+      "chapter_id": "chapter_5"
     }
   ]
 }
