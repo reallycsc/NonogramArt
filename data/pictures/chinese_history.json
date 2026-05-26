@@ -21,7 +21,10 @@
       ],
       "order": 0,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_01_yuanmou_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "chapter1_02_beijing_ape",
@@ -43,7 +46,10 @@
       ],
       "order": 1,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_02_beijing_ape_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Yuanmou Man Site",
+      "summary_en": "",
+      "full_text_en": "On the vast lands of Yuanmou County, Yunnan Province, archaeologists discovered human tooth fossils dating back approximately 1.7 million years. This major discovery pushed back the timeline of human history in China significantly, making Yuanmou Man the earliest known human representative within China's borders. These ancient fossils silently tell the story of early human survival."
     },
     {
       "id": "chapter1_03_shandingdong",
@@ -65,7 +71,10 @@
       ],
       "order": 2,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_03_shandingdong_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Peking Man's Daily Life",
+      "summary_en": "",
+      "full_text_en": "In the caves of Longgushan at Zhoukoudian, a group of Peking Man once lived. They hunted and gathered with crude stone tools and learned to use natural fire for warmth and light. These primitive humans survived tenaciously in harsh natural environments, laying the foundation for the development of human civilization. Their story is carved into the rock walls of Longgushan."
     },
     {
       "id": "chapter1_04_hemudu",
@@ -87,7 +96,10 @@
       ],
       "order": 3,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_04_hemudu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Upper Cave Man Hunting",
+      "summary_en": "",
+      "full_text_en": "The Upper Cave Man of 30,000 years ago had already mastered sophisticated techniques. They learned to polish and drill, crafting exquisite ornaments from animal bones, and even developed primitive religious beliefs. These discoveries reveal the rich spiritual world of late Paleolithic humans and demonstrate a leap in human intelligence."
     },
     {
       "id": "chapter1_05_yangshao",
@@ -109,7 +121,10 @@
       ],
       "order": 4,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_05_yangshao_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Hemudu Culture",
+      "summary_en": "",
+      "full_text_en": "The Hemudu site in the Yangtze River basin reveals a prosperous scene from 7,000 years ago. The rice remains unearthed here prove that China was one of the earliest countries to cultivate rice. The discovery of stilt houses rewrote Chinese architectural history, demonstrating the remarkable architectural wisdom and adaptability of ancient people."
     },
     {
       "id": "chapter1_06_liangzhu",
@@ -131,7 +146,10 @@
       ],
       "order": 5,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_06_liangzhu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Yangshao Culture Painted Pottery",
+      "summary_en": "",
+      "full_text_en": "The Yangshao Culture along the Yellow River is renowned worldwide for its exquisite painted pottery. These colorful vessels are decorated with fish motifs, frog patterns, and geometric designs, each being a perfect combination of art and utility. Through these painted pots, we can almost glimpse the rich spiritual world and aesthetic pursuits of ancient people."
     },
     {
       "id": "chapter1_07_huangdi",
@@ -153,7 +171,10 @@
       ],
       "order": 6,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_07_huangdi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Liangzhu Ancient City",
+      "summary_en": "",
+      "full_text_en": "The Liangzhu Ancient City site in Hangzhou, Zhejiang, shocked the world. This 5,000-year-old city was grand in scale with a sophisticated water management system, and the exquisite jade artifacts unearthed are truly breathtaking. The discovery of Liangzhu civilization proves that the Yangtze River basin was equally an important cradle of Chinese civilization, rewriting the history of Chinese civilization."
     },
     {
       "id": "chapter1_08_dayu",
@@ -175,7 +196,10 @@
       ],
       "order": 7,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter1_08_dayu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Yellow Emperor's Tribal Alliance",
+      "summary_en": "",
+      "full_text_en": "The Yellow Emperor is revered as the cultural ancestor of the Chinese nation. Legend has it that he led his tribe to develop agriculture, create clothing and headwear, and build boats and chariots, laying the foundation of Chinese civilization. The fusion of the Yellow Emperor and Yan Emperor tribes formed the prototype of the Huaxia people, and his story is forever etched in the memory of the Chinese nation."
     },
     {
       "id": "chapter2_09_xia_gongdian",
@@ -197,7 +221,10 @@
       ],
       "order": 8,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_09_xia_gongdian_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Yu the Great Taming the Flood",
+      "summary_en": "",
+      "full_text_en": "The story of Yu the Great taming the flood has been passed down through the ages. He adopted the method of dredging and channeling, spending thirteen years to finally subdue the raging floods. His selfless spirit of passing his home three times without entering became a precious spiritual treasure of the Chinese nation. The Xia Dynasty established by Yu marked the first dynasty in Chinese history, becoming an important milestone of Huaxia civilization."
     },
     {
       "id": "chapter2_10_erlitou",
@@ -219,7 +246,10 @@
       ],
       "order": 9,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_10_erlitou_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Imagined Xia Dynasty Palace",
+      "summary_en": "",
+      "full_text_en": "Although the palaces of the Xia Dynasty have been lost to the river of history, written records and archaeological discoveries outline their grand contours. This ancient palace witnessed the formation of early Chinese state structures, showcasing the prosperity and majesty of the Xia Dynasty, and is the origin of Chinese palace architecture."
     },
     {
       "id": "chapter2_11_jiaguwen",
@@ -241,7 +271,10 @@
       ],
       "order": 10,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_11_jiaguwen_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Erlitou Site",
+      "summary_en": "",
+      "full_text_en": "The Erlitou site in Yanshi, Henan, is believed to be the capital of the mid-to-late Xia Dynasty. Magnificent palace foundations, bronze ritual vessels, and exquisite jade artifacts have been discovered here. The discovery of Erlitou culture provides important clues for exploring Xia culture, allowing us to glimpse the splendid face of early Chinese civilization."
     },
     {
       "id": "chapter2_12_simuwu",
@@ -263,7 +296,10 @@
       ],
       "order": 11,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_12_simuwu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Oracle Bone Inscriptions",
+      "summary_en": "",
+      "full_text_en": "Oracle bone inscriptions carved on turtle shells and animal bones are China's earliest mature writing system. These ancient characters recorded the Shang Dynasty's sacrifices, wars, and daily life. The discovery of oracle bones not only confirmed the existence of the Shang Dynasty but also provided precious first-hand materials for studying the evolution of Chinese writing."
     },
     {
       "id": "chapter2_13_qingtongqi",
@@ -285,7 +321,10 @@
       ],
       "order": 12,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_13_qingtongqi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Simuwu Ding (Houmuwu Ding)",
+      "summary_en": "",
+      "full_text_en": "The Simuwu Ding is the pinnacle of ancient Chinese bronze culture. This massive bronze vessel weighing over 800 kilograms has a solemn form and exquisite decorations, showcasing the astonishing achievements of Shang Dynasty bronze casting. It is not merely a ritual vessel but a symbol of the Chinese nation's bronze civilization."
     },
     {
       "id": "chapter2_14_wenwang",
@@ -307,7 +346,10 @@
       ],
       "order": 13,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_14_wenwang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Shang and Zhou Bronzes",
+      "summary_en": "",
+      "full_text_en": "The bronzes of the Shang and Zhou periods represent the highest level of ancient Chinese bronze art. From imposing ritual vessels to exquisite wine vessels, each bronze piece embodies the wisdom and dedication of the craftsmen. These bronzes are not only practical utensils but also symbols of power, ritual, and belief."
     },
     {
       "id": "chapter2_15_wuwang",
@@ -329,7 +371,10 @@
       ],
       "order": 14,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_15_wuwang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "King Wen of Zhou Divining the I Ching",
+      "summary_en": "",
+      "full_text_en": "King Wen of Zhou deduced the Eight Trigrams while imprisoned in Youli, creating the profound I Ching (Book of Changes). This ancient classic contains deep philosophical thought and has become an important source of traditional Chinese culture. King Wen's wisdom and perseverance left a precious spiritual legacy for future generations."
     },
     {
       "id": "chapter2_16_zhougong",
@@ -351,7 +396,10 @@
       ],
       "order": 15,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_16_zhougong_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "King Wu of Zhou's Campaign Against King Zhou",
+      "summary_en": "",
+      "full_text_en": "King Wu of Zhou led a righteous army to defeat King Zhou of Shang at the Battle of Muye, establishing the Zhou Dynasty. This historic transformation ushered in an important era in Chinese history, establishing the Zhou ritual system and exerting a profound influence on Chinese culture."
     },
     {
       "id": "chapter2_17_wuba",
@@ -373,7 +421,10 @@
       ],
       "order": 16,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_17_wuba_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Duke of Zhou's Regency",
+      "summary_en": "",
+      "full_text_en": "The Duke of Zhou assisted King Cheng and established a comprehensive system of rites and music. His governance philosophy and moral standards became an important source of later Confucian thought. The story of the Duke of Zhou spitting out food to welcome talents and winning the hearts of all has become a timeless tale, embodying the lofty ideal of a virtuous minister assisting a sovereign."
     },
     {
       "id": "chapter2_18_kongzi",
@@ -395,7 +446,10 @@
       ],
       "order": 17,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_18_kongzi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Five Hegemons of the Spring and Autumn Period",
+      "summary_en": "",
+      "full_text_en": "During the Spring and Autumn Period, Duke Huan of Qi, Duke Wen of Jin, King Zhuang of Chu, King Helu of Wu, and King Goujian of Yue successively dominated the realm. They either upheld the Zhou king and repelled invaders or pursued reforms for strength, staging magnificent historical dramas on the arena of hegemonic rivalry, collectively writing the glorious chapters of the Spring and Autumn era."
     },
     {
       "id": "chapter2_19_laozi",
@@ -417,7 +471,10 @@
       ],
       "order": 18,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_19_laozi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Confucius Teaching",
+      "summary_en": "",
+      "full_text_en": "Confucius taught at the Apricot Altar, pioneering private education. The core of his thought is benevolence (ren) and ritual propriety (li), emphasizing moral cultivation and social order. Confucius's teachings were recorded by his disciples in the Analerta, becoming an important cornerstone of traditional Chinese culture and influencing over two thousand years of Chinese history."
     },
     {
       "id": "chapter2_20_sunzi",
@@ -439,7 +496,10 @@
       ],
       "order": 19,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_20_sunzi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Laozi Riding an Ox Out of the Pass",
+      "summary_en": "",
+      "full_text_en": "Laozi rode a blue ox westward out of Hangu Pass, leaving behind the five-thousand-character Dao De Jing. This philosophical classic expounds the idea of governing through non-action and explores the origin of all things in the universe. Laozi's wisdom profoundly influenced the development of Chinese philosophy, religion, and culture."
     },
     {
       "id": "chapter2_21_shangyang",
@@ -461,7 +521,10 @@
       ],
       "order": 20,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_21_shangyang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "The Art of War",
+      "summary_en": "",
+      "full_text_en": "The Art of War by Sun Tzu is one of the earliest military treatises in the world. These thirteen chapters of military strategy contain profound strategic thinking and tactical wisdom, not only exerting far-reaching influence in the military field but also being widely applied in business, management, and other domains."
     },
     {
       "id": "chapter2_22_quyuan",
@@ -483,7 +546,10 @@
       ],
       "order": 21,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_22_quyuan_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Shang Yang's Reforms",
+      "summary_en": "",
+      "full_text_en": "Shang Yang implemented reforms in the State of Qin, abolishing the well-field system, opening up field paths, and rewarding farming and warfare. This profound transformation rapidly strengthened Qin, laying a solid foundation for Qin Shi Huang's later unification of the six states. The boldness and foresight of Shang Yang's reforms are truly admirable."
     },
     {
       "id": "chapter2_23_jingke",
@@ -505,7 +571,10 @@
       ],
       "order": 22,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter2_23_jingke_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Qu Yuan Drowning in the River",
+      "summary_en": "",
+      "full_text_en": "Qu Yuan was the first great poet in Chinese history. His Li Sao pioneered romantic literature, expressing deep love for his country and people. The story of Qu Yuan drowning in the river gave rise to the Dragon Boat Festival tradition, and his patriotic spirit is forever revered by later generations."
     },
     {
       "id": "chapter3_24_qinshihuang",
@@ -527,7 +596,10 @@
       ],
       "order": 23,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_24_qinshihuang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Jing Ke's Assassination Attempt on the King of Qin",
+      "summary_en": "",
+      "full_text_en": "The story of Jing Ke's assassination attempt on the King of Qin is thrilling. This brave assassin resolutely went to Qin to carry out the assassination to repay Crown Prince Dan's recognition of his talent. Although he ultimately failed, Jing Ke's spirit of defying tyranny and sacrificing his life for righteousness became a tale praised through the ages."
     },
     {
       "id": "chapter3_25_changcheng",
@@ -549,7 +621,10 @@
       ],
       "order": 24,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_25_changcheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "chapter3_26_bingmayong",
@@ -571,7 +646,10 @@
       ],
       "order": 25,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_26_bingmayong_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Qin Shi Huang Unifying the Six States",
+      "summary_en": "",
+      "full_text_en": "Qin Shi Huang swept across the six states, achieving the first great unification in Chinese history. He standardized writing, weights and measures, and currency, built the Great Wall, and established the commandery-county system. These measures had a profound impact on Chinese history, laying the foundation for over two thousand years of feudal society in China."
     },
     {
       "id": "chapter3_27_chensheng",
@@ -593,7 +671,10 @@
       ],
       "order": 26,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_27_chensheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Qin Great Wall",
+      "summary_en": "",
+      "full_text_en": "The Great Wall is a symbol of the Chinese nation. Qin Shi Huang connected the walls of various states, forming a military defense line stretching ten thousand li. This magnificent architectural project embodies the blood and sweat of countless laborers and has become one of the wonders of the world."
     },
     {
       "id": "chapter3_28_chuhan",
@@ -615,7 +696,10 @@
       ],
       "order": 27,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_28_chuhan_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Terracotta Army",
+      "summary_en": "",
+      "full_text_en": "The Terracotta Army of Qin Shi Huang's mausoleum shocked the world. These lifelike pottery warriors are arranged in a massive military formation, as if ready to march at any moment. Each terracotta warrior has a unique face and posture, showcasing the superb sculptural artistry and formidable national power of the Qin Dynasty."
     },
     {
       "id": "chapter3_29_liubang",
@@ -637,7 +721,10 @@
       ],
       "order": 28,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_29_liubang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Chen Sheng and Wu Guang Uprising",
+      "summary_en": "",
+      "full_text_en": "Chen Sheng and Wu Guang rose up at Daze Township, shouting the heroic slogan \"Are kings and nobles born so?\" Although this first large-scale peasant uprising in Chinese history failed, it揭开d the prelude to the peasant wars at the end of Qin and sounded the death knell for the Qin Dynasty."
     },
     {
       "id": "chapter3_30_zhangqian",
@@ -659,7 +746,10 @@
       ],
       "order": 29,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_30_zhangqian_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Chu-Han Contention",
+      "summary_en": "",
+      "full_text_en": "The Chu-Han Contention was a magnificent epic in Chinese history. The two great heroes Liu Bang and Xiang Yu engaged in fierce rivalry on the battlefield. Ultimately, Liu Bang prevailed through his ability to recognize and employ talent and his strategic vision, establishing the great Han Dynasty."
     },
     {
       "id": "chapter3_31_hanwudi",
@@ -681,7 +771,10 @@
       ],
       "order": 30,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_31_hanwudi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Han Emperor Gaozu Liu Bang",
+      "summary_en": "",
+      "full_text_en": "Han Emperor Gaozu Liu Bang grew from a commoner into an emperor. He was adept at recognizing talent and generous in spirit, ultimately defeating Xiang Yu to establish the Han Dynasty. Liu Bang's story tells us that heroes are not defined by their origins; with great ambition and relentless effort, one can achieve greatness."
     },
     {
       "id": "chapter3_32_huoqubing",
@@ -703,7 +796,10 @@
       ],
       "order": 31,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_32_huoqubing_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Zhang Qian's Mission to the Western Regions",
+      "summary_en": "",
+      "full_text_en": "Zhang Qian undertook a mission to the Western Regions, opening the famous Silk Road. He traveled to the Western Regions twice, enduring great hardships, and promoted cultural and economic exchange between East and West. Zhang Qian's pioneering spirit became a model for later explorers."
     },
     {
       "id": "chapter3_33_simaqian",
@@ -725,7 +821,10 @@
       ],
       "order": 32,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_33_simaqian_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Emperor Wu of Han",
+      "summary_en": "",
+      "full_text_en": "During the reign of Emperor Wu of Han, the Han Dynasty reached its zenith. He dismissed all schools of thought except Confucianism, sent Wei Qing and Huo Qubing on northern campaigns against the Xiongnu, and expanded China's territory. Emperor Wu's grand strategy made the Han Dynasty one of the most powerful nations in the world at that time."
     },
     {
       "id": "chapter3_34_zhaojun",
@@ -747,7 +846,10 @@
       ],
       "order": 33,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_34_zhaojun_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Huo Qubing's Northern Campaign Against the Xiongnu",
+      "summary_en": "",
+      "full_text_en": "Huo Qubing was a renowned general of the Western Han, leading military campaigns against the Xiongnu at the age of seventeen. He launched six expeditions against the Xiongnu, achieving extraordinary merits, and was ennobled as the Marquis of Champion. Huo Qubing's valor and military genius are truly astonishing, and his story has become a timeless legend."
     },
     {
       "id": "chapter3_35_wangmang",
@@ -769,7 +871,10 @@
       ],
       "order": 34,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_35_wangmang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Sima Qian Writing the Records of the Grand Historian",
+      "summary_en": "",
+      "full_text_en": "Sima Qian endured humiliation and spent over ten years completing the immortal masterpiece Records of the Grand Historian (Shiji). This historical work records history from ancient times to the reign of Emperor Wu of Han, pioneering the biographical style of historical writing, and is praised as \"the ultimate masterpiece of historians, the Li Sao without rhyme.\""
     },
     {
       "id": "chapter3_36_guangwu",
@@ -791,7 +896,10 @@
       ],
       "order": 35,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_36_guangwu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Zhaojun's Departure for the Frontier",
+      "summary_en": "",
+      "full_text_en": "Wang Zhaojun married into the Xiongnu far away, making a tremendous contribution to peace between the Han and Xiongnu. Her story became a symbol of ethnic unity, demonstrating the courage and responsibility of a young woman. The tale of Zhaojun's departure for the frontier has been endlessly praised by later generations."
     },
     {
       "id": "chapter3_37_cailun",
@@ -813,7 +921,10 @@
       ],
       "order": 36,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_37_cailun_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Wang Mang's Reforms",
+      "summary_en": "",
+      "full_text_en": "Wang Mang implemented new policies, attempting to reform social ills. Although his reforms ultimately failed, they contained many forward-thinking ideas. Wang Mang's reform attempts reflected the sharp social contradictions of the time and the difficulty of reform."
     },
     {
       "id": "chapter3_38_zhangheng",
@@ -835,7 +946,10 @@
       ],
       "order": 37,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter3_38_zhangheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Guangwu Restoration",
+      "summary_en": "",
+      "full_text_en": "Emperor Guangwu Liu Xiu rebuilt the Han Dynasty, initiating the Guangwu Restoration. He reduced taxes and reformed governance, enabling social and economic recovery and development. Emperor Guangwu's civil and military achievements brought prosperity to the early Eastern Han period."
     },
     {
       "id": "chapter4_39_taoyuan",
@@ -857,7 +971,10 @@
       ],
       "order": 38,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_39_taoyuan_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Cai Lun Inventing Paper",
+      "summary_en": "",
+      "full_text_en": "Cai Lun improved papermaking technology, using materials such as tree bark and rags to produce inexpensive yet high-quality paper. This invention had a profound impact on the spread and development of human civilization and became one of ancient China's Four Great Inventions."
     },
     {
       "id": "chapter4_40_guandu",
@@ -879,7 +996,10 @@
       ],
       "order": 39,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_40_guandu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Zhang Heng and the Seismograph",
+      "summary_en": "",
+      "full_text_en": "Zhang Heng was an outstanding scientist and literary figure of the Eastern Han. He invented the armillary sphere and the seismograph, making remarkable contributions to astronomy and seismology. Zhang Heng's scientific spirit and innovative thinking command deep respect."
     },
     {
       "id": "chapter4_41_chibi",
@@ -901,7 +1021,10 @@
       ],
       "order": 40,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_41_chibi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "chapter4_42_zhugeliang",
@@ -923,7 +1046,10 @@
       ],
       "order": 41,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_42_zhugeliang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Oath of the Peach Garden",
+      "summary_en": "",
+      "full_text_en": "Liu Bei, Guan Yu, and Zhang Fei swore brotherhood in the peach garden, vowing to work together to restore the Han Dynasty. This story became a paradigm of fraternal loyalty in traditional Chinese culture, showcasing the noble virtue of valuing loyalty and righteousness."
     },
     {
       "id": "chapter4_43_simayi",
@@ -945,7 +1071,10 @@
       ],
       "order": 42,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_43_simayi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Battle of Guandu",
+      "summary_en": "",
+      "full_text_en": "The Battle of Guandu is a famous battle in Chinese history where the few defeated the many. Cao Cao defeated Yuan Shao's army of 100,000 with only 20,000 troops, laying the foundation for unifying the north. This battle fully demonstrated Cao Cao's military talent and strategic vision."
     },
     {
       "id": "chapter4_44_wangxizhi",
@@ -967,7 +1096,10 @@
       ],
       "order": 43,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_44_wangxizhi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Battle of Red Cliffs",
+      "summary_en": "",
+      "full_text_en": "The Battle of Red Cliffs is one of the most famous battles of the Three Kingdoms period. The Sun-Liu allied forces defeated Cao Cao's army with a fire attack, establishing the tripartite confrontation. Stories from this battle such as borrowing arrows with straw boats and burning the chained ships have become timeless legends."
     },
     {
       "id": "chapter4_45_gukaizhi",
@@ -989,7 +1121,10 @@
       ],
       "order": 44,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_45_gukaizhi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Zhuge Liang's Northern Expeditions",
+      "summary_en": "",
+      "full_text_en": "Zhuge Liang was the embodiment of wisdom. He assisted Liu Bei in establishing Shu Han and launched six northern expeditions from Qishan. Zhuge Liang's loyalty, wisdom, and devotion to duty became a model for virtuous ministers of later generations."
     },
     {
       "id": "chapter4_46_taoyuanming",
@@ -1011,7 +1146,10 @@
       ],
       "order": 45,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_46_taoyuanming_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Sima Yi",
+      "summary_en": "",
+      "full_text_en": "Sima Yi was an outstanding politician and military strategist of the Three Kingdoms period. He bided his time and eventually seized power over Cao Wei. Sima Yi's strategy and political maneuvering laid the foundation for the Sima family's establishment of the Jin Dynasty."
     },
     {
       "id": "chapter4_47_xiaowendi",
@@ -1033,7 +1171,10 @@
       ],
       "order": 46,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_47_xiaowendi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Wang Xizhi's Calligraphy",
+      "summary_en": "",
+      "full_text_en": "Wang Xizhi is revered as the \"Sage of Calligraphy.\" His calligraphy is elegant and fluid, hailed as the finest running script in the world. Wang Xizhi's Preface to the Poems Collected from the Orchid Pavilion became the pinnacle of calligraphic art, influencing countless calligraphers in later generations."
     },
     {
       "id": "chapter4_48_longmen",
@@ -1055,7 +1196,10 @@
       ],
       "order": 47,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_48_longmen_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Gu Kaizhi's Painting",
+      "summary_en": "",
+      "full_text_en": "Gu Kaizhi was a renowned painter of the Eastern Jin, excelling in figure painting. His theory of \"capturing the spirit through form\" had a profound influence on Chinese painting. Gu Kaizhi's paintings emphasize conveying the inner spirit, demonstrating superb artistic mastery."
     },
     {
       "id": "chapter4_49_zuchongzhi",
@@ -1077,7 +1221,10 @@
       ],
       "order": 48,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_49_zuchongzhi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Tao Yuanming Retreating to the Countryside",
+      "summary_en": "",
+      "full_text_en": "Tao Yuanming refused to bow for five pecks of grain and retreated to the countryside to live a simple life. His pastoral poetry is fresh and natural, expressing his love for freedom and nature. Tao Yuanming's reclusive spirit became a spiritual refuge for later literati."
     },
     {
       "id": "chapter4_50_feishui",
@@ -1099,7 +1246,10 @@
       ],
       "order": 49,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter4_50_feishui_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Emperor Xiaowen of Northern Wei's Reforms",
+      "summary_en": "",
+      "full_text_en": "Emperor Xiaowen of Northern Wei implemented Sinicization reforms, promoting ethnic integration. He moved the capital to Luoyang, adopted Han surnames, wore Han clothing, and spoke Chinese. These reforms accelerated the feudalization of northern ethnic minorities and had a profound impact on Chinese history."
     },
     {
       "id": "chapter5_51_suiwendi",
@@ -1121,7 +1271,10 @@
       ],
       "order": 50,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_51_suiwendi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Longmen Grottoes",
+      "summary_en": "",
+      "full_text_en": "The Longmen Grottoes are a treasure of ancient Chinese cave art. These exquisite Buddhist carvings showcase the superb craftsmanship and devout faith of ancient artisans. The Longmen Grottoes are not only a religious sanctuary but also a palace of art."
     },
     {
       "id": "chapter5_52_yunhe",
@@ -1143,7 +1296,10 @@
       ],
       "order": 51,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_52_yunhe_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Zu Chongzhi and Pi",
+      "summary_en": "",
+      "full_text_en": "Zu Chongzhi was an outstanding mathematician of the Southern and Northern Dynasties. He precisely calculated pi to be between 3.1415926 and 3.1415927, a level of accuracy that was world-leading at the time. Zu Chongzhi's mathematical achievements demonstrate the brilliance of ancient Chinese science."
     },
     {
       "id": "chapter5_53_zhaozhou",
@@ -1165,7 +1321,10 @@
       ],
       "order": 52,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_53_zhaozhou_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Battle of Fei River",
+      "summary_en": "",
+      "full_text_en": "The Battle of Fei River was another famous battle in Chinese history where the few defeated the many. The Eastern Jin defeated Former Qin's army of one million with only 80,000 troops. This battle not only preserved the Eastern Jin's territory but also gave rise to the idiom \"the wind's sound and cranes' cry make one think the enemy is everywhere.\""
     },
     {
       "id": "chapter5_54_taizong",
@@ -1187,7 +1346,10 @@
       ],
       "order": 53,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_54_taizong_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Emperor Wen of Sui Unifying China",
+      "summary_en": "",
+      "full_text_en": "Emperor Wen of Sui, Yang Jian, ended the division of the Southern and Northern Dynasties and unified China. He implemented the equal-field system and the Three Departments and Six Ministries system, initiating the prosperous Kaihuang era. Emperor Wen's civil and military achievements laid the foundation for the Sui Dynasty's strength."
     },
     {
       "id": "chapter5_55_zhenguan",
@@ -1209,7 +1371,10 @@
       ],
       "order": 54,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_55_zhenguan_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Emperor Yang of Sui Building the Grand Canal",
+      "summary_en": "",
+      "full_text_en": "Emperor Yang of Sui constructed the Grand Canal, strengthening north-south transportation and economic exchange. This canal running from north to south became an important transportation artery of ancient China, exerting a profound influence on economic development and national unity."
     },
     {
       "id": "chapter5_56_wuzetian",
@@ -1231,7 +1396,10 @@
       ],
       "order": 55,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_56_wuzetian_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Li Chun and the Zhaozhou Bridge",
+      "summary_en": "",
+      "full_text_en": "The Zhaozhou Bridge designed and built by Li Chun is the oldest existing stone arch bridge in the world. This bridge features ingenious design and sturdy structure, standing firm after over a thousand years. The Zhaozhou Bridge demonstrates the superb level of ancient Chinese bridge construction."
     },
     {
       "id": "chapter5_57_xuanzang",
@@ -1253,7 +1421,10 @@
       ],
       "order": 56,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_57_xuanzang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "chapter5_58_wencheng",
@@ -1275,7 +1446,10 @@
       ],
       "order": 57,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_58_wencheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Emperor Taizong of Tang",
+      "summary_en": "",
+      "full_text_en": "Emperor Taizong of Tang, Li Shimin, initiated the prosperous Zhenguan era. He was adept at employing talent, open to admonishment, and reduced corvée and taxes, making the Tang Dynasty the most powerful nation in the world at that time. Emperor Taizong's governance philosophy became a model for later emperors."
     },
     {
       "id": "chapter5_59_jianzhen",
@@ -1297,7 +1471,10 @@
       ],
       "order": 58,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_59_jianzhen_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Reign of Zhenguan",
+      "summary_en": "",
+      "full_text_en": "The Reign of Zhenguan was a rare golden age in Chinese history. With clean governance, economic prosperity, cultural flourishing, and envoys coming from all directions, the Tang Dynasty of this period demonstrated powerful national strength and an open spirit, becoming a golden age in Chinese history."
     },
     {
       "id": "chapter5_60_libai",
@@ -1319,7 +1496,10 @@
       ],
       "order": 59,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_60_libai_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Wu Zetian Becoming Emperor",
+      "summary_en": "",
+      "full_text_en": "Wu Zetian was the only female emperor in Chinese history. During her reign, politics were stable, the economy developed, and culture flourished. Wu Zetian's rule demonstrated female wisdom and boldness, breaking the traditional concepts of a male-dominated society."
     },
     {
       "id": "chapter5_61_dufu",
@@ -1341,7 +1521,10 @@
       ],
       "order": 60,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_61_dufu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Xuanzang's Journey for Buddhist Scriptures",
+      "summary_en": "",
+      "full_text_en": "Xuanzang traveled westward to obtain Buddhist scriptures, enduring great hardships to reach India. He brought back numerous Buddhist texts and translated some of them. Xuanzang's feat promoted Sino-Indian cultural exchange, and his story was adapted into Journey to the West, passed down through generations."
     },
     {
       "id": "chapter5_62_yanzhenqing",
@@ -1363,7 +1546,10 @@
       ],
       "order": 61,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_62_yanzhenqing_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Princess Wencheng Going to Tibet",
+      "summary_en": "",
+      "full_text_en": "Princess Wencheng went to Tibet, promoting friendly exchanges between the Han and Tibetan peoples. She brought advanced culture and technology, helping Tubo develop its economy and culture. Princess Wencheng became a symbol of ethnic unity and was deeply loved by the Tibetan people."
     },
     {
       "id": "chapter5_63_wudaozi",
@@ -1385,7 +1571,10 @@
       ],
       "order": 62,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_63_wudaozi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Jianzhen's Voyage to Japan",
+      "summary_en": "",
+      "full_text_en": "Jianzhen made six voyages to Japan, finally succeeding in bringing Chinese culture to Japan. He established Toshodai-ji in Japan, spreading Buddhism and Chinese culture. Jianzhen's perseverance and dedication are truly admirable."
     },
     {
       "id": "chapter5_64_anshi",
@@ -1407,7 +1596,10 @@
       ],
       "order": 63,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_64_anshi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Li Bai Composing Poetry While Drunk",
+      "summary_en": "",
+      "full_text_en": "Li Bai was one of the greatest poets in Chinese literary history. His poetry is bold and ethereal, full of romantic spirit. Li Bai is hailed as the \"Poet Immortal,\" and his verses have been recited through the ages, becoming a treasure of Chinese literature."
     },
     {
       "id": "chapter5_65_dunhuang",
@@ -1429,7 +1621,10 @@
       ],
       "order": 64,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter5_65_dunhuang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Du Fu",
+      "summary_en": "",
+      "full_text_en": "Du Fu's poetry profoundly reflects social reality and is hailed as \"poetic history.\" His works are deeply solemn and forceful, expressing deep sympathy for the people and concern for the nation's fate. Du Fu is revered as the \"Poet Sage,\" and his poetry possesses eternal artistic value."
     },
     {
       "id": "chapter6_66_zhaokuangyin",
@@ -1451,7 +1646,10 @@
       ],
       "order": 65,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_66_zhaokuangyin_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Yan Zhenqing's Calligraphy",
+      "summary_en": "",
+      "full_text_en": "Yan Zhenqing's calligraphy is vigorous and powerful, pioneering the \"Yan style\" of regular script. His calligraphy is dignified and grand, achieving high artistic accomplishment. Yan Zhenqing was not only a master calligrapher but also a loyal and righteous official."
     },
     {
       "id": "chapter6_67_beijiu",
@@ -1473,7 +1671,10 @@
       ],
       "order": 66,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_67_beijiu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Wu Daozi's Painting",
+      "summary_en": "",
+      "full_text_en": "Wu Daozi was a renowned painter of the Tang Dynasty, hailed as the \"Sage of Painting.\" His paintings feature fluid lines and vivid, expressive figures. Wu Daozi's painting style had a profound influence on later generations."
     },
     {
       "id": "chapter6_68_sushi",
@@ -1495,7 +1696,10 @@
       ],
       "order": 67,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_68_sushi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "An Lushan Rebellion",
+      "summary_en": "",
+      "full_text_en": "The An Lushan Rebellion was the turning point when the Tang Dynasty shifted from prosperity to decline. This rebellion lasted eight years, bringing massive destruction to society. Although it was eventually suppressed, the golden age of the Tang Dynasty was gone forever."
     },
     {
       "id": "chapter6_69_wanganshi",
@@ -1517,7 +1721,10 @@
       ],
       "order": 68,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_69_wanganshi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Dunhuang Mogao Caves",
+      "summary_en": "",
+      "full_text_en": "The Dunhuang Mogao Caves are the largest and most content-rich Buddhist art sanctuary existing in the world. These exquisite murals and sculptures showcase the brilliant achievements of ancient Chinese art and are a precious heritage of human culture."
     },
     {
       "id": "chapter6_70_yuefei",
@@ -1539,7 +1746,10 @@
       ],
       "order": 69,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_70_yuefei_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "chapter6_71_xinqiji",
@@ -1561,7 +1771,10 @@
       ],
       "order": 70,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_71_xinqiji_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Zhao Kuangyin's Chenqiao Mutiny",
+      "summary_en": "",
+      "full_text_en": "Zhao Kuangyin launched the Chenqiao Mutiny and established the Song Dynasty. He relieved generals of their commands over wine, strengthening central authority. The Song Dynasty founded by Zhao Kuangyin achieved brilliant accomplishments in culture, technology, and other fields."
     },
     {
       "id": "chapter6_72_liqingzhao",
@@ -1583,7 +1796,10 @@
       ],
       "order": 71,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_72_liqingzhao_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Relieving Generals of Their Commands Over Wine",
+      "summary_en": "",
+      "full_text_en": "Emperor Taizu of Song relieved generals of their military commands over a cup of wine, cleverly stripping meritorious officials of their military power. This measure both consolidated central authority and avoided bloodshed, demonstrating Emperor Taizu's political wisdom."
     },
     {
       "id": "chapter6_73_xixia",
@@ -1605,7 +1821,10 @@
       ],
       "order": 72,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_73_xixia_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Su Shi Visiting the Red Cliffs",
+      "summary_en": "",
+      "full_text_en": "Su Shi was a literary and artistic polymath of the Song Dynasty. His poetry is bold and free-spirited, and his calligraphy and painting are equally exceptional. Su Shi's life was full of ups and downs, but he always maintained an open-minded and optimistic attitude."
     },
     {
       "id": "chapter6_74_liaobihua",
@@ -1627,7 +1846,10 @@
       ],
       "order": 73,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_74_liaobihua_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Wang Anshi's Reforms",
+      "summary_en": "",
+      "full_text_en": "Wang Anshi implemented reforms attempting to solve the social problems of the Northern Song. His new policies covered politics, economy, military, and other areas. Although they ultimately failed, the spirit of reform within them is commendable."
     },
     {
       "id": "chapter6_75_jinducheng",
@@ -1649,7 +1871,10 @@
       ],
       "order": 74,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_75_jinducheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Yue Fei Resisting the Jin",
+      "summary_en": "",
+      "full_text_en": "Yue Fei was a renowned hero of the Southern Song who resisted the Jin. He led the Yue Family Army in bravely fighting against Jin forces and recovering lost territories. Yue Fei's spirit of loyal service to the nation became a precious treasure of the Chinese nation, and his story has been praised through the ages."
     },
     {
       "id": "chapter6_76_bisheng",
@@ -1671,7 +1896,10 @@
       ],
       "order": 75,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_76_bisheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Xin Qiji",
+      "summary_en": "",
+      "full_text_en": "Xin Qiji was a renowned ci poet of the Southern Song. His ci poems are impassioned and full of patriotic sentiment. Xin Qiji was not only a literary master but also a patriotic general longing to recover lost territories."
     },
     {
       "id": "chapter6_77_qingmingtu",
@@ -1693,7 +1921,10 @@
       ],
       "order": 76,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter6_77_qingmingtu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Li Qingzhao",
+      "summary_en": "",
+      "full_text_en": "Li Qingzhao was a famous female ci poet of the Song Dynasty. Her ci poems are graceful and delicate, with genuine emotion. Li Qingzhao's talent and courage are admirable, and she is hailed as \"the foremost talented woman of all time.\""
     },
     {
       "id": "chapter7_78_genghis",
@@ -1715,7 +1946,10 @@
       ],
       "order": 77,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_78_genghis_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Western Xia Imperial Tombs",
+      "summary_en": "",
+      "full_text_en": "The Western Xia Imperial Tombs are the royal mausoleums of the Western Xia Dynasty. These unique structures witnessed the glory of Western Xia civilization. The discovery of the Western Xia Imperial Tombs provides important clues for studying Western Xia history and culture."
     },
     {
       "id": "chapter7_79_hubilie",
@@ -1737,7 +1971,10 @@
       ],
       "order": 78,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_79_hubilie_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Liao Dynasty Murals",
+      "summary_en": "",
+      "full_text_en": "Liao Dynasty murals showcase the lifestyle and artistic achievements of the Khitan people. These murals are rich in content and vibrant in color, possessing high historical and artistic value."
     },
     {
       "id": "chapter7_80_marco",
@@ -1759,7 +1996,10 @@
       ],
       "order": 79,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_80_marco_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Jin Dynasty Capital",
+      "summary_en": "",
+      "full_text_en": "The Jin Dynasty capital showcases the architectural achievements of the Jurchen people. This capital was rigorously planned with magnificent architecture, reflecting the Jin Dynasty's strength and cultural characteristics."
     },
     {
       "id": "chapter7_81_yuandadu",
@@ -1781,7 +2021,10 @@
       ],
       "order": 80,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_81_yuandadu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Bi Sheng and Movable Type Printing",
+      "summary_en": "",
+      "full_text_en": "Bi Sheng invented movable type printing, a major revolution in the history of printing. The invention of movable type printing greatly improved printing efficiency and had a profound impact on cultural dissemination."
     },
     {
       "id": "chapter7_82_guanhanqing",
@@ -1803,7 +2046,10 @@
       ],
       "order": 81,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_82_guanhanqing_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Zhang Zeduan's Along the River During Qingming Festival",
+      "summary_en": "",
+      "full_text_en": "Zhang Zeduan's Along the River During Qingming Festival depicts the bustling scenes of the Northern Song capital Bianjing. This scroll painting showcases the social life and urban landscape of the time, and is an immortal masterpiece in the history of Chinese painting."
     },
     {
       "id": "chapter7_83_guoshoujing",
@@ -1825,7 +2071,10 @@
       ],
       "order": 82,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_83_guoshoujing_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Genghis Khan's Western Campaign",
+      "summary_en": "",
+      "full_text_en": "Genghis Khan unified the Mongol tribes and established the vast Mongol Empire. He led Mongol cavalry across Eurasia, demonstrating extraordinary military talent and leadership. Genghis Khan became one of the outstanding military commanders in world history."
     },
     {
       "id": "chapter7_84_zhaomengfu",
@@ -1847,7 +2096,10 @@
       ],
       "order": 83,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_84_zhaomengfu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Kublai Khan Founding the Yuan Dynasty",
+      "summary_en": "",
+      "full_text_en": "Kublai Khan established the Yuan Dynasty and unified China. He implemented a series of reforms, promoting ethnic integration and economic development. Kublai Khan's rule made the Yuan Dynasty a powerful empire with vast territories."
     },
     {
       "id": "chapter7_85_wentianxiang",
@@ -1869,7 +2121,10 @@
       ],
       "order": 84,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter7_85_wentianxiang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Marco Polo's Journey to China",
+      "summary_en": "",
+      "full_text_en": "Marco Polo came to China and served in the Yuan court for many years. His travelogue revealed the prosperity and mystery of the East to Europeans, inspiring their longing for the Orient."
     },
     {
       "id": "chapter8_86_zhuyuanzhang",
@@ -1891,7 +2146,10 @@
       ],
       "order": 85,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_86_zhuyuanzhang_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Yuan Dadu (Khanbaliq)",
+      "summary_en": "",
+      "full_text_en": "The planning and construction of Yuan Dadu showcased the Yuan Dynasty's strength. This capital was grand in scale with rigorous layout, becoming one of the most prosperous cities in the world at that time. The ruins of Yuan Dadu provide important materials for studying Yuan Dynasty history."
     },
     {
       "id": "chapter8_87_zhenghe",
@@ -1913,7 +2171,10 @@
       ],
       "order": 86,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_87_zhenghe_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Guan Hanqing Composing Zaju Plays",
+      "summary_en": "",
+      "full_text_en": "Guan Hanqing was a renowned zaju playwright of the Yuan Dynasty. His works such as The Injustice to Dou E profoundly reflect social reality and achieve high artistic merit. Guan Hanqing is hailed as the \"Sage of Drama,\" and his works are still performed on stage today."
     },
     {
       "id": "chapter8_88_zijincheng",
@@ -1935,7 +2196,10 @@
       ],
       "order": 87,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_88_zijincheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Guo Shoujing and the Shoushi Calendar",
+      "summary_en": "",
+      "full_text_en": "Guo Shoujing was an outstanding astronomer and mathematician of the Yuan Dynasty. The Shoushi Calendar he compiled was extremely precise, calculating a year as 365.2425 days, nearly identical to the current Gregorian calendar but three centuries earlier. Guo Shoujing also manufactured precision astronomical instruments such as the simplified armilla, making major contributions to the development of Chinese astronomy."
     },
     {
       "id": "chapter8_89_mingchangcheng",
@@ -1957,7 +2221,10 @@
       ],
       "order": 88,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_89_mingchangcheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Zhao Mengfu's Calligraphy",
+      "summary_en": "",
+      "full_text_en": "Zhao Mengfu was the most outstanding calligrapher and painter of the Yuan Dynasty. His calligraphy excelled in all scripts, and his painting pioneered the new style of Yuan Dynasty literati painting. Zhao Mengfu advocated that \"calligraphy and painting share the same origin,\" and his artistic theory and practice had a profound influence on later generations."
     },
     {
       "id": "chapter8_90_lishizhen",
@@ -1979,7 +2246,10 @@
       ],
       "order": 89,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_90_lishizhen_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Wen Tianxiang Resisting the Yuan",
+      "summary_en": "",
+      "full_text_en": "Wen Tianxiang was a famous anti-Yuan hero of the late Southern Song. After being captured following military defeat, he remained steadfast and wrote the immortal verse \"Since ancient times, who has never died? Let my loyal heart illuminate the annals of history.\" Wen Tianxiang's spirit of loyalty and righteousness became a symbol of the Chinese nation's moral integrity."
     },
     {
       "id": "chapter8_91_xuxiake",
@@ -2001,7 +2271,10 @@
       ],
       "order": 90,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_91_xuxiake_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "chapter8_92_lizicheng",
@@ -2023,7 +2296,10 @@
       ],
       "order": 91,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_92_lizicheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Zhu Yuanzhang Founding the Ming Dynasty",
+      "summary_en": "",
+      "full_text_en": "Zhu Yuanzhang rose from a poor peasant to a founding emperor, establishing the Great Ming Dynasty. He abolished the prime minister system, strengthened imperial power, and implemented a series of reforms. Zhu Yuanzhang's legendary life is a magnificent epic of a commoner's rise to power."
     },
     {
       "id": "chapter8_93_wusangui",
@@ -2045,7 +2321,10 @@
       ],
       "order": 92,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter8_93_wusangui_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Zheng He's Voyages to the Western Seas",
+      "summary_en": "",
+      "full_text_en": "Zheng He led a massive fleet on seven voyages to the Western Seas, reaching Southeast Asia, South Asia, West Asia, and East Africa. These voyages predated Columbus's discovery of the New World by nearly a century, demonstrating the Ming Dynasty's powerful maritime capabilities and open diplomatic posture."
     },
     {
       "id": "chapter9_94_kangxi",
@@ -2067,7 +2346,10 @@
       ],
       "order": 93,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_94_kangxi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "The Forbidden City",
+      "summary_en": "",
+      "full_text_en": "The Forbidden City was the imperial palace of the Ming and Qing dynasties, and is the largest and best-preserved ancient palace complex in the world. This magnificent palace embodies the wisdom and dedication of countless craftsmen, representing the pinnacle of ancient Chinese architecture."
     },
     {
       "id": "chapter9_95_yongzheng",
@@ -2089,7 +2371,10 @@
       ],
       "order": 94,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_95_yongzheng_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Ming Great Wall",
+      "summary_en": "",
+      "full_text_en": "The Ming Great Wall is the largest and best-preserved Great Wall in Chinese history. It stretches from the Yalu River in the east to Jiayuguan in the west, spanning ten thousand li. The Ming Great Wall is the crystallization of the Chinese nation's wisdom and strength, and a miracle in the history of world architecture."
     },
     {
       "id": "chapter9_96_qianlong",
@@ -2111,7 +2396,10 @@
       ],
       "order": 95,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_96_qianlong_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Li Shizhen and the Compendium of Materia Medica",
+      "summary_en": "",
+      "full_text_en": "Li Shizhen spent twenty-seven years compiling the Compendium of Materia Medica (Bencao Gangmu), a monumental medical work documenting over 1,800 medicinal substances and more than 10,000 prescriptions. The Compendium has been translated into multiple languages, exerting a profound influence on the development of world medicine."
     },
     {
       "id": "chapter9_97_siku",
@@ -2133,7 +2421,10 @@
       ],
       "order": 96,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_97_siku_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Xu Xiake's Travels",
+      "summary_en": "",
+      "full_text_en": "Xu Xiake spent over thirty years traveling across most of China, writing the famous Xu Xiake's Travels. This travelogue records in detail the geography, landforms, and customs of various regions, and is a precious document of Chinese geography."
     },
     {
       "id": "chapter9_98_caoxueqin",
@@ -2155,7 +2446,10 @@
       ],
       "order": 97,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter9_98_caoxueqin_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Li Zicheng's Uprising",
+      "summary_en": "",
+      "full_text_en": "Li Zicheng led a peasant rebel army to capture Beijing, overthrowing Ming rule. Although the Dashun regime was soon defeated by Qing forces, this peasant uprising profoundly reflected the sharp social contradictions of the late Ming, becoming an important event in Chinese history."
     },
     {
       "id": "chapter10_99_yapian",
@@ -2177,7 +2471,10 @@
       ],
       "order": 98,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_99_yapian_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Wu Sangui Letting Qing Troops Through the Shanhai Pass",
+      "summary_en": "",
+      "full_text_en": "Wu Sangui opened the Shanhai Pass to let Qing troops through, altering the course of Chinese history. After entering the pass, Qing forces rapidly unified the country, establishing China's last feudal dynasty. This event marked the complete fall of the Ming and the beginning of Qing rule."
     },
     {
       "id": "chapter10_100_taiping",
@@ -2199,7 +2496,10 @@
       ],
       "order": 99,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_100_taiping_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Emperor Kangxi",
+      "summary_en": "",
+      "full_text_en": "Emperor Kangxi was the longest-reigning emperor in Chinese history. He suppressed the Revolt of the Three Feudatories, recovered Taiwan, resisted Russian invasion, and initiated the Kang-Qian Prosperity. Emperor Kangxi's civil and military achievements brought the Qing Dynasty to its zenith."
     },
     {
       "id": "chapter10_101_yangwu",
@@ -2221,7 +2521,10 @@
       ],
       "order": 100,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_101_yangwu_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Emperor Yongzheng",
+      "summary_en": "",
+      "full_text_en": "Emperor Yongzheng implemented a series of important reforms during his reign. He introduced the poll tax merged into land tax, rectified governance, and established the Grand Council to strengthen imperial power. Emperor Yongzheng's reforms laid a solid foundation for the prosperity of the Qianlong era."
     },
     {
       "id": "chapter10_102_xinhai",
@@ -2243,7 +2546,10 @@
       ],
       "order": 101,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter10_102_xinhai_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Emperor Qianlong's Southern Tours",
+      "summary_en": "",
+      "full_text_en": "Emperor Qianlong made six southern tours to Jiangnan, inspecting local conditions and water conservancy projects along the way. The Kang-Qian Prosperity reached its peak during Qianlong's reign, but seeds of decline were hidden behind the prosperity. Qianlong's southern tours were both a symbol of the golden age and an accelerator of national resource depletion."
     },
     {
       "id": "chapter11_103_wusi",
@@ -2265,7 +2571,10 @@
       ],
       "order": 102,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter11_103_wusi_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Siku Quanshu (Complete Library of the Four Treasuries)",
+      "summary_en": "",
+      "full_text_en": "The Siku Quanshu is the largest book collection in Chinese history, compiled during the Qianlong reign of the Qing Dynasty. The complete work includes over 3,400 titles and nearly 800 million characters. This vast repository of literature preserves numerous precious ancient texts and is the definitive compilation of Chinese culture."
     },
     {
       "id": "chapter11_104_kangri",
@@ -2287,7 +2596,10 @@
       ],
       "order": 103,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter11_104_kangri_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Cao Xueqin and Dream of the Red Chamber",
+      "summary_en": "",
+      "full_text_en": "Cao Xueqin devoted his life's effort to writing Dream of the Red Chamber, a novel centered on the tragic love story of Jia Baoyu and Lin Daiyu, profoundly revealing the decline of feudal society. Dream of the Red Chamber is hailed as the pinnacle of Chinese classical fiction and a treasure of world literature."
     },
     {
       "id": "chapter11_105_xinzhongguo",
@@ -2309,7 +2621,10 @@
       ],
       "order": 104,
       "pixel_image": "res://assets/images/illustrations/chinese_history/chapter11_105_xinzhongguo_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Opium War",
+      "summary_en": "",
+      "full_text_en": "Lin Zexu destroyed opium at Humen, demonstrating the Chinese nation's determination to resist foreign aggression. The outbreak of the Opium War opened China's doors, and the Treaty of Nanjing signed thereafter began China's descent into a semi-colonial and semi-feudal society. This marked the beginning of China's modern history."
     }
   ]
 }

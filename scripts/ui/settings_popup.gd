@@ -18,6 +18,7 @@ func _ready() -> void:
 	bgm_slider.value = AudioManager.bgm_volume * 100.0
 	sfx_slider.value = AudioManager.sfx_volume * 100.0
 	auto_rotate_check.button_pressed = GameManager.settings.get("auto_rotate", true)
+	language_option.selected = GameManager.current_language
 	_update_value_labels()
 	dim_overlay.gui_input.connect(_on_dim_overlay_input)
 	AudioManager.bgm_volume_changed.connect(_on_bgm_volume_changed)
@@ -35,6 +36,7 @@ func show_settings() -> void:
 	bgm_slider.value = AudioManager.bgm_volume * 100.0
 	sfx_slider.value = AudioManager.sfx_volume * 100.0
 	auto_rotate_check.button_pressed = GameManager.settings.get("auto_rotate", true)
+	language_option.selected = GameManager.current_language
 	_update_value_labels()
 	visible = true
 	panel.scale = Vector2(0.8, 0.8)
@@ -86,6 +88,7 @@ func _on_language_selected(index: int) -> void:
 	var new_language = index as GameManager.Language
 	if new_language != GameManager.current_language:
 		GameManager.current_language = new_language
+		GameManager._apply_language(new_language)
 		GameManager.language_changed.emit(new_language)
 		GameManager.save_game()
 		AudioManager.play_sfx("click")

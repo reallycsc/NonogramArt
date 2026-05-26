@@ -6,8 +6,8 @@
   "difficulty": "tutorial",
   "solution": [
     [
-      1,
       0,
+      1,
       0,
       0,
       0
@@ -61,10 +61,10 @@
   ],
   "col_clues": [
     [
-      5
+      4
     ],
     [
-      4
+      5
     ],
     [
       2
@@ -77,6 +77,7 @@
     ]
   ],
   "hint_cells": [],
+  "reasoning_steps": 25,
   "source_rect": {
     "x": 852,
     "y": 0,

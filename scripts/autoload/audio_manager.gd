@@ -171,6 +171,7 @@ func _load_bgm(key: String) -> AudioStream:
 		return null
 	var stream = load(path)
 	if stream is AudioStream:
+		_ensure_loop(stream)
 		_bgm_cache[key] = stream
 		return stream
 	return null
@@ -182,9 +183,18 @@ func _load_bgm_from_path(path: String) -> AudioStream:
 		return null
 	var stream = load(path)
 	if stream is AudioStream:
+		_ensure_loop(stream)
 		_bgm_cache[path] = stream
 		return stream
 	return null
+
+func _ensure_loop(stream: AudioStream) -> void:
+	if stream is AudioStreamMP3:
+		stream.loop = true
+	elif stream is AudioStreamOggVorbis:
+		stream.loop = true
+	elif stream is AudioStreamWAV:
+		stream.loop_mode = AudioStreamWAV.LOOP_FORWARD
 
 func _load_sfx(key: String) -> AudioStream:
 	if _sfx_cache.has(key):

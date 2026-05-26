@@ -21,7 +21,10 @@
       ],
       "order": 0,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_000_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Origins of Barter",
+      "summary_en": "",
+      "full_text_en": "In ancient marketplaces, shepherds traded three sheep for a farmer's sack of grain, while shells and salt blocks served as the earliest currency. Transactions took place on open ground between tribes, with elders overseeing fair exchange. This was the earliest form of human commercial activity."
     },
     {
       "id": "economic_trade_001",
@@ -43,7 +46,10 @@
       ],
       "order": 1,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_001_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Mesopotamian Commerce",
+      "summary_en": "",
+      "full_text_en": "Sumerian merchants recorded every transaction on clay tablets, and the silver shekel became the standard unit of measurement. Temples were both religious centers and commercial hubs, priests managed vast storage systems, and the earliest concepts of credit and interest took root here."
     },
     {
       "id": "economic_trade_002",
@@ -65,7 +71,10 @@
       ],
       "order": 2,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_002_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Ancient Egyptian Economic System",
+      "summary_en": "",
+      "full_text_en": "The Nile's regular floods brought fertile soil, and pharaohs collected grain taxes through a bureaucratic system. Pyramid construction drove a massive logistics network, craftsmen received state-rationed bread and beer, and the prototype of a planned economy was already visible in ancient Egypt."
     },
     {
       "id": "economic_trade_003",
@@ -87,7 +96,10 @@
       ],
       "order": 3,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_003_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Cowrie Currency of Shang and Zhou China",
+      "summary_en": "",
+      "full_text_en": "Shang dynasty nobles used cowrie shells as currency, and the character for shell appeared frequently in oracle bone inscriptions. The Zhou dynasty developed spade and knife money, and metal currency began circulating. Merchants drove carts of goods between states, and Guan Zhong established state monopolies on salt and iron, pioneering state intervention in the economy."
     },
     {
       "id": "economic_trade_004",
@@ -109,7 +121,10 @@
       ],
       "order": 4,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_004_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Commercial City-States of Ancient Greece",
+      "summary_en": "",
+      "full_text_en": "The port of Piraeus in Athens was crowded with merchant ships, trading olive oil and pottery for Black Sea grain and Persian luxuries. Merchants haggled amid the clinking of silver coins, and commercial prosperity gave birth to democratic politics and philosophical inquiry."
     },
     {
       "id": "economic_trade_005",
@@ -131,7 +146,10 @@
       ],
       "order": 5,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_005_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Trade Networks of the Roman Empire",
+      "summary_en": "",
+      "full_text_en": "All roads led to Rome, and caravans streamed along imperial highways. Roman merchants imported spices and silk from India, silver from Spain, and tin from Britain. A unified currency and legal system made the Mediterranean Rome's inland sea."
     },
     {
       "id": "economic_trade_006",
@@ -153,7 +171,10 @@
       ],
       "order": 6,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_006_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Opening of the Silk Road",
+      "summary_en": "",
+      "full_text_en": "After Zhang Qian's pioneering journey to the Western Regions, the Silk Road connected Chang'an with Rome. Camel caravans crossed the Gobi Desert—Chinese silk, tea, and porcelain headed west, while grapes, flax, and fine horses from the Western Regions came east. Eastern and Western civilizations mingled through trade."
     },
     {
       "id": "economic_trade_007",
@@ -175,7 +196,10 @@
       ],
       "order": 7,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_007_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "East and West Markets of Chang'an",
+      "summary_en": "",
+      "full_text_en": "The East and West Markets of Tang Chang'an teemed with merchants, and foreign traders led camels bearing exotic treasures. Persian silverware, Indian spices, and Arabian gemstones dazzled the eye. Flying cash and cabinet shops pioneered remittance and savings, making Chang'an the world's trading center."
     },
     {
       "id": "economic_trade_008",
@@ -197,7 +221,10 @@
       ],
       "order": 8,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_008_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Jiaozi: Paper Currency of the Song Dynasty",
+      "summary_en": "",
+      "full_text_en": "Sichuan merchants in the Northern Song invented the world's earliest paper currency, jiaozi, replacing cumbersome iron coins. Jiaozi shops provided credit guarantees, and the government established the Yizhou Jiaozi Office for unified issuance. Financial innovation led the world, and a commercial credit system was initially established."
     },
     {
       "id": "economic_trade_009",
@@ -219,7 +246,10 @@
       ],
       "order": 9,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_009_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Arab Commercial Empire",
+      "summary_en": "",
+      "full_text_en": "Arab merchants spanned three continents, from Córdoba in Spain to Guangzhou in China. Islamic teachings regulated commercial conduct, suq markets bustled with trade in spices, textiles, and handicrafts, and credit instruments and partnership systems became increasingly sophisticated."
     },
     {
       "id": "economic_trade_010",
@@ -241,7 +271,10 @@
       ],
       "order": 10,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_010_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Venetian Commercial Republic",
+      "summary_en": "",
+      "full_text_en": "Venetian merchants controlled the lifeline of Mediterranean trade, and double-entry bookkeeping was born here. Bankers traded bills on the Rialto Bridge beside the Doge's Palace, and profits from spices and silk sustained the glory of this水上 city. The modern financial system took root here."
     },
     {
       "id": "economic_trade_011",
@@ -263,7 +296,10 @@
       ],
       "order": 11,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_011_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Hanseatic League",
+      "summary_en": "",
+      "full_text_en": "Merchants of northern Germany formed the Hanseatic League, controlling Baltic Sea trade from London to Novgorod. League cities enjoyed trade privileges, trading posts spread across Europe, and unified commercial regulations and naval convoy systems safeguarded trade."
     },
     {
       "id": "economic_trade_012",
@@ -285,7 +321,10 @@
       ],
       "order": 12,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_012_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Medieval Guild System",
+      "summary_en": "",
+      "full_text_en": "In medieval European cities, bakers, blacksmiths, and weavers each organized guilds, strictly regulating product quality and prices. Guild masters examined apprentices' skills before granting journeyman status, and cutthroat competition among peers was forbidden. Guilds were both professional organizations and mutual aid societies, shaping the order of the urban economy."
     },
     {
       "id": "economic_trade_013",
@@ -307,7 +346,10 @@
       ],
       "order": 13,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_013_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Florentine Banking",
+      "summary_en": "",
+      "full_text_en": "Medici banks spanned Rome, London, and Bruges, and bills of exchange let merchants deposit in one city and withdraw in another. The Pope's finances were managed by the Medici, and banking profits funded Renaissance artistic creation. Financial capital and cultural prosperity intertwined in Florence."
     },
     {
       "id": "economic_trade_014",
@@ -329,7 +371,10 @@
       ],
       "order": 14,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_014_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Champagne Fairs",
+      "summary_en": "",
+      "full_text_en": "Six cities in the County of Champagne hosted fairs in rotation, where Flemish cloth was exchanged for Italian spices. During fair periods, merchants enjoyed special legal protection, and notaries and money changers served trade. The Champagne Fairs were the most important international trade center in medieval Europe."
     },
     {
       "id": "economic_trade_015",
@@ -351,7 +396,10 @@
       ],
       "order": 15,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_015_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Genoese Maritime Trade",
+      "summary_en": "",
+      "full_text_en": "Genoese merchants controlled Western Mediterranean trade, establishing colonial outposts along the Black Sea coast to acquire silk and grain. Genoese navigators invented maritime insurance and joint-stock operations. The maritime republic vied with Venice for Mediterranean hegemony for centuries, and commercial competition drove advances in navigation technology."
     },
     {
       "id": "economic_trade_016",
@@ -373,7 +421,10 @@
       ],
       "order": 16,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_016_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Flemish Textile Industry",
+      "summary_en": "",
+      "full_text_en": "Ghent and Bruges in Flanders were the textile centers of medieval Europe, where English wool was shipped across the Channel and woven into fine cloth. Weavers operated looms in workshops, dyers used woad and madder to produce vivid colors, and Flemish cloth sold across Europe. The textile trade gave rise to Europe's earliest industrial cities."
     },
     {
       "id": "economic_trade_017",
@@ -395,7 +446,10 @@
       ],
       "order": 17,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_017_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Medieval Lex Mercatoria",
+      "summary_en": "",
+      "full_text_en": "Merchants at various fairs developed common commercial practices, with bills of exchange, letters of credit, and partnership contracts becoming standard instruments. Merchant courts were composed of merchants themselves, adjudicating disputes based on commercial custom rather than feudal law. The law merchant is the direct source of modern commercial law."
     },
     {
       "id": "economic_trade_018",
@@ -417,7 +471,10 @@
       ],
       "order": 18,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_018_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Medieval Monetary System",
+      "summary_en": "",
+      "full_text_en": "From silver pennies to the Florentine gold florin, the medieval monetary system became increasingly sophisticated. Coinage was a royal prerogative, and a coin's fineness and weight determined its creditworthiness. The Knights Templar operated transnational exchange services—pilgrims could deposit in Paris and withdraw in Jerusalem—and an early banking system took shape."
     },
     {
       "id": "economic_trade_019",
@@ -439,7 +496,10 @@
       ],
       "order": 19,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_019_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Medieval Agricultural Economy",
+      "summary_en": "",
+      "full_text_en": "The manor was the basic economic unit of medieval Europe, with lord's demesne and serf holdings interwoven. The three-field rotation system improved land utilization, watermills and windmills saved labor, and agricultural surpluses flowed into urban markets. The slow commodification of the manorial economy drove the loosening of the feudal system."
     },
     {
       "id": "economic_trade_020",
@@ -461,7 +521,10 @@
       ],
       "order": 20,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_020_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Fief System and Feudal Economy",
+      "summary_en": "",
+      "full_text_en": "Kings enfeoffed land to lords, who subinfeudated to knights, forming a feudal hierarchy through layered grants. Serfs labored on lordly land and paid rent in kind, knights exchanged military service for fiefs, and the rights-and-obligations relationship between lord and vassal was the cornerstone of medieval European economy and society."
     },
     {
       "id": "economic_trade_021",
@@ -483,7 +546,10 @@
       ],
       "order": 21,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_021_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Medieval Mining",
+      "summary_en": "",
+      "full_text_en": "Silver mines in Saxony and Bohemia provided Europe with large quantities of precious metals, and miners used animal-powered pumps to drain mine water. Increased silver production stimulated monetary circulation, mining towns flourished rapidly, and silver wealth became an important pillar of power for Holy Roman Empire princes."
     },
     {
       "id": "economic_trade_022",
@@ -505,7 +571,10 @@
       ],
       "order": 22,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_022_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Medieval Urban Economy",
+      "summary_en": "",
+      "full_text_en": "Merchants and artisans purchased city charters from lords with money, gaining autonomy. City hall bell towers rose above market squares, guild masters set product quality standards, and city courts judged independently. Urban autonomy broke the feudal hierarchy, and the burgher class emerged."
     },
     {
       "id": "economic_trade_023",
@@ -527,7 +596,10 @@
       ],
       "order": 23,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_023_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Dawn of the Age of Exploration",
+      "summary_en": "",
+      "full_text_en": "In 1498, Vasco da Gama rounded the Cape of Good Hope and reached India, opening the maritime Silk Road. The Portuguese established trading posts in Goa, and plummeting spice prices transformed the European economic landscape. The Age of Exploration marked the prelude to globalization."
     },
     {
       "id": "economic_trade_024",
@@ -549,7 +621,10 @@
       ],
       "order": 24,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_024_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Spanish Silver Trade",
+      "summary_en": "",
+      "full_text_en": "Silver from the Potosí mines was shipped to Asia via the Manila Galleons, and the Spanish silver dollar became a world currency. Silver flows connected the economies of three continents, inflation swept Europe, and the Price Revolution profoundly transformed socio-economic structures."
     },
     {
       "id": "economic_trade_025",
@@ -571,7 +646,10 @@
       ],
       "order": 25,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_025_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Dutch East India Company",
+      "summary_en": "",
+      "full_text_en": "The Dutch East India Company was established in 1602, issuing the world's first stock. The Amsterdam Stock Exchange buzzed with activity, the company held coinage and treaty-making rights, and armed merchant ships monopolized the spice trade, pioneering the modern corporate system."
     },
     {
       "id": "economic_trade_026",
@@ -593,7 +671,10 @@
       ],
       "order": 26,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_026_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "British East India Company",
+      "summary_en": "",
+      "full_text_en": "The British East India Company started from trading posts and gradually controlled the entire Indian subcontinent. The opium trade eroded China's economic lifeline, profits from tea and cotton flowed to London, and the cruelty of colonial trade intertwined with the expansion of commercial capital."
     },
     {
       "id": "economic_trade_027",
@@ -615,7 +696,10 @@
       ],
       "order": 27,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_027_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Triangular Trade",
+      "summary_en": "",
+      "full_text_en": "European merchant ships departed from Liverpool, carrying manufactured goods to West Africa in exchange for slaves, who were sold to American plantations, with sugar and cotton shipped back to Europe. The triangular trade lasted for centuries, Africa lost over a hundred million people, and the primitive accumulation of capital was soaked in blood and tears."
     },
     {
       "id": "economic_trade_028",
@@ -637,7 +721,10 @@
       ],
       "order": 28,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_028_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mediterranean Trade Rivalry",
+      "summary_en": "",
+      "full_text_en": "Venice and Genoa fought for Mediterranean trade hegemony for centuries, with warships clashing in the Adriatic and Tyrrhenian Seas. Venice controlled the passage of Eastern spices into Europe, while Genoa established colonial outposts on the Black Sea. The rivalry between the two maritime republics drove innovations in navigation and finance."
     },
     {
       "id": "economic_trade_029",
@@ -659,7 +746,10 @@
       ],
       "order": 29,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_029_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Portuguese Spice Route",
+      "summary_en": "",
+      "full_text_en": "Vasco da Gama rounded the Cape of Good Hope and reached Calicut, India, and the Portuguese established a spice route from Lisbon to Goa. Pepper, cinnamon, and cloves no longer passed through Arab middlemen, and plummeting prices panicked Venetian merchants. The Portuguese maritime empire monopolized Eastern trade for nearly a century."
     },
     {
       "id": "economic_trade_030",
@@ -681,7 +771,10 @@
       ],
       "order": 30,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_030_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Spanish American Silver",
+      "summary_en": "",
+      "full_text_en": "The Potosí mines produced hundreds of tons of silver annually, and Spanish treasure fleets shipped it back to Seville. American silver flowed into China via the Manila Galleons in exchange for silk and porcelain, opening the world's first trans-Pacific trade route. Silver became the lifeblood of sixteenth-century world trade."
     },
     {
       "id": "economic_trade_031",
@@ -703,7 +796,10 @@
       ],
       "order": 31,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_031_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Manila Galleon Trade",
+      "summary_en": "",
+      "full_text_en": "Spanish galleons sailed annually from Manila to Acapulco, laden with Chinese silk and porcelain in exchange for American silver. Chinese merchants operated trade in Manila's Chinatown, and the galleon trade lasted 250 years, connecting East Asian and American economies as a key link of early globalization."
     },
     {
       "id": "economic_trade_032",
@@ -725,7 +821,10 @@
       ],
       "order": 32,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_032_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Dutch Carrier of the Seas",
+      "summary_en": "",
+      "full_text_en": "In the seventeenth century, the Netherlands possessed over ten thousand merchant ships, monopolizing European shipping and trade. Amsterdam was the world's warehouse and exchange, herring fishing accumulated the first pot of gold for oceanic trade, and the Dutch earned the title \"carrier of the seas\" with low-cost, high-efficiency maritime services."
     },
     {
       "id": "economic_trade_033",
@@ -747,7 +846,10 @@
       ],
       "order": 33,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_033_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "British Mercantilist Policy",
+      "summary_en": "",
+      "full_text_en": "Britain pursued mercantilism, restricting colonial trade to British ships through the Navigation Acts. Colonial raw materials could only be exported to Britain, manufactured goods could only be imported from Britain, and trade surpluses accumulated gold and silver. Mercantilism laid the capital foundation for the British Industrial Revolution."
     },
     {
       "id": "economic_trade_034",
@@ -769,7 +871,10 @@
       ],
       "order": 34,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_034_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Atlantic Sugar Trade",
+      "summary_en": "",
+      "full_text_en": "Caribbean plantations produced vast quantities of sugar, with slaves cutting cane and boiling it under the scorching sun. Sugar transformed from luxury to mass consumer good, and British per capita sugar consumption increased twentyfold over a century. Behind the sweet sugar lay the blood and tears of slaves and the cruel profits of Atlantic trade."
     },
     {
       "id": "economic_trade_035",
@@ -791,7 +896,10 @@
       ],
       "order": 35,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_035_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Triangular Trade System",
+      "summary_en": "",
+      "full_text_en": "From the sixteenth to eighteenth centuries, European merchant ships carried manufactured goods to West Africa in exchange for slaves, who were trafficked to American plantations, with sugar, tobacco, and cotton shipped back to Europe. The triangular trade tightly bound three continents' economies—Europe accumulated capital for the Industrial Revolution, Africa lost over a hundred million people, and American plantation economies depended on slave labor."
     },
     {
       "id": "economic_trade_036",
@@ -813,7 +921,10 @@
       ],
       "order": 36,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_036_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Rivalry of the East India Companies",
+      "summary_en": "",
+      "full_text_en": "The Dutch and British East India Companies competed fiercely in Asia, with armed merchant ships exchanging fire on the Indian Ocean. The Dutch monopolized the Spice Islands trade, while the British gradually controlled the Indian cotton cloth trade. The rivalry between the two companies reshaped Asia's trade landscape and political map."
     },
     {
       "id": "economic_trade_037",
@@ -835,7 +946,10 @@
       ],
       "order": 37,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_037_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Baltic Grain Trade",
+      "summary_en": "",
+      "full_text_en": "Grain from Poland and Prussia was exported through Danzig to Western Europe, with Dutch merchant ships carrying most of the cargo. The Amsterdam Grain Exchange determined European grain prices, the Baltic trade was the lifeline of Northern Europe's economy, and the stability of the grain trade was vital to the survival of European cities."
     },
     {
       "id": "economic_trade_038",
@@ -857,7 +971,10 @@
       ],
       "order": 38,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_038_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Canadian Fur Trade",
+      "summary_en": "",
+      "full_text_en": "French fur traders penetrated deep into the North American interior, exchanging beaver pelts with Native Americans. Montreal became the fur trade center, beaver felt hats swept European fashion, and the fur trade drove North American colonial expansion while transforming Native American lifestyles and social structures."
     },
     {
       "id": "economic_trade_039",
@@ -879,7 +996,10 @@
       ],
       "order": 39,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_039_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Brazilian Brazilwood Trade",
+      "summary_en": "",
+      "full_text_en": "Portuguese colonizers harvested brazilwood along the Brazilian coast to extract red dye, and Brazil's name derives from this wood. The brazilwood trade was Brazil's earliest economic activity, and the relationship between colonizers and indigenous peoples gradually evolved from initial barter to violent conquest, expanding the Atlantic economic system."
     },
     {
       "id": "economic_trade_040",
@@ -901,7 +1021,10 @@
       ],
       "order": 40,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_040_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Chinese Tea Trade",
+      "summary_en": "",
+      "full_text_en": "The British East India Company imported large quantities of tea from Canton, and silver flowed steadily into China. To reverse the trade deficit, Britain smuggled opium into China, and Lin Zexu's destruction of opium at Humen triggered war. The tea trade transformed the economic relationship between China and Britain, profoundly influencing China's modern destiny."
     },
     {
       "id": "economic_trade_041",
@@ -923,7 +1046,10 @@
       ],
       "order": 41,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_041_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Rise of the Coffee Trade",
+      "summary_en": "",
+      "full_text_en": "Coffee spread from Yemen's Mocha port to Europe, and coffeehouses sprang up like mushrooms in London and Paris. The Dutch brought coffee seedlings to Java, the French promoted cultivation in Martinique, and coffee transformed from luxury to daily beverage. The coffee trade became one of the world's most important commodity trades."
     },
     {
       "id": "economic_trade_042",
@@ -945,7 +1071,10 @@
       ],
       "order": 42,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_042_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Cocoa Trade",
+      "summary_en": "",
+      "full_text_en": "The Spanish brought cacao beans from Central America, adding sugar and spices to make hot chocolate that swept European courts. Cocoa cultivation expanded to West Africa and Southeast Asia, and chocolate transformed from aristocratic drink to popular snack. The cocoa trade connected Native American traditions with European consumer culture."
     },
     {
       "id": "economic_trade_043",
@@ -967,7 +1096,10 @@
       ],
       "order": 43,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_043_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Indian Calico Trade",
+      "summary_en": "",
+      "full_text_en": "Fine Indian cotton cloth was in high demand in Europe, and the British East India Company purchased Bengali calico in large quantities. British textile producers lobbied Parliament to ban Indian calico imports, turning instead to machine mass production. The rise and fall of the Indian calico trade reflected the Industrial Revolution's impact on traditional handicrafts."
     },
     {
       "id": "economic_trade_044",
@@ -989,7 +1121,10 @@
       ],
       "order": 44,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_044_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Japanese Silver Mine Trade",
+      "summary_en": "",
+      "full_text_en": "In the sixteenth century, Japan's Iwami Ginzan silver mine produced one-third of global output, and Portuguese traders exchanged Chinese silk for Japanese silver. Japanese silver flowed into China, supporting the Ming dynasty's silver-standard monetary reform, and the Sino-Japanese-Portuguese triangular trade formed an important cycle in the East Asian economy."
     },
     {
       "id": "economic_trade_045",
@@ -1011,7 +1146,10 @@
       ],
       "order": 45,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_045_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Struggle for the Strait of Malacca",
+      "summary_en": "",
+      "full_text_en": "The Strait of Malacca was the chokepoint of East-West trade, and the Portuguese captured Malacca in 1511. The Dutch and British subsequently controlled the strait, and the changing hands of Malacca marked the transfer of Asian maritime trade dominance. The strait remains one of the world's busiest shipping lanes today."
     },
     {
       "id": "economic_trade_046",
@@ -1033,7 +1171,10 @@
       ],
       "order": 46,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_046_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Cape of Good Hope Route",
+      "summary_en": "",
+      "full_text_en": "The Portuguese established supply stations at the Cape of Good Hope, providing fresh water and repair services for merchant ships traveling to and from the Indian Ocean. The Cape route allowed Europeans to bypass Arab middlemen and obtain Eastern goods directly, and the opening of this route completely transformed the pattern of world trade."
     },
     {
       "id": "economic_trade_047",
@@ -1055,7 +1196,10 @@
       ],
       "order": 47,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_047_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Caribbean Pirate Economy",
+      "summary_en": "",
+      "full_text_en": "In the seventeenth century, pirates infested the Caribbean, plundering Spanish silver ships for enormous wealth. Some pirates were commissioned by the British government as privateers, sharing their loot with the Crown. The pirate economy was a byproduct of colonial competition, reflecting the disorder of maritime order in the Age of Exploration."
     },
     {
       "id": "economic_trade_048",
@@ -1077,7 +1221,10 @@
       ],
       "order": 48,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_048_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Price Revolution of the Age of Exploration",
+      "summary_en": "",
+      "full_text_en": "Massive influxes of American silver into Europe caused money supplies to surge and prices to skyrocket. Spanish prices quadrupled over a century, fixed-income earners fell into poverty, while merchants profited. The Price Revolution accelerated the collapse of feudalism and promoted the rise of capitalism."
     },
     {
       "id": "economic_trade_049",
@@ -1099,7 +1246,10 @@
       ],
       "order": 49,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_049_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Industrial Revolution and the Factory System",
+      "summary_en": "",
+      "full_text_en": "Cotton mills in Manchester bristled with chimneys, and steam engines roared ceaselessly. The factory system replaced domestic handicrafts, and workers flooded into cities to become industrial laborers. Production efficiency soared, British cotton cloth sold worldwide, and the title \"Workshop of the World\" was born."
     },
     {
       "id": "economic_trade_050",
@@ -1121,7 +1271,10 @@
       ],
       "order": 50,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_050_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Railways and the Global Market",
+      "summary_en": "",
+      "full_text_en": "Steam locomotives roared across continents, and railways connected raw material sources, factories, and markets into one. Chicago's grain, Pittsburgh's steel, and the Ruhr's coal flowed rapidly through rail networks, and unified domestic markets drove economic takeoff."
     },
     {
       "id": "economic_trade_051",
@@ -1143,7 +1296,10 @@
       ],
       "order": 51,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_051_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Establishment of the Gold Standard",
+      "summary_en": "",
+      "full_text_en": "In the 1870s, major capitalist countries successively adopted the gold standard, pegging their currencies to gold. Stable exchange rates promoted international trade, London became the world's financial center, and the pound sterling dominated international settlements."
     },
     {
       "id": "economic_trade_052",
@@ -1165,7 +1321,10 @@
       ],
       "order": 52,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_052_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Watt's Steam Engine",
+      "summary_en": "",
+      "full_text_en": "Watt's improved steam engine converted heat into sustained power, freeing factories from dependence on river water. Steam engines drove spinning machines and looms at high speed, coal consumption dropped significantly, and the power revolution freed industrial production from geographical constraints, fully accelerating the British Industrial Revolution."
     },
     {
       "id": "economic_trade_053",
@@ -1187,7 +1346,10 @@
       ],
       "order": 53,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_053_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Manchester Cotton Industry",
+      "summary_en": "",
+      "full_text_en": "Manchester's cotton mills bristled with chimneys, and steam engines roared day and night. Raw cotton arrived from the American South, yarn and cloth sold worldwide, and Manchester grew from a country town into the cotton capital of the world. The factory system concentrated workers in mills with regulated hours, giving birth to the modern industrial city."
     },
     {
       "id": "economic_trade_054",
@@ -1209,7 +1371,10 @@
       ],
       "order": 54,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_054_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "British Railway Construction",
+      "summary_en": "",
+      "full_text_en": "Stephenson's steam locomotive roared along iron rails, and the Liverpool-Manchester railway halved transport costs after opening. Railway construction fever swept Britain, steel and coal demand surged, and railways not only connected markets but became a massive engine driving economic growth."
     },
     {
       "id": "economic_trade_055",
@@ -1231,7 +1396,10 @@
       ],
       "order": 55,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_055_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Rise of the Steel Industry",
+      "summary_en": "",
+      "full_text_en": "The Bessemer converter process sent steel production soaring, steel rails replaced iron rails, and steel frames supported skyscrapers. Carnegie's steel empire rose from Pittsburgh, and steel became the skeleton of industrial civilization. From bridges to warships, steel reshaped the face of the nineteenth-century world."
     },
     {
       "id": "economic_trade_056",
@@ -1253,7 +1421,10 @@
       ],
       "order": 56,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_056_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Factory System",
+      "summary_en": "",
+      "full_text_en": "Factories concentrated workers in halls, regulating their hours by the bell, and fine division of labor reduced each person to a single process. Child laborers worked fourteen hours daily beside textile machines, and women's wages were only half of men's. The factory system created enormous wealth but also brought exploitation and poverty, sharpening labor-capital conflicts."
     },
     {
       "id": "economic_trade_057",
@@ -1275,7 +1446,10 @@
       ],
       "order": 57,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_057_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Free Trade Theory",
+      "summary_en": "",
+      "full_text_en": "Adam Smith argued that division of labor and free trade increase national wealth, and David Ricardo proposed the theory of comparative advantage. Britain repealed the Corn Laws to open grain imports, and free trade became the creed of the Victorian era, but colonial economies were forced into roles as raw material suppliers and commodity dumping markets."
     },
     {
       "id": "economic_trade_058",
@@ -1297,7 +1471,10 @@
       ],
       "order": 58,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_058_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Railway Stock Speculation",
+      "summary_en": "",
+      "full_text_en": "Nineteenth-century British railway construction triggered a stock speculation frenzy, with investors madly buying railway shares. The 1847 railway bubble burst, bank runs and bankruptcies followed, but the completed railway network still operated. The speculative bubble left a real infrastructure legacy, and the economic cycle began to manifest."
     },
     {
       "id": "economic_trade_059",
@@ -1319,7 +1496,10 @@
       ],
       "order": 59,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_059_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Colonial Economic System",
+      "summary_en": "",
+      "full_text_en": "In the late nineteenth century, European powers carved up Africa and Asia, and colonies became sources of raw materials and commodity markets. Indian cotton was shipped to Manchester, woven into cloth, and sold back to India; Egyptian long-staple cotton supplied Lancashire's textile mills. The colonial economic system incorporated Asia, Africa, and Latin America into the global capitalist division of labor."
     },
     {
       "id": "economic_trade_060",
@@ -1341,7 +1521,10 @@
       ],
       "order": 60,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_060_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Second Industrial Revolution",
+      "summary_en": "",
+      "full_text_en": "Electricity and internal combustion engines replaced steam as the new power sources, and Edison's light bulb illuminated factories and streets. Chemical and electrical industries rose, Germany and the United States caught up and surpassed, and scientific research became closely integrated with industrial production. The Second Industrial Revolution carried humanity from the steam age into the electrical age."
     },
     {
       "id": "economic_trade_061",
@@ -1363,7 +1546,10 @@
       ],
       "order": 61,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_061_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Age of Electrification",
+      "summary_en": "",
+      "full_text_en": "Edison built the first power station on Pearl Street in New York, and electric lights replaced gas lamps to illuminate the city night. Electric-powered trams ran through streets and alleys, factories replaced steam engines with electric motors, and electrification completely transformed production and lifestyle. Humanity stepped into a new era of light."
     },
     {
       "id": "economic_trade_062",
@@ -1385,7 +1571,10 @@
       ],
       "order": 62,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_062_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Rise of the Oil Industry",
+      "summary_en": "",
+      "full_text_en": "Drake drilled the first oil well in Pennsylvania, and petroleum transformed from a folk remedy to the lifeblood of industry. Rockefeller's Standard Oil monopolized American oil refining, the invention of the internal combustion engine caused oil demand to surge, and black gold became the most important strategic resource of the twentieth century, reshaping the global economy and geopolitics."
     },
     {
       "id": "economic_trade_063",
@@ -1407,7 +1596,10 @@
       ],
       "order": 63,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_063_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Birth of the Automobile Industry",
+      "summary_en": "",
+      "full_text_en": "Ford used assembly lines in his Detroit factories to produce the Model T, with a car rolling off the line every ten seconds. Workers' daily wage of five dollars was enough to buy the cars they produced, and mass production and mass consumption formed a virtuous cycle. The automobile industry became the engine of twentieth-century economic growth."
     },
     {
       "id": "economic_trade_064",
@@ -1429,7 +1621,10 @@
       ],
       "order": 64,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_064_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Formation of Finance Capital",
+      "summary_en": "",
+      "full_text_en": "Bank capital and industrial capital merged to form financial oligarchies, with Morgan and Rockefeller controlling the lifeline of the American economy. Investment banks issued stocks and bonds to finance enterprises, financial capital flowed across borders, London and New York became world financial centers, and the power of capital reshaped the global economic order."
     },
     {
       "id": "economic_trade_065",
@@ -1451,7 +1646,10 @@
       ],
       "order": 65,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_065_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Monopolies and Trusts",
+      "summary_en": "",
+      "full_text_en": "Standard Oil controlled ninety percent of American oil refining, and Carnegie Steel monopolized the steel market. Large enterprises formed monopolies through mergers and combinations, manipulating prices and suppressing competition. The United States enacted antitrust laws to curb monopolies, but the economic power of big business had irreversibly changed market structures."
     },
     {
       "id": "economic_trade_066",
@@ -1473,7 +1671,10 @@
       ],
       "order": 66,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_066_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Rise of the Labor Movement",
+      "summary_en": "",
+      "full_text_en": "The British Chartist movement demanded universal suffrage, and Lyon silk workers revolted twice against capitalist exploitation. Marx and Engels published the Communist Manifesto calling on proletarians worldwide to unite, and trade unions fought for the eight-hour workday. The labor movement became an important force driving social reform."
     },
     {
       "id": "economic_trade_067",
@@ -1495,7 +1696,10 @@
       ],
       "order": 67,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_067_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "The Great Depression",
+      "summary_en": "",
+      "full_text_en": "The 1929 Wall Street stock market crash triggered an economic crisis that swept the globe. Banks failed, factories closed, unemployment soared, and a quarter of the American workforce was jobless. Roosevelt's New Deal used government intervention to rescue the economy, and Keynesianism arose from this."
     },
     {
       "id": "economic_trade_068",
@@ -1517,7 +1721,10 @@
       ],
       "order": 68,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_068_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Bretton Woods System",
+      "summary_en": "",
+      "full_text_en": "In 1944, representatives of forty-four nations gathered at Bretton Woods, establishing a dollar-centered international monetary system. The dollar was pegged to gold, other currencies were pegged to the dollar, and the International Monetary Fund and World Bank were established."
     },
     {
       "id": "economic_trade_069",
@@ -1539,7 +1746,10 @@
       ],
       "order": 69,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_069_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "General Agreement on Tariffs and Trade",
+      "summary_en": "",
+      "full_text_en": "The General Agreement on Tariffs and Trade was signed in 1947, launching the process of global trade liberalization. Multiple rounds of negotiations gradually lowered tariff barriers, international trade grew rapidly, economic globalization accelerated, and the World Trade Organization officially replaced GATT in 1995."
     },
     {
       "id": "economic_trade_070",
@@ -1561,7 +1771,10 @@
       ],
       "order": 70,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_070_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Collapse of the Bretton Woods System",
+      "summary_en": "",
+      "full_text_en": "In 1971, Nixon announced the decoupling of the dollar from gold, and the Bretton Woods System officially collapsed. Currencies entered the floating exchange rate era, exchange rate volatility increased uncertainty in international trade, the petrodollar system took its place, and the global financial landscape underwent a fundamental transformation."
     },
     {
       "id": "economic_trade_071",
@@ -1583,7 +1796,10 @@
       ],
       "order": 71,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_071_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Rise of the Four Asian Tigers",
+      "summary_en": "",
+      "full_text_en": "South Korea, Singapore, Hong Kong, and Taiwan achieved economic takeoff in the 1960s and 1970s. Export-oriented strategies, industrial upgrading, and educational investment enabled them to leap from developing economies to newly industrialized economies, creating the East Asian miracle."
     },
     {
       "id": "economic_trade_072",
@@ -1605,7 +1821,10 @@
       ],
       "order": 72,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_072_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "China's Economic Takeoff",
+      "summary_en": "",
+      "full_text_en": "Over more than forty years of reform and opening up, China's GDP grew hundreds of times, making it the world's second-largest economy. After joining the WTO, China deeply integrated into global supply chains, earning the title \"World Factory,\" and hundreds of millions of people were lifted out of poverty, creating a miracle in the history of human development."
     },
     {
       "id": "economic_trade_073",
@@ -1627,7 +1846,10 @@
       ],
       "order": 73,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_073_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Digital Economy Era",
+      "summary_en": "",
+      "full_text_en": "The internet and mobile payments have completely transformed business models, with e-commerce platforms connecting global buyers and sellers. Data has become a new factor of production, platform economy is reshaping industrial structures, and digital currencies and blockchain technology are brewing the next revolution in the financial system."
     },
     {
       "id": "economic_trade_074",
@@ -1649,7 +1871,10 @@
       ],
       "order": 74,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_074_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Globalization and Deglobalization",
+      "summary_en": "",
+      "full_text_en": "As globalization deepened in the twenty-first century, trade protectionism and populism also rose. Brexit and trade friction emerged one after another, global supply chains faced restructuring, and humanity sought a new balance between openness and closure."
     },
     {
       "id": "economic_trade_075",
@@ -1671,7 +1896,10 @@
       ],
       "order": 75,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_075_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Oil Crisis Shock",
+      "summary_en": "",
+      "full_text_en": "In 1973, Arab oil-producing nations imposed an oil embargo on the West, and oil prices quadrupled. Gas stations saw long queues, inflation and recession struck simultaneously, stagflation shattered the Keynesian myth, Western countries were forced to restructure their industries, and energy conservation and new energy development were put on the agenda."
     },
     {
       "id": "economic_trade_076",
@@ -1693,7 +1921,10 @@
       ],
       "order": 76,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_076_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Japanese Economic Miracle",
+      "summary_en": "",
+      "full_text_en": "Postwar Japan achieved rapid growth from the ruins, and Toyota's lean production model stunned global manufacturing. MITI guided industrial upgrading, lifetime employment stabilized the workforce, Japan's GDP grew twentyfold in three decades, and in 1968 it became the world's second-largest economy, creating a model for East Asian development."
     },
     {
       "id": "economic_trade_077",
@@ -1715,7 +1946,10 @@
       ],
       "order": 77,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_077_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Asian Financial Crisis",
+      "summary_en": "",
+      "full_text_en": "In 1997, the Thai baht's plunge triggered the Asian financial crisis, with currencies in Indonesia, South Korea, and Malaysia depreciating sharply. The IMF provided aid but attached austerity conditions, the crisis exposed the fragility of Asian economic structures, and it prompted countries to strengthen financial regulation and regional cooperation."
     },
     {
       "id": "economic_trade_078",
@@ -1737,7 +1971,10 @@
       ],
       "order": 78,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_078_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Rise of the Internet Economy",
+      "summary_en": "",
+      "full_text_en": "Silicon Valley entrepreneurs transformed the internet from an academic tool into a commercial platform—Amazon reshaped retail, Google monopolized digital advertising. Platform economy connected global buyers and sellers, data became a new factor of production, and the internet completely transformed business models and human lifestyles within two decades."
     },
     {
       "id": "economic_trade_079",
@@ -1759,7 +1996,10 @@
       ],
       "order": 79,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_079_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "2008 Financial Tsunami",
+      "summary_en": "",
+      "full_text_en": "The U.S. subprime mortgage crisis triggered a global financial tsunami, and Lehman Brothers' bankruptcy marked the full eruption of the crisis. Real estate markets collapsed, banks failed one after another, and the global economy fell into deep recession. Governments worldwide used trillions of dollars for bailouts, and the loopholes in financial regulation and Wall Street's greed were exposed."
     },
     {
       "id": "economic_trade_080",
@@ -1781,7 +2021,10 @@
       ],
       "order": 80,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_080_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Eurozone Economic Integration",
+      "summary_en": "",
+      "full_text_en": "The euro was officially launched in 1999, with eleven European countries abandoning their national currencies for a single currency. The euro promoted trade and investment among member states, but the contradiction between unified monetary policy and decentralized fiscal policy was fully exposed during the European debt crisis, and European economic integration faced severe tests."
     },
     {
       "id": "economic_trade_081",
@@ -1803,7 +2046,10 @@
       ],
       "order": 81,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_081_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Sharing Economy Model",
+      "summary_en": "",
+      "full_text_en": "Uber and Airbnb used internet platforms to connect idle resources with those in need, and the sharing economy challenged traditional taxi and hotel industries. The gig economy made flexible employment possible but also blurred the boundaries of employment relationships, and worker rights protection became a new social issue."
     },
     {
       "id": "economic_trade_082",
@@ -1825,7 +2071,10 @@
       ],
       "order": 82,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_082_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "AI Economy",
+      "summary_en": "",
+      "full_text_en": "Deep learning algorithms are driving AI breakthroughs, and autonomous driving and intelligent robots are reshaping the industrial landscape. AI replaces repetitive labor while creating new types of employment, data and computing power become core competitiveness, and the AI economy will profoundly transform production methods and wealth distribution in the twenty-first century."
     },
     {
       "id": "economic_trade_083",
@@ -1847,7 +2096,10 @@
       ],
       "order": 83,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_083_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Green Economy Transition",
+      "summary_en": "",
+      "full_text_en": "Climate change is driving the global economy toward a green, low-carbon transition, and carbon trading markets have turned emission rights into commodities. Renewable energy investment has surpassed fossil fuels, green bonds finance environmental projects, ESG standards are reshaping corporate evaluation systems, and the green economy is the most important structural transformation of the twenty-first century."
     },
     {
       "id": "economic_trade_084",
@@ -1869,7 +2121,10 @@
       ],
       "order": 84,
       "pixel_image": "res://assets/images/illustrations/economic_trade/economic_trade_084_nonogram_pixel.jpg",
-      "chapter_id": "chapter_6"
+      "chapter_id": "chapter_6",
+      "title_en": "Global Supply Chain Restructuring",
+      "summary_en": "",
+      "full_text_en": "The COVID-19 pandemic exposed the fragility of global supply chains, and chip shortages halted automobile factories. Countries began promoting supply chain diversification and localization, friend-shoring replaced offshoring, and the balance between efficiency and security became a new challenge. Global supply chains are undergoing the most profound restructuring since the Cold War."
     }
   ]
 }

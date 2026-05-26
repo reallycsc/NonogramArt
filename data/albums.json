@@ -4,49 +4,57 @@
       "id": "beginner_paradise",
       "name": "启蒙乐园",
       "icon": "res://assets/images/icons/bookshelf_beginner.png",
-      "order": 0
+      "order": 0,
+      "name_en": "Beginner's Paradise"
     },
     {
       "id": "humanities_history",
       "name": "人文历史",
       "icon": "res://assets/images/icons/bookshelf_humanities.png",
-      "order": 1
+      "order": 1,
+      "name_en": "Humanities and History"
     },
     {
       "id": "art_creativity",
       "name": "艺术创作",
       "icon": "res://assets/images/icons/bookshelf_art.png",
-      "order": 2
+      "order": 2,
+      "name_en": "Art Creation"
     },
     {
       "id": "nature_geography",
       "name": "自然地理",
       "icon": "res://assets/images/icons/bookshelf_nature.png",
-      "order": 3
+      "order": 3,
+      "name_en": "Physical Geography"
     },
     {
       "id": "biology_world",
       "name": "生物世界",
       "icon": "res://assets/images/icons/bookshelf_biology.png",
-      "order": 4
+      "order": 4,
+      "name_en": "Biological World"
     },
     {
       "id": "life_society",
       "name": "生活社会",
       "icon": "res://assets/images/icons/bookshelf_life.png",
-      "order": 5
+      "order": 5,
+      "name_en": "Life & Society"
     },
     {
       "id": "technology_industry",
       "name": "科技工业",
       "icon": "res://assets/images/icons/bookshelf_tech.png",
-      "order": 6
+      "order": 6,
+      "name_en": "Science & Industry"
     },
     {
       "id": "general_materials",
       "name": "综合素材",
       "icon": "res://assets/images/icons/bookshelf_general.png",
-      "order": 7
+      "order": 7,
+      "name_en": "Comprehensive Materials"
     }
   ],
   "albums": [
@@ -86,7 +94,9 @@
             "geometric_shapes_007"
           ]
         }
-      ]
+      ],
+      "name_en": "Geometric Shapes",
+      "description_en": ""
     },
     {
       "id": "daily_items",
@@ -114,7 +124,7 @@
         {
           "id": "chapter_2",
           "name": "中等物品",
-          "name_en": "Medium Items",
+          "name_en": "Intermediate Items",
           "order": 1,
           "badge_icon": "res://assets/images/badges/daily_items_chapter_1.png",
           "picture_ids": [
@@ -156,7 +166,89 @@
             "daily_items_024"
           ]
         }
-      ]
+      ],
+      "name_en": "Daily Items",
+      "description_en": ""
+    },
+    {
+      "id": "cute_animals",
+      "name": "可爱动物",
+      "description": "",
+      "bookshelf_id": "beginner_paradise",
+      "icon": "res://assets/images/icons/album_cute_animals.png",
+      "unlock_condition": "complete_album:daily_items",
+      "bgm": "res://assets/audio/music/cute_animals.mp3",
+      "order": 2,
+      "chapters": [
+        {
+          "id": "chapter_1",
+          "name": "萌宠乐园",
+          "name_en": "Pet Paradise",
+          "order": 0,
+          "badge_icon": "res://assets/images/badges/cute_animals_chapter_0.png",
+          "picture_ids": [
+            "cute_animals_000",
+            "cute_animals_001",
+            "cute_animals_002",
+            "cute_animals_003",
+            "cute_animals_004",
+            "cute_animals_005",
+            "cute_animals_006"
+          ]
+        },
+        {
+          "id": "chapter_2",
+          "name": "农场伙伴",
+          "name_en": "Farm Friends",
+          "order": 1,
+          "badge_icon": "res://assets/images/badges/cute_animals_chapter_1.png",
+          "picture_ids": [
+            "cute_animals_007",
+            "cute_animals_008",
+            "cute_animals_009",
+            "cute_animals_010",
+            "cute_animals_011",
+            "cute_animals_012",
+            "cute_animals_013",
+            "cute_animals_014"
+          ]
+        },
+        {
+          "id": "chapter_3",
+          "name": "森林精灵",
+          "name_en": "Forest Spirits",
+          "order": 2,
+          "badge_icon": "res://assets/images/badges/cute_animals_chapter_2.png",
+          "picture_ids": [
+            "cute_animals_015",
+            "cute_animals_016",
+            "cute_animals_017",
+            "cute_animals_018",
+            "cute_animals_019",
+            "cute_animals_020",
+            "cute_animals_021"
+          ]
+        },
+        {
+          "id": "chapter_4",
+          "name": "海洋与天空",
+          "name_en": "Ocean and Sky",
+          "order": 3,
+          "badge_icon": "res://assets/images/badges/cute_animals_chapter_3.png",
+          "picture_ids": [
+            "cute_animals_022",
+            "cute_animals_023",
+            "cute_animals_024",
+            "cute_animals_025",
+            "cute_animals_026",
+            "cute_animals_027",
+            "cute_animals_028",
+            "cute_animals_029"
+          ]
+        }
+      ],
+      "name_en": "Cute Animals",
+      "description_en": ""
     },
     {
       "id": "chinese_history",
@@ -327,7 +419,9 @@
             "chapter11_105_xinzhongguo"
           ]
         }
-      ]
+      ],
+      "name_en": "A General History of China",
+      "description_en": ""
     },
     {
       "id": "world_history",
@@ -484,7 +578,9 @@
             "world_history_099"
           ]
         }
-      ]
+      ],
+      "name_en": "A World History",
+      "description_en": ""
     },
     {
       "id": "asian_civilization",
@@ -636,7 +732,9 @@
             "asian_civilization_094"
           ]
         }
-      ]
+      ],
+      "name_en": "History of Asian Civilization",
+      "description_en": ""
     },
     {
       "id": "european_civilization",
@@ -651,7 +749,7 @@
         {
           "id": "chapter_1",
           "name": "欧洲文明起源",
-          "name_en": "Origins of European Civilization",
+          "name_en": "of European Civilization）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/european_civilization_chapter_0.png",
           "picture_ids": [
@@ -680,7 +778,7 @@
         {
           "id": "chapter_2",
           "name": "古希腊罗马",
-          "name_en": "Ancient Greece and Rome",
+          "name_en": "Greece and Rome）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/european_civilization_chapter_1.png",
           "picture_ids": [
@@ -709,7 +807,7 @@
         {
           "id": "chapter_3",
           "name": "中世纪欧洲",
-          "name_en": "Medieval Europe",
+          "name_en": "Europe）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/european_civilization_chapter_2.png",
           "picture_ids": [
@@ -738,7 +836,7 @@
         {
           "id": "chapter_4",
           "name": "近代欧洲",
-          "name_en": "Early Modern Europe",
+          "name_en": "Modern Europe）",
           "order": 3,
           "badge_icon": "res://assets/images/badges/european_civilization_chapter_3.png",
           "picture_ids": [
@@ -767,7 +865,7 @@
         {
           "id": "chapter_5",
           "name": "现代欧洲",
-          "name_en": "Modern Europe",
+          "name_en": "Europe）",
           "order": 4,
           "badge_icon": "res://assets/images/badges/european_civilization_chapter_4.png",
           "picture_ids": [
@@ -788,7 +886,9 @@
             "european_civilization_094"
           ]
         }
-      ]
+      ],
+      "name_en": "History of European Civilization",
+      "description_en": ""
     },
     {
       "id": "africa_america_civilization",
@@ -803,7 +903,7 @@
         {
           "id": "chapter_1",
           "name": "非洲文明起源",
-          "name_en": "Origins of African Civilization",
+          "name_en": "of African Civilization）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/africa_america_civilization_chapter_0.png",
           "picture_ids": [
@@ -830,7 +930,7 @@
         {
           "id": "chapter_2",
           "name": "非洲古代王国",
-          "name_en": "Ancient African Kingdoms",
+          "name_en": "African Kingdoms）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/africa_america_civilization_chapter_1.png",
           "picture_ids": [
@@ -861,7 +961,7 @@
         {
           "id": "chapter_3",
           "name": "美洲古代文明",
-          "name_en": "Ancient American Civilizations",
+          "name_en": "American Civilizations）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/africa_america_civilization_chapter_2.png",
           "picture_ids": [
@@ -890,7 +990,7 @@
         {
           "id": "chapter_4",
           "name": "殖民与独立",
-          "name_en": "Colonialism and Independence",
+          "name_en": "and Independence）",
           "order": 3,
           "badge_icon": "res://assets/images/badges/africa_america_civilization_chapter_3.png",
           "picture_ids": [
@@ -911,7 +1011,7 @@
         {
           "id": "chapter_5",
           "name": "现代非洲与美洲",
-          "name_en": "Modern Africa and Americas",
+          "name_en": "Africa and Americas）",
           "order": 4,
           "badge_icon": "res://assets/images/badges/africa_america_civilization_chapter_4.png",
           "picture_ids": [
@@ -935,7 +1035,9 @@
             "africa_america_civilization_089"
           ]
         }
-      ]
+      ],
+      "name_en": "History of African and American Civilizations",
+      "description_en": ""
     },
     {
       "id": "war_military",
@@ -950,7 +1052,7 @@
         {
           "id": "chapter_1",
           "name": "古代战争",
-          "name_en": "Ancient Warfare",
+          "name_en": "Warfare）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/war_military_chapter_0.png",
           "picture_ids": [
@@ -979,7 +1081,7 @@
         {
           "id": "chapter_2",
           "name": "中世纪战争",
-          "name_en": "Medieval Warfare",
+          "name_en": "Warfare）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/war_military_chapter_1.png",
           "picture_ids": [
@@ -1008,7 +1110,7 @@
         {
           "id": "chapter_3",
           "name": "近代战争",
-          "name_en": "Early Modern Warfare",
+          "name_en": "Modern Warfare）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/war_military_chapter_2.png",
           "picture_ids": [
@@ -1037,7 +1139,7 @@
         {
           "id": "chapter_4",
           "name": "世界大战",
-          "name_en": "World Wars",
+          "name_en": "Wars）",
           "order": 3,
           "badge_icon": "res://assets/images/badges/war_military_chapter_3.png",
           "picture_ids": [
@@ -1066,7 +1168,7 @@
         {
           "id": "chapter_5",
           "name": "现代军事",
-          "name_en": "Modern Military",
+          "name_en": "Military）",
           "order": 4,
           "badge_icon": "res://assets/images/badges/war_military_chapter_4.png",
           "picture_ids": [
@@ -1092,7 +1194,9 @@
             "war_military_099"
           ]
         }
-      ]
+      ],
+      "name_en": "History of War and Military",
+      "description_en": ""
     },
     {
       "id": "political_system",
@@ -1234,7 +1338,9 @@
             "political_system_089"
           ]
         }
-      ]
+      ],
+      "name_en": "History of Politics and Institutions",
+      "description_en": ""
     },
     {
       "id": "economic_trade",
@@ -1385,7 +1491,9 @@
             "economic_trade_084"
           ]
         }
-      ]
+      ],
+      "name_en": "History of Economy and Trade",
+      "description_en": ""
     },
     {
       "id": "world_heritage",
@@ -1502,7 +1610,9 @@
             "world_heritage_079"
           ]
         }
-      ]
+      ],
+      "name_en": "World Cultural Heritage",
+      "description_en": ""
     },
     {
       "id": "chinese_heritage",
@@ -1644,7 +1754,9 @@
             "chinese_heritage_084"
           ]
         }
-      ]
+      ],
+      "name_en": "Chinese Cultural Heritage",
+      "description_en": ""
     },
     {
       "id": "archaeology",
@@ -1779,7 +1891,9 @@
             "archaeology_079"
           ]
         }
-      ]
+      ],
+      "name_en": "Archaeological Discoveries and Excavations",
+      "description_en": ""
     },
     {
       "id": "historical_mysteries",
@@ -1895,7 +2009,9 @@
             "historical_mysteries_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Historical Unsolved Mysteries",
+      "description_en": ""
     },
     {
       "id": "chinese_painting",
@@ -1910,7 +2026,7 @@
         {
           "id": "chapter_1",
           "name": "先秦至唐代绘画",
-          "name_en": "Pre-Qin to Tang Dynasty Painting",
+          "name_en": "to Tang Dynasty Painting）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/chinese_painting_chapter_0.png",
           "picture_ids": [
@@ -1939,7 +2055,7 @@
         {
           "id": "chapter_2",
           "name": "五代两宋绘画",
-          "name_en": "Five Dynasties and Song Painting",
+          "name_en": "Dynasties and Song Painting）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/chinese_painting_chapter_1.png",
           "picture_ids": [
@@ -1973,7 +2089,7 @@
         {
           "id": "chapter_3",
           "name": "元明清绘画",
-          "name_en": "Yuan-Ming-Qing Painting",
+          "name_en": "Painting）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/chinese_painting_chapter_2.png",
           "picture_ids": [
@@ -2000,7 +2116,7 @@
         {
           "id": "chapter_4",
           "name": "近现代绘画",
-          "name_en": "Early Modern Painting",
+          "name_en": "Modern Painting）",
           "order": 3,
           "badge_icon": "res://assets/images/badges/chinese_painting_chapter_3.png",
           "picture_ids": [
@@ -2019,7 +2135,7 @@
         {
           "id": "chapter_5",
           "name": "当代中国画",
-          "name_en": "Contemporary Chinese Painting",
+          "name_en": "Chinese Painting）",
           "order": 4,
           "badge_icon": "res://assets/images/badges/chinese_painting_chapter_4.png",
           "picture_ids": [
@@ -2032,7 +2148,9 @@
             "chinese_painting_079"
           ]
         }
-      ]
+      ],
+      "name_en": "Chinese Calligraphy and Painting Art",
+      "description_en": ""
     },
     {
       "id": "western_painting",
@@ -2047,7 +2165,7 @@
         {
           "id": "chapter_1",
           "name": "文艺复兴绘画",
-          "name_en": "Renaissance Painting",
+          "name_en": "Painting）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/western_painting_chapter_0.png",
           "picture_ids": [
@@ -2072,7 +2190,7 @@
         {
           "id": "chapter_2",
           "name": "巴洛克至印象派",
-          "name_en": "Baroque to Impressionism",
+          "name_en": "to Impressionism）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/western_painting_chapter_1.png",
           "picture_ids": [
@@ -2097,7 +2215,7 @@
         {
           "id": "chapter_3",
           "name": "现代主义绘画",
-          "name_en": "Modernist Painting",
+          "name_en": "Painting）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/western_painting_chapter_2.png",
           "picture_ids": [
@@ -2122,7 +2240,7 @@
         {
           "id": "chapter_4",
           "name": "当代绘画",
-          "name_en": "Contemporary Painting",
+          "name_en": "Painting）",
           "order": 3,
           "badge_icon": "res://assets/images/badges/western_painting_chapter_3.png",
           "picture_ids": [
@@ -2147,7 +2265,7 @@
         {
           "id": "chapter_5",
           "name": "绘画技法与流派",
-          "name_en": "Painting Techniques and Movements",
+          "name_en": "Techniques and Movements）",
           "order": 4,
           "badge_icon": "res://assets/images/badges/western_painting_chapter_4.png",
           "picture_ids": [
@@ -2169,7 +2287,9 @@
             "western_painting_079"
           ]
         }
-      ]
+      ],
+      "name_en": "Western Painting Art",
+      "description_en": ""
     },
     {
       "id": "sculpture",
@@ -2184,7 +2304,7 @@
         {
           "id": "chapter_1",
           "name": "古代雕塑",
-          "name_en": "Ancient Sculpture",
+          "name_en": "Sculpture）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/sculpture_chapter_0.png",
           "picture_ids": [
@@ -2211,7 +2331,7 @@
         {
           "id": "chapter_2",
           "name": "中世纪雕塑",
-          "name_en": "Medieval Sculpture",
+          "name_en": "Sculpture）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/sculpture_chapter_1.png",
           "picture_ids": [
@@ -2230,7 +2350,7 @@
         {
           "id": "chapter_3",
           "name": "文艺复兴与巴洛克雕塑",
-          "name_en": "Renaissance and Baroque Sculpture",
+          "name_en": "and Baroque Sculpture）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/sculpture_chapter_2.png",
           "picture_ids": [
@@ -2251,7 +2371,7 @@
         {
           "id": "chapter_4",
           "name": "近现代雕塑",
-          "name_en": "Modern Sculpture",
+          "name_en": "Sculpture）",
           "order": 3,
           "badge_icon": "res://assets/images/badges/sculpture_chapter_3.png",
           "picture_ids": [
@@ -2278,7 +2398,7 @@
         {
           "id": "chapter_5",
           "name": "当代雕塑",
-          "name_en": "Contemporary Sculpture",
+          "name_en": "Sculpture）",
           "order": 4,
           "badge_icon": "res://assets/images/badges/sculpture_chapter_4.png",
           "picture_ids": [
@@ -2299,7 +2419,9 @@
             "sculpture_074"
           ]
         }
-      ]
+      ],
+      "name_en": "Sculpture Art",
+      "description_en": ""
     },
     {
       "id": "photography",
@@ -2314,7 +2436,7 @@
         {
           "id": "chapter_1",
           "name": "摄影术诞生",
-          "name_en": "Birth of Photography",
+          "name_en": "/ Birth of Photography",
           "order": 0,
           "badge_icon": "res://assets/images/badges/photography_chapter_0.png",
           "picture_ids": [
@@ -2343,7 +2465,7 @@
         {
           "id": "chapter_2",
           "name": "纪实摄影",
-          "name_en": "Documentary Photography",
+          "name_en": "/ Documentary Photography",
           "order": 1,
           "badge_icon": "res://assets/images/badges/photography_chapter_1.png",
           "picture_ids": [
@@ -2372,7 +2494,7 @@
         {
           "id": "chapter_3",
           "name": "艺术摄影",
-          "name_en": "Art Photography",
+          "name_en": "/ Art Photography",
           "order": 2,
           "badge_icon": "res://assets/images/badges/photography_chapter_2.png",
           "picture_ids": [
@@ -2396,7 +2518,7 @@
         {
           "id": "chapter_4",
           "name": "当代摄影",
-          "name_en": "Contemporary Photography",
+          "name_en": "/ Contemporary Photography",
           "order": 3,
           "badge_icon": "res://assets/images/badges/photography_chapter_3.png",
           "picture_ids": [
@@ -2416,7 +2538,9 @@
             "photography_069"
           ]
         }
-      ]
+      ],
+      "name_en": "The Art of Photography",
+      "description_en": ""
     },
     {
       "id": "architecture",
@@ -2431,7 +2555,7 @@
         {
           "id": "chapter_1",
           "name": "古代建筑",
-          "name_en": "Ancient Architecture",
+          "name_en": "/ Ancient Architecture",
           "order": 0,
           "badge_icon": "res://assets/images/badges/architecture_chapter_0.png",
           "picture_ids": [
@@ -2460,7 +2584,7 @@
         {
           "id": "chapter_2",
           "name": "中世纪建筑",
-          "name_en": "Medieval Architecture",
+          "name_en": "/ Medieval Architecture",
           "order": 1,
           "badge_icon": "res://assets/images/badges/architecture_chapter_1.png",
           "picture_ids": [
@@ -2489,7 +2613,7 @@
         {
           "id": "chapter_3",
           "name": "近现代建筑",
-          "name_en": "Modern Architecture",
+          "name_en": "/ Modern Architecture",
           "order": 2,
           "badge_icon": "res://assets/images/badges/architecture_chapter_2.png",
           "picture_ids": [
@@ -2518,7 +2642,7 @@
         {
           "id": "chapter_4",
           "name": "当代建筑",
-          "name_en": "Contemporary Architecture",
+          "name_en": "/ Contemporary Architecture",
           "order": 3,
           "badge_icon": "res://assets/images/badges/architecture_chapter_3.png",
           "picture_ids": [
@@ -2535,7 +2659,9 @@
             "architecture_074"
           ]
         }
-      ]
+      ],
+      "name_en": "The Art of Architecture",
+      "description_en": ""
     },
     {
       "id": "crafts",
@@ -2550,7 +2676,7 @@
         {
           "id": "chapter_1",
           "name": "陶瓷工艺",
-          "name_en": "Ceramic Crafts",
+          "name_en": "/ Ceramic Crafts",
           "order": 0,
           "badge_icon": "res://assets/images/badges/crafts_chapter_0.png",
           "picture_ids": [
@@ -2579,7 +2705,7 @@
         {
           "id": "chapter_2",
           "name": "金属工艺",
-          "name_en": "Metal Crafts",
+          "name_en": "/ Metal Crafts",
           "order": 1,
           "badge_icon": "res://assets/images/badges/crafts_chapter_1.png",
           "picture_ids": [
@@ -2608,7 +2734,7 @@
         {
           "id": "chapter_3",
           "name": "纺织刺绣",
-          "name_en": "Textile and Embroidery",
+          "name_en": "/ Textile and Embroidery",
           "order": 2,
           "badge_icon": "res://assets/images/badges/crafts_chapter_2.png",
           "picture_ids": [
@@ -2632,7 +2758,7 @@
         {
           "id": "chapter_4",
           "name": "其他工艺",
-          "name_en": "Other Crafts",
+          "name_en": "/ Other Crafts",
           "order": 3,
           "badge_icon": "res://assets/images/badges/crafts_chapter_3.png",
           "picture_ids": [
@@ -2648,7 +2774,9 @@
             "crafts_065"
           ]
         }
-      ]
+      ],
+      "name_en": "Arts and Crafts",
+      "description_en": ""
     },
     {
       "id": "design",
@@ -2766,7 +2894,9 @@
             "design_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Design Art",
+      "description_en": ""
     },
     {
       "id": "performing_arts",
@@ -2884,7 +3014,9 @@
             "performing_arts_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Performing Arts",
+      "description_en": ""
     },
     {
       "id": "folk_traditional",
@@ -2995,7 +3127,9 @@
             "folk_traditional_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Folk and Traditional Art",
+      "description_en": ""
     },
     {
       "id": "contemporary_media",
@@ -3106,7 +3240,9 @@
             "contemporary_media_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Contemporary Media",
+      "description_en": ""
     },
     {
       "id": "mountains_plateaus",
@@ -3204,7 +3340,9 @@
             "mountains_plateaus_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Mountains and Plateaus",
+      "description_en": ""
     },
     {
       "id": "plains_basins",
@@ -3303,7 +3441,9 @@
             "plains_basins_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Plains and Basins",
+      "description_en": ""
     },
     {
       "id": "deserts_gobi",
@@ -3401,7 +3541,9 @@
             "deserts_gobi_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Deserts and Gobi",
+      "description_en": ""
     },
     {
       "id": "rivers_lakes",
@@ -3514,7 +3656,9 @@
             "rivers_lakes_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Rivers and Lakes",
+      "description_en": ""
     },
     {
       "id": "atmosphere",
@@ -3529,7 +3673,7 @@
         {
           "id": "chapter_1",
           "name": "云与降水",
-          "name_en": "Clouds and Precipitation",
+          "name_en": "/ Clouds and Precipitation",
           "order": 0,
           "badge_icon": "res://assets/images/badges/atmosphere_chapter_0.png",
           "picture_ids": [
@@ -3558,7 +3702,7 @@
         {
           "id": "chapter_2",
           "name": "极端天气",
-          "name_en": "Extreme Weather",
+          "name_en": "/ Extreme Weather",
           "order": 1,
           "badge_icon": "res://assets/images/badges/atmosphere_chapter_1.png",
           "picture_ids": [
@@ -3587,7 +3731,7 @@
         {
           "id": "chapter_3",
           "name": "气候现象",
-          "name_en": "Climate Phenomena",
+          "name_en": "/ Climate Phenomena",
           "order": 2,
           "badge_icon": "res://assets/images/badges/atmosphere_chapter_2.png",
           "picture_ids": [
@@ -3613,7 +3757,9 @@
             "atmosphere_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Atmosphere and Weather",
+      "description_en": ""
     },
     {
       "id": "geology",
@@ -3628,7 +3774,7 @@
         {
           "id": "chapter_1",
           "name": "火山与地热",
-          "name_en": "Volcanoes and Geothermal",
+          "name_en": "/ Volcanoes and Geothermal",
           "order": 0,
           "badge_icon": "res://assets/images/badges/geology_chapter_0.png",
           "picture_ids": [
@@ -3654,7 +3800,7 @@
         {
           "id": "chapter_2",
           "name": "地质构造与地貌",
-          "name_en": "Geological Structures and Landforms",
+          "name_en": "/ Geological Structures and Landforms",
           "order": 1,
           "badge_icon": "res://assets/images/badges/geology_chapter_1.png",
           "picture_ids": [
@@ -3682,7 +3828,7 @@
         {
           "id": "chapter_3",
           "name": "侵蚀与沉积地貌",
-          "name_en": "Erosion and Sedimentary Landforms",
+          "name_en": "/ Erosion and Sedimentary Landforms",
           "order": 2,
           "badge_icon": "res://assets/images/badges/geology_chapter_2.png",
           "picture_ids": [
@@ -3705,7 +3851,7 @@
         {
           "id": "chapter_4",
           "name": "矿物与地质科学",
-          "name_en": "Minerals and Geological Science",
+          "name_en": "/ Minerals and Geological Science",
           "order": 3,
           "badge_icon": "res://assets/images/badges/geology_chapter_3.png",
           "picture_ids": [
@@ -3726,7 +3872,9 @@
             "geology_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Geological Landforms",
+      "description_en": ""
     },
     {
       "id": "paleontology",
@@ -3741,7 +3889,7 @@
         {
           "id": "chapter_1",
           "name": "古生代",
-          "name_en": "Paleozoic",
+          "name_en": "/ Paleozoic",
           "order": 0,
           "badge_icon": "res://assets/images/badges/paleontology_chapter_0.png",
           "picture_ids": [
@@ -3760,7 +3908,7 @@
         {
           "id": "chapter_2",
           "name": "中生代",
-          "name_en": "Mesozoic",
+          "name_en": "/ Mesozoic",
           "order": 1,
           "badge_icon": "res://assets/images/badges/paleontology_chapter_1.png",
           "picture_ids": [
@@ -3789,7 +3937,7 @@
         {
           "id": "chapter_3",
           "name": "新生代与人类起源",
-          "name_en": "Cenozoic and Human Origins",
+          "name_en": "/ Cenozoic and Human Origins",
           "order": 2,
           "badge_icon": "res://assets/images/badges/paleontology_chapter_2.png",
           "picture_ids": [
@@ -3817,7 +3965,7 @@
         {
           "id": "chapter_4",
           "name": "化石与古生物学",
-          "name_en": "Fossils and Paleontology",
+          "name_en": "/ Fossils and Paleontology",
           "order": 3,
           "badge_icon": "res://assets/images/badges/paleontology_chapter_3.png",
           "picture_ids": [
@@ -3839,7 +3987,9 @@
             "paleontology_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Paleontological Fossils",
+      "description_en": ""
     },
     {
       "id": "nature_reserves",
@@ -3854,7 +4004,7 @@
         {
           "id": "chapter_1",
           "name": "亚洲保护区",
-          "name_en": "Asian Reserves",
+          "name_en": "/ Asian Reserves",
           "order": 0,
           "badge_icon": "res://assets/images/badges/nature_reserves_chapter_0.png",
           "picture_ids": [
@@ -3883,7 +4033,7 @@
         {
           "id": "chapter_2",
           "name": "非洲保护区",
-          "name_en": "African Reserves",
+          "name_en": "/ African Reserves",
           "order": 1,
           "badge_icon": "res://assets/images/badges/nature_reserves_chapter_1.png",
           "picture_ids": [
@@ -3912,7 +4062,7 @@
         {
           "id": "chapter_3",
           "name": "美洲保护区",
-          "name_en": "American Reserves",
+          "name_en": "/ American Reserves",
           "order": 2,
           "badge_icon": "res://assets/images/badges/nature_reserves_chapter_2.png",
           "picture_ids": [
@@ -3934,7 +4084,9 @@
             "nature_reserves_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Nature Reserves",
+      "description_en": ""
     },
     {
       "id": "mammals",
@@ -4062,7 +4214,9 @@
             "mammals_079"
           ]
         }
-      ]
+      ],
+      "name_en": "Mammals",
+      "description_en": ""
     },
     {
       "id": "birds",
@@ -4185,7 +4339,9 @@
             "birds_074"
           ]
         }
-      ]
+      ],
+      "name_en": "Birds",
+      "description_en": ""
     },
     {
       "id": "reptiles",
@@ -4298,7 +4454,9 @@
             "reptiles_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Reptiles",
+      "description_en": ""
     },
     {
       "id": "fish",
@@ -4313,7 +4471,7 @@
         {
           "id": "chapter_1",
           "name": "淡水鱼",
-          "name_en": "Freshwater Fish",
+          "name_en": "Tropical Ornamental Fish",
           "order": 0,
           "badge_icon": "res://assets/images/badges/fish_chapter_0.png",
           "picture_ids": [
@@ -4342,7 +4500,7 @@
         {
           "id": "chapter_2",
           "name": "海水鱼",
-          "name_en": "Saltwater Fish",
+          "name_en": "Deep Sea and Pelagic Fish",
           "order": 1,
           "badge_icon": "res://assets/images/badges/fish_chapter_1.png",
           "picture_ids": [
@@ -4371,7 +4529,7 @@
         {
           "id": "chapter_3",
           "name": "深海鱼",
-          "name_en": "Deep-sea Fish",
+          "name_en": "Freshwater Fish",
           "order": 2,
           "badge_icon": "res://assets/images/badges/fish_chapter_2.png",
           "picture_ids": [
@@ -4395,7 +4553,7 @@
         {
           "id": "chapter_4",
           "name": "其他鱼类",
-          "name_en": "Other Fish",
+          "name_en": "Fish Characteristics and Behavior",
           "order": 3,
           "badge_icon": "res://assets/images/badges/fish_chapter_3.png",
           "picture_ids": [
@@ -4416,7 +4574,9 @@
             "fish_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Fish",
+      "description_en": ""
     },
     {
       "id": "insects",
@@ -4460,7 +4620,7 @@
         {
           "id": "chapter_2",
           "name": "甲虫",
-          "name_en": "Beetles",
+          "name_en": "Beetle World",
           "order": 1,
           "badge_icon": "res://assets/images/badges/insects_chapter_1.png",
           "picture_ids": [
@@ -4489,7 +4649,7 @@
         {
           "id": "chapter_3",
           "name": "蜜蜂与蚂蚁",
-          "name_en": "Bees and Ants",
+          "name_en": "Bee and Ant Societies",
           "order": 2,
           "badge_icon": "res://assets/images/badges/insects_chapter_2.png",
           "picture_ids": [
@@ -4513,7 +4673,7 @@
         {
           "id": "chapter_4",
           "name": "其他昆虫",
-          "name_en": "Other Insects",
+          "name_en": "Insect Characteristics and Behavior",
           "order": 3,
           "badge_icon": "res://assets/images/badges/insects_chapter_3.png",
           "picture_ids": [
@@ -4534,7 +4694,9 @@
             "insects_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Insects",
+      "description_en": ""
     },
     {
       "id": "trees",
@@ -4643,7 +4805,9 @@
             "trees_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Trees",
+      "description_en": ""
     },
     {
       "id": "flowers",
@@ -4756,7 +4920,9 @@
             "flowers_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Flowers",
+      "description_en": ""
     },
     {
       "id": "crops",
@@ -4855,7 +5021,9 @@
             "crops_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Crops",
+      "description_en": ""
     },
     {
       "id": "fungi",
@@ -4954,7 +5122,9 @@
             "fungi_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Fungi",
+      "description_en": ""
     },
     {
       "id": "ecosystems",
@@ -5052,7 +5222,9 @@
             "ecosystems_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Ecosystems",
+      "description_en": ""
     },
     {
       "id": "fashion",
@@ -5165,7 +5337,9 @@
             "fashion_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Fashion",
+      "description_en": ""
     },
     {
       "id": "food",
@@ -5283,7 +5457,9 @@
             "food_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Food",
+      "description_en": ""
     },
     {
       "id": "housing",
@@ -5388,7 +5564,9 @@
             "housing_063"
           ]
         }
-      ]
+      ],
+      "name_en": "Housing",
+      "description_en": ""
     },
     {
       "id": "transportation",
@@ -5500,7 +5678,9 @@
             "transportation_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Transportation",
+      "description_en": ""
     },
     {
       "id": "festivals",
@@ -5612,7 +5792,9 @@
             "festivals_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Festivals",
+      "description_en": ""
     },
     {
       "id": "religion",
@@ -5725,7 +5907,9 @@
             "religion_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Religion",
+      "description_en": ""
     },
     {
       "id": "family",
@@ -5740,7 +5924,7 @@
         {
           "id": "chapter_1",
           "name": "传统家庭",
-          "name_en": "Traditional Family",
+          "name_en": "Family）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/family_chapter_0.png",
           "picture_ids": [
@@ -5769,7 +5953,7 @@
         {
           "id": "chapter_2",
           "name": "现代家庭",
-          "name_en": "Modern Family",
+          "name_en": "Family）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/family_chapter_1.png",
           "picture_ids": [
@@ -5798,7 +5982,7 @@
         {
           "id": "chapter_3",
           "name": "家庭文化",
-          "name_en": "Family Culture",
+          "name_en": "Culture）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/family_chapter_2.png",
           "picture_ids": [
@@ -5824,7 +6008,9 @@
             "family_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Family Life",
+      "description_en": ""
     },
     {
       "id": "workplace",
@@ -5839,7 +6025,7 @@
         {
           "id": "chapter_1",
           "name": "传统职业",
-          "name_en": "Traditional Occupations",
+          "name_en": "Occupations）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/workplace_chapter_0.png",
           "picture_ids": [
@@ -5868,7 +6054,7 @@
         {
           "id": "chapter_2",
           "name": "现代职场",
-          "name_en": "Modern Workplace",
+          "name_en": "Workplace）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/workplace_chapter_1.png",
           "picture_ids": [
@@ -5897,7 +6083,7 @@
         {
           "id": "chapter_3",
           "name": "职业发展",
-          "name_en": "Career Development",
+          "name_en": "Development）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/workplace_chapter_2.png",
           "picture_ids": [
@@ -5923,7 +6109,9 @@
             "workplace_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Workplace",
+      "description_en": ""
     },
     {
       "id": "education",
@@ -5938,7 +6126,7 @@
         {
           "id": "chapter_1",
           "name": "古代教育",
-          "name_en": "Ancient Education",
+          "name_en": "Education）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/education_chapter_0.png",
           "picture_ids": [
@@ -5967,7 +6155,7 @@
         {
           "id": "chapter_2",
           "name": "近现代教育",
-          "name_en": "Modern Education",
+          "name_en": "Education）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/education_chapter_1.png",
           "picture_ids": [
@@ -5996,7 +6184,7 @@
         {
           "id": "chapter_3",
           "name": "当代教育",
-          "name_en": "Contemporary Education",
+          "name_en": "Education）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/education_chapter_2.png",
           "picture_ids": [
@@ -6022,7 +6210,9 @@
             "education_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Education",
+      "description_en": ""
     },
     {
       "id": "sports",
@@ -6037,7 +6227,7 @@
         {
           "id": "chapter_1",
           "name": "球类运动",
-          "name_en": "Ball Sports",
+          "name_en": "Sports）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/sports_chapter_0.png",
           "picture_ids": [
@@ -6063,7 +6253,7 @@
         {
           "id": "chapter_2",
           "name": "田径与水上",
-          "name_en": "Track and Field & Aquatics",
+          "name_en": "and Field & Aquatics）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/sports_chapter_1.png",
           "picture_ids": [
@@ -6090,7 +6280,7 @@
         {
           "id": "chapter_3",
           "name": "体操与格斗",
-          "name_en": "Gymnastics & Combat",
+          "name_en": "& Combat）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/sports_chapter_2.png",
           "picture_ids": [
@@ -6117,7 +6307,7 @@
         {
           "id": "chapter_4",
           "name": "棋类与休闲",
-          "name_en": "Board Games & Leisure",
+          "name_en": "Games & Leisure）",
           "order": 3,
           "badge_icon": "res://assets/images/badges/sports_chapter_3.png",
           "picture_ids": [
@@ -6140,7 +6330,9 @@
             "sports_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Sports",
+      "description_en": ""
     },
     {
       "id": "entertainment",
@@ -6155,7 +6347,7 @@
         {
           "id": "chapter_1",
           "name": "传统娱乐",
-          "name_en": "Traditional Entertainment",
+          "name_en": "Entertainment）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/entertainment_chapter_0.png",
           "picture_ids": [
@@ -6180,7 +6372,7 @@
         {
           "id": "chapter_2",
           "name": "舞台艺术",
-          "name_en": "Stage Arts",
+          "name_en": "Arts）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/entertainment_chapter_1.png",
           "picture_ids": [
@@ -6205,7 +6397,7 @@
         {
           "id": "chapter_3",
           "name": "现代休闲",
-          "name_en": "Modern Leisure",
+          "name_en": "Leisure）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/entertainment_chapter_2.png",
           "picture_ids": [
@@ -6231,7 +6423,7 @@
         {
           "id": "chapter_4",
           "name": "非遗文化",
-          "name_en": "Intangible Cultural Heritage",
+          "name_en": "Cultural Heritage）",
           "order": 3,
           "badge_icon": "res://assets/images/badges/entertainment_chapter_3.png",
           "picture_ids": [
@@ -6253,7 +6445,9 @@
             "entertainment_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Entertainment",
+      "description_en": ""
     },
     {
       "id": "health",
@@ -6268,7 +6462,7 @@
         {
           "id": "chapter_1",
           "name": "传统医学",
-          "name_en": "Traditional Medicine",
+          "name_en": "Medicine）",
           "order": 0,
           "badge_icon": "res://assets/images/badges/health_chapter_0.png",
           "picture_ids": [
@@ -6293,7 +6487,7 @@
         {
           "id": "chapter_2",
           "name": "现代医疗",
-          "name_en": "Modern Healthcare",
+          "name_en": "Healthcare）",
           "order": 1,
           "badge_icon": "res://assets/images/badges/health_chapter_1.png",
           "picture_ids": [
@@ -6318,7 +6512,7 @@
         {
           "id": "chapter_3",
           "name": "康复养生",
-          "name_en": "Rehabilitation & Wellness",
+          "name_en": "& Wellness）",
           "order": 2,
           "badge_icon": "res://assets/images/badges/health_chapter_2.png",
           "picture_ids": [
@@ -6344,7 +6538,7 @@
         {
           "id": "chapter_4",
           "name": "健康生活",
-          "name_en": "Healthy Living",
+          "name_en": "Living）",
           "order": 3,
           "badge_icon": "res://assets/images/badges/health_chapter_3.png",
           "picture_ids": [
@@ -6366,7 +6560,9 @@
             "health_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Health",
+      "description_en": ""
     },
     {
       "id": "math_physics",
@@ -6488,7 +6684,9 @@
             "math_physics_074"
           ]
         }
-      ]
+      ],
+      "name_en": "Mathematics and Physics",
+      "description_en": ""
     },
     {
       "id": "chemistry_biology",
@@ -6606,7 +6804,9 @@
             "chemistry_biology_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Chemistry and Biology",
+      "description_en": ""
     },
     {
       "id": "astronomy",
@@ -6719,7 +6919,9 @@
             "astronomy_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Astronomy",
+      "description_en": ""
     },
     {
       "id": "mechanical_electronic",
@@ -6832,7 +7034,9 @@
             "mechanical_electronic_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Mechanical and Electronic",
+      "description_en": ""
     },
     {
       "id": "energy",
@@ -6847,7 +7051,7 @@
         {
           "id": "chapter_1",
           "name": "传统能源",
-          "name_en": "Traditional Energy",
+          "name_en": "Fossil Energy",
           "order": 0,
           "badge_icon": "res://assets/images/badges/energy_chapter_0.png",
           "picture_ids": [
@@ -6872,7 +7076,7 @@
         {
           "id": "chapter_2",
           "name": "新能源",
-          "name_en": "New Energy",
+          "name_en": "Renewable Energy",
           "order": 1,
           "badge_icon": "res://assets/images/badges/energy_chapter_1.png",
           "picture_ids": [
@@ -6897,7 +7101,7 @@
         {
           "id": "chapter_3",
           "name": "能源技术",
-          "name_en": "Energy Technology",
+          "name_en": "Nuclear and Frontier Energy",
           "order": 2,
           "badge_icon": "res://assets/images/badges/energy_chapter_2.png",
           "picture_ids": [
@@ -6945,7 +7149,9 @@
             "energy_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Energy",
+      "description_en": ""
     },
     {
       "id": "civil_engineering",
@@ -6960,7 +7166,7 @@
         {
           "id": "chapter_1",
           "name": "古代工程",
-          "name_en": "Ancient Engineering",
+          "name_en": "Bridge Engineering",
           "order": 0,
           "badge_icon": "res://assets/images/badges/civil_engineering_chapter_0.png",
           "picture_ids": [
@@ -6985,7 +7191,7 @@
         {
           "id": "chapter_2",
           "name": "现代建筑",
-          "name_en": "Modern Architecture",
+          "name_en": "Building Engineering",
           "order": 1,
           "badge_icon": "res://assets/images/badges/civil_engineering_chapter_1.png",
           "picture_ids": [
@@ -7010,7 +7216,7 @@
         {
           "id": "chapter_3",
           "name": "基础设施",
-          "name_en": "Infrastructure",
+          "name_en": "Transportation Engineering",
           "order": 2,
           "badge_icon": "res://assets/images/badges/civil_engineering_chapter_2.png",
           "picture_ids": [
@@ -7035,7 +7241,7 @@
         {
           "id": "chapter_4",
           "name": "工程前沿",
-          "name_en": "Engineering Frontiers",
+          "name_en": "Water Resources and Environment",
           "order": 3,
           "badge_icon": "res://assets/images/badges/civil_engineering_chapter_3.png",
           "picture_ids": [
@@ -7057,7 +7263,9 @@
             "civil_engineering_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Civil Engineering",
+      "description_en": ""
     },
     {
       "id": "information_technology",
@@ -7175,7 +7383,9 @@
             "information_technology_069"
           ]
         }
-      ]
+      ],
+      "name_en": "Information Technology",
+      "description_en": ""
     },
     {
       "id": "industrial_production",
@@ -7288,7 +7498,9 @@
             "industrial_production_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Industrial Production",
+      "description_en": ""
     },
     {
       "id": "agriculture_food",
@@ -7400,7 +7612,9 @@
             "agriculture_food_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Agriculture and Food",
+      "description_en": ""
     },
     {
       "id": "transport_industry",
@@ -7512,7 +7726,9 @@
             "transport_industry_064"
           ]
         }
-      ]
+      ],
+      "name_en": "Transport Industry",
+      "description_en": ""
     },
     {
       "id": "abstract",
@@ -7556,7 +7772,7 @@
         {
           "id": "chapter_2",
           "name": "有机抽象",
-          "name_en": "Organic Abstraction",
+          "name_en": "Chromatic Abstraction",
           "order": 1,
           "badge_icon": "res://assets/images/badges/abstract_chapter_1.png",
           "picture_ids": [
@@ -7585,7 +7801,7 @@
         {
           "id": "chapter_3",
           "name": "光影抽象",
-          "name_en": "Light and Shadow Abstraction",
+          "name_en": "Abstract Art",
           "order": 2,
           "badge_icon": "res://assets/images/badges/abstract_chapter_2.png",
           "picture_ids": [
@@ -7611,7 +7827,9 @@
             "abstract_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Abstract Patterns",
+      "description_en": ""
     },
     {
       "id": "symbols",
@@ -7710,7 +7928,9 @@
             "symbols_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Symbols and Signs",
+      "description_en": ""
     },
     {
       "id": "textures",
@@ -7807,7 +8027,9 @@
             "textures_059"
           ]
         }
-      ]
+      ],
+      "name_en": "Textures",
+      "description_en": ""
     },
     {
       "id": "miscellaneous",
@@ -7905,85 +8127,9 @@
             "miscellaneous_059"
           ]
         }
-      ]
-    },
-    {
-      "id": "cute_animals",
-      "name": "可爱动物",
-      "description": "",
-      "bookshelf_id": "beginner_paradise",
-      "icon": "res://assets/images/icons/album_cute_animals.png",
-      "unlock_condition": null,
-      "bgm": "res://assets/audio/music/cute_animals.mp3",
-      "order": 2,
-      "chapters": [
-        {
-          "id": "chapter_1",
-          "name": "萌宠乐园",
-          "name_en": "Pet Paradise",
-          "order": 0,
-          "badge_icon": "res://assets/images/badges/cute_animals_chapter_0.png",
-          "picture_ids": [
-            "cute_animals_000",
-            "cute_animals_001",
-            "cute_animals_002",
-            "cute_animals_003",
-            "cute_animals_004",
-            "cute_animals_005",
-            "cute_animals_006"
-          ]
-        },
-        {
-          "id": "chapter_2",
-          "name": "农场伙伴",
-          "name_en": "Farm Friends",
-          "order": 1,
-          "badge_icon": "res://assets/images/badges/cute_animals_chapter_1.png",
-          "picture_ids": [
-            "cute_animals_007",
-            "cute_animals_008",
-            "cute_animals_009",
-            "cute_animals_010",
-            "cute_animals_011",
-            "cute_animals_012",
-            "cute_animals_013",
-            "cute_animals_014"
-          ]
-        },
-        {
-          "id": "chapter_3",
-          "name": "森林精灵",
-          "name_en": "Forest Spirits",
-          "order": 2,
-          "badge_icon": "res://assets/images/badges/cute_animals_chapter_2.png",
-          "picture_ids": [
-            "cute_animals_015",
-            "cute_animals_016",
-            "cute_animals_017",
-            "cute_animals_018",
-            "cute_animals_019",
-            "cute_animals_020",
-            "cute_animals_021"
-          ]
-        },
-        {
-          "id": "chapter_4",
-          "name": "海洋与天空",
-          "name_en": "Ocean and Sky",
-          "order": 3,
-          "badge_icon": "res://assets/images/badges/cute_animals_chapter_3.png",
-          "picture_ids": [
-            "cute_animals_022",
-            "cute_animals_023",
-            "cute_animals_024",
-            "cute_animals_025",
-            "cute_animals_026",
-            "cute_animals_027",
-            "cute_animals_028",
-            "cute_animals_029"
-          ]
-        }
-      ]
+      ],
+      "name_en": "Comprehensive Materials",
+      "description_en": ""
     }
   ]
 }

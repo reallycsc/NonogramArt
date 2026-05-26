@@ -21,7 +21,10 @@
       ],
       "order": 0,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_000_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "asian_civilization_001",
@@ -43,7 +46,10 @@
       ],
       "order": 1,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_001_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Early Mesopotamian Villages",
+      "summary_en": "",
+      "full_text_en": "On the Mesopotamian plain between the Euphrates and Tigris rivers, the Sumerians built humanity's earliest towns with mud bricks. Irrigation canals crisscrossed the land, temples stood atop raised platforms, and priests recorded grain harvests and divine will on clay tablets in cuneiform."
     },
     {
       "id": "asian_civilization_002",
@@ -65,7 +71,10 @@
       ],
       "order": 2,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_002_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Ancient City on the Indus",
+      "summary_en": "",
+      "full_text_en": "Mohenjo-daro's streets were laid out in a grid pattern with an ingenious drainage system. Brick makers fired standardized bricks, merchants weighed grain with weights in the marketplace, priests presided over purification rituals by the Great Bath, and urban life was orderly and organized."
     },
     {
       "id": "asian_civilization_003",
@@ -87,7 +96,10 @@
       ],
       "order": 3,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_003_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Yellow River Basin Settlements",
+      "summary_en": "",
+      "full_text_en": "The Yangshao Culture people built semi-subterranean houses along the Yellow River. Painted pottery artisans used mineral pigments to draw fish and face motifs on vessels. Women gathered wild millet, men hunted with bows, and clan elders recounted tribal origin legends by the campfire."
     },
     {
       "id": "asian_civilization_004",
@@ -109,7 +121,10 @@
       ],
       "order": 4,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_004_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Rice-Farming Villages of the Lower Yangtze",
+      "summary_en": "",
+      "full_text_en": "The Hemudu people built stilt houses in wetlands and used bone spades to cultivate rice paddies. Artisans carved ivory ornaments, potters fired black pottery vessels, and people navigated the waterways in canoes, spreading rice-farming civilization to distant villages."
     },
     {
       "id": "asian_civilization_005",
@@ -131,7 +146,10 @@
       ],
       "order": 5,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_005_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Early Anatolian Towns",
+      "summary_en": "",
+      "full_text_en": "The residents of Çatalhöyük built houses by layering mud bricks, with walls painted with bull-hunting and volcanic eruption murals. Obsidian traders transported sharp stone blades to distant lands, women baked bread by the hearth, and the dead were buried beneath the living quarters to accompany the living."
     },
     {
       "id": "asian_civilization_006",
@@ -153,7 +171,10 @@
       ],
       "order": 6,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_006_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Levantine Farming Settlements",
+      "summary_en": "",
+      "full_text_en": "The Natufians of the Jordan Valley built circular huts by oak forests, harvesting wild wheat and grinding it into flour with stone mills. Hunters pursued gazelles across the hills, gatherers dried figs for storage, and the crucial transition from nomadic hunting to settled life was quietly taking place."
     },
     {
       "id": "asian_civilization_007",
@@ -175,7 +196,10 @@
       ],
       "order": 7,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_007_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Nomadic Camps of the Persian Plateau",
+      "summary_en": "",
+      "full_text_en": "On the slopes of the Zagros Mountains, herders moved their flocks between summer pastures and winter camps. Women wove colorful wool tapestries, blacksmiths forged copper knives by portable forges, and tribal chiefs shared roasted lamb and yogurt with guests in tents."
     },
     {
       "id": "asian_civilization_008",
@@ -197,7 +221,10 @@
       ],
       "order": 8,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_008_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Comb-Pattern Pottery People of the Korean Peninsula",
+      "summary_en": "",
+      "full_text_en": "The early inhabitants of the Korean Peninsula built huts by coastal shell mounds, using comb-like tools to imprint intricate geometric patterns on pottery surfaces. Fishermen paddled canoes for coastal fishing, gatherers collected shellfish in the intertidal zone, and shamans wearing animal-tooth necklaces presided over ritual ceremonies."
     },
     {
       "id": "asian_civilization_009",
@@ -219,7 +246,10 @@
       ],
       "order": 9,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_009_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Jomon Tribes of the Japanese Archipelago",
+      "summary_en": "",
+      "full_text_en": "The Jomon people lived along the coast, rolling cords over pottery to create elaborate patterns. Hunters ventured into the mountains with bows to pursue wild boar, women gathered chestnuts and acorns in the forests, shamans wearing clay masks prayed by earthen pits, and firelight illuminated the tribal totem poles."
     },
     {
       "id": "asian_civilization_010",
@@ -241,7 +271,10 @@
       ],
       "order": 10,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_010_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Horse-Riding Nomads of the Central Asian Steppes",
+      "summary_en": "",
+      "full_text_en": "On the vast Central Asian steppes, mounted herders drove horse herds across boundless grasslands. Artisans crafted bow tips from horse bones, women sewed leather robes in felt tents, and tribal warriors practiced archery on horseback. The invention of stirrups made nomadic peoples the swiftest force on the steppes."
     },
     {
       "id": "asian_civilization_011",
@@ -263,7 +296,10 @@
       ],
       "order": 11,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_011_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Mesopotamian City-State Rivalry",
+      "summary_en": "",
+      "full_text_en": "The army of Ur advanced in copper-spear phalanx formation, and Lagash's chariots galloped across the plains. City-states warred over irrigation water and trade routes. Victors sacrificed captives at temples, while the defeated had their walls demolished and their people enslaved."
     },
     {
       "id": "asian_civilization_012",
@@ -285,7 +321,10 @@
       ],
       "order": 12,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_012_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Indus Valley Trade Networks",
+      "summary_en": "",
+      "full_text_en": "Harappan merchants marked goods with standardized seals, transporting cotton textiles and lapis lazuli to Mesopotamia. Ocean-going merchant ships docked at the harbor of Lothal, and sailors navigated along the Arabian coast, exchanging gold and spices at foreign ports."
     },
     {
       "id": "asian_civilization_013",
@@ -307,7 +346,10 @@
       ],
       "order": 13,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_013_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Bronze Casting of Yellow River Civilization",
+      "summary_en": "",
+      "full_text_en": "Artisans at the Erlitou workshop used composite clay molds to cast bronze jue vessels, with molten copper cooling and taking shape in the mold cavities. Priests offered bronze jue filled with sweet wine at ancestral temples, taotie motifs faintly visible on the surface. Bronze ritual vessels became symbols of the intertwining of royal and divine authority."
     },
     {
       "id": "asian_civilization_014",
@@ -329,7 +371,10 @@
       ],
       "order": 14,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_014_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Hongshan Altars of the Liao River Basin",
+      "summary_en": "",
+      "full_text_en": "The Hongshan people built circular altars from stone on hilltops, with shamans holding jade dragons presiding over rain-praying ceremonies. Jade artisans carved pig-dragons curled like embryos, and clay goddess figures in the temple gazed at visitors. Here, the living communicated with the divine between heaven and earth."
     },
     {
       "id": "asian_civilization_015",
@@ -351,7 +396,10 @@
       ],
       "order": 15,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_015_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Jade Ritual System of Liangzhu Ancient City",
+      "summary_en": "",
+      "full_text_en": "The walls of Liangzhu Ancient City surrounded the magnificent Mojiaoshan palace. Jade artisans used abrasive sand to polish exquisite jade cong and bi. Nobles wore jade axes to display power, priests used jade cong to communicate with heaven and earth at altars, and the jade ritual system maintained the hierarchical order of the early state."
     },
     {
       "id": "asian_civilization_016",
@@ -373,7 +421,10 @@
       ],
       "order": 16,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_016_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Phoenician Maritime Trade Routes",
+      "summary_en": "",
+      "full_text_en": "Shipbuilders at Tyre used Lebanese cedar to construct oceangoing merchant vessels, and sailors established trading posts along the eastern Mediterranean coast. Purple dye was extracted from sea snails, and the Phoenician alphabet spread with merchant ships to various lands, becoming the origin of Western writing systems."
     },
     {
       "id": "asian_civilization_017",
@@ -395,7 +446,10 @@
       ],
       "order": 17,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_017_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Aryan Tribes of the Ganges Plain",
+      "summary_en": "",
+      "full_text_en": "The Aryans drove oxcarts through the northwestern mountain passes into the Ganges plain. Priests chanted Vedic hymns by the sacrificial fire. Warriors charged into battle in chariots, cattle became symbols of wealth, and the caste system gradually formed through tribal fusion, with Brahmins monopolizing sacred knowledge."
     },
     {
       "id": "asian_civilization_018",
@@ -417,7 +471,10 @@
       ],
       "order": 18,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_018_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Shang Dynasty Oracle Bone Divination",
+      "summary_en": "",
+      "full_text_en": "Shang diviners placed turtle shells and bovine shoulder blades over fire, interpreting cracks to determine good or ill fortune. Scribes carved divination records on the oracle bones. From military campaigns to prayers for abundant harvests, each crack was a dialogue between the Shang king and ancestral spirits."
     },
     {
       "id": "asian_civilization_019",
@@ -439,7 +496,10 @@
       ],
       "order": 19,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_019_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Hyksos Invasion of Egypt",
+      "summary_en": "",
+      "full_text_en": "The Hyksos drove horse-drawn chariots from Asia into the Nile Delta, and their composite bows and bronze swords caught Egyptian defenders off guard. They established the Fifteenth Dynasty, bringing chariot technology to Africa and changing the military landscape of the ancient Near East."
     },
     {
       "id": "asian_civilization_020",
@@ -461,7 +521,10 @@
       ],
       "order": 20,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_020_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Agricultural Revolution of Ancient Asia",
+      "summary_en": "",
+      "full_text_en": "From millet in the Yellow River basin to rice on the Ganges plain, Asian ancestors domesticated diverse crops across different climate zones. The invention of irrigation multiplied yields, surplus grain gave rise to division of labor and trade, and the agricultural revolution laid the most fundamental material foundation for the birth of civilization."
     },
     {
       "id": "asian_civilization_021",
@@ -483,7 +546,10 @@
       ],
       "order": 21,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_021_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "asian_civilization_022",
@@ -505,7 +571,10 @@
       ],
       "order": 22,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_022_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Rise of Sumerian City-States",
+      "summary_en": "",
+      "full_text_en": "In Uruk, ziggurats towered into the clouds, and the priestly class managed irrigation systems and food distribution. Scribes recorded livestock counts and grain stores on clay tablets, farmers outside the city walls dug channels to irrigate fields with river water, and humanity's earliest urban civilization was born in Mesopotamia."
     },
     {
       "id": "asian_civilization_023",
@@ -527,7 +596,10 @@
       ],
       "order": 23,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_023_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Hanging Gardens of Babylon",
+      "summary_en": "",
+      "full_text_en": "Neo-Babylonian King Nebuchadnezzar II built tiered gardens on the arid plain for his homesick queen. Irrigated by the Euphrates, exotic flora flourished like a mountain oasis, and the Hanging Gardens became the most romantic legend among the wonders of the ancient world."
     },
     {
       "id": "asian_civilization_024",
@@ -549,7 +621,10 @@
       ],
       "order": 24,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_024_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Stele of the Code of Hammurabi",
+      "summary_en": "",
+      "full_text_en": "Babylonian King Hammurabi inscribed 282 laws on a black basalt stele, with a relief at the top showing him receiving the scepter from the sun god. The \"eye for an eye\" legal system is the most complete early written code existing in humanity, laying the foundation of legal civilization."
     },
     {
       "id": "asian_civilization_025",
@@ -571,7 +646,10 @@
       ],
       "order": 25,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_025_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Iron-Blooded Conquest of the Assyrian Empire",
+      "summary_en": "",
+      "full_text_en": "Ashurbanipal led iron-clad chariots across Mesopotamia, capturing Thebes, with territory stretching from Egypt to the Persian Gulf. Lion hunt reliefs in the Nineveh palace were vividly lifelike, and the royal library housed over 20,000 clay tablets. The empire wrote its dual face through iron-fisted conquest and cultural construction."
     },
     {
       "id": "asian_civilization_026",
@@ -593,7 +671,10 @@
       ],
       "order": 26,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_026_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Establishment of the Persian Empire",
+      "summary_en": "",
+      "full_text_en": "Cyrus the Great led Persian cavalry to defeat the Medes, establishing the Achaemenid Empire spanning three continents. After capturing Babylon, he freed the imprisoned Jews to return home. Darius I built the Royal Road and established satrapies. The Persian Empire pioneered a new paradigm in the ancient world through tolerant governance."
     },
     {
       "id": "asian_civilization_027",
@@ -615,7 +696,10 @@
       ],
       "order": 27,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_027_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Iron Age of the Hittite Empire",
+      "summary_en": "",
+      "full_text_en": "The Hittites of the Anatolian plateau pioneered iron smelting technology, and iron weapons enabled their chariots to sweep across Syria. The Hittites and Ramesses II fought the largest chariot battle of antiquity at Kadesh. The treaty they signed is the earliest surviving international peace treaty."
     },
     {
       "id": "asian_civilization_028",
@@ -637,7 +721,10 @@
       ],
       "order": 28,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_028_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Spread of the Phoenician Alphabet",
+      "summary_en": "",
+      "full_text_en": "Phoenician merchants spread their 22-letter alphabetic script throughout Greece. This concise writing system replaced cumbersome cuneiform. From Tyre to Carthage, the alphabet sailed with merchant ships, becoming the common ancestor of nearly all alphabetic writing systems today."
     },
     {
       "id": "asian_civilization_029",
@@ -659,7 +746,10 @@
       ],
       "order": 29,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_029_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Splendor of Neo-Babylon",
+      "summary_en": "",
+      "full_text_en": "Nebuchadnezzar II rebuilt Babylon, with the Ishtar Gate adorned with blue glazed-brick divine beast patterns. The statue of Marduk was enshrined in the city, the Hanging Gardens rose in tiers, and Babylon became the most magnificent city of the ancient world. Mesopotamian civilization reached its final peak here."
     },
     {
       "id": "asian_civilization_030",
@@ -681,7 +771,10 @@
       ],
       "order": 30,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_030_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Palace of Persepolis",
+      "summary_en": "",
+      "full_text_en": "Darius I built the magnificent Apadana Hall at Persepolis, with the Hundred Column Hall's stone pillars soaring into the sky. Envoys from all nations ascended the grand staircase, and reliefs recorded scenes of various peoples presenting tribute. The wealth and power of the Persian Empire were frozen here in eternal stone."
     },
     {
       "id": "asian_civilization_031",
@@ -703,7 +796,10 @@
       ],
       "order": 31,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_031_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Rise of the Median Kingdom",
+      "summary_en": "",
+      "full_text_en": "The Medes of the Iranian plateau united tribes to resist Assyrian rule and established their capital at Ecbatana. King Cyaxares allied with Babylon to capture Nineveh. The Median Kingdom became the first powerful regime on the Iranian plateau, paving the way for the rise of the Persian Empire."
     },
     {
       "id": "asian_civilization_032",
@@ -725,7 +821,10 @@
       ],
       "order": 32,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_032_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Rule of the Seleucid Empire",
+      "summary_en": "",
+      "full_text_en": "After Alexander's eastern campaign, Seleucus I established a vast empire in Western Asia stretching from Anatolia to Persia. Greek became the official language, Greek-style cities rose in the East, and Greek culture collided and fused with Persian traditions, inaugurating the Hellenistic Age."
     },
     {
       "id": "asian_civilization_033",
@@ -747,7 +846,10 @@
       ],
       "order": 33,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_033_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Parthian Empire's Cavalry",
+      "summary_en": "",
+      "full_text_en": "Parthian light cavalry shattered the Roman legions at the Battle of Carrhae with the Parthian shot, and Crassus's head was presented before the king. Silk Road caravans traversed Parthian territory. The empire was founded on horse archery, becoming an insurmountable barrier to Rome's eastward expansion."
     },
     {
       "id": "asian_civilization_034",
@@ -769,7 +871,10 @@
       ],
       "order": 34,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_034_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Sassanid Persian Revival",
+      "summary_en": "",
+      "full_text_en": "The Sassanid Dynasty overthrew Parthian rule and restored the glory of the Persian Empire. King Shapur I defeated Roman Emperor Valerian, taking him captive as a slave. Zoroastrian priests presided over rituals at fire altars, and Persian culture reached new heights in the Sassanid era."
     },
     {
       "id": "asian_civilization_035",
@@ -791,7 +896,10 @@
       ],
       "order": 35,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_035_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mesopotamian Astronomy",
+      "summary_en": "",
+      "full_text_en": "Babylonian astronomers recorded planetary trajectories on observation platforms, using mathematical methods to predict eclipses. They divided the sky into twelve zodiac constellations, developed precise lunisolar calendars, and the sexagesimal timekeeping system still influences how we measure time today."
     },
     {
       "id": "asian_civilization_036",
@@ -813,7 +921,10 @@
       ],
       "order": 36,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_036_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Crossroads of the Levant",
+      "summary_en": "",
+      "full_text_en": "Damascus and Tyre were hubs of East-West trade. Caravans brought frankincense and myrrh from the Arabian Peninsula, silver and copper from Anatolia. Various peoples converged here, languages and religions influenced each other, and the Levant became the most diverse cultural melting pot of the ancient world."
     },
     {
       "id": "asian_civilization_037",
@@ -835,7 +946,10 @@
       ],
       "order": 37,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_037_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Arabian Peninsula's Spice Routes",
+      "summary_en": "",
+      "full_text_en": "The Kingdom of Sheba in southern Arabia controlled the frankincense trade. Caravans carried precious spices across the Rub' al Khali desert. The legend of the Queen of Sheba's visit to King Solomon in Jerusalem has been passed down through the ages. The wealth of the spice routes nourished the urban civilization of the southern peninsula."
     },
     {
       "id": "asian_civilization_038",
@@ -857,7 +971,10 @@
       ],
       "order": 38,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_038_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Parthian Empire's Silk Road Trade",
+      "summary_en": "",
+      "full_text_en": "Parthian merchants monopolized the resale of Chinese silk to Rome on the Silk Road, earning enormous profits. Caravans departed from Chang'an, crossed Central Asia, and transferred silk at the Parthian border. Romans paid vast amounts of gold, and the Silk Road became the economic artery connecting East and West."
     },
     {
       "id": "asian_civilization_039",
@@ -879,7 +996,10 @@
       ],
       "order": 39,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_039_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Spread of Iron Smelting in Western Asia",
+      "summary_en": "",
+      "full_text_en": "After the collapse of the Hittite Empire, iron smelting technology spread from Anatolia throughout Western Asia. Iron agricultural tools doubled land-clearing efficiency, and iron weapons changed the nature of warfare. The transition from bronze to iron profoundly reshaped the social structure and military landscape of ancient Western Asia."
     },
     {
       "id": "asian_civilization_040",
@@ -901,7 +1021,10 @@
       ],
       "order": 40,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_040_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Zoroastrian Fire Altars",
+      "summary_en": "",
+      "full_text_en": "The prophet Zoroaster preached dualism of good and evil on the Iranian plateau. Priests presided over rituals before eternally burning sacred fires. The god of light Ahura Mazda eternally opposed the spirit of darkness, and good thoughts, good words, and good deeds were the believers' creed. Zoroastrianism profoundly influenced later religions."
     },
     {
       "id": "asian_civilization_041",
@@ -923,7 +1046,10 @@
       ],
       "order": 41,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_041_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Achaemenid Royal Road",
+      "summary_en": "",
+      "full_text_en": "Darius I built the Royal Road from Susa to Sardis, spanning 2,700 kilometers with relay stations and inns along the way. Couriers relayed decrees, crossing the empire in just seven days. This most advanced communication system of antiquity sustained the Persian Empire's effective governance over its vast territories."
     },
     {
       "id": "asian_civilization_042",
@@ -945,7 +1071,10 @@
       ],
       "order": 42,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_042_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "asian_civilization_043",
@@ -967,7 +1096,10 @@
       ],
       "order": 43,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_043_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Urban Planning of Indus Valley Cities",
+      "summary_en": "",
+      "full_text_en": "Harappa and Mohenjo-daro featured well-planned urban layouts with brick streets arranged in grids and drainage systems in every household. Standardized weights and measures and seal script indicate a highly organized society, making it one of the most advanced urban civilizations of the ancient world."
     },
     {
       "id": "asian_civilization_044",
@@ -989,7 +1121,10 @@
       ],
       "order": 44,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_044_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Vedic Era Fire Rituals",
+      "summary_en": "",
+      "full_text_en": "Aryan priests chanted Rigveda hymns before fire altars, pouring ghee into the sacred fire as offerings to the god Indra. The horse sacrifice was the highest ritual — the king released a stallion to roam for a year, and wherever it went became his territory. Ritual and royal power were closely intertwined."
     },
     {
       "id": "asian_civilization_045",
@@ -1011,7 +1146,10 @@
       ],
       "order": 45,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_045_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Enlightenment of Siddhartha Gautama under the Bodhi Tree",
+      "summary_en": "",
+      "full_text_en": "Prince Siddhartha of Kapilavastu renounced his throne to practice asceticism. After meditating under the Bodhi tree at Bodh Gaya for 49 days, he attained enlightenment on the Four Noble Truths and the Eightfold Path, becoming the Buddha. He delivered his first sermon at Deer Park, and the Dharma spread throughout the Ganges basin, contributing one of the most profound wisdoms to human civilization."
     },
     {
       "id": "asian_civilization_046",
@@ -1033,7 +1171,10 @@
       ],
       "order": 46,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_046_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Ashoka's Pillar Edicts",
+      "summary_en": "",
+      "full_text_en": "After conquering Kalinga, Mauryan Emperor Ashoka witnessed the carnage on the battlefield and was deeply remorseful, converting to Buddhism. He erected pillar edicts throughout the empire to propagate the Dharma and sent missionary monks as far as Greece and Sri Lanka, replacing military conquest with the governance of a Wheel-Turning King, pioneering the rule by peace."
     },
     {
       "id": "asian_civilization_047",
@@ -1055,7 +1196,10 @@
       ],
       "order": 47,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_047_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Unification of the Mauryan Empire",
+      "summary_en": "",
+      "full_text_en": "Chandragupta, aided by Chanakya, overthrew the Nanda Dynasty and established the Mauryan Empire. His grandson Ashoka extended the territory across the entire Indian subcontinent. The empire built roads and irrigation canals with a严密 and efficient administrative system. For the first time in Indian history, large-scale unification was achieved."
     },
     {
       "id": "asian_civilization_048",
@@ -1077,7 +1221,10 @@
       ],
       "order": 48,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_048_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Gupta Dynasty's Golden Age",
+      "summary_en": "",
+      "full_text_en": "Under Chandragupta II, the Gupta Dynasty entered its cultural zenith. Mathematicians invented the concept of zero and the decimal system, Kalidasa composed Shakuntala, and Nalanda Monastery became Asia's largest Buddhist center. Indian classical civilization reached its peak here."
     },
     {
       "id": "asian_civilization_049",
@@ -1099,7 +1246,10 @@
       ],
       "order": 49,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_049_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Hindu Revival",
+      "summary_en": "",
+      "full_text_en": "During the Gupta era, Hinduism flourished again, with the Vishnu and Shiva traditions developing in parallel. Temples enshrined deities, priests conducted daily rituals, and the epics Mahabharata and Ramayana were widely recited among the people. Hinduism replaced Buddhism as the dominant faith in South Asia."
     },
     {
       "id": "asian_civilization_050",
@@ -1121,7 +1271,10 @@
       ],
       "order": 50,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_050_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Mughal Empire's Taj Mahal",
+      "summary_en": "",
+      "full_text_en": "Shah Jahan built the Taj Mahal for his deceased wife Mumtaz. Twenty thousand craftsmen worked for 22 years, constructing this mausoleum with white marble and gem inlays. Four minarets stood symmetrically, their reflections shimmering in the pool. The Taj Mahal became an eternal monument to love and architectural art."
     },
     {
       "id": "asian_civilization_051",
@@ -1143,7 +1296,10 @@
       ],
       "order": 51,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_051_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Rule of the Delhi Sultanate",
+      "summary_en": "",
+      "full_text_en": "After the Turkic general Ghur invaded northern India, the Delhi Sultanate was established, and Islam took root in South Asia. Sultans built mosques and madrasas, Persian became the court language, and Hindu and Islamic cultures fused through collision, giving birth to a unique Indo-Islamic civilization."
     },
     {
       "id": "asian_civilization_052",
@@ -1165,7 +1321,10 @@
       ],
       "order": 52,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_052_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Chola Dynasty of South India",
+      "summary_en": "",
+      "full_text_en": "Chola King Rajaraja I conquered Sri Lanka and the Maldives, and the navy dominated the Indian Ocean. The magnificent Brihadisvara Temple featured a pyramid top carved from a single granite block, and the bronze Nataraja statues were exquisitely crafted. The Chola Dynasty was the pinnacle of South Indian maritime civilization."
     },
     {
       "id": "asian_civilization_053",
@@ -1187,7 +1346,10 @@
       ],
       "order": 53,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_053_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Spread of Buddhism from the Ganges Plain",
+      "summary_en": "",
+      "full_text_en": "Ashoka dispatched missionary monks down the Ganges, reaching Sri Lanka and Southeast Asia by sea. Buddhist scriptures were translated into Pali and Chinese, monks carried relics and texts across the Hindu Kush into Central Asia, and Buddhism spread from the Ganges plain to the world, becoming the first universal religion."
     },
     {
       "id": "asian_civilization_054",
@@ -1209,7 +1371,10 @@
       ],
       "order": 54,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_054_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Mathematical Achievements of Ancient India",
+      "summary_en": "",
+      "full_text_en": "Indian mathematician Aryabhata calculated an approximation of pi and proposed the theory of Earth's rotation. Brahmagupta systematically formulated rules for zero's operations, and the decimal place-value system was transmitted through Arabs to Europe, profoundly changing humanity's mathematical thinking."
     },
     {
       "id": "asian_civilization_055",
@@ -1231,7 +1396,10 @@
       ],
       "order": 55,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_055_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Rise of Sikhism",
+      "summary_en": "",
+      "full_text_en": "Guru Nanak founded Sikhism in Punjab, advocating monotheism and caste equality. Ten generations of Gurus led followers to resist Mughal oppression, and Guru Gobind Singh established the Khalsa warrior order. Sikhs became known for bravery and integrity, forming an important part of India's religious landscape."
     },
     {
       "id": "asian_civilization_056",
@@ -1253,7 +1421,10 @@
       ],
       "order": 56,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_056_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Fortresses of Rajasthan",
+      "summary_en": "",
+      "full_text_en": "Rajput warriors built majestic fortresses on the cliffs of Rajasthan, with Mehrangarh Fort overlooking the Blue City of Jodhpur. Warriors in armor guarded the citadels, queens painted miniatures in the palaces, and the Rajput people's martial valor and artistic refinement were equally admirable."
     },
     {
       "id": "asian_civilization_057",
@@ -1275,7 +1446,10 @@
       ],
       "order": 57,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_057_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Buddhist Civilization of Sri Lanka",
+      "summary_en": "",
+      "full_text_en": "Giant stupas stood in the ancient city of Anuradhapura, and monks chanted sutras under Bodhi trees. Sri Lanka became a stronghold of Theravada Buddhism, the Pali Tipitaka was preserved and transmitted here, and the Tooth Relic was enshrined in the Temple of the Tooth in Kandy. The island's Buddhist tradition has continued for over two thousand years."
     },
     {
       "id": "asian_civilization_058",
@@ -1297,7 +1471,10 @@
       ],
       "order": 58,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_058_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Indian Ocean Maritime Trade",
+      "summary_en": "",
+      "full_text_en": "Gujarati merchants sailed Arab-style dhows across the Indian Ocean, transporting cotton cloth and spices to Red Sea ports. Monsoons were the sailors' allies — the southwest summer wind carried ships eastward, and the northeast winter wind guided them home. The Indian Ocean trade network connected Asia, Africa, and Europe."
     },
     {
       "id": "asian_civilization_059",
@@ -1319,7 +1496,10 @@
       ],
       "order": 59,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_059_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Kushan Empire: Silk Road Hub",
+      "summary_en": "",
+      "full_text_en": "The Kushan Empire controlled trade routes from Central Asia to northern India. Gandharan art perfectly blended Greek sculptural techniques with Buddhist themes. King Kanishka I promoted Buddhism and built a great stupa at Peshawar. The Kushan Empire became a key node of East-West cultural exchange on the Silk Road."
     },
     {
       "id": "asian_civilization_060",
@@ -1341,7 +1521,10 @@
       ],
       "order": 60,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_060_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Academic Splendor of Nalanda Monastery",
+      "summary_en": "",
+      "full_text_en": "Nalanda Monastery was the largest Buddhist center in the ancient world, with over ten thousand monks studying logic, Madhyamaka, and Yogacara. Chinese monk Xuanzang studied here for five years, and the library held nine million volumes. Nalanda's academic reputation attracted scholars from across Asia."
     },
     {
       "id": "asian_civilization_061",
@@ -1363,7 +1546,10 @@
       ],
       "order": 61,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_061_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Mughal Miniature Painting Tradition",
+      "summary_en": "",
+      "full_text_en": "Mughal painters blended Persian miniature techniques with indigenous Indian styles, painting court banquets and hunting scenes on parchment. Emperor Akbar established the royal painting workshop, and artists used fine brushstrokes to depict splendid garments and garden palaces. Mughal miniatures became artistic treasures."
     },
     {
       "id": "asian_civilization_062",
@@ -1385,7 +1571,10 @@
       ],
       "order": 62,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_062_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Cotton and Textiles of South Asia",
+      "summary_en": "",
+      "full_text_en": "India's cotton textile technology led the world for a millennium. The fine muslin produced in Dhaka was as thin as cicada wings. Weavers created intricate patterns on wooden looms, dyers produced vivid colors with indigo and madder, and Indian cotton cloth was sold as far as Rome and Southeast Asia. The textile trade was a vital pillar of the South Asian economy."
     },
     {
       "id": "asian_civilization_063",
@@ -1407,7 +1596,10 @@
       ],
       "order": 63,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_063_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "asian_civilization_064",
@@ -1429,7 +1621,10 @@
       ],
       "order": 64,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_064_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Shang and Zhou Bronze Ritual Vessels",
+      "summary_en": "",
+      "full_text_en": "In Shang bronze-casting workshops, artisans used composite clay molds to cast the massive Houmuwu Ding weighing over 800 kilograms. Taotie and kui-dragon motifs covered the surfaces. Bronze ding and gui vessels were used in ancestral temple sacrifices, and the number and specifications of ritual vessels marked noble ranks. Bronze civilization reached its zenith."
     },
     {
       "id": "asian_civilization_065",
@@ -1451,7 +1646,10 @@
       ],
       "order": 65,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_065_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Taika Reforms",
+      "summary_en": "",
+      "full_text_en": "In 645 CE, Japanese Prince Naka no Ōe and Nakatomi no Kamatari launched a coup overthrowing the Soga clan, and Emperor Kōtoku issued the edict of reform. Modeled on Tang institutions, a centralized ritsuryō state was established, implementing the handen shūju system and the sōyōchō tax system. Japan transitioned from a clan society to a feudal state. The Taika Reforms were an epoch-making transformation in Japanese history."
     },
     {
       "id": "asian_civilization_066",
@@ -1473,7 +1671,10 @@
       ],
       "order": 66,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_066_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Maritime Ceramic Road",
+      "summary_en": "",
+      "full_text_en": "During the Song and Yuan dynasties, Chinese maritime merchants departed from Quanzhou and Guangzhou, laden with celadon, white porcelain, and blue-and-white ware for Southeast Asia and the Indian Ocean. Dehua white porcelain was smooth as jade, Longquan celadon was like ice and water. Chinese porcelain reached Persia and East Africa by sea, and the Maritime Ceramic Road connected Asia, Africa, and Europe."
     },
     {
       "id": "asian_civilization_067",
@@ -1495,7 +1696,10 @@
       ],
       "order": 67,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_067_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Splendor of Tang Chang'an",
+      "summary_en": "",
+      "full_text_en": "Tang Chang'an had a population exceeding one million, making it the world's largest city at the time. Zhuque Avenue was 100 meters wide, the Eastern and Western Markets teemed with merchants, Persian traders dealt in jewels and spices, Japanese envoys studied at the Imperial Academy, and envoys from all nations paid tribute at the Hanyuan Hall of Daming Palace. The grandeur of High Tang was magnificent."
     },
     {
       "id": "asian_civilization_068",
@@ -1517,7 +1721,10 @@
       ],
       "order": 68,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_068_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Song Dynasty Urban Commerce",
+      "summary_en": "",
+      "full_text_en": "Bianjing's night markets were brightly lit, restaurants and teahouses operated around the clock, and acrobatics and storytelling in entertainment quarters captivated audiences. Jiaozi shops issued the world's earliest paper currency, and merchant ships sailed from Quanzhou to Arabia. Song commercial prosperity reached the peak of traditional Chinese society."
     },
     {
       "id": "asian_civilization_069",
@@ -1539,7 +1746,10 @@
       ],
       "order": 69,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_069_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Mongol Empire's Conquests",
+      "summary_en": "",
+      "full_text_en": "After unifying the Mongol steppe, Genghis Khan launched western campaigns, and Mongol cavalry swept across Central Asia and Eastern Europe. Ögedei Khan established his capital at Karakorum, Kublai Khan founded the Yuan Dynasty with its capital at Dadu, and the Mongol Empire spanned Eurasia. The Yam postal system connected the vast territory from Korea to Hungary."
     },
     {
       "id": "asian_civilization_070",
@@ -1561,7 +1771,10 @@
       ],
       "order": 70,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_070_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Zheng He's Voyages of the Ming Dynasty",
+      "summary_en": "",
+      "full_text_en": "Zheng He led over 27,000 men aboard more than 200 treasure ships on seven voyages, departing from Liujiagang through the Strait of Malacca to the East African coast. The fleet carried silk and porcelain, exchanging them for rare treasures from various lands, demonstrating the Ming Dynasty's prestige and maritime power. This was a magnificent feat in navigation history."
     },
     {
       "id": "asian_civilization_071",
@@ -1583,7 +1796,10 @@
       ],
       "order": 71,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_071_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Qing Dynasty's Kang-Qian Prosperity",
+      "summary_en": "",
+      "full_text_en": "Kangxi suppressed the Three Feudatories, recovered Taiwan, and campaigned against Galdan. Yongzheng implemented the poll-tax-merged-into-land-tax reform. Qianlong's Ten Great Campaigns brought the territory to its greatest extent. The population exceeded 300 million and arable land doubled, but literary inquisitions stifled thought and isolationist policies restricted trade. Crisis lurked beneath the prosperity."
     },
     {
       "id": "asian_civilization_072",
@@ -1605,7 +1821,10 @@
       ],
       "order": 72,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_072_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Three Kingdoms Period of the Korean Peninsula",
+      "summary_en": "",
+      "full_text_en": "Goguryeo, Baekje, and Silla formed a tripartite balance. Goguryeo's King Gwanggaeto the Great expanded the territory through northern and southern campaigns. Silla's King Muyeol unified the peninsula with Tang assistance. Bulguksa Temple and Seokguram Grotto showcased the brilliance of Silla Buddhist art. The Three Kingdoms period shaped the cultural roots of the Korean nation."
     },
     {
       "id": "asian_civilization_073",
@@ -1627,7 +1846,10 @@
       ],
       "order": 73,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_073_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Japan's Taika Reforms",
+      "summary_en": "",
+      "full_text_en": "Emperor Kōtoku, pushed by Prince Naka no Ōe and Kentōshi, implemented the Taika Reforms, abolishing clan land ownership and implementing the handen shūju and sōyōchō systems. Japan comprehensively imitated Tang institutions to establish a centralized state. The ritsuryō system laid the basic framework of the ancient Japanese state."
     },
     {
       "id": "asian_civilization_074",
@@ -1649,7 +1871,10 @@
       ],
       "order": 74,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_074_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Warlords of Japan's Sengoku Period",
+      "summary_en": "",
+      "full_text_en": "Oda Nobunaga defeated Imagawa Yoshimoto at Okehazama against overwhelming odds. Toyotomi Hideyoshi unified Japan and invaded Korea. Tokugawa Ieyasu defeated the Western army at the Battle of Sekigahara, establishing the Edo shogunate. The warlords' rivalry ended with the Tokugawa peace, and Japan entered two centuries of isolation."
     },
     {
       "id": "asian_civilization_075",
@@ -1671,7 +1896,10 @@
       ],
       "order": 75,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_075_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Confucianism of the Joseon Dynasty",
+      "summary_en": "",
+      "full_text_en": "After Yi Seonggye founded the Joseon Dynasty, Neo-Confucianism became the state orthodoxy. King Sejong created the Korean alphabet Hangul (Hunminjeongeum). Confucian scholars studied classics and history at Sungkyunkwan, yangban aristocrats entered government through civil service examinations, and Confucianism profoundly shaped the ethical order and cultural character of Joseon society."
     },
     {
       "id": "asian_civilization_076",
@@ -1693,7 +1921,10 @@
       ],
       "order": 76,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_076_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "East Asian Sinic Cultural Sphere",
+      "summary_en": "",
+      "full_text_en": "Chinese characters spread from China to Korea, Japan, and Vietnam, becoming the shared writing system of East Asia. Each country recorded history and literature in Chinese characters, modeled political institutions after the Tang Dynasty, and adopted Confucianism as the foundation of social ethics. The Sinic cultural sphere was the core bond of the East Asian civilizational community."
     },
     {
       "id": "asian_civilization_077",
@@ -1715,7 +1946,10 @@
       ],
       "order": 77,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_077_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Four Great Inventions of China",
+      "summary_en": "",
+      "full_text_en": "Papermaking freed knowledge dissemination from expensive silk, printing brought books into ordinary homes, gunpowder moved from alchemists' furnaces to battlefields, and the compass guided navigators across oceans. The Four Great Inventions were transmitted through Arabs to Europe, profoundly changing the course of world history."
     },
     {
       "id": "asian_civilization_078",
@@ -1737,7 +1971,10 @@
       ],
       "order": 78,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_078_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Tea Culture of East Asia",
+      "summary_en": "",
+      "full_text_en": "Lu Yu wrote The Classic of Tea, systematically discussing tea cultivation and tasting. Tea competitions flourished in the Song Dynasty. Japanese monk Eisai brought tea seeds back to Kyoto, and Sen no Rikyū established the tea ceremony. Tea was elevated from medicine to spiritual practice, and tea culture became a shared refined aesthetic of East Asian life."
     },
     {
       "id": "asian_civilization_079",
@@ -1759,7 +1996,10 @@
       ],
       "order": 79,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_079_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Sino-Japanese Zen Exchange",
+      "summary_en": "",
+      "full_text_en": "Eisai and Dōgen traveled to Song China to study the Dharma, bringing the Rinzai and Sōtō schools to Japan. Zen monks contemplated kōans in the Five Mountain temples, dry landscape gardens used white sand and rocks to symbolize mountains and water, and ink paintings revealed Zen spirit in blank spaces. Zen profoundly influenced Japanese aesthetics and spirituality."
     },
     {
       "id": "asian_civilization_080",
@@ -1781,7 +2021,10 @@
       ],
       "order": 80,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_080_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Splendor of Goryeo Celadon",
+      "summary_en": "",
+      "full_text_en": "Goryeo potters used unique techniques to fire celadon as green as jade, with inlaid cloud-crane and peony patterns of exquisite beauty. After the Mongol invasion, craftsmen were taken away, and celadon techniques gradually died out. Goryeo celadon became an irreplicable masterpiece in ceramic history, haunting later collectors."
     },
     {
       "id": "asian_civilization_081",
@@ -1803,7 +2046,10 @@
       ],
       "order": 81,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_081_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Maritime Trade of the Ryukyu Kingdom",
+      "summary_en": "",
+      "full_text_en": "Centered on Shuri Castle, the Ryukyu Kingdom conducted entrepôt trade with Ming China, Japan, and Southeast Asian countries. Naha Port was crowded with merchant ships. Ryukyu envoys paid tribute to Ming in exchange for silk and porcelain, which were then resold to Japan and Southeast Asia. The small island kingdom prospered through trade."
     },
     {
       "id": "asian_civilization_082",
@@ -1825,7 +2071,10 @@
       ],
       "order": 82,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_082_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Imperial Examination System of East Asia",
+      "summary_en": "",
+      "full_text_en": "The imperial examination system created in the Sui and Tang dynasties selected officials through examinations, breaking the aristocracy's monopoly on power. Korea and Vietnam adopted the system, and Japan briefly experimented with it. The examination system shaped East Asia's tradition of reverence for learning, influencing the fate of countless scholars for over a millennium."
     },
     {
       "id": "asian_civilization_083",
@@ -1847,7 +2096,10 @@
       ],
       "order": 83,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_083_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "First Sino-Japanese War and East Asian Upheaval",
+      "summary_en": "",
+      "full_text_en": "In 1894, the First Sino-Japanese War broke out, and the Beiyang Fleet suffered heavy losses in the Battle of the Yellow Sea. The Treaty of Shimonoseki ceded Taiwan and the Liaodong Peninsula, with an indemnity of 200 million taels of silver. Japan joined the ranks of great powers, Korea broke free from Qing suzerainty, and the millennia-old East Asian order was completely rewritten."
     },
     {
       "id": "asian_civilization_084",
@@ -1869,7 +2121,10 @@
       ],
       "order": 84,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_084_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "asian_civilization_085",
@@ -1891,7 +2146,10 @@
       ],
       "order": 85,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_085_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Sunrise at Angkor Wat",
+      "summary_en": "",
+      "full_text_en": "Khmer King Suryavarman II built Angkor Wat, with five lotus tower peaks reflected in the moat. Corridor reliefs depict the Churning of the Ocean of Milk and the king's military campaigns. Monks chant in the morning light, and Angkor Wat is the most magnificent religious complex in Southeast Asia."
     },
     {
       "id": "asian_civilization_086",
@@ -1913,7 +2171,10 @@
       ],
       "order": 86,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_086_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Buddhist Pagodas of the Bagan Plain",
+      "summary_en": "",
+      "full_text_en": "The kings of the Bagan Dynasty built over ten thousand pagodas on the plain. The golden Ananda Temple was perfectly symmetrical. Monks walked among the pagoda forest, devotees offered flowers and oil lamps, and Bagan became a holy land of Theravada Buddhism. The city of ten thousand pagodas gleamed by the Irrawaddy River."
     },
     {
       "id": "asian_civilization_087",
@@ -1935,7 +2196,10 @@
       ],
       "order": 87,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_087_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Maritime Hegemony of Srivijaya",
+      "summary_en": "",
+      "full_text_en": "The Srivijaya Kingdom controlled the trade routes of the Strait of Malacca. The port of Palembang harbored merchant ships from China and India. The king levied transit taxes on passing vessels, spices and porcelain were transshipped here, and Srivijaya was founded on maritime trade, dominating Southeast Asian waters for centuries."
     },
     {
       "id": "asian_civilization_088",
@@ -1957,7 +2221,10 @@
       ],
       "order": 88,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_088_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Unification of Majapahit",
+      "summary_en": "",
+      "full_text_en": "The Majapahit Kingdom unified the Indonesian archipelago under Gajah Mada's regency, with territory stretching from Sumatra to New Guinea. Court poets celebrated the king's achievements in kakawin verse, and shadow puppet plays performed epics in villages. Majapahit was the most glorious empire in Indonesian history."
     },
     {
       "id": "asian_civilization_089",
@@ -1979,7 +2246,10 @@
       ],
       "order": 89,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_089_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Vietnam's Path to Independence",
+      "summary_en": "",
+      "full_text_en": "Ngô Quyền defeated the Southern Han army at the Battle of Bạch Đằng, and Vietnam freed itself from direct Chinese rule. The Lý Dynasty built Thăng Long as the capital, the Trần Dynasty repelled three Mongol invasions, and Nguyễn Huệ's Tây Sơn uprising drove out Qing intervention. The Vietnamese people defended their national independence through a millennium of resistance."
     },
     {
       "id": "asian_civilization_090",
@@ -2001,7 +2271,10 @@
       ],
       "order": 90,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_090_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Ayutthaya Kingdom of Siam",
+      "summary_en": "",
+      "full_text_en": "The Ayutthaya Kingdom built its capital on an island in the Chao Phraya River, with temple golden spires gleaming in the sunlight. Portuguese merchants established trading posts, Japanese mercenaries served the king, and Ayutthaya was the most international city in Southeast Asia — until Burmese forces burned this glorious capital to the ground."
     },
     {
       "id": "asian_civilization_091",
@@ -2023,7 +2296,10 @@
       ],
       "order": 91,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_091_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Spice Trade of the Malay Archipelago",
+      "summary_en": "",
+      "full_text_en": "Cloves and nutmeg from the Maluku Islands were worth their weight in gold. Arab and Indian merchants crossed oceans to purchase them. Spices were transported through the Strait of Malacca to Europe, with middlemen marking up prices at every stage. Europeans yearned to find direct routes to the source, and the Age of Discovery was born."
     },
     {
       "id": "asian_civilization_092",
@@ -2045,7 +2321,10 @@
       ],
       "order": 92,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_092_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Central Asian Silk Road Oasis Cities",
+      "summary_en": "",
+      "full_text_en": "Samarkand was the brightest pearl on the Silk Road. Caravans converged from all directions at Registan Square. Chinese silk and Roman glass were exchanged here, Sogdian merchants fluent in many languages served as trade intermediaries, and oasis cities were way stations where Eastern and Western civilizations met."
     },
     {
       "id": "asian_civilization_093",
@@ -2067,7 +2346,10 @@
       ],
       "order": 93,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_093_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Splendor of the Timurid Empire",
+      "summary_en": "",
+      "full_text_en": "Timur set out from Samarkand to conquer a vast territory from Delhi to Ankara. He brought craftsmen from various lands back to his capital to build magnificent mosques and madrasas. Beneath turquoise domes, exquisite mosaics were inlaid, and Samarkand became the most splendid city in the Islamic world."
     },
     {
       "id": "asian_civilization_094",
@@ -2089,7 +2371,10 @@
       ],
       "order": 94,
       "pixel_image": "res://assets/images/illustrations/asian_civilization/asian_civilization_094_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Rice Civilization of Southeast Asia",
+      "summary_en": "",
+      "full_text_en": "Farmers in the Mekong Delta irrigated rice paddies with river water during the rainy season, and water buffalo plowed through the mud. The Khmer built massive hydraulic systems to store water and prevent drought. Rice agriculture sustained the Angkor Empire's million-strong population, and rice was the material foundation of Southeast Asian civilization."
     }
   ]
 }

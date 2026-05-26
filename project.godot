@@ -27,13 +27,18 @@ AudioManager="*res://scripts/autoload/audio_manager.gd"
 OrientationManager="*res://scripts/autoload/orientation_manager.gd"
 ToastManager="*res://scripts/autoload/toast_manager.gd"
 DLCManager="*res://scripts/autoload/dlc_manager.gd"
+LoadingManager="*res://scripts/autoload/loading_manager.gd"
 
 [display]
 
-window/size/viewport_width=1280
-window/size/viewport_height=720
+window/size/viewport_width=720
+window/size/viewport_height=1280
 window/stretch/mode="canvas_items"
 window/handheld/orientation=5
+
+[editor_plugins]
+
+enabled=PackedStringArray()
 
 [gui]
 
@@ -72,6 +77,160 @@ ui_down={
 [input_devices]
 
 2d_physics/layer_1="default"
+
+[internationalization]
+
+locale/translation_remaps={
+"res://assets/images/game_icon.png": PackedStringArray("res://assets/images/game_icon_en.png:en"),
+"res://assets/images/game_icon_192.png": PackedStringArray("res://assets/images/game_icon_192_en.png:en"),
+"res://assets/images/game_icon_foreground_432.png": PackedStringArray("res://assets/images/game_icon_foreground_432_en.png:en"),
+"res://assets/images/icons/album_abstract.png": PackedStringArray("res://assets/images/icons/en/album_abstract_en.png:en"),
+"res://assets/images/icons/album_abstract_grey.png": PackedStringArray("res://assets/images/icons/en/album_abstract_en_grey.png:en"),
+"res://assets/images/icons/album_africa_america.png": PackedStringArray("res://assets/images/icons/en/album_africa_america_en.png:en"),
+"res://assets/images/icons/album_africa_america_grey.png": PackedStringArray("res://assets/images/icons/en/album_africa_america_en_grey.png:en"),
+"res://assets/images/icons/album_agriculture_food.png": PackedStringArray("res://assets/images/icons/en/album_agriculture_food_en.png:en"),
+"res://assets/images/icons/album_agriculture_food_grey.png": PackedStringArray("res://assets/images/icons/en/album_agriculture_food_en_grey.png:en"),
+"res://assets/images/icons/album_archaeology.png": PackedStringArray("res://assets/images/icons/en/album_archaeology_en.png:en"),
+"res://assets/images/icons/album_archaeology_grey.png": PackedStringArray("res://assets/images/icons/en/album_archaeology_en_grey.png:en"),
+"res://assets/images/icons/album_architecture.png": PackedStringArray("res://assets/images/icons/en/album_architecture_en.png:en"),
+"res://assets/images/icons/album_architecture_grey.png": PackedStringArray("res://assets/images/icons/en/album_architecture_en_grey.png:en"),
+"res://assets/images/icons/album_asian_civilization.png": PackedStringArray("res://assets/images/icons/en/album_asian_civilization_en.png:en"),
+"res://assets/images/icons/album_asian_civilization_grey.png": PackedStringArray("res://assets/images/icons/en/album_asian_civilization_en_grey.png:en"),
+"res://assets/images/icons/album_astronomy.png": PackedStringArray("res://assets/images/icons/en/album_astronomy_en.png:en"),
+"res://assets/images/icons/album_astronomy_grey.png": PackedStringArray("res://assets/images/icons/en/album_astronomy_en_grey.png:en"),
+"res://assets/images/icons/album_atmosphere.png": PackedStringArray("res://assets/images/icons/en/album_atmosphere_en.png:en"),
+"res://assets/images/icons/album_atmosphere_grey.png": PackedStringArray("res://assets/images/icons/en/album_atmosphere_en_grey.png:en"),
+"res://assets/images/icons/album_birds.png": PackedStringArray("res://assets/images/icons/en/album_birds_en.png:en"),
+"res://assets/images/icons/album_birds_grey.png": PackedStringArray("res://assets/images/icons/en/album_birds_en_grey.png:en"),
+"res://assets/images/icons/album_chemistry_biology.png": PackedStringArray("res://assets/images/icons/en/album_chemistry_biology_en.png:en"),
+"res://assets/images/icons/album_chemistry_biology_grey.png": PackedStringArray("res://assets/images/icons/en/album_chemistry_biology_en_grey.png:en"),
+"res://assets/images/icons/album_chinese_heritage.png": PackedStringArray("res://assets/images/icons/en/album_chinese_heritage_en.png:en"),
+"res://assets/images/icons/album_chinese_heritage_grey.png": PackedStringArray("res://assets/images/icons/en/album_chinese_heritage_en_grey.png:en"),
+"res://assets/images/icons/album_chinese_history.png": PackedStringArray("res://assets/images/icons/en/album_chinese_history_en.png:en"),
+"res://assets/images/icons/album_chinese_history_grey.png": PackedStringArray("res://assets/images/icons/en/album_chinese_history_en_grey.png:en"),
+"res://assets/images/icons/album_chinese_painting.png": PackedStringArray("res://assets/images/icons/en/album_chinese_painting_en.png:en"),
+"res://assets/images/icons/album_chinese_painting_grey.png": PackedStringArray("res://assets/images/icons/en/album_chinese_painting_en_grey.png:en"),
+"res://assets/images/icons/album_civil_engineering.png": PackedStringArray("res://assets/images/icons/en/album_civil_engineering_en.png:en"),
+"res://assets/images/icons/album_civil_engineering_grey.png": PackedStringArray("res://assets/images/icons/en/album_civil_engineering_en_grey.png:en"),
+"res://assets/images/icons/album_contemporary_media.png": PackedStringArray("res://assets/images/icons/en/album_contemporary_media_en.png:en"),
+"res://assets/images/icons/album_contemporary_media_grey.png": PackedStringArray("res://assets/images/icons/en/album_contemporary_media_en_grey.png:en"),
+"res://assets/images/icons/album_crafts.png": PackedStringArray("res://assets/images/icons/en/album_crafts_en.png:en"),
+"res://assets/images/icons/album_crafts_grey.png": PackedStringArray("res://assets/images/icons/en/album_crafts_en_grey.png:en"),
+"res://assets/images/icons/album_crops.png": PackedStringArray("res://assets/images/icons/en/album_crops_en.png:en"),
+"res://assets/images/icons/album_crops_grey.png": PackedStringArray("res://assets/images/icons/en/album_crops_en_grey.png:en"),
+"res://assets/images/icons/album_cute_animals.png": PackedStringArray("res://assets/images/icons/en/album_cute_animals_en.png:en"),
+"res://assets/images/icons/album_cute_animals_grey.png": PackedStringArray("res://assets/images/icons/en/album_cute_animals_en_grey.png:en"),
+"res://assets/images/icons/album_daily_items.png": PackedStringArray("res://assets/images/icons/en/album_daily_items_en.png:en"),
+"res://assets/images/icons/album_daily_items_grey.png": PackedStringArray("res://assets/images/icons/en/album_daily_items_en_grey.png:en"),
+"res://assets/images/icons/album_deserts_gobi.png": PackedStringArray("res://assets/images/icons/en/album_deserts_gobi_en.png:en"),
+"res://assets/images/icons/album_deserts_gobi_grey.png": PackedStringArray("res://assets/images/icons/en/album_deserts_gobi_en_grey.png:en"),
+"res://assets/images/icons/album_design.png": PackedStringArray("res://assets/images/icons/en/album_design_en.png:en"),
+"res://assets/images/icons/album_design_grey.png": PackedStringArray("res://assets/images/icons/en/album_design_en_grey.png:en"),
+"res://assets/images/icons/album_economic_trade.png": PackedStringArray("res://assets/images/icons/en/album_economic_trade_en.png:en"),
+"res://assets/images/icons/album_economic_trade_grey.png": PackedStringArray("res://assets/images/icons/en/album_economic_trade_en_grey.png:en"),
+"res://assets/images/icons/album_ecosystems.png": PackedStringArray("res://assets/images/icons/en/album_ecosystems_en.png:en"),
+"res://assets/images/icons/album_ecosystems_grey.png": PackedStringArray("res://assets/images/icons/en/album_ecosystems_en_grey.png:en"),
+"res://assets/images/icons/album_education.png": PackedStringArray("res://assets/images/icons/en/album_education_en.png:en"),
+"res://assets/images/icons/album_education_grey.png": PackedStringArray("res://assets/images/icons/en/album_education_en_grey.png:en"),
+"res://assets/images/icons/album_energy.png": PackedStringArray("res://assets/images/icons/en/album_energy_en.png:en"),
+"res://assets/images/icons/album_energy_grey.png": PackedStringArray("res://assets/images/icons/en/album_energy_en_grey.png:en"),
+"res://assets/images/icons/album_entertainment.png": PackedStringArray("res://assets/images/icons/en/album_entertainment_en.png:en"),
+"res://assets/images/icons/album_entertainment_grey.png": PackedStringArray("res://assets/images/icons/en/album_entertainment_en_grey.png:en"),
+"res://assets/images/icons/album_european_civilization.png": PackedStringArray("res://assets/images/icons/en/album_european_civilization_en.png:en"),
+"res://assets/images/icons/album_european_civilization_grey.png": PackedStringArray("res://assets/images/icons/en/album_european_civilization_en_grey.png:en"),
+"res://assets/images/icons/album_family.png": PackedStringArray("res://assets/images/icons/en/album_family_en.png:en"),
+"res://assets/images/icons/album_family_grey.png": PackedStringArray("res://assets/images/icons/en/album_family_en_grey.png:en"),
+"res://assets/images/icons/album_fashion.png": PackedStringArray("res://assets/images/icons/en/album_fashion_en.png:en"),
+"res://assets/images/icons/album_fashion_grey.png": PackedStringArray("res://assets/images/icons/en/album_fashion_en_grey.png:en"),
+"res://assets/images/icons/album_festivals.png": PackedStringArray("res://assets/images/icons/en/album_festivals_en.png:en"),
+"res://assets/images/icons/album_festivals_grey.png": PackedStringArray("res://assets/images/icons/en/album_festivals_en_grey.png:en"),
+"res://assets/images/icons/album_fish.png": PackedStringArray("res://assets/images/icons/en/album_fish_en.png:en"),
+"res://assets/images/icons/album_fish_grey.png": PackedStringArray("res://assets/images/icons/en/album_fish_en_grey.png:en"),
+"res://assets/images/icons/album_flowers.png": PackedStringArray("res://assets/images/icons/en/album_flowers_en.png:en"),
+"res://assets/images/icons/album_flowers_grey.png": PackedStringArray("res://assets/images/icons/en/album_flowers_en_grey.png:en"),
+"res://assets/images/icons/album_folk_traditional.png": PackedStringArray("res://assets/images/icons/en/album_folk_traditional_en.png:en"),
+"res://assets/images/icons/album_folk_traditional_grey.png": PackedStringArray("res://assets/images/icons/en/album_folk_traditional_en_grey.png:en"),
+"res://assets/images/icons/album_food.png": PackedStringArray("res://assets/images/icons/en/album_food_en.png:en"),
+"res://assets/images/icons/album_food_grey.png": PackedStringArray("res://assets/images/icons/en/album_food_en_grey.png:en"),
+"res://assets/images/icons/album_fungi.png": PackedStringArray("res://assets/images/icons/en/album_fungi_en.png:en"),
+"res://assets/images/icons/album_fungi_grey.png": PackedStringArray("res://assets/images/icons/en/album_fungi_en_grey.png:en"),
+"res://assets/images/icons/album_geology.png": PackedStringArray("res://assets/images/icons/en/album_geology_en.png:en"),
+"res://assets/images/icons/album_geology_grey.png": PackedStringArray("res://assets/images/icons/en/album_geology_en_grey.png:en"),
+"res://assets/images/icons/album_geometric_shapes.png": PackedStringArray("res://assets/images/icons/en/album_geometric_shapes_en.png:en"),
+"res://assets/images/icons/album_geometric_shapes_grey.png": PackedStringArray("res://assets/images/icons/en/album_geometric_shapes_en_grey.png:en"),
+"res://assets/images/icons/album_health.png": PackedStringArray("res://assets/images/icons/en/album_health_en.png:en"),
+"res://assets/images/icons/album_health_grey.png": PackedStringArray("res://assets/images/icons/en/album_health_en_grey.png:en"),
+"res://assets/images/icons/album_historical_mysteries.png": PackedStringArray("res://assets/images/icons/en/album_historical_mysteries_en.png:en"),
+"res://assets/images/icons/album_historical_mysteries_grey.png": PackedStringArray("res://assets/images/icons/en/album_historical_mysteries_en_grey.png:en"),
+"res://assets/images/icons/album_housing.png": PackedStringArray("res://assets/images/icons/en/album_housing_en.png:en"),
+"res://assets/images/icons/album_housing_grey.png": PackedStringArray("res://assets/images/icons/en/album_housing_en_grey.png:en"),
+"res://assets/images/icons/album_industrial_production.png": PackedStringArray("res://assets/images/icons/en/album_industrial_production_en.png:en"),
+"res://assets/images/icons/album_industrial_production_grey.png": PackedStringArray("res://assets/images/icons/en/album_industrial_production_en_grey.png:en"),
+"res://assets/images/icons/album_information_technology.png": PackedStringArray("res://assets/images/icons/en/album_information_technology_en.png:en"),
+"res://assets/images/icons/album_information_technology_grey.png": PackedStringArray("res://assets/images/icons/en/album_information_technology_en_grey.png:en"),
+"res://assets/images/icons/album_insects.png": PackedStringArray("res://assets/images/icons/en/album_insects_en.png:en"),
+"res://assets/images/icons/album_insects_grey.png": PackedStringArray("res://assets/images/icons/en/album_insects_en_grey.png:en"),
+"res://assets/images/icons/album_mammals.png": PackedStringArray("res://assets/images/icons/en/album_mammals_en.png:en"),
+"res://assets/images/icons/album_mammals_grey.png": PackedStringArray("res://assets/images/icons/en/album_mammals_en_grey.png:en"),
+"res://assets/images/icons/album_math_physics.png": PackedStringArray("res://assets/images/icons/en/album_math_physics_en.png:en"),
+"res://assets/images/icons/album_math_physics_grey.png": PackedStringArray("res://assets/images/icons/en/album_math_physics_en_grey.png:en"),
+"res://assets/images/icons/album_mechanical_electronic.png": PackedStringArray("res://assets/images/icons/en/album_mechanical_electronic_en.png:en"),
+"res://assets/images/icons/album_mechanical_electronic_grey.png": PackedStringArray("res://assets/images/icons/en/album_mechanical_electronic_en_grey.png:en"),
+"res://assets/images/icons/album_miscellaneous.png": PackedStringArray("res://assets/images/icons/en/album_miscellaneous_en.png:en"),
+"res://assets/images/icons/album_miscellaneous_grey.png": PackedStringArray("res://assets/images/icons/en/album_miscellaneous_en_grey.png:en"),
+"res://assets/images/icons/album_mountains_plateaus.png": PackedStringArray("res://assets/images/icons/en/album_mountains_plateaus_en.png:en"),
+"res://assets/images/icons/album_mountains_plateaus_grey.png": PackedStringArray("res://assets/images/icons/en/album_mountains_plateaus_en_grey.png:en"),
+"res://assets/images/icons/album_nature_reserves.png": PackedStringArray("res://assets/images/icons/en/album_nature_reserves_en.png:en"),
+"res://assets/images/icons/album_nature_reserves_grey.png": PackedStringArray("res://assets/images/icons/en/album_nature_reserves_en_grey.png:en"),
+"res://assets/images/icons/album_paleontology.png": PackedStringArray("res://assets/images/icons/en/album_paleontology_en.png:en"),
+"res://assets/images/icons/album_paleontology_grey.png": PackedStringArray("res://assets/images/icons/en/album_paleontology_en_grey.png:en"),
+"res://assets/images/icons/album_performing_arts.png": PackedStringArray("res://assets/images/icons/en/album_performing_arts_en.png:en"),
+"res://assets/images/icons/album_performing_arts_grey.png": PackedStringArray("res://assets/images/icons/en/album_performing_arts_en_grey.png:en"),
+"res://assets/images/icons/album_photography.png": PackedStringArray("res://assets/images/icons/en/album_photography_en.png:en"),
+"res://assets/images/icons/album_photography_grey.png": PackedStringArray("res://assets/images/icons/en/album_photography_en_grey.png:en"),
+"res://assets/images/icons/album_plains_basins.png": PackedStringArray("res://assets/images/icons/en/album_plains_basins_en.png:en"),
+"res://assets/images/icons/album_plains_basins_grey.png": PackedStringArray("res://assets/images/icons/en/album_plains_basins_en_grey.png:en"),
+"res://assets/images/icons/album_political_system.png": PackedStringArray("res://assets/images/icons/en/album_political_system_en.png:en"),
+"res://assets/images/icons/album_political_system_grey.png": PackedStringArray("res://assets/images/icons/en/album_political_system_en_grey.png:en"),
+"res://assets/images/icons/album_religion.png": PackedStringArray("res://assets/images/icons/en/album_religion_en.png:en"),
+"res://assets/images/icons/album_religion_grey.png": PackedStringArray("res://assets/images/icons/en/album_religion_en_grey.png:en"),
+"res://assets/images/icons/album_reptiles.png": PackedStringArray("res://assets/images/icons/en/album_reptiles_en.png:en"),
+"res://assets/images/icons/album_reptiles_grey.png": PackedStringArray("res://assets/images/icons/en/album_reptiles_en_grey.png:en"),
+"res://assets/images/icons/album_rivers_lakes.png": PackedStringArray("res://assets/images/icons/en/album_rivers_lakes_en.png:en"),
+"res://assets/images/icons/album_rivers_lakes_grey.png": PackedStringArray("res://assets/images/icons/en/album_rivers_lakes_en_grey.png:en"),
+"res://assets/images/icons/album_sculpture.png": PackedStringArray("res://assets/images/icons/en/album_sculpture_en.png:en"),
+"res://assets/images/icons/album_sculpture_grey.png": PackedStringArray("res://assets/images/icons/en/album_sculpture_en_grey.png:en"),
+"res://assets/images/icons/album_sports.png": PackedStringArray("res://assets/images/icons/en/album_sports_en.png:en"),
+"res://assets/images/icons/album_sports_grey.png": PackedStringArray("res://assets/images/icons/en/album_sports_en_grey.png:en"),
+"res://assets/images/icons/album_symbols.png": PackedStringArray("res://assets/images/icons/en/album_symbols_en.png:en"),
+"res://assets/images/icons/album_symbols_grey.png": PackedStringArray("res://assets/images/icons/en/album_symbols_en_grey.png:en"),
+"res://assets/images/icons/album_textures.png": PackedStringArray("res://assets/images/icons/en/album_textures_en.png:en"),
+"res://assets/images/icons/album_textures_grey.png": PackedStringArray("res://assets/images/icons/en/album_textures_en_grey.png:en"),
+"res://assets/images/icons/album_transport_industry.png": PackedStringArray("res://assets/images/icons/en/album_transport_industry_en.png:en"),
+"res://assets/images/icons/album_transport_industry_grey.png": PackedStringArray("res://assets/images/icons/en/album_transport_industry_en_grey.png:en"),
+"res://assets/images/icons/album_transportation.png": PackedStringArray("res://assets/images/icons/en/album_transportation_en.png:en"),
+"res://assets/images/icons/album_transportation_grey.png": PackedStringArray("res://assets/images/icons/en/album_transportation_en_grey.png:en"),
+"res://assets/images/icons/album_trees.png": PackedStringArray("res://assets/images/icons/en/album_trees_en.png:en"),
+"res://assets/images/icons/album_trees_grey.png": PackedStringArray("res://assets/images/icons/en/album_trees_en_grey.png:en"),
+"res://assets/images/icons/album_war_military.png": PackedStringArray("res://assets/images/icons/en/album_war_military_en.png:en"),
+"res://assets/images/icons/album_war_military_grey.png": PackedStringArray("res://assets/images/icons/en/album_war_military_en_grey.png:en"),
+"res://assets/images/icons/album_western_painting.png": PackedStringArray("res://assets/images/icons/en/album_western_painting_en.png:en"),
+"res://assets/images/icons/album_western_painting_grey.png": PackedStringArray("res://assets/images/icons/en/album_western_painting_en_grey.png:en"),
+"res://assets/images/icons/album_workplace.png": PackedStringArray("res://assets/images/icons/en/album_workplace_en.png:en"),
+"res://assets/images/icons/album_workplace_grey.png": PackedStringArray("res://assets/images/icons/en/album_workplace_en_grey.png:en"),
+"res://assets/images/icons/album_world_heritage.png": PackedStringArray("res://assets/images/icons/en/album_world_heritage_en.png:en"),
+"res://assets/images/icons/album_world_heritage_grey.png": PackedStringArray("res://assets/images/icons/en/album_world_heritage_en_grey.png:en"),
+"res://assets/images/icons/album_world_history.png": PackedStringArray("res://assets/images/icons/en/album_world_history_en.png:en"),
+"res://assets/images/icons/album_world_history_grey.png": PackedStringArray("res://assets/images/icons/en/album_world_history_en_grey.png:en"),
+"res://assets/images/ui/main/main_bg.jpg": PackedStringArray("res://assets/images/ui/main/main_bg_en.jpg:en"),
+"res://assets/images/ui/main/main_bg.ogv": PackedStringArray("res://assets/images/ui/main/main_bg_en.ogv:en"),
+"res://assets/images/ui/main/main_bg_landscape.jpg": PackedStringArray("res://assets/images/ui/main/main_bg_landscape_en.jpg:en"),
+"res://assets/images/ui/main/main_bg_landscape.ogv": PackedStringArray("res://assets/images/ui/main/main_bg_landscape_en.ogv:en"),
+"res://assets/images/ui/nonogram/help_panel.png": PackedStringArray("res://assets/images/ui/nonogram/help_panel_en.png:en"),
+"res://assets/images/ui/nonogram/nonogram_finish_label.png": PackedStringArray("res://assets/images/ui/nonogram/nonogram_finish_label_en.png:en")
+}
+locale/translations=PackedStringArray("res://data/language/en.mo", "res://data/language/zh_CN.mo")
+locale/translations_pot_files=PackedStringArray("res://scenes/album_detail.tscn", "res://scenes/badge_button.tscn", "res://scenes/book_button.tscn", "res://scenes/book_shelf.tscn", "res://scenes/cell_color.tscn", "res://scenes/col_hint.tscn", "res://scenes/exit_confirm_popup.tscn", "res://scenes/game_over_popup.tscn", "res://scenes/help_popup.tscn", "res://scenes/main_menu.tscn", "res://scenes/nonogram_scene.tscn", "res://scenes/row_hint.tscn", "res://scenes/settings_popup.tscn", "res://scripts/autoload/animation_manager.gd", "res://scripts/autoload/audio_manager.gd", "res://scripts/autoload/dlc_manager.gd", "res://scripts/autoload/game_manager.gd", "res://scripts/autoload/nonogram_manager.gd", "res://scripts/autoload/orientation_manager.gd", "res://scripts/autoload/toast_manager.gd", "res://scripts/core/background_manager.gd", "res://scripts/data/album_data.gd", "res://scripts/data/bookshelf_data.gd", "res://scripts/data/puzzle_data.gd", "res://scripts/nonogram/cell_color.gd", "res://scripts/nonogram/col_hint.gd", "res://scripts/nonogram/error_icon.gd", "res://scripts/nonogram/help_popup.gd", "res://scripts/nonogram/hp_node.gd", "res://scripts/nonogram/minimap.gd", "res://scripts/nonogram/nonogram_camera.gd", "res://scripts/nonogram/nonogram_grid.gd", "res://scripts/nonogram/nonogram_scene.gd", "res://scripts/nonogram/nonogram_solver.gd", "res://scripts/nonogram/row_hint.gd", "res://scripts/ui/album_detail.gd", "res://scripts/ui/badge_button.gd", "res://scripts/ui/book_button.gd", "res://scripts/ui/book_shelf.gd", "res://scripts/ui/exit_confirm_popup.gd", "res://scripts/ui/game_over_popup.gd", "res://scripts/ui/main_menu.gd", "res://scripts/ui/settings_popup.gd", "res://scripts/ui/touch_progress_indicator.gd")
 
 [rendering]
 

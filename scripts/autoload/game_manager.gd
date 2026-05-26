@@ -83,6 +83,7 @@ func _ready() -> void:
 	load_game()
 	if OrientationManager:
 		OrientationManager.set_auto_rotate(settings.get("auto_rotate", true))
+	_apply_language(current_language)
 
 
 func preload_all_data() -> void:
@@ -90,38 +91,38 @@ func preload_all_data() -> void:
 		preload_finished.emit()
 		return
 
-	preload_progress.emit(0, 100, "加载书架数据...")
+	preload_progress.emit(0, 100, tr("加载书架数据..."))
 	BookshelfDataScript.load_bookshelves()
 	await get_tree().process_frame
 
-	preload_progress.emit(5, 100, "加载相册数据...")
+	preload_progress.emit(5, 100, tr("加载相册数据..."))
 	var album_ids = AlbumDataScript.get_all_album_ids()
 	var album_count = album_ids.size()
 	for i in range(album_count):
 		AlbumDataScript.load_pictures(album_ids[i])
 		if i % 5 == 4 or i == album_count - 1:
 			var pct = 5 + int(float(i + 1) / float(album_count) * 55.0)
-			preload_progress.emit(pct, 100, "加载相册数据... %d%%" % int(float(i + 1) / float(album_count) * 100))
+			preload_progress.emit(pct, 100, tr("加载相册数据... %d%%") % int(float(i + 1) / float(album_count) * 100))
 			await get_tree().process_frame
 
-	preload_progress.emit(65, 100, "构建关卡索引...")
+	preload_progress.emit(65, 100, tr("构建关卡索引..."))
 	PuzzleData.build_puzzle_index()
 	await get_tree().process_frame
 
-	preload_progress.emit(70, 100, "计算完成度...")
+	preload_progress.emit(70, 100, tr("计算完成度..."))
 	await _build_completion_cache_async()
 	await get_tree().process_frame
 
-	preload_progress.emit(80, 100, "生成图标...")
+	preload_progress.emit(80, 100, tr("生成图标..."))
 	_preload_album_icons(album_ids)
 	await get_tree().process_frame
 
-	preload_progress.emit(90, 100, "检查资源...")
+	preload_progress.emit(90, 100, tr("检查资源..."))
 	AlbumDataScript.preload_album_images_check(album_ids)
 	_preload_album_unlock_status(album_ids)
 	await get_tree().process_frame
 
-	preload_progress.emit(100, 100, "准备就绪")
+	preload_progress.emit(100, 100, tr("准备就绪"))
 	await get_tree().process_frame
 
 	data_preloaded = true
@@ -670,6 +671,7 @@ func save_game() -> void:
 		"animation_shown_albums": animation_shown_albums,
 		"album_picture_index": album_picture_index,
 		"settings": settings,
+		"language": current_language,
 	}
 	var file = FileAccess.open(_save_path, FileAccess.WRITE)
 	if file:
@@ -711,6 +713,8 @@ func load_game() -> void:
 		for key in settings:
 			if loaded_settings.has(key):
 				settings[key] = loaded_settings[key]
+	if data.has("language"):
+		current_language = int(data["language"])
 	if version < 3:
 		_migrate_old_save(data)
 	_ensure_default_progress()
@@ -732,6 +736,26 @@ func _migrate_old_save(data: Dictionary) -> void:
 
 func _ensure_default_progress() -> void:
 	pass
+
+
+func _apply_language(language: int) -> void:
+	match language:
+		Language.CHINESE:
+			TranslationServer.set_locale("zh_CN")
+		Language.ENGLISH:
+			TranslationServer.set_locale("en")
+
+
+func get_localized(data: Dictionary, key: String) -> Variant:
+	if current_language == Language.ENGLISH:
+		var en_key = key + "_en"
+		if data.has(en_key):
+			var val = data[en_key]
+			if val != "" and val != null:
+				return val
+	if data.has(key):
+		return data[key]
+	return ""
 
 
 func _get_first_album_id() -> String:

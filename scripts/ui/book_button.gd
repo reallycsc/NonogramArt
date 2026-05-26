@@ -40,7 +40,7 @@ func setup(data: Dictionary) -> void:
 		self_modulate = Color(0.4, 0.4, 0.4)
 		book_icon.texture = GameManager.get_album_icon_grey(album_id)
 		book_icon.modulate = Color(0.4, 0.4, 0.4)
-		status_label.text = "未解锁"
+		status_label.text = tr("未解锁")
 		status_label.add_theme_color_override("font_color", Color.WHITE)
 	elif not AlbumData.is_album_content_available(album_id):
 		lock_label.hide()
@@ -55,10 +55,10 @@ func setup(data: Dictionary) -> void:
 			dlc_download.hide()
 			progress_bar.show()
 			progress_label.show()
-			status_label.text = "下载中..."
+			status_label.text = tr("下载中...")
 			status_label.add_theme_color_override("font_color", Color(0.3, 0.6, 1.0))
 		else:
-			status_label.text = "点击下载"
+			status_label.text = tr("点击下载")
 			status_label.add_theme_color_override("font_color", Color(0.3, 0.8, 0.3))
 	else:
 		lock_label.hide()
@@ -76,11 +76,8 @@ func setup(data: Dictionary) -> void:
 					texture_pressed = BTN_PRESSED	
 					modulate = Color(0.5, 0.5, 0.5)
 					scale = Vector2(0.95, 0.95)
-					status_label.text = "已完成"
-					status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
-				else:
-					status_label.text = "已完成"
-					status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
+				status_label.text = tr("已完成")
+				status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
 			else:
 				status_label.text = "%d%%" % int(completion * 100)
 				status_label.add_theme_color_override("font_color", Color.WHITE)
@@ -145,7 +142,7 @@ func show_download_started() -> void:
 func show_download_failed() -> void:
 	progress_bar.hide()
 	progress_label.hide()
-	status_label.text = "点击下载"
+	status_label.text = tr("点击下载")
 	status_label.add_theme_color_override("font_color", Color(0.3, 0.8, 0.3))
 	dlc_download.show()
 
@@ -161,7 +158,7 @@ func _on_book_button_pressed() -> void:
 		return
 	var missing = AlbumData.check_missing_resources(album_id)
 	if not missing.is_empty():
-		ToastManager.show_toast("缺少: " + ", ".join(missing))
+		ToastManager.show_toast(tr("缺少: ") + ", ".join(missing))
 		return
 	AudioManager.play_sfx("click")
 	GameManager.pending_album_id = album_id

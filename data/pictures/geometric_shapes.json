@@ -16,7 +16,10 @@
       ],
       "order": 0,
       "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_000_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Hollow Square",
+      "summary_en": "",
+      "full_text_en": "The square is the most fundamental geometric shape, with four equal sides and four right angles."
     },
     {
       "id": "geometric_shapes_001",
@@ -33,7 +36,10 @@
       ],
       "order": 1,
       "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_001_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Solid Triangle",
+      "summary_en": "",
+      "full_text_en": "The triangle is the simplest polygon, composed of three sides."
     },
     {
       "id": "geometric_shapes_002",
@@ -50,7 +56,10 @@
       ],
       "order": 2,
       "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_002_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Cross Shape",
+      "summary_en": "",
+      "full_text_en": "The cross shape consists of two vertically intersecting line segments, a typical representative of symmetrical figures."
     },
     {
       "id": "geometric_shapes_003",
@@ -67,7 +76,10 @@
       ],
       "order": 3,
       "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_003_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Diamond",
+      "summary_en": "",
+      "full_text_en": "The diamond is a parallelogram with four equal sides, possessing perfect symmetry."
     },
     {
       "id": "geometric_shapes_004",
@@ -84,7 +96,10 @@
       ],
       "order": 4,
       "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_004_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Concentric Squares",
+      "summary_en": "",
+      "full_text_en": "Concentric squares consist of multiple nested squares, demonstrating the hierarchical structure of shapes."
     },
     {
       "id": "geometric_shapes_005",
@@ -101,7 +116,10 @@
       ],
       "order": 5,
       "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_005_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Arrow",
+      "summary_en": "",
+      "full_text_en": "The arrow is a directional shape composed of a triangle and a rectangle, widely used in daily life."
     },
     {
       "id": "geometric_shapes_006",
@@ -118,7 +136,10 @@
       ],
       "order": 6,
       "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_006_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Heart Shape",
+      "summary_en": "",
+      "full_text_en": "The heart shape is a symbolic figure expressing love and emotion, formed by two curves intersecting at the top."
     },
     {
       "id": "geometric_shapes_007",
@@ -135,7 +156,10 @@
       ],
       "order": 7,
       "pixel_image": "res://assets/images/illustrations/geometric_shapes/geometric_shapes_007_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Star Shape",
+      "summary_en": "",
+      "full_text_en": "The star shape is a symmetrical figure composed of multiple triangles arranged around a center point, symbolizing hope and dreams."
     }
   ]
 }

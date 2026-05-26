@@ -1,16 +1,18 @@
-# 《符号标志》画册内容规划
+# 《符号标志》Symbols and Signs 画册内容规划
 
 ## 画册信息
 
 | 属性 | 内容 |
 | ---- | ---- |
 | 序号 | 64 |
+| 英文名 | Symbols and Signs |
 | 书架 | 综合素材 |
+| 书架英文名 | General Materials |
 | 图片数 | 60 |
 | 分块数/图 | 6 |
 | 谜题数 | 360（常规288 + 专家72） |
 | 难度配置 | 10×10~25×25 |
-| 参考著作 | 罗兰·巴特《符号学原理》 |
+| 参考著作 | 茨冈《符号学原理》 |
 
 ## 难度设计说明
 
@@ -47,86 +49,86 @@
 
 | 章节 | 章节名称 | 章节英文名 | 图片数 | 徽章样式 |
 | ---- | -------- | ---------- | ------ | -------- |
-| 第1章 | 交通标志 | Traffic Signs | 20 | 圆形徽章，底色紫罗兰，中央太极阴阳，边缘八卦纹饰 |
-| 第2章 | 文化符号 | Cultural Symbols | 20 | 圆形徽章，底色湖蓝，中央@符号，边缘二进制码纹饰 |
-| 第3章 | 设计标志 | Design Marks | 20 | 圆形徽章，底色深红，中央铅笔三角尺，边缘方格纹饰 |
+| 第1章 | 交通标志 | Traffic Signs | 20 | 圆形徽章，底色深蓝，中央停车标志，边缘箭头纹饰 |
+| 第2章 | 文化符号 | Cultural Symbols | 20 | 圆形徽章，底色朱红，中央太极阴阳，边缘祥云纹饰 |
+| 第3章 | 设计标志 | Design Marks | 20 | 圆形徽章，底色银灰，中央几何图形，边缘网格纹饰 |
 
 ## 图片内容规划
 
-### 第1章：交通标志（20张）
+### 第1章：交通标志 Traffic Signs（20张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 1 | 第1章 | 太极阴阳图 | 黑白鱼形图案首尾相抱，阴中有阳阳中有阴，太极图是中华哲学的核心符号。阴阳相生相克动态平衡，万物负阴而抱阳。 | symbols_000.jpg | 10×10 |
-| 2 | 第1章 | 八卦方位图 | 乾坤震巽坎离艮兑八卦代表天地雷风水火山泽，排列组合成六十四卦。八卦是古人对自然现象的符号抽象，易经用卦象推演变化。 | symbols_001.jpg | 10×10 |
-| 3 | 第1章 | 十字架信仰 | 十字架从刑具变为救赎的象征，基督教最神圣的标志。十字架代表牺牲与重生，横竖交汇连接天与地。 | symbols_002.jpg | 10×10 |
-| 4 | 第1章 | 新月伊斯兰 | 弯月和星辰是伊斯兰的标志，清真寺穹顶上新月高悬。新月象征新的开始和信仰的光辉，历法以月相定月份。 | symbols_003.jpg | 10×10 |
-| 5 | 第1章 | 大卫之星 | 六角星由两个等边三角形交叠而成，是犹太教和以色列的标志。大卫之星象征天地合一，向上的三角指向神向下指向人。 | symbols_004.jpg | 10×10 |
-| 6 | 第1章 | 卍字吉祥 | 卍字符号在佛教中代表吉祥万德，佛像胸前常刻此符号。卍字是太阳和火的象征，在多种古文明中独立出现。 | symbols_005.jpg | 10×10 |
-| 7 | 第1章 | 莲花清净 | 莲花出淤泥而不染，佛教以莲花象征清净觉悟。佛菩萨端坐莲台，莲花从污泥中绽放代表超越苦难达到觉悟。 | symbols_006.jpg | 10×10 |
-| 8 | 第1章 | 法轮常转 | 八辐法轮代表佛教八正道，法轮常转象征佛法永不停息。佛陀初转法轮在鹿野苑，从此觉悟之道传遍世界。 | symbols_007.jpg | 10×10 |
-| 9 | 第1章 | 道符天书 | 道教符箓用朱砂在黄纸上书写神秘符号，驱邪祈福沟通天地。符箓是道法的载体，笔画曲折如天书凡人不可解。 | symbols_008.jpg | 10×10 |
-| 10 | 第1章 | 龙凤呈祥 | 龙为百鳞之长凤为百鸟之王，龙凤配对象征阴阳和谐帝王后妃。龙凤是中华文明最尊贵的图腾，龙飞凤舞喜庆吉祥。 | symbols_009.jpg | 10×10 |
-| 11 | 第1章 | 五角星光芒 | 五角星在多国国旗上闪耀，五角代表五行或五大洲，金星象征光明。五角星中隐藏黄金比例，几何之美赋予象征力量。 | symbols_010.jpg | 10×10 |
-| 12 | 第1章 | 和平鸽橄榄 | 毕加索画的白鸽衔橄榄枝成为和平标志，源自诺亚方舟放鸽探陆的传说。和平鸽是反战的号角，白鸽飞翔战火熄灭。 | symbols_011.jpg | 10×10 |
-| 13 | 第1章 | 红十字救助 | 白底红十字是国际人道主义标志，日内瓦公约保护其不受攻击。红十字标志中立公正，战场上看到红十字就看到希望。 | symbols_012.jpg | 10×10 |
-| 14 | 第1章 | 奥运五环 | 五色圆环相扣代表五大洲团结，奥林匹克精神超越国界。五环从左到右蓝黄黑绿蓝，每环一种颜色至少出现在一国国旗上。 | symbols_013.jpg | 10×10 |
-| 15 | 第1章 | 骷髅警示 | 骷髅交叉骨是危险和毒物的通用警示标志，海盗旗上也用此符号。骷髅提醒死亡近在咫尺，警示标志用恐惧守护安全。 | symbols_014.jpg | 10×10 |
-| 16 | 第1章 | 心形爱情 | 红色心形是爱情的通用符号，情人节卡片和婚礼装饰随处可见。心形可能源自植物种子形状，如今已成为爱的代名词。 | symbols_015.jpg | 10×10 |
-| 17 | 第1章 | 无穷符号∞ | 莫比乌斯带扭成的∞符号代表无穷无尽，数学中无限的概念令人敬畏。无穷大不是数而是方向，有限心智触碰无限边界。 | symbols_016.jpg | 10×10 |
-| 18 | 第1章 | 等号平衡 | 两条平行短线表示相等，等号是数学最基本的关系符号。等号连接左右两端，平衡是数学和物理的共同追求。 | symbols_017.jpg | 15×15 |
-| 19 | 第1章 | 箭头方向 | 箭头指向目标方向，交通标志和界面设计中箭头引导视线和行动。箭头是最直观的方向指示，从原始狩猎到现代导航。 | symbols_018.jpg | 15×15 |
-| 20 | 第1章 | 对勾确认 | 对勾标记正确完成和通过，考试和待办事项中对勾带来满足感。对勾是肯定的符号，一笔画出的认可简单有力。 | symbols_019.jpg | 15×15 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 1 | 第1章 | 禁令标志红色 | 红色圆圈加斜杠表示禁止，停车让行和限速标志都是红色。红色是危险和禁止的信号，在所有文化中都代表停止和警告。 | Prohibition Signs: Red | Red circles with slashes indicate prohibition; stop, yield, and speed limit signs are all red. Red is the signal of danger and prohibition, representing stop and warning across all cultures. | symbols_000.jpg | 10×10 |
+| 2 | 第1章 | 警告标志黄色 | 黄色三角形内画着弯道和施工图案，提醒驾驶员前方危险。黄色是注意和警示的颜色，在交通标志中最醒目。 | Warning Signs: Yellow | Yellow triangles contain curves and construction patterns, alerting drivers to hazards ahead. Yellow is the color of attention and warning, the most eye-catching in traffic signs. | symbols_001.jpg | 10×10 |
+| 3 | 第1章 | 指示标志蓝色 | 蓝色圆形表示必须执行，直行和右转标志指引方向。蓝色是指令和指引的颜色，冷静而权威。 | Mandatory Signs: Blue | Blue circles indicate mandatory actions; straight-ahead and right-turn signs direct the way. Blue is the color of instruction and guidance, calm and authoritative. | symbols_002.jpg | 10×10 |
+| 4 | 第1章 | 指路标志绿色 | 绿色长方形标示高速公路和目的地距离，让驾驶者知道方向和距离。绿色是通行和方向的颜色，在高速公路上最常见。 | Direction Signs: Green | Green rectangles indicate highways and destination distances, letting drivers know direction and distance. Green is the color of passage and direction, most common on highways. | symbols_003.jpg | 10×10 |
+| 5 | 第1章 | 停车标志八角 | 红色八角形停车标志是全球通用的交通标志，看到必须停车。八角形在交通标志中独占停车含义，形状本身就是信息。 | Stop Sign: Octagon | The red octagonal stop sign is a universally recognized traffic sign; you must stop when you see it. The octagon exclusively means stop in traffic signs; the shape itself is the message. | symbols_004.jpg | 10×10 |
+| 6 | 第1章 | 让行标志倒三角 | 倒三角形让行标志表示必须减速让其他车辆先行。倒三角的尖角朝下暗示降速和退让，形状传达优先级。 | Yield Sign: Inverted Triangle | The inverted triangle yield sign means you must slow down and let other vehicles go first. The downward-pointing tip suggests deceleration and yielding; the shape conveys priority. | symbols_005.jpg | 10×10 |
+| 7 | 第1章 | 速度限制圆形 | 圆形红框内数字表示最高限速，蓝圈白字表示最低限速。速度限制标志用数字精确控制车速，是道路安全的量化标准。 | Speed Limit: Circle | Numbers inside red-bordered circles indicate maximum speed limits; blue circles with white numbers indicate minimum speed limits. Speed limit signs precisely control vehicle speed with numbers, the quantitative standard of road safety. | symbols_006.jpg | 10×10 |
+| 8 | 第1章 | 人行横道斑马 | 白色斑马线条纹标记行人过街位置，菱形预告前方有人行横道。斑马线是行人的安全通道，车辆必须礼让行人。 | Pedestrian Crossing: Zebra | White zebra stripes mark pedestrian crossing locations; diamonds warn of crossings ahead. Zebra crossings are pedestrians' safe passages; vehicles must yield to pedestrians. | symbols_007.jpg | 10×10 |
+| 9 | 第1章 | 铁路道口交叉 | 交叉形标志警告前方铁路道口，火车优先通行。铁路道口是公路和铁路的交汇点，事故后果严重必须格外小心。 | Railway Crossing: Cross | Cross-shaped signs warn of railway crossings ahead; trains have priority. Railway crossings are where road and rail meet; accident consequences are severe, requiring extra caution. | symbols_008.jpg | 10×10 |
+| 10 | 第1章 | 禁止停车叉号 | 红色叉号表示禁止停车，红色单斜杠表示禁止长时间停车。停车限制标志管理路侧空间，保证道路通行效率。 | No Parking: Cross Mark | Red cross marks mean no parking; red single slashes mean no long-term parking. Parking restriction signs manage roadside space, ensuring road traffic efficiency. | symbols_009.jpg | 10×10 |
+| 11 | 第1章 | 单行道箭头 | 白色箭头在蓝色长方形上指示单行方向，逆行违法。单行道箭头是城市交通的指挥棒，简化路口冲突提高通行效率。 | One-Way: Arrow | White arrows on blue rectangles indicate one-way direction; going against traffic is illegal. One-way arrows are the batons of urban traffic, simplifying intersection conflicts and improving efficiency. | symbols_010.jpg | 10×10 |
+| 12 | 第1章 | 高速公路编号 | 绿色盾形标志上白色数字是高速公路编号，红底白字是国道编号。编号系统让驾驶者快速识别道路等级和方向。 | Highway Numbering | White numbers on green shield signs are highway numbers; white numbers on red backgrounds are national road numbers. The numbering system lets drivers quickly identify road class and direction. | symbols_011.jpg | 10×10 |
+| 13 | 第1章 | 机场标志指引 | 蓝色圆形内白色飞机图标指引机场方向，航站楼和登机口用字母编号。机场标志系统是旅客的导航图，清晰指引不迷路。 | Airport Signs: Guidance | White airplane icons inside blue circles guide the way to airports; terminals and gates are lettered. Airport signage systems are travelers' navigation maps, clearly guiding without getting lost. | symbols_012.jpg | 10×10 |
+| 14 | 第1章 | 消防标志红色 | 红色方形内白色图案标示灭火器和消防栓位置，紧急时救命。消防标志是建筑安全的生命线，火灾时快速找到消防设备。 | Fire Safety Signs: Red | White symbols inside red squares mark fire extinguisher and hydrant locations; life-saving in emergencies. Fire safety signs are the lifeline of building safety; quickly finding firefighting equipment during fires. | symbols_013.jpg | 10×10 |
+| 15 | 第1章 | 安全出口绿色 | 绿色长方形内白色奔跑人形标示安全出口，火灾时逃生方向。安全出口标志是建筑的救命灯，黑暗中绿色光芒指引生路。 | Emergency Exit: Green | White running figures inside green rectangles mark emergency exits; escape direction during fires. Emergency exit signs are buildings' lifesaving lights; green glow in darkness guides the way to survival. | symbols_014.jpg | 10×10 |
+| 16 | 第1章 | 危险品标志菱形 | 菱形标志内图案和编号标示危险品种类，火焰腐蚀和骷髅各代表一类。危险品标志是化学品的身份证，运输和储存必须标识。 | Hazardous Materials: Diamond | Patterns and numbers inside diamond signs indicate hazardous material types; flame, corrosion, and skull each represent a category. Hazardous material signs are chemicals' ID cards; transport and storage must be labeled. | symbols_015.jpg | 10×10 |
+| 17 | 第1章 | 管道标识色带 | 工业管道用颜色色带标识介质，红色消防水黄色燃气绿色给水。管道色带是工厂的血管标签，快速识别防止误操作。 | Pipeline Identification: Color Bands | Industrial pipes use color bands to identify media; red for fire water, yellow for gas, green for supply water. Pipeline color bands are the factory's vessel labels; quick identification prevents misoperation. | symbols_016.jpg | 10×10 |
+| 18 | 第1章 | 电力警示闪电 | 黄色三角形内黑色闪电标志警告高压危险，红色禁止攀登铁塔。电力警示标志是生命的保护线，触电是瞬间致命的危险。 | Electrical Warning: Lightning | Black lightning inside yellow triangles warns of high voltage danger; red prohibits climbing towers. Electrical warning signs are lifelines; electrocution is an instantly fatal danger. | symbols_017.jpg | 10×10 |
+| 19 | 第1章 | 施工标志橙色 | 橙色菱形标志警告前方施工，锥桶和围挡引导车辆绕行。施工标志是临时交通管理工具，橙色在白天和夜间都醒目。 | Construction Signs: Orange | Orange diamond signs warn of construction ahead; cones and barriers guide vehicles around. Construction signs are temporary traffic management tools; orange is conspicuous day and night. | symbols_018.jpg | 10×10 |
+| 20 | 第1章 | 残疾人专用蓝 | 蓝色方形内白色轮椅图标标示残疾人专用车位和通道。无障碍标志是文明的标尺，为行动不便者提供平等便利。 | Accessibility: Blue | White wheelchair icons inside blue squares mark accessible parking and pathways. Accessibility signs are the measure of civilization, providing equal convenience for those with mobility challenges. | symbols_019.jpg | 10×10 |
 
-### 第2章：文化符号（20张）
+### 第2章：文化符号 Cultural Symbols（20张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 21 | 第2章 | 叉号否定 | 叉号标记错误拒绝和关闭，红叉在答题卡上意味着失分。叉号是否定的符号，两条交叉线斩断错误。 | symbols_020.jpg | 15×15 |
-| 22 | 第2章 | 星号标注 | 星号标注脚注和重点，五角星形在文本中引人注目。星号是注意力的信号，小小标记蕴含重要信息。 | symbols_021.jpg | 15×15 |
-| 23 | 第2章 | 井号标签 | 井号在社交媒体中作为话题标签，#标签聚合相关内容。井号从音乐升号到电话键到话题标签，符号随时代进化。 | symbols_022.jpg | 15×15 |
-| 24 | 第2章 | @符号连接 | @符号连接用户和域名，电子邮件地址中at表示在某处。@从商业单价符号变为互联网标志，一个符号连接全世界。 | symbols_023.jpg | 15×15 |
-| 25 | 第2章 | 美元符货币 | 美元符号S上加竖线，可能源自西班牙比索的缩写PS叠写。美元符号是资本主义的图腾，全球金融体系的通用语言。 | symbols_024.jpg | 15×15 |
-| 26 | 第2章 | 欧元符统一 | 欧元符号C加横线灵感来自希腊字母epsilon，象征欧洲文明根基。欧元符号是欧洲一体化的标志，统一货币统一市场。 | symbols_025.jpg | 15×15 |
-| 27 | 第2章 | 人民币符¥ | 人民币符号Y加横线，取自元的拼音首字母。人民币符号是中国经济的标志，国际化进程中¥走向世界。 | symbols_026.jpg | 15×15 |
-| 28 | 第2章 | 百分号比例 | 百分号%表示每一百份中的份额，折扣利率和统计数据中无处不在。百分号让比例直观，数字加符号一目了然。 | symbols_027.jpg | 15×15 |
-| 29 | 第2章 | 度数符号° | 度数符号标注角度和温度，天气预报和地图上都离不开它。度数量化旋转和冷热，小圆圈承载大信息。 | symbols_028.jpg | 15×15 |
-| 30 | 第2章 | 和号&连接 | 和号&是拉丁语et的连写，表示和与连接。&符号在品牌名称和设计中优雅登场，一笔连写两个字母的书法之美。 | symbols_029.jpg | 15×15 |
-| 31 | 第2章 | 段落标记§ | 段落标记§在法律文件中标注条款，双S形状源自拉丁语signum。法律条文用§精确定位，符号让长文档有序可查。 | symbols_030.jpg | 15×15 |
-| 32 | 第2章 | 版权符号© | 版权符号C加圆圈声明著作权，作品上标注©表示权利保留。版权符号是创作者的盾牌，一个圆圈保护智力成果。 | symbols_031.jpg | 15×15 |
-| 33 | 第2章 | 注册商标® | 注册商标R加圆圈表示已注册，法律保护独占使用。注册商标是品牌的护城河，圆圈中的R代表法律认可。 | symbols_032.jpg | 20×20 |
-| 34 | 第2章 | 音符旋律 | 五线谱上音符高低排列记录旋律，全音符二分音符四分音符时值递减。音符是音乐的文字，五线谱让声音可见。 | symbols_033.jpg | 20×20 |
-| 35 | 第2章 | 棋盘格子 | 黑白交替的方格是国际象棋棋盘，也是时尚界经典图案。棋盘格象征对弈和策略，黑白分明中蕴含无限变化。 | symbols_034.jpg | 20×20 |
-| 36 | 第2章 | 条形码识别 | 黑白条纹按规则排列编码数字信息，激光扫描瞬间读取。条形码是商品的身份证，一维码到二维码信息容量倍增。 | symbols_035.jpg | 20×20 |
-| 37 | 第2章 | 二维码矩阵 | 二维码用黑白方阵存储信息，手机扫码即可访问网址。二维码是移动互联网的入口，三个定位角让任何角度都能识别。 | symbols_036.jpg | 20×20 |
-| 38 | 第2章 | 交通信号灯 | 红停绿行黄警示，三色信号灯指挥交通秩序。交通灯是城市的心跳，红黄绿三色成为全球通用的行为指令。 | symbols_037.jpg | 20×20 |
-| 39 | 第2章 | 国旗色彩 | 各国国旗用颜色和图案表达民族精神，红白蓝代表自由平等博爱。国旗是国家的面孔，颜色和符号承载历史与信仰。 | symbols_038.jpg | 20×20 |
-| 40 | 第2章 | 印章篆刻 | 方寸之间刻出姓名和图案，朱红印泥盖在书画上既是签名也是鉴赏。印章是中国独特的身份标识，篆刻艺术方寸天地气象万千。 | symbols_039.jpg | 20×20 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 21 | 第2章 | 阴阳太极图 | 黑白双鱼形太极图代表阴阳对立统一，阴中有阳阳中有阴。太极图是中国哲学的核心符号，动态平衡是宇宙的根本法则。 | Yin-Yang Taiji Diagram | The black-and-white twin-fish Taiji diagram represents the unity of opposites in yin and yang; yin contains yang, yang contains yin. The Taiji diagram is the core symbol of Chinese philosophy; dynamic balance is the fundamental law of the universe. | symbols_020.jpg | 15×15 |
+| 22 | 第2章 | 十字架信仰 | 十字架是基督教最神圣的符号，象征耶稣的牺牲与救赎。十字架从刑具变为信仰标志，两横两竖承载着二十亿信徒的精神寄托。 | Cross: Faith | The cross is Christianity's most sacred symbol, representing Jesus's sacrifice and redemption. The cross transformed from an execution device to a symbol of faith; two beams carry the spiritual devotion of two billion believers. | symbols_021.jpg | 15×15 |
+| 23 | 第2章 | 新月伊斯兰 | 新月和星是伊斯兰文明的标志，装饰在清真寺穹顶和国旗上。新月象征新生和希望，在沙漠夜空中指引方向。 | Crescent: Islam | The crescent and star are symbols of Islamic civilization, adorning mosque domes and national flags. The crescent symbolizes renewal and hope, guiding the way in the desert night sky. | symbols_022.jpg | 15×15 |
+| 24 | 第2章 | 大卫星犹太 | 六角星由两个等边三角形叠加而成，是犹太教和以色列的标志。大卫星象征天地连接，六个尖角代表六个方向。 | Star of David: Judaism | The six-pointed star is formed by two equilateral triangles superimposed; it is the symbol of Judaism and Israel. The Star of David symbolizes the connection between heaven and earth; its six points represent six directions. | symbols_023.jpg | 15×15 |
+| 25 | 第2章 | 卍字符号古老 | 卍字符号在古印度和古希腊都出现过，本义是吉祥万德。卍字是世界上最古老的符号之一，在不同文化中有不同含义。 | Swastika: Ancient Symbol | The swastika appeared in ancient India and ancient Greece; its original meaning is auspiciousness and virtue. The swastika is one of the world's oldest symbols, carrying different meanings across cultures. | symbols_024.jpg | 15×15 |
+| 26 | 第2章 | 龙凤呈祥瑞 | 龙代表阳刚和帝王，凤代表阴柔和后妃，龙凤呈祥寓意和谐美满。龙凤是中华文明最华丽的图腾，从宫廷到民间无处不在。 | Dragon and Phoenix: Auspiciousness | The dragon represents masculine yang and the emperor; the phoenix represents feminine yin and the empress; dragon and phoenix together symbolize harmony and bliss. Dragon and phoenix are Chinese civilization's most magnificent totems, omnipresent from court to commoner. | symbols_025.jpg | 15×15 |
+| 27 | 第2章 | 四叶草幸运 | 四叶草在三叶草中概率仅万分之一，找到就是幸运。四叶草是西方最流行的幸运符号，每片叶子代表希望信心爱情和幸运。 | Four-Leaf Clover: Luck | The probability of a four-leaf clover among three-leaf ones is only one in ten thousand; finding one is lucky. The four-leaf clover is the West's most popular luck symbol; each leaf represents hope, faith, love, and luck. | symbols_026.jpg | 15×15 |
+| 28 | 第2章 | 和平鸽橄榄 | 白鸽衔橄榄枝是和平的象征，源自诺亚方舟洪水退去的传说。和平鸽是反战运动的标志，毕加索的画笔让它飞遍世界。 | Dove of Peace: Olive Branch | A white dove carrying an olive branch symbolizes peace, originating from the Noah's Ark legend of floodwaters receding. The peace dove is the symbol of anti-war movements; Picasso's brush made it fly across the world. | symbols_027.jpg | 15×15 |
+| 29 | 第2章 | 心形爱情 | 心形符号代表爱情和情感，情人节卡片和婚礼装饰上随处可见。心形虽不是真实心脏的形状，却是最通用的爱情语言。 | Heart Shape: Love | The heart symbol represents love and emotion, ubiquitous on Valentine's cards and wedding decorations. Though not the shape of a real heart, it is the most universal language of love. | symbols_028.jpg | 15×15 |
+| 30 | 第2章 | 无穷大符号 | 横置8字形无穷大符号代表无限和永恒，数学和哲学都用它。无穷大符号是有限与无限的桥梁，一眼望见永恒。 | Infinity Symbol | The sideways figure-eight infinity symbol represents the infinite and eternal; both mathematics and philosophy use it. The infinity symbol is the bridge between finite and infinite; one glance reveals eternity. | symbols_029.jpg | 15×15 |
+| 31 | 第2章 | 五线谱音乐 | 五线谱用线和间记录音高，音符在谱表上跳跃如精灵舞蹈。五线谱是音乐的语言，让声音跨越时空被精确记录和再现。 | Musical Staff: Music | The staff uses lines and spaces to record pitch; notes dance on the stave like sprites. The staff is the language of music, allowing sound to be precisely recorded and reproduced across time and space. | symbols_030.jpg | 15×15 |
+| 32 | 第2章 | 数学符号语言 | 加减乘除和等号是数学的基本语法，积分和求和号表达更深层运算。数学符号是科学的通用语言，超越文字直抵逻辑本质。 | Mathematical Symbols: Language | Plus, minus, multiply, divide, and equals are mathematics' basic grammar; integral and summation signs express deeper operations. Mathematical symbols are the universal language of science, transcending words to reach the essence of logic. | symbols_031.jpg | 20×20 |
+| 33 | 第2章 | 化学元素周期 | 元素周期表将一百一十八种元素按原子序数排列，族和周期揭示化学规律。元素周期表是化学的地图，门捷列夫的梦想成真。 | Chemical Elements: Periodic Table | The periodic table arranges 118 elements by atomic number; groups and periods reveal chemical patterns. The periodic table is chemistry's map; Mendeleev's dream come true. | symbols_032.jpg | 20×20 |
+| 34 | 第2章 | 天气符号云图 | 太阳云朵雨滴和雪花用简笔图标表示天气状况，天气预报必备。天气符号让气象数据一目了然，从报纸到手机无处不在。 | Weather Symbols: Cloud Charts | Sun, clouds, raindrops, and snowflakes are represented in simple icons for weather conditions; essential for weather forecasts. Weather symbols make meteorological data clear at a glance; ubiquitous from newspapers to phones. | symbols_033.jpg | 20×20 |
+| 35 | 第2章 | 货币符号价值 | 美元符号欧元符号和人民币符号代表不同经济体系的价值度量。货币符号是经济全球化的文字，交易中比语言更直接。 | Currency Symbols: Value | Dollar, euro, and yuan symbols represent value measurement in different economic systems. Currency symbols are the writing of economic globalization; more direct than language in transactions. | symbols_034.jpg | 20×20 |
+| 36 | 第2章 | 国徽盾形纹章 | 国徽用盾形纹章承载国家象征，鹰狮龙和麦穗各寓深意。国徽是国家身份的视觉宣言，每个元素都是历史的浓缩。 | National Emblem: Heraldic Shield | National emblems use heraldic shields to carry national symbols; eagles, lions, dragons, and wheat ears each carry deep meaning. National emblems are the visual declaration of national identity; every element is a distillation of history. | symbols_035.jpg | 20×20 |
+| 37 | 第2章 | 奥运五环团结 | 五个交错的彩色圆环代表五大洲团结，奥林匹克精神的视觉象征。奥运五环是全球最广为人知的标志之一，超越政治和语言。 | Olympic Rings: Unity | Five interlocking colored rings represent the unity of five continents; the visual symbol of the Olympic spirit. The Olympic rings are among the world's most recognized symbols, transcending politics and language. | symbols_036.jpg | 20×20 |
+| 38 | 第2章 | 条形码商品 | 黑白条纹编码商品信息，激光扫描瞬间读取价格和库存。条形码是商品经济的身份证，一维码进化到二维码信息量倍增。 | Barcode: Merchandise | Black and white stripes encode product information; laser scanning reads prices and inventory instantly. Barcodes are the ID cards of the commercial economy; evolving from one-dimensional to two-dimensional codes multiplies information capacity. | symbols_037.jpg | 20×20 |
+| 39 | 第2章 | 二维码矩阵 | 黑白方块矩阵存储网址和支付信息，手机一扫即达。二维码是移动互联网的入口，从支付到广告无处不在。 | QR Code: Matrix | Black and white square matrices store URLs and payment information; one phone scan and you're there. QR codes are the gateway to the mobile internet; ubiquitous from payments to advertising. | symbols_038.jpg | 20×20 |
+| 40 | 第2章 | 版权注册标记 | 圆圈C代表版权圆圈R代表注册商标，保护知识产权。版权标记是创作者的盾牌，法律赋予创作成果独占权利。 | Copyright and Registration Marks | Circled C represents copyright; circled R represents registered trademark; protecting intellectual property. Copyright marks are creators' shields; the law grants exclusive rights to creative works. | symbols_039.jpg | 20×20 |
 
-### 第3章：设计标志（20张）
+### 第3章：设计标志 Design Marks（20张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 41 | 第3章 | 象形文字起源 | 甲骨文用线条描绘事物形状，日如太阳月如弯刀山如三峰。象形文字是文字的童年，画物为字是人类最自然的记录方式。 | symbols_040.jpg | 20×20 |
-| 42 | 第3章 | 数学符号体系 | 加减乘除等号不等号，数学符号体系让抽象运算可视化。莱布尼茨发明的微积分符号沿用至今，好符号让思维更高效。 | symbols_041.jpg | 20×20 |
-| 43 | 第3章 | 化学元素符号 | H代表氢O代表氧Fe代表铁，元素符号源自拉丁名缩写。化学符号是物质的字母表，一百一十八个字母写出整个物质世界。 | symbols_042.jpg | 20×20 |
-| 44 | 第3章 | 音乐谱号标记 | 高音谱号像卷曲的花体字母G，低音谱号像胖胖的耳朵，谱号确定五线谱音高。谱号是音乐的钥匙，打开正确的音高之门。 | symbols_043.jpg | 20×20 |
-| 45 | 第3章 | 地图图例 | 地图图例用小符号代表河流道路和城市，蓝线是河红线是路圆点是城。图例是地图的密码本，符号让复杂地理信息一目了然。 | symbols_044.jpg | 20×20 |
-| 46 | 第3章 | 电路图符号 | 电阻用锯齿线电容用两平行线，电路符号让复杂电路一目了然。电路图是电子工程师的语言，标准符号跨越国界通用。 | symbols_045.jpg | 20×20 |
-| 47 | 第3章 | 流程图菱形 | 矩形是处理步骤菱形是判断条件箭头连接流程，流程图让逻辑清晰可见。流程图是思维的地图，复杂决策化为简单图形。 | symbols_046.jpg | 20×20 |
-| 48 | 第3章 | 危险品标志 | 火焰骷髅腐蚀和爆炸四种危险品标志，橙红底色警示运输安全。危险品标志用图形跨越语言障碍，一图胜千言守护安全。 | symbols_047.jpg | 20×20 |
-| 49 | 第3章 | 回收标志循环 | 三个箭头首尾相连形成莫比乌斯环，回收标志号召循环利用。回收标志是环保的徽章，三个箭头代表减量复用回收三原则。 | symbols_048.jpg | 25×25 |
-| 50 | 第3章 | 无障碍标识 | 蓝色方块中白色轮椅图案是无障碍标识，提醒为残障人士提供便利。无障碍标识是包容的象征，城市因无障碍而温暖。 | symbols_049.jpg | 25×25 |
-| 51 | 第3章 | 紧急出口标识 | 绿色小人跑向出口的标识在公共场所指引逃生方向。紧急出口标识是生命的路标，黑暗中绿色光芒指引安全。 | symbols_050.jpg | 25×25 |
-| 52 | 第3章 | 辐射三叶标志 | 三叶形辐射标志黄底黑图警示电离辐射危险，核设施和放射源旁必须张贴。三叶标志是核能的警示，敬畏辐射守护安全。 | symbols_051.jpg | 25×25 |
-| 53 | 第3章 | 生物危害标志 | 三个内扣圆弧组成的生物危害标志警示病原微生物危险。生物危害标志是实验室的警戒线，接触前请三思。 | symbols_052.jpg | 25×25 |
-| 54 | 第3章 | 电源开关符号 | 圆圈加竖线是电源开关符号，1代表开0代表关，合二为一表示待机。电源符号是数字时代的开关，一键掌控能量流动。 | symbols_053.jpg | 25×25 |
-| 55 | 第3章 | 标点符号断句 | 逗号停顿句号结束问号质疑叹号感叹，标点让文字有了呼吸和语气。标点符号是书面语的节奏，没有标点的文字如同没有休止符的乐谱。 | symbols_054.jpg | 25×25 |
-| 56 | 第3章 | 数字符号计数 | 阿拉伯数字零到九组合表示一切数，位置制让大数表达简洁。数字符号是人类最伟大的发明之一，零的概念让位值制成为可能。 | symbols_055.jpg | 25×25 |
-| 57 | 第3章 | 字母表音符号 | 二十六个拉丁字母组合出英语所有单词，字母是语音的视觉编码。字母表音文字比象形文字更灵活，有限符号无限组合。 | symbols_056.jpg | 25×25 |
-| 58 | 第3章 | 天干地支纪年 | 甲乙丙丁戊己庚辛壬癸十天干配子丑寅卯十二地支，六十甲子循环纪年。天干地支是中国的计时系统，干支纪年法延续数千年。 | symbols_057.jpg | 25×25 |
-| 59 | 第3章 | 星座符号天文 | 白羊座符号像V形羊角，天蝎座符号像M带尾钩，星座符号源自古代星图。星座符号是天空的字母，黄道十二宫各有标志。 | symbols_058.jpg | 25×25 |
-| 60 | 第3章 | 炼金术符号 | 炼金术士用符号代表金属和元素，太阳符号代表金月亮代表银。炼金术符号是化学符号的前身，神秘图案中藏着科学萌芽。 | symbols_059.jpg | 25×25 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 41 | 第3章 | 回收标志循环 | 三个箭头组成的莫比乌斯环标志表示可回收，绿色代表环保。回收标志是循环经济的图腾，提醒人们资源可以再生。 | Recycling Symbol: Loop | Three arrows forming a Möbius loop indicate recyclability; green represents environmental protection. The recycling symbol is the totem of the circular economy, reminding people that resources can be regenerated. | symbols_040.jpg | 20×20 |
+| 42 | 第3章 | 能效标识等级 | 能效标识用颜色和箭头表示电器能效等级，一级最节能。能效标识引导绿色消费，买电器先看能效等级。 | Energy Efficiency Label: Rating | Energy efficiency labels use colors and arrows to indicate appliance efficiency ratings; Grade 1 is most efficient. Energy labels guide green consumption; check efficiency ratings before buying appliances. | symbols_041.jpg | 20×20 |
+| 43 | 第3章 | 有机认证标志 | 有机认证标志保证产品符合有机标准，第三方机构监督。有机标志是消费者信任的桥梁，从农田到餐桌的品质承诺。 | Organic Certification Mark | Organic certification marks guarantee products meet organic standards; third-party agencies supervise. Organic marks are the bridge of consumer trust; a quality commitment from farm to table. | symbols_042.jpg | 20×20 |
+| 44 | 第3章 | 食品安全QS | 食品生产许可证标志保证食品生产企业符合安全标准。QS标志是食品安全的准入证，没有QS标志的食品不得上市。 | Food Safety QS | Food production license marks guarantee food manufacturers meet safety standards. The QS mark is the admission ticket for food safety; foods without QS marks may not be sold. | symbols_043.jpg | 20×20 |
+| 45 | 第3章 | CE认证欧盟 | CE标志表示产品符合欧盟安全健康和环保要求，是进入欧洲市场的通行证。CE认证是国际贸易的技术壁垒也是品质保证。 | CE Certification: EU | The CE mark indicates products meet EU safety, health, and environmental requirements; it's the passport to the European market. CE certification is both a technical trade barrier and a quality guarantee in international trade. | symbols_044.jpg | 20×20 |
+| 46 | 第3章 | UL认证安全 | UL标志表示产品通过美国安全检测，是北美市场的重要认证。UL认证是产品安全的金标准，消费者看到UL标志就放心。 | UL Certification: Safety | The UL mark indicates products have passed US safety testing; it's an important certification for the North American market. UL certification is the gold standard for product safety; consumers trust the UL mark. | symbols_045.jpg | 20×20 |
+| 47 | 第3章 | CCC强制认证 | CCC标志是中国强制性产品认证，涉及安全和环保的产品必须通过。CCC认证是市场准入的门槛，保护消费者安全和健康。 | CCC Compulsory Certification | The CCC mark is China's compulsory product certification; products involving safety and environmental protection must pass it. CCC certification is the threshold for market access, protecting consumer safety and health. | symbols_046.jpg | 20×20 |
+| 48 | 第3章 | ISO标准认证 | ISO九零零一是质量管理体系标准，ISO一四零零一是环境管理体系标准。ISO认证是企业管理的国际通行证，标准化是效率的基石。 | ISO Standard Certification | ISO 9001 is the quality management system standard; ISO 14001 is the environmental management system standard. ISO certification is the international passport for enterprise management; standardization is the cornerstone of efficiency. | symbols_047.jpg | 20×20 |
+| 49 | 第3章 | Wi-Fi信号波 | 扇形波纹图标表示无线网络信号，弧线越多信号越强。Wi-Fi图标是数字时代的连接符号，有Wi-Fi的地方就有世界。 | Wi-Fi Signal Waves | The fan-shaped ripple icon indicates wireless network signal; more arcs mean stronger signal. The Wi-Fi icon is the connection symbol of the digital age; where there's Wi-Fi, there's the world. | symbols_048.jpg | 25×25 |
+| 50 | 第3章 | 蓝牙连接标识 | 蓝牙标志源自北欧如尼文哈拉尔王的缩写，短距离无线连接。蓝牙标志是设备互联的暗号，配对成功即可传输数据。 | Bluetooth Connection Mark | The Bluetooth logo derives from the runic initials of King Harald; short-range wireless connection. The Bluetooth mark is the code for device interconnection; pairing successful means data transfer. | symbols_049.jpg | 25×25 |
+| 51 | 第3章 | NFC近场通信 | NFC标志表示近场通信功能，手机碰一碰即可支付和传输。NFC是物联网的触角，近距离无线通信让万物轻触即连。 | NFC Near-Field Communication | The NFC mark indicates near-field communication capability; tap your phone to pay and transfer. NFC is the antenna of IoT; near-field wireless communication lets everything connect with a light touch. | symbols_050.jpg | 25×25 |
+| 52 | 第3章 | USB通用接口 | USB标志由四部分组成象征通用性，是电脑外设的标准接口。USB是数字设备的万能插头，Type-C正反可插终结了方向困扰。 | USB Universal Interface | The USB logo consists of four parts symbolizing universality; it's the standard interface for computer peripherals. USB is the universal plug for digital devices; Type-C is reversible, ending orientation frustration. | symbols_051.jpg | 25×25 |
+| 53 | 第3章 | HDMI高清接口 | HDMI标志表示高清多媒体接口，一根线同时传输视频和音频。HDMI是家庭影院的纽带，4K和8K信号通过它无损传输。 | HDMI HD Interface | The HDMI mark indicates high-definition multimedia interface; one cable transmits both video and audio. HDMI is the link of home theaters; 4K and 8K signals transmit losslessly through it. | symbols_052.jpg | 25×25 |
+| 54 | 第3章 | 电池正负极 | 电池符号长线代表正极短线代表负极，电路图中的标准表示。电池符号是电学的起点，正负极之间的电势差驱动电流。 | Battery Positive and Negative | The battery symbol's long line represents the positive terminal, short line the negative; standard notation in circuit diagrams. The battery symbol is the starting point of electricity; the potential difference between terminals drives current. | symbols_053.jpg | 25×25 |
+| 55 | 第3章 | 接地保护符号 | 三个递减水平线表示接地，保护设备和人身安全。接地符号是电气安全的基石，将漏电引入大地避免触电。 | Grounding Protection Symbol | Three decreasing horizontal lines represent grounding, protecting equipment and personal safety. The grounding symbol is the cornerstone of electrical safety; directing leakage current into the earth prevents electrocution. | symbols_054.jpg | 25×25 |
+| 56 | 第3章 | 光纤通信标识 | 光纤标志用光波纹表示高速数据传输，玻璃纤维中光速传递信息。光纤是信息高速公路的路面，一根光纤承载T级数据。 | Fiber Optic Communication Mark | Fiber optic marks use light ripples to indicate high-speed data transmission; information travels at light speed through glass fibers. Fiber optics are the pavement of the information highway; a single fiber carries terabit-level data. | symbols_055.jpg | 25×25 |
+| 57 | 第3章 | 卫星定位GPS | GPS标志用卫星和信号波表示全球定位，精度可达米级。卫星定位是导航的基础，从车载导航到手机地图都依赖GPS。 | Satellite Positioning GPS | GPS marks use satellites and signal waves to indicate global positioning; accuracy reaches meter-level. Satellite positioning is the foundation of navigation; from car navigation to phone maps, all depend on GPS. | symbols_056.jpg | 25×25 |
+| 58 | 第3章 | 辐射警告三叶 | 紫色三叶形标志警告电离辐射危险，核设施和放射源必须标识。辐射三叶是看不见危险的警示，辐射无色无味却可致命。 | Radiation Warning: Trefoil | The purple trefoil sign warns of ionizing radiation danger; nuclear facilities and radioactive sources must be labeled. The radiation trefoil warns of invisible danger; radiation is colorless, odorless, yet potentially lethal. | symbols_057.jpg | 25×25 |
+| 59 | 第3章 | 生物安全标志 | 生物安全标志用圆形和重叠圆形表示微生物危险等级。生物安全标志是实验室的警戒线，病原微生物必须严密封存。 | Biohazard Symbol | Biohazard signs use circles and overlapping circles to indicate microbial danger levels. Biohazard signs are the laboratory's warning line; pathogenic microorganisms must be strictly contained. | symbols_058.jpg | 25×25 |
+| 60 | 第3章 | 磁场警告标识 | 磁场警告标志提醒强磁场区域，心脏起搏器和金属植入者禁止入内。磁场警告是MRI检查室的安全门，强磁场吸铁如吸纸。 | Magnetic Field Warning Sign | Magnetic field warning signs alert to strong magnetic field areas; pacemaker and metal implant patients are prohibited. Magnetic field warnings are the safety gate of MRI rooms; strong magnetic fields attract iron like paper. | symbols_059.jpg | 25×25 |
 
 **图片规格：**
 - 分辨率：2496×1664（3:2宽高比）

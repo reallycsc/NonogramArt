@@ -232,11 +232,11 @@ static func check_missing_resources(album_id: String) -> Array:
 						pictures_with_puzzle += 1
 						break
 	if missing_images:
-		missing.append("图片资源")
+		missing.append(TranslationServer.tr("图片资源"))
 	if pictures_with_puzzle < pictures.size():
 		missing_puzzles = true
 	if missing_puzzles:
-		missing.append("数织关卡")
+		missing.append(TranslationServer.tr("数织关卡"))
 	var album = get_album(album_id)
 	var bgm_path = album.get("bgm", "")
 	if bgm_path == "":

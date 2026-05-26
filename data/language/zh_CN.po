@@ -1,0 +1,282 @@
+# LANGUAGE translation for 数织艺术 for the following files:
+# res://scenes/album_detail.tscn
+# res://scenes/badge_button.tscn
+# res://scenes/book_button.tscn
+# res://scenes/book_shelf.tscn
+# res://scenes/cell_color.tscn
+# res://scenes/col_hint.tscn
+# res://scenes/exit_confirm_popup.tscn
+# res://scenes/game_over_popup.tscn
+# res://scenes/help_popup.tscn
+# res://scenes/main_menu.tscn
+# res://scenes/nonogram_scene.tscn
+# res://scenes/row_hint.tscn
+# res://scenes/settings_popup.tscn
+# res://scripts/autoload/animation_manager.gd
+# res://scripts/autoload/audio_manager.gd
+# res://scripts/autoload/dlc_manager.gd
+# res://scripts/autoload/game_manager.gd
+# res://scripts/autoload/nonogram_manager.gd
+# res://scripts/autoload/orientation_manager.gd
+# res://scripts/autoload/toast_manager.gd
+# res://scripts/core/background_manager.gd
+# res://scripts/data/album_data.gd
+# res://scripts/data/bookshelf_data.gd
+# res://scripts/data/puzzle_data.gd
+# res://scripts/nonogram/cell_color.gd
+# res://scripts/nonogram/col_hint.gd
+# res://scripts/nonogram/error_icon.gd
+# res://scripts/nonogram/help_popup.gd
+# res://scripts/nonogram/hp_node.gd
+# res://scripts/nonogram/minimap.gd
+# res://scripts/nonogram/nonogram_camera.gd
+# res://scripts/nonogram/nonogram_grid.gd
+# res://scripts/nonogram/nonogram_scene.gd
+# res://scripts/nonogram/nonogram_solver.gd
+# res://scripts/nonogram/row_hint.gd
+# res://scripts/ui/album_detail.gd
+# res://scripts/ui/badge_button.gd
+# res://scripts/ui/book_button.gd
+# res://scripts/ui/book_shelf.gd
+# res://scripts/ui/exit_confirm_popup.gd
+# res://scripts/ui/game_over_popup.gd
+# res://scripts/ui/main_menu.gd
+# res://scripts/ui/settings_popup.gd
+# res://scripts/ui/touch_progress_indicator.gd
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 数织艺术\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#: scenes/album_detail.tscn
+msgid "图片标题最多八字"
+msgstr "图片标题最多八字"
+
+#: scenes/album_detail.tscn
+msgid ""
+"图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图"
+"片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片"
+"介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介"
+"绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍"
+"图片介绍图片介绍"
+msgstr ""
+"图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图"
+"片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片"
+"介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介"
+"绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍图片介绍"
+"图片介绍图片介绍"
+
+#: scenes/album_detail.tscn
+msgid "999/999"
+msgstr "999/999"
+
+#: scenes/album_detail.tscn
+msgid "上一页"
+msgstr "上一页"
+
+#: scenes/album_detail.tscn
+msgid "下一页"
+msgstr "下一页"
+
+#: scenes/badge_button.tscn
+msgid "10/15"
+msgstr "10/15"
+
+#: scenes/book_button.tscn
+msgid "🔒"
+msgstr "🔒"
+
+#: scenes/book_button.tscn scripts/ui/book_button.gd:43
+msgid "未解锁"
+msgstr "未解锁"
+
+#: scenes/book_shelf.tscn
+msgid "书架标题"
+msgstr "书架标题"
+
+#: scenes/exit_confirm_popup.tscn
+msgid "退 出"
+msgstr "退 出"
+
+#: scenes/exit_confirm_popup.tscn scripts/ui/exit_confirm_popup.gd:12
+msgid "确定要退出游戏吗？"
+msgstr "确定要退出游戏吗？"
+
+#: scenes/exit_confirm_popup.tscn
+msgid "取 消"
+msgstr "取 消"
+
+#: scenes/exit_confirm_popup.tscn
+msgid "确 定"
+msgstr "确 定"
+
+#: scenes/game_over_popup.tscn
+msgid "游戏结束"
+msgstr "游戏结束"
+
+#: scenes/game_over_popup.tscn
+msgid "生命值耗尽，请再试一次吧！"
+msgstr "生命值耗尽，请再试一次吧！"
+
+#: scenes/game_over_popup.tscn
+msgid "退出"
+msgstr "退出"
+
+#: scenes/game_over_popup.tscn
+msgid "重试"
+msgstr "重试"
+
+#: scenes/help_popup.tscn
+msgid "帮  助"
+msgstr "帮  助"
+
+#: scenes/main_menu.tscn
+msgid "加载中..."
+msgstr "加载中..."
+
+#: scenes/main_menu.tscn
+msgid "开始游戏"
+msgstr "开始游戏"
+
+#: scenes/nonogram_scene.tscn
+msgid "画面大小"
+msgstr "画面大小"
+
+#: scenes/nonogram_scene.tscn
+msgid "直接完成（测试用)"
+msgstr "直接完成（测试用)"
+
+#: scenes/nonogram_scene.tscn
+msgid "完 成"
+msgstr "完 成"
+
+#: scenes/settings_popup.tscn
+msgid "设 置"
+msgstr "设 置"
+
+#: scenes/settings_popup.tscn
+msgid "音乐"
+msgstr "音乐"
+
+#: scenes/settings_popup.tscn
+msgid "80%"
+msgstr "80%"
+
+#: scenes/settings_popup.tscn
+msgid "音效"
+msgstr "音效"
+
+#: scenes/settings_popup.tscn
+msgid "100%"
+msgstr "100%"
+
+#: scenes/settings_popup.tscn
+msgid "屏幕旋转"
+msgstr "屏幕旋转"
+
+#: scenes/settings_popup.tscn
+msgid "语言"
+msgstr "语言"
+
+#: scenes/settings_popup.tscn
+msgid "简体中文"
+msgstr "简体中文"
+
+#: scenes/settings_popup.tscn
+msgid "English"
+msgstr "English"
+
+#: scripts/autoload/game_manager.gd:94
+msgid "加载书架数据..."
+msgstr "加载书架数据..."
+
+#: scripts/autoload/game_manager.gd:98
+msgid "加载相册数据..."
+msgstr "加载相册数据..."
+
+#: scripts/autoload/game_manager.gd:105
+msgid "加载相册数据... %d%%"
+msgstr "加载相册数据... %d%%"
+
+#: scripts/autoload/game_manager.gd:108
+msgid "构建关卡索引..."
+msgstr "构建关卡索引..."
+
+#: scripts/autoload/game_manager.gd:112
+msgid "计算完成度..."
+msgstr "计算完成度..."
+
+#: scripts/autoload/game_manager.gd:116
+msgid "生成图标..."
+msgstr "生成图标..."
+
+#: scripts/autoload/game_manager.gd:120
+msgid "检查资源..."
+msgstr "检查资源..."
+
+#: scripts/autoload/game_manager.gd:125
+msgid "准备就绪"
+msgstr "准备就绪"
+
+#: scripts/data/album_data.gd:235
+msgid "图片资源"
+msgstr "图片资源"
+
+#: scripts/data/album_data.gd:239
+msgid "数织关卡"
+msgstr "数织关卡"
+
+#: scripts/nonogram/nonogram_scene.gd:520
+msgid "确定要返回画册吗？"
+msgstr "确定要返回画册吗？"
+
+#: scripts/ui/album_detail.gd:1079
+msgid "完成前一张图片即可解锁"
+msgstr "完成前一张图片即可解锁"
+
+#: scripts/ui/book_button.gd:58
+msgid "下载中..."
+msgstr "下载中..."
+
+#: scripts/ui/book_button.gd:61 scripts/ui/book_button.gd:145
+msgid "点击下载"
+msgstr "点击下载"
+
+#: scripts/ui/book_button.gd:79
+msgid "已完成"
+msgstr "已完成"
+
+#: scripts/ui/book_button.gd:138
+msgid "0%"
+msgstr "0%"
+
+#: scripts/ui/book_button.gd:161
+msgid "缺少: "
+msgstr "缺少: "
+
+#: scripts/ui/book_shelf.gd:149
+msgid "完成前一本画册即可解锁"
+msgstr "完成前一本画册即可解锁"
+
+#: scripts/ui/book_shelf.gd:162
+msgid "正在下载中，请稍候..."
+msgstr "正在下载中，请稍候..."
+
+#: scripts/ui/book_shelf.gd:174
+msgid "下载失败: "
+msgstr "下载失败: "
+
+msgid "数织艺术"
+msgstr "数织艺术"

@@ -1,9 +1,9 @@
 {
   "id": "geometric_shapes_002",
-  "name": "geometric_shapes_002",
+  "name": "十字形",
   "picture_id": "geometric_shapes_002",
   "size": 5,
-  "difficulty": "tutorial",
+  "difficulty": "easy",
   "solution": [
     [
       0,
@@ -75,7 +75,16 @@
       1
     ]
   ],
-  "hint_cells": [],
+  "hint_cells": [
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      2
+    ]
+  ],
   "source_rect": {
     "x": 0,
     "y": 0,

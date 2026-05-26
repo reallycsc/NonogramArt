@@ -1,11 +1,13 @@
-# 《休闲娱乐》画册内容规划
+# 《休闲娱乐》(Entertainment) 画册内容规划
 
 ## 画册信息
 
 | 属性 | 内容 |
 | ---- | ---- |
 | 序号 | 51 |
+| 英文名 | Entertainment |
 | 书架 | 生活社会 |
+| 书架英文名 | Life & Society |
 | 图片数 | 65 |
 | 分块数/图 | 6 |
 | 谜题数 | 390（常规312 + 专家78） |
@@ -54,90 +56,90 @@
 
 ## 图片内容规划
 
-### 第1章：传统娱乐（16张）
+### 第1章：传统娱乐（Traditional Entertainment）（16张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 1 | 第1章 | 京剧粉墨登场 | 京剧舞台上花脸武生威风凛凛，青衣水袖翩翩起舞，锣鼓点子铿锵有力。京剧是国粹艺术，唱念做打融汇两百年戏曲精华。 | entertainment_000.jpg | 10×10 |
-| 2 | 第1章 | 相声逗哏捧哏 | 相声舞台上逗哏妙语连珠，捧哏适时接茬，观众笑声不断掌声雷动。相声是语言的艺术，说学逗唱四门功课缺一不可。 | entertainment_001.jpg | 10×10 |
-| 3 | 第1章 | 话剧舞台人生 | 话剧舞台上演员真情投入表演，灯光变换营造氛围，观众沉浸在剧情中。话剧是现场表演的魅力，每一场都是不可复制的艺术。 | entertainment_002.jpg | 10×10 |
-| 4 | 第1章 | 电影银幕造梦 | 电影院里巨幕上光影流转，导演用镜头语言讲述故事，观众在黑暗中经历悲欢离合。电影是造梦的艺术，二十四帧每秒创造无限可能。 | entertainment_003.jpg | 10×10 |
-| 5 | 第1章 | 电视剧长篇叙事 | 电视剧用数十集篇幅展开故事，人物命运跌宕起伏，观众追剧欲罢不能。电视剧是日常陪伴的艺术，长篇叙事深入刻画人物内心。 | entertainment_004.jpg | 10×10 |
-| 6 | 第1章 | 综艺节目欢乐 | 综艺节目现场嘉宾互动游戏，主持人妙语连珠，观众笑声此起彼伏。综艺是娱乐大众的节目形式，轻松愉快是最大追求。 | entertainment_005.jpg | 10×10 |
-| 7 | 第1章 | 纪录片真实记录 | 纪录片摄影师蹲守数月拍摄野生动物，镜头记录真实发生的自然故事。纪录片是真实的艺术，用影像守护即将消失的世界。 | entertainment_006.jpg | 10×10 |
-| 8 | 第1章 | 动画奇想世界 | 动画师在数位板上一帧帧绘制角色动作，让画笔下的世界活起来。动画是想象力不受束缚的艺术，任何奇想都能变为画面。 | entertainment_007.jpg | 10×10 |
-| 9 | 第1章 | 交响乐管弦齐鸣 | 交响乐团百人同台演奏，弦乐管乐打击乐交织成壮丽乐章，指挥棒引领音乐起伏。交响乐是西方音乐的巅峰形式，和声之美动人心魄。 | entertainment_008.jpg | 10×10 |
-| 10 | 第1章 | 钢琴黑白键舞 | 钢琴家指尖在黑白琴键上飞舞，肖邦夜曲如月光倾泻，李斯特狂想曲如暴风骤雨。钢琴是乐器之王，十个手指驾驭整个交响世界。 | entertainment_009.jpg | 10×10 |
-| 11 | 第1章 | 小提琴弦上歌唱 | 小提琴手运弓在弦上拉出悠扬旋律，揉弦颤音如人声歌唱，琴身共鸣温暖动人。小提琴是弦乐之后，四根弦诉说千种情感。 | entertainment_010.jpg | 10×10 |
-| 12 | 第1章 | 吉他弹唱民谣 | 民谣歌手抱着吉他轻扫和弦，低吟浅唱旅途故事，篝火旁听众静静聆听。吉他是流浪者的乐器，六根弦承载自由与远方。 | entertainment_011.jpg | 10×10 |
-| 13 | 第1章 | 古筝流水高山 | 古筝演奏者双手拨弦，高山流水之音从二十一根弦上流淌而出。古筝是华夏最古老的弹拨乐器，一曲高山流水觅知音。 | entertainment_012.jpg | 10×10 |
-| 14 | 第1章 | 二胡弦上泣诉 | 二胡演奏者拉弓推弓，二泉映月的旋律如泣如诉，两根弦道尽人间悲欢。二胡是最接近人声的乐器，一把胡琴拉出万种愁。 | entertainment_013.jpg | 10×10 |
-| 15 | 第1章 | 流行音乐潮流 | 流行歌手在万人体育场开演唱会，荧光棒汇成星海，歌迷合唱响彻夜空。流行音乐是时代的脉搏，每首歌都是一代人的青春记忆。 | entertainment_014.jpg | 10×10 |
-| 16 | 第1章 | 摇滚热血嘶吼 | 摇滚乐队在舞台上电吉他失真轰鸣，鼓手重击镲片，主唱嘶吼出青春呐喊。摇滚是反叛与自由的声音，音浪冲破一切束缚。 | entertainment_015.jpg | 10×10 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 1 | 第1章 | 京剧粉墨登场 | 京剧舞台上花脸武生威风凛凛，青衣水袖翩翩起舞，锣鼓点子铿锵有力。京剧是国粹艺术，唱念做打融汇两百年戏曲精华。 | Peking Opera Debut | On the Peking opera stage, the painted-face warrior is imposing, the dan role's water sleeves flutter gracefully, gongs and drums beat powerfully. Peking opera is the quintessence of Chinese art, singing, reciting, acting, and acrobatics blending two centuries of theatrical essence. | entertainment_000.jpg | 10×10 |
+| 2 | 第1章 | 相声逗哏捧哏 | 相声舞台上逗哏妙语连珠，捧哏适时接茬，观众笑声不断掌声雷动。相声是语言的艺术，说学逗唱四门功课缺一不可。 | Crosstalk Humor and Straight Man | On the crosstalk stage, the humorist delivers witty lines, the straight man times responses perfectly, the audience laughs and applauds endlessly. Crosstalk is the art of language; speaking, imitating, teasing, and singing are four essential skills. | entertainment_001.jpg | 10×10 |
+| 3 | 第1章 | 话剧舞台人生 | 话剧舞台上演员真情投入表演，灯光变换营造氛围，观众沉浸在剧情中。话剧是现场表演的魅力，每一场都是不可复制的艺术。 | Drama Stage Life | On the drama stage, actors perform with genuine emotion, lighting changes create atmosphere, the audience immerses in the story. Drama is the charm of live performance; every show is an unrepeatable art. | entertainment_002.jpg | 10×10 |
+| 4 | 第1章 | 电影银幕造梦 | 电影院里巨幕上光影流转，导演用镜头语言讲述故事，观众在黑暗中经历悲欢离合。电影是造梦的艺术，二十四帧每秒创造无限可能。 | Cinema Dream-Making | In the cinema, light and shadow flow on the giant screen, directors tell stories through lens language, audiences experience joys and sorrows in the dark. Cinema is the art of dream-making; twenty-four frames per second create infinite possibilities. | entertainment_003.jpg | 10×10 |
+| 5 | 第1章 | 电视剧长篇叙事 | 电视剧用数十集篇幅展开故事，人物命运跌宕起伏，观众追剧欲罢不能。电视剧是日常陪伴的艺术，长篇叙事深入刻画人物内心。 | TV Drama Long-Form Narrative | TV dramas unfold stories over dozens of episodes, characters' destinies rising and falling, viewers hooked unable to stop. TV drama is the art of daily companionship; long-form narrative deeply portrays characters' inner worlds. | entertainment_004.jpg | 10×10 |
+| 6 | 第1章 | 综艺节目欢乐 | 综艺节目现场嘉宾互动游戏，主持人妙语连珠，观众笑声此起彼伏。综艺是娱乐大众的节目形式，轻松愉快是最大追求。 | Variety Show Joy | At the variety show, guests play interactive games, the host delivers witty lines, audience laughter rises and falls. Variety shows are entertainment for the masses; lighthearted fun is the greatest pursuit. | entertainment_005.jpg | 10×10 |
+| 7 | 第1章 | 纪录片真实记录 | 纪录片摄影师蹲守数月拍摄野生动物，镜头记录真实发生的自然故事。纪录片是真实的艺术，用影像守护即将消失的世界。 | Documentary True Recording | Documentary photographers wait months to film wildlife, the lens recording real natural stories as they happen. Documentary is the art of truth, using imagery to protect vanishing worlds. | entertainment_006.jpg | 10×10 |
+| 8 | 第1章 | 动画奇想世界 | 动画师在数位板上一帧帧绘制角色动作，让画笔下的世界活起来。动画是想象力不受束缚的艺术，任何奇想都能变为画面。 | Animation Fantasy World | Animators draw character movements frame by frame on digital tablets, bringing the world under their brushes to life. Animation is art with unbounded imagination; any fantasy can become a picture. | entertainment_007.jpg | 10×10 |
+| 9 | 第1章 | 交响乐管弦齐鸣 | 交响乐团百人同台演奏，弦乐管乐打击乐交织成壮丽乐章，指挥棒引领音乐起伏。交响乐是西方音乐的巅峰形式，和声之美动人心魄。 | Symphony Orchestra Unison | A hundred-member symphony orchestra performs together, strings, winds, and percussion weaving into a magnificent movement, the baton guiding the music's rise and fall. Symphony is the pinnacle of Western music; the beauty of harmony moves the soul. | entertainment_008.jpg | 10×10 |
+| 10 | 第1章 | 钢琴黑白键舞 | 钢琴家指尖在黑白琴键上飞舞，肖邦夜曲如月光倾泻，李斯特狂想曲如暴风骤雨。钢琴是乐器之王，十个手指驾驭整个交响世界。 | Piano Black and White Key Dance | The pianist's fingers fly across black and white keys, Chopin's nocturnes like moonlight pouring down, Liszt's rhapsodies like storms. The piano is the king of instruments; ten fingers command an entire symphonic world. | entertainment_009.jpg | 10×10 |
+| 11 | 第1章 | 小提琴弦上歌唱 | 小提琴手运弓在弦上拉出悠扬旋律，揉弦颤音如人声歌唱，琴身共鸣温暖动人。小提琴是弦乐之后，四根弦诉说千种情感。 | Violin Singing on Strings | The violinist draws the bow across strings producing melodious tunes, vibrato like human singing, the body's resonance warm and moving. The violin is the queen of strings; four strings tell a thousand emotions. | entertainment_010.jpg | 10×10 |
+| 12 | 第1章 | 吉他弹唱民谣 | 民谣歌手抱着吉他轻扫和弦，低吟浅唱旅途故事，篝火旁听众静静聆听。吉他是流浪者的乐器，六根弦承载自由与远方。 | Guitar Folk Singing | The folk singer holds the guitar gently strumming chords, softly singing travel stories, listeners by the campfire listening quietly. The guitar is the wanderer's instrument; six strings carry freedom and distant horizons. | entertainment_011.jpg | 10×10 |
+| 13 | 第1章 | 古筝流水高山 | 古筝演奏者双手拨弦，高山流水之音从二十一根弦上流淌而出。古筝是华夏最古老的弹拨乐器，一曲高山流水觅知音。 | Guzheng Flowing Water High Mountains | The guzheng player plucks strings with both hands, the sound of high mountains and flowing water pouring from twenty-one strings. The guzheng is China's most ancient plucked instrument; one melody seeks a kindred spirit. | entertainment_012.jpg | 10×10 |
+| 14 | 第1章 | 二胡弦上泣诉 | 二胡演奏者拉弓推弓，二泉映月的旋律如泣如诉，两根弦道尽人间悲欢。二胡是最接近人声的乐器，一把胡琴拉出万种愁。 | Erhu Weeping on Strings | The erhu player pushes and pulls the bow, the melody of Moon Reflected on Second Spring like sobbing and lamenting, two strings telling all of life's joys and sorrows. The erhu is the instrument closest to the human voice; one huqin plays ten thousand sorrows. | entertainment_013.jpg | 10×10 |
+| 15 | 第1章 | 流行音乐潮流 | 流行歌手在万人体育场开演唱会，荧光棒汇成星海，歌迷合唱响彻夜空。流行音乐是时代的脉搏，每首歌都是一代人的青春记忆。 | Pop Music Trend | Pop singers hold concerts in ten-thousand-seat stadiums, glow sticks forming a sea of stars, fans singing along filling the night sky. Pop music is the pulse of the era; every song is a generation's youth memory. | entertainment_014.jpg | 10×10 |
+| 16 | 第1章 | 摇滚热血嘶吼 | 摇滚乐队在舞台上电吉他失真轰鸣，鼓手重击镲片，主唱嘶吼出青春呐喊。摇滚是反叛与自由的声音，音浪冲破一切束缚。 | Rock Blood and Roar | The rock band on stage, electric guitar distortion roaring, drummer crashing cymbals, lead singer roaring youth's battle cry. Rock is the voice of rebellion and freedom; sound waves breaking all constraints. | entertainment_015.jpg | 10×10 |
 
-### 第2章：舞台艺术（16张）
+### 第2章：舞台艺术（Stage Arts）（16张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 17 | 第2章 | 爵士即兴摇摆 | 爵士乐队在小酒馆即兴演奏，萨克斯吹出慵懒旋律，钢琴手随兴加入和声。爵士乐的灵魂是即兴，每一次演奏都是独一无二的创造。 | entertainment_016.jpg | 10×10 |
-| 18 | 第2章 | 歌剧咏叹高歌 | 歌剧舞台上女高音演唱咏叹调，声音穿透管弦乐团直达剧院最后一排。歌剧是音乐与戏剧的完美结合，美声唱法震撼心灵。 | entertainment_017.jpg | 10×10 |
-| 19 | 第2章 | 芭蕾足尖起舞 | 芭蕾舞者踮起足尖旋转，天鹅湖中白裙飘逸如梦似幻，脚尖上的优雅背后是血与汗。芭蕾是舞蹈的皇冠，足尖上的艺术追求极致之美。 | entertainment_018.jpg | 15×15 |
-| 20 | 第2章 | 现代舞自由表达 | 现代舞者在空旷舞台上用身体表达内心情感，动作自由不拘一格，地心引力是对手也是伙伴。现代舞打破古典束缚，身体是最诚实的语言。 | entertainment_019.jpg | 15×15 |
-| 21 | 第2章 | 街舞街头律动 | 街舞舞者在街头随着嘻哈音乐即兴起舞，地板动作旋转定格，身体随节拍律动。街舞源自街头文化，自由表达是最高准则。 | entertainment_020.jpg | 15×15 |
-| 22 | 第2章 | 民族舞多彩风情 | 民族舞者身着盛装跳起孔雀舞，手鼓伴奏旋转裙摆如花绽放，五十六个民族各有风采。民族舞是文化的活化石，舞步中传承千年记忆。 | entertainment_021.jpg | 15×15 |
-| 23 | 第2章 | 魔术奇幻揭秘 | 魔术师挥手间白鸽从空帽中飞出，大变活人令观众目瞪口呆，手法快过眼睛。魔术是制造奇迹的艺术，眼见未必为实。 | entertainment_022.jpg | 15×15 |
-| 24 | 第2章 | 杂技惊险绝活 | 杂技演员在空中绸吊上翻飞旋转，走钢丝者手持平衡杆步步惊心。杂技是身体极限的挑战，台上一分钟台下十年功。 | entertainment_023.jpg | 15×15 |
-| 25 | 第2章 | 脱口秀单口喜剧 | 脱口秀演员手持麦克风独自站在聚光灯下，用幽默段子解构生活荒诞，观众笑声不断。脱口秀是喜剧的极简形式，一个人一支麦就是全场。 | entertainment_024.jpg | 15×15 |
-| 26 | 第2章 | 百老汇音乐剧 | 百老汇舞台上演员边唱边跳，华丽布景随场景变换，音乐剧融合戏剧音乐与舞蹈。音乐剧是综合舞台艺术，视听盛宴令人难忘。 | entertainment_025.jpg | 15×15 |
-| 27 | 第2章 | 木偶戏掌中乾坤 | 木偶师手指操控提线木偶，木偶在舞台上活灵活现地表演故事。木偶戏是掌中乾坤，十指操纵千军万马，方寸舞台演绎大千世界。 | entertainment_026.jpg | 15×15 |
-| 28 | 第2章 | 皮影戏光影传奇 | 皮影艺人在幕布后操纵彩色皮影，灯光映出剪影讲述古老传说，锣鼓伴奏。皮影戏是光影的魔术，两千年前的电影先驱。 | entertainment_027.jpg | 15×15 |
-| 29 | 第2章 | 评书醒木惊天 | 评书先生醒木一拍，惊堂木响满堂寂静，单口讲述三国水浒英雄故事。评书是口头文学的艺术，一人一扇一醒木说尽天下事。 | entertainment_028.jpg | 15×15 |
-| 30 | 第2章 | 直播互动娱乐 | 网络主播在直播间与粉丝实时互动，弹幕刷屏礼物飞舞，虚拟陪伴成为新娱乐方式。直播是互联网时代的娱乐革命，人人可参与实时互动。 | entertainment_029.jpg | 15×15 |
-| 31 | 第2章 | 游戏虚拟冒险 | 玩家戴上VR头显进入虚拟世界，手柄挥动斩杀巨龙，沉浸式体验超越现实。电子游戏是第九艺术，互动叙事创造无限可能。 | entertainment_030.jpg | 15×15 |
-| 32 | 第2章 | 密室逃脱解谜 | 密室中玩家翻找线索破解密码锁，倒计时滴答作响，团队合作是逃出关键。密室逃脱是现实版冒险游戏，逻辑推理与团队配合缺一不可。 | entertainment_031.jpg | 15×15 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 17 | 第2章 | 爵士即兴摇摆 | 爵士乐队在小酒馆即兴演奏，萨克斯吹出慵懒旋律，钢琴手随兴加入和声。爵士乐的灵魂是即兴，每一次演奏都是独一无二的创造。 | Jazz Improvisation Swing | The jazz band improvises in a small club, saxophone blowing lazy melodies, the pianist spontaneously joining harmonies. The soul of jazz is improvisation; every performance is a unique creation. | entertainment_016.jpg | 10×10 |
+| 18 | 第2章 | 歌剧咏叹高歌 | 歌剧舞台上女高音演唱咏叹调，声音穿透管弦乐团直达剧院最后一排。歌剧是音乐与戏剧的完美结合，美声唱法震撼心灵。 | Opera Aria | On the opera stage, the soprano sings an aria, her voice piercing through the orchestra to the last row of the theater. Opera is the perfect union of music and drama; bel canto singing stuns the soul. | entertainment_017.jpg | 10×10 |
+| 19 | 第2章 | 芭蕾足尖起舞 | 芭蕾舞者踮起足尖旋转，天鹅湖中白裙飘逸如梦似幻，脚尖上的优雅背后是血与汗。芭蕾是舞蹈的皇冠，足尖上的艺术追求极致之美。 | Ballet En Pointe | Ballet dancers rise on pointe and spin, white tutus floating dreamlike in Swan Lake, behind the toe-tip elegance lies blood and sweat. Ballet is the crown of dance; the art of pointe pursues ultimate beauty. | entertainment_018.jpg | 15×15 |
+| 20 | 第2章 | 现代舞自由表达 | 现代舞者在空旷舞台上用身体表达内心情感，动作自由不拘一格，地心引力是对手也是伙伴。现代舞打破古典束缚，身体是最诚实的语言。 | Modern Dance Free Expression | Modern dancers express inner emotions through bodies on an empty stage, movements free and unconstrained, gravity both adversary and partner. Modern dance breaks classical constraints; the body is the most honest language. | entertainment_019.jpg | 15×15 |
+| 21 | 第2章 | 街舞街头律动 | 街舞舞者在街头随着嘻哈音乐即兴起舞，地板动作旋转定格，身体随节拍律动。街舞源自街头文化，自由表达是最高准则。 | Street Dance Urban Rhythm | Street dancers improvise to hip-hop music on the streets, floor moves spinning and freezing, bodies grooving to the beat. Street dance originates from street culture; free expression is the highest principle. | entertainment_020.jpg | 15×15 |
+| 22 | 第2章 | 民族舞多彩风情 | 民族舞者身着盛装跳起孔雀舞，手鼓伴奏旋转裙摆如花绽放，五十六个民族各有风采。民族舞是文化的活化石，舞步中传承千年记忆。 | Folk Dance Colorful Traditions | Folk dancers in splendid costumes perform the peacock dance, hand drums accompanying spinning skirts blooming like flowers, fifty-six ethnic groups each with their charm. Folk dance is a living fossil of culture; dance steps carry millennia of memory. | entertainment_021.jpg | 15×15 |
+| 23 | 第2章 | 魔术奇幻揭秘 | 魔术师挥手间白鸽从空帽中飞出，大变活人令观众目瞪口呆，手法快过眼睛。魔术是制造奇迹的艺术，眼见未必为实。 | Magic Wonder and Revelation | The magician waves and white doves fly from an empty hat, making people appear and vanish leaving audiences stunned, sleight of hand faster than the eye. Magic is the art of creating miracles; seeing is not necessarily believing. | entertainment_022.jpg | 15×15 |
+| 24 | 第2章 | 杂技惊险绝活 | 杂技演员在空中绸吊上翻飞旋转，走钢丝者手持平衡杆步步惊心。杂技是身体极限的挑战，台上一分钟台下十年功。 | Acrobatics Thrilling Feats | Acrobats spin and fly on aerial silks, tightrope walkers step carefully with balance poles, every step heart-stopping. Acrobatics challenges physical limits; one minute on stage, ten years of practice off stage. | entertainment_023.jpg | 15×15 |
+| 25 | 第2章 | 脱口秀单口喜剧 | 脱口秀演员手持麦克风独自站在聚光灯下，用幽默段子解构生活荒诞，观众笑声不断。脱口秀是喜剧的极简形式，一个人一支麦就是全场。 | Stand-Up Comedy Solo | The stand-up comedian holds a microphone alone in the spotlight, deconstructing life's absurdities with humorous bits, the audience laughing continuously. Stand-up is the minimalist form of comedy; one person, one mic, and the whole show. | entertainment_024.jpg | 15×15 |
+| 26 | 第2章 | 百老汇音乐剧 | 百老汇舞台上演员边唱边跳，华丽布景随场景变换，音乐剧融合戏剧音乐与舞蹈。音乐剧是综合舞台艺术，视听盛宴令人难忘。 | Broadway Musical | On the Broadway stage, actors sing and dance, lavish sets transforming with scenes, musicals fusing drama, music, and dance. Musical theater is comprehensive stage art; a feast for eyes and ears, unforgettable. | entertainment_025.jpg | 15×15 |
+| 27 | 第2章 | 木偶戏掌中乾坤 | 木偶师手指操控提线木偶，木偶在舞台上活灵活现地表演故事。木偶戏是掌中乾坤，十指操纵千军万马，方寸舞台演绎大千世界。 | Puppet Show Palm Universe | Puppeteers manipulate marionettes with their fingers, puppets performing stories vividly on stage. Puppet theater is a universe in the palm; ten fingers command armies, a tiny stage enacts the vast world. | entertainment_026.jpg | 15×15 |
+| 28 | 第2章 | 皮影戏光影传奇 | 皮影艺人在幕布后操纵彩色皮影，灯光映出剪影讲述古老传说，锣鼓伴奏。皮影戏是光影的魔术，两千年前的电影先驱。 | Shadow Play Light and Shadow Legend | Shadow puppeteers manipulate colorful leather figures behind the screen, lamplight casting silhouettes telling ancient legends, gongs and drums accompanying. Shadow play is the magic of light and shadow, the film pioneer from two thousand years ago. | entertainment_027.jpg | 15×15 |
+| 29 | 第2章 | 评书醒木惊天 | 评书先生醒木一拍，惊堂木响满堂寂静，单口讲述三国水浒英雄故事。评书是口头文学的艺术，一人一扇一醒木说尽天下事。 | Storytelling Gavel Shock | The storyteller strikes the gavel, the hall falls silent, solo narration of Three Kingdoms and Water Margin hero tales. Storytelling is the art of oral literature; one person, one fan, one gavel tells all under heaven. | entertainment_028.jpg | 15×15 |
+| 30 | 第2章 | 直播互动娱乐 | 网络主播在直播间与粉丝实时互动，弹幕刷屏礼物飞舞，虚拟陪伴成为新娱乐方式。直播是互联网时代的娱乐革命，人人可参与实时互动。 | Livestream Interactive Entertainment | Online streamers interact with fans in real-time in the studio, bullet comments flooding the screen, gifts flying, virtual companionship becoming a new form of entertainment. Livestreaming is the entertainment revolution of the internet age; everyone can participate in real-time interaction. | entertainment_029.jpg | 15×15 |
+| 31 | 第2章 | 游戏虚拟冒险 | 玩家戴上VR头显进入虚拟世界，手柄挥动斩杀巨龙，沉浸式体验超越现实。电子游戏是第九艺术，互动叙事创造无限可能。 | Virtual Reality Gaming Adventure | Players don VR headsets entering virtual worlds, controllers swinging to slay dragons, immersive experiences transcending reality. Video games are the ninth art; interactive narrative creates infinite possibilities. | entertainment_030.jpg | 15×15 |
+| 32 | 第2章 | 密室逃脱解谜 | 密室中玩家翻找线索破解密码锁，倒计时滴答作响，团队合作是逃出关键。密室逃脱是现实版冒险游戏，逻辑推理与团队配合缺一不可。 | Escape Room Puzzle Solving | In the escape room, players search for clues and crack combination locks, countdown timer ticking, teamwork is the key to escape. Escape rooms are real-life adventure games; logical reasoning and team coordination are both essential. | entertainment_031.jpg | 15×15 |
 
-### 第3章：现代休闲（17张）
+### 第3章：现代休闲（Modern Leisure）（17张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 33 | 第3章 | 剧本杀角色扮演 | 剧本杀玩家围坐桌前各执角色剧本，推理凶案真相，演技与逻辑的较量。剧本杀是社交推理游戏，每个人都是嫌疑人也是侦探。 | entertainment_032.jpg | 15×15 |
-| 34 | 第3章 | 主题乐园欢乐 | 主题乐园中过山车呼啸而过，旋转木马流光溢彩，游客尖叫欢笑释放压力。主题乐园是现实版的童话世界，大人小孩都能找到快乐。 | entertainment_033.jpg | 15×15 |
-| 35 | 第3章 | 卡拉OK欢唱 | KTV包厢中朋友举杯欢唱，歌词字幕滚动，走调也唱得尽兴。卡拉OK是大众的舞台，不需要专业歌喉也能享受歌唱的快乐。 | entertainment_034.jpg | 20×20 |
-| 36 | 第3章 | 漫画分镜叙事 | 漫画家在画纸上勾勒分镜，对话框中文字推动剧情，画面定格精彩瞬间。漫画是纸上的电影，分镜节奏决定故事张力。 | entertainment_035.jpg | 20×20 |
-| 37 | 第3章 | 脱口秀播客 | 播客主播戴上耳机对着麦克风录制节目，话题从科技到生活随性漫谈。播客是声音的社交，耳朵的陪伴温暖通勤时光。 | entertainment_036.jpg | 20×20 |
-| 38 | 第3章 | 沉浸式戏剧 | 沉浸式戏剧中观众穿梭在不同房间，跟随演员近距离观看表演，自己也是剧中人。沉浸式戏剧打破舞台边界，观众与演员共享同一空间。 | entertainment_037.jpg | 20×20 |
-| 39 | 第3章 | 摄影光影定格 | 摄影师端着长焦镜头蹲守日出，快门按下瞬间光影被永久定格。摄影是光与时间的艺术，决定性瞬间转瞬即逝。 | entertainment_038.jpg | 20×20 |
-| 40 | 第3章 | 书法笔墨韵味 | 书法家提笔蘸墨，宣纸上挥毫泼墨，一撇一捺气韵生动力透纸背。书法是线条的舞蹈，笔墨间流淌千年文脉。 | entertainment_039.jpg | 20×20 |
-| 41 | 第3章 | 油画色彩堆叠 | 油画家在画布上用调色刀堆叠厚重颜料，色彩浓烈笔触奔放，远观气势磅礴。油画是色彩的交响，层层覆盖中诞生杰作。 | entertainment_040.jpg | 20×20 |
-| 42 | 第3章 | 水墨留白意境 | 水墨画家寥寥数笔勾勒远山近水，大片留白引人遐想，墨分五色浓淡相宜。水墨画是东方美学的极致，以少胜多意在画外。 | entertainment_041.jpg | 20×20 |
-| 43 | 第3章 | 雕塑刀下生命 | 雕塑家手持凿刀在大理石上敲击，石屑纷飞中人物轮廓逐渐显现，冰冷石头有了温度。雕塑是减法的艺术，去掉多余才能看见生命。 | entertainment_042.jpg | 20×20 |
-| 44 | 第3章 | 陶艺手捏成型 | 陶艺师双手在转盘上塑造泥坯，拉坯修坯上釉，窑火中泥土蜕变为瓷器。陶艺是水火土的炼金术，千度高温中诞生永恒之美。 | entertainment_043.jpg | 20×20 |
-| 45 | 第3章 | 版画刻印复制 | 版画家在木板上刻出图案，滚墨上色后铺纸拓印，黑白对比鲜明有力。版画是可复制的原创艺术，刀法力度决定画面气质。 | entertainment_044.jpg | 20×20 |
-| 46 | 第3章 | 插画叙事绘图 | 插画师在数位屏上绘制商业插画，色彩明快构图精巧，为文字赋予视觉生命。插画是文字的视觉翻译，一图胜千言。 | entertainment_045.jpg | 20×20 |
-| 47 | 第3章 | 装置艺术空间 | 装置艺术家用日常物品构建沉浸式空间，观众走进作品成为艺术的一部分。装置艺术打破观赏距离，空间本身就是作品。 | entertainment_046.jpg | 20×20 |
-| 48 | 第3章 | 行为艺术身体 | 行为艺术家用身体作为媒介，在公共空间进行即兴表演，挑战观众认知边界。行为艺术是最直接的表达，身体即语言。 | entertainment_047.jpg | 20×20 |
-| 49 | 第3章 | 数字艺术未来 | 数字艺术家用算法生成绚丽图案，AI辅助创作突破想象边界，屏幕成为新画布。数字艺术是科技与美学的融合，代码也能创造美。 | entertainment_048.jpg | 20×20 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 33 | 第3章 | 剧本杀角色扮演 | 剧本杀玩家围坐桌前各执角色剧本，推理凶案真相，演技与逻辑的较量。剧本杀是社交推理游戏，每个人都是嫌疑人也是侦探。 | Murder Mystery Role-Play | Murder mystery players sit around the table each holding character scripts, reasoning out the truth of the murder, a contest of acting and logic. Murder mystery is a social deduction game; everyone is both suspect and detective. | entertainment_032.jpg | 15×15 |
+| 34 | 第3章 | 主题乐园欢乐 | 主题乐园中过山车呼啸而过，旋转木马流光溢彩，游客尖叫欢笑释放压力。主题乐园是现实版的童话世界，大人小孩都能找到快乐。 | Theme Park Joy | In the theme park, roller coasters roar past, carousels glow with lights, visitors scream and laugh releasing stress. Theme parks are real-life fairy tale worlds; adults and children alike can find happiness. | entertainment_033.jpg | 15×15 |
+| 35 | 第3章 | 卡拉OK欢唱 | KTV包厢中朋友举杯欢唱，歌词字幕滚动，走调也唱得尽兴。卡拉OK是大众的舞台，不需要专业歌喉也能享受歌唱的快乐。 | Karaoke Singing Joy | In the KTV room, friends raise glasses and sing together, lyrics scrolling on screen, singing off-key but having the time of their lives. Karaoke is the people's stage; no professional voice needed to enjoy singing. | entertainment_034.jpg | 20×20 |
+| 36 | 第3章 | 漫画分镜叙事 | 漫画家在画纸上勾勒分镜，对话框中文字推动剧情，画面定格精彩瞬间。漫画是纸上的电影，分镜节奏决定故事张力。 | Manga Panel Storytelling | Manga artists sketch panels on paper, dialogue bubbles advancing the plot, frames capturing brilliant moments. Manga is cinema on paper; panel rhythm determines story tension. | entertainment_035.jpg | 20×20 |
+| 37 | 第3章 | 脱口秀播客 | 播客主播戴上耳机对着麦克风录制节目，话题从科技到生活随性漫谈。播客是声音的社交，耳朵的陪伴温暖通勤时光。 | Podcast Talk Show | Podcast hosts put on headphones and record shows speaking into microphones, topics ranging from tech to life in casual conversation. Podcasts are social audio; ear companionship warming commute time. | entertainment_036.jpg | 20×20 |
+| 38 | 第3章 | 沉浸式戏剧 | 沉浸式戏剧中观众穿梭在不同房间，跟随演员近距离观看表演，自己也是剧中人。沉浸式戏剧打破舞台边界，观众与演员共享同一空间。 | Immersive Theater | In immersive theater, audiences move through different rooms, following actors watching performances up close, becoming part of the story. Immersive theater breaks stage boundaries; audience and actors share the same space. | entertainment_037.jpg | 20×20 |
+| 39 | 第3章 | 摄影光影定格 | 摄影师端着长焦镜头蹲守日出，快门按下瞬间光影被永久定格。摄影是光与时间的艺术，决定性瞬间转瞬即逝。 | Photography Light Frozen | Photographers hold telephoto lenses waiting for sunrise, the shutter clicking as light and shadow are permanently frozen. Photography is the art of light and time; the decisive moment is fleeting. | entertainment_038.jpg | 20×20 |
+| 40 | 第3章 | 书法笔墨韵味 | 书法家提笔蘸墨，宣纸上挥毫泼墨，一撇一捺气韵生动力透纸背。书法是线条的舞蹈，笔墨间流淌千年文脉。 | Calligraphy Brush and Ink | Calligraphers lift brushes and dip ink, splashing bold strokes on rice paper, each stroke vibrant with spirit penetrating the paper. Calligraphy is the dance of lines; a millennium of literary heritage flows through brush and ink. | entertainment_039.jpg | 20×20 |
+| 41 | 第3章 | 油画色彩堆叠 | 油画家在画布上用调色刀堆叠厚重颜料，色彩浓烈笔触奔放，远观气势磅礴。油画是色彩的交响，层层覆盖中诞生杰作。 | Oil Painting Color Layering | Oil painters use palette knives to layer thick pigments on canvas, colors intense and brushstrokes bold, magnificent from afar. Oil painting is a symphony of colors; masterpieces born through layers of covering. | entertainment_040.jpg | 20×20 |
+| 42 | 第3章 | 水墨留白意境 | 水墨画家寥寥数笔勾勒远山近水，大片留白引人遐想，墨分五色浓淡相宜。水墨画是东方美学的极致，以少胜多意在画外。 | Ink Wash Blank Space Aesthetics | Ink wash painters sketch distant mountains and nearby waters with a few strokes, large blank spaces inviting imagination, ink in five shades from dark to light. Ink wash painting is the pinnacle of Eastern aesthetics; less is more, meaning lies beyond the painting. | entertainment_041.jpg | 20×20 |
+| 43 | 第3章 | 雕塑刀下生命 | 雕塑家手持凿刀在大理石上敲击，石屑纷飞中人物轮廓逐渐显现，冰冷石头有了温度。雕塑是减法的艺术，去掉多余才能看见生命。 | Sculpture Life Under the Chisel | Sculptors wield chisels striking marble, stone chips flying as human figures gradually emerge, cold stone gaining warmth. Sculpture is the art of subtraction; removing the excess reveals life. | entertainment_042.jpg | 20×20 |
+| 44 | 第3章 | 陶艺手捏成型 | 陶艺师双手在转盘上塑造泥坯，拉坯修坯上釉，窑火中泥土蜕变为瓷器。陶艺是水火土的炼金术，千度高温中诞生永恒之美。 | Ceramics Hand-Shaped | Ceramic artists shape clay on the wheel, pulling, trimming, and glazing, earth transforming into porcelain in the kiln fire. Ceramics is the alchemy of water, fire, and earth; eternal beauty born at a thousand degrees. | entertainment_043.jpg | 20×20 |
+| 45 | 第3章 | 版画刻印复制 | 版画家在木板上刻出图案，滚墨上色后铺纸拓印，黑白对比鲜明有力。版画是可复制的原创艺术，刀法力度决定画面气质。 | Printmaking Carving and Printing | Printmakers carve patterns on woodblocks, roll ink and press paper to print, black-and-white contrast sharp and powerful. Printmaking is reproducible original art; blade force determines the image's character. | entertainment_044.jpg | 20×20 |
+| 46 | 第3章 | 插画叙事绘图 | 插画师在数位屏上绘制商业插画，色彩明快构图精巧，为文字赋予视觉生命。插画是文字的视觉翻译，一图胜千言。 | Illustration Visual Narrative | Illustrators create commercial illustrations on digital screens, colors bright and compositions refined, giving visual life to text. Illustration is the visual translation of words; one picture is worth a thousand words. | entertainment_045.jpg | 20×20 |
+| 47 | 第3章 | 装置艺术空间 | 装置艺术家用日常物品构建沉浸式空间，观众走进作品成为艺术的一部分。装置艺术打破观赏距离，空间本身就是作品。 | Installation Art Space | Installation artists construct immersive spaces with everyday objects, viewers walking into the work becoming part of the art. Installation art breaks viewing distance; the space itself is the artwork. | entertainment_046.jpg | 20×20 |
+| 48 | 第3章 | 行为艺术身体 | 行为艺术家用身体作为媒介，在公共空间进行即兴表演，挑战观众认知边界。行为艺术是最直接的表达，身体即语言。 | Performance Art Body | Performance artists use their bodies as medium, improvising in public spaces, challenging audiences' cognitive boundaries. Performance art is the most direct expression; the body is language. | entertainment_047.jpg | 20×20 |
+| 49 | 第3章 | 数字艺术未来 | 数字艺术家用算法生成绚丽图案，AI辅助创作突破想象边界，屏幕成为新画布。数字艺术是科技与美学的融合，代码也能创造美。 | Digital Art Future | Digital artists use algorithms to generate brilliant patterns, AI-assisted creation breaking imagination's boundaries, screens becoming new canvases. Digital art is the fusion of technology and aesthetics; code can also create beauty. | entertainment_048.jpg | 20×20 |
 
-### 第4章：非遗文化（16张）
+### 第4章：非遗文化（Intangible Cultural Heritage）（16张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 50 | 第4章 | 手办模型收藏 | 手办收藏者小心翼翼地为树脂模型上色涂装，细节处用零号笔描绘，展示柜中灯光映照。手办是三维的热爱，每个模型都是匠心之作。 | entertainment_049.jpg | 20×20 |
-| 51 | 第4章 | 桌游策略博弈 | 桌游玩家围坐桌前摆放卡牌和标记物，运筹帷幄制定策略，骰子决定命运。桌游是面对面的社交游戏，策略与运气交织出无限可能。 | entertainment_050.jpg | 20×20 |
-| 52 | 第4章 | 戏曲脸谱艺术 | 戏曲化妆师在演员脸上勾画脸谱，红脸忠白脸奸黑脸刚直，色彩图案皆有寓意。脸谱是性格的密码，一眼便知忠奸善恶。 | entertainment_051.jpg | 20×20 |
-| 53 | 第4章 | 杂技顶碗平衡 | 杂技演员头顶叠放五只瓷碗，在独轮车上保持平衡，碗不落车不停。顶碗是杂技中的绝活，平衡的极致是看起来毫不费力。 | entertainment_052.jpg | 25×25 |
-| 54 | 第4章 | 马戏团奇幻夜 | 马戏团帐篷中驯兽师指挥老虎跳火圈，小丑逗得观众捧腹大笑，空中飞人惊险刺激。马戏是奇幻的盛宴，人类与动物的默契配合令人惊叹。 | entertainment_053.jpg | 25×25 |
-| 55 | 第4章 | 诗词吟诵雅集 | 文人雅集上诗友举杯吟诵唐诗宋词，平仄韵律抑扬顿挫，千年前的心声在今夜回响。诗词吟诵是声音的考古，古韵新声穿越时空。 | entertainment_054.jpg | 25×25 |
-| 56 | 第4章 | 茶艺品茗静心 | 茶艺师用紫砂壶冲泡乌龙茶，闻香杯中茶香袅袅，品茗静心修身养性。茶艺是味觉的修行，一泡茶中品味山川日月。 | entertainment_055.jpg | 25×25 |
-| 57 | 第4章 | 花道插花美学 | 花道师在花器中插上三两枝花材，高低错落疏密有致，留白处见意境。花道是自然的微缩，一花一叶皆有大千世界。 | entertainment_056.jpg | 25×25 |
-| 58 | 第4章 | 香道品香悟道 | 香道师在香炉中点燃沉香，青烟袅袅升腾，闭目品香感悟当下。香道是嗅觉的冥想，一缕清香连接古今。 | entertainment_057.jpg | 25×25 |
-| 59 | 第4章 | 昆曲水磨腔韵 | 昆曲舞台上旦角水袖轻拂，水磨腔婉转悠长，牡丹亭中杜丽娘游园惊梦。昆曲是百戏之祖，六百年水磨腔韵犹在耳畔。 | entertainment_058.jpg | 25×25 |
-| 60 | 第4章 | 粤剧南国红豆 | 粤剧舞台上花旦甩出水袖唱出婉转唱腔，武生翻腾打斗精彩纷呈。粤剧是南国红豆，岭南文化的瑰宝，唱腔独特韵味悠长。 | entertainment_059.jpg | 25×25 |
-| 61 | 第4章 | 豫剧中原梆子 | 豫剧舞台上花木兰唱腔高亢激昂，梆子伴奏铿锵有力，中原大地豪迈气概。豫剧是河南第一大剧种，高亢激越的唱腔唱出中原风骨。 | entertainment_060.jpg | 25×25 |
-| 62 | 第4章 | 川剧变脸绝技 | 川剧演员一转身脸谱瞬间变换，红脸变白脸再变金脸，手法快如闪电。变脸是川剧的绝技，一秒变脸背后是数十年苦练。 | entertainment_061.jpg | 25×25 |
-| 63 | 第4章 | 黄梅戏天仙配 | 黄梅戏舞台上七仙女与董永对唱夫妻双双把家还，唱腔淳朴流畅。黄梅戏源自湖北黄梅，天仙配的故事传唱大江南北。 | entertainment_062.jpg | 25×25 |
-| 64 | 第4章 | 马头琴草原歌 | 蒙古族牧民拉起马头琴，琴声悠扬如万马奔腾，长调民歌回荡在辽阔草原。马头琴是草原的灵魂，琴声中有风有马有远方。 | entertainment_063.jpg | 25×25 |
-| 65 | 第4章 | 非遗传承守护 | 非遗传承人在工作坊中教授学徒传统技艺，剪纸皮影刺绣代代相传。非物质文化遗产是活态的文化基因，传承是最好的保护。 | entertainment_064.jpg | 25×25 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 50 | 第4章 | 手办模型收藏 | 手办收藏者小心翼翼地为树脂模型上色涂装，细节处用零号笔描绘，展示柜中灯光映照。手办是三维的热爱，每个模型都是匠心之作。 | Figure Model Collection | Figure collectors carefully paint and finish resin models, using size-zero brushes for details, display cabinet lights illuminating. Figures are three-dimensional passion; every model is a work of craftsmanship. | entertainment_049.jpg | 20×20 |
+| 51 | 第4章 | 桌游策略博弈 | 桌游玩家围坐桌前摆放卡牌和标记物，运筹帷幄制定策略，骰子决定命运。桌游是面对面的社交游戏，策略与运气交织出无限可能。 | Board Game Strategy | Board game players sit around the table placing cards and tokens, strategizing and planning, dice determining fate. Board games are face-to-face social games; strategy and luck weave infinite possibilities. | entertainment_050.jpg | 20×20 |
+| 52 | 第4章 | 戏曲脸谱艺术 | 戏曲化妆师在演员脸上勾画脸谱，红脸忠白脸奸黑脸刚直，色彩图案皆有寓意。脸谱是性格的密码，一眼便知忠奸善恶。 | Opera Facial Makeup Art | Opera makeup artists paint facial patterns on actors' faces, red for loyalty, white for treachery, black for uprightness, colors and patterns all carrying meaning. Facial makeup is the code of character; loyalty and villainy are visible at a glance. | entertainment_051.jpg | 20×20 |
+| 53 | 第4章 | 杂技顶碗平衡 | 杂技演员头顶叠放五只瓷碗，在独轮车上保持平衡，碗不落车不停。顶碗是杂技中的绝活，平衡的极致是看起来毫不费力。 | Acrobatics Bowl Balancing | Acrobats stack five porcelain bowls on their heads, maintaining balance on a unicycle, bowls not falling, cycle not stopping. Bowl balancing is an acrobatic marvel; the pinnacle of balance looks effortless. | entertainment_052.jpg | 25×25 |
+| 54 | 第4章 | 马戏团奇幻夜 | 马戏团帐篷中驯兽师指挥老虎跳火圈，小丑逗得观众捧腹大笑，空中飞人惊险刺激。马戏是奇幻的盛宴，人类与动物的默契配合令人惊叹。 | Circus Fantasy Night | In the circus tent, the animal trainer directs tigers through flaming hoops, clowns have the audience roaring with laughter, trapeze artists thrill. The circus is a feast of fantasy; the默契 between humans and animals is astonishing. | entertainment_053.jpg | 25×25 |
+| 55 | 第4章 | 诗词吟诵雅集 | 文人雅集上诗友举杯吟诵唐诗宋词，平仄韵律抑扬顿挫，千年前的心声在今夜回响。诗词吟诵是声音的考古，古韵新声穿越时空。 | Poetry Recitation Gathering | At literary gatherings, poet friends raise cups reciting Tang poetry and Song ci, tonal patterns rising and falling, voices from a thousand years ago echoing tonight. Poetry recitation is sonic archaeology; ancient rhymes and new voices transcend time. | entertainment_054.jpg | 25×25 |
+| 56 | 第4章 | 茶艺品茗静心 | 茶艺师用紫砂壶冲泡乌龙茶，闻香杯中茶香袅袅，品茗静心修身养性。茶艺是味觉的修行，一泡茶中品味山川日月。 | Tea Ceremony Mindful Tasting | Tea masters brew oolong tea in Yixing clay pots, fragrance rising from aroma cups, tasting tea calming the mind and nurturing the spirit. Tea ceremony is a practice of taste; in one brew, savoring mountains, rivers, sun, and moon. | entertainment_055.jpg | 25×25 |
+| 57 | 第4章 | 花道插花美学 | 花道师在花器中插上三两枝花材，高低错落疏密有致，留白处见意境。花道是自然的微缩，一花一叶皆有大千世界。 | Ikebana Flower Arrangement Aesthetics | Ikebana masters arrange a few branches in flower vessels, varying heights and densities, blank spaces revealing artistic conception. Ikebana is nature in miniature; one flower, one leaf contains a vast world. | entertainment_056.jpg | 25×25 |
+| 58 | 第4章 | 香道品香悟道 | 香道师在香炉中点燃沉香，青烟袅袅升腾，闭目品香感悟当下。香道是嗅觉的冥想，一缕清香连接古今。 | Incense Ceremony Contemplation | Incense masters light agarwood in censers, blue smoke curling upward, eyes closed savoring the fragrance contemplating the present. Incense ceremony is olfactory meditation; a wisp of fragrance connects past and present. | entertainment_057.jpg | 25×25 |
+| 59 | 第4章 | 昆曲水磨腔韵 | 昆曲舞台上旦角水袖轻拂，水磨腔婉转悠长，牡丹亭中杜丽娘游园惊梦。昆曲是百戏之祖，六百年水磨腔韵犹在耳畔。 | Kunqu Opera Water-Polished Melody | On the Kunqu opera stage, the dan role's water sleeves gently brush, the water-polished melody lingering and graceful, Du Liniang's garden dream in The Peony Pavilion. Kunqu is the ancestor of all operas; six hundred years of water-polished melodies still echo. | entertainment_058.jpg | 25×25 |
+| 60 | 第4章 | 粤剧南国红豆 | 粤剧舞台上花旦甩出水袖唱出婉转唱腔，武生翻腾打斗精彩纷呈。粤剧是南国红豆，岭南文化的瑰宝，唱腔独特韵味悠长。 | Cantonese Opera Southern Red Bean | On the Cantonese opera stage, the huadan flicks water sleeves singing melodious arias, the wusheng tumbles and fights spectacularly. Cantonese opera is the southern red bean, a treasure of Lingnan culture, with unique and lingering vocal styles. | entertainment_059.jpg | 25×25 |
+| 61 | 第4章 | 豫剧中原梆子 | 豫剧舞台上花木兰唱腔高亢激昂，梆子伴奏铿锵有力，中原大地豪迈气概。豫剧是河南第一大剧种，高亢激越的唱腔唱出中原风骨。 | Yu Opera Central Plains Clapper | On the Yu opera stage, Hua Mulan's singing is high-pitched and passionate, clapper accompaniment powerful and resonant, the heroic spirit of the Central Plains. Yu opera is Henan's largest opera genre; its soaring vocals sing out the character of the Central Plains. | entertainment_060.jpg | 25×25 |
+| 62 | 第4章 | 川剧变脸绝技 | 川剧演员一转身脸谱瞬间变换，红脸变白脸再变金脸，手法快如闪电。变脸是川剧的绝技，一秒变脸背后是数十年苦练。 | Sichuan Opera Face-Changing | Sichuan opera actors change facial masks in an instant with a turn, red face to white face to gold face, technique fast as lightning. Face-changing is Sichuan opera's signature skill; one-second transformation backed by decades of practice. | entertainment_061.jpg | 25×25 |
+| 63 | 第4章 | 黄梅戏天仙配 | 黄梅戏舞台上七仙女与董永对唱夫妻双双把家还，唱腔淳朴流畅。黄梅戏源自湖北黄梅，天仙配的故事传唱大江南北。 | Huangmei Opera Fairy Couple | On the Huangmei opera stage, the Seventh Fairy and Dong Yong duet "A Couple Returning Home," the singing pure and flowing. Huangmei opera originates from Hubei's Huangmei; the Fairy Couple story is sung across the land. | entertainment_062.jpg | 25×25 |
+| 64 | 第4章 | 马头琴草原歌 | 蒙古族牧民拉起马头琴，琴声悠扬如万马奔腾，长调民歌回荡在辽阔草原。马头琴是草原的灵魂，琴声中有风有马有远方。 | Morin Khuur Grassland Song | Mongolian herders play the morin khuur, the sound melodious like ten thousand galloping horses, long folk songs echoing across the vast steppe. The morin khuur is the soul of the grassland; its music carries wind, horses, and distant horizons. | entertainment_063.jpg | 25×25 |
+| 65 | 第4章 | 非遗传承守护 | 非遗传承人在工作坊中教授学徒传统技艺，剪纸皮影刺绣代代相传。非物质文化遗产是活态的文化基因，传承是最好的保护。 | Intangible Heritage Guardian | Intangible cultural heritage inheritors teach apprentices traditional skills in workshops, paper-cutting, shadow puppetry, and embroidery passed down through generations. Intangible cultural heritage is living cultural DNA; transmission is the best preservation. | entertainment_064.jpg | 25×25 |
 
 **图片规格：**
 - 分辨率：2496×1664（3:2宽高比）

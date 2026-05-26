@@ -19,6 +19,7 @@ extends Control
 @onready var click_audio_player: AudioStreamPlayer2D = $ClickAudioPlayer
 @onready var click_cross_audio_player: AudioStreamPlayer2D = $ClickCrossAudioPlayer
 @onready var game_over_popup: Control = $CanvasLayer/GameOverPopup
+@onready var exit_confirm_popup: Control = $CanvasLayer/ExitConfirmPopup
 
 @onready var portrait_ui: Control = $CanvasLayer/PortraitUI
 @onready var landscape_ui: Control = $CanvasLayer/LandscapeUI
@@ -108,6 +109,7 @@ func _ready():
 	
 	game_over_popup.restart_requested.connect(_on_restart_button_pressed)
 	game_over_popup.exit_requested.connect(_on_back_button_pressed)
+	exit_confirm_popup.confirmed.connect(_on_back_button_confirmed)
 
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
 	
@@ -206,29 +208,30 @@ func setup_frame_and_dividers():
 	var block_size = 5
 	var frame_line_width = 4
 	var divide_line_width = 2
-	var line_color = Color("a1784b")
+	var frame_color = Color("a1784b")
 	# 外框线
 	var frame_left = ColorRect.new()
-	frame_left.color = line_color
+	frame_left.color = frame_color
 	frame_left.size = Vector2(frame_line_width, grid_size.x * cell_size.x+frame_line_width*2-2)
 	frame_left.position = cell_start_position - Vector2(frame_line_width-1,frame_line_width-1)
 	frames.add_child(frame_left)
 	var frame_right = ColorRect.new()
-	frame_right.color = line_color
+	frame_right.color = frame_color
 	frame_right.size = Vector2(frame_line_width, grid_size.x * cell_size.x+frame_line_width*2-2)
 	frame_right.position = Vector2(board_size.x-1,cell_start_position.y-frame_line_width+1)
 	frames.add_child(frame_right)
 	var frame_top = ColorRect.new()
-	frame_top.color = line_color
+	frame_top.color = frame_color
 	frame_top.size = Vector2(grid_size.y * cell_size.y+frame_line_width*2-2, frame_line_width)
 	frame_top.position = cell_start_position - Vector2(frame_line_width-1,frame_line_width-1)
 	frames.add_child(frame_top)
 	var frame_bottom = ColorRect.new()
-	frame_bottom.color = line_color
+	frame_bottom.color = frame_color
 	frame_bottom.size = Vector2(grid_size.y * cell_size.y+frame_line_width*2-2, frame_line_width)
 	frame_bottom.position = Vector2(cell_start_position.x-frame_line_width+1,board_size.y-1)
 	frames.add_child(frame_bottom)
 	# 中间分割线
+	var line_color = Color("4A3728")
 	for y in range(1, floor(grid_size.y/block_size)):
 		var line = ColorRect.new()
 		line.color = line_color
@@ -247,7 +250,7 @@ func setup_board_size_and_position():
 	var screen_size = get_viewport_rect().size
 	if _original_board_size == Vector2.ZERO:
 		_original_board_size = board_size
-	var scale_vector = screen_size / _original_board_size * 0.9
+	var scale_vector = screen_size / _original_board_size
 	var new_scale = Vector2.ONE * min(scale_vector.x, scale_vector.y)
 	game_board.scale = new_scale
 	board_size = _original_board_size * new_scale
@@ -514,6 +517,9 @@ func _on_cell_hover_updated(x: int, y: int, is_hover: bool):
 
 func _on_back_button_pressed() -> void:
 	AudioManager.play_sfx("click")
+	exit_confirm_popup.show_popup(tr("确定要返回画册吗？"))
+
+func _on_back_button_confirmed() -> void:
 	GameManager.pending_album_id = _album_id
 	GameManager.pending_picture_id = _picture_id
 	GameManager.pending_picture_index = _picture_index
@@ -554,6 +560,11 @@ func _on_finish_button_test_pressed() -> void:
 
 # 输入处理
 func _unhandled_input(event: InputEvent) -> void:
+	if exit_confirm_popup.visible:
+		if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
+			exit_confirm_popup.visible = false
+			get_viewport().set_input_as_handled()
+		return
 	if help_popup.visible:
 		if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
 			help_popup.hide()
@@ -718,6 +729,7 @@ func _exit_tree() -> void:
 	GameManager.nonogram_game_completed.disconnect(_on_game_completed)
 	GameManager.nonogram_life_updated.disconnect(_on_life_updated)
 	GameManager.nonogram_game_over.disconnect(_on_game_over)
+	AnimationManager.clear_queue()
 	_minimap = null
 
 
@@ -896,6 +908,8 @@ func _input(event: InputEvent) -> void:
 	if not _is_touch_device:
 		return
 	if is_locked:
+		return
+	if exit_confirm_popup.visible:
 		return
 	if help_popup.visible:
 		return

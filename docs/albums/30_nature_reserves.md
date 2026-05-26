@@ -1,11 +1,13 @@
-# 《自然保护区》画册内容规划
+# 《自然保护区 / Nature Reserves》画册内容规划
 
 ## 画册信息
 
 | 属性 | 内容 |
 | ---- | ---- |
 | 序号 | 30 |
+| 英文名 | Nature Reserves |
 | 书架 | 自然地理 |
+| 书架英文名 | Physical Geography |
 | 图片数 | 60 |
 | 分块数/图 | 6 |
 | 谜题数 | 360（常规288 + 专家72） |
@@ -53,75 +55,75 @@
 
 ## 图片内容规划
 
-### 第1章：亚洲保护区（20张）
+### 第1章：亚洲保护区 / Asian Reserves（20张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 1 | 第1章 | 科莫多国家公园 | 印度尼西亚科莫多岛上是世界上最大的蜥蜴科莫多龙的家园，体长三米的巨蜥以腐肉为食也捕食水牛。粉红海滩与碧蓝海水环绕火山岛，海底珊瑚花园中蝠鲼优雅滑翔，科莫多是陆地与海洋双重遗产的珍宝。 | nature_reserves_000.jpg | 10×10 |
-| 2 | 第1章 | 巴西湿地生态 | 巴西潘塔纳尔是世界最大的热带湿地，面积达十九万平方公里。雨季时洪水淹没八成土地如内陆之海，水豚与凯门鳄在洪水中悠然共处，美洲豹在河岸上潜伏捕猎，潘塔纳尔是南美野生动物密度最高的地区。 | nature_reserves_001.jpg | 10×10 |
-| 3 | 第1章 | 塞伦盖蒂公园 | 坦桑尼亚塞伦盖蒂国家公园是非洲最著名的野生动物保护区，百万角马大迁徙震撼壮观。狮群在金合欢树下休息如王者，猎豹在草丛中潜伏如刺客，鳄鱼在马拉河中等待如守株待兔。 | nature_reserves_002.jpg | 10×10 |
-| 5 | 第1章 | 大堡礁海洋 | 澳大利亚大堡礁是世界最大的珊瑚礁系统绵延2300公里，从太空可见如蓝色丝带。小丑鱼在海葵中如尼莫如童话，座头鲸在礁区产仔如巨如山，珊瑚白化是气候变化的警钟如丧如钟。 | nature_reserves_004.jpg | 10×10 |
-| 6 | 第1章 | 亚马逊雨林保 | 亚马逊雨林保护区占全球热带雨林面积一半，被称为地球之肺。金刚鹦鹉在树冠层如彩虹如旗帜，树懒在枝头如禅如定如静，每平方公里物种数超千如万如宝如库，砍伐如割如切如伤如痛。 | nature_reserves_005.jpg | 10×10 |
-| 7 | 第1章 | 九寨沟仙境 | 九寨沟以翠海叠瀑彩林雪峰藏情闻名如仙境如画如梦，五花海色彩斑斓如调色板如万花筒。诺日朗瀑布如白练如银帘如幕，珍珠滩瀑布如珠如帘如串，2017年地震后涅槃重生如凤凰。 | nature_reserves_006.jpg | 10×10 |
-| 8 | 第1章 | 张家界国家森林 | 张家界国家森林公园是中国第一个国家森林公园，三千座石英砂岩峰柱如天然盆景。天门山玻璃栈道悬挂在千米悬崖上如天路如桥，百龙天梯在峰林中垂直升降326米如科幻电梯。 | nature_reserves_007.jpg | 10×10 |
-| 9 | 第1章 | 武夷山保护区 | 武夷山自然保护区是世界文化与自然双重遗产，丹霞地貌赤壁丹崖如火烧。九曲溪竹筏漂流穿行于峰林之间如画如诗，大红袍母树在岩壁上生长千年如宝如珍，茶香飘溢如梦如幻。 | nature_reserves_008.jpg | 10×10 |
-| 10 | 第1章 | 神农架保护区 | 湖北神农架是华中屋脊主峰海拔3106米，传说神农氏在此尝百草如祖如宗如源。金丝猴在树冠间跳跃如飞如翔如仙，珙桐花开如鸽如白如雪如玉，野人之谜如迷如惑如疑如幻至今未解。 | nature_reserves_009.jpg | 10×10 |
-| 12 | 第1章 | 三江源保护区 | 青海三江源是长江黄河澜沧江的发源地如源如始如根如基，被称为中华水塔如塔如柱如梁。雪豹在岩壁间潜行如幽如灵如影如魅，黑颈鹤在湿地中翩翩起舞如仙如神如圣如灵，生态如命如脉。 | nature_reserves_011.jpg | 10×10 |
-| 13 | 第1章 | 卧龙大熊猫 | 四川卧龙自然保护区是大熊猫的故乡如家如园如乡，大熊猫在竹林中悠然啃食竹子如仙如禅如定。小熊猫如红如火如焰如彩在灌木中出没，金丝猴在树冠间跳跃如飞如翔如仙如灵。 | nature_reserves_012.jpg | 10×10 |
-| 14 | 第1章 | 长白山保护区 | 吉林长白山自然保护区保存着完整的温带森林生态系统如宝如库如藏，天池如蓝宝石镶嵌火山口。东北虎在密林中潜行如王如帝如霸如主，紫貂在雪地上如精如灵如仙如魅如幻如影。 | nature_reserves_013.jpg | 10×10 |
-| 15 | 第1章 | 西双版纳热带 | 云南西双版纳热带雨林保护区是中国热带雨林的代表如宝如库如藏，望天树高达80米如塔如柱如杆。亚洲象在雨林中漫步如巨如大如山如岭，孔雀在林间如凤如凰如仙如神如灵如鸟。 | nature_reserves_014.jpg | 10×10 |
-| 16 | 第1章 | 梵净山保护区 | 贵州梵净山是武陵山脉主峰海拔2572米如仙如境如天如宫，红云金顶如柱如塔如针如刺直插云霄。黔金丝猴是梵净山特有种如珍如宝如稀如贵，蘑菇石如奇如怪如异如特如妙如绝如险。 | nature_reserves_015.jpg | 10×10 |
-| 17 | 第1章 | 珠峰保护区 | 西藏珠穆朗玛峰自然保护区面积33819平方公里如广如阔如大如巨，珠峰海拔8848米如巨如山如岭如峰如岳。雪豹在高山岩壁间潜行如幽如灵如影如魅，喜马拉雅塔尔羊如攀如岩如壁如飞。 | nature_reserves_016.jpg | 15×15 |
-| 18 | 第1章 | 班夫国家公园 | 加拿大班夫国家公园是加拿大第一个国家公园建于1885年，落基山脉如屏如障如墙如城。路易斯湖如绿宝石镶嵌山谷如宝如石如翠，灰熊在河谷中捕食鲑鱼如猎如食如捕如杀如噬。 | nature_reserves_017.jpg | 15×15 |
-| 19 | 第1章 | 克鲁格公园 | 南非克鲁格国家公园是非洲最大的野生动物保护区之一面积近两万平方公里。非洲五霸狮象豹犀牛水牛在此自由生活如野如自如然，鸵鸟在草原上奔跑如风如电如驰如骋如飞。 | nature_reserves_018.jpg | 15×15 |
-| 20 | 第1章 | 科莫多公园 | 印尼科莫多国家公园是科莫多巨蜥的唯一栖息地如家如园如乡，巨蜥体长三米如龙如蜥如兽。科莫多巨蜥唾液含剧毒细菌如毒如药如杀如灭，鹿和水牛是其主要猎物如食如粮如餐。 | nature_reserves_019.jpg | 15×15 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 1 | 第1章 | 科莫多国家公园 | 印度尼西亚科莫多岛上是世界上最大的蜥蜴科莫多龙的家园，体长三米的巨蜥以腐肉为食也捕食水牛。粉红海滩与碧蓝海水环绕火山岛，海底珊瑚花园中蝠鲼优雅滑翔，科莫多是陆地与海洋双重遗产的珍宝。 | Komodo National Park | Indonesia's Komodo Island is home to the world's largest lizard, the Komodo dragon. The three-meter monitor lizard feeds on carrion and hunts water buffalo. Pink beaches and turquoise waters surround the volcanic island. Manta rays glide gracefully through underwater coral gardens. Komodo is a treasure of dual land and marine heritage. | nature_reserves_000.jpg | 10×10 |
+| 2 | 第1章 | 巴西湿地生态 | 巴西潘塔纳尔是世界最大的热带湿地，面积达十九万平方公里。雨季时洪水淹没八成土地如内陆之海，水豚与凯门鳄在洪水中悠然共处，美洲豹在河岸上潜伏捕猎，潘塔纳尔是南美野生动物密度最高的地区。 | Brazilian Wetland Ecology | Brazil's Pantanal is the world's largest tropical wetland at 190,000 square kilometers. During the rainy season, floods submerge 80% of the land like an inland sea. Capybaras and caimans coexist peacefully in the floodwaters. Jaguars lurk on riverbanks hunting. The Pantanal has the highest wildlife density in South America. | nature_reserves_001.jpg | 10×10 |
+| 3 | 第1章 | 塞伦盖蒂公园 | 坦桑尼亚塞伦盖蒂国家公园是非洲最著名的野生动物保护区，百万角马大迁徙震撼壮观。狮群在金合欢树下休息如王者，猎豹在草丛中潜伏如刺客，鳄鱼在马拉河中等待如守株待兔。 | Serengeti Park | Tanzania's Serengeti National Park is Africa's most famous wildlife reserve. The Great Migration of a million wildebeest is spectacular. Lion prides rest under acacia trees like royalty. Cheetahs lurk in the grass like assassins. Crocodiles wait in the Mara River like patient hunters. | nature_reserves_002.jpg | 10×10 |
+| 5 | 第1章 | 大堡礁海洋 | 澳大利亚大堡礁是世界最大的珊瑚礁系统绵延2300公里，从太空可见如蓝色丝带。小丑鱼在海葵中如尼莫如童话，座头鲸在礁区产仔如巨如山，珊瑚白化是气候变化的警钟如丧如钟。 | Great Barrier Reef Marine | Australia's Great Barrier Reef is the world's largest coral reef system stretching 2,300 kilometers, visible from space like a blue ribbon. Clownfish in sea anemones are like Nemo in a fairy tale. Humpback whales calve in the reef area, massive as mountains. Coral bleaching is the alarm bell of climate change. | nature_reserves_004.jpg | 10×10 |
+| 6 | 第1章 | 亚马逊雨林保 | 亚马逊雨林保护区占全球热带雨林面积一半，被称为地球之肺。金刚鹦鹉在树冠层如彩虹如旗帜，树懒在枝头如禅如定如静，每平方公里物种数超千如万如宝如库，砍伐如割如切如伤如痛。 | Amazon Rainforest Reserve | The Amazon rainforest reserve accounts for half of the world's tropical rainforest area, called the lungs of the Earth. Macaws in the canopy are like rainbows and flags. Sloths on branches are zen-like and still. Species per square kilometer exceed a thousand, a treasure trove. Deforestation is like cutting, wounding, and pain. | nature_reserves_005.jpg | 10×10 |
+| 7 | 第1章 | 九寨沟仙境 | 九寨沟以翠海叠瀑彩林雪峰藏情闻名如仙境如画如梦，五花海色彩斑斓如调色板如万花筒。诺日朗瀑布如白练如银帘如幕，珍珠滩瀑布如珠如帘如串，2017年地震后涅槃重生如凤凰。 | Jiuzhaigou Fairyland | Jiuzhaigou is famous for emerald lakes, cascading waterfalls, colorful forests, snow peaks, and Tibetan culture like a fairyland. Five-Flower Lake is brilliantly colored like a palette or kaleidoscope. Nuorilang Waterfall cascades like white silk and silver curtains. Pearl Shoal Waterfall sparkles like pearls. After the 2017 earthquake, it was reborn like a phoenix. | nature_reserves_006.jpg | 10×10 |
+| 8 | 第1章 | 张家界国家森林 | 张家界国家森林公园是中国第一个国家森林公园，三千座石英砂岩峰柱如天然盆景。天门山玻璃栈道悬挂在千米悬崖上如天路如桥，百龙天梯在峰林中垂直升降326米如科幻电梯。 | Zhangjiajie National Forest | Zhangjiajie National Forest Park is China's first national forest park. Three thousand quartz sandstone pillars resemble natural bonsai. Tianmen Mountain glass walkway hangs on a kilometer-high cliff like a heavenly road. Bailong Elevator ascends 326 meters vertically through the peak forest like a sci-fi elevator. | nature_reserves_007.jpg | 10×10 |
+| 9 | 第1章 | 武夷山保护区 | 武夷山自然保护区是世界文化与自然双重遗产，丹霞地貌赤壁丹崖如火烧。九曲溪竹筏漂流穿行于峰林之间如画如诗，大红袍母树在岩壁上生长千年如宝如珍，茶香飘溢如梦如幻。 | Wuyishan Reserve | Wuyishan Nature Reserve is a World Cultural and Natural Heritage site. Danxia landform red cliffs look like fire. Nine-Bend Stream bamboo raft drifting through peak forests is like a painting and poem. Mother Da Hong Pong tea trees grow on cliffs for a thousand years like treasures. Tea fragrance drifts dreamlike. | nature_reserves_008.jpg | 10×10 |
+| 10 | 第1章 | 神农架保护区 | 湖北神农架是华中屋脊主峰海拔3106米，传说神农氏在此尝百草如祖如宗如源。金丝猴在树冠间跳跃如飞如翔如仙，珙桐花开如鸽如白如雪如玉，野人之谜如迷如惑如疑如幻至今未解。 | Shennongjia Reserve | Hubei's Shennongjia is the roof of central China with its main peak at 3,106 meters. Legend says Shennong tasted herbs here. Golden snub-nosed monkeys leap through the canopy like flying immortals. Dove tree flowers bloom like white doves, snow, and jade. The wild man mystery remains unsolved. | nature_reserves_009.jpg | 10×10 |
+| 12 | 第1章 | 三江源保护区 | 青海三江源是长江黄河澜沧江的发源地如源如始如根如基，被称为中华水塔如塔如柱如梁。雪豹在岩壁间潜行如幽如灵如影如魅，黑颈鹤在湿地中翩翩起舞如仙如神如圣如灵，生态如命如脉。 | Sanjiangyuan Reserve | Qinghai's Sanjiangyuan is the source of the Yangtze, Yellow, and Lancang Rivers, called China's Water Tower. Snow leopards prowl among cliffs like ghosts and shadows. Black-necked cranes dance in wetlands like celestial spirits. Ecology is the lifeblood. | nature_reserves_011.jpg | 10×10 |
+| 13 | 第1章 | 卧龙大熊猫 | 四川卧龙自然保护区是大熊猫的故乡如家如园如乡，大熊猫在竹林中悠然啃食竹子如仙如禅如定。小熊猫如红如火如焰如彩在灌木中出没，金丝猴在树冠间跳跃如飞如翔如仙如灵。 | Wolong Giant Panda | Sichuan's Wolong Nature Reserve is the homeland of giant pandas. Pandas leisurely eat bamboo like zen masters. Red pandas appear in shrubbery like red flames. Golden snub-nosed monkeys leap through the canopy like flying spirits. | nature_reserves_012.jpg | 10×10 |
+| 14 | 第1章 | 长白山保护区 | 吉林长白山自然保护区保存着完整的温带森林生态系统如宝如库如藏，天池如蓝宝石镶嵌火山口。东北虎在密林中潜行如王如帝如霸如主，紫貂在雪地上如精如灵如仙如魅如幻如影。 | Changbaishan Reserve | Jilin's Changbaishan Nature Reserve preserves a complete temperate forest ecosystem. Heaven Lake is like a sapphire set in the volcanic crater. Siberian tigers prowl through dense forests like kings. Sables dart across snow like elves and phantoms. | nature_reserves_013.jpg | 10×10 |
+| 15 | 第1章 | 西双版纳热带 | 云南西双版纳热带雨林保护区是中国热带雨林的代表如宝如库如藏，望天树高达80米如塔如柱如杆。亚洲象在雨林中漫步如巨如大如山如岭，孔雀在林间如凤如凰如仙如神如灵如鸟。 | Xishuangbanna Tropical | Yunnan's Xishuangbanna tropical rainforest reserve represents China's tropical rainforests. Parashorea trees reach 80 meters like towers. Asian elephants roam the rainforest like walking mountains. Peacocks in the forest are like phoenixes and celestial birds. | nature_reserves_014.jpg | 10×10 |
+| 16 | 第1章 | 梵净山保护区 | 贵州梵净山是武陵山脉主峰海拔2572米如仙如境如天如宫，红云金顶如柱如塔如针如刺直插云霄。黔金丝猴是梵净山特有种如珍如宝如稀如贵，蘑菇石如奇如怪如异如特如妙如绝如险。 | Fanjingshan Reserve | Guizhou's Fanjingshan is the main peak of the Wuling Mountains at 2,572 meters like a fairy realm. Red Cloud Golden Peak pierces the sky like a needle. Guizhou snub-nosed monkey is endemic to Fanjingshan, precious and rare. Mushroom Rock is bizarre, unique, and precarious. | nature_reserves_015.jpg | 10×10 |
+| 17 | 第1章 | 珠峰保护区 | 西藏珠穆朗玛峰自然保护区面积33819平方公里如广如阔如大如巨，珠峰海拔8848米如巨如山如岭如峰如岳。雪豹在高山岩壁间潜行如幽如灵如影如魅，喜马拉雅塔尔羊如攀如岩如壁如飞。 | Everest Reserve | Tibet's Qomolangma Nature Reserve covers 33,819 square kilometers. Everest stands at 8,848 meters. Snow leopards prowl among high mountain cliffs like ghosts. Himalayan tahr climbs rock walls like flying. | nature_reserves_016.jpg | 15×15 |
+| 18 | 第1章 | 班夫国家公园 | 加拿大班夫国家公园是加拿大第一个国家公园建于1885年，落基山脉如屏如障如墙如城。路易斯湖如绿宝石镶嵌山谷如宝如石如翠，灰熊在河谷中捕食鲑鱼如猎如食如捕如杀如噬。 | Banff National Park | Canada's Banff National Park was established in 1885 as Canada's first national park. The Rocky Mountains stand like walls and fortresses. Lake Louise is like an emerald set in the valley. Grizzly bears hunt salmon in river valleys. | nature_reserves_017.jpg | 15×15 |
+| 19 | 第1章 | 克鲁格公园 | 南非克鲁格国家公园是非洲最大的野生动物保护区之一面积近两万平方公里。非洲五霸狮象豹犀牛水牛在此自由生活如野如自如然，鸵鸟在草原上奔跑如风如电如驰如骋如飞。 | Kruger Park | South Africa's Kruger National Park is one of Africa's largest wildlife reserves at nearly 20,000 square kilometers. The Big Five — lion, elephant, leopard, rhino, and buffalo — live freely. Ostriches run across the grasslands like wind and lightning. | nature_reserves_018.jpg | 15×15 |
+| 20 | 第1章 | 科莫多公园 | 印尼科莫多国家公园是科莫多巨蜥的唯一栖息地如家如园如乡，巨蜥体长三米如龙如蜥如兽。科莫多巨蜥唾液含剧毒细菌如毒如药如杀如灭，鹿和水牛是其主要猎物如食如粮如餐。 | Komodo Park | Indonesia's Komodo National Park is the sole habitat of the Komodo dragon. The monitor lizard reaches three meters like a dragon. Komodo dragon saliva contains deadly bacteria. Deer and water buffalo are its main prey. | nature_reserves_019.jpg | 15×15 |
 
-### 第2章：非洲保护区（20张）
+### 第2章：非洲保护区 / African Reserves（20张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 21 | 第2章 | 马努国家公园 | 秘鲁马努国家公园是亚马逊雨林中生物多样性最丰富的地区如宝如库如藏，鸟类超千种如群如队如云如集。美洲豹在密林中潜行如幽如灵如影如魅，金刚鹦鹉在黏土崖上如彩如虹如旗。 | nature_reserves_020.jpg | 15×15 |
-| 22 | 第2章 | 维龙加公园 | 刚果维龙加国家公园是山地大猩猩的家园如家如园如乡如巢，大猩猩银背如王如帝如霸如主。维龙加是非洲最古老的国家公园如祖如宗如源，护林员为保护大猩猩献出生命如英如雄。 | nature_reserves_021.jpg | 15×15 |
-| 23 | 第2章 | 峡湾国家公园 | 新西兰峡湾国家公园拥有南半球最壮观的峡湾如画如诗如梦如幻，米尔福德峡湾如仙如境如画。海豚在峡湾中如跃如跳如飞如翔，瀑布从千米悬崖倾泻如白如练如银如帘如幕如纱。 | nature_reserves_022.jpg | 15×15 |
-| 24 | 第2章 | 托雷斯德尔 | 智利百内国家公园花岗岩塔如塔如柱如针如刺如剑如戟直插苍穹，是巴塔哥尼亚的标志如碑如志如标。原驼在草原上奔跑如风如电如驰如骋，美洲狮在岩石后潜伏如猎如手如杀如手。 | nature_reserves_023.jpg | 15×15 |
-| 25 | 第2章 | 纳米布诺克 | 纳米比亚纳米布诺克卢夫特国家公园拥有世界最高沙丘如巨如大如高如耸，红色沙丘在晨光中如血如焰如火。剑羚在沙漠中如适如应如生如存如活，鬣狗在骷髅海岸如猎如食如捕。 | nature_reserves_024.jpg | 15×15 |
-| 26 | 第2章 | 伊瓜苏公园 | 阿根廷巴西伊瓜苏国家公园拥有275道瀑布如帘如幕如纱如雾如烟，魔鬼咽喉瀑布如雷如轰如震如耳。巨嘴鸟在雨林中如彩如虹如旗如帜，蝴蝶在瀑布旁如群如队如云如集如会。 | nature_reserves_025.jpg | 15×15 |
-| 27 | 第2章 | 普利特维采 | 克罗地亚普利特维采湖群国家公园十六个湖泊如蓝宝石如翡翠如碧玉如翠如珠如串。瀑布连接上下湖如白如练如银如帘如幕如纱如雾，湖水因矿物质和藻类呈现不同色彩如调如色如板。 | nature_reserves_026.jpg | 15×15 |
-| 28 | 第2章 | 张家界武陵源 | 武陵源世界自然遗产三千座砂岩峰柱如天然盆景矗立云雾中如仙如境如画如梦。金鞭溪在峰林间蜿蜒如玉如带如丝如缕，天子山云雾缭绕如仙如境如画如梦如幻，百龙天梯如科幻电梯。 | nature_reserves_027.jpg | 15×15 |
-| 29 | 第2章 | 黄山世界遗产 | 黄山世界文化与自然双重遗产以奇松怪石云海温泉四绝闻名天下如奇如特如绝如妙。迎客松在悬崖上伸展千年如臂如手如迎如客，光明顶观云海如白如色如海如洋如波如涛如涌如浪。 | nature_reserves_028.jpg | 15×15 |
-| 30 | 第2章 | 九寨沟世界遗 | 九寨沟世界自然遗产以翠海叠瀑彩林雪峰藏情闻名如仙如境如画如梦如幻。五花海色彩斑斓如调如色如板如万如花如筒如彩如虹，珍珠滩瀑布如珠如帘如串如链如坠如落如散如碎。 | nature_reserves_029.jpg | 15×15 |
-| 31 | 第2章 | 大烟雾山公园 | 美国大烟雾山国家公园是游客最多的国家公园，阿巴拉契亚山脉古老如老如古如远如久。雾气在山谷中如白如纱如雾如烟如云如海，黑熊在森林中如觅如食如寻如找，秋色绚烂如火如焰如金如黄如红。 | nature_reserves_030.jpg | 15×15 |
-| 32 | 第2章 | 约塞米蒂花岗 | 美国约塞米蒂国家公园半穹顶如巨如大如圆如弧如穹如顶如帽，酋长岩如巨如大如高如耸如壁如墙。约塞米蒂瀑布如白如练如银如帘如幕如纱，红杉树如巨如大如高如耸如塔如柱如杆。 | nature_reserves_031.jpg | 15×15 |
-| 33 | 第2章 | 锡安国家公园 | 美国犹他锡安国家公园红色砂岩峡谷如壁如墙如城如堡如殿如堂，维京河在谷底如玉如带如丝如缕。天使降临步道如险如峻如危如悬如高如耸，峡谷如窄如狭如缝如隙如线如丝如缝。 | nature_reserves_032.jpg | 20×20 |
-| 36 | 第2章 | 大提顿雪山 | 美国怀俄明大提顿国家公园锯齿状山峰如齿如锯如剑如戟如刀如刃如锋，杰克逊湖如蓝宝石如镜如面如镜。驼鹿在湿地中如涉如水如觅如食，白头海雕在天空如翱如翔如盘如旋如飞。 | nature_reserves_035.jpg | 20×20 |
-| 37 | 第2章 | 红杉国家公园 | 美国加州红杉国家公园谢尔曼将军树高84米树龄2200年如巨如大如古如老如寿如长。红杉树干直径达11米如柱如塔如杆如桩如柱，森林如殿如堂如宫如殿如庙如宇如圣如殿。 | nature_reserves_036.jpg | 20×20 |
-| 38 | 第2章 | 奥林匹克雨林 | 美国华盛顿奥林匹克国家公园温带雨林苔藓如毯如被如衣如裳如绿如翠，年降水量达四千毫米如雨如泽如润如湿。罗斯福麋鹿在雨林中如觅如食如寻如找，潮池如海如洋如微如缩如景。 | nature_reserves_037.jpg | 20×20 |
-| 39 | 第2章 | 南极自然保护 | 南极大陆百分之九十八被冰雪覆盖，是地球上最寒冷最干燥的大陆。帝企鹅在暴风雪中孵卵，威德尔海豹在冰下潜游，南极条约将这片白色荒原划为和平与科学的保护区，是人类共同守护的最后一片净土。 | nature_reserves_038.jpg | 20×20 |
-| 40 | 第2章 | 马赛马拉保护 | 肯尼亚马赛马拉国家保护区是塞伦盖蒂生态系统的北延如续如延如伸如展。热气球在黎明升空俯瞰草原如梦如幻如仙如境，马赛人红袍在风中如飘如扬如舞如动如旗如帜。 | nature_reserves_039.jpg | 20×20 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 21 | 第2章 | 马努国家公园 | 秘鲁马努国家公园是亚马逊雨林中生物多样性最丰富的地区如宝如库如藏，鸟类超千种如群如队如云如集。美洲豹在密林中潜行如幽如灵如影如魅，金刚鹦鹉在黏土崖上如彩如虹如旗。 | Manu National Park | Peru's Manu National Park is the most biodiverse area in the Amazon rainforest. Bird species exceed a thousand. Jaguars prowl through dense forest like ghosts. Macaws gather on clay cliffs like rainbows and flags. | nature_reserves_020.jpg | 15×15 |
+| 22 | 第2章 | 维龙加公园 | 刚果维龙加国家公园是山地大猩猩的家园如家如园如乡如巢，大猩猩银背如王如帝如霸如主。维龙加是非洲最古老的国家公园如祖如宗如源，护林员为保护大猩猩献出生命如英如雄。 | Virunga Park | Congo's Virunga National Park is home to mountain gorillas. Silverback gorillas are like kings. Virunga is Africa's oldest national park. Rangers have sacrificed their lives protecting gorillas like heroes. | nature_reserves_021.jpg | 15×15 |
+| 23 | 第2章 | 峡湾国家公园 | 新西兰峡湾国家公园拥有南半球最壮观的峡湾如画如诗如梦如幻，米尔福德峡湾如仙如境如画。海豚在峡湾中如跃如跳如飞如翔，瀑布从千米悬崖倾泻如白如练如银如帘如幕如纱。 | Fiordland National Park | New Zealand's Fiordland National Park has the Southern Hemisphere's most spectacular fjords. Milford Sound is like a fairyland. Dolphins leap and soar in the fjords. Waterfalls cascade from kilometer-high cliffs like white silk and silver curtains. | nature_reserves_022.jpg | 15×15 |
+| 24 | 第2章 | 托雷斯德尔 | 智利百内国家公园花岗岩塔如塔如柱如针如刺如剑如戟直插苍穹，是巴塔哥尼亚的标志如碑如志如标。原驼在草原上奔跑如风如电如驰如骋，美洲狮在岩石后潜伏如猎如手如杀如手。 | Torres del Paine | Chile's Torres del Paine granite towers pierce the sky like needles and swords, Patagonia's landmark. Guanacos run across grasslands like wind and lightning. Pumas lurk behind rocks like hunters. | nature_reserves_023.jpg | 15×15 |
+| 25 | 第2章 | 纳米布诺克 | 纳米比亚纳米布诺克卢夫特国家公园拥有世界最高沙丘如巨如大如高如耸，红色沙丘在晨光中如血如焰如火。剑羚在沙漠中如适如应如生如存如活，鬣狗在骷髅海岸如猎如食如捕。 | Namib-Naukluft | Namibia's Namib-Naukluft National Park has the world's highest sand dunes. Red dunes glow like blood and fire in morning light. Oryx adapt and survive in the desert. Hyenas hunt on the Skeleton Coast. | nature_reserves_024.jpg | 15×15 |
+| 26 | 第2章 | 伊瓜苏公园 | 阿根廷巴西伊瓜苏国家公园拥有275道瀑布如帘如幕如纱如雾如烟，魔鬼咽喉瀑布如雷如轰如震如耳。巨嘴鸟在雨林中如彩如虹如旗如帜，蝴蝶在瀑布旁如群如队如云如集如会。 | Iguazú Park | Argentina and Brazil's Iguazú National Park has 275 waterfalls like curtains, mist, and smoke. Devil's Throat waterfall roars like thunder. Toucans in the rainforest are like rainbows and flags. Butterflies gather near the falls like clouds. | nature_reserves_025.jpg | 15×15 |
+| 27 | 第2章 | 普利特维采 | 克罗地亚普利特维采湖群国家公园十六个湖泊如蓝宝石如翡翠如碧玉如翠如珠如串。瀑布连接上下湖如白如练如银如帘如幕如纱如雾，湖水因矿物质和藻类呈现不同色彩如调如色如板。 | Plitvice Lakes | Croatia's Plitvice Lakes National Park has sixteen lakes like sapphires, emeralds, and jade strung like pearls. Waterfalls connect upper and lower lakes like white silk and silver curtains. Lake colors vary from minerals and algae like a palette. | nature_reserves_026.jpg | 15×15 |
+| 28 | 第2章 | 张家界武陵源 | 武陵源世界自然遗产三千座砂岩峰柱如天然盆景矗立云雾中如仙如境如画如梦。金鞭溪在峰林间蜿蜒如玉如带如丝如缕，天子山云雾缭绕如仙如境如画如梦如幻，百龙天梯如科幻电梯。 | Zhangjiajie Wulingyuan | Wulingyuan World Natural Heritage has three thousand sandstone pillars like natural bonsai standing in clouds like a fairyland. Golden Whip Stream winds through peak forests like a jade belt. Tianzi Mountain is shrouded in mist like a dream. Bailong Elevator is like a sci-fi elevator. | nature_reserves_027.jpg | 15×15 |
+| 29 | 第2章 | 黄山世界遗产 | 黄山世界文化与自然双重遗产以奇松怪石云海温泉四绝闻名天下如奇如特如绝如妙。迎客松在悬崖上伸展千年如臂如手如迎如客，光明顶观云海如白如色如海如洋如波如涛如涌如浪。 | Huangshan World Heritage | Huangshan World Cultural and Natural Heritage is famous for four wonders: strange pines, bizarre rocks, cloud sea, and hot springs. Greeting Pine stretches from the cliff for a thousand years like arms welcoming guests. Bright Summit overlooks the cloud sea like a white ocean with surging waves. | nature_reserves_028.jpg | 15×15 |
+| 30 | 第2章 | 九寨沟世界遗 | 九寨沟世界自然遗产以翠海叠瀑彩林雪峰藏情闻名如仙如境如画如梦如幻。五花海色彩斑斓如调如色如板如万如花如筒如彩如虹，珍珠滩瀑布如珠如帘如串如链如坠如落如散如碎。 | Jiuzhaigou World Heritage | Jiuzhaigou World Natural Heritage is famous for emerald lakes, cascading waterfalls, colorful forests, snow peaks, and Tibetan culture like a fairyland. Five-Flower Lake is brilliantly colored like a palette and kaleidoscope. Pearl Shoal Waterfall sparkles like pearls and chains. | nature_reserves_029.jpg | 15×15 |
+| 31 | 第2章 | 大烟雾山公园 | 美国大烟雾山国家公园是游客最多的国家公园，阿巴拉契亚山脉古老如老如古如远如久。雾气在山谷中如白如纱如雾如烟如云如海，黑熊在森林中如觅如食如寻如找，秋色绚烂如火如焰如金如黄如红。 | Great Smoky Mountains Park | America's Great Smoky Mountains National Park is the most visited national park. The Appalachian Mountains are ancient. Mist fills valleys like white gauze and clouds. Black bears forage in forests. Autumn colors are brilliant like fire, gold, and red. | nature_reserves_030.jpg | 15×15 |
+| 32 | 第2章 | 约塞米蒂花岗 | 美国约塞米蒂国家公园半穹顶如巨如大如圆如弧如穹如顶如帽，酋长岩如巨如大如高如耸如壁如墙。约塞米蒂瀑布如白如练如银如帘如幕如纱，红杉树如巨如大如高如耸如塔如柱如杆。 | Yosemite Granite | America's Yosemite National Park features Half Dome like a giant curved cap. El Capitan towers like a massive wall. Yosemite Falls cascade like white silk and silver curtains. Sequoia trees stand like giant towers and columns. | nature_reserves_031.jpg | 15×15 |
+| 33 | 第2章 | 锡安国家公园 | 美国犹他锡安国家公园红色砂岩峡谷如壁如墙如城如堡如殿如堂，维京河在谷底如玉如带如丝如缕。天使降临步道如险如峻如危如悬如高如耸，峡谷如窄如狭如缝如隙如线如丝如缝。 | Zion National Park | Utah's Zion National Park features red sandstone canyons like walls, castles, and temples. The Virgin River flows at the valley floor like a jade belt. Angels Landing trail is perilous and towering. The canyon narrows like a slit. | nature_reserves_032.jpg | 20×20 |
+| 36 | 第2章 | 大提顿雪山 | 美国怀俄明大提顿国家公园锯齿状山峰如齿如锯如剑如戟如刀如刃如锋，杰克逊湖如蓝宝石如镜如面如镜。驼鹿在湿地中如涉如水如觅如食，白头海雕在天空如翱如翔如盘如旋如飞。 | Grand Teton Snow Peaks | Wyoming's Grand Teton National Park has jagged peaks like saw teeth, swords, and blades. Jackson Lake is like a sapphire mirror. Moose wade through wetlands foraging. Bald eagles soar and circle in the sky. | nature_reserves_035.jpg | 20×20 |
+| 37 | 第2章 | 红杉国家公园 | 美国加州红杉国家公园谢尔曼将军树高84米树龄2200年如巨如大如古如老如寿如长。红杉树干直径达11米如柱如塔如杆如桩如柱，森林如殿如堂如宫如殿如庙如宇如圣如殿。 | Sequoia National Park | California's Sequoia National Park has General Sherman Tree at 84 meters tall and 2,200 years old. Sequoia trunk diameter reaches 11 meters like columns and towers. The forest is like a cathedral and sacred temple. | nature_reserves_036.jpg | 20×20 |
+| 38 | 第2章 | 奥林匹克雨林 | 美国华盛顿奥林匹克国家公园温带雨林苔藓如毯如被如衣如裳如绿如翠，年降水量达四千毫米如雨如泽如润如湿。罗斯福麋鹿在雨林中如觅如食如寻如找，潮池如海如洋如微如缩如景。 | Olympic Rainforest | Washington's Olympic National Park temperate rainforest has moss like blankets and green garments. Annual rainfall reaches 4,000 millimeters. Roosevelt elk forage in the rainforest. Tide pools are like miniature ocean scenes. | nature_reserves_037.jpg | 20×20 |
+| 39 | 第2章 | 南极自然保护 | 南极大陆百分之九十八被冰雪覆盖，是地球上最寒冷最干燥的大陆。帝企鹅在暴风雪中孵卵，威德尔海豹在冰下潜游，南极条约将这片白色荒原划为和平与科学的保护区，是人类共同守护的最后一片净土。 | Antarctic Nature Reserve | Ninety-eight percent of the Antarctic continent is covered in ice, Earth's coldest and driest continent. Emperor penguins incubate eggs in blizzards. Weddell seals dive under the ice. The Antarctic Treaty designates this white wilderness as a reserve for peace and science, humanity's last pristine land. | nature_reserves_038.jpg | 20×20 |
+| 40 | 第2章 | 马赛马拉保护 | 肯尼亚马赛马拉国家保护区是塞伦盖蒂生态系统的北延如续如延如伸如展。热气球在黎明升空俯瞰草原如梦如幻如仙如境，马赛人红袍在风中如飘如扬如舞如动如旗如帜。 | Maasai Mara Reserve | Kenya's Maasai Mara National Reserve is the northern extension of the Serengeti ecosystem. Hot air balloons rise at dawn overlooking the grasslands like a dreamland. Maasai red robes flutter in the wind like flags. | nature_reserves_039.jpg | 20×20 |
 
-### 第3章：美洲保护区（20张）
+### 第3章：美洲保护区 / American Reserves（20张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 41 | 第3章 | 安博塞利象群 | 肯尼亚安博塞利国家公园以乞力马扎罗雪山为背景如画如卷如诗如歌如梦。象群在雪山前如巨如大如山如岭如丘如峦，火烈鸟在湖面如粉如红如霞如彩如虹如旗如帜如帆如幔。 | nature_reserves_040.jpg | 20×20 |
-| 42 | 第3章 | 纳库鲁湖火烈 | 肯尼亚纳库鲁湖国家公园数百万只火烈鸟如粉如红如霞如彩如虹如旗如帜如帆如幔。火烈鸟滤食藻类使湖水如粉如红如色如彩如斑如斓，白犀牛在湖畔如觅如食如寻如找如步如行。 | nature_reserves_041.jpg | 20×20 |
-| 43 | 第3章 | 博茨瓦纳奥卡 | 博茨瓦纳奥卡万戈三角洲是世界最大的内陆三角洲如绿如洲如岛如珠如宝。河马在河道中如悠如然如自如得如乐，非洲野犬在草原上如猎如捕如杀如噬如追如逐如赶如逐如驱。 | nature_reserves_042.jpg | 20×20 |
-| 44 | 第3章 | 鲁阿哈保护区 | 坦桑尼亚鲁阿哈国家公园是非洲野犬的重要栖息地如家如园如巢如穴。野犬群如猎如捕如杀如噬如追如逐如赶如逐如驱，合作狩猎如军如队如团如队如组如织如纪如律如严如明。 | nature_reserves_043.jpg | 20×20 |
-| 45 | 第3章 | 下龙湾海上石 | 越南下龙湾一千六百座石灰岩岛屿如海上桂林如仙如境如画如梦如幻。溶洞在岛屿中如宫如殿如堂如庙如宇如圣如殿，渔村在湾中如浮如漂如荡如摇如晃如悠如然如自如得。 | nature_reserves_044.jpg | 20×20 |
-| 47 | 第3章 | 潘塔纳尔湿地 | 巴西潘塔纳尔湿地是世界最大的热带湿地面积十五万平方公里如海如洋如湖。美洲豹在湿地中如猎如捕如杀如噬如潜如行如伏如击，水豚在水中如悠如然如自如得如乐如游如泳。 | nature_reserves_046.jpg | 20×20 |
-| 48 | 第3章 | 大沼泽地公园 | 美国佛罗里达大沼泽地国家公园是北美最大的亚热带湿地如绿如洲如岛。短吻鳄在沼泽中如潜如伏如埋如藏如隐如蔽，白鹭在沼泽中如涉如水如觅如食如寻如找如步如行如走。 | nature_reserves_047.jpg | 20×20 |
-| 49 | 第3章 | 孙德尔本斯 | 孟加拉孙德尔本斯是世界最大的红树林如绿如色如屏如障如墙如城如堡。孟加拉虎在红树林中如潜如行如猎如捕如杀如噬如游如泳，潮汐如涨如落如起如伏如进如退如来如往。 | nature_reserves_048.jpg | 25×25 |
-| 50 | 第3章 | 白令海峡保护 | 俄罗斯白令海峡自然保护区是海象和海豹的栖息地如家如园如巢如穴。北极熊在浮冰上如猎如捕如杀如噬如寻如找如等如待如守如望，鲸鱼在海峡中如游如弋如穿如梭如往如返。 | nature_reserves_049.jpg | 25×25 |
-| 51 | 第3章 | 斯瓦尔巴群岛 | 挪威斯瓦尔巴群岛是北极熊的王国如帝如国如王如朝如领如土如疆如域。北极熊在浮冰上如猎如捕如杀如噬如寻如找如等如待，北极狐如白如雪如银如霜如冰如晶如钻如石如尘。 | nature_reserves_050.jpg | 25×25 |
-| 52 | 第3章 | 南极保护区 | 南极洲是世界上最大的自然保护区如净如土如圣如地如天如堂如仙如境。帝企鹅在极寒中如孵如蛋如育如雏如护如佑如守如护如卫，南极条约如保如护如守如卫如维如护如珍如惜。 | nature_reserves_051.jpg | 25×25 |
-| 53 | 第3章 | 雅鲁藏布大峡 | 西藏雅鲁藏布大峡谷是世界最深峡谷最深处6009米如巨如深如渊如壑如沟如缝。南迦巴瓦峰在峡谷中如隐如现如云如雾如纱如幕，墨脱如莲如花如秘如境如隐如藏如藏如匿如秘。 | nature_reserves_052.jpg | 25×25 |
-| 54 | 第3章 | 鼎湖山保护区 | 广东鼎湖山是中国第一个自然保护区建于1956年如先如驱如开如创如鼻如祖。南亚热带季风常绿阔叶林如绿如色如海如洋如波如涛如浪，庆云寺在山中如古如老如千如年如历如史。 | nature_reserves_053.jpg | 25×25 |
-| 55 | 第3章 | 扎龙丹顶鹤 | 黑龙江扎龙自然保护区是丹顶鹤的重要繁殖地如家如园如巢如穴如窝。丹顶鹤在湿地中如翩如翩如起如舞如仙如神如圣如灵，芦苇荡如绵如延如铺如展如金如色如海如洋如波如浪。 | nature_reserves_054.jpg | 25×25 |
-| 56 | 第3章 | 盐城湿地候鸟 | 江苏盐城湿地是东亚候鸟迁徙的重要中转站如驿如站如港如口如站。丹顶鹤在此越冬如栖如息如停如留如居如住，勺嘴鹬如濒如危如稀如少如珍如贵如稀如世如宝如珍如稀。 | nature_reserves_055.jpg | 25×25 |
-| 57 | 第3章 | 唐家河保护区 | 四川唐家河自然保护区是大熊猫栖息地之一如家如园如巢如穴如窝。川金丝猴在树冠间如跳如跃如飞如翔如仙如灵如精，扭角羚在山崖上如攀如岩如壁如走如壁如飞如檐如走如壁。 | nature_reserves_056.jpg | 25×25 |
-| 58 | 第3章 | 阿尔金山无人 | 新疆阿尔金山自然保护区是中国最大的高山野生动物保护区如广如阔如大如巨。藏野驴在荒原上如奔如跑如风如电如驰如骋，野牦牛如巨如大如凶如猛如霸如道如蛮如横如力。 | nature_reserves_057.jpg | 25×25 |
-| 59 | 第3章 | 羌塘无人区 | 西藏羌塘无人区面积近三十万平方公里如广如阔如大如巨如荒如凉如壮如美。藏羚羊在荒原上如奔如跑如风如电如驰如骋如飞如驰，棕熊在河谷中如觅如食如寻如找如猎如捕。 | nature_reserves_058.jpg | 25×25 |
-| 60 | 第3章 | 查亚尼加尔 | 哥斯达黎加查亚尼加尔云雾森林保护区生物多样性惊人如宝如库如藏如富。绿咬鹃如彩如虹如宝如石如翡如翠如翠如绿如金如红，树蛙如小如微如彩如色如斑如斓如红如蓝如黄。 | nature_reserves_059.jpg | 25×25 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 41 | 第3章 | 安博塞利象群 | 肯尼亚安博塞利国家公园以乞力马扎罗雪山为背景如画如卷如诗如歌如梦。象群在雪山前如巨如大如山如岭如丘如峦，火烈鸟在湖面如粉如红如霞如彩如虹如旗如帜如帆如幔。 | Amboseli Elephant Herds | Kenya's Amboseli National Park features Kilimanjaro's snow-capped peak as backdrop like a painting and poem. Elephant herds before the snow mountain are massive as hills. Flamingos on the lake are like pink clouds and banners. | nature_reserves_040.jpg | 20×20 |
+| 42 | 第3章 | 纳库鲁湖火烈 | 肯尼亚纳库鲁湖国家公园数百万只火烈鸟如粉如红如霞如彩如虹如旗如帜如帆如幔。火烈鸟滤食藻类使湖水如粉如红如色如彩如斑如斓，白犀牛在湖畔如觅如食如寻如找如步如行。 | Lake Nakuru Flamingos | Kenya's Lake Nakuru National Park has millions of flamingos like pink clouds and banners. Flamingos filter-feed on algae making the lake pink and colorful. White rhinos forage along the lakeshore. | nature_reserves_041.jpg | 20×20 |
+| 43 | 第3章 | 博茨瓦纳奥卡 | 博茨瓦纳奥卡万戈三角洲是世界最大的内陆三角洲如绿如洲如岛如珠如宝。河马在河道中如悠如然如自如得如乐，非洲野犬在草原上如猎如捕如杀如噬如追如逐如赶如逐如驱。 | Botswana Okavango | Botswana's Okavango Delta is the world's largest inland delta like a green oasis. Hippos relax in channels. African wild dogs hunt on the grasslands in coordinated packs. | nature_reserves_042.jpg | 20×20 |
+| 44 | 第3章 | 鲁阿哈保护区 | 坦桑尼亚鲁阿哈国家公园是非洲野犬的重要栖息地如家如园如巢如穴。野犬群如猎如捕如杀如噬如追如逐如赶如逐如驱，合作狩猎如军如队如团如队如组如织如纪如律如严如明。 | Ruaha Reserve | Tanzania's Ruaha National Park is an important habitat for African wild dogs. Wild dog packs hunt cooperatively like a disciplined military team. | nature_reserves_043.jpg | 20×20 |
+| 45 | 第3章 | 下龙湾海上石 | 越南下龙湾一千六百座石灰岩岛屿如海上桂林如仙如境如画如梦如幻。溶洞在岛屿中如宫如殿如堂如庙如宇如圣如殿，渔村在湾中如浮如漂如荡如摇如晃如悠如然如自如得。 | Ha Long Bay Sea Stones | Vietnam's Ha Long Bay has 1,600 limestone islands like Guilin on the sea, a fairyland. Caves within islands are like palaces and temples. Fishing villages float on the bay, serene and content. | nature_reserves_044.jpg | 20×20 |
+| 47 | 第3章 | 潘塔纳尔湿地 | 巴西潘塔纳尔湿地是世界最大的热带湿地面积十五万平方公里如海如洋如湖。美洲豹在湿地中如猎如捕如杀如噬如潜如行如伏如击，水豚在水中如悠如然如自如得如乐如游如泳。 | Pantanal Wetlands | Brazil's Pantanal is the world's largest tropical wetland at 150,000 square kilometers like a sea. Jaguars hunt and ambush in the wetlands. Capybaras swim leisurely in the water. | nature_reserves_046.jpg | 20×20 |
+| 48 | 第3章 | 大沼泽地公园 | 美国佛罗里达大沼泽地国家公园是北美最大的亚热带湿地如绿如洲如岛。短吻鳄在沼泽中如潜如伏如埋如藏如隐如蔽，白鹭在沼泽中如涉如水如觅如食如寻如找如步如行如走。 | Everglades Park | Florida's Everglades National Park is North America's largest subtropical wetland like a green island. Alligators lurk hidden in the swamp. White egrets wade through the marsh foraging. | nature_reserves_047.jpg | 20×20 |
+| 49 | 第3章 | 孙德尔本斯 | 孟加拉孙德尔本斯是世界最大的红树林如绿如色如屏如障如墙如城如堡。孟加拉虎在红树林中如潜如行如猎如捕如杀如噬如游如泳，潮汐如涨如落如起如伏如进如退如来如往。 | Sundarbans | Bangladesh's Sundarbans is the world's largest mangrove forest like a green fortress. Bengal tigers prowl, hunt, and swim in the mangroves. Tides ebb and flow like breathing. | nature_reserves_048.jpg | 25×25 |
+| 50 | 第3章 | 白令海峡保护 | 俄罗斯白令海峡自然保护区是海象和海豹的栖息地如家如园如巢如穴。北极熊在浮冰上如猎如捕如杀如噬如寻如找如等如待如守如望，鲸鱼在海峡中如游如弋如穿如梭如往如返。 | Bering Strait Reserve | Russia's Bering Strait Nature Reserve is habitat for walruses and seals. Polar bears hunt on floating ice, waiting and watching. Whales swim through the strait like shuttles. | nature_reserves_049.jpg | 25×25 |
+| 51 | 第3章 | 斯瓦尔巴群岛 | 挪威斯瓦尔巴群岛是北极熊的王国如帝如国如王如朝如领如土如疆如域。北极熊在浮冰上如猎如捕如杀如噬如寻如找如等如待，北极狐如白如雪如银如霜如冰如晶如钻如石如尘。 | Svalbard Archipelago | Norway's Svalbard is the kingdom of polar bears. Polar bears hunt on floating ice, searching and waiting. Arctic foxes are white as snow, silver as frost, sparkling like diamond dust. | nature_reserves_050.jpg | 25×25 |
+| 52 | 第3章 | 南极保护区 | 南极洲是世界上最大的自然保护区如净如土如圣如地如天如堂如仙如境。帝企鹅在极寒中如孵如蛋如育如雏如护如佑如守如护如卫，南极条约如保如护如守如卫如维如护如珍如惜。 | Antarctic Reserve | Antarctica is the world's largest nature reserve like a pure land and sacred realm. Emperor penguins incubate eggs and nurture chicks in extreme cold. The Antarctic Treaty protects and preserves this treasure. | nature_reserves_051.jpg | 25×25 |
+| 53 | 第3章 | 雅鲁藏布大峡 | 西藏雅鲁藏布大峡谷是世界最深峡谷最深处6009米如巨如深如渊如壑如沟如缝。南迦巴瓦峰在峡谷中如隐如现如云如雾如纱如幕，墨脱如莲如花如秘如境如隐如藏如藏如匿如秘。 | Yarlung Tsangpo Grand Canyon | Tibet's Yarlung Tsangpo Grand Canyon is the world's deepest canyon at 6,009 meters. Namcha Barwa Peak appears and disappears through clouds and mist. Medog is like a hidden lotus, a secret realm. | nature_reserves_052.jpg | 25×25 |
+| 54 | 第3章 | 鼎湖山保护区 | 广东鼎湖山是中国第一个自然保护区建于1956年如先如驱如开如创如鼻如祖。南亚热带季风常绿阔叶林如绿如色如海如洋如波如涛如浪，庆云寺在山中如古如老如千如年如历如史。 | Dinghushan Reserve | Guangdong's Dinghushan is China's first nature reserve established in 1956, a pioneer. South subtropical monsoon evergreen broadleaf forest is like a green ocean with waves. Qingyun Temple in the mountains has a thousand-year history. | nature_reserves_053.jpg | 25×25 |
+| 55 | 第3章 | 扎龙丹顶鹤 | 黑龙江扎龙自然保护区是丹顶鹤的重要繁殖地如家如园如巢如穴如窝。丹顶鹤在湿地中如翩如翩如起如舞如仙如神如圣如灵，芦苇荡如绵如延如铺如展如金如色如海如洋如波如浪。 | Zhalong Red-Crowned Cranes | Heilongjiang's Zhalong Nature Reserve is an important breeding ground for red-crowned cranes. Cranes dance in wetlands like celestial spirits. Reed marshes stretch like a golden ocean with waves. | nature_reserves_054.jpg | 25×25 |
+| 56 | 第3章 | 盐城湿地候鸟 | 江苏盐城湿地是东亚候鸟迁徙的重要中转站如驿如站如港如口如站。丹顶鹤在此越冬如栖如息如停如留如居如住，勺嘴鹬如濒如危如稀如少如珍如贵如稀如世如宝如珍如稀。 | Yancheng Wetland Migratory Birds | Jiangsu's Yancheng wetland is an important stopover for East Asian migratory birds. Red-crowned cranes winter here. Spoon-billed sandpipers are endangered, rare, and precious. | nature_reserves_055.jpg | 25×25 |
+| 57 | 第3章 | 唐家河保护区 | 四川唐家河自然保护区是大熊猫栖息地之一如家如园如巢如穴如窝。川金丝猴在树冠间如跳如跃如飞如翔如仙如灵如精，扭角羚在山崖上如攀如岩如壁如走如壁如飞如檐如走如壁。 | Tangjiahe Reserve | Sichuan's Tangjiahe Nature Reserve is a giant panda habitat. Sichuan golden snub-nosed monkeys leap through the canopy like spirits. Takin climb mountain cliffs like walking on walls. | nature_reserves_056.jpg | 25×25 |
+| 58 | 第3章 | 阿尔金山无人 | 新疆阿尔金山自然保护区是中国最大的高山野生动物保护区如广如阔如大如巨。藏野驴在荒原上如奔如跑如风如电如驰如骋，野牦牛如巨如大如凶如猛如霸如道如蛮如横如力。 | Altun Mountain Reserve | Xinjiang's Altun Mountain Nature Reserve is China's largest alpine wildlife reserve. Tibetan wild asses run across the wilderness like wind. Wild yaks are massive, fierce, and powerful. | nature_reserves_057.jpg | 25×25 |
+| 59 | 第3章 | 羌塘无人区 | 西藏羌塘无人区面积近三十万平方公里如广如阔如大如巨如荒如凉如壮如美。藏羚羊在荒原上如奔如跑如风如电如驰如骋如飞如驰，棕熊在河谷中如觅如食如寻如找如猎如捕。 | Qiangtang No Man's Land | Tibet's Qiangtang no man's land covers nearly 300,000 square kilometers, vast, desolate, and magnificent. Tibetan antelopes run across the wilderness like wind. Brown bears forage and hunt in river valleys. | nature_reserves_058.jpg | 25×25 |
+| 60 | 第3章 | 查亚尼加尔 | 哥斯达黎加查亚尼加尔云雾森林保护区生物多样性惊人如宝如库如藏如富。绿咬鹃如彩如虹如宝如石如翡如翠如翠如绿如金如红，树蛙如小如微如彩如色如斑如斓如红如蓝如黄。 | Monteverde Cloud Forest | Costa Rica's Monteverde Cloud Forest Reserve has astonishing biodiversity. Resplendent quetzals are like rainbows, emeralds, and gold. Tree frogs are tiny and colorful in red, blue, and yellow. | nature_reserves_059.jpg | 25×25 |
 
 **图片规格：**
 - 分辨率：2496×1664（3:2宽高比）

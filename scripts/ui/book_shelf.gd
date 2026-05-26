@@ -48,6 +48,7 @@ func _ready() -> void:
 	DLCManager.album_pack_loaded.connect(_on_album_pack_loaded)
 	DLCManager.album_pack_download_failed.connect(_on_album_pack_download_failed)
 	DLCManager.album_pack_download_progress.connect(_on_album_pack_download_progress)
+	GameManager.language_changed.connect(_on_language_changed)
 	_load_shelf()
 	if GameManager.pending_album_id != "":
 		AudioManager.play_bgm_for_album(GameManager.pending_album_id)
@@ -59,6 +60,18 @@ func _exit_tree() -> void:
 	_destroying = true
 	if OrientationManager.orientation_changed.is_connected(_on_orientation_changed):
 		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
+	if GameManager.language_changed.is_connected(_on_language_changed):
+		GameManager.language_changed.disconnect(_on_language_changed)
+
+func _on_language_changed(_language: int) -> void:
+	_refresh_localized_text()
+
+func _refresh_localized_text() -> void:
+	if current_bookshelf_id == "":
+		return
+	var bookshelf_data = BookshelfDataScript.get_bookshelf(current_bookshelf_id)
+	p_title.text = GameManager.get_localized(bookshelf_data, "name")
+	l_title.text = GameManager.get_localized(bookshelf_data, "name")
 
 func _get_active_vbox() -> VBoxContainer:
 	if portrait_ui.visible:
@@ -80,8 +93,8 @@ func _load_shelf() -> void:
 	current_bookshelf_index = clamp(current_bookshelf_index, 0, bookshelf_list.size() - 1)
 	current_bookshelf_id = bookshelf_list[current_bookshelf_index]["id"]
 	var bookshelf_data = BookshelfDataScript.get_bookshelf(current_bookshelf_id)
-	p_title.text = bookshelf_data["name"]
-	l_title.text = bookshelf_data["name"]
+	p_title.text = GameManager.get_localized(bookshelf_data, "name")
+	l_title.text = GameManager.get_localized(bookshelf_data, "name")
 	current_albums = AlbumDataScript.load_albums(current_bookshelf_id)
 	_update_nav_buttons()
 	_display_albums()
@@ -146,7 +159,7 @@ func _update_items_visibility() -> void:
 
 func _on_locked_album_clicked(album_id: String) -> void:
 	AudioManager.play_sfx("click")
-	_show_toast("完成前一本画册即可解锁")
+	_show_toast(tr("完成前一本画册即可解锁"))
 
 func _play_completion_animations(buttons: Array) -> void:
 	if buttons.is_empty():
@@ -159,7 +172,7 @@ func _play_completion_animations(buttons: Array) -> void:
 func _on_download_album_clicked(album_id: String) -> void:
 	AudioManager.play_sfx("click")
 	if DLCManager.is_downloading():
-		_show_toast("正在下载中，请稍候...")
+		_show_toast(tr("正在下载中，请稍候..."))
 		return
 	var btn = _find_book_button(album_id)
 	if btn:
@@ -171,7 +184,7 @@ func _on_album_pack_loaded(album_id: String) -> void:
 		_load_shelf()
 
 func _on_album_pack_download_failed(album_id: String, error: String) -> void:
-	_show_toast("下载失败: " + error)
+	_show_toast(tr("下载失败: ") + error)
 	var btn = _find_book_button(album_id)
 	if btn:
 		btn.show_download_failed()

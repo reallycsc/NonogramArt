@@ -91,6 +91,7 @@ func _ready() -> void:
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
 	_apply_orientation(OrientationManager.current_orientation)
 	GameManager.preload_scene("res://scenes/nonogram_scene.tscn")
+	GameManager.language_changed.connect(_on_language_changed)
 	_setup_chapter_badges()
 
 func _exit_tree() -> void:
@@ -98,15 +99,47 @@ func _exit_tree() -> void:
 		GameManager.save_picture_index(current_album_id, _current_picture_index)
 	if OrientationManager.orientation_changed.is_connected(_on_orientation_changed):
 		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
+	if GameManager.language_changed.is_connected(_on_language_changed):
+		GameManager.language_changed.disconnect(_on_language_changed)
 	if _fullscreen_viewer:
 		_fullscreen_viewer.queue_free()
 		_fullscreen_viewer = null
+	AnimationManager.clear_queue()
 	_puzzle_cache.clear()
 	_texture_cache.clear()
 	_texture_lru.clear()
 	_region_tex_cache.clear()
 	_loading_textures.clear()
 	_pending_display = false
+
+func _on_language_changed(_language: int) -> void:
+	if _pictures.is_empty():
+		return
+	_refresh_page_texts()
+	_setup_chapter_badges()
+
+func _refresh_page_texts() -> void:
+	var display_index = _get_display_index()
+	var picture = _pictures[display_index]
+	_refresh_picture_text(picture, p_title, p_illustration_area, p_album_text)
+	if _is_landscape():
+		_refresh_picture_text(picture, l_title, l_illustration_area, l_album_text)
+		var second_index = display_index + 1
+		if second_index < _pictures.size():
+			var picture2 = _pictures[second_index]
+			_refresh_picture_text(picture2, l_title2, l_illustration_area2, l_album_text2)
+
+func _refresh_picture_text(picture: Dictionary, title: Label, area: Control, text_label: Label) -> void:
+	var pic_id = picture.get("id", "")
+	var title_text = GameManager.get_localized(picture, "title")
+	var full_text = GameManager.get_localized(picture, "full_text")
+	_stop_typewriter(area)
+	if GameManager.is_picture_completed(pic_id):
+		title.text = title_text
+		text_label.text = full_text
+	else:
+		title.text = _generate_gibberish(title_text.length(), pic_id + "_title")
+		text_label.text = _generate_gibberish(full_text.length(), pic_id)
 
 func _is_landscape() -> bool:
 	return landscape_ui.visible
@@ -183,10 +216,10 @@ func _clear_page(title: Label, area: Control, text: Label, page_num: Label) -> v
 
 func _load_picture(picture: Dictionary, title: Label, area: Control, text_label: Label, page_num: Label, picture_index: int) -> void:
 	var pic_id = picture.get("id", "")
-	var title_text = picture.get("title", "")
+	var title_text = GameManager.get_localized(picture, "title")
 	page_num.text = "%d/%d" % [picture_index + 1, _pictures.size()]
 
-	var full_text = picture.get("full_text", "")
+	var full_text = GameManager.get_localized(picture, "full_text")
 
 	_stop_typewriter(area)
 
@@ -218,7 +251,7 @@ func _load_picture(picture: Dictionary, title: Label, area: Control, text_label:
 	_build_illustration(area, picture, picture_index)
 
 func _generate_gibberish(length: int, seed_str: String) -> String:
-	var chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*"
+	var chars = "■□▢▣▤▥▦▧▨▩▪▫▬▭▮▯▰▱▲△▴▵▶▷▸▹►▻▼▽▾▿◀◁◂◃◄◅◆◇◈◉◊○◌◍◎●◐◑◒◓◔◕◖◗◘◙◚◛◜◝◞◟◠◡◢◣◤◥◦◧◨◩◪◫◬◭◮◯◰◱◲◳◴◵◶◷◸◹◺◿!@#$%^&*∠∟⊿⊾⊽⊼⊻⊺⊹⊸⊷⊶⊵⊴⊳⊲⊱⊰⊯⊮⊭⊬⊫⊪⊩⊨⊧⊦⊥⊤⊣⊢⊡⊠⊟⊞⊝⊜⊛⊚⊙⊘⊗⊖⊕⊔⊓⊒⊑⊐⊏⊎⊍⊌⊋⊊⊉⊈⊇⊆⊅⊄⊃⊂⊁⊀∀∁∂∃∄∅∆∇∈∉∊∋∌∍∎∏∐∑−∓∔∕∖∗∘∙√∛∜∝∞∟∠∡∢∣∤∥∦∧∨∩∪∫∬∭∮∯∰∱∲∳∴∵∶∷∸∹∺∻∼∽∾∿≀≁≂≃≄≅≆≇≈≉≊≋≌≍≎≏≐≑≒≓≔≕≖≗≘≙≚≛≜≝≞≟≠≡≢≣≤≥≦≧≨≩≪≫≬≭≮≯≰≱≲≳≴≵≶≷≸≹≺≻≼≽≾≿"
 	var result = ""
 	var seed_val = _string_to_seed(seed_str)
 	var state = seed_val
@@ -1075,7 +1108,7 @@ func _on_region_clicked(puzzle: PuzzleData) -> void:
 
 	if btn and btn.has_meta("locked") and btn.get_meta("locked"):
 		AudioManager.play_sfx("click")
-		_show_toast("完成前一张图片即可解锁")
+		_show_toast(tr("完成前一张图片即可解锁"))
 		return
 
 	AudioManager.play_sfx("click")
@@ -1381,7 +1414,7 @@ func _setup_chapter_badges() -> void:
 
 	for chapter in chapters:
 		var chapter_id: String = chapter.get("id", "")
-		var chapter_name: String = chapter.get("name", "")
+		var chapter_name: String = GameManager.get_localized(chapter, "name")
 		var picture_ids = chapter.get("picture_ids", [])
 
 		var completed_count = 0
@@ -1404,8 +1437,8 @@ func _setup_chapter_badges() -> void:
 			badge_grey_tex = load(badge_icon_grey_path) as Texture2D
 
 		if badge_tex:
-			_add_badge_to_container(p_medals_container, chapter_id, chapter_name, badge_tex, badge_grey_tex, completed_count, total_count)
-			_add_badge_to_container(l_medals_container, chapter_id, chapter_name, badge_tex, badge_grey_tex, completed_count, total_count)
+			_add_badge_to_container(p_medals_container, chapter_id, chapter_name, badge_tex, badge_grey_tex, completed_count, total_count, badge_icon_path)
+			_add_badge_to_container(l_medals_container, chapter_id, chapter_name, badge_tex, badge_grey_tex, completed_count, total_count, badge_icon_path)
 
 
 func _clear_medals_container(container: HBoxContainer) -> void:
@@ -1414,12 +1447,11 @@ func _clear_medals_container(container: HBoxContainer) -> void:
 		child.queue_free()
 
 
-func _add_badge_to_container(container: HBoxContainer, chapter_id: String, chapter_name: String, badge_tex: Texture2D, badge_grey_tex: Texture2D, completed_count: int, total_count: int) -> void:
+func _add_badge_to_container(container: HBoxContainer, chapter_id: String, chapter_name: String, badge_tex: Texture2D, badge_grey_tex: Texture2D, completed_count: int, total_count: int, badge_icon_path: String = "") -> void:
 	var badge = BadgeButtonScene.instantiate()
 	badge.name = "Badge_" + chapter_id
 	container.add_child(badge)
-	badge.setup(chapter_id, chapter_name, badge_tex, badge_grey_tex, completed_count, total_count)
-			
+	badge.setup(chapter_id, chapter_name, badge_tex, badge_grey_tex, completed_count, total_count, badge_icon_path)
 
 
 func _get_just_completed_picture_id() -> String:

@@ -21,7 +21,10 @@
       ],
       "order": 0,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_000_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Karnak Temple of Egypt",
+      "summary_en": "",
+      "full_text_en": "The Hypostyle Hall of Karnak Temple at Luxor, with 134 massive columns rising like a stone forest. The tallest columns reach 23 meters, their surfaces covered with reliefs and paintings. Sunlight pours through clerestory windows like divine light—the most magnificent architectural space of ancient Egypt."
     },
     {
       "id": "architecture_001",
@@ -43,7 +46,10 @@
       ],
       "order": 1,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_001_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Karnak Temple",
+      "summary_en": "",
+      "full_text_en": "The Karnak Temple at Luxor, Egypt, was expanded over two thousand years. In the Hypostyle Hall, 134 massive columns tower like a stone forest. Papyrus-shaped capitals bloom like a primordial forest, obelisks bear hieroglyphs recording pharaohs' achievements. Karnak is ancient Egypt's largest temple complex, the ultimate expression of a dwelling place for the gods."
     },
     {
       "id": "architecture_002",
@@ -65,7 +71,10 @@
       ],
       "order": 2,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_002_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Ziggurat of Ur",
+      "summary_en": "",
+      "full_text_en": "The Sumerian ziggurat at Ur in Iraq, with progressively receding steps like a ladder to heaven. Its base measures 64 meters square and rises 30 meters high—the earliest temple architectural form in Mesopotamia, symbolizing the vertical channel between humans and gods."
     },
     {
       "id": "architecture_003",
@@ -87,7 +96,10 @@
       ],
       "order": 3,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_003_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Isfahan Imam Mosque",
+      "summary_en": "",
+      "full_text_en": "The Imam Mosque in Isfahan, Iran, is covered in blue glazed tiles on its dome and walls, with geometric patterns extending infinitely like a kaleidoscope. The entrance portal is angled 45 degrees from the main axis to face Mecca. Its acoustic design allows echoes to reverberate beneath the dome—the most splendid chapter of Safavid Persian architecture."
     },
     {
       "id": "architecture_005",
@@ -109,29 +121,10 @@
       ],
       "order": 4,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_005_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
-    },
-    {
-      "id": "architecture_006",
-      "title": "罗马万神殿",
-      "summary": "罗马万神殿穹顶直径四十三米如苍穹覆盖，顶部九米圆洞如天眼倾泻...",
-      "full_text": "罗马万神殿穹顶直径四十三米如苍穹覆盖，顶部九米圆洞如天眼倾泻天光，混凝土穹顶如宇宙般完美球体，为古罗马建筑技术的巅峰，屹立近两千年。",
-      "image": "res://assets/images/illustrations/architecture/architecture_006.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "architecture_006_0",
-        "architecture_006_1",
-        "architecture_006_2",
-        "architecture_006_3",
-        "architecture_006_4",
-        "architecture_006_5"
-      ],
-      "order": 5,
-      "pixel_image": "res://assets/images/illustrations/architecture/architecture_006_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Erechtheion of Athens",
+      "summary_en": "",
+      "full_text_en": "The Erechtheion on the Athenian Acropolis, with six maiden columns—petrified Caryatids—supporting the porch. The slender elegance of the Ionic order contrasts with the robustness of the Parthenon, the most graceful chapter of classical architecture."
     },
     {
       "id": "architecture_007",
@@ -153,7 +146,10 @@
       ],
       "order": 6,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_007_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Pantheon of Rome",
+      "summary_en": "",
+      "full_text_en": "The Pantheon in Rome, with a dome spanning 43 meters like a canopy of heaven. The 9-meter oculus at its apex pours down celestial light like the eye of heaven. The concrete dome forms a perfect sphere like the cosmos—the pinnacle of Roman architectural engineering, standing for nearly two thousand years."
     },
     {
       "id": "architecture_008",
@@ -175,7 +171,10 @@
       ],
       "order": 7,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_008_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Roman Imperial Baths",
+      "summary_en": "",
+      "full_text_en": "The Baths of Caracalla in Rome covered 11 hectares and could accommodate 1,600 bathers simultaneously. Vaulted structures supported the massive frigidarium ceiling, while underground furnaces and pipe systems heated pools of varying temperatures. The complex included libraries and gymnasiums—a monument to Roman engineering and public life."
     },
     {
       "id": "architecture_009",
@@ -197,7 +196,10 @@
       ],
       "order": 8,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_009_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Baths of Caracalla",
+      "summary_en": "",
+      "full_text_en": "The Baths of Caracalla in Rome were like a palace within the city. Vaulted halls housed hot, warm, and cold baths in sequence, with mosaic floors and marble walls like a luxurious palace—the culmination of Roman public architecture and engineering."
     },
     {
       "id": "architecture_010",
@@ -219,29 +221,10 @@
       ],
       "order": 9,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_010_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
-    },
-    {
-      "id": "architecture_012",
-      "title": "唐大明宫含元殿",
-      "summary": "长安大明宫含元殿建于龙首原上，三层台基如天梯，殿前龙尾道蜿蜒...",
-      "full_text": "长安大明宫含元殿建于龙首原上，三层台基如天梯，殿前龙尾道蜿蜒而上，面阔十三间如朝堂之极，为唐代最宏伟的宫殿建筑，万国来朝于此。",
-      "image": "res://assets/images/illustrations/architecture/architecture_012.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "architecture_012_0",
-        "architecture_012_1",
-        "architecture_012_2",
-        "architecture_012_3",
-        "architecture_012_4",
-        "architecture_012_5"
-      ],
-      "order": 10,
-      "pixel_image": "res://assets/images/illustrations/architecture/architecture_012_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Roman Aqueduct: Pont du Gard",
+      "summary_en": "",
+      "full_text_en": "The Pont du Gard near Nîmes, France, spans the river valley with three tiers of arches, rising 49 meters like a stone rainbow. With a precise gradient, it carried water over 50 kilometers—like a giant's mathematical game, a perfect union of Roman engineering utility and grandeur."
     },
     {
       "id": "architecture_013",
@@ -263,7 +246,10 @@
       ],
       "order": 11,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_013_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Great Wall at Badaling",
+      "summary_en": "",
+      "full_text_en": "China's Great Wall stretches across northern mountains like a winding dragon. The Badaling section is built of brick and stone, with watchtowers and beacon towers spaced at intervals, rising and falling with the terrain. Stretching ten thousand li, it is humanity's largest construction project and the spiritual symbol of Chinese civilization."
     },
     {
       "id": "architecture_014",
@@ -285,7 +271,10 @@
       ],
       "order": 12,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_014_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Hanyuan Hall of Daming Palace",
+      "summary_en": "",
+      "full_text_en": "The Hanyuan Hall of Daming Palace in Chang'an was built on Longshou Ridge. Its three-tiered platform rose like a celestial staircase, with the Dragon Tail Way winding upward. Thirteen bays wide, it was the most magnificent palace building of the Tang dynasty, where envoys from all nations came to pay tribute."
     },
     {
       "id": "architecture_015",
@@ -307,7 +296,10 @@
       ],
       "order": 13,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_015_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "East Hall of Foguang Temple",
+      "summary_en": "",
+      "full_text_en": "The East Hall of Foguang Temple on Mount Wutai in Shanxi is the largest surviving Tang dynasty wooden structure. Seven bays wide with a single-eave hipped roof, its massive bracket sets and deep overhanging eaves resemble a great bird spreading its wings. Liang Sicheng hailed it as China's foremost national treasure, a living fossil of Tang architecture."
     },
     {
       "id": "architecture_016",
@@ -329,7 +321,10 @@
       ],
       "order": 14,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_016_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Main Hall of Nanchan Temple",
+      "summary_en": "",
+      "full_text_en": "The Main Hall of Nanchan Temple on Mount Wutai in Shanxi is the earliest surviving Tang dynasty wooden structure, rebuilt in the third year of Jianzhong. Three bays wide and three bays deep, with a single-eave gabled roof, it preserves the Tang style—the most precious physical evidence for studying Tang architecture."
     },
     {
       "id": "architecture_017",
@@ -351,7 +346,10 @@
       ],
       "order": 15,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_017_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Bayon Temple",
+      "summary_en": "",
+      "full_text_en": "The Bayon Temple at the center of Angkor Thom in Cambodia features 54 towers with four faces each—216 smiling countenances gazing in all directions. Each face is about two meters high, with slightly upturned lips, serene and mysterious, known as the Smile of the Khmer. The Bayon is Jayavarman VII's spiritual universe, a perfect unity of compassion and majesty."
     },
     {
       "id": "architecture_018",
@@ -373,7 +371,10 @@
       ],
       "order": 16,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_018_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Bagan Temple Complex",
+      "summary_en": "",
+      "full_text_en": "Over two thousand stupas and temples stand on the Bagan plains of Myanmar, built during the Bagan dynasty from the 11th to 13th centuries. The Shwezigon Pagoda gleams with gold, the Ananda Temple is deep as a cave. Hot air balloons rise at sunrise to overlook the temple forest like a chessboard—Bagan is Southeast Asia's most spectacular Buddhist architectural complex."
     },
     {
       "id": "architecture_020",
@@ -395,7 +396,10 @@
       ],
       "order": 17,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_020_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Tower of the Winds in Athens",
+      "summary_en": "",
+      "full_text_en": "The Tower of the Winds in the Roman Agora of Athens is an octagonal building. Relief sculptures on each of the eight faces represent a different wind direction, with a weather vane on top like a sailor's guide. Its internal water clock functioned like a time machine—an exquisite combination of ancient Greek science and architecture."
     },
     {
       "id": "architecture_021",
@@ -417,29 +421,10 @@
       ],
       "order": 18,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_021_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
-    },
-    {
-      "id": "architecture_022",
-      "title": "巴黎圣母院",
-      "summary": "巴黎圣母院为法国早期哥特式杰作，飞扶壁如石肋支撑如骨骼外翻，...",
-      "full_text": "巴黎圣母院为法国早期哥特式杰作，飞扶壁如石肋支撑如骨骼外翻，玫瑰窗如万花筒洒下彩色天光，尖塔刺破天际如手指指向上帝，为哥特建筑的里程碑。",
-      "image": "res://assets/images/illustrations/architecture/architecture_022.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "architecture_022_0",
-        "architecture_022_1",
-        "architecture_022_2",
-        "architecture_022_3",
-        "architecture_022_4",
-        "architecture_022_5"
-      ],
-      "order": 19,
-      "pixel_image": "res://assets/images/illustrations/architecture/architecture_022_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Jordanian Desert Castles",
+      "summary_en": "",
+      "full_text_en": "Scattered across the eastern desert of Jordan are Umayyad desert palaces. The frescoes at Qusayr Amra depict hunters and star maps. The zodiac on the bathhouse dome is a rare example of figurative painting in Islamic art. These desert castles served as the caliphs' summer retreats and political strongholds."
     },
     {
       "id": "architecture_023",
@@ -461,7 +446,10 @@
       ],
       "order": 20,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_023_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Hagia Sophia",
+      "summary_en": "",
+      "full_text_en": "The dome of the Byzantine Hagia Sophia, 32 meters in diameter, hovers like a suspended canopy. Pendentives transition the circular dome to the square space like a miracle. Forty windows create the illusion of a floating halo—the pinnacle of Orthodox architecture, influencing church design for a millennium."
     },
     {
       "id": "architecture_024",
@@ -483,7 +471,10 @@
       ],
       "order": 21,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_024_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "St. Mark's Basilica in Venice",
+      "summary_en": "",
+      "full_text_en": "St. Mark's Basilica in Venice, with its five domes like an Eastern crown. Golden mosaics cover the domes like the light of paradise, and four bronze horses guard the entrance like imperial glory. Fusing Byzantine and Gothic styles, it is the symbol of the Venetian Republic."
     },
     {
       "id": "architecture_025",
@@ -505,7 +496,10 @@
       ],
       "order": 22,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_025_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Chartres Cathedral",
+      "summary_en": "",
+      "full_text_en": "The 176 stained glass windows of Chartres Cathedral in France are like an illustrated Bible. The blue Virgin window gleams like the deep sea in sunlight. The two towers differ in style—Romanesque and Gothic standing side by side like a dialogue between two eras. Chartres is the most complete specimen of Gothic architecture; the French call it the Queen of Cathedrals."
     },
     {
       "id": "architecture_026",
@@ -527,7 +521,10 @@
       ],
       "order": 23,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_026_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Chartres Cathedral",
+      "summary_en": "",
+      "full_text_en": "Chartres Cathedral in France features 176 stained glass windows set like gemstones. The blue Virgin window is as mysterious as the deep sea, and the asymmetrical twin towers create a harmonious imbalance—the most complete visual Bible of Gothic architecture."
     },
     {
       "id": "architecture_027",
@@ -549,29 +546,10 @@
       ],
       "order": 24,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_027_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
-    },
-    {
-      "id": "architecture_028",
-      "title": "紫禁城太和殿",
-      "summary": "北京紫禁城太和殿为世界最大木构宫殿，三层汉白玉台基上黄琉璃瓦...",
-      "full_text": "北京紫禁城太和殿为世界最大木构宫殿，三层汉白玉台基上黄琉璃瓦重檐庑殿顶如金冠，殿内六根蟠龙金柱如天柱支撑，为皇权至高无上的空间象征。",
-      "image": "res://assets/images/illustrations/architecture/architecture_028.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "architecture_028_0",
-        "architecture_028_1",
-        "architecture_028_2",
-        "architecture_028_3",
-        "architecture_028_4",
-        "architecture_028_5"
-      ],
-      "order": 25,
-      "pixel_image": "res://assets/images/illustrations/architecture/architecture_028_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Ulm Minster",
+      "summary_en": "",
+      "full_text_en": "The spire of Ulm Minster in Germany reaches 161 meters, the tallest church tower in the world. 768 steps spiral upward; from the top, one can overlook the Danube and the Black Forest. The Gothic spire pierces the sky like a sword—the ultimate pursuit of height by medieval architectural technology."
     },
     {
       "id": "architecture_029",
@@ -593,7 +571,10 @@
       ],
       "order": 26,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_029_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Milan Cathedral",
+      "summary_en": "",
+      "full_text_en": "Milan Cathedral is like a forest of white marble. Over 3,000 statues like petrified pilgrims cover the roof, and 135 pinnacles rise like stalagmites, like flames, like prayers thrust toward heaven—the most ornate variation of Gothic architecture."
     },
     {
       "id": "architecture_030",
@@ -615,7 +596,10 @@
       ],
       "order": 27,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_030_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Pisa Cathedral Complex",
+      "summary_en": "",
+      "full_text_en": "On the Piazza dei Miracoli in Pisa, the cathedral, baptistery, and leaning campanile stand like a trinity. White marble gleams like snow and ivory, Romanesque arcades and Islamic-influenced arches reflect the convergence of Mediterranean civilizations. The Leaning Tower is world-famous for its uneven foundation."
     },
     {
       "id": "architecture_031",
@@ -637,7 +621,10 @@
       ],
       "order": 28,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_031_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Great Mosque of Córdoba",
+      "summary_en": "",
+      "full_text_en": "The prayer hall of the Great Mosque of Córdoba in Spain features 856 red-and-white horseshoe arches like a palm forest. Double-tiered arches expand the spatial height. The Byzantine mosaics of the mihrab gleam with gold. A Catholic cathedral embedded within the mosque is like the superimposition of two civilizations—the most awe-inspiring building in Andalusia."
     },
     {
       "id": "architecture_032",
@@ -659,7 +646,10 @@
       ],
       "order": 29,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_032_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Hall of Supreme Harmony, Forbidden City",
+      "summary_en": "",
+      "full_text_en": "The Hall of Supreme Harmony in Beijing's Forbidden City is the world's largest wooden palace. On a three-tier white marble platform, its yellow-glazed double-eave hipped roof resembles a golden crown. Six gold-coiled dragon columns inside support the structure like pillars of heaven—the supreme spatial symbol of imperial power."
     },
     {
       "id": "architecture_033",
@@ -681,7 +671,10 @@
       ],
       "order": 30,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_033_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Hall of Supreme Harmony, Palace Museum",
+      "summary_en": "",
+      "full_text_en": "The Hall of Supreme Harmony in Beijing's Forbidden City spans eleven bays wide and five bays deep, the largest surviving wooden hall in China. On its three-tier white marble platform, gold dragon imperial paintings dazzle brilliantly, and six gold-coiled dragon columns surround the throne. The Hall of Supreme Harmony is the supreme symbol of imperial power, the pinnacle of Chinese palace architecture."
     },
     {
       "id": "architecture_034",
@@ -703,7 +696,10 @@
       ],
       "order": 31,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_034_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Yonghe Temple",
+      "summary_en": "",
+      "full_text_en": "Beijing's Yonghe Temple was converted from Emperor Yongzheng's pre-ascension residence into a Tibetan Buddhist monastery. The 18-meter-tall standing Maitreya carved from white sandalwood in the Pavilion of Ten Thousand Happinesses is majestic and solemn. Han and Tibetan architectural styles merge, with glazed tiles and prayer flags coexisting. Yonghe Temple is the architectural embodiment of Qing dynasty ethnic policy and Beijing's most magnificent Tibetan Buddhist monastery."
     },
     {
       "id": "architecture_035",
@@ -725,7 +721,10 @@
       ],
       "order": 32,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_035_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Yingxian Wooden Pagoda",
+      "summary_en": "",
+      "full_text_en": "The Sakyamuni Pagoda of Fogong Temple in Yingxian, Shanxi, is the world's tallest and oldest wooden pagoda. Rising 67 meters with nine stories and five eaves like a pillar supporting heaven, the entire structure uses not a single iron nail—54 types of bracket sets interlock like mortise-and-tenon blocks. Surviving a thousand years of earthquakes, it is a miracle of wooden construction."
     },
     {
       "id": "architecture_036",
@@ -747,7 +746,10 @@
       ],
       "order": 33,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_036_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Humble Administrator's Garden, Suzhou",
+      "summary_en": "",
+      "full_text_en": "Suzhou's Humble Administrator's Garden centers on water like a Jiangnan landscape scroll. The Distant Fragrance Hall sits by the water like a viewing pavilion within a painting. Pavilions and towers are arranged with poetic grace. Borrowed scenery from the North Temple Pagoda brings the outside into the garden—a paradigm of Chinese garden art."
     },
     {
       "id": "architecture_037",
@@ -769,7 +771,10 @@
       ],
       "order": 34,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_037_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Kinkaku-ji, Kyoto",
+      "summary_en": "",
+      "full_text_en": "Kyoto's Kinkaku-ji, a three-story pavilion covered in gold leaf, floats on the Mirror Pond like solid gold. The first floor in aristocratic style, the second in samurai style, and the third in Zen style form a microcosm of Japanese architectural history. Reflected in the water, its brilliance is doubled—the ultimate expression of Japanese aesthetics."
     },
     {
       "id": "architecture_038",
@@ -791,7 +796,10 @@
       ],
       "order": 35,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_038_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Himeji Castle",
+      "summary_en": "",
+      "full_text_en": "Himeji Castle in Japan, its white walls spreading like a white heron's wings, is called the White Egret Castle. The keep diminishes in successive tiers like stacked towers—both military fortress and aesthetic declaration. Maze-like passages and loopholes embody defensive wisdom—the pinnacle of Japanese castle architecture."
     },
     {
       "id": "architecture_039",
@@ -813,7 +821,10 @@
       ],
       "order": 36,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_039_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Taj Mahal, India",
+      "summary_en": "",
+      "full_text_en": "Mughal emperor Shah Jahan built the Taj Mahal for his deceased wife. White marble like frozen teardrops, four minarets like sentinels or candlestands, the reflecting pool doubling the grief—fusing Islamic, Persian, and Indian styles, it is an eternal monument to love in architecture."
     },
     {
       "id": "architecture_040",
@@ -835,7 +846,10 @@
       ],
       "order": 37,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_040_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Blue Mosque, Istanbul",
+      "summary_en": "",
+      "full_text_en": "The Sultan Ahmed Mosque in Istanbul has six minarets like six fingers pointing to the sky. Over 20,000 blue İznik tiles inside create a blue starry sky—the most splendid mosque of the Ottoman Empire, facing Hagia Sophia across the square."
     },
     {
       "id": "architecture_042",
@@ -857,7 +871,10 @@
       ],
       "order": 38,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_042_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "St. Basil's Cathedral",
+      "summary_en": "",
+      "full_text_en": "St. Basil's Cathedral on Moscow's Red Square has nine colorful onion domes rising like flames or stacked like candies, each different in shape and color like a fairy-tale castle. Ivan the Terrible built it to commemorate the conquest of Kazan. Legend says he blinded the architect to prevent him from building anything equally beautiful—the iconic symbol of Russian architecture."
     },
     {
       "id": "architecture_043",
@@ -879,7 +896,10 @@
       ],
       "order": 39,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_043_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Westminster Abbey",
+      "summary_en": "",
+      "full_text_en": "Westminster Abbey in London is a masterpiece of English Gothic architecture. Kings have been crowned and buried here like a national shrine. Fan vaulting blooms like stone flowers like a heavenly garden. Poets' Corner is like a literary sanctuary—an architectural microcosm of British history and faith."
     },
     {
       "id": "architecture_044",
@@ -901,7 +921,10 @@
       ],
       "order": 40,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_044_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Sainte-Chapelle, Paris",
+      "summary_en": "",
+      "full_text_en": "Sainte-Chapelle in Paris is like stained glass within a stone frame. Fifteen windows rising 15 meters high form walls of light, biblical stories, and cascades of gems. The upper chapel has almost no stone walls—only glass—the ultimate expression of Gothic light mysticism."
     },
     {
       "id": "architecture_045",
@@ -923,7 +946,10 @@
       ],
       "order": 41,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_045_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "The Crystal Palace",
+      "summary_en": "",
+      "full_text_en": "Britain built the Crystal Palace for the 1851 Great Exhibition. Cast iron and glass formed a giant greenhouse, a crystal palace 564 meters long—a manifesto of steel and light. Prefabricated components were rapidly assembled at the speed of the Industrial Revolution, heralding modern architecture."
     },
     {
       "id": "architecture_046",
@@ -945,7 +971,10 @@
       ],
       "order": 42,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_046_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Home Insurance Building, Chicago",
+      "summary_en": "",
+      "full_text_en": "The Home Insurance Building in Chicago was the world's first tall steel-frame building. Ten stories like the infancy of the skyscraper, its steel load-bearing frame liberated the walls—separating skeleton from skin. The ancestor of the skyscraper, it inaugurated the era of the vertical city."
     },
     {
       "id": "architecture_047",
@@ -967,29 +996,10 @@
       ],
       "order": 43,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_047_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
-    },
-    {
-      "id": "architecture_048",
-      "title": "柯布西耶朗香教堂",
-      "summary": "柯布西耶于法国山丘建朗香教堂如雕塑如祈祷之手，厚重白墙如船帆...",
-      "full_text": "柯布西耶于法国山丘建朗香教堂如雕塑如祈祷之手，厚重白墙如船帆如修女帽，彩色窗洞如星辰如伤口射入光线，如洞穴如庇护所，为现代主义最诗意的宗教空间。",
-      "image": "res://assets/images/illustrations/architecture/architecture_048.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "architecture_048_0",
-        "architecture_048_1",
-        "architecture_048_2",
-        "architecture_048_3",
-        "architecture_048_4",
-        "architecture_048_5"
-      ],
-      "order": 44,
-      "pixel_image": "res://assets/images/illustrations/architecture/architecture_048_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Gaudí's Sagrada Família",
+      "summary_en": "",
+      "full_text_en": "Barcelona's Sagrada Família grows like a stone forest from the earth. Columns branch like tree trunks to support the vault like a forest canopy. Stained glass blazes like tropical fruit. Gaudí, taking nature as his master, pushed Gothic toward organic form. Unfinished after a century, it is like eternal construction."
     },
     {
       "id": "architecture_049",
@@ -1011,7 +1021,10 @@
       ],
       "order": 45,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_049_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Gaudí's Casa Batlló",
+      "summary_en": "",
+      "full_text_en": "Gaudí transformed the Batlló apartment into an oceanic dream. Wavy balconies like masks or waves, the roof like a dragon's spine, scales like Saint George slaying the dragon, broken-tile mosaics like undersea coral—architecture become inhabitable sculpture."
     },
     {
       "id": "architecture_050",
@@ -1033,7 +1046,10 @@
       ],
       "order": 46,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_050_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Wright's Fallingwater",
+      "summary_en": "",
+      "full_text_en": "American architect Wright built a house over a stream in the Pennsylvania woods. Cantilevered terraces extend like rock formations, like part of the waterfall. Concrete and sandstone seem to grow naturally, merging architecture and landscape—a manifesto of organic architecture."
     },
     {
       "id": "architecture_051",
@@ -1055,29 +1071,10 @@
       ],
       "order": 47,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_051_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
-    },
-    {
-      "id": "architecture_052",
-      "title": "阿尔托帕伊米奥疗养院",
-      "summary": "芬兰建筑师阿尔托设计结核病疗养院，病房朝南如追光如治愈，扶手...",
-      "full_text": "芬兰建筑师阿尔托设计结核病疗养院，病房朝南如追光如治愈，扶手圆角如关怀如温柔，色彩如北欧森林如心理抚慰，将功能主义注入人文温度，为人性化建筑的先驱。",
-      "image": "res://assets/images/illustrations/architecture/architecture_052.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "architecture_052_0",
-        "architecture_052_1",
-        "architecture_052_2",
-        "architecture_052_3",
-        "architecture_052_4",
-        "architecture_052_5"
-      ],
-      "order": 48,
-      "pixel_image": "res://assets/images/illustrations/architecture/architecture_052_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Wright's Guggenheim Museum",
+      "summary_en": "",
+      "full_text_en": "New York's Guggenheim Museum is a white spiral like a seashell, like an inverted Tower of Babel. The ramp spirals upward—viewing art like strolling, like meditating—transforming the linear gallery into a continuous flowing space, a spatial revolution in museum architecture."
     },
     {
       "id": "architecture_053",
@@ -1099,7 +1096,10 @@
       ],
       "order": 49,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_053_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Le Corbusier's Villa Savoye",
+      "summary_en": "",
+      "full_text_en": "Le Corbusier built a white box in the Paris suburbs like a machine, like a poem. Pilotis raise it as if floating, like a pilot's perspective. A roof garden returns the ground, free plan and free facade like a manifesto of the Five Points of Architecture—the bible of modernist architecture."
     },
     {
       "id": "architecture_054",
@@ -1121,7 +1121,10 @@
       ],
       "order": 50,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_054_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Le Corbusier's Ronchamp Chapel",
+      "summary_en": "",
+      "full_text_en": "Le Corbusier built the chapel at Ronchamp on a French hillside like a sculpture, like hands in prayer. Thick white walls like sails or a nun's coif, colored window openings like stars or wounds admitting light—like a cave, like a sanctuary—the most poetic religious space of modernism."
     },
     {
       "id": "architecture_055",
@@ -1143,7 +1146,10 @@
       ],
       "order": 51,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_055_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Mies van der Rohe's Barcelona Pavilion",
+      "summary_en": "",
+      "full_text_en": "Mies built the German Pavilion for the 1929 Barcelona Exposition. Cruciform steel columns support a flat roof floating like a canopy. Onyx and marble partitions slide freely as space flows—\"less is more,\" a minimalist manifesto, the spatial poetics of modernism."
     },
     {
       "id": "architecture_056",
@@ -1165,7 +1171,10 @@
       ],
       "order": 52,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_056_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Mies's Seagram Building",
+      "summary_en": "",
+      "full_text_en": "Mies built the Seagram Building in New York. Bronze and amber glass stand like a gentleman set back from the street behind a plaza—yielding to the street like urban etiquette, structure exposed like a skeleton like honesty—establishing a standard of elegant restraint for skyscrapers."
     },
     {
       "id": "architecture_057",
@@ -1187,7 +1196,10 @@
       ],
       "order": 53,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_057_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Gropius's Bauhaus Building",
+      "summary_en": "",
+      "full_text_en": "Gropius built the Bauhaus building in Dessau. Glass curtain walls like transparency, like democracy, like open teaching. Asymmetric layout like functional zoning, like modern rationality. Unifying art and technology—an architectural manifesto for modern design education."
     },
     {
       "id": "architecture_058",
@@ -1209,29 +1221,10 @@
       ],
       "order": 54,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_058_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
-    },
-    {
-      "id": "architecture_059",
-      "title": "蓬皮杜中心",
-      "summary": "巴黎蓬皮杜中心如翻出内脏的建筑，彩色管道如血管如骨骼外露，蓝...",
-      "full_text": "巴黎蓬皮杜中心如翻出内脏的建筑，彩色管道如血管如骨骼外露，蓝色空调绿色水管黄色电路红色交通如色彩编码如内脏如机器如颠覆，为高技派建筑的狂欢宣言。",
-      "image": "res://assets/images/illustrations/architecture/architecture_059.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "architecture_059_0",
-        "architecture_059_1",
-        "architecture_059_2",
-        "architecture_059_3",
-        "architecture_059_4",
-        "architecture_059_5"
-      ],
-      "order": 55,
-      "pixel_image": "res://assets/images/illustrations/architecture/architecture_059_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Aalto's Paimio Sanatorium",
+      "summary_en": "",
+      "full_text_en": "Finnish architect Aalto designed a tuberculosis sanatorium. Patient rooms face south like chasing light, like healing. Rounded handrails like care, like gentleness. Colors like Nordic forests like psychological comfort—infusing functionalism with human warmth, a pioneer of humanistic architecture."
     },
     {
       "id": "architecture_060",
@@ -1253,7 +1246,10 @@
       ],
       "order": 56,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_060_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Louis Kahn's Salk Institute",
+      "summary_en": "",
+      "full_text_en": "American architect Kahn used concrete cubes like ruins, like temples. Square openings like skylights, like eyes, like framed views. Light enters the space like a visitor. With timeless materials he asked what architecture is—the philosophical question of modern architecture."
     },
     {
       "id": "architecture_061",
@@ -1275,7 +1271,10 @@
       ],
       "order": 57,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_061_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Louis Kahn's National Assembly of Bangladesh",
+      "summary_en": "",
+      "full_text_en": "Kahn designed the National Assembly building for Bangladesh like a red-brick fortress, like a modern temple. Massive geometric openings like skylights, like portals, like channels of light. Rainwater flows down the building like ritual—creating an architectural symbol of democracy and dignity for a developing nation."
     },
     {
       "id": "architecture_062",
@@ -1297,7 +1296,10 @@
       ],
       "order": 58,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_062_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "I.M. Pei's Louvre Pyramid",
+      "summary_en": "",
+      "full_text_en": "Chinese-American architect I.M. Pei built a glass pyramid in the Louvre courtyard like a diamond, like an ice crystal. Steel and glass—transparent, lightweight—a modern entrance to a classical palace. After controversy, it became a new Paris landmark, a paradigm of dialogue between tradition and modernity."
     },
     {
       "id": "architecture_063",
@@ -1319,7 +1321,10 @@
       ],
       "order": 59,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_063_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "I.M. Pei's Suzhou Museum",
+      "summary_en": "",
+      "full_text_en": "I.M. Pei designed the Suzhou Museum for his hometown. White walls and gray roofs like ink wash, like Jiangnan. Geometric stone slices like rockeries, like Mi Fu's cloud mountains. Light and shadow like poetry, like painting, like gardens—translating traditional Suzhou aesthetics into modern architectural language."
     },
     {
       "id": "architecture_064",
@@ -1341,7 +1346,10 @@
       ],
       "order": 60,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_064_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Tadao Ando's Church of the Light",
+      "summary_en": "",
+      "full_text_en": "Japanese architect Tadao Ando built a church of exposed concrete in Osaka. A cross-shaped slit like a cross of light, like faith, like hope. Bare concrete restrained like a monk, like asceticism—reaching the deepest spirituality with the fewest materials."
     },
     {
       "id": "architecture_065",
@@ -1363,7 +1371,10 @@
       ],
       "order": 61,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_065_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Tadao Ando's Chichu Art Museum",
+      "summary_en": "",
+      "full_text_en": "Tadao Ando built an underground museum on Naoshima like a cave, like meditation. Concrete like a vessel, like space, like a channel of light. The Monet Water Lilies room like skylight, like water's surface, like eternity—architecture dissolved into the earth, at one with nature."
     },
     {
       "id": "architecture_066",
@@ -1385,7 +1396,10 @@
       ],
       "order": 62,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_066_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Centre Pompidou",
+      "summary_en": "",
+      "full_text_en": "Paris's Centre Pompidou is like a building turned inside out. Colored pipes like blood vessels, bones exposed—blue for air conditioning, green for water, yellow for electricity, red for circulation—color-coded like organs, like machines, like subversion. A carnival manifesto of High-Tech architecture."
     },
     {
       "id": "architecture_067",
@@ -1407,7 +1421,10 @@
       ],
       "order": 63,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_067_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Gehry's Guggenheim Bilbao",
+      "summary_en": "",
+      "full_text_en": "American architect Gehry built in Bilbao, Spain, with titanium curves like fish, like ships, like flowers, like flames—Baroque of the digital age, sculptural architecture. One building saved a city—a miracle of deconstructivism."
     },
     {
       "id": "architecture_068",
@@ -1429,7 +1446,10 @@
       ],
       "order": 64,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_068_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Gehry's Walt Disney Concert Hall",
+      "summary_en": "",
+      "full_text_en": "Gehry designed a concert hall in Los Angeles like stainless steel, like sails, like petals, like frozen musical notes. Curved surfaces like sound waves, like melodies, reflecting Los Angeles sunshine—the most elegant variation of deconstructivism, like an inhabitable sculpture."
     },
     {
       "id": "architecture_069",
@@ -1451,7 +1471,10 @@
       ],
       "order": 65,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_069_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Zaha Hadid's Guangzhou Opera House",
+      "summary_en": "",
+      "full_text_en": "Iraqi-British architect Zaha Hadid designed the Guangzhou Opera House like gravel, like flowing water, like an alien base. Concrete curves like geology, like erosion, like digitally generated organic forms—a landmark practice of parametric design in China."
     },
     {
       "id": "architecture_070",
@@ -1473,7 +1496,10 @@
       ],
       "order": 66,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_070_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Zaha Hadid's Galaxy SOHO",
+      "summary_en": "",
+      "full_text_en": "Zaha Hadid designed Galaxy SOHO in Beijing like a space station, like fluid, like a future city. Continuous curves like ribbons, like vortexes, like a world without corners. Atriums like canyons, like urban gorges, like flowing public space—an urban manifesto of parametric aesthetics."
     },
     {
       "id": "architecture_071",
@@ -1495,7 +1521,10 @@
       ],
       "order": 67,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_071_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Koolhaas's CCTV Headquarters",
+      "summary_en": "",
+      "full_text_en": "Dutch architect Koolhaas designed the CCTV headquarters like a cantilever, like a loop, like a Möbius strip, like an impossible structure. Two towers lean and join like a gate, like a ring, like a giant gate of the city—a monumental manifesto of deconstructivism in Beijing."
     },
     {
       "id": "architecture_072",
@@ -1517,7 +1546,10 @@
       ],
       "order": 68,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_072_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Herzog & de Meuron's Bird's Nest",
+      "summary_en": "",
+      "full_text_en": "Swiss architects Herzog & de Meuron designed Beijing's National Stadium like a bird's nest, like weaving, like order within chaos. Steel structures like branches, like blood vessels, like random yet logical weaving—the most recognizable form of Olympic architecture."
     },
     {
       "id": "architecture_073",
@@ -1539,7 +1571,10 @@
       ],
       "order": 69,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_073_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Jean Nouvel's Louvre Abu Dhabi",
+      "summary_en": "",
+      "full_text_en": "French architect Nouvel built a maritime museum in the desert like a floating oasis, like an Arab city. The vast dome like palm fronds, like rain of light, filtering light through Arab geometric patterns—an architectural poem of cultural diplomacy."
     },
     {
       "id": "architecture_074",
@@ -1561,7 +1596,10 @@
       ],
       "order": 70,
       "pixel_image": "res://assets/images/illustrations/architecture/architecture_074_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "SANAA's Rolex Learning Center",
+      "summary_en": "",
+      "full_text_en": "Japanese architects Sejima and Nishizawa built a learning center in Lausanne like terrain, like waves, like a world without walls. Continuous curved surfaces like hills, like flowing space without boundaries—an experiment in minimalism and free space."
     }
   ]
 }

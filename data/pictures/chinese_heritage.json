@@ -21,7 +21,10 @@
       ],
       "order": 0,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_000_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Cultural Heritage Overview",
+      "summary_en": "",
+      "full_text_en": "China possesses 56 World Heritage sites, ranking second globally. From the Great Wall to the Forbidden City, from the Silk Road to the Grand Canal, these heritages bear witness to the longevity and splendor of Chinese civilization. Protecting cultural heritage means safeguarding the roots and soul of the nation, letting the light of history illuminate the future."
     },
     {
       "id": "chinese_heritage_001",
@@ -43,7 +46,10 @@
       ],
       "order": 1,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_001_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Great Wall Conservation Journey",
+      "summary_en": "",
+      "full_text_en": "The Great Wall spans over two thousand years of history, stretching more than twenty thousand li. From Warring States rammed earth to Ming Dynasty brick and stone, each section carries the blood and sweat of frontier soldiers. In 1987, the Great Wall was inscribed on the World Heritage List, and conservation work continues to this day, guarding this backbone of the Chinese nation."
     },
     {
       "id": "chinese_heritage_002",
@@ -65,7 +71,10 @@
       ],
       "order": 2,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_002_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Palace Museum",
+      "summary_en": "",
+      "full_text_en": "The Forbidden City houses over 1.86 million cultural relics, making it the world's largest museum of ancient Chinese art. From Shang and Zhou bronzes to Song and Yuan calligraphy and paintings, from Ming and Qing porcelain to palace treasures, each piece is a gem of Chinese civilization. The Palace Museum has become a model of cultural heritage conservation."
     },
     {
       "id": "chinese_heritage_003",
@@ -87,7 +96,10 @@
       ],
       "order": 3,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_003_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Temple of Heaven: Hall of Prayer for Good Harvests",
+      "summary_en": "",
+      "full_text_en": "The triple-tiered blue glazed tile roof of the Hall of Prayer for Good Harvests at Beijing's Temple of Heaven hangs like a canopy, with 28 golden nanmu pillars inside symbolizing the four seasons, twelve months, and twelve double-hours. Ming and Qing emperors prayed here for bountiful harvests, and the philosophy of harmony between heaven and humanity is crystallized in this perfect circular building."
     },
     {
       "id": "chinese_heritage_004",
@@ -109,7 +121,10 @@
       ],
       "order": 4,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_004_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Summer Palace: Kunming Lake",
+      "summary_en": "",
+      "full_text_en": "Kunming Lake at the Summer Palace ripples with emerald waves, and the Seventeen-Arch Bridge lies like a rainbow across the water. The Tower of Buddhist Incense towers on Longevity Hill, and the painted corridor stretches for 728 meters. The summer palace of Empress Dowager Cixi synthesizes northern and southern garden traditions, representing the pinnacle of Chinese classical garden art."
     },
     {
       "id": "chinese_heritage_005",
@@ -131,7 +146,10 @@
       ],
       "order": 5,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_005_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Chengde Mountain Resort",
+      "summary_en": "",
+      "full_text_en": "The Chengde Mountain Resort covers 5.64 million square meters, making it China's largest imperial garden. The lake area imitates Jiangnan water towns, the mountain area mimics frontier landscapes, with yurts and Lama temples coexisting. The integration of multi-ethnic cultures finds perfect expression in this summer palace."
     },
     {
       "id": "chinese_heritage_006",
@@ -153,7 +171,10 @@
       ],
       "order": 6,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_006_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Temple of Confucius, Kong Family Mansion, and Cemetery of Confucius",
+      "summary_en": "",
+      "full_text_en": "The Three Confucian Sites in Qufu are sacred grounds of Confucian culture. The ten deep-relief dragon pillars of the Hall of Great Achievement in the Temple of Confucius are exquisitely crafted, the Kong Family Mansion was the residence of successive Dukes Yansheng, and the Cemetery of Confucius is shaded by ancient trees with incense burning perpetually before Confucius's tomb. For over two thousand years, this has been the spiritual center of Chinese cultural heritage."
     },
     {
       "id": "chinese_heritage_007",
@@ -175,7 +196,10 @@
       ],
       "order": 7,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_007_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Ancient Building Complex of Wudang Mountains",
+      "summary_en": "",
+      "full_text_en": "The bronze hall at Wudang Mountains' Golden Summit gleams amidst a sea of clouds, and the red walls and green tiles of Zixiao Palace are nestled among ancient pines and cypresses. The Taoist architectural complex, built by 300,000 soldiers and civilians mobilized by Emperor Yongle of the Ming Dynasty, follows the natural terrain, perfectly interpreting the Taoist philosophy of following nature."
     },
     {
       "id": "chinese_heritage_008",
@@ -197,7 +221,10 @@
       ],
       "order": 8,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_008_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Leshan Giant Buddha",
+      "summary_en": "",
+      "full_text_en": "At the confluence of the Min, Qingyi, and Dadu Rivers, a 71-meter-tall Maitreya Buddha sits carved into the mountainside. Monk Hai Tong initiated the carving to subdue flood waters, and it took ninety years to complete. A hundred people can sit on the Buddha's instep, making it the world's largest stone-carved Buddha. A thousand years of weathering have not altered its compassionate countenance."
     },
     {
       "id": "chinese_heritage_009",
@@ -219,7 +246,10 @@
       ],
       "order": 9,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_009_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Dujiangyan Irrigation System",
+      "summary_en": "",
+      "full_text_en": "The Dujiangyan Irrigation System built by Li Bing and his son on the Min River has functioned for over 2,200 years. The Fish Mouth levee divides the river in two, the Flying Sand Weir discharges floodwater and sediment, and the Bottle-Neck Channel diverts water for irrigation. These three components work in perfect coordination, making the Chengdu Plain the Land of Abundance."
     },
     {
       "id": "chinese_heritage_010",
@@ -241,7 +271,10 @@
       ],
       "order": 10,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_010_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "The Grand Canal",
+      "summary_en": "",
+      "full_text_en": "The Beijing-Hangzhou Grand Canal runs over 1,700 kilometers from north to south, connecting five major water systems: the Hai, Yellow, Huai, Yangtze, and Qiantang Rivers. This golden waterway excavated by Emperor Yang of the Sui Dynasty facilitated economic and cultural exchange between north and south. Towns along the canal flourished because of it, and a thousand years of canal transport history is a flowing chronicle of civilization."
     },
     {
       "id": "chinese_heritage_011",
@@ -263,7 +296,10 @@
       ],
       "order": 11,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_011_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Silk Road: Chang'an Section",
+      "summary_en": "",
+      "full_text_en": "Chang'an of the Han and Tang Dynasties was the eastern starting point of the Silk Road, where foreign merchants gathered at the West Market and camel bells rang. The ruins of Hanyuan Hall in Daming Palace witnessed the grandeur of envoys from myriad nations, and the Giant Wild Goose Pagoda preserved scriptures brought back by Xuanzang from India. The Silk Road spread Chinese civilization across the world."
     },
     {
       "id": "chinese_heritage_012",
@@ -285,7 +321,10 @@
       ],
       "order": 12,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_012_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Huangshan: Pines and Rocks",
+      "summary_en": "",
+      "full_text_en": "Huangshan is renowned worldwide for its four wonders: oddly-shaped pines, grotesque rocks, seas of clouds, and hot springs. The Greeting Pine extends its branches as if welcoming distant guests, while the Flying Rock stands precariously atop a peak as if about to fall. Cloud seas surge like waves, and golden sunrise light pierces through mist. Xu Xiake praised: \"Returning from the Five Sacred Mountains, one does not look at other mountains; returning from Huangshan, one does not look at the Sacred Mountains.\""
     },
     {
       "id": "chinese_heritage_013",
@@ -307,7 +346,10 @@
       ],
       "order": 13,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_013_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Jiuzhaigou: Waters",
+      "summary_en": "",
+      "full_text_en": "The 108 lakes of Jiuzhaigou are set like emeralds in the mountain valley, with Five Flower Lake displaying a palette of brilliant colors. Nuorilang Waterfall cascades down from dense forests, and Pearl Shoal's water leaps like pearls and jade. Water is the soul of Jiuzhaigou, and its reputation as a fairy-tale world is well deserved."
     },
     {
       "id": "chinese_heritage_014",
@@ -329,7 +371,10 @@
       ],
       "order": 14,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_014_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Huanglong: Travertine Pools",
+      "summary_en": "",
+      "full_text_en": "The travertine pools of Huanglong Valley cascade down the mountainside in terraced layers, with over 3,000 colorful pools arranged like terraced fields. The water shifts between blue, green, and yellow with changing light, and the golden travertine flow resembles a giant dragon's shimmering scales. This is a geological wonder sculpted by nature over tens of thousands of years."
     },
     {
       "id": "chinese_heritage_015",
@@ -351,7 +396,10 @@
       ],
       "order": 15,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_015_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Wulingyuan: Peak Forest",
+      "summary_en": "",
+      "full_text_en": "Three thousand sandstone peaks of Zhangjiajie rise abruptly from the ground, thrusting into the sky like swords and halberds. Tianzi Mountain is wreathed in mist, Golden Whip Stream babbles clearly, and the Bailong Elevator ascends to the clouds. This peak forest wonder inspired the creation of the film Avatar and is a surreal landscape on Earth."
     },
     {
       "id": "chinese_heritage_016",
@@ -373,7 +421,10 @@
       ],
       "order": 16,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_016_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Three Parallel Rivers",
+      "summary_en": "",
+      "full_text_en": "The Nu, Lancang, and Jinsha Rivers flow side by side for over 170 kilometers in northwestern Yunnan without converging. Snow-capped mountains tower above, gorges cut deep below, and vertical climate zones from tropical rainforest to alpine glaciers are concentrated here. As one of the world's 34 biodiversity hotspots, its biological diversity is astounding."
     },
     {
       "id": "chinese_heritage_017",
@@ -395,7 +446,10 @@
       ],
       "order": 17,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_017_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Dunhuang Mogao Caves Conservation",
+      "summary_en": "",
+      "full_text_en": "The Mogao Caves face the dual pressures of wind-sand erosion and tourist surges. The Dunhuang Academy uses digital technology to create high-definition archives for each cave. Sand control projects lay straw grids on cliff tops, and microenvironment monitoring systems record temperature and humidity changes in real time. Conserving the millennium-old caves is a race against time."
     },
     {
       "id": "chinese_heritage_018",
@@ -417,7 +471,10 @@
       ],
       "order": 18,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_018_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Pingyao Ancient City",
+      "summary_en": "",
+      "full_text_en": "The ancient city of Pingyao in Shanxi completely preserves its Ming and Qing Dynasty urban layout, with a six-kilometer city wall enclosing courtyard houses and exchange shops. Rishengchang Draft Bank pioneered Chinese banking, while the county yamen, Confucian temple, and City God Temple each occupy their proper place. Pingyao is a living specimen for understanding traditional Chinese urban life."
     },
     {
       "id": "chinese_heritage_019",
@@ -439,7 +496,10 @@
       ],
       "order": 19,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_019_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Kaiping Diaolou",
+      "summary_en": "",
+      "full_text_en": "The Diaolou of Kaiping in Guangdong blend Chinese and Western architectural styles, with Baroque pediments coexisting with Lingnan arcade buildings. Overseas Chinese incorporated what they saw abroad into their hometown architecture. Iron windows and gun ports defended against bandits, while carvings and stained glass displayed refined taste. Kaiping Diaolou is a unique witness to the culture of modern China's overseas Chinese hometowns."
     },
     {
       "id": "chinese_heritage_020",
@@ -461,7 +521,10 @@
       ],
       "order": 20,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_020_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Fujian Tulou Construction",
+      "summary_en": "",
+      "full_text_en": "Hakka craftsmen ram raw earth into circular tulou dozens of meters in diameter, with walls up to 1.5 meters thick that can withstand cannon fire. The inner courtyard provides light and ventilation, the ancestral hall occupies the center, and dozens of families of the same clan live together. Construction techniques are passed down through generations, with site selection and wall ramming following feng shui and experience. Tulou is the architectural expression of family cohesion."
     },
     {
       "id": "chinese_heritage_021",
@@ -483,7 +546,10 @@
       ],
       "order": 21,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_021_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Historic Centre of Macao",
+      "summary_en": "",
+      "full_text_en": "The Historic Centre of Macao is the oldest surviving Western architectural complex in China. The stone carvings on the facade of St. Paul's Church blend Eastern and Western symbols. Portuguese cobblestone pavements wind between Baroque churches and Chinese temples, with 400 years of East-West cultural exchange leaving marks at every street corner."
     },
     {
       "id": "chinese_heritage_022",
@@ -505,7 +571,10 @@
       ],
       "order": 22,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_022_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Yin Ruins: Oracle Bone Inscriptions",
+      "summary_en": "",
+      "full_text_en": "The oracle bone inscriptions unearthed at the Yin Ruins in Anyang are China's earliest mature writing system, where diviners carved divination records on turtle shells and ox bones. From sacrifices and military campaigns to weather and agriculture, oracle bones reveal every aspect of Shang Dynasty society. The 3,000-year evolution of Chinese characters can be clearly traced from here."
     },
     {
       "id": "chinese_heritage_023",
@@ -527,7 +596,10 @@
       ],
       "order": 23,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_023_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Capital Cities of Goguryeo",
+      "summary_en": "",
+      "full_text_en": "The Goguryeo capital cities in Ji'an, Jilin are built against the mountains, with imposing stone walls and rammed earth platforms. The General's Tomb is hailed as the Pyramid of the East, with chamber murals depicting the Four Symbols and procession scenes. The Goguryeo regime lasted 700 years, leaving a profound mark on the history of Northeast Asia."
     },
     {
       "id": "chinese_heritage_024",
@@ -549,7 +621,10 @@
       ],
       "order": 24,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_024_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Site of Xanadu",
+      "summary_en": "",
+      "full_text_en": "The Site of Xanadu in Zhenglan Banner, Inner Mongolia, was the summer palace established by Kublai Khan, where Marco Polo had an audience with the Great Khan. Palace foundations and city wall outlines remain clearly discernible, and the ruins of the Yutian Gate and Crystal Palace within the imperial city recount the glory of the Yuan Empire. This capital on the grassland witnessed the convergence of nomadic and agrarian civilizations."
     },
     {
       "id": "chinese_heritage_025",
@@ -571,7 +646,10 @@
       ],
       "order": 25,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_025_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Dazu Rock Carvings Conservation",
+      "summary_en": "",
+      "full_text_en": "The Dazu Rock Carvings in Chongqing face threats from water damage and weathering. Conservation teams have built protective shelters and installed drainage systems for the sculptures. 3D scanning technology creates digital archives for each statue, and microenvironment control slows weathering. Conserving these millennium-old carvings requires the dual guardianship of technology and craftsmanship."
     },
     {
       "id": "chinese_heritage_026",
@@ -593,7 +671,10 @@
       ],
       "order": 26,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_026_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Ancient Villages of Xidi and Hongcun",
+      "summary_en": "",
+      "full_text_en": "The ancient villages of Xidi and Hongcun in southern Anhui unfold like an ink-wash painting, with white walls and dark tiles of horse-head gables reflected in South Lake. Hongcun's water system is designed in the shape of an ox, with Moon Pond as the stomach and water channels as the intestines. Xidi's memorial archway group records the Hu family's imperial examination achievements. Huizhou architecture is an eternal freeze-frame of Jiangnan poetry."
     },
     {
       "id": "chinese_heritage_027",
@@ -615,7 +696,10 @@
       ],
       "order": 27,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_027_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Longmen Grottoes Conservation",
+      "summary_en": "",
+      "full_text_en": "The limestone sculptures of the Longmen Grottoes in Luoyang suffer from water seepage and air pollution erosion. Conservation teams use epoxy resin to reinforce cracks and build anti-seepage corridors. Digital technology creates 3D models for 100,000 sculptures, and the smile of Vairocana Buddha endures forever in the virtual world. Grotto conservation is a promise spanning millennia."
     },
     {
       "id": "chinese_heritage_028",
@@ -637,7 +721,10 @@
       ],
       "order": 28,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_028_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Tusi Sites",
+      "summary_en": "",
+      "full_text_en": "Laosicheng in Yongshun, Hunan, Hailongtun in Guizhou, and Tangya Tusi City bear witness to the Tusi system of the Yuan, Ming, and Qing Dynasties. The central dynasty governed frontier regions through hereditary tusi chiefs, and tusi cities served both military defense and administrative center functions. Tusi sites are important physical evidence of the formation of China as a unified multi-ethnic state."
     },
     {
       "id": "chinese_heritage_029",
@@ -659,7 +746,10 @@
       ],
       "order": 29,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_029_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Gulangyu",
+      "summary_en": "",
+      "full_text_en": "Consulates and villas of various national styles line up on Gulangyu in Xiamen, and the Piano Museum houses over a hundred antique pianos. The International Architecture Exhibition and ancient Nanyin music converge here. The small island was once the frontier of East-West cultural exchange and is now a frozen chapter of modern history in the Garden on the Sea."
     },
     {
       "id": "chinese_heritage_030",
@@ -681,7 +771,10 @@
       ],
       "order": 30,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_030_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Archaeological Ruins of Liangzhu City",
+      "summary_en": "",
+      "full_text_en": "The archaeological ruins of Liangzhu City in Zhejiang confirm the existence of 5,000 years of Chinese civilization. The water conservancy system is grand in scale, and jade cong and bi are exquisitely crafted. The Mojiaoshan palace foundation covers 300,000 square meters, and the Fanshan royal tombs yielded astonishing numbers of jade artifacts. Liangzhu is one of the earliest state societies in East Asia."
     },
     {
       "id": "chinese_heritage_031",
@@ -703,7 +796,10 @@
       ],
       "order": 31,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_031_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Silk Road World Heritage Nomination",
+      "summary_en": "",
+      "full_text_en": "The Silk Roads: the Routes Network of Chang'an-Tianshan Corridor was successfully nominated as a World Heritage Site jointly by China, Kazakhstan, and Kyrgyzstan. From Chang'an of the Han and Tang to Samarkand, 33 heritage sites link the trajectory of East-West civilizational exchange. This transnational nomination pioneered a new model of international cooperation in cultural heritage conservation."
     },
     {
       "id": "chinese_heritage_032",
@@ -725,7 +821,10 @@
       ],
       "order": 32,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_032_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "West Lake Cultural Landscape of Hangzhou",
+      "summary_en": "",
+      "full_text_en": "West Lake is surrounded by cloud-wreathed hills on three sides and the city on one. Spring Dawn at Su Causeway and Lingering Snow on Broken Bridge crystallize a thousand years of poetic sentiment. Bai Juyi and Su Shi dredged the lake and built causeways, while literati composed poetry and painted by its shores. West Lake is the perfect materialization of Chinese landscape aesthetics, where nature and culture merge seamlessly."
     },
     {
       "id": "chinese_heritage_033",
@@ -747,7 +846,10 @@
       ],
       "order": 33,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_033_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Honghe Hani Rice Terraces",
+      "summary_en": "",
+      "full_text_en": "The Hani Rice Terraces in Honghe, Yunnan, extend from the mountain foot to the clouds, with as many as 3,000 tiers. The Hani people spent a thousand years building irrigation channels drawing from mountain springs. The four-element ecosystem of forest-village-terraces-water system is a marvel, and the terraces are a great creation of harmonious coexistence between humans and nature."
     },
     {
       "id": "chinese_heritage_034",
@@ -769,7 +871,10 @@
       ],
       "order": 34,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_034_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mount Wutai",
+      "summary_en": "",
+      "full_text_en": "Mount Wutai is the bodhimanda of Manjushri Bodhisattva, with Buddhist temples dotting Taihuai Town. The bronze hall of Xiantong Temple gleams with golden light, the Great White Pagoda of Tayuan Temple stands majestically, and the chanting of lamas at Pusa Ding echoes through the valley. Han and Tibetan Buddhism coexist here, with blue and yellow temples complementing each other. Mount Wutai is a microcosm of the Sinicization of Buddhism."
     },
     {
       "id": "chinese_heritage_035",
@@ -791,7 +896,10 @@
       ],
       "order": 35,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_035_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mount Song",
+      "summary_en": "",
+      "full_text_en": "Shaolin Temple on Mount Song, the Central Sacred Mountain, is the ancestral court of Chan Buddhism and a martial arts sanctuary. The Pagoda Forest contains over 240 brick and stone memorial pagodas recording eminent monks through the ages. The General Cypress at Songyang Academy is 4,500 years old, and the Observatory is where Guo Shoujing calculated the calendar. Mount Song gathers Buddhism, Taoism, and Confucianism on one mountain."
     },
     {
       "id": "chinese_heritage_036",
@@ -813,7 +921,10 @@
       ],
       "order": 36,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_036_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Sichuan Giant Panda Sanctuaries",
+      "summary_en": "",
+      "full_text_en": "Deep in the bamboo forests of the Qionglai Mountains, giant pandas leisurely munch on bamboo. Wolong Nature Reserve is the home of this national treasure, and the elevation drop from 1,200 to 6,000 meters nurtures rich flora and fauna. Protecting giant pandas means protecting the health of the entire ecosystem."
     },
     {
       "id": "chinese_heritage_037",
@@ -835,7 +946,10 @@
       ],
       "order": 37,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_037_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mount Tai",
+      "summary_en": "",
+      "full_text_en": "Mount Tai is the foremost of the Five Sacred Mountains, where successive emperors performed the Feng and Shan sacrifices to heaven. Above the South Gate to Heaven, cloud seas surge, Bixia Temple burns with abundant incense, and the Diamond Sutra characters carved in Sutra Stone Valley are as large as bushels. From Confucius viewing the world from Mount Tai to commoners praying for offspring, Mount Tai is a symbol of the Chinese national spirit and a sacred site of cultural faith."
     },
     {
       "id": "chinese_heritage_038",
@@ -857,7 +971,10 @@
       ],
       "order": 38,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_038_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mount Huangshan",
+      "summary_en": "",
+      "full_text_en": "Mount Huangshan is renowned worldwide for its four wonders: oddly-shaped pines, grotesque rocks, seas of clouds, and hot springs. The Greeting Pine extends its branches as if welcoming distant guests, while the Flying Rock stands precariously atop a peak. Cloud seas surge like waves, and golden sunrise light pierces through mist. Xu Xiake praised: \"Returning from the Five Sacred Mountains, one does not look at other mountains; returning from Huangshan, one does not look at the Sacred Mountains.\""
     },
     {
       "id": "chinese_heritage_039",
@@ -879,7 +996,10 @@
       ],
       "order": 39,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_039_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mount Emei and Leshan Giant Buddha",
+      "summary_en": "",
+      "full_text_en": "The Golden Summit of Mount Emei gleams above the sea of clouds, with the bronze statue of Samantabhadra Bodhisattva riding a six-tusked white elephant gazing down at all beings. Baoguo Temple and Wannian Temple have continuous incense offerings, and mountain monkeys share the trails with pilgrims. The Leshan Giant Buddha on the Min River bank stands 71 meters tall—the Buddha is the mountain, and the mountain is the Buddha. Nature and faith merge here as one."
     },
     {
       "id": "chinese_heritage_040",
@@ -901,7 +1021,10 @@
       ],
       "order": 40,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_040_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mount Wuyi",
+      "summary_en": "",
+      "full_text_en": "Bamboo rafts float down the Nine-Bend Stream of Wuyi, with Danxia red cliffs reflected like a painting in the emerald water. Zhu Xi lectured at Wuyi Jingshe and founded Minxue, while the mother trees of Da Hong Pao grow from rock crevices producing priceless tea. Mount Wuyi is the cradle of Zhu Xi's Neo-Confucianism and the birthplace of oolong and black tea. As a mixed natural and cultural heritage site, it is truly deserving of the title."
     },
     {
       "id": "chinese_heritage_041",
@@ -923,7 +1046,10 @@
       ],
       "order": 41,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_041_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mount Qingcheng and Dujiangyan",
+      "summary_en": "",
+      "full_text_en": "Mount Qingcheng is deep and tranquil, where Zhang Daoling founded the Celestial Masters' Taoism, with Taoist temples hidden among lush greenery. At the foot of the mountain, the Fish Mouth levee of Dujiangyan divides the Min River in two, the Flying Sand Weir discharges floodwater and sediment, and the Bottle-Neck Channel diverts water for irrigation. This 2,200-year-old water conservancy project still nourishes the Land of Abundance today."
     },
     {
       "id": "chinese_heritage_042",
@@ -945,7 +1071,10 @@
       ],
       "order": 42,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_042_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Golden Summit of Mount Emei",
+      "summary_en": "",
+      "full_text_en": "The Golden Summit of Mount Emei stands at 3,079 meters above sea level, with the bronze statue of Samantabhadra Bodhisattva seated above the sea of clouds. At sunrise, myriad rays of light shine forth, cloud seas surge like waves, and Buddha's light casts a rainbow halo in the mist. Mount Emei is the bodhimanda of Samantabhadra, where Buddhist temples and monkey troops coexist. Natural wonders and Buddhist culture blend here."
     },
     {
       "id": "chinese_heritage_043",
@@ -967,7 +1096,10 @@
       ],
       "order": 43,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_043_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Mount Sanqing",
+      "summary_en": "",
+      "full_text_en": "The granite peak forest of Mount Sanqing in Jiangxi stands among the clouds like a fairyland, with the Python Coming Out of the Mountain and the Goddess of Spring formations strikingly lifelike. The Sanqing Temple Taoist architectural complex follows the natural terrain, and Ge Hong of the Jin Dynasty refined elixirs and practiced Taoism here. Mount Sanqing is a perfect combination of natural wonders and Taoist culture."
     },
     {
       "id": "chinese_heritage_044",
@@ -989,7 +1121,10 @@
       ],
       "order": 44,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_044_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Danxia Mountain Landform",
+      "summary_en": "",
+      "full_text_en": "The red sandstone and conglomerate of Danxia Mountain in Guangdong have been weathered and eroded over hundreds of millions of years, forming the spectacular spectacle of crimson cliffs. The Jin River winds like a jade belt through the red peak forest, Elder Peak stands like a pillar supporting the sky, and Yangyuan Stone resembles the root of the earth. Danxia landform is named after this mountain, representing Chinese geologists' unique contribution to world geomorphology."
     },
     {
       "id": "chinese_heritage_045",
@@ -1011,7 +1146,10 @@
       ],
       "order": 45,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_045_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Jiuzhaigou Valley",
+      "summary_en": "",
+      "full_text_en": "The 108 lakes of Jiuzhaigou are set like emeralds in the mountain valley, with Five Flower Lake displaying a palette of brilliant colors. Nuorilang Waterfall cascades down from dense forests, and Pearl Shoal's water leaps like pearls and jade. Water is the soul of Jiuzhaigou, and its reputation as a fairy-tale world is well deserved."
     },
     {
       "id": "chinese_heritage_046",
@@ -1033,7 +1171,10 @@
       ],
       "order": 46,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_046_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Jiuzhaigou: Autumn Forests",
+      "summary_en": "",
+      "full_text_en": "The 108 lakes of Jiuzhaigou are scattered like emeralds in primeval forests, with Five Flower Lake as colorful as a palette and Nuorilang Waterfall's curtain gleaming like silver. In autumn, forests of red, yellow, and green interweave and reflect in emerald waters, while giant pandas appear and disappear in arrow bamboo groves. Jiuzhaigou is a fairy-tale world of water and forest, a true portrayal of an earthly paradise."
     },
     {
       "id": "chinese_heritage_047",
@@ -1055,7 +1196,10 @@
       ],
       "order": 47,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_047_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Xinjiang Tianshan",
+      "summary_en": "",
+      "full_text_en": "The Tianshan Mountains traverse Xinjiang, dividing the land into Southern and Northern Xinjiang, with Bogda Peak's glaciers gleaming in the sunlight. Heavenly Lake's emerald waters reflect snow peaks, and the nine-bend Kaidu River meanders like a ribbon across the Bayanbulak Grassland. Tianshan is the source of life and bond of civilization on the arid Central Asian continent."
     },
     {
       "id": "chinese_heritage_048",
@@ -1077,7 +1221,10 @@
       ],
       "order": 48,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_048_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Hoh Xil",
+      "summary_en": "",
+      "full_text_en": "Hoh Xil is China's largest uninhabited area, where Tibetan antelopes run and migrate across the wilderness. On the plateau at 4,600 meters above sea level, glacial meltwater forms countless lakes, and wild yaks and Tibetan wild asses forage in the open wilderness. This last wilderness is the core area of the Qinghai-Tibet Plateau ecosystem."
     },
     {
       "id": "chinese_heritage_049",
@@ -1099,7 +1246,10 @@
       ],
       "order": 49,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_049_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Shennongjia",
+      "summary_en": "",
+      "full_text_en": "Shennongjia in Hubei preserves the most intact primeval forest in the mid-subtropical zone, with golden snub-nosed monkeys leaping and playing among the canopy. Legend says Shennong tasted hundreds of herbs here, and living fossil plants such as dove trees and dawn redwoods survive here. Shennongjia is a green treasure house and biological refuge on the roof of central China."
     },
     {
       "id": "chinese_heritage_050",
@@ -1121,7 +1271,10 @@
       ],
       "order": 50,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_050_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Mount Fanjing",
+      "summary_en": "",
+      "full_text_en": "The Red Cloud Golden Summit of Mount Fanjing in Guizhou rises like a giant pillar supporting the sky, with two temples on separate peaks connected by a celestial bridge. The Guizhou golden snub-nosed monkey exists only here, and dove tree blossoms resemble white doves spreading their wings. The main peak of the Wuling Mountains is a Buddhist Maitreya bodhimanda and the last bastion of mid-subtropical biodiversity."
     },
     {
       "id": "chinese_heritage_051",
@@ -1143,7 +1296,10 @@
       ],
       "order": 51,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_051_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Kunqu Opera: The Peony Pavilion",
+      "summary_en": "",
+      "full_text_en": "Kunqu Opera is hailed as the ancestor of all Chinese operas, with its water-polished melodies lingering and graceful. Du Liniang startles from a dream and seeks her dream in the Peony Pavilion, every expression brimming with emotion. The 600-year-old Kunqu art is renowned for its elegant singing and delicate performance. In 2001, it was listed by the United Nations as a Masterpiece of Oral and Intangible Heritage of Humanity."
     },
     {
       "id": "chinese_heritage_052",
@@ -1165,7 +1321,10 @@
       ],
       "order": 52,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_052_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Peking Opera Facial Makeup",
+      "summary_en": "",
+      "full_text_en": "Red-faced Guan Yu is righteous and awe-inspiring, white-faced Cao Cao is treacherous and suspicious, black-faced Bao Zheng is impartial and incorruptible. Peking Opera facial makeup uses colors and patterns to outline character personalities, with each role type—sheng, dan, jing, and chou—having its own distinctive features. With four skills of singing, reciting, acting, and martial arts, Peking Opera synthesizes the essence of Chinese opera and represents the quintessential national art."
     },
     {
       "id": "chinese_heritage_053",
@@ -1187,7 +1346,10 @@
       ],
       "order": 53,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_053_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Chinese Calligraphy",
+      "summary_en": "",
+      "full_text_en": "From oracle bone script to regular script, Chinese calligraphy has evolved over more than 3,000 years. Wang Xizhi's Preface to the Poems Collected from the Orchid Pavilion flows as gracefully as clouds and water, Yan Zhenqing's Draft Requiem to My Nephew is as sorrowful as a stirring elegy, and Zhang Xu's wild cursive script surges like tempestuous waves. Amid brush, ink, paper, and inkstone, calligraphy is the most unique art form of Chinese civilization."
     },
     {
       "id": "chinese_heritage_054",
@@ -1209,7 +1371,10 @@
       ],
       "order": 54,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_054_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Chinese Paper Cutting",
+      "summary_en": "",
+      "full_text_en": "With a pair of scissors and a sheet of red paper, folk artisans cut out lifelike flowers, birds, fish, and insects. Northern Shaanxi window paper-cuts are passionate and bold, Yuxian colored paper-cuts are exquisite and refined, and Yangzhou paper-cuts are elegant and graceful. Paper cutting art is widespread across China and is one of the most widely circulated folk arts."
     },
     {
       "id": "chinese_heritage_055",
@@ -1231,7 +1396,10 @@
       ],
       "order": 55,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_055_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Lijiang Naxi Ancient Music",
+      "summary_en": "",
+      "full_text_en": "In the ancient town of Lijiang, Naxi elders perform Dongjing music originating from the Tang and Song Dynasties, with the sounds of silk strings and bamboo pipes echoing through cobblestone alleys. These ancient melodies, long lost in the Central Plains, have been completely preserved in this frontier town. Naxi ancient music is a living musical fossil connecting a thousand-year cultural血脉."
     },
     {
       "id": "chinese_heritage_056",
@@ -1253,7 +1421,10 @@
       ],
       "order": 56,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_056_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Chinese Woodblock Printing",
+      "summary_en": "",
+      "full_text_en": "The woodblock printing technique of Yangzhou has been passed down for a thousand years. Carvers use knives to engrave text and patterns in reverse on pear wood blocks. Printers evenly apply ink to the block surface, lay paper on top and brush lightly, then peel it off to complete a page of scripture. From Tang Dynasty Buddhist sutras to the Qing Dynasty Wuying Palace edition, woodblock printing is the cornerstone of knowledge dissemination."
     },
     {
       "id": "chinese_heritage_057",
@@ -1275,7 +1446,10 @@
       ],
       "order": 57,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_057_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Chinese Seal Carving Art",
+      "summary_en": "",
+      "full_text_en": "Seal carving artists use knives as brushes on small Qingtian stones to engrave seal script inscriptions. Qin and Han seals were mainly cast in bronze, while Ming and Qing school seals were carved in stone, with the Zhe School being bold and the Wan School being graceful. Seal carving fuses calligraphy and sculpture, with boundless expression within a square inch. It is a uniquely Chinese art form."
     },
     {
       "id": "chinese_heritage_058",
@@ -1297,7 +1471,10 @@
       ],
       "order": 58,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_058_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Chinese Shadow Puppetry",
+      "summary_en": "",
+      "full_text_en": "Shaanxi shadow puppeteers manipulate ox-hide cutouts behind a white screen, with lamplight casting colorful silhouettes. The singing is resonant and impassioned, acrobatic combat tumbles as if flying, and emperors, generals, scholars, and beauties perform timeless stories in light and shadow. Shadow puppetry is China's oldest shadow play art, hailed as the ancestor of cinema."
     },
     {
       "id": "chinese_heritage_059",
@@ -1319,7 +1496,10 @@
       ],
       "order": 59,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_059_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Guqin Art",
+      "summary_en": "",
+      "full_text_en": "The seven-stringed guqin is China's oldest plucked string instrument. Boya played the qin with his mind on high mountains and flowing water. Jianzi notation records a thousand years of qin melodies—the Guangling San is passionate and tragic, while Wild Geese Descending on the Sandbank is distant and ethereal. The guqin is an instrument for literati's self-cultivation, and the Way of the Qin contains the profound imagery of Chinese philosophy."
     },
     {
       "id": "chinese_heritage_060",
@@ -1341,7 +1521,10 @@
       ],
       "order": 60,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_060_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Chinese Woodblock New Year Prints",
+      "summary_en": "",
+      "full_text_en": "In the New Year print workshops of Yangliuqing and Taohuawu, artists draw designs and carvers engrave blocks, producing colorful door gods and chubby babies through multi-color printing. Surplus Every Year and Wealth Coming In are the people's most heartfelt wishes. Woodblock New Year prints are the most vivid carriers of folk art, and the joy of Spring Festival begins with a single New Year picture."
     },
     {
       "id": "chinese_heritage_061",
@@ -1363,7 +1546,10 @@
       ],
       "order": 61,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_061_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Shadow Puppet Performance",
+      "summary_en": "",
+      "full_text_en": "Lamplight casts silhouettes of donkey-hide carved figures onto the screen. Shadow puppeteers sing the libretto while manipulating figures with their fingers, as emperors, generals, scholars, and beauties take turns on stage. Shaanxi shadow puppets feature exquisite carving, while Tangshan shadow puppets have resonant singing. Shadow puppetry is China's oldest audiovisual art—a thousand-year dialogue of light and shadow."
     },
     {
       "id": "chinese_heritage_062",
@@ -1385,7 +1571,10 @@
       ],
       "order": 62,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_062_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Chinese Peking Opera",
+      "summary_en": "",
+      "full_text_en": "Red-faced Guan Yu is righteous and awe-inspiring, white-faced Cao Cao is treacherous and suspicious, black-faced Bao Zheng is impartial and incorruptible. With four skills and five methods of singing, reciting, acting, and martial arts, each role type has its distinctive features. Peking Opera fuses Hui and Han tunes with Kunqu, representing the quintessential national art. In 2010, it was inscribed on the Intangible Cultural Heritage of Humanity list."
     },
     {
       "id": "chinese_heritage_063",
@@ -1407,7 +1596,10 @@
       ],
       "order": 63,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_063_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Acrobatics",
+      "summary_en": "",
+      "full_text_en": "Wuqiao acrobats train from childhood, with jar-balancing and wire-walking leaving audiences breathless. Plate-spinning flutters like butterflies, foot-umbrella juggling is light as water. Chinese acrobatics is renowned worldwide for its thrilling danger and graceful beauty. From Han Dynasty variety shows to modern stages, acrobatics is the ultimate expression of strength and beauty. In 2017, it was inscribed on the Intangible Cultural Heritage of Humanity list."
     },
     {
       "id": "chinese_heritage_064",
@@ -1429,7 +1621,10 @@
       ],
       "order": 64,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_064_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Dong Grand Choir of China",
+      "summary_en": "",
+      "full_text_en": "In the drum towers of Dong villages, people of all ages sing the Grand Choir in parts, with multiple voices, no conductor, and no accompaniment. Cicada songs imitate forest cicadas, narrative songs transmit ethnic history. The Dong Grand Choir is the most unique polyphonic music of China's ethnic minorities, praised as music that flashes like a clear spring."
     },
     {
       "id": "chinese_heritage_065",
@@ -1451,7 +1646,10 @@
       ],
       "order": 65,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_065_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Mongolian Long Song",
+      "summary_en": "",
+      "full_text_en": "Herdsmen on horseback sing across the grasslands, their long songs stretching as far as the horizon. Vibrato ornaments ripple like wind through grass, and lyrics praise the blue sky, swift horses, and love. The long song is the musical expression of Mongolian nomadic life, accompanied by the morin khuur, and is the most moving sound on the steppe."
     },
     {
       "id": "chinese_heritage_066",
@@ -1473,7 +1671,10 @@
       ],
       "order": 66,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_066_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Tibetan Opera",
+      "summary_en": "",
+      "full_text_en": "Tibetan opera performers wearing white masks perform in open-air squares, their resonant singing echoing through mountain valleys. The stories of Princess Wencheng and Prince Norsang unfold to the sound of drums and cymbals. Tibetan opera fuses religious ritual with folk art, and is a dramatic treasure passed down for 600 years on the snow-covered plateau."
     },
     {
       "id": "chinese_heritage_067",
@@ -1495,7 +1696,10 @@
       ],
       "order": 67,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_067_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Movable Type Printing",
+      "summary_en": "",
+      "full_text_en": "Bi Sheng invented clay movable type printing, carving characters in clay, firing them hard, then typesetting and printing. Later, wooden and copper movable type appeared, and the Rui'an wooden movable type printing technique is still practiced today. Genealogy craftsmen use wooden type to compile family records for various surnames. Movable type printing was a major breakthrough in information reproduction technology."
     },
     {
       "id": "chinese_heritage_068",
@@ -1517,7 +1721,10 @@
       ],
       "order": 68,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_068_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Traditional Chinese Medicine: Acupuncture",
+      "summary_en": "",
+      "full_text_en": "Silver needles pierce acupoints to unblock meridians, and moxibustion warms to dispel cold pathogens. The Yellow Emperor's Inner Canon established the theoretical foundation of Chinese medicine, and meridian theory reveals the mysteries of qi and blood circulation in the human body. Acupuncture therapy has spread to over 180 countries, and the World Health Organization recognizes its efficacy for dozens of conditions."
     },
     {
       "id": "chinese_heritage_069",
@@ -1539,7 +1746,10 @@
       ],
       "order": 69,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_069_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Tai Chi",
+      "summary_en": "",
+      "full_text_en": "At dawn, tai chi practitioners slowly begin their forms in the park, using softness to overcome hardness and stillness to overcome motion. Chen-style tai chi balances hard and soft, Yang-style is expansive and graceful, Wudang-style follows the way of nature. Tai chi fuses Taoist philosophy with martial arts technique, representing Eastern wisdom that cultivates both body and mind."
     },
     {
       "id": "chinese_heritage_070",
@@ -1561,7 +1771,10 @@
       ],
       "order": 70,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_070_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Tea Art",
+      "summary_en": "",
+      "full_text_en": "Longjing tea unfurls like sparrow tongues in a glass cup, while pu'er tea exudes aged fragrance in a purple clay teapot. Lu Yu's The Classic of Tea established the foundation of tea culture. From picking and processing to brewing and tasting, every step embodies Eastern aesthetics. The tea tradition spread to Japan and developed into the Japanese tea ceremony. Chinese tea art is the essence of Eastern lifestyle aesthetics."
     },
     {
       "id": "chinese_heritage_071",
@@ -1583,7 +1796,10 @@
       ],
       "order": 71,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_071_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Sericulture and Silk Weaving",
+      "summary_en": "",
+      "full_text_en": "The legend of Leizu teaching people to raise silkworms has circulated for millennia. Jiangnan silkworm farmers pick mulberry leaves in groves to feed silkworms. Silk reelers draw silk threads from hot water, and weavers produce cloud brocade and Shu brocade on jacquard looms. The Silk Road was named after silk, and sericulture and silk weaving represent the most ancient craft heritage of Chinese civilization."
     },
     {
       "id": "chinese_heritage_072",
@@ -1605,7 +1821,10 @@
       ],
       "order": 72,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_072_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Timber-frame Architecture",
+      "summary_en": "",
+      "full_text_en": "Yingxian Wooden Pagoda stands 67 meters tall without a single iron nail, with stacked dougong brackets blooming like flowers. Mortise-and-tenon joints give timber-frame buildings earthquake resistance and durability, while tailiang and chuandou structural systems each have their own characteristics. From Nanchan Temple to the Hall of Supreme Harmony, the Chinese timber-frame architectural system has continued for millennia and is the soul of Eastern architecture."
     },
     {
       "id": "chinese_heritage_073",
@@ -1627,7 +1846,10 @@
       ],
       "order": 73,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_073_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Porcelain Making",
+      "summary_en": "",
+      "full_text_en": "Jingdezhen potters shape kaolin clay on the wheel and fire jade-like blue-and-white porcelain at 1,300°C. Underglaze red and pastel compete in splendor, while Ru ware's sky-blue and Jun ware's kiln-transmuted glazes each lead the way. From Shang Dynasty proto-porcelain to Qing Dynasty imperial kilns, Chinese porcelain-making represents the highest achievement in ceramic art."
     },
     {
       "id": "chinese_heritage_074",
@@ -1649,7 +1871,10 @@
       ],
       "order": 74,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_074_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Chinese Traditional Tea Processing",
+      "summary_en": "",
+      "full_text_en": "Longjing tea roasting requires shaking, pressing, and spreading; Tieguanyin processing alternates between shaking and cooling; pu'er tea pile-fermentation produces aged fragrance. Each of the six tea categories has its own craft, and from picking and withering to rolling and drying, every procedure crystallizes the experience and wisdom of tea masters. Tea processing techniques are a treasure of Chinese culinary culture."
     },
     {
       "id": "chinese_heritage_075",
@@ -1671,7 +1896,10 @@
       ],
       "order": 75,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_075_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Chinese Xuan Paper Making",
+      "summary_en": "",
+      "full_text_en": "Xuan paper from Jingxian uses blue sandalwood bark and sandy field rice straw as raw materials, processed through over a hundred steps including steaming, bleaching, sheet-forming, and drying. Xuan paper, with a lifespan of a thousand years, is the best medium for calligraphy and painting—light as cicada wings yet tough and durable. Xuan paper-making technique is the living heritage of papermaking."
     },
     {
       "id": "chinese_heritage_076",
@@ -1693,7 +1921,10 @@
       ],
       "order": 76,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_076_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Abacus",
+      "summary_en": "",
+      "full_text_en": "Upper and lower beads on the abacus fly under nimble fingers, completing addition, subtraction, multiplication, and division in an instant. Abacus formulas are catchy and memorable, with phrases like \"three down, five minus two\" entering everyday language. From Song Dynasty abaci to modern mental abacus calculation, the abacus is the unique mathematical wisdom of the Chinese nation. In 2013, it was inscribed on the Intangible Cultural Heritage of Humanity list."
     },
     {
       "id": "chinese_heritage_077",
@@ -1715,7 +1946,10 @@
       ],
       "order": 77,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_077_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Twenty-Four Solar Terms",
+      "summary_en": "",
+      "full_text_en": "Beginning of Spring, Rain Water, Awakening of Insects, Spring Equinox—the twenty-four solar terms precisely correspond to the sun's ecliptic longitude, guiding agricultural activities and daily life. Dumplings at Winter Solstice, noodles at Summer Solstice, spring outings at Qingming, harvesting at White Dew. Solar terms are not merely a calendar but a Chinese philosophy of life, with the wisdom of harmony between heaven and humanity passed down through generations."
     },
     {
       "id": "chinese_heritage_078",
@@ -1737,7 +1971,10 @@
       ],
       "order": 78,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_078_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Acupuncture",
+      "summary_en": "",
+      "full_text_en": "Silver needles pierce acupoints to unblock meridians, and moxibustion warms to dispel cold pathogens. The Yellow Emperor's Inner Canon established the theoretical foundation of Chinese medicine, and meridian theory reveals the mysteries of qi and blood circulation. Acupuncture therapy has spread to over 180 countries, and the World Health Organization recognizes its efficacy for dozens of conditions."
     },
     {
       "id": "chinese_heritage_079",
@@ -1759,7 +1996,10 @@
       ],
       "order": 79,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_079_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Shaolin Kung Fu",
+      "summary_en": "",
+      "full_text_en": "Monks at Shaolin Temple on Mount Song have practiced martial arts for health for a thousand years, and the 72 secret skills of Shaolin are world-famous. The Muscle-Tendon Transformation Classic and Marrow-Washing Classic cultivate both internal and external, staff techniques are like dragons and fist techniques like tigers. Warrior monks performing iron head and one-finger zen feats leave audiences in awe. Shaolin Kung Fu is the practice of uniting Zen and martial arts, the most influential school of Chinese martial arts."
     },
     {
       "id": "chinese_heritage_080",
@@ -1781,7 +2021,10 @@
       ],
       "order": 80,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_080_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Chinese Seal Carving",
+      "summary_en": "",
+      "full_text_en": "Boundless expression within a square inch—seal carving artists use knives as brushes on Shoushan and Qingtian stones, carving the charm of Qin seal script and Han clerical script. The Zhe School is vigorous and the Wan School is elegant, while Qi Baishi's single-stroke approach is majestic. Seal carving fuses calligraphy and sculpture, is one of the four perfections of poetry, calligraphy, painting, and seal carving, and is the most refined expression of Chinese art."
     },
     {
       "id": "chinese_heritage_081",
@@ -1803,7 +2046,10 @@
       ],
       "order": 81,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_081_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Traditional Chinese Materia Medica",
+      "summary_en": "",
+      "full_text_en": "Li Shizhen spent 27 years compiling the Compendium of Materia Medica, recording 1,892 medicinal substances. From Shennong tasting hundreds of herbs to modern pharmacological verification, Chinese materia medica has accumulated thousands of years of medicinal experience. Ginseng tonifies qi, angelica nourishes blood, astragalus consolidates the exterior—Chinese herbal medicine is the unique wisdom of Eastern medicine."
     },
     {
       "id": "chinese_heritage_082",
@@ -1825,7 +2071,10 @@
       ],
       "order": 82,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_082_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Longquan Celadon",
+      "summary_en": "",
+      "full_text_en": "The plum-green and powder-green glazes of Longquan kiln are like jade, with thick, lustrous glaze layers like congealed fat. Artisans repeatedly dip bisque ware into glaze slip and fire in a reducing atmosphere to produce sky-blue colors. Longquan celadon is the most outstanding celadon beyond the Five Great Kilns of the Song Dynasty, and its firing techniques have continued for a thousand years without decline."
     },
     {
       "id": "chinese_heritage_083",
@@ -1847,7 +2096,10 @@
       ],
       "order": 83,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_083_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Chinese Dragon Boat Festival",
+      "summary_en": "",
+      "full_text_en": "On the fifth day of the fifth lunar month, dragon boats race to thunderous drums, and zongzi are cast into the river in memory of Qu Yuan. Mugwort hangs on doors to ward off evil and plague, and realgar wine is dabbed on foreheads for protection. The Dragon Boat Festival carries the Chinese nation's reverence for loyal integrity and prayers for health and safety. In 2009, it was inscribed on the Intangible Cultural Heritage of Humanity list."
     },
     {
       "id": "chinese_heritage_084",
@@ -1869,7 +2121,10 @@
       ],
       "order": 84,
       "pixel_image": "res://assets/images/illustrations/chinese_heritage/chinese_heritage_084_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Chinese Silk Weaving",
+      "summary_en": "",
+      "full_text_en": "Shu brocade weavers shuttle across jacquard looms, interweaving warp and weft into complex patterns. Nanjing cloud brocade uses gold thread and peacock feathers to weave dragon robes, while Suzhou Song brocade reveals patterns through warp and weft with delicate elegance. The three great brocades each lead their own domain, and silk weaving techniques are the material foundation of the Silk Road."
     }
   ]
 }

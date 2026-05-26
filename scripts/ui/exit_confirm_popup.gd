@@ -9,7 +9,7 @@ signal cancelled
 func _ready() -> void:
 	visible = false
 
-func show_popup(message: String = "确定要退出游戏吗？") -> void:
+func show_popup(message: String = tr("确定要退出游戏吗？")) -> void:
 	var message_label = $PanelContainer/MessageLabel
 	message_label.text = message
 	visible = true

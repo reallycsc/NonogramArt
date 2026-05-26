@@ -1,11 +1,13 @@
-# 《美食》画册内容规划
+# 《美食》Food 画册内容规划
 
 ## 画册信息
 
 | 属性 | 内容 |
 | ---- | ---- |
 | 序号 | 42 |
+| 英文名 | Food |
 | 书架 | 生活社会 |
+| 书架英文名 | Life & Society |
 | 图片数 | 70 |
 | 分块数/图 | 6 |
 | 谜题数 | 420（常规336 + 专家84） |
@@ -54,95 +56,95 @@
 
 ## 图片内容规划
 
-### 第1章：中华美食上（18张）
+### 第1章：中华美食上 Chinese Cuisine I（18张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 1 | 第1章 | 北京烤鸭 | 北京烤鸭选用填鸭，果木炭火烤制，皮脆肉嫩，片鸭师傅将鸭肉片成一百零八片，配薄饼葱丝甜面酱。烤鸭是京菜代表，始于明朝宫廷御膳房。 | food_000.jpg | 10×10 |
-| 2 | 第1章 | 四川麻婆豆腐 | 麻婆豆腐以嫩豆腐为主料，牛肉末煸炒出香，加入郫县豆瓣酱与花椒粉，麻辣鲜香烫。此菜源于清同治年间成都陈麻婆小店，是川菜经典。 | food_001.jpg | 10×10 |
-| 3 | 第1章 | 广东早茶点心 | 广东茶楼里虾饺晶莹剔透，叉烧包松软爆馅，肠粉白如凝脂裹鲜虾，凤爪豉油蒸至入味。早茶是岭南饮食文化的精髓，一盅两件品人生。 | food_002.jpg | 10×10 |
-| 4 | 第1章 | 兰州牛肉面 | 兰州牛肉面讲究一清二白三红四绿五黄，汤清萝卜白、辣椒红、蒜苗绿、面条黄亮。拉面师傅将面团拉成粗细不同的面条，技艺精湛。 | food_003.jpg | 10×10 |
-| 5 | 第1章 | 杭州西湖醋鱼 | 西湖醋鱼选用草鱼，饿养两日去泥腥，活杀现烹，糖醋汁浇淋鱼身，酸甜适口蟹味。此菜是杭帮菜的代表，相传源于南宋嫂嫂激励小叔的故事。 | food_004.jpg | 10×10 |
-| 6 | 第1章 | 南京盐水鸭 | 南京盐水鸭选用桂花飘香时节的鸭子，腌制后煮熟，皮白肉嫩骨微红，咸淡适中肥而不腻。盐水鸭是金陵菜的代表，有两千五百年历史。 | food_005.jpg | 10×10 |
-| 7 | 第1章 | 云南过桥米线 | 过桥米线以滚烫鸡汤为底，生肉片入汤即熟，米线滑嫩，配以菊花瓣和韭菜，汤鲜味美。传说源于妻子为读书的丈夫送饭过桥的故事。 | food_006.jpg | 10×10 |
-| 8 | 第1章 | 东北锅包肉 | 锅包肉将猪里脊切片挂糊油炸至金黄，再以糖醋汁翻炒，外酥里嫩，酸甜适口。此菜由哈尔滨道台府厨师郑兴文首创，是东北菜的代表。 | food_007.jpg | 10×10 |
-| 9 | 第1章 | 福建佛跳墙 | 佛跳墙以坛盛装，汇鲍鱼海参鱼翅花胶等数十种名贵食材，文火煨炖数日，汤浓味醇。此菜是闽菜之王，传说香气诱得佛祖翻墙而来。 | food_008.jpg | 10×10 |
-| 10 | 第1章 | 西安羊肉泡馍 | 羊肉泡馍食客亲手将饦饦馍掰成碎粒，浇上滚烫羊肉浓汤，配糖蒜辣酱，汤浓馍筋。泡馍是西安人的灵魂美食，始于宋代，讲究掰馍功夫。 | food_009.jpg | 10×10 |
-| 11 | 第1章 | 上海小笼包 | 上海小笼包薄皮大馅，十八道褶收口，内含鲜美肉馅与皮冻化成的汤汁，轻咬一口满嘴鲜。南翔小笼是上海最著名的小吃，始于清代。 | food_010.jpg | 10×10 |
-| 12 | 第1章 | 湖南剁椒鱼头 | 剁椒鱼头选用胖头鱼，铺满红艳剁辣椒蒸制，鱼肉鲜嫩入味，辣而不燥，配面条拌汁。此菜是湘菜的代表，鲜辣浓烈，体现湖南人性格。 | food_011.jpg | 10×10 |
-| 13 | 第1章 | 天津狗不理包子 | 狗不理包子面皮柔韧，馅料以猪肉为主加入高汤打馅，每个包子不少于十五个褶。狗不理始于清咸丰年间，因店主小名狗子忙得不理人而得名。 | food_012.jpg | 10×10 |
-| 14 | 第1章 | 重庆火锅 | 重庆火锅以牛油为底料，花椒辣椒翻滚如熔岩，毛肚鸭肠七上八下涮烫，麻辣鲜香。火锅源于嘉陵江畔船夫的粗放饮食，如今红遍全国。 | food_013.jpg | 10×10 |
-| 15 | 第1章 | 苏州松鼠桂鱼 | 松鼠桂鱼将桂鱼去骨切花刀，油炸后鱼身蓬松如松鼠，浇以番茄酱汁，外酥里嫩酸甜。此菜是苏菜经典，相传乾隆下江南时赞不绝口。 | food_014.jpg | 10×10 |
-| 16 | 第1章 | 山东煎饼卷大葱 | 山东煎饼以杂粮面糊摊成薄饼，卷入大葱蘸酱，粗粮的香甜与大葱的辛辣交融。煎饼是山东人的主食记忆，朴素中蕴含着齐鲁大地的豪迈。 | food_015.jpg | 10×10 |
-| 17 | 第1章 | 武汉热干面 | 武汉热干面以碱面煮熟拌油摊凉，食时加芝麻酱酱油葱花，面条筋道酱香浓郁。热干面是武汉人的过早首选，一碗面开启江城的一天。 | food_016.jpg | 10×10 |
-| 18 | 第1章 | 新疆大盘鸡 | 新疆大盘鸡以鸡肉土豆青椒为主料，宽面铺底吸满汤汁，辣中有香，分量豪迈。大盘鸡是新疆与内地饮食文化融合的产物，一盘足供数人。 | food_017.jpg | 10×10 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 1 | 第1章 | 北京烤鸭 | 北京烤鸭选用填鸭，果木炭火烤制，皮脆肉嫩，片鸭师傅将鸭肉片成一百零八片，配薄饼葱丝甜面酱。烤鸭是京菜代表，始于明朝宫廷御膳房。 | Peking Roast Duck | Peking roast duck uses force-fed ducks, roasted over fruitwood charcoal, crispy skin and tender meat, sliced into 108 pieces by the chef, served with thin pancakes, scallions, and sweet bean sauce. Roast duck is the representative of Beijing cuisine, originating from the Ming dynasty imperial kitchen. | food_000.jpg | 10×10 |
+| 2 | 第1章 | 四川麻婆豆腐 | 麻婆豆腐以嫩豆腐为主料，牛肉末煸炒出香，加入郫县豆瓣酱与花椒粉，麻辣鲜香烫。此菜源于清同治年间成都陈麻婆小店，是川菜经典。 | Sichuan Mapo Tofu | Mapo tofu uses tender tofu as the main ingredient, stir-fried minced beef for aroma, Pixian doubanjiang and Sichuan peppercorn powder added, numbing spicy fresh fragrant and hot. This dish originated from Grandma Chen's small shop in Chengdu during the Tongzhi era of Qing, a Sichuan cuisine classic. | food_001.jpg | 10×10 |
+| 3 | 第1章 | 广东早茶点心 | 广东茶楼里虾饺晶莹剔透，叉烧包松软爆馅，肠粉白如凝脂裹鲜虾，凤爪豉油蒸至入味。早茶是岭南饮食文化的精髓，一盅两件品人生。 | Cantonese Morning Tea Dim Sum | In Cantonese tea houses, shrimp dumplings are crystal clear, BBQ pork buns are fluffy and bursting with filling, rice noodle rolls white as cream wrapping fresh shrimp, chicken feet steamed with soy sauce to perfection. Morning tea is the essence of Lingnan food culture, one pot two dishes savoring life. | food_002.jpg | 10×10 |
+| 4 | 第1章 | 兰州牛肉面 | 兰州牛肉面讲究一清二白三红四绿五黄，汤清萝卜白、辣椒红、蒜苗绿、面条黄亮。拉面师傅将面团拉成粗细不同的面条，技艺精湛。 | Lanzhou Beef Noodle Soup | Lanzhou beef noodle soup emphasizes five qualities: clear broth, white radish, red chili oil, green garlic sprouts, yellow noodles. The noodle master stretches dough into noodles of varying thickness, demonstrating exquisite skill. | food_003.jpg | 10×10 |
+| 5 | 第1章 | 杭州西湖醋鱼 | 西湖醋鱼选用草鱼，饿养两日去泥腥，活杀现烹，糖醋汁浇淋鱼身，酸甜适口蟹味。此菜是杭帮菜的代表，相传源于南宋嫂嫂激励小叔的故事。 | Hangzhou West Lake Vinegar Fish | West Lake vinegar fish uses grass carp, starved for two days to remove muddy taste, killed and cooked fresh, sweet and sour sauce poured over the fish, sweet and sour with crab-like flavor. This dish is the representative of Hangzhou cuisine, said to originate from a Song dynasty story of a sister-in-law encouraging her brother-in-law. | food_004.jpg | 10×10 |
+| 6 | 第1章 | 南京盐水鸭 | 南京盐水鸭选用桂花飘香时节的鸭子，腌制后煮熟，皮白肉嫩骨微红，咸淡适中肥而不腻。盐水鸭是金陵菜的代表，有两千五百年历史。 | Nanjing Salted Duck | Nanjing salted duck uses ducks from the osmanthus-blossoming season, marinated then boiled, white skin tender meat slightly red bones, moderately salty and rich but not greasy. Salted duck is the representative of Jinling cuisine, with a history of 2,500 years. | food_005.jpg | 10×10 |
+| 7 | 第1章 | 云南过桥米线 | 过桥米线以滚烫鸡汤为底，生肉片入汤即熟，米线滑嫩，配以菊花瓣和韭菜，汤鲜味美。传说源于妻子为读书的丈夫送饭过桥的故事。 | Yunnan Crossing-the-Bridge Noodles | Crossing-the-bridge noodles use boiling chicken soup as the base, raw meat slices cooked instantly in the broth, smooth rice noodles, garnished with chrysanthemum petals and chives, fresh and delicious. Legend says it originated from a wife bringing meals across a bridge to her studying husband. | food_006.jpg | 10×10 |
+| 8 | 第1章 | 东北锅包肉 | 锅包肉将猪里脊切片挂糊油炸至金黄，再以糖醋汁翻炒，外酥里嫩，酸甜适口。此菜由哈尔滨道台府厨师郑兴文首创，是东北菜的代表。 | Dongbei Guo Bao Rou | Guo bao rou slices pork tenderloin, coats in batter and deep-fries until golden, then stir-fries with sweet and sour sauce, crispy outside tender inside, sweet and sour. Created by chef Zheng Xingwen at the Harbin Daotai Mansion, it is the representative of Northeast cuisine. | food_007.jpg | 10×10 |
+| 9 | 第1章 | 福建佛跳墙 | 佛跳墙以坛盛装，汇鲍鱼海参鱼翅花胶等数十种名贵食材，文火煨炖数日，汤浓味醇。此菜是闽菜之王，传说香气诱得佛祖翻墙而来。 | Fujian Buddha Jumps Over the Wall | Buddha jumps over the wall is prepared in an earthen jar, combining abalone, sea cucumber, shark fin, fish maw, and dozens of precious ingredients, simmered over low heat for days, rich broth with mellow flavor. This dish is the king of Fujian cuisine, legend says its aroma tempted Buddha to jump over the wall. | food_008.jpg | 10×10 |
+| 10 | 第1章 | 西安羊肉泡馍 | 羊肉泡馍食客亲手将饦饦馍掰成碎粒，浇上滚烫羊肉浓汤，配糖蒜辣酱，汤浓馍筋。泡馍是西安人的灵魂美食，始于宋代，讲究掰馍功夫。 | Xi'an Lamb Pita Bread Soup | In lamb pita bread soup, diners personally tear the pita bread into small pieces, pour boiling lamb broth over them, served with sweet garlic and chili sauce, rich broth with chewy bread. Pita bread soup is the soul food of Xi'an people, dating back to the Song dynasty, emphasizing the skill of tearing the bread. | food_009.jpg | 10×10 |
+| 11 | 第1章 | 上海小笼包 | 上海小笼包薄皮大馅，十八道褶收口，内含鲜美肉馅与皮冻化成的汤汁，轻咬一口满嘴鲜。南翔小笼是上海最著名的小吃，始于清代。 | Shanghai Xiaolongbao | Shanghai xiaolongbao has thin skin with generous filling, 18 pleats sealing the top, containing savory meat filling and broth from melted gelatin, one bite fills the mouth with flavor. Nanxiang xiaolongbao is Shanghai's most famous snack, originating in the Qing dynasty. | food_010.jpg | 10×10 |
+| 12 | 第1章 | 湖南剁椒鱼头 | 剁椒鱼头选用胖头鱼，铺满红艳剁辣椒蒸制，鱼肉鲜嫩入味，辣而不燥，配面条拌汁。此菜是湘菜的代表，鲜辣浓烈，体现湖南人性格。 | Hunan Chopped Chili Fish Head | Chopped chili fish head uses bighead carp, covered with bright red chopped chilies and steamed, fish meat tender and flavorful, spicy but not harsh, served with noodles to mix with the sauce. This dish is the representative of Hunan cuisine, fresh and intensely spicy, reflecting the Hunan character. | food_011.jpg | 10×10 |
+| 13 | 第1章 | 天津狗不理包子 | 狗不理包子面皮柔韧，馅料以猪肉为主加入高汤打馅，每个包子不少于十五个褶。狗不理始于清咸丰年间，因店主小名狗子忙得不理人而得名。 | Tianjin Goubuli Baozi | Goubuli baozi has resilient dough skin, filling mainly pork mixed with rich broth, each bun with no fewer than 15 pleats. Goubuli originated in the Xianfeng era of Qing, named because the owner nicknamed Gouzi was too busy to greet customers. | food_012.jpg | 10×10 |
+| 14 | 第1章 | 重庆火锅 | 重庆火锅以牛油为底料，花椒辣椒翻滚如熔岩，毛肚鸭肠七上八下涮烫，麻辣鲜香。火锅源于嘉陵江畔船夫的粗放饮食，如今红遍全国。 | Chongqing Hotpot | Chongqing hotpot uses beef tallow as the base, Sichuan peppercorns and chilies rolling like lava, beef tripe and duck intestines dipped with the seven-up-eight-down technique, numbing spicy fresh and fragrant. Hotpot originated from the rough dining of boatmen along the Jialing River, now popular nationwide. | food_013.jpg | 10×10 |
+| 15 | 第1章 | 苏州松鼠桂鱼 | 松鼠桂鱼将桂鱼去骨切花刀，油炸后鱼身蓬松如松鼠，浇以番茄酱汁，外酥里嫩酸甜。此菜是苏菜经典，相传乾隆下江南时赞不绝口。 | Suzhou Squirrel-Shaped Mandarin Fish | Squirrel-shaped mandarin fish is deboned and scored with cross-cuts, deep-fried until the body puffs up like a squirrel, topped with tomato sauce, crispy outside tender inside, sweet and sour. This dish is a Su cuisine classic, said to have won Emperor Qianlong's praise during his southern tour. | food_014.jpg | 10×10 |
+| 16 | 第1章 | 山东煎饼卷大葱 | 山东煎饼以杂粮面糊摊成薄饼，卷入大葱蘸酱，粗粮的香甜与大葱的辛辣交融。煎饼是山东人的主食记忆，朴素中蕴含着齐鲁大地的豪迈。 | Shandong Pancake with Green Onion | Shandong pancake is made from mixed grain batter spread thin, rolled around green onions dipped in sauce, the sweetness of coarse grains blending with the pungency of green onions. Pancakes are the staple food memory of Shandong people, simplicity containing the boldness of the Qilu land. | food_015.jpg | 10×10 |
+| 17 | 第1章 | 武汉热干面 | 武汉热干面以碱面煮熟拌油摊凉，食时加芝麻酱酱油葱花，面条筋道酱香浓郁。热干面是武汉人的过早首选，一碗面开启江城的一天。 | Wuhan Hot Dry Noodles | Wuhan hot dry noodles use alkaline noodles cooked and tossed with oil to cool, served with sesame paste, soy sauce, and scallions, noodles chewy with rich sesame flavor. Hot dry noodles are Wuhan people's top breakfast choice, a bowl of noodles starts the river city's day. | food_016.jpg | 10×10 |
+| 18 | 第1章 | 新疆大盘鸡 | 新疆大盘鸡以鸡肉土豆青椒为主料，宽面铺底吸满汤汁，辣中有香，分量豪迈。大盘鸡是新疆与内地饮食文化融合的产物，一盘足供数人。 | Xinjiang Big Plate Chicken | Xinjiang big plate chicken uses chicken, potatoes, and green peppers as main ingredients, wide noodles at the bottom soaking up the sauce, spicy yet fragrant, generous portions. Big plate chicken is a fusion of Xinjiang and inland food cultures, one plate enough for several people. | food_017.jpg | 10×10 |
 
-### 第2章：中华美食下（14张）
+### 第2章：中华美食下 Chinese Cuisine II（14张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 19 | 第2章 | 安徽臭鳜鱼 | 臭鳜鱼以新鲜鳜鱼腌制发酵，闻着臭吃着香，鱼肉如蒜瓣紧实，汤汁浓郁鲜美。此菜是徽菜代表，源于商贩长途运鱼以盐腌防腐的智慧。 | food_018.jpg | 10×10 |
-| 20 | 第2章 | 潮汕牛肉火锅 | 潮汕牛肉火锅现宰现切，牛肉按部位细分，吊龙匙柄嫩肉各具口感，涮八秒即食。潮汕人对牛肉的理解堪称极致，一头牛的每个部位都有讲究。 | food_019.jpg | 10×10 |
-| 21 | 第2章 | 河南烩面 | 河南烩面以骨汤为底，宽面条筋道爽滑，配以羊肉片海带丝豆腐丝和鹌鹑蛋。烩面是中原大地的面食之王，一碗面浓缩了河南人的豪爽。 | food_020.jpg | 15×15 |
-| 22 | 第2章 | 贵州酸汤鱼 | 贵州酸汤鱼以红酸汤为底，番茄发酵的酸味醇厚，鱼块鲜嫩，蘸水香辣开胃。酸汤是苗族的饮食智慧，以酸代盐的传统延续至今。 | food_021.jpg | 15×15 |
-| 23 | 第2章 | 江西瓦罐汤 | 南昌瓦罐汤以小瓦罐盛装食材，放入大缸中以炭火煨炖七小时，汤清味醇。瓦罐汤是江西人的早餐标配，一罐汤一碗粉开启一天。 | food_022.jpg | 15×15 |
-| 24 | 第2章 | 广西螺蛳粉 | 柳州螺蛳粉以酸笋为灵魂，螺蛳熬汤浓郁鲜香，米粉筋道，配酸豆角花生腐竹。螺蛳粉闻着臭吃着香，是广西最出圈的小吃。 | food_023.jpg | 15×15 |
-| 25 | 第2章 | 内蒙古手把肉 | 蒙古族手把肉以清水煮羊肉，不加过多调料，蘸蒜酱食用，原汁原味鲜嫩多汁。手把肉是草原最质朴的美食，一手持刀一手抓肉大快朵颐。 | food_024.jpg | 15×15 |
-| 45 | 第2章 | 茶道品茗 | 功夫茶席上，紫砂壶冲泡大红袍，沸水高冲低斟，闻香杯中岩骨花香袅袅。中国茶道讲究和静清寂，一壶茶中品味千年文化。 | food_044.jpg | 20×20 |
-| 46 | 第2章 | 古代盐商宴席 | 扬州盐商府中设宴，满汉全席珍馐罗列，燕窝鱼翅鲍鱼海参依次呈上，餐具皆金玉。盐商宴席是中国饮食奢华的极致，一席耗费千金。 | food_045.jpg | 20×20 |
-| 47 | 第2章 | 年夜饭团圆 | 除夕之夜全家围坐，饺子如元宝寓意招财，鱼象征年年有余，年糕谐音年年高。年夜饭是中国人最重要的家庭仪式，一桌菜承载着团圆的期盼。 | food_046.jpg | 20×20 |
-| 48 | 第2章 | 端午粽子 | 端午节包粽子，箬叶裹糯米填入咸蛋黄和五花肉，棉线扎紧，大火煮三小时。粽子纪念屈原，南北甜咸之争延续千年，是端午最深的味觉记忆。 | food_047.jpg | 20×20 |
-| 49 | 第2章 | 中秋月饼 | 中秋佳节月饼琳琅，广式莲蓉蛋黄皮薄馅丰，苏式鲜肉酥皮层层，冰皮月饼晶莹剔透。月饼象征团圆，是中秋最甜蜜的仪式感。 | food_048.jpg | 20×20 |
-| 50 | 第2章 | 腊八节腊八粥 | 腊月初八寺庙施粥，粥中汇集花生红豆桂圆莲子红枣薏米等八种食材，文火慢熬。腊八粥源于佛教释迦牟尼成道日，后成为民间祈福的传统。 | food_049.jpg | 20×20 |
-| 51 | 第2章 | 满月酒喜宴 | 婴儿满月设宴庆贺，红鸡蛋分送亲友，长寿面寓意健康，宴席上菜必双数讨吉利。满月酒是中国人生礼的重要仪式，分享新生命降临的喜悦。 | food_050.jpg | 20×20 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 19 | 第2章 | 安徽臭鳜鱼 | 臭鳜鱼以新鲜鳜鱼腌制发酵，闻着臭吃着香，鱼肉如蒜瓣紧实，汤汁浓郁鲜美。此菜是徽菜代表，源于商贩长途运鱼以盐腌防腐的智慧。 | Anhui Fermented Mandarin Fish | Fermented mandarin fish uses fresh mandarin fish salted and fermented, smells stinky but tastes delicious, fish meat firm like garlic cloves, rich and savory broth. This dish is the representative of Hui cuisine, originating from merchants' wisdom of salting fish for long-distance transport. | food_018.jpg | 10×10 |
+| 20 | 第2章 | 潮汕牛肉火锅 | 潮汕牛肉火锅现宰现切，牛肉按部位细分，吊龙匙柄嫩肉各具口感，涮八秒即食。潮汕人对牛肉的理解堪称极致，一头牛的每个部位都有讲究。 | Chaoshan Beef Hotpot | Chaoshan beef hotpot features freshly slaughtered and sliced beef, beef divided by cut with different textures, each part with its own character, blanched for eight seconds then eaten. Chaoshan people's understanding of beef is ultimate, every part of a cow has its specific preparation. | food_019.jpg | 15×15 |
+| 21 | 第2章 | 河南烩面 | 河南烩面以骨汤为底，宽面条筋道爽滑，配以羊肉片海带丝豆腐丝和鹌鹑蛋。烩面是中原大地的面食之王，一碗面浓缩了河南人的豪爽。 | Henan Braised Noodles | Henan braised noodles use bone broth as the base, wide noodles chewy and smooth, served with lamb slices, kelp strips, tofu strips, and quail eggs. Braised noodles are the king of noodles in the Central Plains, one bowl condensing the generosity of Henan people. | food_020.jpg | 15×15 |
+| 22 | 第2章 | 贵州酸汤鱼 | 贵州酸汤鱼以红酸汤为底，番茄发酵的酸味醇厚，鱼块鲜嫩，蘸水香辣开胃。酸汤是苗族的饮食智慧，以酸代盐的传统延续至今。 | Guizhou Sour Soup Fish | Guizhou sour soup fish uses red sour soup as the base, tomato-fermented sourness rich and mellow, fish chunks tender, dipping sauce spicy and appetizing. Sour soup is the dietary wisdom of the Miao people, the tradition of substituting sourness for salt continues today. | food_021.jpg | 15×15 |
+| 23 | 第2章 | 江西瓦罐汤 | 南昌瓦罐汤以小瓦罐盛装食材，放入大缸中以炭火煨炖七小时，汤清味醇。瓦罐汤是江西人的早餐标配，一罐汤一碗粉开启一天。 | Jiangxi Clay Pot Soup | Nanchang clay pot soup uses small clay pots filled with ingredients, placed in large vats and simmered over charcoal for seven hours, clear broth with mellow flavor. Clay pot soup is the breakfast standard for Jiangxi people, one pot of soup and one bowl of noodles starts the day. | food_022.jpg | 15×15 |
+| 24 | 第2章 | 广西螺蛳粉 | 柳州螺蛳粉以酸笋为灵魂，螺蛳熬汤浓郁鲜香，米粉筋道，配酸豆角花生腐竹。螺蛳粉闻着臭吃着香，是广西最出圈的小吃。 | Guangxi Luosifen | Liuzhou luosifen uses sour bamboo shoots as its soul, snail-boiled broth rich and fragrant, rice noodles chewy, with sour beans, peanuts, and tofu skin. Luosifen smells stinky but tastes delicious, Guangxi's most viral snack. | food_023.jpg | 15×15 |
+| 25 | 第2章 | 内蒙古手把肉 | 蒙古族手把肉以清水煮羊肉，不加过多调料，蘸蒜酱食用，原汁原味鲜嫩多汁。手把肉是草原最质朴的美食，一手持刀一手抓肉大快朵颐。 | Inner Mongolian Hand-Held Mutton | Mongolian hand-held mutton is boiled in plain water, without excessive seasoning, dipped in garlic sauce, original flavor tender and juicy. Hand-held mutton is the most rustic delicacy of the grassland, holding a knife in one hand and meat in the other, eating heartily. | food_024.jpg | 15×15 |
+| 45 | 第2章 | 茶道品茗 | 功夫茶席上，紫砂壶冲泡大红袍，沸水高冲低斟，闻香杯中岩骨花香袅袅。中国茶道讲究和静清寂，一壶茶中品味千年文化。 | Tea Ceremony Tasting | At a gongfu tea ceremony, a purple clay teapot brews Da Hong Pao, boiling water poured high and served low, the aroma cup filled with rocky floral fragrance. Chinese tea ceremony emphasizes harmony, tranquility, clarity, and serenity, tasting a millennium of culture in one pot. | food_044.jpg | 20×20 |
+| 46 | 第2章 | 古代盐商宴席 | 扬州盐商府中设宴，满汉全席珍馐罗列，燕窝鱼翅鲍鱼海参依次呈上，餐具皆金玉。盐商宴席是中国饮食奢华的极致，一席耗费千金。 | Ancient Salt Merchant Banquet | At a Yangzhou salt merchant's mansion, a Man-Han Imperial Feast is laid out, bird's nest, shark fin, abalone, and sea cucumber served in sequence, all tableware of gold and jade. Salt merchant banquets represent the pinnacle of Chinese culinary luxury, one feast costing a fortune. | food_045.jpg | 20×20 |
+| 47 | 第2章 | 年夜饭团圆 | 除夕之夜全家围坐，饺子如元宝寓意招财，鱼象征年年有余，年糕谐音年年高。年夜饭是中国人最重要的家庭仪式，一桌菜承载着团圆的期盼。 | New Year's Eve Reunion Dinner | On New Year's Eve the whole family gathers around, dumplings shaped like ingots symbolizing wealth, fish symbolizing surplus year after year, niangao homophonous with rising higher each year. New Year's Eve dinner is the most important family ritual for Chinese, a table of dishes carrying the hope of reunion. | food_046.jpg | 20×20 |
+| 48 | 第2章 | 端午粽子 | 端午节包粽子，箬叶裹糯米填入咸蛋黄和五花肉，棉线扎紧，大火煮三小时。粽子纪念屈原，南北甜咸之争延续千年，是端午最深的味觉记忆。 | Dragon Boat Festival Zongzi | Making zongzi for the Dragon Boat Festival, bamboo leaves wrapping glutinous rice filled with salted egg yolk and pork belly, tied with cotton string, boiled for three hours. Zongzi commemorates Qu Yuan, the north-south sweet-salty debate continues for millennia, the deepest taste memory of the festival. | food_047.jpg | 20×20 |
+| 49 | 第2章 | 中秋月饼 | 中秋佳节月饼琳琅，广式莲蓉蛋黄皮薄馅丰，苏式鲜肉酥皮层层，冰皮月饼晶莹剔透。月饼象征团圆，是中秋最甜蜜的仪式感。 | Mid-Autumn Mooncakes | Mid-Autumn Festival mooncakes abound, Cantonese lotus seed paste with egg yolk thin skin generous filling, Suzhou-style meat mooncakes with flaky layers, snow skin mooncakes crystal clear. Mooncakes symbolize reunion, the sweetest ritual of Mid-Autumn. | food_048.jpg | 20×20 |
+| 50 | 第2章 | 腊八节腊八粥 | 腊月初八寺庙施粥，粥中汇集花生红豆桂圆莲子红枣薏米等八种食材，文火慢熬。腊八粥源于佛教释迦牟尼成道日，后成为民间祈福的传统。 | Laba Festival Laba Porridge | On the eighth day of the twelfth month, temples distribute porridge, combining peanuts, red beans, longan, lotus seeds, red dates, barley, and other ingredients, simmered over low heat. Laba porridge originated from the day of Buddha's enlightenment, later becoming a folk tradition of prayer. | food_049.jpg | 20×20 |
+| 51 | 第2章 | 满月酒喜宴 | 婴儿满月设宴庆贺，红鸡蛋分送亲友，长寿面寓意健康，宴席上菜必双数讨吉利。满月酒是中国人生礼的重要仪式，分享新生命降临的喜悦。 | Full-Month Baby Celebration Banquet | A banquet celebrates a baby's first month, red eggs distributed to friends and family, longevity noodles symbolizing health, dishes served in even numbers for good luck. The full-month banquet is an important life ritual for Chinese, sharing the joy of a new life. | food_050.jpg | 20×20 |
 
-### 第3章：世界美食（20张）
+### 第3章：世界美食 World Cuisine（20张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 26 | 第3章 | 法式鹅肝 | 法式鹅肝选用肥美鹅肝，以盐胡椒和白兰地腌制，低温慢煎至外焦内融，配无花果酱。鹅肝是法式高级料理的代表，口感如丝绒般细腻。 | food_025.jpg | 15×15 |
-| 27 | 第3章 | 日本寿司 | 东京银座寿司店中，师傅手握醋饭覆以新鲜鱼生，金枪鱼大腹油脂丰腴，醋饭温热。江户前寿司追求食材极致，每一贯都是匠人心血。 | food_026.jpg | 15×15 |
-| 28 | 第3章 | 意大利手工面 | 意大利妈妈在厨房揉制新鲜面皮，面粉与鸡蛋揉成金黄面团，擀薄切条，配番茄肉酱。手工意面是意大利家庭的味道传承，每个地区形状各异。 | food_027.jpg | 15×15 |
-| 29 | 第3章 | 印度咖喱 | 印度厨房中数十种香料在铁锅中翻炒出香，姜黄孜然芫荽小豆蔻磨成粉，炖煮羊肉。印度咖喱是香料的艺术，每个家庭都有独门配方。 | food_028.jpg | 15×15 |
-| 30 | 第3章 | 墨西哥塔可 | 墨西哥街头摊贩将玉米饼在铁板上烤热，填入慢炖猪肉配洋葱香菜和青柠汁。塔可是墨西哥的国民美食，玉米饼承载着玛雅文明的记忆。 | food_029.jpg | 15×15 |
-| 31 | 第3章 | 泰国冬阴功汤 | 冬阴功汤以虾为主料，加入香茅南姜柠檬叶和辣椒，酸辣鲜香层次丰富。冬阴功是泰国菜的灵魂，酸辣的平衡体现了泰国饮食哲学。 | food_030.jpg | 15×15 |
-| 32 | 第3章 | 韩国泡菜 | 韩国主妇在初冬制作越冬泡菜，大白菜抹上辣椒粉蒜泥鱼露，层层码入陶缸发酵。泡菜是韩国饮食的根基，一缸泡菜维系着家族的味道。 | food_031.jpg | 15×15 |
-| 33 | 第3章 | 西班牙海鲜饭 | 瓦伦西亚海边平底锅中，藏红花染金黄的米饭铺满虾贝鱿鱼，底部微焦的锅巴飘香。西班牙海鲜饭源于渔民的家常饭，如今成为国菜。 | food_032.jpg | 15×15 |
-| 34 | 第3章 | 土耳其烤肉 | 伊斯坦布尔街头旋转烤肉柱上，层层叠叠的羊肉在炭火前旋转焦香，削下薄片夹饼。旋转烤肉是土耳其最著名的街头美食，风靡全球。 | food_033.jpg | 15×15 |
-| 35 | 第3章 | 法国可颂面包 | 巴黎面包房中，可颂面皮经二十七次折叠黄油入层，烤至金黄酥脆，内里蜂窝绵软。可颂是法式烘焙的经典，层层酥皮是黄油与面粉的交响。 | food_034.jpg | 15×15 |
-| 36 | 第3章 | 越南河粉 | 越南河粉以牛骨熬汤数小时，米粉滑嫩，牛肉薄片在热汤中烫至粉嫩，配九层塔和青柠。河粉是越南的国民美食，法式殖民与本土风味的融合。 | food_035.jpg | 15×15 |
-| 37 | 第3章 | 希腊烤肉卷 | 希腊街头的皮塔饼裹入烤猪肉块，配番茄洋葱生菜和酸奶黄瓜酱，简单而满足。烤肉卷是希腊最普及的快餐，体现地中海饮食的质朴。 | food_036.jpg | 15×15 |
-| 38 | 第3章 | 巴西烤肉 | 巴西烤肉店中侍者持长铁签穿梭，签上烤至焦香的牛臀肉和牛肋排轮番送上餐桌。巴西烤肉源于南美高乔人的篝火烤肉，豪迈而原始。 | food_037.jpg | 20×20 |
-| 39 | 第3章 | 英国炸鱼薯条 | 英国街头炸鱼薯条店中，鳕鱼裹啤酒面糊炸至金黄酥脆，配粗薯条和醋，包在报纸里。炸鱼薯条是英国的国菜，工业革命时期工人的廉价美食。 | food_038.jpg | 20×20 |
-| 40 | 第3章 | 埃塞俄比亚英吉拉 | 埃塞俄比亚餐桌上铺着酸味海绵状的英吉拉饼，各色炖菜堆于其上，手撕饼蘸汁而食。英吉拉以苔麸粉发酵制成，是非洲之角的主食。 | food_039.jpg | 20×20 |
-| 41 | 第3章 | 俄罗斯罗宋汤 | 俄罗斯罗宋汤以甜菜根为底色呈深红，加入牛肉土豆卷心菜，酸奶油一勺浮于汤面。罗宋汤是东欧的灵魂汤品，温暖了漫长的寒冬。 | food_040.jpg | 20×20 |
-| 42 | 第3章 | 摩洛哥塔吉锅 | 摩洛哥塔吉锅锥形盖锁住蒸汽，羊肉与杏干杏仁慢炖，香料浓郁肉酥汁浓。塔吉锅是北非柏柏尔人的智慧，以最少的水烹出最浓的味。 | food_041.jpg | 20×20 |
-| 43 | 第3章 | 日本拉面 | 日本拉面店中，猪骨汤熬制十二小时呈乳白色，细面弹牙，叉烧溏心蛋海苔配齐。拉面是日本的国民美食，各地流派风味各异。 | food_042.jpg | 20×20 |
-| 44 | 第3章 | 阿根廷烤牛排 | 阿根廷牧场篝火旁，整块肋眼牛排架在铁栅上慢烤，只撒粗盐，炭火赋予烟熏风味。阿根廷烤肉是高乔人的传统，以最简单的方式致敬牛肉。 | food_043.jpg | 20×20 |
-| 52 | 第3章 | 日本茶道 | 京都茶室中，茶人着和服跪坐，以茶筅击拂抹茶至细沫，递茶碗于客前，客三转半饮。日本茶道追求和敬清寂，一碗茶中见天地。 | food_051.jpg | 20×20 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 26 | 第3章 | 法式鹅肝 | 法式鹅肝选用肥美鹅肝，以盐胡椒和白兰地腌制，低温慢煎至外焦内融，配无花果酱。鹅肝是法式高级料理的代表，口感如丝绒般细腻。 | French Foie Gras | French foie gras uses plump goose liver, marinated with salt, pepper, and brandy, slowly pan-seared at low temperature until caramelized outside and melting inside, served with fig jam. Foie gras is the representative of French haute cuisine, with a velvety delicate texture. | food_025.jpg | 15×15 |
+| 27 | 第3章 | 日本寿司 | 东京银座寿司店中，师傅手握醋饭覆以新鲜鱼生，金枪鱼大腹油脂丰腴，醋饭温热。江户前寿司追求食材极致，每一贯都是匠人心血。 | Japanese Sushi | In a Tokyo Ginza sushi shop, the chef hand-presses vinegared rice topped with fresh fish, bluefin tuna belly rich in fat, vinegared rice warm. Edo-style sushi pursues the ultimate in ingredients, each piece is the craftsman's dedication. | food_026.jpg | 15×15 |
+| 28 | 第3章 | 意大利手工面 | 意大利妈妈在厨房揉制新鲜面皮，面粉与鸡蛋揉成金黄面团，擀薄切条，配番茄肉酱。手工意面是意大利家庭的味道传承，每个地区形状各异。 | Italian Handmade Pasta | Italian mothers in the kitchen knead fresh pasta dough, flour and eggs mixed into golden dough, rolled thin and cut into strips, served with tomato meat sauce. Handmade pasta is the flavor heritage of Italian families, each region with different shapes. | food_027.jpg | 15×15 |
+| 29 | 第3章 | 印度咖喱 | 印度厨房中数十种香料在铁锅中翻炒出香，姜黄孜然芫荽小豆蔻磨成粉，炖煮羊肉。印度咖喱是香料的艺术，每个家庭都有独门配方。 | Indian Curry | In an Indian kitchen, dozens of spices are stir-fried in an iron pan until fragrant, turmeric, cumin, coriander, and cardamom ground into powder, stewing lamb. Indian curry is the art of spices, every family has its own secret recipe. | food_028.jpg | 15×15 |
+| 30 | 第3章 | 墨西哥塔可 | 墨西哥街头摊贩将玉米饼在铁板上烤热，填入慢炖猪肉配洋葱香菜和青柠汁。塔可是墨西哥的国民美食，玉米饼承载着玛雅文明的记忆。 | Mexican Tacos | Mexican street vendors heat corn tortillas on a griddle, filled with slow-cooked pork topped with onions, cilantro, and lime juice. Tacos are Mexico's national dish, corn tortillas carrying the memory of Mayan civilization. | food_029.jpg | 15×15 |
+| 31 | 第3章 | 泰国冬阴功汤 | 冬阴功汤以虾为主料，加入香茅南姜柠檬叶和辣椒，酸辣鲜香层次丰富。冬阴功是泰国菜的灵魂，酸辣的平衡体现了泰国饮食哲学。 | Thai Tom Yum Goong | Tom yum goong uses shrimp as the main ingredient, adding lemongrass, galangal, kaffir lime leaves, and chili, sour spicy fresh and fragrant with rich layers. Tom yum is the soul of Thai cuisine, the balance of sour and spicy reflecting Thai food philosophy. | food_030.jpg | 15×15 |
+| 32 | 第3章 | 韩国泡菜 | 韩国主妇在初冬制作越冬泡菜，大白菜抹上辣椒粉蒜泥鱼露，层层码入陶缸发酵。泡菜是韩国饮食的根基，一缸泡菜维系着家族的味道。 | Korean Kimchi | Korean housewives make winter kimchi in early winter, napa cabbage smeared with chili powder, garlic paste, and fish sauce, layered into earthen jars for fermentation. Kimchi is the foundation of Korean cuisine, a jar of kimchi maintaining the family's flavor. | food_031.jpg | 15×15 |
+| 33 | 第3章 | 西班牙海鲜饭 | 瓦伦西亚海边平底锅中，藏红花染金黄的米饭铺满虾贝鱿鱼，底部微焦的锅巴飘香。西班牙海鲜饭源于渔民的家常饭，如今成为国菜。 | Spanish Paella | In a Valencia seaside paella pan, saffron-dyed golden rice covered with shrimp, shellfish, and squid, the bottom slightly caramelized socarrat fragrant. Spanish paella originated from fishermen's home cooking, now becoming the national dish. | food_032.jpg | 15×15 |
+| 34 | 第3章 | 土耳其烤肉 | 伊斯坦布尔街头旋转烤肉柱上，层层叠叠的羊肉在炭火前旋转焦香，削下薄片夹饼。旋转烤肉是土耳其最著名的街头美食，风靡全球。 | Turkish Kebab | On Istanbul streets, layers of lamb on a rotating spit slowly char before the charcoal fire, thin slices shaved off and wrapped in flatbread. Rotisserie kebab is Turkey's most famous street food, popular worldwide. | food_033.jpg | 15×15 |
+| 35 | 第3章 | 法国可颂面包 | 巴黎面包房中，可颂面皮经二十七次折叠黄油入层，烤至金黄酥脆，内里蜂窝绵软。可颂是法式烘焙的经典，层层酥皮是黄油与面粉的交响。 | French Croissant | In a Paris bakery, croissant dough is folded twenty-seven times with butter layered in, baked until golden and crispy, inside honeycombed and soft. The croissant is a classic of French baking, layers of flaky pastry a symphony of butter and flour. | food_034.jpg | 15×15 |
+| 36 | 第3章 | 越南河粉 | 越南河粉以牛骨熬汤数小时，米粉滑嫩，牛肉薄片在热汤中烫至粉嫩，配九层塔和青柠。河粉是越南的国民美食，法式殖民与本土风味的融合。 | Vietnamese Pho | Vietnamese pho simmers beef bones for hours, rice noodles smooth and tender, thin beef slices blanched pink in the hot broth, served with Thai basil and lime. Pho is Vietnam's national dish, a fusion of French colonial and local flavors. | food_035.jpg | 15×15 |
+| 37 | 第3章 | 希腊烤肉卷 | 希腊街头的皮塔饼裹入烤猪肉块，配番茄洋葱生菜和酸奶黄瓜酱，简单而满足。烤肉卷是希腊最普及的快餐，体现地中海饮食的质朴。 | Greek Gyros | Greek street pita bread wrapped around roasted pork chunks, with tomatoes, onions, lettuce, and tzatziki sauce, simple yet satisfying. Gyros is Greece's most popular fast food, reflecting the simplicity of Mediterranean cuisine. | food_036.jpg | 15×15 |
+| 38 | 第3章 | 巴西烤肉 | 巴西烤肉店中侍者持长铁签穿梭，签上烤至焦香的牛臀肉和牛肋排轮番送上餐桌。巴西烤肉源于南美高乔人的篝火烤肉，豪迈而原始。 | Brazilian Churrasco | In a Brazilian churrascaria, servers carry long iron skewers, perfectly roasted beef rump and ribs delivered to tables in turn. Brazilian barbecue originated from South American gauchos' campfire roasting, bold and primal. | food_037.jpg | 20×20 |
+| 39 | 第3章 | 英国炸鱼薯条 | 英国街头炸鱼薯条店中，鳕鱼裹啤酒面糊炸至金黄酥脆，配粗薯条和醋，包在报纸里。炸鱼薯条是英国的国菜，工业革命时期工人的廉价美食。 | British Fish and Chips | In a British fish and chip shop, cod coated in beer batter fried golden and crispy, served with thick chips and vinegar, wrapped in newspaper. Fish and chips is Britain's national dish, a cheap meal for workers during the Industrial Revolution. | food_038.jpg | 20×20 |
+| 40 | 第3章 | 埃塞俄比亚英吉拉 | 埃塞俄比亚餐桌上铺着酸味海绵状的英吉拉饼，各色炖菜堆于其上，手撕饼蘸汁而食。英吉拉以苔麸粉发酵制成，是非洲之角的主食。 | Ethiopian Injera | On an Ethiopian table, sour spongy injera bread is spread out, various stews piled on top, torn by hand and dipped into the sauces. Injera is made from fermented teff flour, the staple food of the Horn of Africa. | food_039.jpg | 20×20 |
+| 41 | 第3章 | 俄罗斯罗宋汤 | 俄罗斯罗宋汤以甜菜根为底色呈深红，加入牛肉土豆卷心菜，酸奶油一勺浮于汤面。罗宋汤是东欧的灵魂汤品，温暖了漫长的寒冬。 | Russian Borscht | Russian borscht uses beetroot for its deep red color, adding beef, potatoes, and cabbage, a spoonful of sour cream floating on top. Borscht is the soul soup of Eastern Europe, warming the long cold winters. | food_040.jpg | 20×20 |
+| 42 | 第3章 | 摩洛哥塔吉锅 | 摩洛哥塔吉锅锥形盖锁住蒸汽，羊肉与杏干杏仁慢炖，香料浓郁肉酥汁浓。塔吉锅是北非柏柏尔人的智慧，以最少的水烹出最浓的味。 | Moroccan Tagine | Moroccan tagine's conical lid locks in steam, lamb slow-cooked with apricots and almonds, rich spices, tender meat with concentrated sauce. Tagine is the wisdom of North African Berbers, cooking the richest flavors with minimal water. | food_041.jpg | 20×20 |
+| 43 | 第3章 | 日本拉面 | 日本拉面店中，猪骨汤熬制十二小时呈乳白色，细面弹牙，叉烧溏心蛋海苔配齐。拉面是日本的国民美食，各地流派风味各异。 | Japanese Ramen | In a Japanese ramen shop, pork bone broth simmered for twelve hours until milky white, thin noodles chewy, chashu pork, soft-boiled egg, and nori all present. Ramen is Japan's national dish, with various regional styles and flavors. | food_042.jpg | 20×20 |
+| 44 | 第3章 | 阿根廷烤牛排 | 阿根廷牧场篝火旁，整块肋眼牛排架在铁栅上慢烤，只撒粗盐，炭火赋予烟熏风味。阿根廷烤肉是高乔人的传统，以最简单的方式致敬牛肉。 | Argentine Grilled Steak | By a campfire on an Argentine ranch, whole ribeye steaks grilled on an iron grate, seasoned only with coarse salt, charcoal imparting smoky flavor. Argentine asado is the gaucho tradition, paying tribute to beef in the simplest way. | food_043.jpg | 20×20 |
+| 52 | 第3章 | 日本茶道 | 京都茶室中，茶人着和服跪坐，以茶筅击拂抹茶至细沫，递茶碗于客前，客三转半饮。日本茶道追求和敬清寂，一碗茶中见天地。 | Japanese Tea Ceremony | In a Kyoto tea room, the tea master in kimono kneels, whisking matcha to fine foam with a chasen, offering the tea bowl to the guest, who turns it three and a half times before drinking. Japanese tea ceremony pursues harmony, respect, purity, and tranquility, seeing the universe in a bowl of tea. | food_051.jpg | 20×20 |
 
-### 第4章：饮食文化（18张）
+### 第4章：饮食文化 Food Culture（18张）
 
-| 序号 | 章节 | 标题 | 描述 | 文件名 | 难度 |
-| ---- | ---- | ---- | ---- | ------ | ---- |
-| 53 | 第4章 | 法国葡萄酒庄 | 波尔多酒庄地下酒窖中，橡木桶排列整齐，赤霞珠葡萄酿成的红酒在桶中陈化。法国葡萄酒讲究风土，每一瓶酒都是年份与土地的对话。 | food_052.jpg | 20×20 |
-| 54 | 第4章 | 印度香料市场 | 孟买香料市场中，数十种香料堆成小山，姜黄金黄、辣椒火红、小豆蔻翠绿，气味交织。印度是香料之国，香料贸易塑造了整个文明的历史。 | food_053.jpg | 20×20 |
-| 55 | 第4章 | 意大利咖啡文化 | 罗马街角咖啡馆中，意式浓缩咖啡从摩卡壶中涌出，浓烈醇厚，站在吧台一饮而尽。意大利咖啡文化深入骨髓，一杯espresso是生活的仪式。 | food_054.jpg | 20×20 |
-| 56 | 第4章 | 中国酒文化 | 白酒酿造车间中，高粱入窖发酵，蒸馏出清澈烈酒，陶坛封存于地下酒窖数年。中国白酒以酒曲为魂，蒸馏为骨，是千年酿造智慧的结晶。 | food_055.jpg | 20×20 |
-| 57 | 第4章 | 非洲咖啡产地 | 埃塞俄比亚高原上，咖啡农手工采摘红色浆果，日晒干燥后脱壳，这是咖啡的故乡。咖啡起源于埃塞俄比亚，如今是全球最重要的贸易商品之一。 | food_056.jpg | 25×25 |
-| 58 | 第4章 | 清真饮食文化 | 清真寺旁的清真餐厅中，羊肉按伊斯兰教规宰杀，配以孜然和胡椒，干净纯粹。清真饮食遵循古兰经戒律，是穆斯林信仰在日常中的体现。 | food_057.jpg | 25×25 |
-| 59 | 第4章 | 素食文化兴起 | 当代素食餐厅中，厨师以豆腐菌菇和时蔬烹制精致素食，摆盘如画营养均衡。素食文化从宗教修行走向健康环保，成为全球饮食新趋势。 | food_058.jpg | 25×25 |
-| 60 | 第4章 | 分子料理实验 | 分子料理厨房中，厨师用液氮急冻果汁成球，以海藻酸钠将汤汁制成胶囊，颠覆视觉。分子料理以科学手段解构重组食物，挑战味觉认知。 | food_059.jpg | 25×25 |
-| 61 | 第4章 | 食品3D打印 | 食品科技实验室中，3D食物打印机以巧克力为墨逐层堆叠，打印出精密的建筑模型。食品3D打印技术正在改变食物的形态，未来或可定制营养。 | food_060.jpg | 25×25 |
-| 62 | 第4章 | 米其林餐厅 | 巴黎米其林三星餐厅中，主厨将松露刨片覆于手工意面，金箔点缀，侍酒师推荐勃艮第白。米其林指南是美食界的圣经，三星是厨师的终极追求。 | food_061.jpg | 25×25 |
-| 63 | 第4章 | 街头小吃文化 | 台北夜市中蚵仔煎滋滋作响，臭豆腐炸得外酥内软，珍珠奶茶甜香四溢人手一杯。街头小吃是城市最真实的味道，烟火气中藏着人间百味。 | food_062.jpg | 25×25 |
-| 64 | 第4章 | 农场到餐桌 | 有机农场中，厨师亲手采摘当季蔬菜，两小时后这些蔬菜便出现在餐厅的盘子里。农场到餐桌运动缩短了食物里程，追求最新鲜的味觉体验。 | food_063.jpg | 25×25 |
-| 65 | 第4章 | 太空食品 | 国际空间站中，宇航员撕开脱水食品包装，注入热水，意大利面在微重力下飘浮而出。太空食品经过特殊处理，在极端环境中保障营养与口感。 | food_064.jpg | 25×25 |
-| 66 | 第4章 | 食物浪费与节约 | 全球每年约三分之一食物被浪费，超市丢弃卖相不佳的蔬果，餐厅剩菜堆积如山。减少食物浪费是可持续发展的紧迫课题，关乎地球未来。 | food_065.jpg | 25×25 |
-| 67 | 第4章 | 中华筷子文化 | 中国人使用筷子进餐，竹筷轻巧夹起滑嫩豆腐，不锈钢筷拨动细长面条，手法娴熟。筷子是中华饮食文化的标志，七寸六分寓意七情六欲。 | food_066.jpg | 25×25 |
-| 68 | 第4章 | 世界餐具巡礼 | 印度人以右手抓饭，感受食物的温度与质感，左手则视为不洁不可用。手抓饭是南亚次大陆最古老的进食方式，触觉也是味觉的一部分。 | food_067.jpg | 25×25 |
-| 69 | 第4章 | 发酵食品智慧 | 韩国泡菜缸、日本味噌桶、四川豆瓣酱坛，不同文明不约而同地利用微生物发酵保存食物。发酵是人类最早的食品加工技术，创造了无穷风味。 | food_068.jpg | 25×25 |
-| 70 | 第4章 | 未来食品实验室 | 未来食品实验室中，科学家从细胞培养出真肉组织，无需屠宰动物即可获得鲜嫩肉排。细胞培养肉是食品科技的前沿，有望解决肉类供应与动物福利的矛盾。 | food_069.jpg | 25×25 |
+| 序号 | 章节 | 标题 | 描述 | 英文标题 | 英文描述 | 文件名 | 难度 |
+| ---- | ---- | ---- | ---- | -------- | -------- | ------ | ---- |
+| 53 | 第4章 | 法国葡萄酒庄 | 波尔多酒庄地下酒窖中，橡木桶排列整齐，赤霞珠葡萄酿成的红酒在桶中陈化。法国葡萄酒讲究风土，每一瓶酒都是年份与土地的对话。 | French Wine Chateau | In a Bordeaux chateau's underground cellar, oak barrels lined up neatly, Cabernet Sauvignon wine aging in the barrels. French wine emphasizes terroir, each bottle a dialogue between vintage and land. | food_052.jpg | 20×20 |
+| 54 | 第4章 | 印度香料市场 | 孟买香料市场中，数十种香料堆成小山，姜黄金黄、辣椒火红、小豆蔻翠绿，气味交织。印度是香料之国，香料贸易塑造了整个文明的历史。 | Indian Spice Market | In a Mumbai spice market, dozens of spices piled into small hills, golden turmeric, fiery red chili, green cardamom, aromas intertwining. India is the land of spices, the spice trade shaped the history of an entire civilization. | food_053.jpg | 20×20 |
+| 55 | 第4章 | 意大利咖啡文化 | 罗马街角咖啡馆中，意式浓缩咖啡从摩卡壶中涌出，浓烈醇厚，站在吧台一饮而尽。意大利咖啡文化深入骨髓，一杯espresso是生活的仪式。 | Italian Coffee Culture | In a Rome corner café, espresso pours from a moka pot, intense and full-bodied, drunk standing at the bar in one gulp. Italian coffee culture runs deep, a single espresso is a ritual of life. | food_054.jpg | 20×20 |
+| 56 | 第4章 | 中国酒文化 | 白酒酿造车间中，高粱入窖发酵，蒸馏出清澈烈酒，陶坛封存于地下酒窖数年。中国白酒以酒曲为魂，蒸馏为骨，是千年酿造智慧的结晶。 | Chinese Liquor Culture | In a baijiu brewery, sorghum enters pits for fermentation, distilled into clear potent liquor, sealed in clay jars stored underground for years. Chinese baijiu uses koji as its soul, distillation as its bone, the crystallization of millennia of brewing wisdom. | food_055.jpg | 20×20 |
+| 57 | 第4章 | 非洲咖啡产地 | 埃塞俄比亚高原上，咖啡农手工采摘红色浆果，日晒干燥后脱壳，这是咖啡的故乡。咖啡起源于埃塞俄比亚，如今是全球最重要的贸易商品之一。 | African Coffee Origin | On the Ethiopian highlands, coffee farmers hand-pick red berries, sun-dried and hulled, this is the birthplace of coffee. Coffee originated in Ethiopia, now one of the world's most important trade commodities. | food_056.jpg | 25×25 |
+| 58 | 第4章 | 清真饮食文化 | 清真寺旁的清真餐厅中，羊肉按伊斯兰教规宰杀，配以孜然和胡椒，干净纯粹。清真饮食遵循古兰经戒律，是穆斯林信仰在日常中的体现。 | Halal Food Culture | In a halal restaurant beside a mosque, lamb slaughtered according to Islamic law, seasoned with cumin and pepper, clean and pure. Halal food follows Quranic dietary laws, an expression of Muslim faith in daily life. | food_057.jpg | 25×25 |
+| 59 | 第4章 | 素食文化兴起 | 当代素食餐厅中，厨师以豆腐菌菇和时蔬烹制精致素食，摆盘如画营养均衡。素食文化从宗教修行走向健康环保，成为全球饮食新趋势。 | Rise of Vegetarian Culture | In contemporary vegetarian restaurants, chefs cook exquisite vegetarian dishes with tofu, mushrooms, and seasonal vegetables, plated like art with balanced nutrition. Vegetarian culture has moved from religious practice to health and environmentalism, becoming a global dietary trend. | food_058.jpg | 25×25 |
+| 60 | 第4章 | 分子料理实验 | 分子料理厨房中，厨师用液氮急冻果汁成球，以海藻酸钠将汤汁制成胶囊，颠覆视觉。分子料理以科学手段解构重组食物，挑战味觉认知。 | Molecular Gastronomy Experiment | In a molecular gastronomy kitchen, chefs flash-freeze juice into spheres with liquid nitrogen, make soup capsules with sodium alginate,颠覆ing visual expectations. Molecular gastronomy deconstructs and reassembles food through scientific means, challenging taste perception. | food_059.jpg | 25×25 |
+| 61 | 第4章 | 食品3D打印 | 食品科技实验室中，3D食物打印机以巧克力为墨逐层堆叠，打印出精密的建筑模型。食品3D打印技术正在改变食物的形态，未来或可定制营养。 | 3D Food Printing | In a food tech lab, a 3D food printer uses chocolate as ink, layering to print precise architectural models. 3D food printing technology is changing the form of food, potentially enabling customized nutrition in the future. | food_060.jpg | 25×25 |
+| 62 | 第4章 | 米其林餐厅 | 巴黎米其林三星餐厅中，主厨将松露刨片覆于手工意面，金箔点缀，侍酒师推荐勃艮第白。米其林指南是美食界的圣经，三星是厨师的终极追求。 | Michelin Restaurant | In a Paris three-Michelin-star restaurant, the chef shaves truffles over handmade pasta, garnished with gold leaf, the sommelier recommends white Burgundy. The Michelin Guide is the bible of gastronomy, three stars the ultimate pursuit of chefs. | food_061.jpg | 25×25 |
+| 63 | 第4章 | 街头小吃文化 | 台北夜市中蚵仔煎滋滋作响，臭豆腐炸得外酥内软，珍珠奶茶甜香四溢人手一杯。街头小吃是城市最真实的味道，烟火气中藏着人间百味。 | Street Food Culture | In a Taipei night market, oyster omelets sizzle, stinky tofu fried crispy outside and soft inside, bubble tea sweet fragrance everywhere one cup per person. Street food is the city's most authentic taste, the aroma of cooking hiding a hundred flavors of life. | food_062.jpg | 25×25 |
+| 64 | 第4章 | 农场到餐桌 | 有机农场中，厨师亲手采摘当季蔬菜，两小时后这些蔬菜便出现在餐厅的盘子里。农场到餐桌运动缩短了食物里程，追求最新鲜的味觉体验。 | Farm to Table | At an organic farm, chefs personally pick seasonal vegetables, two hours later these vegetables appear on restaurant plates. The farm-to-table movement shortens food miles, pursuing the freshest taste experience. | food_063.jpg | 25×25 |
+| 65 | 第4章 | 太空食品 | 国际空间站中，宇航员撕开脱水食品包装，注入热水，意大利面在微重力下飘浮而出。太空食品经过特殊处理，在极端环境中保障营养与口感。 | Space Food | On the International Space Station, astronauts tear open dehydrated food packages, inject hot water, spaghetti floating out in microgravity. Space food is specially processed to ensure nutrition and taste in extreme environments. | food_064.jpg | 25×25 |
+| 66 | 第4章 | 食物浪费与节约 | 全球每年约三分之一食物被浪费，超市丢弃卖相不佳的蔬果，餐厅剩菜堆积如山。减少食物浪费是可持续发展的紧迫课题，关乎地球未来。 | Food Waste and Conservation | About one-third of food is wasted globally each year, supermarkets discarding imperfect produce, restaurant leftovers piling up. Reducing food waste is an urgent issue for sustainable development, concerning the future of the planet. | food_065.jpg | 25×25 |
+| 67 | 第4章 | 中华筷子文化 | 中国人使用筷子进餐，竹筷轻巧夹起滑嫩豆腐，不锈钢筷拨动细长面条，手法娴熟。筷子是中华饮食文化的标志，七寸六分寓意七情六欲。 | Chinese Chopstick Culture | Chinese people eat with chopsticks, bamboo chopsticks delicately picking up slippery tofu, stainless steel chopsticks maneuvering long noodles, with practiced skill. Chopsticks are a symbol of Chinese food culture, seven inches and six tenths representing the seven emotions and six desires. | food_066.jpg | 25×25 |
+| 68 | 第4章 | 世界餐具巡礼 | 印度人以右手抓饭，感受食物的温度与质感，左手则视为不洁不可用。手抓饭是南亚次大陆最古老的进食方式，触觉也是味觉的一部分。 | World Tableware Tour | Indians eat with their right hand, feeling the temperature and texture of food, the left hand considered unclean and not to be used. Eating by hand is the oldest dining method on the Indian subcontinent, touch being part of taste. | food_067.jpg | 25×25 |
+| 69 | 第4章 | 发酵食品智慧 | 韩国泡菜缸、日本味噌桶、四川豆瓣酱坛，不同文明不约而同地利用微生物发酵保存食物。发酵是人类最早的食品加工技术，创造了无穷风味。 | Wisdom of Fermented Foods | Korean kimchi jars, Japanese miso barrels, Sichuan doubanjiang crocks, different civilizations independently using microbial fermentation to preserve food. Fermentation is humanity's earliest food processing technology, creating infinite flavors. | food_068.jpg | 25×25 |
+| 70 | 第4章 | 未来食品实验室 | 未来食品实验室中，科学家从细胞培养出真肉组织，无需屠宰动物即可获得鲜嫩肉排。细胞培养肉是食品科技的前沿，有望解决肉类供应与动物福利的矛盾。 | Future Food Laboratory | In a future food lab, scientists cultivate real meat tissue from cells, obtaining tender steaks without slaughtering animals. Cultured meat is at the frontier of food technology, potentially resolving the conflict between meat supply and animal welfare. | food_069.jpg | 25×25 |
 
 **图片规格：**
 - 分辨率：2496×1664（3:2宽高比）

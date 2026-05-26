@@ -21,7 +21,10 @@
       ],
       "order": 0,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_000_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "european_civilization_001",
@@ -43,7 +46,10 @@
       ],
       "order": 1,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_001_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Cro-Magnon Art",
+      "summary_en": "",
+      "full_text_en": "During the Ice Age on the European continent, Cro-Magnon people painted galloping horses and bison deep within caves using ochre and charcoal. The Lascaux cave paintings feature bold lines, while the lions in the Chauvet cave art are vividly lifelike. These works are humanity's earliest artistic creations, recording prehistoric hunters' profound observations of nature."
     },
     {
       "id": "european_civilization_002",
@@ -65,7 +71,10 @@
       ],
       "order": 2,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_002_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "The World of Neanderthals",
+      "summary_en": "",
+      "full_text_en": "Neanderthals hunted mammoths with stone spears on the icy plains of Ice Age Europe and lit campfires in caves for warmth. They cared for injured companions, held funerals for the dead, and carved marks on bear bones. These behaviors suggest Neanderthals possessed a richer spiritual world than previously imagined."
     },
     {
       "id": "european_civilization_003",
@@ -87,7 +96,10 @@
       ],
       "order": 3,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_003_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Astronomical Observations at Stonehenge",
+      "summary_en": "",
+      "full_text_en": "On the Salisbury Plain of Britain, Neolithic people transported massive stones weighing tens of tons from Wales, precisely arranging them in a circular array aligned with the summer solstice sunrise. This magnificent astronomical and ceremonial structure testifies to prehistoric humans' profound understanding of astronomy and remarkable engineering capabilities."
     },
     {
       "id": "european_civilization_004",
@@ -109,7 +121,10 @@
       ],
       "order": 4,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_004_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Villages of the Linear Pottery Culture",
+      "summary_en": "",
+      "full_text_en": "The Linear Pottery Culture people along the Danube built longhouses on loess soil, plowed fields and planted wheat. Potters incised elegant curvilinear designs on vessel surfaces, and villages were surrounded by defensive ditches. Agricultural life spread along rivers into the European interior, and the Neolithic Revolution transformed the continent."
     },
     {
       "id": "european_civilization_005",
@@ -131,7 +146,10 @@
       ],
       "order": 5,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_005_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Nordic Ship Burial Culture",
+      "summary_en": "",
+      "full_text_en": "In Nordic ship burials, chieftains were laid to rest in oak ships, accompanied by bronze swords and golden torcs. The prow pointed toward the sea, symbolizing the soul's voyage to the afterlife. The tradition of shipbuilding and seafaring persisted from the Neolithic to the Viking Age, shaping the maritime heritage of Nordic civilization."
     },
     {
       "id": "european_civilization_006",
@@ -153,7 +171,10 @@
       ],
       "order": 6,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_006_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "The Celtic Iron Age",
+      "summary_en": "",
+      "full_text_en": "Celtic smiths crafted exquisite bronze and iron ornaments beside their forges, with spiral and animal motifs adorning weapons and vessels. Druid priests conducted rituals in oak groves, bards sang epic tales of heroes, and Celtic culture spread across Western Europe during the Iron Age."
     },
     {
       "id": "european_civilization_007",
@@ -175,7 +196,10 @@
       ],
       "order": 7,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_007_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "The Hallstatt Salt Mines",
+      "summary_en": "",
+      "full_text_en": "The inhabitants of Hallstatt in the Alps mined precious rock salt from salt mines and used it to preserve meat. Salt blocks became hard currency in trade, exchanged for amber and bronze from distant lands. The wealth of the salt mines gave rise to Europe's earliest Iron Age culture."
     },
     {
       "id": "european_civilization_008",
@@ -197,7 +221,10 @@
       ],
       "order": 8,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_008_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "The Maritime Palace of Minoans",
+      "summary_en": "",
+      "full_text_en": "The Palace of Knossos on Crete cascades in labyrinthine layers, with vibrant frescoes depicting leaping bulls and playful dolphins. The Minoans dominated the Aegean Sea with their ships, establishing maritime trade networks. Their elegant artistic style and advanced drainage systems are regarded as Europe's earliest high civilization."
     },
     {
       "id": "european_civilization_009",
@@ -219,7 +246,10 @@
       ],
       "order": 9,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_009_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "The Lion Gate of Mycenae",
+      "summary_en": "",
+      "full_text_en": "The Mycenaeans on the Greek mainland built massive stone walls, with two stone lions on the Lion Gate guarding the palace entrance. Warriors wore bronze armor and used Linear B script to record inventories and tributes. Mycenaean civilization is the historical backdrop for the Trojan War in Homer's epics and the final glory of the Greek Bronze Age."
     },
     {
       "id": "european_civilization_010",
@@ -241,7 +271,10 @@
       ],
       "order": 10,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_010_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Remains of the Trojan War",
+      "summary_en": "",
+      "full_text_en": "The city of Troy in northwestern Asia Minor was reduced to ruins by war. Schliemann, guided by Homer's epics, excavated Priam's treasure here. The historicity of the Trojan War was finally confirmed by archaeology. Myth and history converge here, illuminating the Bronze Age of the Aegean."
     },
     {
       "id": "european_civilization_011",
@@ -263,7 +296,10 @@
       ],
       "order": 11,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_011_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Etruscan Tombs",
+      "summary_en": "",
+      "full_text_en": "The Etruscans carved exquisite tomb chambers underground at Tarquinia, with frescoes depicting banquets, dancing, and hunting scenes. Nobles wore purple robes, musicians played double flutes. The Etruscans' love of life has been preserved through funerary art, profoundly influencing Roman civilization."
     },
     {
       "id": "european_civilization_012",
@@ -285,7 +321,10 @@
       ],
       "order": 12,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_012_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Greek Colonization",
+      "summary_en": "",
+      "full_text_en": "From the 8th century BC, Greeks sailed forth to establish hundreds of colonial city-states from the Black Sea to Sicily. Each colony replicated the institutions and temples of its mother city. Olive oil and wine were transported in amphorae across the Mediterranean, and Greek civilization expanded from the Aegean to the entire Mediterranean."
     },
     {
       "id": "european_civilization_013",
@@ -307,7 +346,10 @@
       ],
       "order": 13,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_013_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Birth of the Venus Figurine",
+      "summary_en": "",
+      "full_text_en": "Paleolithic artisans carved the Venus of Willendorf from limestone, with exaggerated breasts and hips symbolizing fertility and abundance. This small figurine, only eleven centimeters tall, carries ancient humanity's reverence for female reproductive power and is one of Europe's oldest artistic masterpieces."
     },
     {
       "id": "european_civilization_014",
@@ -329,7 +371,10 @@
       ],
       "order": 14,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_014_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Scandinavian Rock Art",
+      "summary_en": "",
+      "full_text_en": "Nordic rock carvings depict scenes of whaling and rowing, with red ochre pigments portraying hunters chasing reindeer. These rock art records reflect the survival wisdom of polar peoples in harsh natural environments. Ship and fishing motifs reveal the ancient origins of Nordic maritime culture."
     },
     {
       "id": "european_civilization_015",
@@ -351,7 +396,10 @@
       ],
       "order": 15,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_015_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "European Megalithic Culture",
+      "summary_en": "",
+      "full_text_en": "From the temples of Malta to the stone alignments of Carnac in France, megalithic structures dot the Western European coastline. Neolithic people used rollers and ropes to transport hundred-ton stones, arranging them in rows or circles. Megalithic culture is Europe's most spectacular prehistoric architectural heritage, and its purpose remains an unsolved mystery."
     },
     {
       "id": "european_civilization_016",
@@ -373,7 +421,10 @@
       ],
       "order": 16,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_016_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Neolithic Trade Networks",
+      "summary_en": "",
+      "full_text_en": "Flint was transported from Denmark to the Rhine basin, amber circulated from the Baltic to the Mediterranean, and greenstone axes were traded from the Alps to Britain. Neolithic trade networks spanned thousands of miles, and the circulation of rare materials gave rise to the earliest professional merchants and transport routes."
     },
     {
       "id": "european_civilization_017",
@@ -395,7 +446,10 @@
       ],
       "order": 17,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_017_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Early Metallurgy in Europe",
+      "summary_en": "",
+      "full_text_en": "The people of the Balkans were the first to master copper smelting technology, heating copper ore in ceramic vessels. Copper tools and ornaments were sharper and more beautiful than stone ones. The invention of metallurgy ushered in the Metal Age, accelerating technological progress and transforming European society."
     },
     {
       "id": "european_civilization_018",
@@ -417,7 +471,10 @@
       ],
       "order": 18,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_018_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Expansion of the Bell Beaker Culture",
+      "summary_en": "",
+      "full_text_en": "The Bell Beaker Culture expanded eastward from the Iberian Peninsula, with groups carrying copper daggers and bell-shaped pottery crossing the European continent. They were early metalworkers and merchants, spreading metallurgical technology and new burial customs. The Bell Beaker Culture was the prelude to the European Bronze Age."
     },
     {
       "id": "european_civilization_019",
@@ -439,7 +496,10 @@
       ],
       "order": 19,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_019_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Kurgan Burials in Ukraine",
+      "summary_en": "",
+      "full_text_en": "On the steppes north of the Black Sea, Proto-Indo-Europeans raised tall kurgan burial mounds, interring chariots and horse gear with the dead. Nomadic horsemen migrated east and west from here, spreading the Indo-European language family across a vast territory from India to Ireland, reshaping the linguistic map of Eurasia."
     },
     {
       "id": "european_civilization_020",
@@ -461,7 +521,10 @@
       ],
       "order": 20,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_020_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Spread of Agriculture in Europe",
+      "summary_en": "",
+      "full_text_en": "Farmers from Anatolia advanced into the European interior along the Mediterranean coast and the Danube valley, bringing wheat seeds and domesticated cattle and sheep. Hunter-gatherers gradually adopted agricultural life, forests were cleared for farmland, and settled villages replaced nomadic camps. Europe entered the Neolithic Age."
     },
     {
       "id": "european_civilization_021",
@@ -483,7 +546,10 @@
       ],
       "order": 21,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_021_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "european_civilization_022",
@@ -505,7 +571,10 @@
       ],
       "order": 22,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_022_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Birth of Athenian Democracy",
+      "summary_en": "",
+      "full_text_en": "Cleisthenes implemented reforms in Athens, replacing kinship clans with territorial tribes, and the Assembly became the supreme authority. Six thousand citizens voted on city-state affairs on the Pnyx hill, and ostracism prevented the rise of tyrants. Athens pioneered the most thorough direct democracy in human history."
     },
     {
       "id": "european_civilization_023",
@@ -527,7 +596,10 @@
       ],
       "order": 23,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_023_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Spartan Military Training",
+      "summary_en": "",
+      "full_text_en": "Spartan boys were enrolled in companies at age seven, running barefoot, enduring hunger and cold, and tempering their will through flogging. Full citizenship was granted at thirty, and soldiers lived in barracks for life. Spartan warriors were invincible in phalanx charges, and the heroic stand of the Three Hundred at Thermopylae became an eternal legend in military history."
     },
     {
       "id": "european_civilization_024",
@@ -549,7 +621,10 @@
       ],
       "order": 24,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_024_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Greek City-State System",
+      "summary_en": "",
+      "full_text_en": "Greek city-states along the Aegean were independent yet shared a cultural identity, with Athenian democracy and Spartan militarism forming two poles. Citizens debated state affairs in the agora, and city-states observed truces during the Olympic Games. The Greek polis system nurtured the origins of Western political thought, and great wisdom emerged from small states."
     },
     {
       "id": "european_civilization_025",
@@ -571,7 +646,10 @@
       ],
       "order": 25,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_025_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "The Athenian Assembly",
+      "summary_en": "",
+      "full_text_en": "In the 5th century BC, Athenian citizens voted on state affairs on the Pnyx hill. The Council of Five Hundred was selected by lot, and juries were composed of citizens. Periclean democracy enabled every citizen to participate in politics. Though it excluded women and slaves, it was a great beginning of democratic practice in human history."
     },
     {
       "id": "european_civilization_026",
@@ -593,7 +671,10 @@
       ],
       "order": 26,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_026_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "The Aristotelian System",
+      "summary_en": "",
+      "full_text_en": "Aristotle constructed the framework of Western knowledge, from physics to ethics, from logic to politics, classifying nearly all human knowledge of his time. Syllogistic logic became a tool of thought for two millennia, and teleological explanations dominated medieval science. He was the encyclopedic founder of Western scholarship."
     },
     {
       "id": "european_civilization_027",
@@ -615,7 +696,10 @@
       ],
       "order": 27,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_027_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "The Library of Alexandria",
+      "summary_en": "",
+      "full_text_en": "The Ptolemaic dynasty built the ancient world's largest library in Alexandria, housing 700,000 scrolls. Scholars here measured the Earth's circumference, compiled critical editions of Homer, and translated the Hebrew Bible. The Library of Alexandria was the knowledge center of the ancient world, where the wisdom of Mediterranean civilizations converged and burned bright."
     },
     {
       "id": "european_civilization_028",
@@ -637,7 +721,10 @@
       ],
       "order": 28,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_028_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Alexander's Eastern Campaign",
+      "summary_en": "",
+      "full_text_en": "Alexander the Great led the Macedonian-Greek forces from Greece, successively defeating the Persian army, conquering Egypt, and advancing into India. He founded Greek-style cities wherever he went, spreading Greek culture to the East. The Hellenistic Age thus began, and Eastern and Western civilizations collided and merged on the ruins of empires."
     },
     {
       "id": "european_civilization_029",
@@ -659,7 +746,10 @@
       ],
       "order": 29,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_029_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Expansion of the Roman Republic",
+      "summary_en": "",
+      "full_text_en": "Roman legions set out from the Italian peninsula, destroying Carthage through three Punic Wars and conquering Macedonia and the Seleucid Empire. Roman roads extended to the provinces, governors and tax collectors governed vast territories, and the Republic's borders stretched from Spain to Asia Minor. The Mediterranean became Rome's inland sea."
     },
     {
       "id": "european_civilization_030",
@@ -681,7 +771,10 @@
       ],
       "order": 30,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_030_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Expansion of the Roman Republic",
+      "summary_en": "",
+      "full_text_en": "From a city-state on the Tiber to master of the Mediterranean, the Roman Republic defeated Carthage through three Punic Wars and conquered Macedonia and the Seleucid Empire. The Senate directed wars and allocated provinces, Roman legions were invincible, and the Republic's expansion transformed the Mediterranean world while laying the groundwork for empire."
     },
     {
       "id": "european_civilization_031",
@@ -703,7 +796,10 @@
       ],
       "order": 31,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_031_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "The Golden Age of the Roman Empire",
+      "summary_en": "",
+      "full_text_en": "The Pax Romana inaugurated by Augustus lasted two centuries. Light through the Pantheon's dome illuminated marble statues. Roman roads connected provinces from Britain to Syria, aqueducts brought fresh water to urban baths, and Latin and Roman law became the foundations of Western civilization. Imperial prosperity reached its zenith."
     },
     {
       "id": "european_civilization_032",
@@ -725,7 +821,10 @@
       ],
       "order": 32,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_032_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Birth of Greek Theater",
+      "summary_en": "",
+      "full_text_en": "In the open-air theater of the Athenian Dionysia, actors performed wearing exaggerated masks. Aeschylus's \"The Persians\" recreated the Battle of Salamis, Sophocles's \"Oedipus Rex\" explored fate and free will. Greek tragedy is the origin of the Western literary and theatrical tradition."
     },
     {
       "id": "european_civilization_033",
@@ -747,7 +846,10 @@
       ],
       "order": 33,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_033_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "The Olympic Games",
+      "summary_en": "",
+      "full_text_en": "In 776 BC, the first Olympic Games were held at Olympia in the Peloponnese. Naked athletes competed in running and wrestling for glory, victors were crowned with wild olive wreaths, and city-states observed truces during the Games. Athletic competition became a symbol of peace and excellence for the Greeks."
     },
     {
       "id": "european_civilization_034",
@@ -769,7 +871,10 @@
       ],
       "order": 34,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_034_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Construction of the Parthenon",
+      "summary_en": "",
+      "full_text_en": "Pericles oversaw the construction of the Parthenon on the Athenian Acropolis, with Doric colonnades surrounding the chryselephantine statue of Athena. Architects used optical corrections to make slight curves appear straight, and friezes depicted the grand procession of the Panathenaic Festival. The Parthenon is the supreme achievement of ancient Greek architecture."
     },
     {
       "id": "european_civilization_035",
@@ -791,7 +896,10 @@
       ],
       "order": 35,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_035_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "The Roman Colosseum",
+      "summary_en": "",
+      "full_text_en": "The Flavian Amphitheatre could seat 50,000 spectators. Gladiators fought to the death on the sand, and wild beasts were raised by elevators from underground passages. Seating was arranged by social rank, and the emperor's thumbs-down decided the fate of the defeated. The Colosseum was a spectacular symbol of Roman imperial power and entertainment culture."
     },
     {
       "id": "european_civilization_036",
@@ -813,7 +921,10 @@
       ],
       "order": 36,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_036_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Development of Roman Law",
+      "summary_en": "",
+      "full_text_en": "From the Twelve Tables to the Justinian Code, Roman law underwent a long evolution from customary to written law. Jurists distinguished between public and private law, established principles of ownership and contract. Roman law became the source of the civil law system and continues to influence legal systems worldwide."
     },
     {
       "id": "european_civilization_037",
@@ -835,7 +946,10 @@
       ],
       "order": 37,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_037_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "The Golden Age of Greek Philosophy",
+      "summary_en": "",
+      "full_text_en": "From Thales inquiring into the nature of all things to Aristotle establishing the system of logic, Greek philosophers freely debated in Athens' agora and academies. Plato's Theory of Forms and Aristotle's substance theory laid the basic framework of Western philosophy. The spirit of reason became Greek civilization's most precious legacy."
     },
     {
       "id": "european_civilization_038",
@@ -857,7 +971,10 @@
       ],
       "order": 38,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_038_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Roman Road Engineering",
+      "summary_en": "",
+      "full_text_en": "Roman engineers laid 80,000 kilometers of paved roads across the empire, with roads running straight through mountains and marshes. Milestones were placed every Roman mile, and way stations provided fresh horses and lodging. \"All roads lead to Rome\" was not merely a proverb but the material foundation of imperial governance and commercial circulation."
     },
     {
       "id": "european_civilization_039",
@@ -879,7 +996,10 @@
       ],
       "order": 39,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_039_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Hellenistic Science",
+      "summary_en": "",
+      "full_text_en": "Scholars in Alexandria measured the Earth's circumference, and Archimedes discovered the principle of buoyancy in his bath. Euclid wrote \"The Elements,\" and Hero invented a steam toy. Hellenistic scientific research reached the highest level of the ancient world, sowing the seeds for the modern scientific revolution."
     },
     {
       "id": "european_civilization_040",
@@ -901,7 +1021,10 @@
       ],
       "order": 40,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_040_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Roman Aqueduct Engineering",
+      "summary_en": "",
+      "full_text_en": "Roman engineers built multi-tiered arched aqueducts across valleys, channeling mountain springs from dozens of kilometers away into cities. The aqueducts delivered a million cubic meters of fresh water daily, supplying baths, fountains, and public latrines. The scale and precision of the water supply system remained unsurpassed for a thousand years."
     },
     {
       "id": "european_civilization_041",
@@ -923,7 +1046,10 @@
       ],
       "order": 41,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_041_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Fall of the Western Roman Empire",
+      "summary_en": "",
+      "full_text_en": "In 476 AD, the Germanic mercenary leader Odoacer deposed the last Roman emperor, and the Western Roman Empire officially fell. Barbarians established kingdoms on the empire's ruins, classical civilization suffered a severe blow, and Europe entered the Middle Ages. Yet Roman law, language, and the Christian faith endured amid the ruins."
     },
     {
       "id": "european_civilization_042",
@@ -945,7 +1071,10 @@
       ],
       "order": 42,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_042_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "european_civilization_043",
@@ -967,7 +1096,10 @@
       ],
       "order": 43,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_043_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "The Carolingian Renaissance",
+      "summary_en": "",
+      "full_text_en": "Charlemagne established palace schools at Aachen and invited the scholar Alcuin to lead educational reform. Monks copied classical texts, preserving the Latin literary heritage. Carolingian minuscule improved writing efficiency, and palaces and monasteries became centers of cultural revival, lighting the lamp of knowledge transmission through the Dark Ages."
     },
     {
       "id": "european_civilization_044",
@@ -989,7 +1121,10 @@
       ],
       "order": 44,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_044_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Viking Voyages",
+      "summary_en": "",
+      "full_text_en": "Viking longships set out from Scandinavian fjords. Raiders penetrated deep into Europe along rivers, while colonists reached Iceland and Greenland. Leif Erikson landed in Newfoundland, reaching America five centuries before Columbus. The Vikings were the most accomplished seafarers and most feared warriors of the Middle Ages."
     },
     {
       "id": "european_civilization_045",
@@ -1011,7 +1146,10 @@
       ],
       "order": 45,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_045_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "The Norman Conquest of England",
+      "summary_en": "",
+      "full_text_en": "In 1066, Duke William of Normandy defeated King Harold of England at the Battle of Hastings, an arrow piercing Harold's eye. William was crowned King of England, French became the court language, and the feudal system was introduced to Britain. The Norman Conquest fundamentally changed the course of English history."
     },
     {
       "id": "european_civilization_046",
@@ -1033,7 +1171,10 @@
       ],
       "order": 46,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_046_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Medieval Chivalry",
+      "summary_en": "",
+      "full_text_en": "Medieval European knights were both armed nobles and devout Christians, loyal to their lords, protecting the weak and defending the faith. Dubbing ceremonies were solemn and sacred, lances clashed with sparks at tournaments, and tales of King Arthur and the Knights of the Round Table endure in chivalric literature. Chivalry shaped Europe's concept of honor."
     },
     {
       "id": "european_civilization_047",
@@ -1055,7 +1196,10 @@
       ],
       "order": 47,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_047_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "The Black Death Sweeps Europe",
+      "summary_en": "",
+      "full_text_en": "In 1347, the Black Death arrived in Sicily from Genoese merchant ships, claiming one-third of Europe's population within three years. Villages became ghost towns, farmland lay abandoned, and labor shortages forced lords to improve serfs' conditions. The Black Death catalyzed social change amid devastation, and the medieval order began to crumble."
     },
     {
       "id": "european_civilization_048",
@@ -1077,7 +1221,10 @@
       ],
       "order": 48,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_048_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Gothic Cathedrals",
+      "summary_en": "",
+      "full_text_en": "The flying buttresses of Notre-Dame de Paris support soaring pointed vaults, and stained glass windows transform sunlight into a kaleidoscope of colors. Stonemasons and glaziers spent decades building these structures reaching toward heaven. Gothic cathedrals are the supreme crystallization of medieval faith and engineering."
     },
     {
       "id": "european_civilization_049",
@@ -1099,7 +1246,10 @@
       ],
       "order": 49,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_049_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "The Holy Roman Empire",
+      "summary_en": "",
+      "full_text_en": "Otto I was crowned emperor in Rome, establishing the Holy Roman Empire. Emperors and popes struggled incessantly over the right to appoint bishops, and princes pursued their own interests in the Imperial Diet. The empire was neither holy, nor Roman, nor united, yet it remained an important pillar of the medieval European political order."
     },
     {
       "id": "european_civilization_050",
@@ -1121,7 +1271,10 @@
       ],
       "order": 50,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_050_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Medieval Knighthood",
+      "summary_en": "",
+      "full_text_en": "Young nobles progressed from page to squire and were knighted in a dubbing ceremony. Knights swore oaths to serve their lords, protect the weak, and defend the faith. At tournaments, knights charged in heraldic armor. The knightly institution was the core of medieval European military and moral codes."
     },
     {
       "id": "european_civilization_051",
@@ -1143,7 +1296,10 @@
       ],
       "order": 51,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_051_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Rise of Medieval Universities",
+      "summary_en": "",
+      "full_text_en": "Student guilds at the University of Bologna hired professors to teach Roman law, while scholastic philosophers at the University of Paris debated faith and reason. Universities granted degrees and established curricula, and academic freedom and autonomy were protected by popes and emperors. Medieval universities are the origins of the modern higher education system."
     },
     {
       "id": "european_civilization_052",
@@ -1165,7 +1321,10 @@
       ],
       "order": 52,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_052_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "The Hundred Years' War",
+      "summary_en": "",
+      "full_text_en": "In 1337, England and France went to war over the succession, with hostilities continuing intermittently for 116 years. English longbowmen shattered French knights at Agincourt, and Joan of Arc lifted the siege of Orléans before being burned at the stake. The Hundred Years' War fostered national consciousness in both countries and marked the end of the medieval feudal military system."
     },
     {
       "id": "european_civilization_053",
@@ -1187,7 +1346,10 @@
       ],
       "order": 53,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_053_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Feudal Manor Economy",
+      "summary_en": "",
+      "full_text_en": "The lord's manor was the basic economic unit of medieval Europe. Serfs worked on the lord's demesne and cultivated their own plots for subsistence. Mills and ovens were monopolized by the lord, and serfs paid fees to use them. The manor was self-sufficient, and the feudal economy gradually gave way to money rents after the Black Death."
     },
     {
       "id": "european_civilization_054",
@@ -1209,7 +1371,10 @@
       ],
       "order": 54,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_054_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "The Monastic Scriptorium",
+      "summary_en": "",
+      "full_text_en": "Benedictine monks in monastery scriptoria bent over classical manuscripts, writing Latin on parchment with quill pens. Illuminated letters were decorated with gold leaf and mineral pigments. Each codex was a work of art. Monasteries were havens of knowledge during the Dark Ages, and classical civilization was preserved through the monks' pens."
     },
     {
       "id": "european_civilization_055",
@@ -1231,7 +1396,10 @@
       ],
       "order": 55,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_055_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Trade of the Hanseatic League",
+      "summary_en": "",
+      "full_text_en": "Merchants from Lübeck and Hamburg formed the Hanseatic League, controlling Baltic trade from London to Novgorod. League convoys escorted merchant ships, league trading posts dotted Northern European ports, and salt herring and amber were major commodities. The Hanseatic League was the most powerful commercial alliance of medieval Europe."
     },
     {
       "id": "european_civilization_056",
@@ -1253,7 +1421,10 @@
       ],
       "order": 56,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_056_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "The Spanish Reconquista",
+      "summary_en": "",
+      "full_text_en": "Christian kingdoms pushed south from the Pyrenees, gradually reconquering territory held by the Moors. In 1492 Granada fell, the last sultan surrendered the city keys, and the 700-year Reconquista was complete. A unified Spain soon funded Columbus's westward voyage, and the Age of Exploration began."
     },
     {
       "id": "european_civilization_057",
@@ -1275,7 +1446,10 @@
       ],
       "order": 57,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_057_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Medieval Pilgrimage Routes",
+      "summary_en": "",
+      "full_text_en": "Believers walked from across Europe to Santiago de Compostela to venerate the relics of the Apostle James. Hostels and churches lined the pilgrimage route, and pilgrims wore shell emblems as they traveled in groups. This ancient thousand-year road was medieval Europe's most important journey of faith and cultural corridor."
     },
     {
       "id": "european_civilization_058",
@@ -1297,7 +1471,10 @@
       ],
       "order": 58,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_058_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Mongol Invasion of Europe",
+      "summary_en": "",
+      "full_text_en": "In 1241, Mongol cavalry crushed the Polish and Teutonic Knight coalition at the Battle of Legnica, and Subutai's iron horsemen reached the gates of Vienna. News of Ögedei Khan's death prompted the Mongol army to withdraw eastward, and Europe narrowly escaped. But the Mongol threat gave the West a profound awareness of Eastern power."
     },
     {
       "id": "european_civilization_059",
@@ -1319,7 +1496,10 @@
       ],
       "order": 59,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_059_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Medieval City Autonomy",
+      "summary_en": "",
+      "full_text_en": "Merchants and artisans purchased city charters from lords with money, gaining autonomous rights. City hall clock towers rose above market squares, guild masters set product quality standards, and city courts judged independently. Urban autonomy broke the feudal hierarchy, and the burgher class rose to prominence."
     },
     {
       "id": "european_civilization_060",
@@ -1341,7 +1521,10 @@
       ],
       "order": 60,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_060_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "The Glory of the Byzantine Empire",
+      "summary_en": "",
+      "full_text_en": "Emperor Justinian built the Hagia Sophia in Constantinople, its dome 32 meters in diameter seeming to float in the air. The empire preserved the Greco-Roman cultural heritage, Orthodox ceremonies were conducted in gilded churches, and Byzantium was the most civilized state of medieval Europe."
     },
     {
       "id": "european_civilization_061",
@@ -1363,7 +1546,10 @@
       ],
       "order": 61,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_061_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "The Medieval Agricultural Revolution",
+      "summary_en": "",
+      "full_text_en": "The heavy plow reached Northern Europe, turning the dense clay soils, and the three-field rotation system greatly improved land utilization. Improved horse collars allowed horses to replace oxen for plowing, and water and wind mills ground grain. Increased agricultural yields supported a doubling of population, laying the economic foundation of medieval Europe."
     },
     {
       "id": "european_civilization_062",
@@ -1385,7 +1571,10 @@
       ],
       "order": 62,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_062_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "The Heroic Deeds of Joan of Arc",
+      "summary_en": "",
+      "full_text_en": "The seventeen-year-old peasant girl Joan claimed to hear the voices of saints, led the army to lift the siege of Orléans, and turned the tide of the Hundred Years' War. She escorted Charles VII to his coronation at Reims, but was captured by the Burgundians and handed over to the English. Burned at the stake for heresy at Rouen, Joan became France's eternal national symbol."
     },
     {
       "id": "european_civilization_063",
@@ -1407,7 +1596,10 @@
       ],
       "order": 63,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_063_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "european_civilization_064",
@@ -1429,7 +1621,10 @@
       ],
       "order": 64,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_064_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Dawn of the Renaissance",
+      "summary_en": "",
+      "full_text_en": "The Medici family of Florence patronized artists and scholars, and Brunelleschi built the dome cathedral. Leonardo sketched flying machines in his notebooks, and Michelangelo painted the Creation on the Sistine ceiling. The Renaissance ignited the light of humanism from Italy."
     },
     {
       "id": "european_civilization_065",
@@ -1451,7 +1646,10 @@
       ],
       "order": 65,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_065_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "The Storm of the Reformation",
+      "summary_en": "",
+      "full_text_en": "In 1517, Martin Luther nailed his Ninety-Five Theses to the door of the Wittenberg church, protesting the sale of indulgences. The printing press rapidly spread his ideas, Protestant factions split from Catholicism, religious wars swept Europe, the unity of faith was shattered forever, and the awakening of individual conscience was irreversible."
     },
     {
       "id": "european_civilization_066",
@@ -1473,7 +1671,10 @@
       ],
       "order": 66,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_066_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Dawn of the Age of Exploration",
+      "summary_en": "",
+      "full_text_en": "In 1492, Columbus sailed west with three caravels seeking a new route to India but unexpectedly reached the Caribbean. Thereafter, da Gama rounded the Cape of Good Hope to reach India, and Magellan's fleet completed the first circumnavigation. Europeans henceforth dominated the world's oceans, and the prelude to globalization began."
     },
     {
       "id": "european_civilization_067",
@@ -1495,7 +1696,10 @@
       ],
       "order": 67,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_067_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Birth of the Scientific Revolution",
+      "summary_en": "",
+      "full_text_en": "Copernicus proposed heliocentrism challenging the geocentric system, and Galileo observed Jupiter's moons through a telescope. Newton derived the law of universal gravitation at Cambridge. The scientific method was born from experiment and mathematical reasoning, Aristotle's authority was overthrown, and humanity's understanding of the universe underwent a fundamental transformation."
     },
     {
       "id": "european_civilization_068",
@@ -1517,7 +1721,10 @@
       ],
       "order": 68,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_068_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Currents of the Enlightenment",
+      "summary_en": "",
+      "full_text_en": "Voltaire attacked religious superstition from his estate at Ferney, Montesquieu proposed the separation of powers, and Rousseau declared that man is born free. Philosophers debated fiercely in salons, the Encyclopédistes systematically organized knowledge, and the light of reason illuminated the dark corners of the Ancien Régime, sowing the ideological seeds of revolution."
     },
     {
       "id": "european_civilization_069",
@@ -1539,7 +1746,10 @@
       ],
       "order": 69,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_069_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "The Enlightenment",
+      "summary_en": "",
+      "full_text_en": "Eighteenth-century European thinkers raised the torch of reason. Voltaire attacked despotism and superstition, Rousseau proposed the social contract, and Montesquieu designed the separation of powers. Diderot compiled the Encyclopédie to disseminate knowledge, and ideas collided freely in cafés and salons. The Enlightenment laid the intellectual foundation for modern democracy and science."
     },
     {
       "id": "european_civilization_070",
@@ -1561,7 +1771,10 @@
       ],
       "order": 70,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_070_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Napoleon's Empire",
+      "summary_en": "",
+      "full_text_en": "Napoleon crushed the Russo-Austrian army at Austerlitz against the odds, and the French Empire stretched from Spain to Poland. He promulgated the Civil Code to unify the legal system, but the Russian campaign ended in disaster, and Waterloo terminated the empire. Napoleon's conquests spread revolutionary ideals across Europe."
     },
     {
       "id": "european_civilization_071",
@@ -1583,7 +1796,10 @@
       ],
       "order": 71,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_071_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "The Industrial Revolution in Britain",
+      "summary_en": "",
+      "full_text_en": "Watt's improved steam engine drove machines into roaring operation, and Manchester's textile mills bristled with chimneys. Railways transported coal and cotton across the country, and rural folk flooded into cities as workers. The Industrial Revolution created unprecedented wealth but also brought pollution and poverty. Modern industrial society was born."
     },
     {
       "id": "european_civilization_072",
@@ -1605,7 +1821,10 @@
       ],
       "order": 72,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_072_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Italian Unification",
+      "summary_en": "",
+      "full_text_en": "Garibaldi led the Red Shirts ashore in Sicily and marched north, while Cavour's diplomacy facilitated the expansion of the Kingdom of Sardinia. In 1861 the Kingdom of Italy was proclaimed, and Rome was incorporated in 1870. The Italian peninsula, divided for a millennium, was finally unified, and a wave of nationalism swept across Europe."
     },
     {
       "id": "european_civilization_073",
@@ -1627,7 +1846,10 @@
       ],
       "order": 73,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_073_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "German Unification",
+      "summary_en": "",
+      "full_text_en": "Bismarck unified Germany through blood and iron, winning three successive wars against Denmark, Austria, and France. In 1871, King Wilhelm I of Prussia was crowned German Emperor in the Hall of Mirrors at Versailles. The rise of the German Empire altered the European balance of power, and the unification of nation-states became the dominant theme of the nineteenth century."
     },
     {
       "id": "european_civilization_074",
@@ -1649,7 +1871,10 @@
       ],
       "order": 74,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_074_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Peter the Great's Reforms in Russia",
+      "summary_en": "",
+      "full_text_en": "Returning from a tour of Western Europe, Peter the Great forced Russians to shave their beards and wear Western clothing. He built St. Petersburg as a window to the West, created a navy and factories, and broke the nobility's monopoly on power. Peter's reforms propelled Russia from a backward feudal state into the ranks of European powers."
     },
     {
       "id": "european_civilization_075",
@@ -1671,7 +1896,10 @@
       ],
       "order": 75,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_075_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "The Congress of Vienna",
+      "summary_en": "",
+      "full_text_en": "After Napoleon's defeat in 1815, the European powers convened in Vienna to redraw the map. Metternich established a balance of power system, restored monarchical rule, and suppressed nationalism and liberalism. The Vienna system maintained peace for nearly forty years, but the sparks of revolution would inevitably ignite again."
     },
     {
       "id": "european_civilization_076",
@@ -1693,7 +1921,10 @@
       ],
       "order": 76,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_076_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "The Revolutions of 1848",
+      "summary_en": "",
+      "full_text_en": "The revolutionary wave of 1848 swept from Paris to Vienna, Berlin, and Budapest, as people demanded constitutions and national independence. Though the uprisings were suppressed, feudal privileges further eroded, serfdom was abolished in many places, and national consciousness proved unstoppable. 1848 was a turning point in modern European history."
     },
     {
       "id": "european_civilization_077",
@@ -1715,7 +1946,10 @@
       ],
       "order": 77,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_077_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Darwin and the Theory of Evolution",
+      "summary_en": "",
+      "full_text_en": "Darwin sailed for five years on the Beagle, observing variations in finch beaks on the Galápagos Islands. In 1859 he published \"On the Origin of Species,\" proposing the theory of natural selection, which overturned the creationist worldview. The theory of evolution profoundly changed humanity's understanding of its own origins."
     },
     {
       "id": "european_civilization_078",
@@ -1737,7 +1971,10 @@
       ],
       "order": 78,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_078_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Birth of Impressionism",
+      "summary_en": "",
+      "full_text_en": "Monet captured the hazy light of sunrise at Le Havre harbor with rapid brushstrokes. \"Impression, Sunrise\" was mocked by critics yet gave birth to a new movement. Impressionist painters left their studios to depict natural light and color. Renoir, Degas, and Cézanne each displayed their brilliance, and the door to modern art was opened."
     },
     {
       "id": "european_civilization_079",
@@ -1759,7 +1996,10 @@
       ],
       "order": 79,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_079_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "British Parliamentary Reform",
+      "summary_en": "",
+      "full_text_en": "In 1832 Britain passed the Reform Act expanding the franchise, and the industrial bourgeoisie gained parliamentary seats. The franchise was gradually extended to adult males, and the women's suffrage movement was led by Emmeline Pankhurst. Women finally obtained the vote in 1918, and the democratic system was steadily improved through gradual reform."
     },
     {
       "id": "european_civilization_080",
@@ -1781,7 +2021,10 @@
       ],
       "order": 80,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_080_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Birth of Marxism",
+      "summary_en": "",
+      "full_text_en": "Marx and Engels wrote the \"Communist Manifesto\" in London, declaring that the proletariat would overthrow bourgeois rule. \"Das Kapital\" revealed the secret of surplus value. Marxism provided a theoretical weapon for the workers' movement, profoundly influencing the course of world history for the next century and a half."
     },
     {
       "id": "european_civilization_081",
@@ -1803,7 +2046,10 @@
       ],
       "order": 81,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_081_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "The Crimean War",
+      "summary_en": "",
+      "full_text_en": "Anglo-French forces supported the Ottoman Empire in defeating Russia in Crimea. Florence Nightingale improved nursing conditions at the military hospital in Scutari, dramatically reducing mortality among the wounded. The war exposed Russia's backwardness and also gave rise to the Red Cross movement and modern nursing."
     },
     {
       "id": "european_civilization_082",
@@ -1825,7 +2071,10 @@
       ],
       "order": 82,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_082_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "The Paris Commune",
+      "summary_en": "",
+      "full_text_en": "In 1871, Parisian workers rose up and established the Commune, implementing universal suffrage, separation of church and state, and free education. The Commune lasted only 72 days before being bloodily suppressed by the Versailles government, with tens of thousands of Communards executed. The Paris Commune was the first attempt by the proletariat to establish a government, becoming a tragic chapter in revolutionary history."
     },
     {
       "id": "european_civilization_083",
@@ -1847,7 +2096,10 @@
       ],
       "order": 83,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_083_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Colonial Expansion of Modern Europe",
+      "summary_en": "",
+      "full_text_en": "In the late nineteenth century, European powers carved up Africa. Britain established a colonial chain from Cape to Cairo, and France occupied West Africa and Indochina. The Belgian king brutally exploited the Congo. Colonial rule brought deep suffering to Asia, Africa, and Latin America, but also gave rise to the seeds of national independence movements."
     },
     {
       "id": "european_civilization_084",
@@ -1869,7 +2121,10 @@
       ],
       "order": 84,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_084_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "--",
+      "summary_en": "",
+      "full_text_en": "--"
     },
     {
       "id": "european_civilization_085",
@@ -1891,7 +2146,10 @@
       ],
       "order": 85,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_085_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "The Balkan Wars",
+      "summary_en": "",
+      "full_text_en": "The two Balkan Wars of 1912 redrew the Ottoman Empire's map in Europe, and nationalist fervor spread across the Balkan Peninsula. Serbia's expansionist ambitions clashed with Austro-Hungarian intervention, and the gunshot in Sarajevo ultimately triggered World War I. The Balkans became the powder keg of Europe."
     },
     {
       "id": "european_civilization_086",
@@ -1913,7 +2171,10 @@
       ],
       "order": 86,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_086_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "The Paris Commune Uprising",
+      "summary_en": "",
+      "full_text_en": "In 1871, Parisian workers rose up and established the Commune, implementing universal suffrage and separating church and state, while armed workers defended the barricades. The Commune was bloodily suppressed by the Versailles government after 72 days, but its spirit inspired later revolutionaries. The melody of \"The Internationale\" spread across the world. The Paris Commune was the first attempt at a proletarian government."
     },
     {
       "id": "european_civilization_087",
@@ -1935,7 +2196,10 @@
       ],
       "order": 87,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_087_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "The Treaty of Versailles",
+      "summary_en": "",
+      "full_text_en": "In 1919, the victorious powers signed the peace treaty with Germany at the Palace of Versailles. Germany was forced to cede territory, pay reparations, and accept war guilt. Keynes warned that the harsh terms would provoke new conflict, and indeed German nationalist fury reignited twenty years later. The Versailles system planted the seeds of World War II."
     },
     {
       "id": "european_civilization_088",
@@ -1957,7 +2221,10 @@
       ],
       "order": 88,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_088_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Rise of Fascism",
+      "summary_en": "",
+      "full_text_en": "Mussolini led the Blackshirts in the March on Rome to seize power, while Hitler came to power through legal elections after the failed Beer Hall Putsch. Fascism appealed to national revival and violently suppressed dissent. Totalitarian rule enveloped Germany and Italy, and democracy appeared fragile in the face of crisis."
     },
     {
       "id": "european_civilization_089",
@@ -1979,7 +2246,10 @@
       ],
       "order": 89,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_089_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "The Cold War Iron Curtain",
+      "summary_en": "",
+      "full_text_en": "After World War II, Europe was divided by an Iron Curtain. Churchill's Fulton speech drew the line between East and West. The Berlin Wall tore a city apart for 28 years, NATO and the Warsaw Pact faced off, and nuclear weapons kept both sides from acting rashly. The Cold War reshaped Europe's political map, and life on either side of the Iron Curtain was starkly different."
     },
     {
       "id": "european_civilization_090",
@@ -2001,7 +2271,10 @@
       ],
       "order": 90,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_090_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Descent of the Iron Curtain",
+      "summary_en": "",
+      "full_text_en": "Churchill declared in his Fulton speech that an Iron Curtain had descended from Stettin to Trieste, and the US-Soviet blocs confronted each other. The Berlin Wall divided a city in two, the shadow of nuclear weapons loomed over the globe, and for forty years of Cold War the world maintained a terrifying balance on the brink of destruction."
     },
     {
       "id": "european_civilization_091",
@@ -2023,7 +2296,10 @@
       ],
       "order": 91,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_091_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "European Integration",
+      "summary_en": "",
+      "full_text_en": "The Schuman Plan placed Franco-German coal and steel production under joint management, and the European Coal and Steel Community launched the integration process. From the Treaty of Rome to the Maastricht Treaty, the European Community evolved into the European Union, the euro replaced national currencies, and Europeans built a fortress of peace on the ruins of two world wars."
     },
     {
       "id": "european_civilization_092",
@@ -2045,7 +2321,10 @@
       ],
       "order": 92,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_092_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Fall of the Berlin Wall",
+      "summary_en": "",
+      "full_text_en": "On November 9, 1989, East Germany announced the opening of its borders, and Berliners used hammers and chisels to dismantle the wall that had stood for 28 years. East and West Germany reunified the following year, dramatic changes swept Eastern Europe, and the Cold War ended in an unexpected manner. Europe moved toward reunification."
     },
     {
       "id": "european_civilization_093",
@@ -2067,7 +2346,10 @@
       ],
       "order": 93,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_093_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "EU Eastern Expansion",
+      "summary_en": "",
+      "full_text_en": "In 2004, the EU admitted eight former socialist countries. From the Baltic to the Adriatic, Europe was institutionally reunified. Free movement of people and the single market spurred rapid economic growth in Eastern Europe, but cultural differences and economic disparities remain long-term challenges for European integration."
     },
     {
       "id": "european_civilization_094",
@@ -2089,7 +2371,10 @@
       ],
       "order": 94,
       "pixel_image": "res://assets/images/illustrations/european_civilization/european_civilization_094_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Establishment of the Welfare State",
+      "summary_en": "",
+      "full_text_en": "After World War II, Britain pioneered a national healthcare and social security system, while Nordic countries implemented cradle-to-grave welfare. High taxes supported high benefits, education and healthcare were free, and the wealth gap narrowed. The welfare state is the great practice of European social democracy and a model of humanity's pursuit of equity."
     }
   ]
 }

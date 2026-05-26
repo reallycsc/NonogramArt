@@ -21,7 +21,10 @@
       ],
       "order": 0,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_000_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Birth of Archaeology",
+      "summary_en": "",
+      "full_text_en": "In the mid-19th century, archaeology emerged from antiquarianism. Schliemann's excavations at Troy confirmed the historicity of Homer's epics, Petrie established stratigraphic methods in Egypt, and scientific archaeology was born. Humanity began reading the book of the earth with rigorous methods."
     },
     {
       "id": "archaeology_001",
@@ -43,7 +46,10 @@
       ],
       "order": 1,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_001_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Excavation of Yin Ruins",
+      "summary_en": "",
+      "full_text_en": "In 1928, the Institute of History and Philology of the Academia Sinica began excavating the Yin Ruins in Anyang, marking China's first scientific archaeological excavation. Scholars including Dong Zuobin and Li Ji unearthed large quantities of oracle bone inscriptions and bronze vessels on the south bank of the Huan River, transforming Shang Dynasty civilization from legend into documented history."
     },
     {
       "id": "archaeology_002",
@@ -65,7 +71,10 @@
       ],
       "order": 2,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_002_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Exploration of Qin Shi Huang's Mausoleum",
+      "summary_en": "",
+      "full_text_en": "In 1974, farmers in Lintong drilling a well discovered the Terracotta Army, shocking the world. Bronze chariots, stone armor, and water bird pits were successively unearthed, while the legend of mercury simulating rivers and seas in the underground palace remains unverified. Archaeological work at Qin Shi Huang's mausoleum complex continues, with more secrets awaiting discovery."
     },
     {
       "id": "archaeology_003",
@@ -87,7 +96,10 @@
       ],
       "order": 3,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_003_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Excavation of Sanxingdui",
+      "summary_en": "",
+      "full_text_en": "The bronze protruding-eye masks and gold staff unearthed at Sanxingdui in Guanghan, Sichuan, overturned people's understanding of ancient Shu civilization. The three-meter-tall bronze sacred tree and bizarre bronze human head sculptures—these unprecedented artifacts indicate that ancient Shu civilization had a unique cultural system independent of the Central Plains."
     },
     {
       "id": "archaeology_004",
@@ -109,7 +121,10 @@
       ],
       "order": 4,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_004_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Mawangdui Han Tombs",
+      "summary_en": "",
+      "full_text_en": "The Mawangdui Han Tombs in Changsha yielded the well-preserved 2,100-year-old body of Lady Xin Zhui, whose skin still retained elasticity. The plain gauze robe weighed only 49 grams, the T-shaped silk banner retained vibrant colors, and bamboo medical slips contained rich content. This is one of the most astonishing archaeological discoveries of the 20th century."
     },
     {
       "id": "archaeology_005",
@@ -131,7 +146,10 @@
       ],
       "order": 5,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_005_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Tomb of Marquis Yi of Zeng",
+      "summary_en": "",
+      "full_text_en": "The tomb of Marquis Yi of Zeng in Suizhou, Hubei, yielded a set of 65 bronze bells weighing 2,500 kg in total, with a tonal range spanning five and a half octaves. The bronze zun-pan vessel was cast using the lost-wax method with exquisite craftsmanship. This early Warring States tomb reveals the splendid civilization of the Zeng state and the pre-Qin ritual and musical system."
     },
     {
       "id": "archaeology_006",
@@ -153,7 +171,10 @@
       ],
       "order": 6,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_006_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Excavation of Liangzhu Ancient City",
+      "summary_en": "",
+      "full_text_en": "The excavation of the Liangzhu ancient city site in Zhejiang confirmed the existence of 5,000 years of Chinese civilization. The water conservancy system is grand in scale, jade cong and bi are exquisitely crafted, and the Mojiaoshan palace foundation covers 300,000 square meters. In 2019, Liangzhu was inscribed on the World Heritage List, providing concrete evidence of 5,000 years of Chinese civilization."
     },
     {
       "id": "archaeology_007",
@@ -175,7 +196,10 @@
       ],
       "order": 7,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_007_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Yangshao Culture Sites",
+      "summary_en": "",
+      "full_text_en": "The excavation of the Yangshao Village site in Mianchi, Henan, marked the birth of modern Chinese archaeology. The human-face and fish designs on painted pottery basins are enigmatic. Excavations at Banpo and Miaodigou revealed farming settlements from 6,000 years ago in the middle reaches of the Yellow River, and the evolution of painted pottery motifs from fish to floral patterns reflects changes in prehistoric aesthetics."
     },
     {
       "id": "archaeology_008",
@@ -197,7 +221,10 @@
       ],
       "order": 8,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_008_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Tomb of Marquis of Haihun",
+      "summary_en": "",
+      "full_text_en": "The tomb of Liu He, Marquis of Haihun, in Nanchang, Jiangxi, yielded over 10,000 artifacts, with an astonishing quantity of gold objects. Horseshoe gold and qilin-toe gold gleam brilliantly, the discovery of bamboo slip versions of the Analerta and Qi Analerta filled gaps in textual records, and the unearthed distillation apparatus significantly pushed back the history of Chinese distillation technology."
     },
     {
       "id": "archaeology_009",
@@ -219,7 +246,10 @@
       ],
       "order": 9,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_009_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Shimao Site",
+      "summary_en": "",
+      "full_text_en": "The Shimao ancient city in Shaanxi dates back over 4,000 years, with stone-block walls enclosing an area of four million square meters. Exquisite stone-carved human faces are embedded in the city walls, and jade objects were inserted into the walls as part of religious rituals. This super-large prehistoric city site has rewritten our understanding of early state formation."
     },
     {
       "id": "archaeology_010",
@@ -241,7 +271,10 @@
       ],
       "order": 10,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_010_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Taosi Site",
+      "summary_en": "",
+      "full_text_en": "The Taosi site in Xiangfen, Shanxi, revealed China's earliest astronomical observatory, where ancient people determined solar terms by observing sunrise positions. The coiled dragon motif on painted dragon plates may be the origin of the Chinese dragon image, and the discovery of copper bells and vermilion-inscribed characters pushes forward the history of Chinese writing."
     },
     {
       "id": "archaeology_011",
@@ -263,7 +296,10 @@
       ],
       "order": 11,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_011_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Tomb of Tutankhamun",
+      "summary_en": "",
+      "full_text_en": "In 1922, Carter discovered the tomb of Tutankhamun in the Valley of the Kings, with its golden mask and sarcophagus shocking the world. Thousands of burial goods in the tomb chamber were perfectly preserved, and the pharaoh's mummy and canopic jars revealed ancient Egyptian funerary customs. This is the most complete ancient Egyptian royal burial."
     },
     {
       "id": "archaeology_013",
@@ -285,7 +321,10 @@
       ],
       "order": 12,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_013_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Troy Site",
+      "summary_en": "",
+      "full_text_en": "Schliemann excavated nine layers of city remains at Hisarlik Hill, transforming the Trojan War from myth into history. The gold crowns and jewelry in Priam's Treasure were exquisite, and though his stratigraphic judgments were flawed, this discovery pioneered the use of archaeology to verify literary traditions."
     },
     {
       "id": "archaeology_014",
@@ -307,7 +346,10 @@
       ],
       "order": 13,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_014_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Dead Sea Scrolls",
+      "summary_en": "",
+      "full_text_en": "In 1947, Bedouin shepherds discovered the Dead Sea Scrolls in the Qumran caves—the oldest surviving Hebrew biblical manuscripts. The parchment and papyrus scrolls record religious texts from 2,000 years ago, with immeasurable value for studying the origins of Judaism and Christianity."
     },
     {
       "id": "archaeology_015",
@@ -329,7 +371,10 @@
       ],
       "order": 14,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_015_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
+      "chapter_id": "chapter_1",
+      "title_en": "Rosetta Stone",
+      "summary_en": "",
+      "full_text_en": "During Napoleon's Egyptian campaign in 1799, the Rosetta Stone was discovered, bearing the same decree in three scripts. Champollion used it to decipher ancient Egyptian hieroglyphics, and the pharaonic civilization silent for millennia finally spoke. Egyptology was thus born."
     },
     {
       "id": "archaeology_016",
@@ -351,51 +396,10 @@
       ],
       "order": 15,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_016_nonogram_pixel.jpg",
-      "chapter_id": "chapter_1"
-    },
-    {
-      "id": "archaeology_017",
-      "title": "遥感考古",
-      "summary": "卫星和无人机搭载的多光谱传感器能穿透地表发现地下遗址。激光雷...",
-      "full_text": "卫星和无人机搭载的多光谱传感器能穿透地表发现地下遗址。激光雷达LiDAR在柬埔寨丛林中发现了隐藏的吴哥城外围结构，在伯利兹雨林中揭示了玛雅城市的规模。天空之眼让考古学插上了翅膀。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_017.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_017_0",
-        "archaeology_017_1",
-        "archaeology_017_2",
-        "archaeology_017_3",
-        "archaeology_017_4",
-        "archaeology_017_5"
-      ],
-      "order": 16,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_017_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
-    },
-    {
-      "id": "archaeology_018",
-      "title": "DNA考古",
-      "summary": "古DNA技术从骨骼中提取遗传信息，揭示了人类迁徙和演化的历史...",
-      "full_text": "古DNA技术从骨骼中提取遗传信息，揭示了人类迁徙和演化的历史。尼安德特人与智人的基因交流、美洲原住民的亚洲起源、中国南北方人群的遗传差异，DNA为考古学提供了全新的研究维度。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_018.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_018_0",
-        "archaeology_018_1",
-        "archaeology_018_2",
-        "archaeology_018_3",
-        "archaeology_018_4",
-        "archaeology_018_5"
-      ],
-      "order": 17,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_018_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_1",
+      "title_en": "Zhoukoudian Peking Man Site",
+      "summary_en": "",
+      "full_text_en": "The caves at Zhoukoudian's Dragon Bone Hill yielded Peking Man's skull fossils and fire-use remains, pushing human history back 500,000 years. Stone tools and ash layers proved that Peking Man had mastered fire technology. Sadly, the skull fossils were lost during World War II and remain missing to this day."
     },
     {
       "id": "archaeology_019",
@@ -417,7 +421,10 @@
       ],
       "order": 18,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_019_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Erlitou in Yanshi",
+      "summary_en": "",
+      "full_text_en": "The Erlitou site in Yanshi, Henan, is believed to be the late capital of the Xia Dynasty. The discovery of palace foundations indicates a mature state structure existed here. The turquoise dragon-shaped artifact is exquisitely crafted, and the animal mask motifs on bronze plaques may be the origin of Shang and Zhou taotie designs. The exploration of Xia culture continues."
     },
     {
       "id": "archaeology_020",
@@ -439,29 +446,10 @@
       ],
       "order": 19,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_020_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
-    },
-    {
-      "id": "archaeology_021",
-      "title": "半坡遗址",
-      "summary": "西安半坡遗址揭示了六千年前仰韶文化先民的村落生活，半地穴式房...",
-      "full_text": "西安半坡遗址揭示了六千年前仰韶文化先民的村落生活，半地穴式房屋环绕中心广场排列。彩陶盆上的人面鱼纹神秘莫测，储粮窖穴与围沟表明这里是一个组织有序的母系氏族聚落。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_021.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_021_0",
-        "archaeology_021_1",
-        "archaeology_021_2",
-        "archaeology_021_3",
-        "archaeology_021_4",
-        "archaeology_021_5"
-      ],
-      "order": 20,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_021_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_5",
+      "title_en": "Tomb of Lady Fu Hao at Yin Ruins",
+      "summary_en": "",
+      "full_text_en": "The tomb of Lady Fu Hao at the Yin Ruins in Anyang is the only undisturbed Shang Dynasty royal tomb. The tomb owner was Fu Hao, queen of King Wu Ding of Shang. Over 400 bronze vessels and 700 jade objects were unearthed. Fu Hao was both queen and female general commanding armies, with multiple oracle bone records of her leading military campaigns."
     },
     {
       "id": "archaeology_022",
@@ -483,29 +471,10 @@
       ],
       "order": 21,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_022_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
-    },
-    {
-      "id": "archaeology_023",
-      "title": "偃师二里头",
-      "summary": "河南偃师二里头遗址被认为是夏朝晚期都城，宫殿基址的发现表明这...",
-      "full_text": "河南偃师二里头遗址被认为是夏朝晚期都城，宫殿基址的发现表明这里已有成熟的国家形态。绿松石龙形器精美绝伦，铜牌饰上的兽面纹可能是商周饕餮纹的源头，夏文化的探索仍在继续。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_023.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_023_0",
-        "archaeology_023_1",
-        "archaeology_023_2",
-        "archaeology_023_3",
-        "archaeology_023_4",
-        "archaeology_023_5"
-      ],
-      "order": 22,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_023_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Tomb of the Duke of Qin",
+      "summary_en": "",
+      "full_text_en": "The tomb of the Duke of Qin in Fengxiang, Shaanxi, is the largest pre-Qin tomb ever excavated, with a chamber area exceeding 5,000 square meters. Despite repeated looting, gold vessels and stone chimes were still recovered. Inscriptions identify the tomb owner as Duke Jing of Qin, and the tomb's scale demonstrates Qin's rise from a small western state to a dominant power."
     },
     {
       "id": "archaeology_024",
@@ -527,7 +496,10 @@
       ],
       "order": 23,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_024_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Famen Temple Underground Palace",
+      "summary_en": "",
+      "full_text_en": "The Tang Dynasty underground palace of Famen Temple in Shaanxi yielded the Buddha's finger bone relic and numerous imperial treasures. The gold, silver, and mise ceramics represent the pinnacle of craftsmanship. Sealed in 874 AD, the artifacts were preserved in pristine condition, providing invaluable resources for studying Tang court Buddhism and craft technology."
     },
     {
       "id": "archaeology_025",
@@ -549,29 +521,10 @@
       ],
       "order": 24,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_025_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
-    },
-    {
-      "id": "archaeology_026",
-      "title": "秦公大墓",
-      "summary": "陕西凤翔的秦公大墓是迄今发掘的最大先秦墓葬，墓室面积达五千余...",
-      "full_text": "陕西凤翔的秦公大墓是迄今发掘的最大先秦墓葬，墓室面积达五千余平方米。虽经多次盗掘仍出土了金器与石磬，铭文表明墓主为秦景公，大墓的规模彰显了秦国从西陲小邦到霸主的崛起历程。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_026.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_026_0",
-        "archaeology_026_1",
-        "archaeology_026_2",
-        "archaeology_026_3",
-        "archaeology_026_4",
-        "archaeology_026_5"
-      ],
-      "order": 25,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_026_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Leifeng Pagoda Underground Palace",
+      "summary_en": "",
+      "full_text_en": "The underground palace of Leifeng Pagoda in Hangzhou yielded the Buddha's ushnisha hair relic enshrined by Qian Chu, King of Wuyue, and an Ashoka Pagoda. Inside the gilded silver pagoda rested a gold coffin and silver outer coffin. Leifeng Pagoda is famous for the Legend of the White Snake, and the underground palace archaeology allows artifacts and legends to illuminate each other, offering a glimpse of Five Dynasties Buddhist culture."
     },
     {
       "id": "archaeology_027",
@@ -593,51 +546,10 @@
       ],
       "order": 26,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_027_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
-    },
-    {
-      "id": "archaeology_028",
-      "title": "法门寺地宫",
-      "summary": "陕西法门寺唐代地宫出土了佛指舍利与大量皇室供奉珍宝，金银器与...",
-      "full_text": "陕西法门寺唐代地宫出土了佛指舍利与大量皇室供奉珍宝，金银器与秘色瓷工艺登峰造极。地宫封闭于公元八七四年，文物保存完好如初，为研究唐代宫廷佛教与工艺技术提供了无价之宝。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_028.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_028_0",
-        "archaeology_028_1",
-        "archaeology_028_2",
-        "archaeology_028_3",
-        "archaeology_028_4",
-        "archaeology_028_5"
-      ],
-      "order": 27,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_028_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
-    },
-    {
-      "id": "archaeology_029",
-      "title": "雷峰塔地宫",
-      "summary": "杭州雷峰塔地宫出土了吴越国王钱俶供奉的佛螺髻发舍利与阿育王塔...",
-      "full_text": "杭州雷峰塔地宫出土了吴越国王钱俶供奉的佛螺髻发舍利与阿育王塔，鎏金银塔内安放着金棺银椁。雷峰塔因白蛇传说闻名，地宫考古让实物与传说交相辉映，五代十国的佛教文化由此得窥一斑。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_029.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_029_0",
-        "archaeology_029_1",
-        "archaeology_029_2",
-        "archaeology_029_3",
-        "archaeology_029_4",
-        "archaeology_029_5"
-      ],
-      "order": 28,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_029_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Jinsha Site",
+      "summary_en": "",
+      "full_text_en": "The Jinsha site in Chengdu yielded the Sun and Immortal Bird gold ornament and large quantities of ivory, representing another major discovery of ancient Shu civilization after Sanxingdui. Gold masks and bronze figures share a stylistic lineage with Sanxingdui, and Jinsha may have been the new capital of the ancient Shu kingdom after Sanxingdui's decline."
     },
     {
       "id": "archaeology_030",
@@ -659,7 +571,10 @@
       ],
       "order": 29,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_030_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Jiahu Site",
+      "summary_en": "",
+      "full_text_en": "The Jiahu site in Wuyang, Henan, yielded 9,000-year-old bone flutes made from crane bones capable of playing a seven-note scale. Incised symbols on turtle shells may be the remote ancestors of Chinese characters, and carbonized rice and dog burial pits reveal early agriculture and animal domestication. Jiahu is the dawn before the sunrise of Chinese civilization."
     },
     {
       "id": "archaeology_031",
@@ -681,7 +596,10 @@
       ],
       "order": 30,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_031_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Lajia Site",
+      "summary_en": "",
+      "full_text_en": "The Lajia site in Qinghai preserves a 4,000-year-old disaster scene, with a mother clutching her child in a heart-wrenching pose. Earthquakes and floods instantly destroyed this Qijia Culture village. The discovery of fossilized noodles pushes the history of Chinese pasta back 4,000 years. Lajia is the Pompeii of the East."
     },
     {
       "id": "archaeology_032",
@@ -703,7 +621,10 @@
       ],
       "order": 31,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_032_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
+      "chapter_id": "chapter_2",
+      "title_en": "Laoguanshan Han Tombs",
+      "summary_en": "",
+      "full_text_en": "The Laoguanshan Han tombs in Chengdu yielded a lacquered human figure with meridian points and over 900 medical bamboo slips, recording long-lost texts of the Bianque medical school. Loom models revealed the structure of Han Dynasty jacquard looms. The Laoguanshan discoveries brought revolutionary breakthroughs to the study of Chinese medicine and textile history."
     },
     {
       "id": "archaeology_033",
@@ -725,51 +646,10 @@
       ],
       "order": 32,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_033_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
-    },
-    {
-      "id": "archaeology_034",
-      "title": "贾湖遗址",
-      "summary": "河南舞阳贾湖遗址出土了距今九千年的骨笛，用鹤骨制成能吹奏七声...",
-      "full_text": "河南舞阳贾湖遗址出土了距今九千年的骨笛，用鹤骨制成能吹奏七声音阶。龟甲上的刻划符号可能是汉字的远祖，碳化稻米与狗的埋葬坑揭示了早期农业与家畜驯化，贾湖是中华文明黎明前的曙光。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_034.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_034_0",
-        "archaeology_034_1",
-        "archaeology_034_2",
-        "archaeology_034_3",
-        "archaeology_034_4",
-        "archaeology_034_5"
-      ],
-      "order": 33,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_034_nonogram_pixel.jpg",
-      "chapter_id": "chapter_2"
-    },
-    {
-      "id": "archaeology_035",
-      "title": "喇家遗址",
-      "summary": "青海喇家遗址保存了四千年前的灾难现场，母亲紧抱孩子的姿态令人...",
-      "full_text": "青海喇家遗址保存了四千年前的灾难现场，母亲紧抱孩子的姿态令人动容。地震与洪水瞬间摧毁了这座齐家文化村落，面条化石的发现将中国面食历史推至四千年前，喇家是东方的庞贝。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_035.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_035_0",
-        "archaeology_035_1",
-        "archaeology_035_2",
-        "archaeology_035_3",
-        "archaeology_035_4",
-        "archaeology_035_5"
-      ],
-      "order": 34,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_035_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_2",
+      "title_en": "Jiangkou Sunken Silver",
+      "summary_en": "",
+      "full_text_en": "The Jiangkou sunken silver site in Pengshan, Sichuan, recovered large quantities of gold and silver vessels and the gold seal of the Prince of Shu, confirming the legend of Zhang Xianzhong's sunken silver. Archaeologists used cofferdam excavation to reveal a battlefield site in the river channel. Gold and silver documents and silver ingot inscriptions record the extravagance of late Ming feudal lords and the cruelty of war."
     },
     {
       "id": "archaeology_036",
@@ -791,7 +671,10 @@
       ],
       "order": 35,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_036_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Tomb of Princess Chen of the Liao Dynasty",
+      "summary_en": "",
+      "full_text_en": "The tomb of Princess Chen in Inner Mongolia yielded complete Khitan noble burial furnishings, with a gold mask and silver wire mesh covering the entire body. Amber necklaces and glass cups came from Silk Road trade, and the princess and her husband were buried together in solemn dignity. The luxurious life and funerary customs of Liao Dynasty nobility are thus revealed in full."
     },
     {
       "id": "archaeology_037",
@@ -813,7 +696,10 @@
       ],
       "order": 36,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_037_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Nanhai One",
+      "summary_en": "",
+      "full_text_en": "The complete salvage of the Song Dynasty shipwreck Nanhai One pioneered a new era in underwater archaeology, using a steel caisson to lift the entire ship along with its seabed sediment. The vessel contained 80,000 porcelain pieces, with gold and lacquerware well preserved. This Fujian-type ship is a physical specimen of the Maritime Silk Road."
     },
     {
       "id": "archaeology_038",
@@ -835,73 +721,10 @@
       ],
       "order": 37,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_038_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
-    },
-    {
-      "id": "archaeology_039",
-      "title": "隋唐洛阳城",
-      "summary": "洛阳定鼎门遗址的发掘揭示了隋唐东都的宏大格局，三门道城门宽达...",
-      "full_text": "洛阳定鼎门遗址的发掘揭示了隋唐东都的宏大格局，三门道城门宽达二十八米。含嘉仓的地下粮窖储存着数十万石漕粮，武则天明堂的圆形基址重现了万国朝会的盛景，洛阳城是盛唐气象的考古注脚。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_039.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_039_0",
-        "archaeology_039_1",
-        "archaeology_039_2",
-        "archaeology_039_3",
-        "archaeology_039_4",
-        "archaeology_039_5"
-      ],
-      "order": 38,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_039_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
-    },
-    {
-      "id": "archaeology_040",
-      "title": "辽代陈国公主墓",
-      "summary": "内蒙古陈国公主墓出土了完整的契丹贵族葬具，金面具与银丝网络覆...",
-      "full_text": "内蒙古陈国公主墓出土了完整的契丹贵族葬具，金面具与银丝网络覆盖全身。琥珀璎珞与玻璃杯来自丝路贸易，公主与驸马合葬的姿态庄严肃穆，辽代贵族的奢华生活与丧葬习俗由此得窥全貌。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_040.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_040_0",
-        "archaeology_040_1",
-        "archaeology_040_2",
-        "archaeology_040_3",
-        "archaeology_040_4",
-        "archaeology_040_5"
-      ],
-      "order": 39,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_040_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
-    },
-    {
-      "id": "archaeology_041",
-      "title": "南海一号",
-      "summary": "南海一号宋代沉船整体打捞开创了水下考古的新纪元，钢结构沉箱将...",
-      "full_text": "南海一号宋代沉船整体打捞开创了水下考古的新纪元，钢结构沉箱将整船连同海底泥沙一起吊起。船内瓷器达八万件，金器与漆器保存完好，这艘福船是海上丝绸之路的实物标本。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_041.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_041_0",
-        "archaeology_041_1",
-        "archaeology_041_2",
-        "archaeology_041_3",
-        "archaeology_041_4",
-        "archaeology_041_5"
-      ],
-      "order": 40,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_041_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Bronze Chariots of Qin Shi Huang's Mausoleum",
+      "summary_en": "",
+      "full_text_en": "The two bronze chariots unearthed from Qin Shi Huang's mausoleum were cast at half scale with breathtaking craftsmanship. The bronze horses have fluid muscle lines, the charioteer figures wear respectful expressions, and the umbrella and carriage mechanisms remain functional. The bronze chariots represent the highest achievement of Qin Dynasty metallurgy and casting technology."
     },
     {
       "id": "archaeology_042",
@@ -923,7 +746,10 @@
       ],
       "order": 41,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_042_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Taosi Observatory",
+      "summary_en": "",
+      "full_text_en": "The Taosi site in Xiangfen, Shanxi, revealed a 4,100-year-old observatory with 13 rammed-earth pillars forming semi-circular gaps. Ancient people determined 20 solar terms by observing sunrise positions through the gaps, 500 years earlier than Stonehenge in England. The Taosi Observatory is the earliest known astronomical observation facility in the world."
     },
     {
       "id": "archaeology_043",
@@ -945,7 +771,10 @@
       ],
       "order": 42,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_043_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Sanxingdui Sacrificial Pits",
+      "summary_en": "",
+      "full_text_en": "Pits 1 through 8 at Sanxingdui yielded world-stunning artifacts including bronze altars and gold masks, with ivory and seashells layered as offerings to the gods. Objects in the pits were deliberately broken, burned, and buried in layers, representing the remains of grand sacrificial ceremonies by the ancient Shu people, revealing the unique sacrificial traditions of ancient Shu civilization."
     },
     {
       "id": "archaeology_044",
@@ -967,7 +796,10 @@
       ],
       "order": 43,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_044_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Royal Tombs of Ur",
+      "summary_en": "",
+      "full_text_en": "In the royal tombs unearthed at Ur in Iraq, attendants and musicians were buried with their masters, and gold helmets and lyres show exquisite craftsmanship. The Standard of Ur depicts war scenes on one side and banquet scenes on the other. Sumerian civilization's social hierarchy and religious beliefs are clearly presented in these burials."
     },
     {
       "id": "archaeology_045",
@@ -989,7 +821,10 @@
       ],
       "order": 44,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_045_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Mohenjo-daro",
+      "summary_en": "",
+      "full_text_en": "Mohenjo-daro in Pakistan is the largest city site of the Indus Valley Civilization, with chessboard-pattern streets and an ingenious drainage system. The Great Bath may have been a ritual purification site, and the script on seals remains undeciphered. The urban planning of this 4,000-year-old city impresses even modern engineers."
     },
     {
       "id": "archaeology_046",
@@ -1011,7 +846,10 @@
       ],
       "order": 45,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_046_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Palace of Knossos",
+      "summary_en": "",
+      "full_text_en": "The Palace of Knossos on Crete was the political and religious center of Minoan civilization, with labyrinthine rooms connected layer upon layer. Frescoes depicting leaping bulls and elegant snake goddesses retain vibrant colors, and the drainage system predates Rome by a millennium. Minoan was Europe's earliest advanced civilization."
     },
     {
       "id": "archaeology_047",
@@ -1033,7 +871,10 @@
       ],
       "order": 46,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_047_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Mycenaean Tombs",
+      "summary_en": "",
+      "full_text_en": "Shaft graves at Mycenae in Greece yielded gold masks and cups. The Mask of Agamemnon, though misattributed, shocked the world. Beehive tombs demonstrate sophisticated corbelled vault techniques, and Linear B records document palace inventories. Mycenaean civilization is the historical backdrop of Homer's epics."
     },
     {
       "id": "archaeology_048",
@@ -1055,7 +896,10 @@
       ],
       "order": 47,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_048_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Hittite Capital Hattusa",
+      "summary_en": "",
+      "full_text_en": "The Hattusa site in Turkey was the capital of the Hittite Empire, with the Lion Gate and Sphinx Gate on the city walls imposing and majestic. Unearthed cuneiform tablets record Hittite laws and diplomatic treaties, and the Hittite version of the Treaty of Kadesh was discovered here. Hittite civilization re-emerged from oblivion."
     },
     {
       "id": "archaeology_049",
@@ -1077,7 +921,10 @@
       ],
       "order": 48,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_049_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Assyrian Nineveh",
+      "summary_en": "",
+      "full_text_en": "The Nineveh site in Iraq yielded over 20,000 tablets from the Library of Ashurbanipal, covering literature, medicine, and astrology. Lion hunt reliefs are vividly lifelike, and lamassu human-headed bull statues guard the palace gates. The Assyrian Empire's cruelty and civilization coexist in these archaeological discoveries."
     },
     {
       "id": "archaeology_050",
@@ -1099,7 +946,10 @@
       ],
       "order": 49,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_050_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Susa Site",
+      "summary_en": "",
+      "full_text_en": "The Susa site in Iran was the capital of Elamite civilization, continuing from the 4th millennium BC to the Islamic era. Glazed brick reliefs in the winter palace depict archer formations, and the Code of Hammurabi stele was discovered here. Susa spans 5,000 years of layered civilizations and is one of the most important archaeological sites on the Iranian plateau."
     },
     {
       "id": "archaeology_051",
@@ -1121,7 +971,10 @@
       ],
       "order": 50,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_051_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Easter Island Archaeology",
+      "summary_en": "",
+      "full_text_en": "In the Rano Raraku quarry on Easter Island, nearly 400 unfinished moai statues are scattered about. Archaeology reveals that the statues were transported using a rocking-walking method, and deforestation on the island led to ecological collapse. The rise and fall of Rapa Nui civilization is a cautionary fable about the relationship between humanity and nature."
     },
     {
       "id": "archaeology_053",
@@ -1143,7 +996,10 @@
       ],
       "order": 51,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_053_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Angkor Archaeological Complex",
+      "summary_en": "",
+      "full_text_en": "The Angkor complex in Cambodia contains over a hundred temples, with the four-faced Buddha of Bayon smiling mysteriously and serenely. LiDAR scanning has revealed urban roads and canal networks hidden in the jungle. Angkor city covered 1,000 square kilometers, making it the world's largest city before the Industrial Revolution."
     },
     {
       "id": "archaeology_054",
@@ -1165,51 +1021,10 @@
       ],
       "order": 52,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_054_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
-    },
-    {
-      "id": "archaeology_055",
-      "title": "纳斯卡地画考古",
-      "summary": "秘鲁纳斯卡荒漠上的地画从空中俯瞰才能辨识全貌，蜂鸟与蜘蛛图案...",
-      "full_text": "秘鲁纳斯卡荒漠上的地画从空中俯瞰才能辨识全貌，蜂鸟与蜘蛛图案绵延数百米。考古发现地画由去除表面深色石块露出浅色土壤制成，可能与水源崇拜和朝圣路线有关，是沙漠中留给神灵的信笺。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_055.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_055_0",
-        "archaeology_055_1",
-        "archaeology_055_2",
-        "archaeology_055_3",
-        "archaeology_055_4",
-        "archaeology_055_5"
-      ],
-      "order": 53,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_055_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
-    },
-    {
-      "id": "archaeology_056",
-      "title": "维京海盗船葬",
-      "summary": "挪威奥斯堡与戈克斯塔德出土的维京船葬中，酋长被安放于橡木船中...",
-      "full_text": "挪威奥斯堡与戈克斯塔德出土的维京船葬中，酋长被安放于橡木船中，身旁陪葬着武器与马匹。船首龙头雕刻威严，船体结构精巧，维京人的造船与航海技术令其纵横北大西洋三百年。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_056.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_056_0",
-        "archaeology_056_1",
-        "archaeology_056_2",
-        "archaeology_056_3",
-        "archaeology_056_4",
-        "archaeology_056_5"
-      ],
-      "order": 54,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_056_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Monte Albán Site",
+      "summary_en": "",
+      "full_text_en": "Monte Albán in Oaxaca, Mexico, was the capital of Zapotec civilization, with the hilltop plaza artificially leveled. Dancer reliefs depict sacrificed war captives, and the astronomical observatory precisely aligns with stellar movements. Monte Albán ruled from the mountaintop for a millennium and is the earliest mountaintop city in Mesoamerica."
     },
     {
       "id": "archaeology_057",
@@ -1231,7 +1046,10 @@
       ],
       "order": 55,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_057_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Viking Ship Burials",
+      "summary_en": "",
+      "full_text_en": "In the Viking ship burials unearthed at Oseberg and Gokstad in Norway, chieftains were laid in oak ships, accompanied by weapons and horses. Dragon-head carvings on the prows are imposing, and the hull structures are ingeniously crafted. Viking shipbuilding and navigation technology enabled them to dominate the North Atlantic for 300 years."
     },
     {
       "id": "archaeology_058",
@@ -1253,29 +1071,10 @@
       ],
       "order": 56,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_058_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
-    },
-    {
-      "id": "archaeology_059",
-      "title": "哥贝克力石阵",
-      "summary": "土耳其哥贝克力石阵距今一万两千年，是已知最古老的大型石砌建筑...",
-      "full_text": "土耳其哥贝克力石阵距今一万两千年，是已知最古老的大型石砌建筑。T形石柱上雕刻着狐狸与蛇的图案，建造者可能是尚未定居的狩猎采集者，这座祭祀建筑比农业革命更早，颠覆了文明起源的理论。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_059.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_059_0",
-        "archaeology_059_1",
-        "archaeology_059_2",
-        "archaeology_059_3",
-        "archaeology_059_4",
-        "archaeology_059_5"
-      ],
-      "order": 57,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_059_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Altamira Cave",
+      "summary_en": "",
+      "full_text_en": "The ceiling of Altamira Cave in Spain features over a dozen bison, with ochre-red bodies and bold black contour lines. When first discovered, these 15,000-year-old paintings were suspected of being forgeries, but carbon-14 dating later confirmed them as authentic Paleolithic masterpieces—the pinnacle of prehistoric art."
     },
     {
       "id": "archaeology_060",
@@ -1297,7 +1096,10 @@
       ],
       "order": 58,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_060_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Göbekli Tepe",
+      "summary_en": "",
+      "full_text_en": "Göbekli Tepe in Turkey dates back 12,000 years and is the oldest known large-scale stone construction. T-shaped pillars are carved with fox and snake motifs, and the builders may have been hunter-gatherers who had not yet settled. This ritual complex predates the agricultural revolution, overturning theories about the origins of civilization."
     },
     {
       "id": "archaeology_061",
@@ -1319,7 +1121,10 @@
       ],
       "order": 59,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_061_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
+      "chapter_id": "chapter_4",
+      "title_en": "Çatalhöyük",
+      "summary_en": "",
+      "full_text_en": "Çatalhöyük in Turkey is a large Neolithic settlement from 9,000 years ago, with houses packed tightly together and accessed through rooftops. Walls feature murals of bull hunts and volcanic eruptions, and obsidian trade made this a prosperous town. The dead were buried beneath the living quarters, keeping the deceased close to the living."
     },
     {
       "id": "archaeology_062",
@@ -1341,29 +1146,10 @@
       ],
       "order": 60,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_062_nonogram_pixel.jpg",
-      "chapter_id": "chapter_4"
-    },
-    {
-      "id": "archaeology_063",
-      "title": "古DNA技术",
-      "summary": "古DNA技术从骨骼中提取遗传信息，揭示了人类迁徙和演化的历史...",
-      "full_text": "古DNA技术从骨骼中提取遗传信息，揭示了人类迁徙和演化的历史。尼安德特人与智人的基因交流、美洲原住民的亚洲起源、中国南北方人群的遗传差异，DNA为考古学提供了全新的研究维度。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_063.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_063_0",
-        "archaeology_063_1",
-        "archaeology_063_2",
-        "archaeology_063_3",
-        "archaeology_063_4",
-        "archaeology_063_5"
-      ],
-      "order": 61,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_063_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_4",
+      "title_en": "Carbon-14 Dating",
+      "summary_en": "",
+      "full_text_en": "In 1949, Libby invented the carbon-14 dating method, using the decay of carbon-14 in organic materials to determine age. This method advanced archaeology from relative to absolute dating, with errors controllable within decades. Libby received the Nobel Prize in Chemistry for this work."
     },
     {
       "id": "archaeology_064",
@@ -1385,29 +1171,10 @@
       ],
       "order": 62,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_064_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
-    },
-    {
-      "id": "archaeology_065",
-      "title": "同位素分析",
-      "summary": "锶同位素分析能判断古人迁徙轨迹，氧同位素揭示古代气候变迁，碳...",
-      "full_text": "锶同位素分析能判断古人迁徙轨迹，氧同位素揭示古代气候变迁，碳氮同位素反映古人饮食结构。通过牙齿与骨骼的同位素分析，考古学家重建了个体的生命史，科技手段让骨骼开口讲述自己的故事。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_065.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_065_0",
-        "archaeology_065_1",
-        "archaeology_065_2",
-        "archaeology_065_3",
-        "archaeology_065_4",
-        "archaeology_065_5"
-      ],
-      "order": 63,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_065_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "DNA Archaeology",
+      "summary_en": "",
+      "full_text_en": "Ancient DNA technology extracts genetic information from bones, revealing the history of human migration and evolution. Gene flow between Neanderthals and Homo sapiens, the Asian origins of Native Americans, and genetic differences between northern and southern Chinese populations—DNA provides archaeology with an entirely new research dimension."
     },
     {
       "id": "archaeology_066",
@@ -1429,29 +1196,10 @@
       ],
       "order": 64,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_066_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
-    },
-    {
-      "id": "archaeology_067",
-      "title": "微痕分析",
-      "summary": "显微镜下石器刃部的微小磨痕揭示了工具的使用方式，切割肉类与加...",
-      "full_text": "显微镜下石器刃部的微小磨痕揭示了工具的使用方式，切割肉类与加工木材留下不同的微痕。实验考古复制石器并使用后对比微痕，远古工具的功能从猜测变为实证，微痕分析让沉默的石器开口说话。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_067.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_067_0",
-        "archaeology_067_1",
-        "archaeology_067_2",
-        "archaeology_067_3",
-        "archaeology_067_4",
-        "archaeology_067_5"
-      ],
-      "order": 65,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_067_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Dendrochronology",
+      "summary_en": "",
+      "full_text_en": "Trees grow one ring per year, with width recording that year's climate conditions. Douglas discovered that tree-ring sequences can be cross-dated, and dendrochronology achieves dating precision down to the exact year. The longest tree-ring sequence has been extended back 14,000 years, providing a high-precision absolute dating scale for archaeology and climatology."
     },
     {
       "id": "archaeology_068",
@@ -1473,7 +1221,10 @@
       ],
       "order": 66,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_068_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Ancient DNA Technology",
+      "summary_en": "",
+      "full_text_en": "Ancient DNA technology extracts genetic information from bones, revealing the history of human migration and evolution. Gene flow between Neanderthals and Homo sapiens, the Asian origins of Native Americans, and genetic differences between northern and southern Chinese populations—DNA provides archaeology with an entirely new research dimension."
     },
     {
       "id": "archaeology_069",
@@ -1495,7 +1246,10 @@
       ],
       "order": 67,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_069_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "3D Scanning and Digital Reconstruction",
+      "summary_en": "",
+      "full_text_en": "3D laser scanning creates digital models of artifacts with millimeter precision, and virtual reality technology allows vanished buildings to reappear on screen. Pre-fire scan data of Notre-Dame de Paris became the basis for restoration, and digital archaeology grants cultural heritage immortality in the virtual world."
     },
     {
       "id": "archaeology_070",
@@ -1517,7 +1271,10 @@
       ],
       "order": 68,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_070_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Isotope Analysis",
+      "summary_en": "",
+      "full_text_en": "Strontium isotope analysis can determine ancient migration patterns, oxygen isotopes reveal paleoclimate changes, and carbon-nitrogen isotopes reflect ancient dietary structures. Through isotope analysis of teeth and bones, archaeologists reconstruct individual life histories. Scientific methods make bones speak their own stories."
     },
     {
       "id": "archaeology_071",
@@ -1539,29 +1296,10 @@
       ],
       "order": 69,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_071_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
-    },
-    {
-      "id": "archaeology_072",
-      "title": "蛋白质组学考古",
-      "summary": "从陶器内壁残留物中提取古代蛋白质，鉴定出容器曾盛放的奶制品或...",
-      "full_text": "从陶器内壁残留物中提取古代蛋白质，鉴定出容器曾盛放的奶制品或肉类。骨骼胶原蛋白的分析揭示了古人的饮食与疾病，蛋白质组学为考古学提供了超越DNA的分子级信息，微观世界蕴含着宏观历史。",
-      "image": "res://assets/images/illustrations/archaeology/archaeology_072.jpg",
-      "image_grid": {
-        "x": 3,
-        "y": 2
-      },
-      "puzzles": [
-        "archaeology_072_0",
-        "archaeology_072_1",
-        "archaeology_072_2",
-        "archaeology_072_3",
-        "archaeology_072_4",
-        "archaeology_072_5"
-      ],
-      "order": 70,
-      "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_072_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Ground-Penetrating Radar",
+      "summary_en": "",
+      "full_text_en": "Ground-penetrating radar transmits electromagnetic waves into the ground and maps underground structures based on reflected signals. Archaeologists use GPR to locate tombs and buildings without excavation. The survey of Qin Shi Huang's underground palace is a successful application of GPR technology. Non-invasive detection is the future direction of archaeology."
     },
     {
       "id": "archaeology_073",
@@ -1583,7 +1321,10 @@
       ],
       "order": 71,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_073_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Pollen Analysis",
+      "summary_en": "",
+      "full_text_en": "Pollen and spores in lake sediments record changes in ancient vegetation, and pollen analysis reconstructs climate and ecological environments over millennia. The surge in cereal pollen at the origins of agriculture, the spread of weed pollen after deforestation—pollen is a chronicle written by nature."
     },
     {
       "id": "archaeology_074",
@@ -1605,7 +1346,10 @@
       ],
       "order": 72,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_074_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Thermoluminescence Dating",
+      "summary_en": "",
+      "full_text_en": "Ceramics release stored radiation energy in minerals when fired, and the energy reaccumulated afterward is proportional to burial time. Thermoluminescence dating can directly determine the firing date of pottery, with an error of approximately 5-10%. It is an important method for authenticating and dating ceramics."
     },
     {
       "id": "archaeology_075",
@@ -1627,7 +1371,10 @@
       ],
       "order": 73,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_075_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Archaeological GIS",
+      "summary_en": "",
+      "full_text_en": "Geographic Information Systems integrate site locations, topography, and artifact data on digital maps, with spatial analysis revealing settlement distribution patterns. The relationship between the rise and fall of sites within a river basin and changes in water systems, the spatial differentiation of social hierarchy in cemetery groups—GIS expands archaeology from points to surfaces."
     },
     {
       "id": "archaeology_076",
@@ -1649,7 +1396,10 @@
       ],
       "order": 74,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_076_nonogram_pixel.jpg",
-      "chapter_id": "chapter_5"
+      "chapter_id": "chapter_5",
+      "title_en": "Underwater Robot Archaeology",
+      "summary_en": "",
+      "full_text_en": "Deep-sea underwater robots carrying high-definition cameras and robotic arms dive to the seabed, discovering ancient shipwrecks at depths of thousands of meters. A 2,400-year-old ancient Greek merchant ship found in the Black Sea was perfectly preserved. Deep-water archaeology opens a new frontier for underwater archaeology, and the historical treasure house on the seabed awaits discovery."
     },
     {
       "id": "archaeology_077",
@@ -1671,7 +1421,10 @@
       ],
       "order": 75,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_077_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Proteomics in Archaeology",
+      "summary_en": "",
+      "full_text_en": "Ancient proteins extracted from residues on pottery interiors can identify whether vessels once held dairy products or meat. Analysis of bone collagen reveals ancient diets and diseases. Proteomics provides archaeology with molecular-level information beyond DNA—the microscopic world contains macroscopic history."
     },
     {
       "id": "archaeology_078",
@@ -1693,7 +1446,10 @@
       ],
       "order": 76,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_078_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Experimental Archaeology",
+      "summary_en": "",
+      "full_text_en": "Archaeologists personally replicate stone tools, fire pottery, and build houses, testing hypotheses about ancient technology through practice. How long does it take to fell a tree with a stone axe? How heavy a megalith can be moved using primitive methods? Experimental archaeology grounds theory in practice, understanding ancient wisdom and limitations through hands-on experience."
     },
     {
       "id": "archaeology_079",
@@ -1715,7 +1471,10 @@
       ],
       "order": 77,
       "pixel_image": "res://assets/images/illustrations/archaeology/archaeology_079_nonogram_pixel.jpg",
-      "chapter_id": "chapter_3"
+      "chapter_id": "chapter_3",
+      "title_en": "Public Archaeology",
+      "summary_en": "",
+      "full_text_en": "Archaeological sites are opened for public visits, and volunteers participate in excavations and artifact restoration. Museums use interactive exhibitions to tell archaeological stories, and social media livestreams excavation processes. Public archaeology bridges the gap between professionals and the public, making cultural heritage conservation a cause for all citizens."
     }
   ]
 }

@@ -4,23 +4,31 @@
   "picture_id": "chinese_heritage_010",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
       0,
       0,
       0,
-      0
+      1
     ],
     [
       0,
       0,
       0,
       0,
-      0
+      1
     ],
     [
       0,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
       0,
       1,
       1,
@@ -29,54 +37,49 @@
     [
       0,
       1,
-      1,
-      1,
-      1
-    ],
-    [
       0,
-      1,
       0,
-      1,
       1
     ]
   ],
   "row_clues": [
     [
-      0
+      1
     ],
     [
-      0
+      1
     ],
     [
-      3
-    ],
-    [
-      4
+      2
     ],
     [
       1,
-      2
+      3
+    ],
+    [
+      1,
+      1
     ]
   ],
   "col_clues": [
     [
-      0
+      1
+    ],
+    [
+      1
+    ],
+    [
+      1
     ],
     [
       2
     ],
     [
-      2
-    ],
-    [
-      3
-    ],
-    [
-      3
+      5
     ]
   ],
   "hint_cells": [],
+  "reasoning_steps": 25,
   "source_rect": {
     "x": 0,
     "y": 0,

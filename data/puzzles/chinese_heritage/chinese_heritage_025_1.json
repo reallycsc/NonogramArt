@@ -4,9 +4,10 @@
   "picture_id": "chinese_heritage_025",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
-      0,
+      1,
       0,
       0,
       0,
@@ -43,7 +44,7 @@
   ],
   "row_clues": [
     [
-      0
+      1
     ],
     [
       2
@@ -60,7 +61,7 @@
   ],
   "col_clues": [
     [
-      0
+      1
     ],
     [
       4
@@ -75,7 +76,13 @@
       1
     ]
   ],
-  "hint_cells": [],
+  "hint_cells": [
+    [
+      0,
+      4
+    ]
+  ],
+  "reasoning_steps": 21,
   "source_rect": {
     "x": 832,
     "y": 0,

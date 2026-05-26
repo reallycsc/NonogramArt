@@ -25,6 +25,7 @@
 [ext_resource type="Texture2D" uid="uid://cekeh1mjr0oaq" path="res://assets/images/ui/nonogram/switch_right_cross.png" id="17_0oa8t"]
 [ext_resource type="Theme" uid="uid://dm1u1qw4djtk5" path="res://resources/themes/main_theme.tres" id="20_m1ass"]
 [ext_resource type="PackedScene" uid="uid://d2sottgwh8mwg" path="res://scenes/help_popup.tscn" id="21_helppop"]
+[ext_resource type="PackedScene" uid="uid://8yq7jhts2jxh" path="res://scenes/exit_confirm_popup.tscn" id="22_exitconfirm"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_4avmy"]
 content_margin_left = 0.0
@@ -380,10 +381,10 @@ anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
-offset_left = -118.5
-offset_top = 250.0
-offset_right = 118.5
-offset_bottom = 360.0
+offset_left = -127.0
+offset_top = 260.0
+offset_right = 127.0
+offset_bottom = 385.0
 grow_horizontal = 2
 grow_vertical = 2
 theme = ExtResource("8_jmebj")
@@ -414,6 +415,9 @@ vertical_alignment = 1
 visible = false
 
 [node name="HelpPopup" parent="CanvasLayer" unique_id=998877665 instance=ExtResource("21_helppop")]
+visible = false
+
+[node name="ExitConfirmPopup" parent="CanvasLayer" unique_id=1410770863 instance=ExtResource("22_exitconfirm")]
 visible = false
 
 [node name="NonogramCamera" type="Camera2D" parent="." unique_id=407348352]

@@ -4,25 +4,19 @@
   "picture_id": "world_heritage_003",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
       0,
       0,
       0,
-      0
+      1
     ],
     [
-      0,
-      0,
-      0,
       1,
-      0
-    ],
-    [
       0,
       0,
-      1,
       1,
       0
     ],
@@ -32,6 +26,13 @@
       1,
       1,
       0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1
     ],
     [
       0,
@@ -43,16 +44,17 @@
   ],
   "row_clues": [
     [
-      0
+      1
     ],
     [
+      1,
       1
     ],
     [
       2
     ],
     [
-      2
+      4
     ],
     [
       3
@@ -60,10 +62,10 @@
   ],
   "col_clues": [
     [
-      0
+      1
     ],
     [
-      1
+      2
     ],
     [
       3
@@ -72,10 +74,12 @@
       4
     ],
     [
-      0
+      1,
+      1
     ]
   ],
   "hint_cells": [],
+  "reasoning_steps": 25,
   "source_rect": {
     "x": 426,
     "y": 0,
