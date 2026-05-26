@@ -4,6 +4,7 @@
   "picture_id": "chapter3_36_guangwu",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
@@ -34,11 +35,11 @@
       0
     ],
     [
-      1,
-      1,
-      1,
       0,
-      0
+      0,
+      0,
+      0,
+      1
     ]
   ],
   "row_clues": [
@@ -56,24 +57,25 @@
       4
     ],
     [
-      3
+      1
     ]
   ],
   "col_clues": [
     [
-      3
+      2
+    ],
+    [
+      1
     ],
     [
       2
     ],
     [
-      3
-    ],
-    [
       2
     ],
     [
-      3
+      3,
+      1
     ]
   ],
   "hint_cells": [],

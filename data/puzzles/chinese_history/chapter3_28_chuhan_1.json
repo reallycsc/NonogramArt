@@ -4,6 +4,7 @@
   "picture_id": "chapter3_28_chuhan",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
@@ -13,15 +14,15 @@
       1
     ],
     [
-      1,
+      0,
       0,
       1,
       1,
       0
     ],
     [
-      1,
-      1,
+      0,
+      0,
       1,
       0,
       0
@@ -46,11 +47,10 @@
       1
     ],
     [
-      1,
       2
     ],
     [
-      3
+      1
     ],
     [
       2,
@@ -63,10 +63,10 @@
   ],
   "col_clues": [
     [
-      4
+      2
     ],
     [
-      3
+      2
     ],
     [
       2

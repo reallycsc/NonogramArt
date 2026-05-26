@@ -4,19 +4,20 @@
   "picture_id": "chapter3_26_bingmayong",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
       1,
-      1,
-      1,
-      1
+      0,
+      0,
+      0
     ],
     [
       0,
       1,
       1,
-      0,
+      1,
       1
     ],
     [
@@ -43,11 +44,10 @@
   ],
   "row_clues": [
     [
-      4
+      1
     ],
     [
-      2,
-      1
+      4
     ],
     [
       2
@@ -68,14 +68,13 @@
       2
     ],
     [
+      2
+    ],
+    [
       3
     ],
     [
-      1,
-      2
-    ],
-    [
-      2
+      1
     ]
   ],
   "hint_cells": [],

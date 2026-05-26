@@ -4,6 +4,7 @@
   "picture_id": "war_military_046",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
@@ -30,14 +31,14 @@
       0,
       1,
       1,
-      1,
+      0,
       1
     ],
     [
       1,
       0,
       1,
-      0,
+      1,
       0
     ]
   ],
@@ -52,11 +53,12 @@
       1
     ],
     [
-      4
+      2,
+      1
     ],
     [
       1,
-      1
+      2
     ]
   ],
   "col_clues": [

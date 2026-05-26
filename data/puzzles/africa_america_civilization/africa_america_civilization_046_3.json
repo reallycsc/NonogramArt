@@ -4,13 +4,14 @@
   "picture_id": "africa_america_civilization_046",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
       0,
       1,
-      1,
-      1
+      0,
+      0
     ],
     [
       0,
@@ -43,7 +44,7 @@
   ],
   "row_clues": [
     [
-      3
+      1
     ],
     [
       2
@@ -70,14 +71,19 @@
       1
     ],
     [
-      2
+      1
     ],
     [
-      2
+      1
     ]
   ],
-  "hint_cells": [],
-  "reasoning_steps": 25,
+  "hint_cells": [
+    [
+      0,
+      4
+    ]
+  ],
+  "reasoning_steps": 21,
   "source_rect": {
     "x": 0,
     "y": 426,

@@ -4,79 +4,82 @@
   "picture_id": "economic_trade_049",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
       1,
       1,
       1,
       1
     ],
     [
-      1,
+      0,
       1,
       1,
       1,
       1
     ],
     [
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
       0,
       1,
-      0,
-      0,
+      1,
+      1,
       0
     ],
     [
       0,
       1,
       1,
-      0,
-      0
+      1,
+      1
     ]
   ],
   "row_clues": [
     [
-      5
-    ],
-    [
-      5
-    ],
-    [
-      2
-    ],
-    [
+      1,
       1
     ],
     [
-      2
-    ]
-  ],
-  "col_clues": [
+      4
+    ],
+    [
+      4
+    ],
     [
       3
     ],
     [
-      5
-    ],
+      4
+    ]
+  ],
+  "col_clues": [
     [
-      2,
       1
     ],
     [
-      2
+      4
     ],
     [
-      2
+      4
+    ],
+    [
+      4
+    ],
+    [
+      3,
+      1
     ]
   ],
   "hint_cells": [],
+  "reasoning_steps": 25,
   "source_rect": {
     "x": 426,
     "y": 0,

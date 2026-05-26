@@ -4,6 +4,7 @@
   "picture_id": "european_civilization_010",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
@@ -34,7 +35,7 @@
       0
     ],
     [
-      1,
+      0,
       1,
       0,
       0,
@@ -55,12 +56,12 @@
       1
     ],
     [
-      2
+      1
     ]
   ],
   "col_clues": [
     [
-      2
+      1
     ],
     [
       1
@@ -75,8 +76,21 @@
       1
     ]
   ],
-  "hint_cells": [],
-  "reasoning_steps": 25,
+  "hint_cells": [
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "reasoning_steps": 11,
   "source_rect": {
     "x": 852,
     "y": 0,

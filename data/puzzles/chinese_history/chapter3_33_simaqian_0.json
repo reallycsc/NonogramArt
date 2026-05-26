@@ -4,6 +4,7 @@
   "picture_id": "chapter3_33_simaqian",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
@@ -37,7 +38,7 @@
       0,
       0,
       0,
-      1,
+      0,
       1
     ]
   ],
@@ -55,7 +56,7 @@
       5
     ],
     [
-      2
+      1
     ]
   ],
   "col_clues": [
@@ -69,7 +70,7 @@
       1
     ],
     [
-      2
+      1
     ],
     [
       2

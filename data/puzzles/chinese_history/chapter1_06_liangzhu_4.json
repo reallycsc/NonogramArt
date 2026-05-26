@@ -4,13 +4,14 @@
   "picture_id": "chapter1_06_liangzhu",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       1,
       1,
       0,
       1,
-      1
+      0
     ],
     [
       0,
@@ -36,7 +37,7 @@
     [
       0,
       0,
-      0,
+      1,
       0,
       1
     ]
@@ -44,9 +45,6 @@
   "row_clues": [
     [
       2,
-      2
-    ],
-    [
       1
     ],
     [
@@ -56,6 +54,10 @@
       1
     ],
     [
+      1
+    ],
+    [
+      1,
       1
     ]
   ],
@@ -67,17 +69,22 @@
       1
     ],
     [
-      0
+      1
     ],
     [
       1
     ],
     [
-      5
+      4
     ]
   ],
-  "hint_cells": [],
-  "reasoning_steps": 25,
+  "hint_cells": [
+    [
+      4,
+      0
+    ]
+  ],
+  "reasoning_steps": 17,
   "source_rect": {
     "x": 426,
     "y": 426,

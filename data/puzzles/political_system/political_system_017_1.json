@@ -4,6 +4,7 @@
   "picture_id": "political_system_017",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
@@ -22,7 +23,7 @@
     [
       0,
       0,
-      0,
+      1,
       1,
       0
     ],
@@ -38,7 +39,7 @@
       1,
       0,
       1,
-      1
+      0
     ]
   ],
   "row_clues": [
@@ -49,15 +50,15 @@
       1
     ],
     [
+      2
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      2,
       1
-    ],
-    [
-      2,
-      2
-    ],
-    [
-      2,
-      2
     ]
   ],
   "col_clues": [
@@ -68,13 +69,13 @@
       2
     ],
     [
-      0
+      1
     ],
     [
       5
     ],
     [
-      2
+      1
     ]
   ],
   "hint_cells": [],

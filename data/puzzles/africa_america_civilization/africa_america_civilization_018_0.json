@@ -4,6 +4,7 @@
   "picture_id": "africa_america_civilization_018",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       1,
@@ -17,27 +18,27 @@
       1,
       1,
       1,
-      1
-    ],
-    [
-      0,
-      1,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      1
+      0
     ],
     [
       0,
       1,
       1,
       1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
       1
     ]
   ],
@@ -46,18 +47,17 @@
       1
     ],
     [
-      5
+      4
+    ],
+    [
+      3
+    ],
+    [
+      3
     ],
     [
       2,
       1
-    ],
-    [
-      1,
-      1
-    ],
-    [
-      4
     ]
   ],
   "col_clues": [
@@ -68,24 +68,17 @@
       4
     ],
     [
-      2,
-      1
-    ],
-    [
-      1,
-      1
-    ],
-    [
       4
-    ]
-  ],
-  "hint_cells": [
+    ],
     [
-      2,
-      0
+      3
+    ],
+    [
+      1
     ]
   ],
-  "reasoning_steps": 21,
+  "hint_cells": [],
+  "reasoning_steps": 25,
   "source_rect": {
     "x": 0,
     "y": 0,

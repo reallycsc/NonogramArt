@@ -4,58 +4,59 @@
   "picture_id": "european_civilization_045",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
-      0,
-      0,
-      0,
       1,
-      0
-    ],
-    [
-      0,
-      0,
+      1,
       1,
       1,
       1
     ],
     [
       0,
-      1,
-      1,
       0,
-      0
+      0,
+      1,
+      1
     ],
     [
       0,
-      1,
-      1,
       0,
-      0
+      0,
+      0,
+      1
     ],
     [
-      1,
-      1,
-      1,
       0,
-      0
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
     ]
   ],
   "row_clues": [
     [
+      5
+    ],
+    [
+      2
+    ],
+    [
       1
     ],
     [
-      3
+      1
     ],
     [
-      2
-    ],
-    [
-      2
-    ],
-    [
-      3
+      1
     ]
   ],
   "col_clues": [
@@ -63,25 +64,20 @@
       1
     ],
     [
-      3
+      1
     ],
     [
-      4
+      1
     ],
     [
       2
     ],
     [
-      1
+      5
     ]
   ],
-  "hint_cells": [
-    [
-      3,
-      3
-    ]
-  ],
-  "reasoning_steps": 11,
+  "hint_cells": [],
+  "reasoning_steps": 25,
   "source_rect": {
     "x": 426,
     "y": 0,

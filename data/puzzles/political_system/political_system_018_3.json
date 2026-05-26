@@ -4,27 +4,28 @@
   "picture_id": "political_system_018",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
       1,
       1,
       1,
-      1
+      0
     ],
     [
       0,
       0,
       1,
       1,
-      1
+      0
     ],
     [
       0,
       0,
       1,
       0,
-      1
+      0
     ],
     [
       1,
@@ -43,13 +44,12 @@
   ],
   "row_clues": [
     [
-      4
-    ],
-    [
       3
     ],
     [
-      1,
+      2
+    ],
+    [
       1
     ],
     [
@@ -75,20 +75,20 @@
       2
     ],
     [
-      4
+      1
     ]
   ],
   "hint_cells": [
     [
-      0,
-      0
+      1,
+      1
     ],
     [
       4,
       0
     ]
   ],
-  "reasoning_steps": 18,
+  "reasoning_steps": 11,
   "source_rect": {
     "x": 0,
     "y": 426,

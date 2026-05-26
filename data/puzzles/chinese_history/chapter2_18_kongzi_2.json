@@ -4,10 +4,11 @@
   "picture_id": "chapter2_18_kongzi",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       0,
-      0,
+      1,
       1,
       1,
       1
@@ -20,9 +21,9 @@
       0
     ],
     [
-      1,
-      1,
       0,
+      0,
+      1,
       0,
       0
     ],
@@ -43,13 +44,13 @@
   ],
   "row_clues": [
     [
-      3
+      4
     ],
     [
       1
     ],
     [
-      2
+      1
     ],
     [
       1,
@@ -62,14 +63,13 @@
   ],
   "col_clues": [
     [
-      3
+      2
     ],
     [
       1
     ],
     [
-      2,
-      2
+      5
     ],
     [
       1

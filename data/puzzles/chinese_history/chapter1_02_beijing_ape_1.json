@@ -4,6 +4,7 @@
   "picture_id": "chapter1_02_beijing_ape",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       1,
@@ -27,18 +28,18 @@
       1
     ],
     [
-      1,
-      1,
       0,
+      1,
+      1,
       1,
       1
     ],
     [
-      1,
-      1,
+      0,
       0,
       1,
-      1
+      1,
+      0
     ]
   ],
   "row_clues": [
@@ -53,29 +54,27 @@
       1
     ],
     [
-      2,
-      2
+      4
     ],
     [
-      2,
       2
     ]
   ],
   "col_clues": [
     [
-      5
-    ],
-    [
       3
-    ],
-    [
-      0
     ],
     [
       2
     ],
     [
-      3
+      2
+    ],
+    [
+      2
+    ],
+    [
+      2
     ]
   ],
   "hint_cells": [],

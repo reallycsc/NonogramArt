@@ -4,27 +4,28 @@
   "picture_id": "war_military_000",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       1,
       1,
       0,
       0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
       1
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0
     ],
     [
       0,
@@ -43,14 +44,13 @@
   ],
   "row_clues": [
     [
-      2,
-      1
+      2
     ],
     [
       1
     ],
     [
-      1
+      2
     ],
     [
       1
@@ -78,8 +78,13 @@
       1
     ]
   ],
-  "hint_cells": [],
-  "reasoning_steps": 25,
+  "hint_cells": [
+    [
+      2,
+      2
+    ]
+  ],
+  "reasoning_steps": 21,
   "source_rect": {
     "x": 426,
     "y": 426,

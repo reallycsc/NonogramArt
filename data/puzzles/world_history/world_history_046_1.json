@@ -4,6 +4,7 @@
   "picture_id": "world_history_046",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       1,
@@ -30,14 +31,14 @@
       0,
       1,
       1,
-      0,
+      1,
       0
     ],
     [
       1,
       0,
       0,
-      1,
+      0,
       1
     ]
   ],
@@ -53,11 +54,11 @@
       1
     ],
     [
-      2
+      3
     ],
     [
       1,
-      2
+      1
     ]
   ],
   "col_clues": [

@@ -4,10 +4,11 @@
   "picture_id": "world_history_040",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       1,
-      0,
+      1,
       0,
       1,
       0
@@ -28,22 +29,22 @@
     ],
     [
       0,
-      1,
+      0,
       1,
       1,
       1
     ],
     [
       0,
+      0,
       1,
       1,
-      1,
-      1
+      0
     ]
   ],
   "row_clues": [
     [
-      1,
+      2,
       1
     ],
     [
@@ -53,10 +54,10 @@
       1
     ],
     [
-      4
+      3
     ],
     [
-      4
+      2
     ]
   ],
   "col_clues": [
@@ -64,7 +65,6 @@
       1
     ],
     [
-      1,
       2
     ],
     [
@@ -75,16 +75,11 @@
       3
     ],
     [
-      2
-    ]
-  ],
-  "hint_cells": [
-    [
-      0,
       1
     ]
   ],
-  "reasoning_steps": 21,
+  "hint_cells": [],
+  "reasoning_steps": 25,
   "source_rect": {
     "x": 0,
     "y": 0,

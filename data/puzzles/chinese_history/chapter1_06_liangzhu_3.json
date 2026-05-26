@@ -4,18 +4,19 @@
   "picture_id": "chapter1_06_liangzhu",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
       1,
       1,
-      1,
+      0,
       1,
       1
     ],
     [
       0,
       1,
-      0,
+      1,
       0,
       0
     ],
@@ -43,10 +44,11 @@
   ],
   "row_clues": [
     [
-      5
+      2,
+      2
     ],
     [
-      1
+      2
     ],
     [
       1

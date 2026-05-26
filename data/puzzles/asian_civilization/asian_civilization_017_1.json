@@ -4,9 +4,10 @@
   "picture_id": "asian_civilization_017",
   "size": 5,
   "difficulty": "tutorial",
+  "subject": "density_gradient",
   "solution": [
     [
-      0,
+      1,
       0,
       0,
       0,
@@ -28,13 +29,13 @@
     ],
     [
       0,
-      1,
+      0,
       1,
       1,
       1
     ],
     [
-      1,
+      0,
       1,
       0,
       1,
@@ -43,6 +44,7 @@
   ],
   "row_clues": [
     [
+      1,
       1
     ],
     [
@@ -52,10 +54,10 @@
       2
     ],
     [
-      4
+      3
     ],
     [
-      2,
+      1,
       2
     ]
   ],
@@ -64,7 +66,7 @@
       1
     ],
     [
-      2
+      1
     ],
     [
       1
@@ -76,8 +78,13 @@
       5
     ]
   ],
-  "hint_cells": [],
-  "reasoning_steps": 25,
+  "hint_cells": [
+    [
+      0,
+      1
+    ]
+  ],
+  "reasoning_steps": 21,
   "source_rect": {
     "x": 426,
     "y": 0,
