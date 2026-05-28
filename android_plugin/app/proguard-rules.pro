@@ -1,0 +1,4 @@
+-keep class com.tds.** { *; }
+-keep class com.taptap.** { *; }
+-keep class com.tapsdk.** { *; }
+-keep class tds.androidx.** { *; }

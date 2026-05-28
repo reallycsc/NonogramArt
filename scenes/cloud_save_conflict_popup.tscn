@@ -1,0 +1,182 @@
+[gd_scene format=3 uid="uid://ieel6oah2af8"]
+
+[ext_resource type="Script" uid="uid://daairhhcut63o" path="res://scripts/ui/cloud_save_conflict_popup.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://cepqq41h8ot06" path="res://assets/images/ui/popup_panel/panel_bg_small.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://b4b7iwvl4hsdl" path="res://assets/images/ui/cancel_button.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://c66qupglt6mcq" path="res://assets/images/ui/cancel_button_pressed.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://bfr8qf5l72x86" path="res://assets/images/ui/cancel_button_hover.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://c7eln5ja8b1tn" path="res://assets/images/ui/finish_button.png" id="6_3tv1k"]
+[ext_resource type="Texture2D" uid="uid://cpcvvcw24mfk3" path="res://assets/images/ui/finish_button_pressed.png" id="7_dopir"]
+[ext_resource type="Texture2D" uid="uid://xsujywjxlaqh" path="res://assets/images/ui/finish_button_hover.png" id="8_w118e"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_Panel"]
+texture = ExtResource("2")
+texture_margin_left = 35.0
+texture_margin_top = 70.0
+texture_margin_right = 35.0
+texture_margin_bottom = 35.0
+
+[node name="CloudSaveConflictPopup" type="Control" unique_id=239063814]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1")
+
+[node name="DimOverlay" type="ColorRect" parent="." unique_id=1074379418]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.6)
+
+[node name="PanelContainer" type="Panel" parent="." unique_id=1731008794]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -220.0
+offset_top = -200.0
+offset_right = 220.0
+offset_bottom = 200.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(220, 180)
+theme_override_styles/panel = SubResource("StyleBoxTexture_Panel")
+
+[node name="TitleLabel" type="Label" parent="PanelContainer" unique_id=1798322068]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -120.0
+offset_top = 25.0
+offset_right = 120.0
+offset_bottom = 75.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(0.38, 0.15, 0.05, 1)
+theme_override_font_sizes/font_size = 32
+text = "存档冲突"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer" unique_id=1104286142]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -200.0
+offset_top = -110.0
+offset_right = 200.0
+offset_bottom = 83.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 10
+
+[node name="DescLabel" type="Label" parent="PanelContainer/VBoxContainer" unique_id=1132599031]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.45, 0.25, 0.08, 1)
+theme_override_font_sizes/font_size = 20
+text = "检测到本地存档与云存档不一致，请选择："
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3
+
+[node name="LocalInfo" type="Label" parent="PanelContainer/VBoxContainer" unique_id=1134270825]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.35, 0.55, 0.2, 1)
+theme_override_font_sizes/font_size = 20
+text = "本地存档：已完成 0 个数织
+2026-05-27 14:30:00"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="CloudInfo" type="Label" parent="PanelContainer/VBoxContainer" unique_id=1560604483]
+layout_mode = 2
+theme_override_colors/font_color = Color(0.2, 0.4, 0.7, 1)
+theme_override_font_sizes/font_size = 20
+text = "云存档：已完成 0 个数织
+2026-05-27 14:30:00"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ButtonContainer" type="HBoxContainer" parent="PanelContainer" unique_id=1528231931]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -310.0
+offset_top = -120.0
+offset_right = 310.0
+offset_bottom = -15.0
+grow_horizontal = 2
+grow_vertical = 0
+scale = Vector2(0.65, 0.65)
+pivot_offset_ratio = Vector2(0.5, 0.5)
+theme_override_constants/separation = 20
+alignment = 1
+
+[node name="LocalButton" type="TextureButton" parent="PanelContainer/ButtonContainer" unique_id=751047263]
+custom_minimum_size = Vector2(180, 52)
+layout_mode = 2
+texture_normal = ExtResource("3")
+texture_pressed = ExtResource("4")
+texture_hover = ExtResource("5")
+
+[node name="Label" type="Label" parent="PanelContainer/ButtonContainer/LocalButton" unique_id=1282437717]
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -182.30768
+offset_top = -29.071472
+offset_right = -45.318634
+offset_bottom = 23.928528
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.38, 0.23, 0.09, 1)
+theme_override_font_sizes/font_size = 28
+text = "本地存档"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="CloudButton" type="TextureButton" parent="PanelContainer/ButtonContainer" unique_id=838955580]
+custom_minimum_size = Vector2(180, 52)
+layout_mode = 2
+texture_normal = ExtResource("6_3tv1k")
+texture_pressed = ExtResource("7_dopir")
+texture_hover = ExtResource("8_w118e")
+
+[node name="Label" type="Label" parent="PanelContainer/ButtonContainer/CloudButton" unique_id=1496355942]
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -176.30768
+offset_top = -29.071411
+offset_right = -42.131653
+offset_bottom = 23.928589
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.25, 0.35, 0.13, 1)
+theme_override_font_sizes/font_size = 28
+text = "云存档"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[connection signal="pressed" from="PanelContainer/ButtonContainer/LocalButton" to="." method="_on_local_pressed"]
+[connection signal="pressed" from="PanelContainer/ButtonContainer/CloudButton" to="." method="_on_cloud_pressed"]

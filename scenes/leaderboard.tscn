@@ -1,0 +1,237 @@
+[gd_scene format=3 uid="uid://bu3guxhj605wh"]
+
+[ext_resource type="Script" uid="uid://cr4rkflobdnfs" path="res://scripts/ui/leaderboard.gd" id="1_script"]
+[ext_resource type="Texture2D" uid="uid://d0e7a2oyv3kv1" path="res://assets/images/ui/leaderboard/leaderboard_bg.png" id="2_jfen3"]
+[ext_resource type="Texture2D" uid="uid://2ppd5xqt2ibh" path="res://assets/images/ui/popup_panel/close_button.png" id="3_close"]
+[ext_resource type="Texture2D" uid="uid://bjhpcpn26ycwe" path="res://assets/images/ui/popup_panel/close_button_pressed.png" id="4_close_pressed"]
+[ext_resource type="Texture2D" uid="uid://d4ed11i4vjq8i" path="res://assets/images/ui/popup_panel/close_button_hover.png" id="5_close_hover"]
+[ext_resource type="Texture2D" uid="uid://dt3hdck5ayag" path="res://assets/images/ui/leaderboard/tab.png" id="6_ldk02"]
+[ext_resource type="Texture2D" uid="uid://cepa12eujhtqj" path="res://assets/images/ui/leaderboard/tab_pressed.png" id="7_sg475"]
+
+[node name="LeaderboardPopup" type="Control" unique_id=741087022]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_script")
+metadata/_edit_vertical_guides_ = [671.0]
+metadata/_edit_horizontal_guides_ = [134.0]
+
+[node name="DimOverlay" type="ColorRect" parent="." unique_id=244038443]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.8)
+
+[node name="PanelContainer" type="TextureRect" parent="." unique_id=1454021709]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -310.0
+offset_top = -360.0
+offset_right = 310.0
+offset_bottom = 360.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(310, 350)
+texture = ExtResource("2_jfen3")
+
+[node name="CloseButton" type="TextureButton" parent="PanelContainer" unique_id=124445733]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -77.0
+offset_top = -37.5
+offset_right = 12.0
+offset_bottom = 50.5
+grow_horizontal = 0
+texture_normal = ExtResource("3_close")
+texture_pressed = ExtResource("4_close_pressed")
+texture_hover = ExtResource("5_close_hover")
+
+[node name="TitleLabel" type="Label" parent="PanelContainer" unique_id=1228322355]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -80.0
+offset_top = 65.0
+offset_right = 80.0
+offset_bottom = 132.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(0.38, 0.15, 0.05, 1)
+theme_override_font_sizes/font_size = 48
+text = "排行榜"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="TabBar" type="HBoxContainer" parent="PanelContainer" unique_id=2140534344]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -280.0
+offset_top = 207.0
+offset_right = 264.0
+offset_bottom = 267.0
+grow_horizontal = 2
+theme_override_constants/separation = 10
+alignment = 1
+
+[node name="GlobalTab" type="TextureButton" parent="PanelContainer/TabBar" unique_id=1529486641]
+layout_mode = 2
+toggle_mode = true
+button_pressed = true
+texture_normal = ExtResource("6_ldk02")
+texture_pressed = ExtResource("7_sg475")
+texture_hover = ExtResource("6_ldk02")
+
+[node name="Label" type="Label" parent="PanelContainer/TabBar/GlobalTab" unique_id=194291276]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -23.0
+offset_top = -14.0
+offset_right = 23.0
+offset_bottom = 14.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_outline_color = Color(0.8039216, 0.4509804, 0.043137256, 1)
+theme_override_constants/outline_size = 10
+theme_override_font_sizes/font_size = 26
+text = "全球排行"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="FriendsTab" type="TextureButton" parent="PanelContainer/TabBar" unique_id=1354493224]
+layout_mode = 2
+toggle_mode = true
+texture_normal = ExtResource("6_ldk02")
+texture_pressed = ExtResource("7_sg475")
+texture_hover = ExtResource("6_ldk02")
+
+[node name="Label" type="Label" parent="PanelContainer/TabBar/FriendsTab" unique_id=1337034181]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -23.0
+offset_top = -14.0
+offset_right = 23.0
+offset_bottom = 14.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.31764707, 0.1882353, 0.078431375, 1)
+theme_override_font_sizes/font_size = 26
+text = "好友排行"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="RegionalTab" type="TextureButton" parent="PanelContainer/TabBar" unique_id=332204401]
+visible = false
+layout_mode = 2
+toggle_mode = true
+texture_normal = ExtResource("6_ldk02")
+texture_pressed = ExtResource("7_sg475")
+texture_hover = ExtResource("6_ldk02")
+
+[node name="Label" type="Label" parent="PanelContainer/TabBar/RegionalTab" unique_id=51655205]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -23.0
+offset_top = -14.0
+offset_right = 23.0
+offset_bottom = 14.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.31764707, 0.1882353, 0.078431375, 1)
+theme_override_font_sizes/font_size = 26
+text = "地区排行"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="RegionButton" type="OptionButton" parent="PanelContainer" unique_id=829751480]
+custom_minimum_size = Vector2(140, 32)
+layout_mode = 0
+offset_left = 36.0
+offset_top = 279.0
+offset_right = 259.0
+offset_bottom = 313.0
+theme_override_font_sizes/font_size = 16
+
+[node name="RegionLabel" type="Label" parent="PanelContainer/RegionButton" unique_id=292161340]
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = 6.0
+offset_top = -12.0
+offset_right = 30.0
+offset_bottom = 12.0
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.35, 0.28, 0.2, 1)
+theme_override_font_sizes/font_size = 17
+text = "📍"
+
+[node name="ScrollContainer" type="ScrollContainer" parent="PanelContainer" unique_id=1403056485]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 22.0
+offset_top = 323.5
+offset_right = -25.0
+offset_bottom = -118.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ListContainer" type="VBoxContainer" parent="PanelContainer/ScrollContainer" unique_id=1030215387]
+layout_mode = 2
+
+[node name="MyRankContainer" type="Control" parent="PanelContainer" unique_id=1285996499]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 23.0
+offset_top = -114.0
+offset_right = -21.0
+offset_bottom = -54.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="RefreshHint" type="Label" parent="PanelContainer" unique_id=1613904722]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -33.0
+offset_bottom = -7.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_colors/font_color = Color(0.45, 0.38, 0.3, 1)
+theme_override_font_sizes/font_size = 14
+text = "排行榜每10分钟更新一次"
+horizontal_alignment = 1
+vertical_alignment = 1

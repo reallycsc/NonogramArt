@@ -7,13 +7,17 @@
 [ext_resource type="Texture2D" uid="uid://cslcb7sunfd8l" path="res://assets/images/ui/main/main_start_btn_pressed.png" id="4_jk1qb"]
 [ext_resource type="Texture2D" uid="uid://ce1klend3xktj" path="res://assets/images/ui/main/main_start_btn.png" id="4_oa1go"]
 [ext_resource type="Texture2D" uid="uid://b6ppmhvcclx4l" path="res://assets/images/ui/main/main_start_btn_hover.png" id="5_5dd4i"]
-[ext_resource type="Texture2D" uid="uid://dcasia28k6lo6" path="res://assets/images/ui/main/main_setting_btn.png" id="6_lgwnu"]
-[ext_resource type="Texture2D" uid="uid://dpl27cfsl1lob" path="res://assets/images/ui/main/main_setting_btn_pressed.png" id="7_flqon"]
-[ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="8_rcqid"]
 [ext_resource type="Theme" uid="uid://dm1u1qw4djtk5" path="res://resources/themes/main_theme.tres" id="9_5dd4i"]
 [ext_resource type="PackedScene" uid="uid://sb2u2ok8lge" path="res://scenes/settings_popup.tscn" id="9_settings"]
 [ext_resource type="PackedScene" uid="uid://8yq7jhts2jxh" path="res://scenes/exit_confirm_popup.tscn" id="10_exit_popup"]
+[ext_resource type="Texture2D" uid="uid://dvdkf88g8e6je" path="res://assets/images/ui/taptap/taptap_login_button_pressed.png" id="11_j7ex8"]
+[ext_resource type="PackedScene" uid="uid://brqphj3x2e85j" path="res://scenes/privacy_popup.tscn" id="11_privacy"]
+[ext_resource type="Texture2D" uid="uid://cmpswa7uvp24l" path="res://assets/images/ui/setting_btn.png" id="12_j7ex8"]
 [ext_resource type="VideoStream" uid="uid://cr54ov0ww52cm" path="res://assets/images/ui/main/main_bg_landscape.ogv" id="13_1ajci"]
+[ext_resource type="Texture2D" uid="uid://qsqoworeoa6r" path="res://assets/images/ui/setting_btn_pressed.png" id="13_a8gd2"]
+[ext_resource type="Texture2D" uid="uid://ckoaiygvo51qs" path="res://assets/images/ui/setting_btn_hover.png" id="14_hstxw"]
+[ext_resource type="Texture2D" uid="uid://bov1dy0u1cycy" path="res://assets/images/ui/taptap/taptap_login_button.png" id="16_5pajh"]
+[ext_resource type="PackedScene" uid="uid://ieel6oah2af8" path="res://scenes/cloud_save_conflict_popup.tscn" id="17_cloud_conflict"]
 
 [node name="MainMenu" type="Control" unique_id=2008341208]
 layout_mode = 3
@@ -47,6 +51,7 @@ autoplay = true
 loop = true
 
 [node name="LandscapeUI" type="Control" parent="." unique_id=611614353]
+visible = false
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -106,6 +111,7 @@ theme = ExtResource("9_5dd4i")
 show_percentage = false
 
 [node name="StartButton" type="TextureButton" parent="." unique_id=1587805908]
+visible = false
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -146,21 +152,38 @@ text = "开始游戏"
 horizontal_alignment = 1
 vertical_alignment = 1
 
+[node name="LoginButton" type="TextureButton" parent="." unique_id=1964189943]
+visible = false
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -185.0
+offset_top = 160.0
+offset_right = 185.0
+offset_bottom = 230.0
+grow_horizontal = 2
+grow_vertical = 2
+texture_normal = ExtResource("16_5pajh")
+texture_pressed = ExtResource("11_j7ex8")
+texture_hover = ExtResource("16_5pajh")
+
 [node name="SettingsButton" type="TextureButton" parent="." unique_id=490758039]
 layout_mode = 1
 anchors_preset = 1
 anchor_left = 1.0
 anchor_right = 1.0
-offset_left = -182.0
-offset_top = 20.0
+offset_left = -113.0
+offset_top = 6.0
 offset_right = -20.0
-offset_bottom = 183.0
+offset_bottom = 99.0
 grow_horizontal = 0
-scale = Vector2(0.6, 0.6)
-pivot_offset_ratio = Vector2(1, 0)
-texture_normal = ExtResource("6_lgwnu")
-texture_pressed = ExtResource("7_flqon")
-texture_hover = ExtResource("8_rcqid")
+pivot_offset_ratio = Vector2(0.5, 0.5)
+texture_normal = ExtResource("12_j7ex8")
+texture_pressed = ExtResource("13_a8gd2")
+texture_hover = ExtResource("14_hstxw")
 
 [node name="SettingsPopup" parent="." unique_id=549195619 instance=ExtResource("9_settings")]
 visible = false
@@ -170,5 +193,13 @@ layout_mode = 1
 visible = false
 layout_mode = 1
 
+[node name="PrivacyPopup" parent="." unique_id=131345902 instance=ExtResource("11_privacy")]
+visible = false
+layout_mode = 1
+
+[node name="CloudSaveConflictPopup" parent="." unique_id=1956514697 instance=ExtResource("17_cloud_conflict")]
+layout_mode = 1
+
 [connection signal="pressed" from="StartButton" to="." method="_on_start_pressed"]
+[connection signal="pressed" from="LoginButton" to="." method="_on_login_pressed"]
 [connection signal="pressed" from="SettingsButton" to="." method="_on_settings_pressed"]

@@ -12,6 +12,7 @@ extends Control
 @onready var language_option: OptionButton = $PanelContainer/VBoxContainer/LanguageContainer/LanguageOptionButton
 @onready var language_label: Label = $PanelContainer/VBoxContainer/LanguageContainer/LanguageLabel
 @onready var auto_rotate_check: CheckButton = $PanelContainer/VBoxContainer/AutoRotateContainer/AutoRotateCheckButton
+@onready var user_id_label: Label = $PanelContainer/UserIdLabel
 
 func _ready() -> void:
 	visible = false
@@ -38,13 +39,14 @@ func show_settings() -> void:
 	auto_rotate_check.button_pressed = GameManager.settings.get("auto_rotate", true)
 	language_option.selected = GameManager.current_language
 	_update_value_labels()
+	_update_user_id_label()
 	visible = true
 	panel.scale = Vector2(0.8, 0.8)
 	panel.modulate.a = 0.0
 	dim_overlay.color = Color(0, 0, 0, 0.0)
 	var tween = create_tween()
 	tween.set_parallel(true)
-	tween.tween_property(dim_overlay, "color", Color(0, 0, 0, 0.6), 0.3)
+	tween.tween_property(dim_overlay, "color", Color(0, 0, 0, 0.8), 0.3)
 	tween.tween_property(panel, "scale", Vector2.ONE, 0.3).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
 	tween.tween_property(panel, "modulate:a", 1.0, 0.2)
 
@@ -105,6 +107,20 @@ func _on_auto_rotate_toggled(enabled: bool) -> void:
 	GameManager.settings["auto_rotate"] = enabled
 	GameManager.save_game()
 	AudioManager.play_sfx("click")
+
+func _update_user_id_label() -> void:
+	if not user_id_label:
+		return
+	if TapTapManager.is_available() and TapTapManager.is_logged_in():
+		var user_name = TapTapManager.get_user_name()
+		var display_id = TapTapManager.get_display_user_id()
+		if not display_id.is_empty():
+			if not user_name.is_empty():
+				user_id_label.text = "%s  ID: %s" % [user_name, display_id]
+			else:
+				user_id_label.text = "ID: %s" % display_id
+			return
+	user_id_label.text = ""
 
 func _unhandled_input(event: InputEvent) -> void:
 	if visible and event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:

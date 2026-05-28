@@ -4,14 +4,10 @@
 [ext_resource type="Texture2D" uid="uid://gcstd03niqkb" path="res://assets/images/ui/bookshelf/bookshelf_bg.jpg" id="2_dfexf"]
 [ext_resource type="VideoStream" uid="uid://oxr1qms1o1qk" path="res://assets/images/ui/bookshelf/bookshelf_bg.ogv" id="3_0gvcf"]
 [ext_resource type="Texture2D" uid="uid://bb0swdnygkro7" path="res://assets/images/ui/back_button.png" id="3_ma18u"]
-[ext_resource type="PackedScene" uid="uid://chgcpflkirnwe" path="res://scenes/book_button.tscn" id="3_w3vyw"]
 [ext_resource type="Texture2D" uid="uid://dl21gtkbq8vbh" path="res://assets/images/ui/back_button_pressed.png" id="4_g0x57"]
 [ext_resource type="Texture2D" uid="uid://b0i3m271x717t" path="res://assets/images/ui/back_button_hover.png" id="5_yqlnh"]
-[ext_resource type="Texture2D" uid="uid://dcasia28k6lo6" path="res://assets/images/ui/main/main_setting_btn.png" id="6_g0x57"]
 [ext_resource type="Texture2D" uid="uid://cfkewvj5ro3aa" path="res://assets/images/ui/bookshelf/item1.png" id="7_0gvcf"]
-[ext_resource type="Texture2D" uid="uid://dpl27cfsl1lob" path="res://assets/images/ui/main/main_setting_btn_pressed.png" id="7_yqlnh"]
 [ext_resource type="Texture2D" uid="uid://b7homh67wwt7s" path="res://assets/images/ui/bookshelf/item2.png" id="8_2nosd"]
-[ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="8_nup8r"]
 [ext_resource type="Texture2D" uid="uid://djyd77yv2shj3" path="res://assets/images/ui/bookshelf/item3.png" id="9_h6vwf"]
 [ext_resource type="Texture2D" uid="uid://4oad7iey6f1f" path="res://assets/images/ui/left_btn.png" id="9_pnj34"]
 [ext_resource type="PackedScene" uid="uid://sb2u2ok8lge" path="res://scenes/settings_popup.tscn" id="9_settings"]
@@ -20,10 +16,16 @@
 [ext_resource type="Texture2D" uid="uid://hjb0wm04g805" path="res://assets/images/ui/left_btn_pressed.png" id="10_w3vyw"]
 [ext_resource type="Texture2D" uid="uid://byoi71dxqsf1j" path="res://assets/images/ui/left_btn_hover.png" id="11_kiyxp"]
 [ext_resource type="Texture2D" uid="uid://bc8n0frno81um" path="res://assets/images/ui/right_btn.png" id="12_ol580"]
+[ext_resource type="Texture2D" uid="uid://cmpswa7uvp24l" path="res://assets/images/ui/setting_btn.png" id="13_h6vwf"]
 [ext_resource type="Texture2D" uid="uid://chtsxgh2gs2js" path="res://assets/images/ui/right_btn_pressed.png" id="13_vybtj"]
 [ext_resource type="Texture2D" uid="uid://dlhx7s1qgcvjf" path="res://assets/images/ui/right_btn_hover.png" id="14_gjber"]
+[ext_resource type="Texture2D" uid="uid://qsqoworeoa6r" path="res://assets/images/ui/setting_btn_pressed.png" id="14_h6irh"]
+[ext_resource type="Texture2D" uid="uid://ckoaiygvo51qs" path="res://assets/images/ui/setting_btn_hover.png" id="15_xujt7"]
 [ext_resource type="Texture2D" uid="uid://bj7thwo8d2e1i" path="res://assets/images/ui/bookshelf/bookshelf_bg_landscape.jpg" id="17_kiyxp"]
 [ext_resource type="PackedScene" uid="uid://8yq7jhts2jxh" path="res://scenes/exit_confirm_popup.tscn" id="20_exit_popup"]
+[ext_resource type="Texture2D" uid="uid://b7653fdpfk7wl" path="res://assets/images/ui/leaderboard_button.png" id="24_h6vwf"]
+[ext_resource type="Texture2D" uid="uid://cmcexxpm2vd4u" path="res://assets/images/ui/leaderboard_button_pressed.png" id="25_h6irh"]
+[ext_resource type="Texture2D" uid="uid://l1b0b5wyhlby" path="res://assets/images/ui/leaderboard_button_hover.png" id="26_xujt7"]
 
 [node name="BookShelf" type="Control" unique_id=1605551044]
 layout_mode = 3
@@ -33,7 +35,7 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_dfexf")
-metadata/_edit_horizontal_guides_ = [35.0]
+metadata/_edit_horizontal_guides_ = [14.0, 87.0]
 
 [node name="PortraitUI" type="Control" parent="." unique_id=768950018]
 layout_mode = 1
@@ -63,10 +65,10 @@ layout_mode = 1
 anchors_preset = 5
 anchor_left = 0.5
 anchor_right = 0.5
-offset_left = -117.0
-offset_top = 161.0
-offset_right = 133.0
-offset_bottom = 228.0
+offset_left = -102.0
+offset_top = 162.0
+offset_right = 118.0
+offset_bottom = 229.0
 grow_horizontal = 2
 pivot_offset_ratio = Vector2(0.5, 0.5)
 theme_override_constants/line_spacing = -10
@@ -140,46 +142,25 @@ layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
 
-[node name="BookButton" parent="PortraitUI/VBoxContainer/HBoxContainer" unique_id=1599415490 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
-[node name="BookButton2" parent="PortraitUI/VBoxContainer/HBoxContainer" unique_id=406463641 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
-[node name="BookButton3" parent="PortraitUI/VBoxContainer/HBoxContainer" unique_id=625262378 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
 [node name="HBoxContainer2" type="HBoxContainer" parent="PortraitUI/VBoxContainer" unique_id=246378946]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
-
-[node name="BookButton" parent="PortraitUI/VBoxContainer/HBoxContainer2" unique_id=1341050979 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
 
 [node name="HBoxContainer3" type="HBoxContainer" parent="PortraitUI/VBoxContainer" unique_id=622045638]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
 
-[node name="BookButton" parent="PortraitUI/VBoxContainer/HBoxContainer3" unique_id=1901207159 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
 [node name="HBoxContainer4" type="HBoxContainer" parent="PortraitUI/VBoxContainer" unique_id=2019333368]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
 
-[node name="BookButton" parent="PortraitUI/VBoxContainer/HBoxContainer4" unique_id=566111432 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
 [node name="HBoxContainer5" type="HBoxContainer" parent="PortraitUI/VBoxContainer" unique_id=1025264229]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
-
-[node name="BookButton" parent="PortraitUI/VBoxContainer/HBoxContainer5" unique_id=1012347652 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
 
 [node name="LandscapeUI" type="Control" parent="." unique_id=511593846]
 visible = false
@@ -210,16 +191,18 @@ layout_mode = 1
 anchors_preset = 5
 anchor_left = 0.5
 anchor_right = 0.5
-offset_left = -96.0
-offset_top = 87.0
-offset_right = 96.0
-offset_bottom = 154.0
+offset_left = -70.0
+offset_top = 95.0
+offset_right = 70.0
+offset_bottom = 135.0
 grow_horizontal = 2
 pivot_offset = Vector2(80, 28)
-theme_override_font_sizes/font_size = 28
+theme_override_constants/line_spacing = -10
+theme_override_font_sizes/font_size = 20
 text = "书架标题"
 horizontal_alignment = 1
 vertical_alignment = 1
+autowrap_mode = 3
 
 [node name="Items" type="Control" parent="LandscapeUI" unique_id=1801819966]
 layout_mode = 1
@@ -294,57 +277,32 @@ layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
 
-[node name="BookButton" parent="LandscapeUI/VBoxContainer/HBoxContainer" unique_id=1240677742 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
-[node name="BookButton2" parent="LandscapeUI/VBoxContainer/HBoxContainer" unique_id=997476703 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
-[node name="BookButton3" parent="LandscapeUI/VBoxContainer/HBoxContainer" unique_id=428290134 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
-[node name="BookButton4" parent="LandscapeUI/VBoxContainer/HBoxContainer" unique_id=668372935 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
 [node name="HBoxContainer2" type="HBoxContainer" parent="LandscapeUI/VBoxContainer" unique_id=130159332]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
-
-[node name="BookButton" parent="LandscapeUI/VBoxContainer/HBoxContainer2" unique_id=35948364 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
 
 [node name="HBoxContainer3" type="HBoxContainer" parent="LandscapeUI/VBoxContainer" unique_id=1547817799]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
 
-[node name="BookButton" parent="LandscapeUI/VBoxContainer/HBoxContainer3" unique_id=2052156414 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
 [node name="HBoxContainer4" type="HBoxContainer" parent="LandscapeUI/VBoxContainer" unique_id=1049987518]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
-
-[node name="BookButton" parent="LandscapeUI/VBoxContainer/HBoxContainer4" unique_id=1817627158 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
 
 [node name="HBoxContainer5" type="HBoxContainer" parent="LandscapeUI/VBoxContainer" unique_id=209914053]
 layout_mode = 2
 theme_override_constants/separation = -25
 alignment = 1
 
-[node name="BookButton" parent="LandscapeUI/VBoxContainer/HBoxContainer5" unique_id=1645397669 instance=ExtResource("3_w3vyw")]
-layout_mode = 2
-
 [node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=595997228]
 
 [node name="BackButton" type="TextureButton" parent="CanvasLayer" unique_id=1101469608]
 offset_left = 20.0
-offset_top = 20.0
 offset_right = 122.0
-offset_bottom = 124.0
+offset_bottom = 104.0
 texture_normal = ExtResource("3_ma18u")
 texture_pressed = ExtResource("4_g0x57")
 texture_hover = ExtResource("5_yqlnh")
@@ -353,16 +311,15 @@ texture_hover = ExtResource("5_yqlnh")
 anchors_preset = 1
 anchor_left = 1.0
 anchor_right = 1.0
-offset_left = -182.0
-offset_top = 20.0
+offset_left = -113.0
+offset_top = 6.0
 offset_right = -20.0
-offset_bottom = 183.0
+offset_bottom = 99.0
 grow_horizontal = 0
-scale = Vector2(0.6, 0.6)
-pivot_offset_ratio = Vector2(1, 0)
-texture_normal = ExtResource("6_g0x57")
-texture_pressed = ExtResource("7_yqlnh")
-texture_hover = ExtResource("8_nup8r")
+pivot_offset_ratio = Vector2(0.5, 0.5)
+texture_normal = ExtResource("13_h6vwf")
+texture_pressed = ExtResource("14_h6irh")
+texture_hover = ExtResource("15_xujt7")
 
 [node name="LeftButton" type="TextureButton" parent="CanvasLayer" unique_id=158418815]
 anchors_preset = 4
@@ -391,6 +348,51 @@ texture_normal = ExtResource("12_ol580")
 texture_pressed = ExtResource("13_vybtj")
 texture_hover = ExtResource("14_gjber")
 
+[node name="LeaderboardButton" type="TextureButton" parent="CanvasLayer" unique_id=1343971007]
+offset_left = 115.00001
+offset_top = -8.0
+offset_right = 376.0
+offset_bottom = 107.0
+scale = Vector2(0.93, 0.93)
+pivot_offset_ratio = Vector2(0.5, 0.5)
+texture_normal = ExtResource("24_h6vwf")
+texture_pressed = ExtResource("25_h6irh")
+texture_hover = ExtResource("26_xujt7")
+
+[node name="Label" type="Label" parent="CanvasLayer/LeaderboardButton" unique_id=551529849]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -18.0
+offset_top = 28.0
+offset_right = 62.0
+offset_bottom = 56.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(0.3647059, 0.20392157, 0.08627451, 1)
+text = "我的排名"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="MyRank" type="Label" parent="CanvasLayer/LeaderboardButton" unique_id=250206987]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -26.0
+offset_top = -58.0
+offset_right = 70.0
+offset_bottom = -30.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_colors/font_color = Color(0.3647059, 0.20392157, 0.08627451, 1)
+theme_override_font_sizes/font_size = 18
+text = "杭州：9999"
+horizontal_alignment = 1
+vertical_alignment = 1
+
 [node name="SettingsPopup" parent="CanvasLayer" unique_id=1721136415 instance=ExtResource("9_settings")]
 visible = false
 
@@ -401,3 +403,4 @@ visible = false
 [connection signal="pressed" from="CanvasLayer/SettingsButton" to="." method="_on_settings_pressed"]
 [connection signal="pressed" from="CanvasLayer/LeftButton" to="." method="_on_left_button_pressed"]
 [connection signal="pressed" from="CanvasLayer/RightButton" to="." method="_on_right_button_pressed"]
+[connection signal="pressed" from="CanvasLayer/LeaderboardButton" to="." method="_on_leaderboard_pressed"]

@@ -1,0 +1,906 @@
+{
+  "total_albums": 66,
+  "duplicate_count": 100,
+  "duplicates": [
+    {
+      "album1": "亚洲文明史",
+      "album2": "平原与盆地",
+      "album1_id": "03_asian_civilization",
+      "album2_id": "24_plains_basins",
+      "topic1": "印度河畔的古城",
+      "topic2": "印度河平原古城",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "亚洲文明史",
+      "album2": "政治与制度史",
+      "album1_id": "03_asian_civilization",
+      "album2_id": "07_political_system",
+      "topic1": "苏美尔城邦的崛起",
+      "topic2": "苏美尔城邦的政治",
+      "similarity": 0.75
+    },
+    {
+      "album1": "亚洲文明史",
+      "album2": "世界文化遗产",
+      "album1_id": "03_asian_civilization",
+      "album2_id": "09_world_heritage",
+      "topic1": "波斯波利斯宫殿",
+      "topic2": "波斯波利斯",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "亚洲文明史",
+      "album2": "宗教信仰",
+      "album1_id": "03_asian_civilization",
+      "album2_id": "46_religion",
+      "topic1": "琐罗亚斯德教的火坛",
+      "topic2": "琐罗亚斯德教",
+      "similarity": 0.8
+    },
+    {
+      "album1": "亚洲文明史",
+      "album2": "世界文化遗产",
+      "album1_id": "03_asian_civilization",
+      "album2_id": "09_world_heritage",
+      "topic1": "爪哇的婆罗浮屠",
+      "topic2": "婆罗浮屠",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "亚洲文明史",
+      "album2": "非洲与美洲文明史",
+      "album1_id": "03_asian_civilization",
+      "album2_id": "05_africa_america_civilization",
+      "topic1": "中亚的伊斯兰化",
+      "topic2": "非洲的伊斯兰化",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "非洲与美洲文明史",
+      "album2": "建筑艺术",
+      "album1_id": "05_africa_america_civilization",
+      "album2_id": "17_architecture",
+      "topic1": "特奥蒂瓦坎的太阳金字塔",
+      "topic2": "特奥蒂瓦坎太阳金字塔",
+      "similarity": 0.9523809523809523
+    },
+    {
+      "album1": "非洲与美洲文明史",
+      "album2": "摄影艺术",
+      "album1_id": "05_africa_america_civilization",
+      "album2_id": "16_photography",
+      "topic1": "卢旺达大屠杀",
+      "topic2": "纳切威卢旺达大屠杀",
+      "similarity": 0.8
+    },
+    {
+      "album1": "非洲与美洲文明史",
+      "album2": "自然保护区",
+      "album1_id": "05_africa_america_civilization",
+      "album2_id": "30_nature_reserves",
+      "topic1": "亚马逊雨林的危机",
+      "topic2": "亚马逊雨林保",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "经济与贸易史",
+      "album2": "平原与盆地",
+      "album1_id": "08_economic_trade",
+      "album2_id": "24_plains_basins",
+      "topic1": "美索不达米亚商业",
+      "topic2": "美索不达米亚平原",
+      "similarity": 0.75
+    },
+    {
+      "album1": "经济与贸易史",
+      "album2": "平原与盆地",
+      "album1_id": "08_economic_trade",
+      "album2_id": "24_plains_basins",
+      "topic1": "美索不达米亚商业",
+      "topic2": "美索不达米亚沼泽",
+      "similarity": 0.75
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "历史未解之谜",
+      "album1_id": "09_world_heritage",
+      "album2_id": "12_historical_mysteries",
+      "topic1": "秦始皇兵马俑",
+      "topic2": "秦始皇兵马俑色彩",
+      "similarity": 0.8571428571428571
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "中国文化遗产",
+      "album1_id": "09_world_heritage",
+      "album2_id": "10_chinese_heritage",
+      "topic1": "大足石刻",
+      "topic2": "大足石刻保护",
+      "similarity": 0.8
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "宗教信仰",
+      "album1_id": "09_world_heritage",
+      "album2_id": "46_religion",
+      "topic1": "大足石刻",
+      "topic2": "大足石刻造像",
+      "similarity": 0.8
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "雕塑艺术",
+      "album1_id": "09_world_heritage",
+      "album2_id": "15_sculpture",
+      "topic1": "云冈石窟",
+      "topic2": "云冈石窟大佛",
+      "similarity": 0.8
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "沙漠与戈壁",
+      "album1_id": "09_world_heritage",
+      "album2_id": "25_deserts_gobi",
+      "topic1": "佩特拉古城",
+      "topic2": "佩特拉玫瑰城",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "考古发现与发掘",
+      "album1_id": "09_world_heritage",
+      "album2_id": "11_archaeology",
+      "topic1": "庞贝古城遗址",
+      "topic2": "庞贝古城",
+      "similarity": 0.8
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "山脉与高原",
+      "album1_id": "09_world_heritage",
+      "album2_id": "23_mountains_plateaus",
+      "topic1": "乞力马扎罗山",
+      "topic2": "乞力马扎罗雪冠",
+      "similarity": 0.7692307692307693
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "居住建筑",
+      "album1_id": "09_world_heritage",
+      "album2_id": "43_housing",
+      "topic1": "马丘比丘",
+      "topic2": "秘鲁马丘比丘",
+      "similarity": 0.8
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "自然保护区",
+      "album1_id": "09_world_heritage",
+      "album2_id": "30_nature_reserves",
+      "topic1": "加拉帕戈斯群岛",
+      "topic2": "加拉帕戈斯群",
+      "similarity": 0.9230769230769231
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "爬行动物",
+      "album1_id": "09_world_heritage",
+      "album2_id": "33_reptiles",
+      "topic1": "加拉帕戈斯群岛",
+      "topic2": "加拉帕戈斯象",
+      "similarity": 0.7692307692307693
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "居住建筑",
+      "album1_id": "09_world_heritage",
+      "album2_id": "43_housing",
+      "topic1": "自由女神像",
+      "topic2": "纽约自由女神像",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "居住建筑",
+      "album1_id": "09_world_heritage",
+      "album2_id": "43_housing",
+      "topic1": "克里姆林宫",
+      "topic2": "莫斯科克里姆林宫",
+      "similarity": 0.7692307692307693
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "宗教信仰",
+      "album1_id": "09_world_heritage",
+      "album2_id": "46_religion",
+      "topic1": "圣彼得大教堂",
+      "topic2": "梵蒂冈圣彼得大教堂",
+      "similarity": 0.8
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "自然保护区",
+      "album1_id": "09_world_heritage",
+      "album2_id": "30_nature_reserves",
+      "topic1": "塞伦盖蒂国家公园",
+      "topic2": "塞伦盖蒂公园",
+      "similarity": 0.8571428571428571
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "自然保护区",
+      "album1_id": "09_world_heritage",
+      "album2_id": "30_nature_reserves",
+      "topic1": "马拉维湖国家公园",
+      "topic2": "马努国家公园",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "河流与湖泊",
+      "album1_id": "09_world_heritage",
+      "album2_id": "26_rivers_lakes",
+      "topic1": "肯尼亚图尔卡纳湖",
+      "topic2": "图尔卡纳湖鳄",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "自然保护区",
+      "album1_id": "09_world_heritage",
+      "album2_id": "30_nature_reserves",
+      "topic1": "大峡谷国家公园",
+      "topic2": "峡湾国家公园",
+      "similarity": 0.7692307692307693
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "居住建筑",
+      "album1_id": "09_world_heritage",
+      "album2_id": "43_housing",
+      "topic1": "悉尼歌剧院建筑",
+      "topic2": "悉尼歌剧院",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "历史未解之谜",
+      "album1_id": "09_world_heritage",
+      "album2_id": "12_historical_mysteries",
+      "topic1": "秘鲁纳斯卡线条",
+      "topic2": "纳斯卡线条",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "历史未解之谜",
+      "album1_id": "09_world_heritage",
+      "album2_id": "12_historical_mysteries",
+      "topic1": "秘鲁纳斯卡线条",
+      "topic2": "纳斯卡线条用途",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "考古发现与发掘",
+      "album1_id": "09_world_heritage",
+      "album2_id": "11_archaeology",
+      "topic1": "墨西哥特奥蒂瓦坎",
+      "topic2": "特奥蒂瓦坎",
+      "similarity": 0.7692307692307693
+    },
+    {
+      "album1": "世界文化遗产",
+      "album2": "自然保护区",
+      "album1_id": "09_world_heritage",
+      "album2_id": "30_nature_reserves",
+      "topic1": "阿根廷冰川国家公园",
+      "topic2": "冰川国家公园",
+      "similarity": 0.8
+    },
+    {
+      "album1": "中国文化遗产",
+      "album2": "中国书画艺术",
+      "album1_id": "10_chinese_heritage",
+      "album2_id": "13_chinese_painting",
+      "topic1": "敦煌莫高窟保护",
+      "topic2": "敦煌莫高窟飞天",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "中国文化遗产",
+      "album2": "生态系统",
+      "album1_id": "10_chinese_heritage",
+      "album2_id": "40_ecosystems",
+      "topic1": "丹霞山地貌",
+      "topic2": "丹霞地貌",
+      "similarity": 0.8888888888888888
+    },
+    {
+      "album1": "中国文化遗产",
+      "album2": "自然保护区",
+      "album1_id": "10_chinese_heritage",
+      "album2_id": "30_nature_reserves",
+      "topic1": "可可西里",
+      "topic2": "可可西里无人",
+      "similarity": 0.8
+    },
+    {
+      "album1": "中国文化遗产",
+      "album2": "哺乳动物",
+      "album1_id": "10_chinese_heritage",
+      "album2_id": "31_mammals",
+      "topic1": "可可西里",
+      "topic2": "藏羚羊可可西里",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "中国文化遗产",
+      "album2": "民间与传统艺术",
+      "album1_id": "10_chinese_heritage",
+      "album2_id": "21_folk_traditional",
+      "topic1": "中国雕版印刷",
+      "topic2": "雕版印刷",
+      "similarity": 0.8
+    },
+    {
+      "album1": "中国文化遗产",
+      "album2": "民间与传统艺术",
+      "album1_id": "10_chinese_heritage",
+      "album2_id": "21_folk_traditional",
+      "topic1": "中国侗族大歌",
+      "topic2": "侗族大歌",
+      "similarity": 0.8
+    },
+    {
+      "album1": "中国文化遗产",
+      "album2": "节日庆典",
+      "album1_id": "10_chinese_heritage",
+      "album2_id": "45_festivals",
+      "topic1": "中国侗族大歌",
+      "topic2": "侗族大歌节",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "中国文化遗产",
+      "album2": "民间与传统艺术",
+      "album1_id": "10_chinese_heritage",
+      "album2_id": "21_folk_traditional",
+      "topic1": "蒙古族长调",
+      "topic2": "蒙古长调牧歌",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "中国文化遗产",
+      "album2": "民间与传统艺术",
+      "album1_id": "10_chinese_heritage",
+      "album2_id": "21_folk_traditional",
+      "topic1": "中国活字印刷",
+      "topic2": "活字印刷",
+      "similarity": 0.8
+    },
+    {
+      "album1": "考古发现与发掘",
+      "album2": "建筑艺术",
+      "album1_id": "11_archaeology",
+      "album2_id": "17_architecture",
+      "topic1": "秦始皇陵探查",
+      "topic2": "秦始皇陵",
+      "similarity": 0.8
+    },
+    {
+      "album1": "考古发现与发掘",
+      "album2": "历史未解之谜",
+      "album1_id": "11_archaeology",
+      "album2_id": "12_historical_mysteries",
+      "topic1": "死海古卷",
+      "topic2": "死海古卷作者",
+      "similarity": 0.8
+    },
+    {
+      "album1": "考古发现与发掘",
+      "album2": "建筑艺术",
+      "album1_id": "11_archaeology",
+      "album2_id": "17_architecture",
+      "topic1": "秦始皇陵铜车马",
+      "topic2": "秦始皇陵",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "考古发现与发掘",
+      "album2": "工艺美术",
+      "album1_id": "11_archaeology",
+      "album2_id": "18_crafts",
+      "topic1": "秦始皇陵铜车马",
+      "topic2": "秦始皇铜车马",
+      "similarity": 0.9230769230769231
+    },
+    {
+      "album1": "考古发现与发掘",
+      "album2": "历史未解之谜",
+      "album1_id": "11_archaeology",
+      "album2_id": "12_historical_mysteries",
+      "topic1": "哥贝克力石阵",
+      "topic2": "哥贝克力石阵目的",
+      "similarity": 0.8571428571428571
+    },
+    {
+      "album1": "考古发现与发掘",
+      "album2": "化学与生物",
+      "album1_id": "11_archaeology",
+      "album2_id": "54_chemistry_biology",
+      "topic1": "蛋白质组学考古",
+      "topic2": "蛋白质组学全景",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "历史未解之谜",
+      "album2": "雕塑艺术",
+      "album1_id": "12_historical_mysteries",
+      "album2_id": "15_sculpture",
+      "topic1": "狮身人面像之谜",
+      "topic2": "埃及狮身人面像",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "历史未解之谜",
+      "album2": "居住建筑",
+      "album1_id": "12_historical_mysteries",
+      "album2_id": "43_housing",
+      "topic1": "古埃及大金字塔",
+      "topic2": "古埃及金字塔",
+      "similarity": 0.9230769230769231
+    },
+    {
+      "album1": "建筑艺术",
+      "album2": "居住建筑",
+      "album1_id": "17_architecture",
+      "album2_id": "43_housing",
+      "topic1": "希腊帕特农神庙",
+      "topic2": "雅典帕特农神庙",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "建筑艺术",
+      "album2": "居住建筑",
+      "album1_id": "17_architecture",
+      "album2_id": "43_housing",
+      "topic1": "埃菲尔铁塔",
+      "topic2": "巴黎埃菲尔铁塔",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "建筑艺术",
+      "album2": "居住建筑",
+      "album1_id": "17_architecture",
+      "album2_id": "43_housing",
+      "topic1": "高迪圣家族大教堂",
+      "topic2": "圣家族大教堂",
+      "similarity": 0.8571428571428571
+    },
+    {
+      "album1": "建筑艺术",
+      "album2": "居住建筑",
+      "album1_id": "17_architecture",
+      "album2_id": "43_housing",
+      "topic1": "贝聿铭卢浮宫金字塔",
+      "topic2": "卢浮宫玻璃金字塔",
+      "similarity": 0.7058823529411765
+    },
+    {
+      "album1": "工艺美术",
+      "album2": "纹理材质",
+      "album1_id": "18_crafts",
+      "album2_id": "65_textures",
+      "topic1": "苗族蜡染冰纹",
+      "topic2": "蜡染冰纹",
+      "similarity": 0.8
+    },
+    {
+      "album1": "工艺美术",
+      "album2": "树木",
+      "album1_id": "18_crafts",
+      "album2_id": "36_trees",
+      "topic1": "黄杨木雕罗汉",
+      "topic2": "黄杨木雕",
+      "similarity": 0.8
+    },
+    {
+      "album1": "工艺美术",
+      "album2": "纹理材质",
+      "album1_id": "18_crafts",
+      "album2_id": "65_textures",
+      "topic1": "漆器平遥推光",
+      "topic2": "漆器推光",
+      "similarity": 0.8
+    },
+    {
+      "album1": "工艺美术",
+      "album2": "民间与传统艺术",
+      "album1_id": "18_crafts",
+      "album2_id": "21_folk_traditional",
+      "topic1": "端砚雕刻工艺",
+      "topic2": "端砚雕刻",
+      "similarity": 0.8
+    },
+    {
+      "album1": "工艺美术",
+      "album2": "民间与传统艺术",
+      "album1_id": "18_crafts",
+      "album2_id": "21_folk_traditional",
+      "topic1": "湖笔制作工序",
+      "topic2": "湖笔制作",
+      "similarity": 0.8
+    },
+    {
+      "album1": "工艺美术",
+      "album2": "民间与传统艺术",
+      "album1_id": "18_crafts",
+      "album2_id": "21_folk_traditional",
+      "topic1": "宣纸抄造技艺",
+      "topic2": "宣纸抄造",
+      "similarity": 0.8
+    },
+    {
+      "album1": "工艺美术",
+      "album2": "民间与传统艺术",
+      "album1_id": "18_crafts",
+      "album2_id": "21_folk_traditional",
+      "topic1": "古琴斫制工艺",
+      "topic2": "古琴斫制",
+      "similarity": 0.8
+    },
+    {
+      "album1": "民间与传统艺术",
+      "album2": "节日庆典",
+      "album1_id": "21_folk_traditional",
+      "album2_id": "45_festivals",
+      "topic1": "瑶族盘王印",
+      "topic2": "瑶族盘王节",
+      "similarity": 0.8
+    },
+    {
+      "album1": "民间与传统艺术",
+      "album2": "节日庆典",
+      "album1_id": "21_folk_traditional",
+      "album2_id": "45_festivals",
+      "topic1": "侗族大歌",
+      "topic2": "侗族大歌节",
+      "similarity": 0.8888888888888888
+    },
+    {
+      "album1": "民间与传统艺术",
+      "album2": "节日庆典",
+      "album1_id": "21_folk_traditional",
+      "album2_id": "45_festivals",
+      "topic1": "元宵灯会",
+      "topic2": "元宵灯节",
+      "similarity": 0.75
+    },
+    {
+      "album1": "民间与传统艺术",
+      "album2": "节日庆典",
+      "album1_id": "21_folk_traditional",
+      "album2_id": "45_festivals",
+      "topic1": "清明祭祖",
+      "topic2": "清明扫墓祭祖",
+      "similarity": 0.8
+    },
+    {
+      "album1": "民间与传统艺术",
+      "album2": "节日庆典",
+      "album1_id": "21_folk_traditional",
+      "album2_id": "45_festivals",
+      "topic1": "端午龙舟",
+      "topic2": "端午赛龙舟",
+      "similarity": 0.8888888888888888
+    },
+    {
+      "album1": "民间与传统艺术",
+      "album2": "美食",
+      "album1_id": "21_folk_traditional",
+      "album2_id": "42_food",
+      "topic1": "中秋赏月",
+      "topic2": "中秋月饼",
+      "similarity": 0.75
+    },
+    {
+      "album1": "当代传媒",
+      "album2": "交通运输",
+      "album1_id": "22_contemporary_media",
+      "album2_id": "44_transportation",
+      "topic1": "2001太空漫游",
+      "topic2": "太空旅游",
+      "similarity": 0.75
+    },
+    {
+      "album1": "当代传媒",
+      "album2": "信息技术",
+      "album1_id": "22_contemporary_media",
+      "album2_id": "59_information_technology",
+      "topic1": "生成对抗网络艺术",
+      "topic2": "生成对抗网络",
+      "similarity": 0.8571428571428571
+    },
+    {
+      "album1": "当代传媒",
+      "album2": "休闲娱乐",
+      "album1_id": "22_contemporary_media",
+      "album2_id": "51_entertainment",
+      "topic1": "NFT数字艺术",
+      "topic2": "数字艺术未来",
+      "similarity": 0.8
+    },
+    {
+      "album1": "当代传媒",
+      "album2": "信息技术",
+      "album1_id": "22_contemporary_media",
+      "album2_id": "59_information_technology",
+      "topic1": "虚拟现实沉浸体验",
+      "topic2": "虚拟现实沉浸",
+      "similarity": 0.8571428571428571
+    },
+    {
+      "album1": "山脉与高原",
+      "album2": "河流与湖泊",
+      "album1_id": "23_mountains_plateaus",
+      "album2_id": "26_rivers_lakes",
+      "topic1": "长白山天池",
+      "topic2": "长白山天池水",
+      "similarity": 0.9090909090909091
+    },
+    {
+      "album1": "平原与盆地",
+      "album2": "河流与湖泊",
+      "album1_id": "24_plains_basins",
+      "album2_id": "26_rivers_lakes",
+      "topic1": "鄂毕河平原冻土",
+      "topic2": "鄂毕河冻土",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "地质地貌",
+      "album2": "自然保护区",
+      "album1_id": "28_geology",
+      "album2_id": "30_nature_reserves",
+      "topic1": "布莱斯峡谷岩柱",
+      "topic2": "布莱斯峡谷",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "古生物化石",
+      "album2": "昆虫",
+      "album1_id": "29_paleontology",
+      "album2_id": "35_insects",
+      "topic1": "甲龙装甲",
+      "topic2": "甲虫装甲",
+      "similarity": 0.75
+    },
+    {
+      "album1": "古生物化石",
+      "album2": "鱼类",
+      "album1_id": "29_paleontology",
+      "album2_id": "34_fish",
+      "topic1": "腔棘鱼活化石",
+      "topic2": "肺鱼活化石",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "自然保护区",
+      "album2": "爬行动物",
+      "album1_id": "30_nature_reserves",
+      "album2_id": "33_reptiles",
+      "topic1": "加拉帕戈斯群",
+      "topic2": "加拉帕戈斯象",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "爬行动物",
+      "album2": "鱼类",
+      "album1_id": "33_reptiles",
+      "album2_id": "34_fish",
+      "topic1": "飞蜥滑翔",
+      "topic2": "飞鱼滑翔",
+      "similarity": 0.75
+    },
+    {
+      "album1": "树木",
+      "album2": "花卉",
+      "album1_id": "36_trees",
+      "album2_id": "37_flowers",
+      "topic1": "桂花飘香",
+      "topic2": "桂花秋香",
+      "similarity": 0.75
+    },
+    {
+      "album1": "树木",
+      "album2": "农作物",
+      "album1_id": "36_trees",
+      "album2_id": "38_crops",
+      "topic1": "可可树巧克",
+      "topic2": "可可巧克力",
+      "similarity": 0.8
+    },
+    {
+      "album1": "树木",
+      "album2": "农作物",
+      "album1_id": "36_trees",
+      "album2_id": "38_crops",
+      "topic1": "咖啡树提神",
+      "topic2": "咖啡提神饮",
+      "similarity": 0.8
+    },
+    {
+      "album1": "花卉",
+      "album2": "农业与食品",
+      "album1_id": "37_flowers",
+      "album2_id": "61_agriculture_food",
+      "topic1": "花卉园艺",
+      "topic2": "花卉园艺产业",
+      "similarity": 0.8
+    },
+    {
+      "album1": "农作物",
+      "album2": "农业与食品",
+      "album1_id": "38_crops",
+      "album2_id": "61_agriculture_food",
+      "topic1": "大豆蛋白源",
+      "topic2": "大豆蛋白油料",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "美食",
+      "album2": "节日庆典",
+      "album1_id": "42_food",
+      "album2_id": "45_festivals",
+      "topic1": "端午粽子",
+      "topic2": "端午包粽子",
+      "similarity": 0.8888888888888888
+    },
+    {
+      "album1": "美食",
+      "album2": "节日庆典",
+      "album1_id": "42_food",
+      "album2_id": "45_festivals",
+      "topic1": "腊八节腊八粥",
+      "topic2": "腊八节施粥",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "居住建筑",
+      "album2": "土木工程",
+      "album1_id": "43_housing",
+      "album2_id": "58_civil_engineering",
+      "topic1": "装配式建筑",
+      "topic2": "预制装配建筑",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "交通运输",
+      "album2": "交通工业",
+      "album1_id": "44_transportation",
+      "album2_id": "62_transport_industry",
+      "topic1": "集装箱运输",
+      "topic2": "集装箱海运",
+      "similarity": 0.8
+    },
+    {
+      "album1": "交通运输",
+      "album2": "交通工业",
+      "album1_id": "44_transportation",
+      "album2_id": "62_transport_industry",
+      "topic1": "早期高速公路",
+      "topic2": "高速公路网",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "交通运输",
+      "album2": "职场工作",
+      "album1_id": "44_transportation",
+      "album2_id": "48_workplace",
+      "topic1": "网约车出行",
+      "topic2": "网约车出行服务",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "交通运输",
+      "album2": "交通工业",
+      "album1_id": "44_transportation",
+      "album2_id": "62_transport_industry",
+      "topic1": "太空旅游",
+      "topic2": "太空旅游商业",
+      "similarity": 0.8
+    },
+    {
+      "album1": "交通运输",
+      "album2": "交通工业",
+      "album1_id": "44_transportation",
+      "album2_id": "62_transport_industry",
+      "topic1": "智慧港口自动化",
+      "topic2": "港口自动化",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "职场工作",
+      "album2": "信息技术",
+      "album1_id": "48_workplace",
+      "album2_id": "59_information_technology",
+      "topic1": "数据挖掘分析",
+      "topic2": "大数据分析",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "数学与物理",
+      "album2": "能源",
+      "album1_id": "53_math_physics",
+      "album2_id": "57_energy",
+      "topic1": "核聚变太阳",
+      "topic2": "核聚变人造太阳",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "数学与物理",
+      "album2": "综合素材",
+      "album1_id": "53_math_physics",
+      "album2_id": "66_miscellaneous",
+      "topic1": "电子显微镜微观",
+      "topic2": "显微镜微观",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "数学与物理",
+      "album2": "抽象图案",
+      "album1_id": "53_math_physics",
+      "album2_id": "63_abstract",
+      "topic1": "CP对称破缺",
+      "topic2": "不对称破缺",
+      "similarity": 0.8888888888888888
+    },
+    {
+      "album1": "化学与生物",
+      "album2": "农业与食品",
+      "album1_id": "54_chemistry_biology",
+      "album2_id": "61_agriculture_food",
+      "topic1": "基因编辑CRISPR",
+      "topic2": "基因编辑作物",
+      "similarity": 0.8
+    },
+    {
+      "album1": "化学与生物",
+      "album2": "农业与食品",
+      "album1_id": "54_chemistry_biology",
+      "album2_id": "61_agriculture_food",
+      "topic1": "合成生物学设计",
+      "topic2": "合成生物学食品",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "album1": "能源",
+      "album2": "信息技术",
+      "album1_id": "57_energy",
+      "album2_id": "59_information_technology",
+      "topic1": "分布式能源系统",
+      "topic2": "分布式系统",
+      "similarity": 0.8333333333333334
+    },
+    {
+      "album1": "交通工业",
+      "album2": "符号标志",
+      "album1_id": "62_transport_industry",
+      "album2_id": "64_symbols",
+      "topic1": "智能交通信号",
+      "topic2": "交通信号灯",
+      "similarity": 0.7272727272727273
+    },
+    {
+      "album1": "交通工业",
+      "album2": "符号标志",
+      "album1_id": "62_transport_industry",
+      "album2_id": "64_symbols",
+      "topic1": "轨道交通信号",
+      "topic2": "交通信号灯",
+      "similarity": 0.7272727272727273
+    }
+  ]
+}

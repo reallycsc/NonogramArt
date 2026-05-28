@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reallycsc.nonogramart.taptap" >
+4
+5    <uses-sdk android:minSdkVersion="24" />
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:3:5-67
+7-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:3:22-64
+8
+9    <application>
+9-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:4:5-8:19
+10        <meta-data
+10-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:5:9-7:76
+11            android:name="org.godotengine.plugin.v2.TapTapPlugin"
+11-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:6:13-66
+12            android:value="com.reallycsc.nonogramart.taptap.TapTapPlugin" />
+12-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:7:13-74
+13    </application>
+14
+15</manifest>

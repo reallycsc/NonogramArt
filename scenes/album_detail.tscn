@@ -11,9 +11,9 @@
 [ext_resource type="Texture2D" uid="uid://bpfpag0k83nyq" path="res://assets/images/ui/album/pagedown_btn.png" id="9_vk71n"]
 [ext_resource type="Texture2D" uid="uid://thxds0n7t1v8" path="res://assets/images/ui/album/pagedown_btn_pressed.png" id="10_diffj"]
 [ext_resource type="Texture2D" uid="uid://c8j02m71nrg2v" path="res://assets/images/ui/album/pagedown_btn_hover.png" id="11_w05x7"]
-[ext_resource type="Texture2D" uid="uid://dcasia28k6lo6" path="res://assets/images/ui/main/main_setting_btn.png" id="12_vk71n"]
-[ext_resource type="Texture2D" uid="uid://dpl27cfsl1lob" path="res://assets/images/ui/main/main_setting_btn_pressed.png" id="13_diffj"]
-[ext_resource type="Texture2D" uid="uid://b27jhg3lb2vrt" path="res://assets/images/ui/main/main_setting_btn_hover.png" id="14_w05x7"]
+[ext_resource type="Texture2D" uid="uid://cmpswa7uvp24l" path="res://assets/images/ui/setting_btn.png" id="13_w05x7"]
+[ext_resource type="Texture2D" uid="uid://qsqoworeoa6r" path="res://assets/images/ui/setting_btn_pressed.png" id="14_y6vof"]
+[ext_resource type="Texture2D" uid="uid://ckoaiygvo51qs" path="res://assets/images/ui/setting_btn_hover.png" id="15_1lmjr"]
 [ext_resource type="PackedScene" uid="uid://sb2u2ok8lge" path="res://scenes/settings_popup.tscn" id="15_settings"]
 [ext_resource type="Texture2D" uid="uid://cx8m3me4jdktm" path="res://assets/images/ui/album/album_bg_landscape.jpg" id="16_w05x7"]
 
@@ -25,7 +25,7 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_wuixv")
-metadata/_edit_horizontal_guides_ = [1178.0]
+metadata/_edit_horizontal_guides_ = [1178.0, 14.0]
 
 [node name="PortraitUI" type="Control" parent="." unique_id=195944737]
 layout_mode = 1
@@ -458,9 +458,8 @@ alignment = 1
 [node name="BackButton" type="TextureButton" parent="CanvasLayer" unique_id=2098676211]
 custom_minimum_size = Vector2(0, 48)
 offset_left = 20.0
-offset_top = 20.0
 offset_right = 122.0
-offset_bottom = 124.0
+offset_bottom = 104.0
 texture_normal = ExtResource("2_sifvh")
 texture_pressed = ExtResource("3_56mfb")
 texture_hover = ExtResource("4_f6elx")
@@ -469,16 +468,15 @@ texture_hover = ExtResource("4_f6elx")
 anchors_preset = 1
 anchor_left = 1.0
 anchor_right = 1.0
-offset_left = -182.0
-offset_top = 20.0
+offset_left = -113.0
+offset_top = 6.0
 offset_right = -20.0
-offset_bottom = 183.0
+offset_bottom = 99.0
 grow_horizontal = 0
-scale = Vector2(0.6, 0.6)
-pivot_offset_ratio = Vector2(1, 0)
-texture_normal = ExtResource("12_vk71n")
-texture_pressed = ExtResource("13_diffj")
-texture_hover = ExtResource("14_w05x7")
+pivot_offset_ratio = Vector2(0.5, 0.5)
+texture_normal = ExtResource("13_w05x7")
+texture_pressed = ExtResource("14_y6vof")
+texture_hover = ExtResource("15_1lmjr")
 
 [node name="SettingsPopup" parent="CanvasLayer" unique_id=1721136415 instance=ExtResource("15_settings")]
 visible = false

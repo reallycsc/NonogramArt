@@ -3,6 +3,7 @@ extends Control
 const BookshelfDataScript = preload("res://scripts/data/bookshelf_data.gd")
 const AlbumDataScript = preload("res://scripts/data/album_data.gd")
 var book_button_scene: PackedScene = preload("res://scenes/book_button.tscn")
+const LeaderboardPopupScene: PackedScene = preload("res://scenes/leaderboard.tscn")
 
 @onready var portrait_ui: Control = $PortraitUI
 @onready var landscape_ui: Control = $LandscapeUI
@@ -18,6 +19,9 @@ var book_button_scene: PackedScene = preload("res://scenes/book_button.tscn")
 @onready var left_button: TextureButton = $CanvasLayer/LeftButton
 @onready var right_button: TextureButton = $CanvasLayer/RightButton
 @onready var exit_popup: Control = $CanvasLayer/ExitConfirmPopup
+@onready var leaderboard_button: TextureButton = $CanvasLayer/LeaderboardButton
+
+var _leaderboard_popup: Control = null
 
 var bookshelf_list: Array = []
 var current_bookshelf_index: int = 0
@@ -64,7 +68,7 @@ func _exit_tree() -> void:
 		GameManager.language_changed.disconnect(_on_language_changed)
 
 func _on_language_changed(_language: int) -> void:
-	_refresh_localized_text()
+	_load_shelf()
 
 func _refresh_localized_text() -> void:
 	if current_bookshelf_id == "":
@@ -181,6 +185,7 @@ func _on_download_album_clicked(album_id: String) -> void:
 
 func _on_album_pack_loaded(album_id: String) -> void:
 	if is_inside_tree():
+		GameManager.invalidate_album_icon_cache(album_id)
 		_load_shelf()
 
 func _on_album_pack_download_failed(album_id: String, error: String) -> void:
@@ -233,6 +238,13 @@ func _notification(what: int) -> void:
 func _on_settings_pressed() -> void:
 	AudioManager.play_sfx("click")
 	settings_popup.show_settings()
+
+func _on_leaderboard_pressed() -> void:
+	AudioManager.play_sfx("click")
+	if _leaderboard_popup == null or not is_instance_valid(_leaderboard_popup):
+		_leaderboard_popup = LeaderboardPopupScene.instantiate()
+		canvas.add_child(_leaderboard_popup)
+	_leaderboard_popup.call_deferred("show_leaderboard")
 
 func _input(event: InputEvent) -> void:
 	if not DisplayServer.is_touchscreen_available():

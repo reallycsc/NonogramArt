@@ -46,6 +46,10 @@ var settings: Dictionary = {
 
 var test_mode: bool = true
 
+var privacy_agreed: bool = false
+var taptap_user_id: String = ""
+var taptap_archive_id: String = ""
+
 var pending_bookshelf_id: String = ""
 var pending_album_id: String = ""
 var pending_picture_id: String = ""
@@ -84,6 +88,8 @@ func _ready() -> void:
 	if OrientationManager:
 		OrientationManager.set_auto_rotate(settings.get("auto_rotate", true))
 	_apply_language(current_language)
+	if not taptap_archive_id.is_empty():
+		TapTapManager._current_archive_id = taptap_archive_id
 
 
 func preload_all_data() -> void:
@@ -147,23 +153,38 @@ func is_scene_preloaded(scene_path: String) -> bool:
 	return status == ResourceLoader.THREAD_LOAD_LOADED
 
 
+func _get_icon_cache_key(album_id: String) -> String:
+	if current_language == Language.ENGLISH:
+		return album_id + "_en"
+	return album_id
+
+
 func _preload_album_icons(album_ids: Array) -> void:
-	var album_colors = _get_album_color_map()
 	for album_id in album_ids:
-		if _album_icon_cache.has(album_id):
+		var cache_key = _get_icon_cache_key(album_id)
+		if _album_icon_cache.has(cache_key):
 			continue
 		var album = AlbumDataScript.get_album(album_id)
 		var icon_path = album.get("icon", "")
-		if icon_path != "" and ResourceLoader.exists(icon_path):
-			_album_icon_cache[album_id] = load(icon_path)
-		else:
-			_album_icon_cache[album_id] = _generate_album_icon(album_id, album_colors)
-		if not _album_icon_grey_cache.has(album_id):
-			var grey_path = icon_path.get_basename() + "_grey.png"
-			if grey_path != "" and ResourceLoader.exists(grey_path):
-				_album_icon_grey_cache[album_id] = load(grey_path)
-			else:
-				_album_icon_grey_cache[album_id] = _album_icon_cache[album_id]
+		var tex: Texture2D = null
+		if current_language == Language.ENGLISH:
+			var en_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en.png"
+			if en_path != "" and ResourceLoader.exists(en_path):
+				tex = load(en_path)
+		if tex == null and icon_path != "" and ResourceLoader.exists(icon_path):
+			tex = load(icon_path)
+		_album_icon_cache[cache_key] = tex
+		if not _album_icon_grey_cache.has(cache_key):
+			var grey_tex: Texture2D = null
+			if current_language == Language.ENGLISH:
+				var en_grey_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en_grey.png"
+				if en_grey_path != "" and ResourceLoader.exists(en_grey_path):
+					grey_tex = load(en_grey_path)
+			if grey_tex == null:
+				var grey_path = icon_path.get_basename() + "_grey.png"
+				if grey_path != "" and ResourceLoader.exists(grey_path):
+					grey_tex = load(grey_path)
+			_album_icon_grey_cache[cache_key] = grey_tex
 
 
 func _preload_album_unlock_status(album_ids: Array) -> void:
@@ -174,32 +195,49 @@ func _preload_album_unlock_status(album_ids: Array) -> void:
 
 
 func get_album_icon(album_id: String) -> Texture2D:
-	if _album_icon_cache.has(album_id):
-		return _album_icon_cache[album_id]
+	var cache_key = _get_icon_cache_key(album_id)
+	if _album_icon_cache.has(cache_key):
+		return _album_icon_cache[cache_key]
 	var album = AlbumDataScript.get_album(album_id)
 	var icon_path = album.get("icon", "")
 	var tex: Texture2D = null
-	if icon_path != "" and ResourceLoader.exists(icon_path):
+	if current_language == Language.ENGLISH:
+		var en_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en.png"
+		if en_path != "" and ResourceLoader.exists(en_path):
+			tex = load(en_path)
+	if tex == null and icon_path != "" and ResourceLoader.exists(icon_path):
 		tex = load(icon_path)
-	else:
-		tex = _generate_album_icon(album_id, _get_album_color_map())
-	_album_icon_cache[album_id] = tex
+	_album_icon_cache[cache_key] = tex
 	return tex
 
 
 func get_album_icon_grey(album_id: String) -> Texture2D:
-	if _album_icon_grey_cache.has(album_id):
-		return _album_icon_grey_cache[album_id]
+	var cache_key = _get_icon_cache_key(album_id)
+	if _album_icon_grey_cache.has(cache_key):
+		return _album_icon_grey_cache[cache_key]
 	var album = AlbumDataScript.get_album(album_id)
 	var icon_path = album.get("icon", "")
-	var grey_path = icon_path.get_basename() + "_grey.png"
 	var tex: Texture2D = null
-	if grey_path != "" and ResourceLoader.exists(grey_path):
-		tex = load(grey_path)
-	else:
-		tex = get_album_icon(album_id)
-	_album_icon_grey_cache[album_id] = tex
+	if current_language == Language.ENGLISH:
+		var en_grey_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en_grey.png"
+		if en_grey_path != "" and ResourceLoader.exists(en_grey_path):
+			tex = load(en_grey_path)
+	if tex == null:
+		var grey_path = icon_path.get_basename() + "_grey.png"
+		if grey_path != "" and ResourceLoader.exists(grey_path):
+			tex = load(grey_path)
+	_album_icon_grey_cache[cache_key] = tex
 	return tex
+
+
+func invalidate_album_icon_cache(album_id: String) -> void:
+	_album_icon_cache.erase(album_id)
+	_album_icon_grey_cache.erase(album_id)
+
+
+func invalidate_all_album_icon_caches() -> void:
+	_album_icon_cache.clear()
+	_album_icon_grey_cache.clear()
 
 
 func get_album_unlock_status(album_id: String) -> Dictionary:
@@ -479,6 +517,7 @@ func complete_puzzle(puzzle_id: String) -> void:
 	_check_picture_completion(puzzle_id)
 	_check_album_unlock()
 	save_game()
+	_submit_leaderboard_score()
 
 
 func _increment_completion(puzzle_id: String) -> void:
@@ -662,7 +701,8 @@ func _check_album_unlock() -> void:
 
 func save_game() -> void:
 	var data = {
-		"version": 6,
+		"version": 7,
+		"save_time": Time.get_datetime_string_from_system(),
 		"album_progress": album_progress,
 		"completed_puzzles": completed_puzzles,
 		"completed_pictures": completed_pictures,
@@ -672,11 +712,218 @@ func save_game() -> void:
 		"album_picture_index": album_picture_index,
 		"settings": settings,
 		"language": current_language,
+		"privacy_agreed": privacy_agreed,
+		"taptap_user_id": taptap_user_id,
+		"taptap_archive_id": taptap_archive_id,
 	}
 	var file = FileAccess.open(_save_path, FileAccess.WRITE)
 	if file:
 		file.store_string(JSON.stringify(data, "\t"))
 		file.close()
+	_upload_cloud_save()
+
+
+var _cloud_upload_timer: Timer = null
+var _cloud_upload_pending: bool = false
+var _last_uploaded_hash: int = 0
+
+func _upload_cloud_save() -> void:
+	if not TapTapManager.is_available() or not TapTapManager.is_logged_in():
+		return
+	if TapTapManager.is_mock_mode():
+		return
+	var file = FileAccess.open(_save_path, FileAccess.READ)
+	if file:
+		var content = file.get_as_text()
+		file.close()
+		var current_hash = content.hash()
+		if current_hash == _last_uploaded_hash:
+			return
+	_cloud_upload_pending = true
+	if _cloud_upload_timer == null:
+		_cloud_upload_timer = Timer.new()
+		_cloud_upload_timer.one_shot = true
+		_cloud_upload_timer.timeout.connect(_do_cloud_upload)
+		add_child(_cloud_upload_timer)
+	_cloud_upload_timer.stop()
+	_cloud_upload_timer.start(3.0)
+
+func _do_cloud_upload() -> void:
+	if not _cloud_upload_pending:
+		return
+	_cloud_upload_pending = false
+	var file = FileAccess.open(_save_path, FileAccess.READ)
+	if not file:
+		return
+	var save_data = file.get_as_text()
+	file.close()
+	if save_data.is_empty():
+		return
+	_last_uploaded_hash = save_data.hash()
+	var completed_count = completed_puzzles.size()
+	print("GameManager: uploading cloud save, puzzles=%d dataLen=%d" % [completed_count, save_data.length()])
+	if not TapTapManager.cloud_save_result.is_connected(_on_cloud_save_result):
+		TapTapManager.cloud_save_result.connect(_on_cloud_save_result)
+	TapTapManager.save_to_cloud(save_data, "已完成 %d 个数织" % completed_count)
+
+
+func _on_cloud_save_result(action: String, data: String) -> void:
+	print("GameManager: cloud_save_result action=%s data=%s" % [action, data])
+	match action:
+		"created":
+			print("云存档已保存")
+		"updated":
+			print("云存档已更新")
+		"error":
+			printerr("云存档保存失败: %s" % data)
+			if "Unauthenticated" in data or "login required" in data:
+				TapTapManager._is_logged_in = false
+				print("GameManager: TapTap session expired, reset login state")
+		"deleted":
+			pass
+
+
+func load_from_cloud_save(cloud_json: String) -> void:
+	if cloud_json.is_empty():
+		return
+	var json = JSON.new()
+	if json.parse(cloud_json) != OK:
+		push_warning("GameManager: Failed to parse cloud save data")
+		return
+	var data = json.data
+	if not data is Dictionary:
+		return
+	completed_puzzles = _ensure_array(data.get("completed_puzzles", []))
+	completed_pictures = _ensure_array(data.get("completed_pictures", []))
+	completed_albums = _ensure_array(data.get("completed_albums", []))
+	animation_shown_pictures = _ensure_array(data.get("animation_shown_pictures", []))
+	animation_shown_albums = _ensure_array(data.get("animation_shown_albums", []))
+	album_picture_index = data.get("album_picture_index", {})
+	if not album_picture_index is Dictionary:
+		album_picture_index = {}
+	album_progress = data.get("album_progress", {})
+	if not album_progress is Dictionary:
+		album_progress = {}
+	var loaded_settings = data.get("settings", {})
+	if loaded_settings is Dictionary:
+		for key in settings:
+			if loaded_settings.has(key):
+				settings[key] = loaded_settings[key]
+	if data.has("language"):
+		current_language = int(data["language"])
+	privacy_agreed = data.get("privacy_agreed", privacy_agreed)
+	taptap_user_id = data.get("taptap_user_id", taptap_user_id)
+	taptap_archive_id = data.get("taptap_archive_id", taptap_archive_id)
+	invalidate_completion_cache()
+	var file = FileAccess.open(_save_path, FileAccess.WRITE)
+	if file:
+		file.store_string(JSON.stringify(data, "\t"))
+		file.close()
+	print("GameManager: Cloud save restored (%d puzzles)" % completed_puzzles.size())
+	_submit_leaderboard_score()
+
+
+func compare_with_cloud_save(cloud_json: String) -> Dictionary:
+	var result = {
+		"conflict": false,
+		"cloud_newer": false,
+		"local_info": {"puzzle_count": completed_puzzles.size(), "save_time": _read_local_save_time()},
+		"cloud_info": {"puzzle_count": 0, "save_time": ""},
+	}
+	if cloud_json.is_empty():
+		return result
+	var json = JSON.new()
+	if json.parse(cloud_json) != OK:
+		return result
+	var data = json.data
+	if not data is Dictionary:
+		return result
+	var cloud_puzzles = data.get("completed_puzzles", [])
+	var cloud_count = 0
+	if cloud_puzzles is Array:
+		cloud_count = cloud_puzzles.size()
+	result["cloud_info"]["puzzle_count"] = cloud_count
+	result["cloud_info"]["save_time"] = data.get("save_time", "")
+	var local_count = completed_puzzles.size()
+	if cloud_count > local_count:
+		result["cloud_newer"] = true
+	elif _is_same_content(cloud_json):
+		result["cloud_newer"] = false
+		result["conflict"] = false
+	elif local_count > 0 and cloud_count > 0:
+		result["conflict"] = true
+	return result
+
+
+func _read_local_save_time() -> String:
+	var file = FileAccess.open(_save_path, FileAccess.READ)
+	if not file:
+		return ""
+	var content = file.get_as_text()
+	file.close()
+	if content.is_empty():
+		return ""
+	var json = JSON.new()
+	if json.parse(content) != OK:
+		return ""
+	var data = json.data
+	if data is Dictionary:
+		return data.get("save_time", "")
+	return ""
+
+
+var _leaderboard_submit_pending: bool = false
+var _leaderboard_submit_timer: Timer = null
+
+func _submit_leaderboard_score() -> void:
+	if not TapTapManager.is_available() or not TapTapManager.is_logged_in():
+		return
+	if TapTapManager.is_mock_mode():
+		return
+	_leaderboard_submit_pending = true
+	if _leaderboard_submit_timer == null:
+		_leaderboard_submit_timer = Timer.new()
+		_leaderboard_submit_timer.one_shot = true
+		_leaderboard_submit_timer.timeout.connect(_do_leaderboard_submit)
+		add_child(_leaderboard_submit_timer)
+	_leaderboard_submit_timer.stop()
+	_leaderboard_submit_timer.start(5.0)
+
+func _do_leaderboard_submit() -> void:
+	if not _leaderboard_submit_pending:
+		return
+	_leaderboard_submit_pending = false
+	var count = completed_puzzles.size()
+	if count <= 0:
+		return
+	var leaderboard_id = "691qntuadkntr8vq1o"
+	print("GameManager: submitting leaderboard score id=%s score=%d" % [leaderboard_id, count])
+	TapTapManager.submit_leaderboard_score(leaderboard_id, count)
+
+
+func _is_same_content(cloud_json: String) -> bool:
+	var file = FileAccess.open(_save_path, FileAccess.READ)
+	if not file:
+		return false
+	var local_json = file.get_as_text()
+	file.close()
+	if local_json.is_empty():
+		return false
+	var local_json_obj = JSON.new()
+	var cloud_json_obj = JSON.new()
+	if local_json_obj.parse(local_json) != OK or cloud_json_obj.parse(cloud_json) != OK:
+		return false
+	if not local_json_obj.data is Dictionary or not cloud_json_obj.data is Dictionary:
+		return false
+	var local_data = local_json_obj.data
+	var cloud_data = cloud_json_obj.data
+	var keys_to_compare = ["completed_puzzles", "completed_pictures", "completed_albums", "album_progress"]
+	for key in keys_to_compare:
+		var local_val = JSON.stringify(local_data.get(key, {}))
+		var cloud_val = JSON.stringify(cloud_data.get(key, {}))
+		if local_val != cloud_val:
+			return false
+	return true
 
 
 func load_game() -> void:
@@ -715,6 +962,9 @@ func load_game() -> void:
 				settings[key] = loaded_settings[key]
 	if data.has("language"):
 		current_language = int(data["language"])
+	privacy_agreed = data.get("privacy_agreed", false)
+	taptap_user_id = data.get("taptap_user_id", "")
+	taptap_archive_id = data.get("taptap_archive_id", "")
 	if version < 3:
 		_migrate_old_save(data)
 	_ensure_default_progress()

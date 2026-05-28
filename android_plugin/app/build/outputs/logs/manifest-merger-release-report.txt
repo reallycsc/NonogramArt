@@ -1,0 +1,28 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:3:22-64
+application
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:4:5-8:19
+meta-data#org.godotengine.plugin.v2.TapTapPlugin
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:5:9-7:76
+	android:value
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:7:13-74
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:6:13-66
+uses-sdk
+INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml
+INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml

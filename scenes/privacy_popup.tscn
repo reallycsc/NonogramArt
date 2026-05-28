@@ -1,0 +1,155 @@
+[gd_scene format=3 uid="uid://brqphj3x2e85j"]
+
+[ext_resource type="Script" uid="uid://bhy3ek3mxwvth" path="res://scripts/ui/privacy_popup.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://cepqq41h8ot06" path="res://assets/images/ui/popup_panel/panel_bg_small.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://b4b7iwvl4hsdl" path="res://assets/images/ui/cancel_button.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://c66qupglt6mcq" path="res://assets/images/ui/cancel_button_pressed.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://bfr8qf5l72x86" path="res://assets/images/ui/cancel_button_hover.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://c7eln5ja8b1tn" path="res://assets/images/ui/finish_button.png" id="6_txwxk"]
+[ext_resource type="Texture2D" uid="uid://cpcvvcw24mfk3" path="res://assets/images/ui/finish_button_pressed.png" id="7_jrg4k"]
+[ext_resource type="Texture2D" uid="uid://xsujywjxlaqh" path="res://assets/images/ui/finish_button_hover.png" id="8_onfi7"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_Panel"]
+texture = ExtResource("2")
+texture_margin_left = 35.0
+texture_margin_top = 70.0
+texture_margin_right = 35.0
+texture_margin_bottom = 35.0
+
+[node name="PrivacyPopup" type="Control" unique_id=1564480166]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1")
+
+[node name="DimOverlay" type="ColorRect" parent="." unique_id=1529733643]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 0.6)
+
+[node name="PanelContainer" type="Panel" parent="." unique_id=81898082]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -280.0
+offset_top = -340.0
+offset_right = 280.0
+offset_bottom = 340.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxTexture_Panel")
+
+[node name="TitleLabel" type="Label" parent="PanelContainer" unique_id=596705630]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -80.0
+offset_top = 27.0
+offset_right = 80.0
+offset_bottom = 77.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(0.38, 0.15, 0.05, 1)
+theme_override_font_sizes/font_size = 36
+text = "隐私政策"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="PanelContainer" unique_id=434105435]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 30.0
+offset_top = 80.0
+offset_right = -30.0
+offset_bottom = -120.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="PrivacyLabel" type="RichTextLabel" parent="PanelContainer/ScrollContainer" unique_id=983643498]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_colors/default_color = Color(0.35, 0.2, 0.08, 1)
+theme_override_font_sizes/normal_font_size = 22
+bbcode_enabled = true
+
+[node name="ButtonContainer" type="HBoxContainer" parent="PanelContainer" unique_id=392713360]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -248.5
+offset_top = -100.0
+offset_right = 248.5
+offset_bottom = -10.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_constants/separation = 20
+alignment = 1
+
+[node name="DisagreeButton" type="TextureButton" parent="PanelContainer/ButtonContainer" unique_id=1886209290]
+custom_minimum_size = Vector2(140, 52)
+layout_mode = 2
+texture_normal = ExtResource("3")
+texture_pressed = ExtResource("4")
+texture_hover = ExtResource("5")
+
+[node name="Label" type="Label" parent="PanelContainer/ButtonContainer/DisagreeButton" unique_id=1692454379]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 99.0
+offset_top = 36.0
+offset_right = -59.0
+offset_bottom = -44.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.38, 0.23, 0.09, 1)
+theme_override_font_sizes/font_size = 32
+text = "不同意"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="AgreeButton" type="TextureButton" parent="PanelContainer/ButtonContainer" unique_id=470666562]
+custom_minimum_size = Vector2(140, 52)
+layout_mode = 2
+texture_normal = ExtResource("6_txwxk")
+texture_pressed = ExtResource("7_jrg4k")
+texture_hover = ExtResource("8_onfi7")
+
+[node name="Label" type="Label" parent="PanelContainer/ButtonContainer/AgreeButton" unique_id=544985605]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -22.0
+offset_top = -27.5
+offset_right = 58.0
+offset_bottom = 17.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.25, 0.35, 0.13, 1)
+theme_override_font_sizes/font_size = 32
+text = "同  意"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[connection signal="pressed" from="PanelContainer/ButtonContainer/DisagreeButton" to="." method="_on_disagree_pressed"]
+[connection signal="pressed" from="PanelContainer/ButtonContainer/AgreeButton" to="." method="_on_agree_pressed"]

@@ -19,7 +19,7 @@ func show_popup(message: String = tr("确定要退出游戏吗？")) -> void:
 
 	var tween = create_tween()
 	tween.set_parallel(true)
-	tween.tween_property(dim_overlay, "color", Color(0, 0, 0, 0.6), 0.3)
+	tween.tween_property(dim_overlay, "color", Color(0, 0, 0, 0.8), 0.3)
 	tween.tween_property(panel, "scale", Vector2.ONE, 0.3).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
 	tween.tween_property(panel, "modulate:a", 1.0, 0.2)
 
