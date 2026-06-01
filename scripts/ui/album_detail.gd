@@ -71,10 +71,14 @@ var _pending_display: bool = false
 var _swipe_start_pos: Vector2 = Vector2.ZERO
 var _swipe_min_distance: float = 50.0
 var _viewer_close_msec: int = 0
+var _orientation_switching: bool = false
+var _orientation_generation: int = 0
+var _orientation_updating: bool = false
 
 const REGION_GAP: float = 0.0
 
 var _fullscreen_viewer: CanvasLayer = null
+var _viewer_area: Control = null
 
 func _ready() -> void:
 	p_illustration_area.resized.connect(_on_illustration_area_resized.bind(p_illustration_area))
@@ -202,17 +206,32 @@ func _get_display_index() -> int:
 		return idx - 1
 	return idx
 
+func _kill_area_tweens(area: Control) -> void:
+	if not is_instance_valid(area):
+		return
+	if area.has_meta("reveal_tween"):
+		var tween: Tween = area.get_meta("reveal_tween")
+		if tween and tween.is_valid():
+			tween.kill()
+		area.remove_meta("reveal_tween")
+	if area.has_meta("fade_tween"):
+		var tween: Tween = area.get_meta("fade_tween")
+		if tween and tween.is_valid():
+			tween.kill()
+		area.remove_meta("fade_tween")
+	_stop_typewriter(area)
+
 func _clear_page(title: Label, area: Control, text: Label, page_num: Label) -> void:
 	title.text = ""
 	text.text = ""
 	page_num.text = ""
-	_stop_typewriter(area)
+	_kill_area_tweens(area)
 	if area.has_meta("illustration_ctx"):
 		area.remove_meta("illustration_ctx")
 	var children = area.get_children()
 	for child in children:
 		area.remove_child(child)
-		child.free()
+		child.queue_free()
 
 func _load_picture(picture: Dictionary, title: Label, area: Control, text_label: Label, page_num: Label, picture_index: int) -> void:
 	var pic_id = picture.get("id", "")
@@ -330,11 +349,7 @@ func _string_to_seed(s: String) -> int:
 	return abs(hash_val) & 0x7fffffff
 
 func _build_illustration(area: Control, picture: Dictionary, picture_index: int) -> void:
-	if area.has_meta("reveal_tween"):
-		var old_tween: Tween = area.get_meta("reveal_tween")
-		if old_tween and old_tween.is_valid():
-			old_tween.kill()
-		area.remove_meta("reveal_tween")
+	_kill_area_tweens(area)
 	if area.has_meta("illustration_ctx"):
 		area.remove_meta("illustration_ctx")
 
@@ -668,7 +683,7 @@ func _play_puzzle_reveal_animation(area: Control, ctx: Dictionary, puzzle_idx: i
 
 	if layout.display_w <= 0 or layout.display_h <= 0:
 		await get_tree().process_frame
-		if not is_instance_valid(area) or not area.has_meta("illustration_ctx"):
+		if not is_inside_tree() or not is_instance_valid(area) or not area.has_meta("illustration_ctx"):
 			_just_completed_puzzle_id = ""
 			return
 		layout = _get_illustration_layout(area, ctx)
@@ -711,7 +726,7 @@ func _play_puzzle_reveal_animation(area: Control, ctx: Dictionary, puzzle_idx: i
 	tween.parallel().tween_property(overlay, "modulate:a", 1.0, 0.6).set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_OUT)
 	tween.tween_callback(func():
 		_just_completed_puzzle_id = ""
-		if not is_instance_valid(btn):
+		if not is_inside_tree() or not is_instance_valid(btn):
 			if is_instance_valid(overlay):
 				overlay.queue_free()
 			return
@@ -878,6 +893,8 @@ func _update_illustration_layout(area: Control) -> void:
 	_update_completed_illustration_layout(area)
 
 func _on_animation_finished(pic_id: String, area: Control) -> void:
+	if not is_inside_tree() or not is_instance_valid(area):
+		return
 	GameManager.mark_animation_shown(pic_id)
 	if _pending_light_fly_picture_id == pic_id and _is_area_in_active_orientation(area):
 		_pending_light_fly_picture_id = ""
@@ -890,6 +907,8 @@ func _is_area_in_active_orientation(area: Control) -> bool:
 	return area == p_illustration_area
 
 func _enable_hd_click(area: Control) -> void:
+	if not is_inside_tree() or not is_instance_valid(area):
+		return
 	var hd_rect = area.get_node_or_null("HDImageRect") as TextureRect
 	if hd_rect:
 		hd_rect.gui_input.connect(_on_hd_image_input.bind(area))
@@ -910,42 +929,45 @@ func _show_fullscreen_viewer(area: Control) -> void:
 	if not illust_tex:
 		return
 
+	_viewer_area = area
+	var area_rect = area.get_global_rect()
+	var area_center = area_rect.position + area_rect.size * 0.5
+	var vp_size = get_viewport().get_visible_rect().size
+	var screen_center = vp_size * 0.5
+
 	var canvas = CanvasLayer.new()
 	canvas.layer = 100
 
 	var overlay = ColorRect.new()
+	overlay.name = "DimBg"
 	overlay.set_anchors_preset(Control.PRESET_FULL_RECT)
-	overlay.color = Color(0, 0, 0, 0.75)
+	overlay.color = Color(0, 0, 0, 0.0)
+	overlay.mouse_filter = Control.MOUSE_FILTER_STOP
+	overlay.gui_input.connect(_on_viewer_overlay_input)
 
 	var img_rect = TextureRect.new()
+	img_rect.name = "ViewerImage"
 	img_rect.set_anchors_preset(Control.PRESET_FULL_RECT)
 	img_rect.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
 	img_rect.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 	img_rect.mouse_filter = Control.MOUSE_FILTER_IGNORE
 	img_rect.texture = illust_tex
 
-	var back_btn = TextureButton.new()
-	back_btn.offset_left = 20.0
-	back_btn.offset_top = 20.0
-	back_btn.offset_right = 122.0
-	back_btn.offset_bottom = 124.0
-	back_btn.texture_normal = preload("res://assets/images/ui/back_button.png")
-	back_btn.texture_pressed = preload("res://assets/images/ui/back_button_pressed.png")
-	back_btn.texture_hover = preload("res://assets/images/ui/back_button_hover.png")
-	back_btn.z_index = 10
-
 	canvas.add_child(overlay)
 	canvas.add_child(img_rect)
-	canvas.add_child(back_btn)
 	add_child(canvas)
 
-	back_btn.pressed.connect(_close_fullscreen_viewer)
-	overlay.gui_input.connect(_on_viewer_overlay_input)
-
 	_fullscreen_viewer = canvas
+
+	img_rect.pivot_offset = screen_center
+	var start_scale = Vector2(area_rect.size.x / vp_size.x, area_rect.size.y / vp_size.y)
+	img_rect.scale = start_scale
 	img_rect.modulate.a = 0.0
+
 	var tween = create_tween()
-	tween.tween_property(img_rect, "modulate:a", 1.0, 0.3)
+	tween.tween_property(overlay, "color:a", 0.75, 0.3).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_OUT)
+	tween.parallel().tween_property(img_rect, "scale", Vector2.ONE, 0.3).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
+	tween.parallel().tween_property(img_rect, "modulate:a", 1.0, 0.2)
 
 func _on_viewer_overlay_input(event: InputEvent) -> void:
 	if event is InputEventMouseButton and event.pressed and event.button_index == MOUSE_BUTTON_LEFT:
@@ -960,8 +982,23 @@ func _close_fullscreen_viewer() -> void:
 	_fullscreen_viewer = null
 	_viewer_close_msec = Time.get_ticks_msec()
 	_swipe_start_pos = Vector2.ZERO
+
+	var img_rect = viewer.get_node_or_null("ViewerImage") as TextureRect
+	var dim_bg = viewer.get_node_or_null("DimBg") as ColorRect
+
+	var target_scale = Vector2.ONE
+	if _viewer_area and is_instance_valid(_viewer_area):
+		var area_rect = _viewer_area.get_global_rect()
+		var vp_size = get_viewport().get_visible_rect().size
+		target_scale = Vector2(area_rect.size.x / vp_size.x, area_rect.size.y / vp_size.y)
+	_viewer_area = null
+
 	var tween = create_tween()
-	tween.tween_property(viewer, "modulate:a", 0.0, 0.2)
+	if dim_bg:
+		tween.tween_property(dim_bg, "color:a", 0.0, 0.25).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN)
+	if img_rect:
+		tween.parallel().tween_property(img_rect, "scale", target_scale, 0.25).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN)
+		tween.parallel().tween_property(img_rect, "modulate:a", 0.0, 0.25).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN)
 	tween.tween_callback(viewer.queue_free)
 
 func _set_sweep_progress(value: float, shader_mat: ShaderMaterial) -> void:
@@ -1091,6 +1128,8 @@ func _update_region_positions(area: Control = null) -> void:
 		btn.size = Vector2(layout.cell_w, layout.cell_h)
 
 func _on_illustration_area_resized(area: Control) -> void:
+	if _orientation_updating:
+		return
 	_update_illustration_layout(area)
 
 func _on_region_clicked(puzzle: PuzzleData) -> void:
@@ -1208,6 +1247,8 @@ func _input(event: InputEvent) -> void:
 		return
 	if _fullscreen_viewer:
 		return
+	if _has_badge_overlay():
+		return
 	if event is InputEventScreenTouch:
 		if event.pressed:
 			_swipe_start_pos = event.position
@@ -1221,6 +1262,13 @@ func _input(event: InputEvent) -> void:
 			else:
 				_handle_illustration_tap(event.position)
 			_swipe_start_pos = Vector2.ZERO
+
+func _has_badge_overlay() -> bool:
+	var badges = get_tree().get_nodes_in_group("badge_buttons")
+	for badge in badges:
+		if badge is TextureButton and badge._is_showing_overlay:
+			return true
+	return false
 
 func _handle_illustration_tap(pos: Vector2) -> void:
 	if Time.get_ticks_msec() - _viewer_close_msec < 300:
@@ -1258,6 +1306,27 @@ func _on_orientation_changed(new_orientation: int) -> void:
 func _apply_orientation(orientation: int) -> void:
 	if not is_inside_tree():
 		return
+	if _orientation_switching:
+		return
+	_orientation_switching = true
+	_orientation_generation += 1
+	var gen = _orientation_generation
+	_orientation_updating = true
+	_loading_textures.clear()
+	_pending_display = false
+	_preload_pending = false
+	_kill_area_tweens(p_illustration_area)
+	_kill_area_tweens(l_illustration_area)
+	_kill_area_tweens(l_illustration_area2)
+	if p_illustration_area.has_meta("illustration_ctx"):
+		p_illustration_area.remove_meta("illustration_ctx")
+	if l_illustration_area.has_meta("illustration_ctx"):
+		l_illustration_area.remove_meta("illustration_ctx")
+	if l_illustration_area2.has_meta("illustration_ctx"):
+		l_illustration_area2.remove_meta("illustration_ctx")
+	_clear_area_children(p_illustration_area)
+	_clear_area_children(l_illustration_area)
+	_clear_area_children(l_illustration_area2)
 	if orientation == OrientationManager.Orientation.PORTRAIT:
 		portrait_ui.visible = true
 		p_left_button.visible = true
@@ -1272,6 +1341,17 @@ func _apply_orientation(orientation: int) -> void:
 		landscape_ui.visible = true
 		l_left_button.visible = true
 		l_right_button.visible = true
+	_orientation_switching = false
+	_rebuild_after_orientation.call_deferred(gen)
+
+func _rebuild_after_orientation(gen: int) -> void:
+	if not is_inside_tree():
+		_orientation_updating = false
+		return
+	if gen != _orientation_generation:
+		_orientation_updating = false
+		return
+	_orientation_updating = false
 	_display_current_pages()
 
 func _schedule_preload_adjacent() -> void:
@@ -1279,6 +1359,9 @@ func _schedule_preload_adjacent() -> void:
 		return
 	_preload_pending = true
 	await get_tree().create_timer(0.1).timeout
+	if not is_inside_tree():
+		_preload_pending = false
+		return
 	_do_preload_adjacent()
 
 func _do_preload_adjacent() -> void:
@@ -1335,6 +1418,9 @@ func _preload_picture_resources(picture: Dictionary) -> void:
 			_process_texture_loading.call_deferred()
 
 func _process_texture_loading() -> void:
+	if not is_inside_tree():
+		_pending_display = false
+		return
 	_pending_display = false
 	var keys = _loading_textures.keys()
 	for pic_id in keys:
@@ -1390,6 +1476,9 @@ func _process_texture_loading() -> void:
 	if not _loading_textures.is_empty():
 		_pending_display = true
 		await get_tree().process_frame
+		if not is_inside_tree():
+			_pending_display = false
+			return
 		_process_texture_loading()
 
 
@@ -1516,6 +1605,8 @@ func _find_illustration_area_for_picture(picture_id: String) -> Control:
 
 
 func _play_light_fly_to_badge(picture_id: String) -> void:
+	if not is_inside_tree():
+		return
 	var chapter = _find_chapter_for_picture(picture_id)
 	if chapter.is_empty():
 		_update_chapter_badges()
@@ -1554,6 +1645,10 @@ func _play_light_fly_to_badge(picture_id: String) -> void:
 	tween.parallel().tween_property(light, "scale", Vector2(0.6, 0.6), duration).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN)
 
 	tween.tween_callback(func():
+		if not is_inside_tree():
+			if is_instance_valid(light):
+				light.queue_free()
+			return
 		if is_instance_valid(light):
 			light.queue_free()
 		if is_instance_valid(badge) and badge.has_method("increment_count"):

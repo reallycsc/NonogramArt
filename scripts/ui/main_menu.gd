@@ -16,6 +16,38 @@ extends Control
 
 var _exit_callback: Callable = func(): get_tree().quit()
 
+var _cloud_sync_mask: CanvasLayer = null
+var _cloud_sync_timeout: Timer = null
+var _pending_enter_bookshelf: bool = false
+
+class _CloudSyncSpinner extends Control:
+	var _angle: float = 0.0
+
+	func _ready():
+		custom_minimum_size = Vector2(56, 56)
+
+	func _process(delta):
+		_angle = fmod(_angle + delta * 3.5, TAU)
+		queue_redraw()
+
+	func _draw():
+		var center = size / 2.0
+		var radius = min(size.x, size.y) * 0.4
+		if radius <= 0:
+			return
+		var arc_length = PI * 1.3
+		var segments = 30
+		var line_width = 4.0
+		for i in range(segments):
+			var t1 = float(i) / float(segments)
+			var t2 = float(i + 1) / float(segments)
+			var alpha = 1.0 - t1
+			var a1 = _angle + t1 * arc_length
+			var a2 = _angle + t2 * arc_length
+			var p1 = center + Vector2(cos(a1), sin(a1)) * radius
+			var p2 = center + Vector2(cos(a2), sin(a2)) * radius
+			draw_line(p1, p2, Color(1, 1, 1, alpha), line_width, true)
+
 const TAPTAP_CLIENT_ID: String = "fictuviuwc34cqheew"
 const TAPTAP_CLIENT_TOKEN: String = "N9tct6MZ6P0PmKSe7yrsC2D79Jm370eLnW7iO8pS"
 const TAPTAP_SERVER_URL: String = ""
@@ -50,6 +82,12 @@ func _exit_tree() -> void:
 		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
 	if GameManager.language_changed.is_connected(_on_language_changed):
 		GameManager.language_changed.disconnect(_on_language_changed)
+	if GameManager.cloud_sync_completed.is_connected(_on_cloud_sync_completed):
+		GameManager.cloud_sync_completed.disconnect(_on_cloud_sync_completed)
+	if _cloud_sync_timeout != null:
+		_cloud_sync_timeout.stop()
+		_cloud_sync_timeout.queue_free()
+		_cloud_sync_timeout = null
 
 func _setup_taptap() -> void:
 	if not TapTapManager.is_available():
@@ -75,6 +113,32 @@ func _init_taptap_sdk() -> void:
 	TapTapManager.init_update(TAPTAP_CLIENT_ID, TAPTAP_CLIENT_TOKEN)
 	TapTapManager.init_cloud_save()
 	TapTapManager.init_leaderboard()
+	TapTapManager.init_friends()
+	AdManager.init_ad()
+	if TapTapManager.is_sdk_logged_in():
+		_handle_cached_login()
+
+func _handle_cached_login() -> void:
+	var user_info = TapTapManager.get_current_user_info()
+	if user_info.is_empty():
+		return
+	TapTapManager._is_logged_in = true
+	TapTapManager._user_info = user_info
+	TapTapManager._login_time = Time.get_ticks_msec() / 1000.0
+	TapTapManager._sdk_api_ready = false
+	if TapTapManager._api_ready_timer == null:
+		TapTapManager._api_ready_timer = Timer.new()
+		TapTapManager._api_ready_timer.one_shot = true
+		TapTapManager._api_ready_timer.timeout.connect(TapTapManager._on_api_ready)
+		TapTapManager.add_child(TapTapManager._api_ready_timer)
+	TapTapManager._api_ready_timer.start(2.0)
+	GameManager.taptap_user_id = user_info.get("user_id", "")
+	TapTapManager.get_friends_list()
+	_try_restore_cloud_save()
+	if GameManager.data_preloaded:
+		TapTapManager.check_anti_addiction()
+	else:
+		_enter_when_ready = true
 
 func _on_privacy_agreed() -> void:
 	GameManager.privacy_agreed = true
@@ -87,6 +151,7 @@ func _on_privacy_disagreed() -> void:
 func _on_taptap_login_success(user_info: Dictionary) -> void:
 	print("登录成功")
 	TapTapManager.check_anti_addiction()
+	TapTapManager.get_friends_list()
 
 func _on_taptap_login_failed(error: String) -> void:
 	ToastManager.show_toast(tr("登录失败: %s") % error)
@@ -94,7 +159,8 @@ func _on_taptap_login_failed(error: String) -> void:
 func _on_anti_addiction_callback(code: String, message: String) -> void:
 	match code:
 		"500":
-			_try_restore_cloud_save_then_enter()
+			_try_restore_cloud_save()
+			_enter_bookshelf()
 		"1000", "1001":
 			ToastManager.show_toast(tr("请重新登录"))
 		"1030":
@@ -106,66 +172,66 @@ func _on_anti_addiction_callback(code: String, message: String) -> void:
 		"1200":
 			ToastManager.show_toast(tr("网络错误，请检查网络"))
 		_:
-			_enter_bookshelf.call_deferred()
+			_try_restore_cloud_save()
+			_enter_bookshelf()
 
 var _pending_cloud_save_json: String = ""
+var _cloud_save_restore_started: bool = false
+var _enter_when_ready: bool = false
 
-func _try_restore_cloud_save_then_enter() -> void:
-	if TapTapManager.is_available() and TapTapManager.is_logged_in() and not TapTapManager.is_mock_mode():
-		if not TapTapManager._sdk_api_ready:
-			TapTapManager.sdk_api_ready.connect(_on_sdk_api_ready_for_restore, CONNECT_ONE_SHOT)
-			return
-		TapTapManager.cloud_save_list.connect(_on_cloud_save_list_for_restore, CONNECT_ONE_SHOT)
+func _try_restore_cloud_save() -> void:
+	if _cloud_save_restore_started:
+		return
+	if not TapTapManager.is_available() or not TapTapManager.is_logged_in() or TapTapManager.is_mock_mode():
+		return
+	_cloud_save_restore_started = true
+	GameManager.cloud_sync_in_progress = true
+	var _finish_sync = func():
+		GameManager.cloud_sync_in_progress = false
+		GameManager.cloud_sync_completed.emit()
+	var do_load_list = func():
+		TapTapManager.cloud_save_list.connect(func(archives_json):
+			if archives_json.is_empty():
+				_finish_sync.call()
+				return
+			var json = JSON.new()
+			if json.parse(archives_json) != OK:
+				_finish_sync.call()
+				return
+			var archives = json.data.get("archives", [])
+			if archives.is_empty():
+				_finish_sync.call()
+				return
+			var latest = archives[0]
+			var archive_id = latest.get("archiveId", "")
+			var file_id = latest.get("fileId", "")
+			if archive_id.is_empty() or file_id.is_empty():
+				_finish_sync.call()
+				return
+			TapTapManager.cloud_save_data.connect(func(save_json):
+				if save_json.is_empty():
+					_finish_sync.call()
+					return
+				var comparison = GameManager.compare_with_cloud_save(save_json)
+				if comparison["cloud_newer"]:
+					GameManager.load_from_cloud_save(save_json)
+				_finish_sync.call()
+			, CONNECT_ONE_SHOT)
+			TapTapManager.load_cloud_save_data(archive_id, file_id)
+		, CONNECT_ONE_SHOT)
 		TapTapManager.load_cloud_save_list()
+	if TapTapManager._sdk_api_ready:
+		do_load_list.call()
 	else:
-		_enter_bookshelf.call_deferred()
-
-func _on_sdk_api_ready_for_restore() -> void:
-	TapTapManager.cloud_save_list.connect(_on_cloud_save_list_for_restore, CONNECT_ONE_SHOT)
-	TapTapManager.load_cloud_save_list()
-
-func _on_cloud_save_list_for_restore(archives_json: String) -> void:
-	if archives_json.is_empty():
-		_enter_bookshelf.call_deferred()
-		return
-	var json = JSON.new()
-	if json.parse(archives_json) != OK:
-		_enter_bookshelf.call_deferred()
-		return
-	var archives = json.data.get("archives", [])
-	if archives.is_empty():
-		_enter_bookshelf.call_deferred()
-		return
-	var latest = archives[0]
-	var archive_id = latest.get("archiveId", "")
-	var file_id = latest.get("fileId", "")
-	if archive_id.is_empty() or file_id.is_empty():
-		_enter_bookshelf.call_deferred()
-		return
-	TapTapManager.cloud_save_data.connect(_on_cloud_save_data_for_restore, CONNECT_ONE_SHOT)
-	TapTapManager.load_cloud_save_data(archive_id, file_id)
-
-func _on_cloud_save_data_for_restore(save_json: String) -> void:
-	if save_json.is_empty():
-		_enter_bookshelf.call_deferred()
-		return
-	var comparison = GameManager.compare_with_cloud_save(save_json)
-	if comparison["conflict"]:
-		_pending_cloud_save_json = save_json
-		cloud_conflict_popup.show_popup(comparison["local_info"], comparison["cloud_info"])
-	else:
-		if comparison["cloud_newer"]:
-			GameManager.load_from_cloud_save(save_json)
-		_enter_bookshelf.call_deferred()
+		TapTapManager.sdk_api_ready.connect(do_load_list, CONNECT_ONE_SHOT)
 
 func _on_cloud_conflict_use_local() -> void:
-	_enter_bookshelf.call_deferred()
+	pass
 
 func _on_cloud_conflict_use_cloud() -> void:
 	if not _pending_cloud_save_json.is_empty():
 		GameManager.load_from_cloud_save(_pending_cloud_save_json)
 	_pending_cloud_save_json = ""
-	_enter_bookshelf.call_deferred()
 
 func _update_buttons() -> void:
 	if load_panel.visible:
@@ -173,6 +239,10 @@ func _update_buttons() -> void:
 		$StartButton.visible = false
 		return
 	if not TapTapManager.is_available():
+		login_button.visible = false
+		$StartButton.visible = true
+		return
+	if TapTapManager.is_pc_mode() and not TapTapManager._is_sdk_initialized:
 		login_button.visible = false
 		$StartButton.visible = true
 		return
@@ -206,12 +276,31 @@ func _on_preload_progress(step: int, _total: int, description: String) -> void:
 func _on_preload_finished() -> void:
 	load_panel.visible = false
 	_update_buttons()
+	if _enter_when_ready:
+		_enter_when_ready = false
+		TapTapManager.check_anti_addiction()
 
 func _on_start_pressed() -> void:
 	AudioManager.play_sfx("click")
+	_try_restore_cloud_save()
 	_enter_bookshelf()
 
 func _enter_bookshelf() -> void:
+	if GameManager.cloud_sync_in_progress:
+		_pending_enter_bookshelf = true
+		_show_cloud_sync_mask()
+		if not GameManager.cloud_sync_completed.is_connected(_on_cloud_sync_completed):
+			GameManager.cloud_sync_completed.connect(_on_cloud_sync_completed, CONNECT_ONE_SHOT)
+		if _cloud_sync_timeout == null:
+			_cloud_sync_timeout = Timer.new()
+			_cloud_sync_timeout.one_shot = true
+			_cloud_sync_timeout.timeout.connect(_on_cloud_sync_timeout)
+			add_child(_cloud_sync_timeout)
+			_cloud_sync_timeout.start(15.0)
+		return
+	_do_enter_bookshelf()
+
+func _do_enter_bookshelf() -> void:
 	var tree = get_tree()
 	if tree:
 		tree.change_scene_to_file("res://scenes/book_shelf.tscn")
@@ -250,3 +339,57 @@ func _on_exit_confirmed() -> void:
 
 func _on_exit_cancelled() -> void:
 	pass
+
+func _show_cloud_sync_mask() -> void:
+	if _cloud_sync_mask != null:
+		_cloud_sync_mask.visible = true
+		return
+	_cloud_sync_mask = CanvasLayer.new()
+	_cloud_sync_mask.layer = 10
+	add_child(_cloud_sync_mask)
+	var mask = Control.new()
+	mask.set_anchors_preset(Control.PRESET_FULL_RECT)
+	mask.mouse_filter = Control.MOUSE_FILTER_STOP
+	_cloud_sync_mask.add_child(mask)
+	var bg = ColorRect.new()
+	bg.set_anchors_preset(Control.PRESET_FULL_RECT)
+	bg.color = Color(0, 0, 0, 0.6)
+	mask.add_child(bg)
+	var center_box = VBoxContainer.new()
+	center_box.set_anchors_preset(Control.PRESET_CENTER)
+	center_box.offset_left = -60
+	center_box.offset_top = -50
+	center_box.offset_right = 60
+	center_box.offset_bottom = 50
+	center_box.alignment = BoxContainer.ALIGNMENT_CENTER
+	mask.add_child(center_box)
+	var spinner = _CloudSyncSpinner.new()
+	center_box.add_child(spinner)
+	var label = Label.new()
+	label.text = tr("正在同步云存档")
+	label.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
+	label.add_theme_color_override("font_color", Color(1, 1, 1, 1))
+	label.add_theme_font_size_override("font_size", 22)
+	center_box.add_child(label)
+
+func _hide_cloud_sync_mask() -> void:
+	if _cloud_sync_mask != null:
+		_cloud_sync_mask.queue_free()
+		_cloud_sync_mask = null
+	if _cloud_sync_timeout != null:
+		_cloud_sync_timeout.stop()
+		_cloud_sync_timeout.queue_free()
+		_cloud_sync_timeout = null
+
+func _on_cloud_sync_completed() -> void:
+	_hide_cloud_sync_mask()
+	if _pending_enter_bookshelf:
+		_pending_enter_bookshelf = false
+		_do_enter_bookshelf()
+
+func _on_cloud_sync_timeout() -> void:
+	print("MainMenu: Cloud sync timeout, entering bookshelf anyway")
+	_hide_cloud_sync_mask()
+	if _pending_enter_bookshelf:
+		_pending_enter_bookshelf = false
+		_do_enter_bookshelf()

@@ -88,6 +88,7 @@ var _album_id: String = ""
 var _picture_id: String = ""
 var _picture_index: int = -1
 var _puzzle_just_completed: bool = false
+var _ad_reward_handled: bool = false
 
 func _ready():
 	if GameManager.test_mode:
@@ -108,10 +109,16 @@ func _ready():
 	GameManager.nonogram_game_over.connect(_on_game_over)
 	
 	game_over_popup.restart_requested.connect(_on_restart_button_pressed)
-	game_over_popup.exit_requested.connect(_on_back_button_pressed)
+	game_over_popup.exit_requested.connect(_on_back_button_confirmed)
+	game_over_popup.ad_reward_requested.connect(_on_ad_reward_requested)
 	exit_confirm_popup.confirmed.connect(_on_back_button_confirmed)
 
 	OrientationManager.orientation_changed.connect(_on_orientation_changed)
+	
+	AdManager.rewarded_complete.connect(_on_ad_reward_complete)
+	AdManager.rewarded_skipped.connect(_on_ad_reward_skipped)
+	AdManager.rewarded_load_failed.connect(_on_ad_reward_load_failed)
+	AdManager.rewarded_close.connect(_on_ad_reward_close)
 	
 	_detect_input_device()
 	l_check_button.button_pressed = true
@@ -250,7 +257,7 @@ func setup_board_size_and_position():
 	var screen_size = get_viewport_rect().size
 	if _original_board_size == Vector2.ZERO:
 		_original_board_size = board_size
-	var scale_vector = screen_size / _original_board_size
+	var scale_vector = screen_size / _original_board_size * 0.95
 	var new_scale = Vector2.ONE * min(scale_vector.x, scale_vector.y)
 	game_board.scale = new_scale
 	board_size = _original_board_size * new_scale
@@ -570,6 +577,8 @@ func _unhandled_input(event: InputEvent) -> void:
 			help_popup.hide()
 			get_viewport().set_input_as_handled()
 		return
+	if game_over_popup.visible:
+		return
 	if event is InputEventKey and event.keycode == KEY_ESCAPE and event.pressed:
 		_on_back_button_pressed()
 		get_viewport().set_input_as_handled()
@@ -686,20 +695,29 @@ func is_cell_finished(cell_index: Vector2i) -> bool:
 
 # 生命值更新回调
 func _on_life_updated(life: int, x: int = 0, y: int = 0):
-	var cell_index = x * grid_size.y + y
-	if cell_index < cells.size():
-		var cell = cells[cell_index]
-		cell.life_change()
-	# 计算生命值变化
 	var change = life - hp_node.current_hp
 	hp_node.hp_change(change)
-	AudioManager.play_sfx("life_change")
-	# 触发相机震动效果
-	camera.shake()
+	if change < 0:
+		var cell_index = x * grid_size.y + y
+		if cell_index >= 0 and cell_index < cells.size():
+			var cell = cells[cell_index]
+			cell.life_change()
+		AudioManager.play_sfx("life_change")
+		camera.shake()
 
 # 游戏结束回调
 func _on_game_over():
 	is_locked = true
+	is_dragging = false
+	is_row_dragging = false
+	is_col_dragging = false
+	start_cell_index = Vector2i(-1, -1)
+	last_cell_index = Vector2i(-1, -1)
+	cell_state_pair = Vector2i(-1, -1)
+	button_index = MOUSE_BUTTON_NONE
+	_cancel_pending_touch()
+	_cancel_touch_drag()
+	_hide_touch_progress()
 	help_popup.hide()
 	portrait_ui.hide()
 	landscape_ui.hide()
@@ -729,8 +747,20 @@ func _exit_tree() -> void:
 	GameManager.nonogram_game_completed.disconnect(_on_game_completed)
 	GameManager.nonogram_life_updated.disconnect(_on_life_updated)
 	GameManager.nonogram_game_over.disconnect(_on_game_over)
+	if game_over_popup.exit_requested.is_connected(_on_back_button_pressed):
+		game_over_popup.exit_requested.disconnect(_on_back_button_pressed)
+	if game_over_popup.ad_reward_requested.is_connected(_on_ad_reward_requested):
+		game_over_popup.ad_reward_requested.disconnect(_on_ad_reward_requested)
 	AnimationManager.clear_queue()
 	_minimap = null
+	if AdManager.rewarded_complete.is_connected(_on_ad_reward_complete):
+		AdManager.rewarded_complete.disconnect(_on_ad_reward_complete)
+	if AdManager.rewarded_skipped.is_connected(_on_ad_reward_skipped):
+		AdManager.rewarded_skipped.disconnect(_on_ad_reward_skipped)
+	if AdManager.rewarded_load_failed.is_connected(_on_ad_reward_load_failed):
+		AdManager.rewarded_load_failed.disconnect(_on_ad_reward_load_failed)
+	if AdManager.rewarded_close.is_connected(_on_ad_reward_close):
+		AdManager.rewarded_close.disconnect(_on_ad_reward_close)
 
 
 func _detect_input_device() -> void:
@@ -912,6 +942,8 @@ func _input(event: InputEvent) -> void:
 	if exit_confirm_popup.visible:
 		return
 	if help_popup.visible:
+		return
+	if game_over_popup.visible:
 		return
 	if not AnimationManager.wait_for_all_animations():
 		return
@@ -1096,6 +1128,37 @@ func _on_camera_zoom_changed(new_zoom: float) -> void:
 func _on_help_button_pressed() -> void:
 	AudioManager.play_sfx("click")
 	help_popup.show_help()
+
+func _on_ad_reward_requested() -> void:
+	_ad_reward_handled = false
+	AdManager.load_rewarded_video()
+
+func _on_ad_reward_complete(reward_info: String) -> void:
+	_ad_reward_handled = true
+	NonogramManager.add_life(3)
+	hp_node.reset_game_over()
+	game_over_popup.continue_after_ad()
+	await get_tree().create_timer(0.5).timeout
+	game_over_popup.visible = false
+	is_locked = false
+	hp_node.show()
+	if OrientationManager.current_orientation == OrientationManager.Orientation.PORTRAIT:
+		portrait_ui.show()
+	else:
+		landscape_ui.show()
+	if _minimap:
+		_minimap.force_show()
+
+func _on_ad_reward_skipped() -> void:
+	game_over_popup.show_game_over()
+
+func _on_ad_reward_load_failed(reason: String) -> void:
+	game_over_popup.show_game_over()
+
+func _on_ad_reward_close() -> void:
+	if _ad_reward_handled:
+		return
+	game_over_popup.show_game_over()
 
 
 func _on_check_button_pressed() -> void:

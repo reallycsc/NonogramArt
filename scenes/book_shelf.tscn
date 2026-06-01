@@ -388,8 +388,8 @@ offset_bottom = -30.0
 grow_horizontal = 2
 grow_vertical = 0
 theme_override_colors/font_color = Color(0.3647059, 0.20392157, 0.08627451, 1)
-theme_override_font_sizes/font_size = 18
-text = "杭州：9999"
+theme_override_font_sizes/font_size = 22
+text = "9999"
 horizontal_alignment = 1
 vertical_alignment = 1
 

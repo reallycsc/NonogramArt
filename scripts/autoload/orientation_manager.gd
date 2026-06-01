@@ -16,6 +16,10 @@ var _debounce_timer: float = 0.0
 var _debounce_duration: float = 0.5
 var _pending_orientation: int = Orientation.PORTRAIT
 var _last_screen_size: Vector2i = Vector2i.ZERO
+var _screen_size_debounce_timer: float = 0.0
+var _screen_size_debounce_duration: float = 0.15
+var _pending_screen_orientation: int = -1
+var _applying_orientation: bool = false
 
 func _ready() -> void:
 	_is_desktop = OS.get_name() in ["Windows", "macOS", "Linux"]
@@ -75,9 +79,9 @@ func _try_enable_sensor() -> void:
 func _process(delta: float) -> void:
 	if not auto_rotate_enabled:
 		return
-	if _is_desktop:
-		return
-	_check_orientation_by_sensor(delta)
+	if not _is_desktop:
+		_check_orientation_by_sensor(delta)
+	_process_screen_size_debounce(delta)
 	_check_orientation_by_screen_size()
 
 func _check_orientation_by_sensor(delta: float) -> void:
@@ -114,14 +118,30 @@ func _check_orientation_by_screen_size() -> void:
 	else:
 		detected = Orientation.PORTRAIT
 	if detected != current_orientation:
-		_apply_orientation(detected)
+		_pending_screen_orientation = detected
+		_screen_size_debounce_timer = 0.0
+
+func _process_screen_size_debounce(delta: float) -> void:
+	if _pending_screen_orientation == -1:
+		return
+	_screen_size_debounce_timer += delta
+	if _screen_size_debounce_timer >= _screen_size_debounce_duration:
+		var target = _pending_screen_orientation
+		_pending_screen_orientation = -1
+		_screen_size_debounce_timer = 0.0
+		if target != current_orientation:
+			_apply_orientation(target)
 
 func _apply_orientation(orientation: int) -> void:
+	if _applying_orientation:
+		return
+	_applying_orientation = true
 	current_orientation = orientation
 	_apply_viewport_size()
 	if not auto_rotate_enabled:
 		_sync_display_orientation()
 	orientation_changed.emit(orientation)
+	_applying_orientation = false
 
 func _sync_display_orientation() -> void:
 	match current_orientation:

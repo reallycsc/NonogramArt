@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="tapad_logo_color">#ACADB1</color>
+    <color name="tapad_notification_button_stroke">#6B9FFF</color>
+    <color name="tapad_notification_button_text">#6B9FFF</color>
+    <color name="tapad_text_description">#EAEAEC</color>
+    <color name="tapad_text_title">#FFFFFF</color>
     <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
     <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
     <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>

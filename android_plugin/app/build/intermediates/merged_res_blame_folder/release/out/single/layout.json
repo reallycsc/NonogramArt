@@ -1,150 +1,458 @@
 [
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_screen_simple.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_screen_simple.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_notification_content.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_notification_content.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/custom_dialog.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-4:/layout/custom_dialog.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_webview_bottom_downloading.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_webview_bottom_downloading.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_action_bar_up_container.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_action_bar_up_container.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_tag.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_tag.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/select_dialog_multichoice_material.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/select_dialog_multichoice_material.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_text_float_default.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_text_float_default.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_action_mode_bar.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_action_mode_bar.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_image_text_score.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_image_text_score.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_action_menu_item_layout.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_action_menu_item_layout.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_action_bar_title_item.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_action_bar_title_item.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_list_menu_item_radio.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_activity_chooser_view.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_activity_chooser_view.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_logo_inner_image.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_logo_inner_image.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/select_dialog_singlechoice_material.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/select_dialog_singlechoice_material.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_text_float_score.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_text_float_score.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_action_menu_layout.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_action_menu_layout.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_new_reward_complete_portrait.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_new_reward_complete_portrait.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_action_bar_title_item.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_alert_dialog_title_material.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_alert_dialog_title_material.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_new_reward_complete_landscape.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_new_reward_complete_landscape.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/select_dialog_singlechoice_material.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_cascading_menu_item_layout.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_cascading_menu_item_layout.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_screen_simple.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_action_mode_close_item_material.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_action_mode_close_item_material.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_new_reward_banner_landscape_material_horizontal.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_new_reward_banner_landscape_material_horizontal.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_screen_content_include.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_screen_content_include.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_template_part_chronometer.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-5:/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/notification_template_part_chronometer.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-4:/layout/notification_template_part_chronometer.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_alert_dialog_title_material.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/ime_base_split_test_activity.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-4:/layout/ime_base_split_test_activity.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_new_reward_banner_landscape_material_vertical.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_new_reward_banner_landscape_material_vertical.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_popup_menu_item_layout.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_popup_menu_item_layout.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_image_text_default.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_image_text_default.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_dialog_title_material.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_dialog_title_material.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_new_footer_landscape.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_new_footer_landscape.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_mini_text_image_default.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_mini_text_image_default.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_reward_close_dialog.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_reward_close_dialog.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_expanded_menu_layout.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_expanded_menu_layout.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_text_image_download_two.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_text_image_download_two.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_screen_toolbar.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_screen_toolbar.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_dialog_title_material.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/notification_template_part_time.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-4:/layout/notification_template_part_time.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_new_reward_tag.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_new_reward_tag.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_list_menu_item_icon.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_list_menu_item_icon.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_install_foward.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_install_foward.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-5:/layout/ime_secondary_split_test_activity.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/ime_secondary_split_test_activity.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-4:/layout/ime_secondary_split_test_activity.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_activity_chooser_view.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_alert_dialog_material.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_alert_dialog_material.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_action_menu_item_layout.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_list_menu_item_layout.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_list_menu_item_layout.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_playable_game_loading_landscape.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_playable_game_loading_landscape.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/select_dialog_item_material.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/select_dialog_item_material.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_overlay_container.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_overlay_container.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_tooltip.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_tooltip.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_template_lines_media.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-support-media-compat-28.0.0-16:/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_list_menu_item_radio.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_list_menu_item_radio.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_action_mode_close_item_material.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_search_view.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_search_view.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_reward_close_dialog_ylh_a.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_reward_close_dialog_ylh_a.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_select_dialog_material.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_select_dialog_material.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_alert_dialog_material.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/layout/abc_list_menu_item_checkbox.xml",
-        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-11:/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_reward_close_dialog_ylh_b.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_reward_close_dialog_ylh_b.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_feed_float_h400.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_feed_float_h400.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_media_action.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-support-media-compat-28.0.0-16:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/ime_base_split_test_activity.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-5:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_floating_dialog.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_floating_dialog.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_action_bar_up_container.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_new_reward_popup_btn.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_new_reward_popup_btn.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_list_menu_item_layout.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_banner_train.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_banner_train.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_media_cancel_action.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-support-media-compat-28.0.0-16:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_material_container.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_material_container.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_footer.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_footer.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_playable_drawer_interaction.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_playable_drawer_interaction.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_common_webview_fullscreen.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_common_webview_fullscreen.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_new_reward_banner_portrait_material_vertical.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_new_reward_banner_portrait_material_vertical.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_new_compliance_footer.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_new_compliance_footer.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_dialog_reward_popup_window_1.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_dialog_reward_popup_window_1.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_popup_turntable.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_popup_turntable.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_mini_image_text_score.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_mini_image_text_score.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_feed_float_landscape.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_feed_float_landscape.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_wait_bubble.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_wait_bubble.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_action_menu_layout.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_new_reward_banner_portrait_material_horizontal.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_new_reward_banner_portrait_material_horizontal.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_text_image_score.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_text_image_score.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_dialog_reward_popup_window_2.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_dialog_reward_popup_window_2.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_playable_game_loading_portrait.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_playable_game_loading_portrait.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_itemview_permission_content.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_itemview_permission_content.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_activity_browser.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_activity_browser.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/custom_dialog.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-5:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_action_mode_bar.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_window_novigation.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_window_novigation.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_dialog_reward_popup_window_3.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_dialog_reward_popup_window_3.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_ad_permission_fullscreen.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_ad_permission_fullscreen.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_activity_new_reward_landscape_material_vertical.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_activity_new_reward_landscape_material_vertical.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_reward_close_dialog_csj.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_reward_close_dialog_csj.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_feed_video.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_feed_video.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_template_big_media_narrow.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-support-media-compat-28.0.0-16:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_view_new_reward_banner_complete.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_view_new_reward_banner_complete.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_activity_new_reward_landscape_material_horizontal.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_activity_new_reward_landscape_material_horizontal.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_search_view.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_template_big_media_custom.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-support-media-compat-28.0.0-16:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_select_dialog_material.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_screen_content_include.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_mini_image_text_default.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_mini_image_text_default.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_popup_menu_item_layout.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_activity_playable_portrait.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_activity_playable_portrait.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_list_menu_item_icon.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_apk_new_open_dialog.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_apk_new_open_dialog.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-support-media-compat-28.0.0-16:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_new_footer.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_new_footer.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_activity_new_reward_portrait_material_vertical.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_activity_new_reward_portrait_material_vertical.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_activity_new_reward_portrait_material_horizontal.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_activity_new_reward_portrait_material_horizontal.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_itemview_permission_section_title.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_itemview_permission_section_title.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_reward_install_floating.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_reward_install_floating.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_text_float_only.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_text_float_only.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_text_image_default.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_text_image_default.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_template_media_custom.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-support-media-compat-28.0.0-16:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_activity_playable_landscape.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_activity_playable_landscape.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_screen_toolbar.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_text_image_download_first.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_text_image_download_first.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/select_dialog_item_material.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_banner_waves.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_banner_waves.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_foot_logo_container.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_foot_logo_container.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_image_text_download.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_image_text_download.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_expanded_menu_layout.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_feed_ad_view_mini_text_image_score.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_feed_ad_view_mini_text_image_score.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/abc_tooltip.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_template_part_time.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-core-1.12.0-5:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_template_media.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-support-media-compat-28.0.0-16:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/tapad_ad_dialog_new_reward_skip.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-dirichlet_ad_4.2.5.0-10:/layout/tapad_ad_dialog_new_reward_skip.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/notification_template_big_media.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-support-media-compat-28.0.0-16:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/layout/select_dialog_multichoice_material.xml",
+        "source": "com.reallycsc.nonogramart.taptap.app-appcompat-1.6.1-15:/layout/select_dialog_multichoice_material.xml"
     }
 ]

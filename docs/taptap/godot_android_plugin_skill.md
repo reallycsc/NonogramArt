@@ -153,6 +153,19 @@ cd android_plugin
 
 输出：`app/build/outputs/aar/app-release.aar`
 
+### Step 6.1：配置 ProGuard 混淆规则（可选）
+
+如果启用了 `minifyEnabled true`，需要创建 `app/proguard-rules.pro` 保留第三方 SDK 的类名：
+
+```
+-keep class com.tds.** { *; }
+-keep class com.taptap.** { *; }
+-keep class com.tapsdk.** { *; }
+-keep class tds.androidx.** { *; }
+```
+
+**说明：** TapSDK 使用反射调用内部类，混淆后会导致运行时崩溃。当前项目 `minifyEnabled` 设为 `false`，但保留规则以备后续启用。
+
 ### Step 7：部署到 Godot 项目
 
 将以下文件放入 `android/plugins/` 目录：
@@ -242,6 +255,11 @@ gradle_build/gradle_build_directory=""
 plugins/MyPlugin=true
 ```
 
+**关键说明：**
+- `gradle_build/use_gradle_build=true`：必须开启，否则 `.gdap` 声明的远程依赖不会被下载打包
+- `plugins/MyPlugin=true`：必须在导出预设中勾选插件
+- `gradle_build/gradle_build_directory=""`：空字符串使用默认路径
+
 ## 验证清单
 
 构建 AAR 后，用 ZIP 工具检查 AAR 内容：
@@ -289,6 +307,12 @@ $zip.Dispose()
 | SDK API 编译错误但文档说可以 | v4 SDK 文档与实际 API 不一致 | 用 javap 反编译确认实际签名 |
 | 排行榜回调收到 500102 | 用户未登录 | 引导用户先登录 TapTap |
 | `tap-leaderboard` 找不到 | Maven 依赖名不对 | 使用 `tap-leaderboard-androidx`（带 -androidx 后缀） |
+| `TapCacheManager not initialized` | Ad SDK 初始化时缓存管理器未就绪 | 反射调用 `com.tapsdk.tapad.ll.a().b()` 初始化 |
+| SDK 内部 Context NPE | `getApplicationContext()` 返回 null | 反射设置 `com.tapsdk.tapad.i1.a` 为有效 Context |
+| `Client ID不存在` | AdPlugin 中硬编码了错误的 TapTap Client ID | 使用 `withTapClientId()` 传入正确 ID，或确保在 TapTapSdk.init() 之后初始化 |
+| `Expected N argument(s)` 调用失败 | `@UsedByGodot` 方法使用了 Kotlin 默认参数 | 不使用默认参数，参数数量必须与 GDScript 调用一致 |
+| Gradle 构建后 GDScript 未更新 | PCK 中的 GDScript 不会随 Gradle 构建更新 | 用 Godot 编辑器导出一次更新 PCK，再 Gradle 构建 |
+| 广告素材不存在 (code=100001) | 广告位未配置素材或未审核 | 在 Dirichlet Ad 后台确认广告位配置 |
 
 ## 第三方 SDK 集成模式
 
@@ -385,9 +409,10 @@ TapTapLogin.loginWithScopes(activity, scopes, object : TapTapCallback<TapTapAcco
 ```kotlin
 // 注册回调（只需一次）
 TapTapCompliance.registerComplianceCallback(object : TapTapComplianceCallback {
-    override fun onResult(code: Int, extras: MutableMap<String, Any>?) {
-        // 注意：extras 可能为 null，必须加 ?
-        safeEmit("on_anti_addiction_callback", code.toString(), extras?.get("msg")?.toString() ?: "")
+    override fun onComplianceResult(code: Int, extra: Map<String, Any>?) {
+        // 注意：extra 可能为 null，必须加 ?
+        val msg = extra?.entries?.joinToString("; ") { "${it.key}=${it.value}" } ?: ""
+        safeEmit("on_anti_addiction_callback", code.toString(), msg)
     }
 })
 
@@ -443,15 +468,31 @@ TapTapCloudSave.deleteArchive(archiveId, requestCallback)
 private val mainHandler = Handler(Looper.getMainLooper())
 
 private fun safeEmit(signalName: String, vararg args: Any) {
-    if (Looper.myLooper() == Looper.getMainLooper()) {
-        emitSignal(signalName, *args)
-    } else {
-        mainHandler.post { emitSignal(signalName, *args) }
+    try {
+        if (Looper.myLooper() == Looper.getMainLooper()) {
+            try {
+                emitSignal(signalName, *args)
+            } catch (e: Exception) {
+                Log.e(TAG, "emitSignal failed: $signalName", e)
+            }
+        } else {
+            mainHandler.post {
+                try {
+                    emitSignal(signalName, *args)
+                } catch (e: Exception) {
+                    Log.e(TAG, "emitSignal failed: $signalName", e)
+                }
+            }
+        }
+    } catch (e: Exception) {
+        Log.e(TAG, "safeEmit failed: $signalName", e)
     }
 }
 ```
 
 **使用方式：** 所有 SDK 回调中的 `emitSignal` 都替换为 `safeEmit`。
+
+**注意：** 实际实现中 safeEmit 包含双层 try-catch，防止 emitSignal 本身抛出异常（如信号参数类型不匹配）导致崩溃。
 
 ### 信号类型匹配
 
@@ -530,7 +571,8 @@ TapTapLeaderboard.registerLeaderboardCallback(object : TapTapLeaderboardCallback
 
 // 提交分数
 val scoreItem = SubmitScoresRequest.ScoreItem(leaderboardId, score)
-TapTapLeaderboard.submitScores(listOf(scoreItem), object : ITapTapLeaderboardResponseCallback<SubmitScoresResponse> {
+val request = SubmitScoresRequest(listOf(scoreItem))
+TapTapLeaderboard.submitScores(request.scores, object : ITapTapLeaderboardResponseCallback<SubmitScoresResponse> {
     override fun onSuccess(result: SubmitScoresResponse) { /* 成功 */ }
     override fun onFailure(code: Int, message: String) { /* 失败 */ }
 })
@@ -615,6 +657,142 @@ func _is_same_content(cloud_json: String) -> bool:
 | 无 | `TapTapCloudSave` | v4 新增云存档模块 |
 | 无 | `TapTapLeaderboard` | v4 排行榜模块（tap-leaderboard-androidx） |
 | `TapBootstrap.initActivity()` | `TapTapSdk.init()` | 统一初始化替代各模块单独 init |
+
+## Dirichlet Ad SDK 集成专项
+
+本节记录在 Godot 4.x Android 插件中集成 Dirichlet Ad SDK 4.2.5.0 的关键模式和踩坑经验。
+
+### Ad SDK 初始化依赖链
+
+Dirichlet Ad SDK 的初始化依赖 TapSDK Core，必须确保正确的初始化顺序：
+
+```
+1. TapTapSdk.init()          ← TapTapPlugin 调用，初始化 TapSDK Core
+2. AdManager.init_ad()       ← GDScript 在 TapTapManager 就绪后调用
+3. AdPlugin.initAd()
+   ├── fixSdkInternalContext()  ← 反射修复 SDK 内部 Context
+   ├── initTapCacheManager()    ← 反射初始化 TapCacheManager
+   └── TapAdManager.get().init(context, config)
+```
+
+**关键：** Ad SDK 不能在 `_ready()` 中自动初始化，必须等待 TapTapPlugin 先完成 `TapTapSdk.init()`。
+
+### 反射修复 SDK 内部状态
+
+Dirichlet Ad SDK 有两个内部状态需要通过反射修复：
+
+1. **TapCacheManager 未初始化**：混淆类 `com.tapsdk.tapad.ll`，调用 `a()` 获取单例，`b()` 初始化
+2. **SDK 内部 Context 为 null**：混淆类 `com.tapsdk.tapad.i1`，设置静态字段 `a` 为 Application Context
+
+```kotlin
+private fun initTapCacheManager() {
+    val clazz = Class.forName("com.tapsdk.tapad.ll")
+    val instance = clazz.getDeclaredMethod("a").invoke(null)
+    clazz.getDeclaredMethod("b").invoke(instance)
+}
+
+private fun fixSdkInternalContext(context: Context) {
+    val clazz = Class.forName("com.tapsdk.tapad.i1")
+    val field = clazz.getDeclaredField("a")
+    field.isAccessible = true
+    if (field.get(null) == null) {
+        field.set(null, context.applicationContext ?: context)
+    }
+}
+```
+
+**注意：** 混淆类名可能随 SDK 版本变化，升级 SDK 后需用 javap 重新确认。
+
+### @UsedByGodot 方法参数规则
+
+**关键规则：** `@UsedByGodot` 注解的方法**不支持 Kotlin 默认参数**。
+
+Godot 运行时通过 JNI 注册方法时，会将所有参数（包括有默认值的）都视为必需参数。如果 GDScript 调用时少传参数，会报 `Invalid call to function 'xxx' in base 'JNISingleton'. Expected N argument(s).`。
+
+**错误写法：**
+```kotlin
+@UsedByGodot
+fun initAd(mediaId: String, mediaKey: String, tapClientId: String = "")  // ❌ GDScript 传 2 个参数会报错
+```
+
+**正确写法：**
+```kotlin
+@UsedByGodot
+fun initAd(mediaId: String, mediaKey: String)  // ✅ 参数数量与 GDScript 调用一致
+
+// tapClientId 在 Kotlin 内部硬编码或通过其他方式获取
+```
+
+### 多插件共存于同一 AAR
+
+多个 GodotPlugin 类可以打包在同一个 AAR 中，每个插件需要独立的 `.gdap` 文件指向同一个 binary：
+
+```ini
+# TapTapPlugin.gdap
+[config]
+name="TapTapPlugin"
+binary_type="local"
+binary="res://android/plugins/taptap_plugin.aar"
+
+# AdPlugin.gdap
+[config]
+name="AdPlugin"
+binary_type="local"
+binary="res://android/plugins/taptap_plugin.aar"  # 同一个 AAR
+```
+
+**注意：**
+- 每个 `.gdap` 的 `name` 必须与对应 Kotlin 类的 `getPluginName()` 一致
+- `AndroidManifest.xml` 中需要为每个插件添加 `meta-data`
+- `META-INF/services/org.godotengine.godot.plugin.GodotPlugin` 中列出所有插件类
+- `export_presets.cfg` 中需要为每个插件设置 `plugins/XXX=true`
+
+### PCK 与 Gradle 构建的关系
+
+| 构建方式 | 更新 PCK（GDScript） | 更新 Kotlin 代码 | 适用场景 |
+| -------- | -------------------- | ---------------- | -------- |
+| Godot 编辑器导出 | ✅ | ❌（使用旧 AAR） | GDScript 有变更 |
+| Gradle 直接构建 | ❌（使用旧 PCK） | ✅ | 仅 Kotlin 有变更 |
+| Godot 导出 + Gradle 构建 | ✅ | ✅ | 两者都有变更 |
+
+**最佳实践：**
+1. 先用 Godot 编辑器导出一次（更新 PCK）
+2. 再用 Gradle 重新构建 APK（更新 Kotlin 代码）
+3. 仅 Kotlin 变更时，跳过步骤 1
+
+### 激励视频广告状态机
+
+```
+IDLE → LOADING → READY → SHOWING → (COMPLETE / SKIPPED / ERROR / CLOSE) → IDLE
+
+_auto_show 标志：
+  load_rewarded_video() 设置 _auto_show = true
+  on_rewarded_loaded 回调中检查 _auto_show，如果为 true 则自动调用 show_rewarded_video()
+  简化调用方逻辑：只需调用 load_rewarded_video()，无需单独调用 show
+```
+
+### 广告恢复生命值流程
+
+```
+游戏结束（hp=0）→ 弹出游戏结束弹窗（含广告按钮）
+  ↓ 用户点击广告按钮
+load_rewarded_video() → 加载并自动展示广告
+  ↓ 用户观看完整视频
+on_rewarded_complete → NonogramManager.add_life(3)
+  ↓                  hp_node.reset_game_over()
+  ↓                  game_over_popup.continue_after_ad()
+  ↓
+继续游戏（hp=3, is_locked=false）
+
+用户关闭广告（未看完）→ on_rewarded_close
+  ↓ _ad_reward_handled == false
+  game_over_popup.show_game_over()  ← 重新显示游戏结束弹窗
+```
+
+**关键状态管理：**
+- `_ad_reward_handled`：标记广告奖励是否已处理，防止 `on_rewarded_close` 误触
+- `reset_game_over()`：必须重置 `hp_node._game_over_emitted` 和断开 `finished` 信号连接
+- 广告恢复后 `is_locked = false`，解除棋盘锁定
 
 ## PC 模拟测试模式
 

@@ -7,15 +7,66 @@
 7    <uses-permission android:name="android.permission.INTERNET" />
 7-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:3:5-67
 7-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:3:22-64
-8
-9    <application>
-9-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:4:5-8:19
-10        <meta-data
-10-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:5:9-7:76
-11            android:name="org.godotengine.plugin.v2.TapTapPlugin"
-11-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:6:13-66
-12            android:value="com.reallycsc.nonogramart.taptap.TapTapPlugin" />
-12-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:7:13-74
-13    </application>
-14
-15</manifest>
+8    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+8-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:4:5-79
+8-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:4:22-76
+9    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+9-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:5:5-75
+9-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:5:22-72
+10    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+10-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:6:5-77
+10-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:6:22-74
+11    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+11-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:7:5-83
+11-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:7:22-80
+12    <uses-permission android:name="android.permission.BLUETOOTH" />
+12-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:8:5-68
+12-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:8:22-65
+13    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+13-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:9:5-76
+13-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:9:22-73
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:10:5-79
+14-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:10:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:11:5-81
+15-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:11:22-78
+16    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+16-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:12:5-77
+16-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:12:22-74
+17
+18    <application>
+18-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:14:5-31:19
+19        <meta-data
+19-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:15:9-17:76
+20            android:name="org.godotengine.plugin.v2.TapTapPlugin"
+20-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:16:13-66
+21            android:value="com.reallycsc.nonogramart.taptap.TapTapPlugin" />
+21-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:17:13-74
+22        <meta-data
+22-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:18:9-20:68
+23            android:name="org.godotengine.plugin.v2.AdPlugin"
+23-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:19:13-62
+24            android:value="com.reallycsc.nonogramart.ad.AdPlugin" />
+24-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:20:13-66
+25
+26        <provider
+26-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:22:9-30:20
+27            android:name="com.tapsdk.tapad.internal.TapADFileProvider"
+27-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:23:13-71
+28            android:authorities="${applicationId}.com.tds.ad.fileprovider"
+28-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:24:13-75
+29            android:exported="false"
+29-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:25:13-37
+30            android:grantUriPermissions="true" >
+30-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:26:13-47
+31            <meta-data
+31-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:27:13-29:61
+32                android:name="android.support.FILE_PROVIDER_PATHS"
+32-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:28:17-67
+33                android:resource="@xml/tapad_ad_file_path" />
+33-->H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:29:17-59
+34        </provider>
+35    </application>
+36
+37</manifest>

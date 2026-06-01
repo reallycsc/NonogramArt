@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "com.reallycsc.nonogramart.taptap.app-mergeReleaseResources-17:/values-v21/values-v21.xml",
+            "outputFile": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/values-v21/values-v21.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\ea88042ad88195dd8dc391b18f730532\\transformed\\support-media-compat-28.0.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "266,269,273,277",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "18897,19065,19354,19650",
+                        "endLines": "268,271,275,279",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "19060,19223,19517,19812"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\400c4e081e9b4a5afa6d4170c49b5e5c\\transformed\\core-1.12.0\\res\\values-v21\\values-v21.xml",
                     "from": {
@@ -14,12 +33,12 @@
                         "endOffsets": "168,232,299,363,479,605,731,859,1031,1383"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,264,265,266,267,268,271",
+                        "startLines": "2,3,4,5,264,265,272,276,280,283",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,173,237,304,18655,18771,18897,19023,19151,19323",
-                        "endLines": "2,3,4,5,264,265,266,267,270,275",
+                        "startOffsets": "55,173,237,304,18655,18771,19228,19522,19817,19989",
+                        "endLines": "2,3,4,5,264,265,272,276,282,287",
                         "endColumns": "117,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "168,232,299,363,18766,18892,19018,19146,19318,19670"
+                        "endOffsets": "168,232,299,363,18766,18892,19349,19645,19984,20336"
                     }
                 },
                 {
@@ -44,8 +63,27 @@
             ]
         },
         {
-            "outputFile": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/values-v21/values-v21.xml",
+            "outputFile": "com.reallycsc.nonogramart.taptap.app-mergeReleaseResources-24:/values-v21/values-v21.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\ea88042ad88195dd8dc391b18f730532\\transformed\\support-media-compat-28.0.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "266,269,273,277",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "18897,19065,19354,19650",
+                        "endLines": "268,271,275,279",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "19060,19223,19517,19812"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\400c4e081e9b4a5afa6d4170c49b5e5c\\transformed\\core-1.12.0\\res\\values-v21\\values-v21.xml",
                     "from": {
@@ -57,12 +95,12 @@
                         "endOffsets": "168,232,299,363,479,605,731,859,1031,1383"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,264,265,266,267,268,271",
+                        "startLines": "2,3,4,5,264,265,272,276,280,283",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,173,237,304,18655,18771,18897,19023,19151,19323",
-                        "endLines": "2,3,4,5,264,265,266,267,270,275",
+                        "startOffsets": "55,173,237,304,18655,18771,19228,19522,19817,19989",
+                        "endLines": "2,3,4,5,264,265,272,276,282,287",
                         "endColumns": "117,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "168,232,299,363,18766,18892,19018,19146,19318,19670"
+                        "endOffsets": "168,232,299,363,18766,18892,19349,19645,19984,20336"
                     }
                 },
                 {

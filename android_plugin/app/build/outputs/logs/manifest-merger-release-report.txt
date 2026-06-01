@@ -1,7 +1,7 @@
 -- Merging decision tree log ---
 manifest
-ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:2:1-9:12
-INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:2:1-9:12
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
 		INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml
 	xmlns:android
@@ -10,14 +10,72 @@ uses-permission#android.permission.INTERNET
 ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:3:5-67
 	android:name
 		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:3:22-64
-application
-ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:4:5-8:19
-meta-data#org.godotengine.plugin.v2.TapTapPlugin
-ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:5:9-7:76
-	android:value
-		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:7:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:4:5-79
 	android:name
-		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:6:13-66
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:5:22-72
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:6:22-74
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:7:5-83
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:7:22-80
+uses-permission#android.permission.BLUETOOTH
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:12:22-74
+application
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:14:5-31:19
+meta-data#org.godotengine.plugin.v2.TapTapPlugin
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:15:9-17:76
+	android:value
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:16:13-66
+meta-data#org.godotengine.plugin.v2.AdPlugin
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:18:9-20:68
+	android:value
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:19:13-62
+provider#com.tapsdk.tapad.internal.TapADFileProvider
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:grantUriPermissions
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:26:13-47
+	android:authorities
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:24:13-75
+	android:exported
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:23:13-71
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:27:13-29:61
+	android:resource
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:29:17-59
+	android:name
+		ADDED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml:28:17-67
 uses-sdk
 INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from H:\Work\MyProject\NonogramArt\android_plugin\app\src\main\AndroidManifest.xml

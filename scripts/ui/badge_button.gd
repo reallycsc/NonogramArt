@@ -16,6 +16,7 @@ var _overlay: Control = null
 var _overlay_badge: TextureRect = null
 var _overlay_tween: Tween = null
 var _is_showing_overlay: bool = false
+var _overlay_canvas: CanvasLayer = null
 var _video_player: VideoStreamPlayer = null
 var _sub_viewport: SubViewport = null
 
@@ -29,11 +30,20 @@ const OVERLAY_BADGE_SIZE := Vector2(512, 512)
 
 
 func _ready() -> void:
+	add_to_group("badge_buttons")
 	mouse_entered.connect(_on_mouse_entered)
 	mouse_exited.connect(_on_mouse_exited)
 	button_down.connect(_on_button_down)
 	button_up.connect(_on_button_up)
 	resized.connect(_on_resized)
+
+
+func _exit_tree() -> void:
+	_kill_hover_tween()
+	_kill_click_tween()
+	_kill_pulse_tween()
+	_kill_overlay_tween()
+	_cleanup_overlay()
 
 
 func _on_resized() -> void:
@@ -187,11 +197,10 @@ func _show_video_overlay(video_path: String) -> void:
 	var vp_size = get_viewport().get_visible_rect().size
 	var center = vp_size * 0.5
 	var video_size = Vector2(512, 512)
+	var origin_center = get_global_center()
 
-	# 找到 CanvasLayer 作为 SubViewport 的父节点
-	var canvas_layer = get_parent()
-	while canvas_layer and not canvas_layer is CanvasLayer:
-		canvas_layer = canvas_layer.get_parent()
+	_overlay_canvas = CanvasLayer.new()
+	_overlay_canvas.layer = 100
 
 	_overlay = Control.new()
 	_overlay.name = "BadgeOverlay"
@@ -206,7 +215,6 @@ func _show_video_overlay(video_path: String) -> void:
 	black_bg.mouse_filter = Control.MOUSE_FILTER_IGNORE
 	_overlay.add_child(black_bg)
 
-	# SubViewport 挂在 CanvasLayer 上（不是 Control 子节点），确保渲染正常
 	_sub_viewport = SubViewport.new()
 	_sub_viewport.name = "VideoSubViewport"
 	_sub_viewport.size = video_size
@@ -226,20 +234,15 @@ func _show_video_overlay(video_path: String) -> void:
 		_video_player.stream = video_stream
 
 	_sub_viewport.add_child(_video_player)
+	_overlay_canvas.add_child(_sub_viewport)
 
-	if canvas_layer:
-		canvas_layer.add_child(_sub_viewport)
-	else:
-		get_tree().root.add_child(_sub_viewport)
-
-	# TextureRect 显示 SubViewport 的渲染结果，并应用 Chroma Key
 	_overlay_badge = TextureRect.new()
 	_overlay_badge.name = "VideoRect"
 	_overlay_badge.texture = _sub_viewport.get_texture()
 	_overlay_badge.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
 	_overlay_badge.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 	_overlay_badge.size = video_size
-	_overlay_badge.position = center - video_size * 0.5
+	_overlay_badge.position = origin_center - video_size * 0.5
 	_overlay_badge.pivot_offset = video_size * 0.5
 	_overlay_badge.scale = Vector2(size.x / video_size.x, size.y / video_size.y)
 	_overlay_badge.mouse_filter = Control.MOUSE_FILTER_IGNORE
@@ -253,11 +256,8 @@ func _show_video_overlay(video_path: String) -> void:
 	_overlay_badge.material = chroma_mat
 
 	_overlay.add_child(_overlay_badge)
-
-	if canvas_layer:
-		canvas_layer.add_child(_overlay)
-	else:
-		get_tree().root.add_child(_overlay)
+	_overlay_canvas.add_child(_overlay)
+	add_child(_overlay_canvas)
 
 	_kill_overlay_tween()
 	_overlay_tween = create_tween()
@@ -270,6 +270,9 @@ func _show_static_overlay() -> void:
 	var vp_size = get_viewport().get_visible_rect().size
 	var center = vp_size * 0.5
 	var origin_center = get_global_center()
+
+	_overlay_canvas = CanvasLayer.new()
+	_overlay_canvas.layer = 100
 
 	_overlay = Control.new()
 	_overlay.name = "BadgeOverlay"
@@ -296,13 +299,8 @@ func _show_static_overlay() -> void:
 	_overlay_badge.mouse_filter = Control.MOUSE_FILTER_IGNORE
 	_overlay.add_child(_overlay_badge)
 
-	var canvas_layer = get_parent()
-	while canvas_layer and not canvas_layer is CanvasLayer:
-		canvas_layer = canvas_layer.get_parent()
-	if canvas_layer:
-		canvas_layer.add_child(_overlay)
-	else:
-		get_tree().root.add_child(_overlay)
+	_overlay_canvas.add_child(_overlay)
+	add_child(_overlay_canvas)
 
 	_kill_overlay_tween()
 	_overlay_tween = create_tween()
@@ -326,8 +324,9 @@ func _hide_badge_overlay() -> void:
 		_overlay_tween.tween_property(black_bg, "color:a", 0.0, 0.25).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN)
 	if is_instance_valid(_overlay_badge):
 		var origin_center = get_global_center()
-		var target_scale = Vector2(size.x / OVERLAY_BADGE_SIZE.x, size.y / OVERLAY_BADGE_SIZE.y)
-		_overlay_tween.parallel().tween_property(_overlay_badge, "position", origin_center - OVERLAY_BADGE_SIZE * 0.5, 0.25).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN)
+		var badge_size = _overlay_badge.size
+		var target_scale = Vector2(size.x / badge_size.x, size.y / badge_size.y)
+		_overlay_tween.parallel().tween_property(_overlay_badge, "position", origin_center - badge_size * 0.5, 0.25).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN)
 		_overlay_tween.parallel().tween_property(_overlay_badge, "scale", target_scale, 0.25).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN)
 	_overlay_tween.tween_callback(_cleanup_overlay)
 
@@ -335,8 +334,10 @@ func _hide_badge_overlay() -> void:
 func _on_overlay_input(event: InputEvent) -> void:
 	if event is InputEventMouseButton and event.pressed:
 		_hide_badge_overlay()
+		accept_event()
 	elif event is InputEventScreenTouch and event.pressed:
 		_hide_badge_overlay()
+		accept_event()
 
 
 func _cleanup_overlay() -> void:
@@ -347,8 +348,9 @@ func _cleanup_overlay() -> void:
 	if is_instance_valid(_sub_viewport):
 		_sub_viewport.queue_free()
 	_sub_viewport = null
-	if is_instance_valid(_overlay):
-		_overlay.queue_free()
+	if is_instance_valid(_overlay_canvas):
+		_overlay_canvas.queue_free()
+	_overlay_canvas = null
 	_overlay = null
 	_overlay_badge = null
 

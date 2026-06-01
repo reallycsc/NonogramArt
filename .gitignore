@@ -2,3 +2,12 @@
 .godot/
 /android/
 /assets/
+
+# PC Plugin build artifacts
+/pc_plugin/godot-cpp/
+/pc_plugin/bin/
+/pc_plugin/.sconsign.dblite
+/pc_plugin/.scons_env*
+
+# TapTap PC SDK DLL (binary, not tracked)
+/addons/tap_tap_pc/*.dll

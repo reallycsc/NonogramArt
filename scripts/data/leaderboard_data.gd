@@ -1,13 +1,15 @@
-var _global_cache: Array = []
-var _friends_cache: Array = []
-var _cache_timestamp: Dictionary = {}
+static var _global_cache: Array = []
+static var _friends_cache: Array = []
+static var _cache_timestamp: Dictionary = {}
+static var _dirty: bool = false
 var _taptap_global_loading: bool = false
 var _taptap_friends_loading: bool = false
+var _pending_collection: String = ""
 
 const LEADERBOARD_ID: String = "691qntuadkntr8vq1o"
 
-const REFRESH_INTERVAL_GLOBAL: int = 600
-const REFRESH_INTERVAL_FRIENDS: int = 600
+const REFRESH_INTERVAL_GLOBAL: int = 60
+const REFRESH_INTERVAL_FRIENDS: int = 60
 
 enum TabType { GLOBAL, FRIENDS }
 
@@ -23,12 +25,14 @@ func get_leaderboard(tab: int, _region: String = "") -> Array:
 
 func _get_global() -> Array:
 	var now = Time.get_unix_time_from_system()
-	if not _global_cache.is_empty() and _cache_timestamp.has("global"):
+	if not _dirty and not _global_cache.is_empty() and _cache_timestamp.has("global"):
 		if now - _cache_timestamp["global"] < REFRESH_INTERVAL_GLOBAL:
 			return _global_cache
+	_dirty = false
 	if TapTapManager.is_available() and TapTapManager.is_logged_in():
 		if not _taptap_global_loading:
 			_taptap_global_loading = true
+			_pending_collection = "PUBLIC"
 			if not TapTapManager.leaderboard_scores.is_connected(_on_taptap_global_scores):
 				TapTapManager.leaderboard_scores.connect(_on_taptap_global_scores)
 			TapTapManager.load_leaderboard_scores(LEADERBOARD_ID, "PUBLIC")
@@ -39,12 +43,14 @@ func _get_global() -> Array:
 
 func _get_friends() -> Array:
 	var now = Time.get_unix_time_from_system()
-	if not _friends_cache.is_empty() and _cache_timestamp.has("friends"):
+	if not _dirty and not _friends_cache.is_empty() and _cache_timestamp.has("friends"):
 		if now - _cache_timestamp["friends"] < REFRESH_INTERVAL_FRIENDS:
 			return _friends_cache
+	_dirty = false
 	if TapTapManager.is_available() and TapTapManager.is_logged_in():
 		if not _taptap_friends_loading:
 			_taptap_friends_loading = true
+			_pending_collection = "FRIENDS"
 			if not TapTapManager.leaderboard_scores.is_connected(_on_taptap_friends_scores):
 				TapTapManager.leaderboard_scores.connect(_on_taptap_friends_scores)
 			TapTapManager.load_leaderboard_scores(LEADERBOARD_ID, "FRIENDS")
@@ -68,19 +74,17 @@ func invalidate_cache(tab: int = -1) -> void:
 			_cache_timestamp.erase("friends")
 
 
+static func mark_dirty() -> void:
+	_dirty = true
+
+
 func get_refresh_interval_seconds(tab: int) -> int:
 	match tab:
 		TabType.GLOBAL:
 			return REFRESH_INTERVAL_GLOBAL
 		TabType.FRIENDS:
 			return REFRESH_INTERVAL_FRIENDS
-	return 600
-
-
-func format_score(total_seconds: float) -> String:
-	var minutes = int(total_seconds) / 60
-	var seconds = int(total_seconds) % 60
-	return "%02d:%02d" % [minutes, seconds]
+	return 60
 
 
 func _parse_taptap_scores(scores_json: String) -> Array:
@@ -125,6 +129,9 @@ func _parse_taptap_scores(scores_json: String) -> Array:
 
 func _on_taptap_global_scores(scores_json: String) -> void:
 	_taptap_global_loading = false
+	if _pending_collection != "PUBLIC":
+		return
+	_pending_collection = ""
 	var entries = _parse_taptap_scores(scores_json)
 	if not entries.is_empty():
 		entries.sort_custom(func(a, b): return a.score > b.score)
@@ -136,6 +143,9 @@ func _on_taptap_global_scores(scores_json: String) -> void:
 
 func _on_taptap_friends_scores(scores_json: String) -> void:
 	_taptap_friends_loading = false
+	if _pending_collection != "FRIENDS":
+		return
+	_pending_collection = ""
 	var entries = _parse_taptap_scores(scores_json)
 	if not entries.is_empty():
 		entries.sort_custom(func(a, b): return a.score > b.score)

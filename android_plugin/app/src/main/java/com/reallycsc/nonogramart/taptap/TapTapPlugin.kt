@@ -48,6 +48,11 @@ import com.taptap.sdk.leaderboard.data.response.UserScoreResponse
 import com.taptap.sdk.leaderboard.data.response.SubmitScoresResponse
 import com.taptap.sdk.leaderboard.data.response.common.Score
 
+import com.taptap.sdk.relation.lite.TapTapRelationLite
+import com.taptap.sdk.relation.lite.internal.TapTapRelationLiteCallback
+import com.taptap.sdk.relation.lite.internal.TapTapRelationRequestCallback
+import com.taptap.sdk.relation.lite.internal.model.RelationLiteUserItem
+
 class TapTapPlugin(godot: Godot) : GodotPlugin(godot) {
 
     companion object {
@@ -76,6 +81,7 @@ class TapTapPlugin(godot: Godot) : GodotPlugin(godot) {
             SignalInfo("on_leaderboard_result", String::class.java, String::class.java),
             SignalInfo("on_leaderboard_scores", String::class.java),
             SignalInfo("on_leaderboard_user_score", String::class.java),
+            SignalInfo("on_friends_list", String::class.java),
             SignalInfo("on_log", String::class.java),
         )
     }
@@ -269,7 +275,7 @@ class TapTapPlugin(godot: Godot) : GodotPlugin(godot) {
         val activity = activity ?: return
         logAndEmit("login called, starting TapTap login...")
         try {
-            val scopes = arrayOf(Scopes.SCOPE_PUBLIC_PROFILE)
+            val scopes = arrayOf(Scopes.SCOPE_PUBLIC_PROFILE, Scopes.SCOPE_USER_FRIENDS)
             TapTapLogin.loginWithScopes(
                 activity,
                 scopes,
@@ -637,6 +643,24 @@ class TapTapPlugin(godot: Godot) : GodotPlugin(godot) {
     }
 
     @UsedByGodot
+    fun getCurrentUserInfo(): String {
+        return try {
+            val account = TapTapLogin.getCurrentTapAccount() ?: return ""
+            val json = JSONObject().apply {
+                put("name", account.name ?: "")
+                put("avatar", account.avatar ?: "")
+                put("user_id", account.openId ?: "")
+                put("openid", account.openId ?: "")
+                put("unionid", account.unionId ?: "")
+            }
+            json.toString()
+        } catch (e: Exception) {
+            Log.e(TAG, "Error getting current user info", e)
+            ""
+        }
+    }
+
+    @UsedByGodot
     fun getDisplayUserId(): String {
         return try {
             TapTapLogin.getCurrentTapAccount()?.openId ?: ""
@@ -791,5 +815,69 @@ class TapTapPlugin(godot: Godot) : GodotPlugin(godot) {
             return false
         }
         return true
+    }
+
+    @UsedByGodot
+    fun initFriends() {
+        logAndEmit("initFriends called (TapTapRelationLite)")
+        try {
+            TapTapRelationLite.registerRelationLiteCallback(
+                object : TapTapRelationLiteCallback {
+                    override fun onRelationLiteResult(code: Int) {
+                        when (code) {
+                            700001 -> logAndEmit("RelationLite: NEED_LOGIN - user not logged in")
+                            700002 -> logAndEmit("RelationLite: NEED_USER_FRIENDS_SCOPE - user_friends scope not authorized, please re-login")
+                            else -> logAndEmit("RelationLite callback: code=$code")
+                        }
+                    }
+                }
+            )
+            logAndEmit("RelationLite callback registered OK")
+        } catch (e: Exception) {
+            Log.e(TAG, "Failed to register RelationLite callback", e)
+            logAndEmit("RelationLite register FAILED: ${e.javaClass.simpleName}: ${e.message}")
+        }
+    }
+
+    @UsedByGodot
+    fun getFriendsList(nextPageToken: String) {
+        logAndEmit("getFriendsList called, nextPageToken=$nextPageToken")
+        try {
+            TapTapRelationLite.getFriendsList(
+                nextPageToken = nextPageToken,
+                callback = object : TapTapRelationRequestCallback() {
+                    override fun onFriendsListResult(
+                        friendsList: List<RelationLiteUserItem>,
+                        nextPageToken: String
+                    ) {
+                        try {
+                            val json = JSONObject()
+                            val arr = org.json.JSONArray()
+                            for (friend in friendsList) {
+                                val user = friend.user
+                                val obj = JSONObject().apply {
+                                    put("openid", user?.openId ?: "")
+                                    put("name", user?.name ?: "")
+                                    put("avatar", user?.avatar ?: "")
+                                    put("alias", user?.alias ?: "")
+                                }
+                                arr.put(obj)
+                            }
+                            json.put("friends", arr)
+                            json.put("nextPageToken", nextPageToken)
+                            logAndEmit("Friends list: count=${friendsList.size} nextPage=$nextPageToken")
+                            safeEmit("on_friends_list", json.toString())
+                        } catch (e: Exception) {
+                            Log.e(TAG, "Error parsing friends list", e)
+                            safeEmit("on_friends_list", "")
+                        }
+                    }
+                }
+            )
+        } catch (e: Exception) {
+            Log.e(TAG, "getFriendsList exception", e)
+            logAndEmit("getFriendsList FAILED: ${e.javaClass.simpleName}: ${e.message}")
+            safeEmit("on_friends_list", "")
+        }
     }
 }

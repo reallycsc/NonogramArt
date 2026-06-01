@@ -47,10 +47,11 @@ func setup(data: Dictionary) -> void:
 		dlc_download.show()
 		progress_bar.hide()
 		progress_label.hide()
-		texture_normal = BTN_GREY_NORMAL
-		texture_hover = BTN_GREY_HOVER
-		texture_pressed = BTN_GREY_PRESSED
-		book_icon.texture = GameManager.get_album_icon_grey(album_id)
+		texture_normal = BTN_EMPTY_NORMAL
+		texture_hover = BTN_EMPTY_HOVER
+		texture_pressed = BTN_EMPTY_PRESSED
+		self_modulate = Color(0.4, 0.4, 0.4)
+		book_icon.texture = null
 		if DLCManager.is_downloading() and DLCManager.get_downloading_album_id() == album_id:
 			dlc_download.hide()
 			progress_bar.show()
@@ -58,7 +59,7 @@ func setup(data: Dictionary) -> void:
 			status_label.text = tr("下载中...")
 			status_label.add_theme_color_override("font_color", Color(0.3, 0.6, 1.0))
 		else:
-			status_label.text = tr("点击下载")
+			status_label.text = ""
 			status_label.add_theme_color_override("font_color", Color(0.3, 0.8, 0.3))
 	else:
 		lock_label.hide()
@@ -76,7 +77,7 @@ func setup(data: Dictionary) -> void:
 					texture_pressed = BTN_PRESSED	
 					modulate = Color(0.5, 0.5, 0.5)
 					scale = Vector2(0.95, 0.95)
-				status_label.text = tr("已完成")
+				status_label.text = ""
 				status_label.add_theme_color_override("font_color", Color(0.2, 0.7, 0.2))
 			else:
 				status_label.text = "%d%%" % int(completion * 100)
@@ -142,7 +143,7 @@ func show_download_started() -> void:
 func show_download_failed() -> void:
 	progress_bar.hide()
 	progress_label.hide()
-	status_label.text = tr("点击下载")
+	status_label.text = ""
 	status_label.add_theme_color_override("font_color", Color(0.3, 0.8, 0.3))
 	dlc_download.show()
 

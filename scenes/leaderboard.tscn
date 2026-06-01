@@ -8,6 +8,13 @@
 [ext_resource type="Texture2D" uid="uid://dt3hdck5ayag" path="res://assets/images/ui/leaderboard/tab.png" id="6_ldk02"]
 [ext_resource type="Texture2D" uid="uid://cepa12eujhtqj" path="res://assets/images/ui/leaderboard/tab_pressed.png" id="7_sg475"]
 
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_ldk02"]
+texture = ExtResource("2_jfen3")
+texture_margin_left = 33.718662
+texture_margin_top = 296.89548
+texture_margin_right = 36.312405
+texture_margin_bottom = 38.90615
+
 [node name="LeaderboardPopup" type="Control" unique_id=741087022]
 layout_mode = 3
 anchors_preset = 15
@@ -28,7 +35,7 @@ grow_horizontal = 2
 grow_vertical = 2
 color = Color(0, 0, 0, 0.8)
 
-[node name="PanelContainer" type="TextureRect" parent="." unique_id=1454021709]
+[node name="PanelContainer" type="Panel" parent="." unique_id=596264471]
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -38,11 +45,11 @@ anchor_bottom = 0.5
 offset_left = -310.0
 offset_top = -360.0
 offset_right = 310.0
-offset_bottom = 360.0
+offset_bottom = 733.0
 grow_horizontal = 2
 grow_vertical = 2
 pivot_offset = Vector2(310, 350)
-texture = ExtResource("2_jfen3")
+theme_override_styles/panel = SubResource("StyleBoxTexture_ldk02")
 
 [node name="CloseButton" type="TextureButton" parent="PanelContainer" unique_id=124445733]
 layout_mode = 1
@@ -170,6 +177,7 @@ horizontal_alignment = 1
 vertical_alignment = 1
 
 [node name="RegionButton" type="OptionButton" parent="PanelContainer" unique_id=829751480]
+visible = false
 custom_minimum_size = Vector2(140, 32)
 layout_mode = 0
 offset_left = 36.0
@@ -206,6 +214,7 @@ grow_vertical = 2
 
 [node name="ListContainer" type="VBoxContainer" parent="PanelContainer/ScrollContainer" unique_id=1030215387]
 layout_mode = 2
+size_flags_horizontal = 3
 
 [node name="MyRankContainer" type="Control" parent="PanelContainer" unique_id=1285996499]
 layout_mode = 1

@@ -33,11 +33,17 @@ func hp_change(change: int) -> void:
 			hp1.texture = hp_full_texture
 			hp2.texture = hp_full_texture
 			hp3.texture = hp_full_texture
-	life_change_audio_player.play()
+	if change < 0:
+		life_change_audio_player.play()
 	if current_hp == 0 and not _game_over_emitted:
 		_game_over_emitted = true
 		nonogram_scene.is_locked = true
 		life_change_audio_player.finished.connect(_on_life_audio_finished)
+
+func reset_game_over() -> void:
+	_game_over_emitted = false
+	if life_change_audio_player.finished.is_connected(_on_life_audio_finished):
+		life_change_audio_player.finished.disconnect(_on_life_audio_finished)
 
 func _on_life_audio_finished() -> void:
 	GameManager.nonogram_game_over.emit()

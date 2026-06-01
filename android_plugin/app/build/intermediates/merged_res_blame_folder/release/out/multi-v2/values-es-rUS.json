@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "com.reallycsc.nonogramart.taptap.app-mergeReleaseResources-24:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\e2ddb2e99221c98c087551afc38499b9\\transformed\\appcompat-1.6.1\\res\\values-es-rUS\\values-es-rUS.xml",
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "outputFile": "com.reallycsc.nonogramart.taptap.app-mergeReleaseResources-17:/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\e2ddb2e99221c98c087551afc38499b9\\transformed\\appcompat-1.6.1\\res\\values-es-rUS\\values-es-rUS.xml",

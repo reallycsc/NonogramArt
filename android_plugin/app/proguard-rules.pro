@@ -2,3 +2,23 @@
 -keep class com.taptap.** { *; }
 -keep class com.tapsdk.** { *; }
 -keep class tds.androidx.** { *; }
+
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-dontwarn javax.annotation.**
+-dontwarn org.conscrypt.**
+-dontwarn com.tapsdk.tapad.**
+-keepnames class okhttp3.internal.publicsuffix.PublicSuffixDatabase
+-keepattributes JavascriptInterface
+-keepclassmembers class * { @android.webkit.JavascriptInterface <methods>; }
+-keep public class * extends android.app.Activity
+-keep public class * extends android.app.Service
+-keep public class * extends android.content.BroadcastReceiver
+-keep public class * extends android.content.ContentProvider
+-keepclasseswithmembers class * { public <init>(android.content.Context, android.util.AttributeSet); }
+-keepclasseswithmembers class * { public <init>(android.content.Context, android.util.AttributeSet, int); }
+-keep class * implements android.os.Parcelable { public static final android.os.Parcelable$Creator *; }
+-keepclassmembers class * extends com.tapsdk.tapad.protobuf.GeneratedMessageLite { <fields>; }
+-keepnames class * extends com.tapsdk.tapad.protobuf.GeneratedMessageLite
+-keepnames class * extends com.tapsdk.tapad.protobuf.GeneratedMessageLite$Builder
+-keeppackagenames com.tapsdk.tapad.**

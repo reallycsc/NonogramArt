@@ -4,8 +4,11 @@
 [ext_resource type="Texture2D" uid="uid://cepqq41h8ot06" path="res://assets/images/ui/popup_panel/panel_bg_small.png" id="2_4grfj"]
 [ext_resource type="Texture2D" uid="uid://b4b7iwvl4hsdl" path="res://assets/images/ui/cancel_button.png" id="3_4grfj"]
 [ext_resource type="Texture2D" uid="uid://fho3wordxnjl" path="res://assets/images/ui/popup_panel/game_over_icon.png" id="3_j1gf8"]
+[ext_resource type="Texture2D" uid="uid://q2cxjxa6ctba" path="res://assets/images/ui/popup_panel/ad_reborn_button.png" id="4_25h5n"]
 [ext_resource type="Texture2D" uid="uid://c66qupglt6mcq" path="res://assets/images/ui/cancel_button_pressed.png" id="4_j1gf8"]
 [ext_resource type="Texture2D" uid="uid://bfr8qf5l72x86" path="res://assets/images/ui/cancel_button_hover.png" id="5_orse4"]
+[ext_resource type="Texture2D" uid="uid://1pge1vhalh2u" path="res://assets/images/ui/popup_panel/ad_reborn_button_pressed.png" id="5_pe7ta"]
+[ext_resource type="Texture2D" uid="uid://bkuwdlrgd78ix" path="res://assets/images/ui/popup_panel/ad_reborn_button_hover.png" id="6_jwjs7"]
 [ext_resource type="Texture2D" uid="uid://eo20wrtf5oxs" path="res://assets/images/ui/nonogram/retry_button.png" id="6_smj8y"]
 [ext_resource type="Texture2D" uid="uid://tvfn1lvvpvlx" path="res://assets/images/ui/nonogram/retry_button_pressed.png" id="7_25h5n"]
 [ext_resource type="Texture2D" uid="uid://c8uhyyheinssy" path="res://assets/images/ui/nonogram/retry_button_hover.png" id="8_pe7ta"]
@@ -46,7 +49,7 @@ anchor_bottom = 0.5
 offset_left = -200.0
 offset_top = -220.0
 offset_right = 200.0
-offset_bottom = 220.0
+offset_bottom = 280.0
 grow_horizontal = 2
 grow_vertical = 2
 pivot_offset = Vector2(202, 160)
@@ -73,7 +76,7 @@ layout_mode = 0
 offset_left = 52.0
 offset_top = 90.0
 offset_right = 352.0
-offset_bottom = 322.0
+offset_bottom = 309.0
 theme_override_constants/separation = 16
 alignment = 1
 
@@ -91,13 +94,59 @@ horizontal_alignment = 1
 vertical_alignment = 1
 autowrap_mode = 3
 
+[node name="AdRewardButton" type="TextureButton" parent="PanelContainer" unique_id=621631792]
+custom_minimum_size = Vector2(280, 56)
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -197.5
+offset_top = -190.0
+offset_right = 197.5
+offset_bottom = -88.0
+grow_horizontal = 2
+grow_vertical = 0
+scale = Vector2(0.8, 0.8)
+pivot_offset_ratio = Vector2(0.5, 0.5)
+texture_normal = ExtResource("4_25h5n")
+texture_pressed = ExtResource("5_pe7ta")
+texture_hover = ExtResource("6_jwjs7")
+
+[node name="Label" type="Label" parent="PanelContainer/AdRewardButton" unique_id=187788704]
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -251.0
+offset_top = -24.0
+offset_right = -55.0
+offset_bottom = 16.0
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.4627451, 0.2509804, 0.043137256, 1)
+theme_override_font_sizes/font_size = 28
+text = "恢复生命值继续"
+horizontal_alignment = 1
+vertical_alignment = 1
+
 [node name="ButtonContainer" type="HBoxContainer" parent="PanelContainer" unique_id=2090079078]
-layout_mode = 0
-offset_left = 25.0
-offset_top = 340.0
-offset_right = 522.0
-offset_bottom = 451.0
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -264.0
+offset_top = -125.0
+offset_right = 264.0
+grow_horizontal = 2
+grow_vertical = 0
 scale = Vector2(0.7, 0.7)
+pivot_offset_ratio = Vector2(0.5, 0.5)
 theme_override_constants/separation = 20
 alignment = 1
 
@@ -115,7 +164,7 @@ anchor_left = 1.0
 anchor_top = 0.5
 anchor_right = 1.0
 anchor_bottom = 0.5
-offset_left = -130.0
+offset_left = -165.7143
 offset_top = -30.5
 offset_right = -54.0
 offset_bottom = 22.5
@@ -141,7 +190,7 @@ anchor_left = 1.0
 anchor_top = 0.5
 anchor_right = 1.0
 anchor_bottom = 0.5
-offset_left = -130.0
+offset_left = -165.42853
 offset_top = -30.5
 offset_right = -54.0
 offset_bottom = 22.5
@@ -153,5 +202,6 @@ text = "重试"
 horizontal_alignment = 1
 vertical_alignment = 1
 
+[connection signal="pressed" from="PanelContainer/AdRewardButton" to="." method="_on_ad_reward_pressed"]
 [connection signal="pressed" from="PanelContainer/ButtonContainer/ExitButton" to="." method="_on_exit_pressed"]
 [connection signal="pressed" from="PanelContainer/ButtonContainer/RestartButton" to="." method="_on_restart_pressed"]

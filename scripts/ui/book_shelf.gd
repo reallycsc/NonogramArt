@@ -2,6 +2,7 @@ extends Control
 
 const BookshelfDataScript = preload("res://scripts/data/bookshelf_data.gd")
 const AlbumDataScript = preload("res://scripts/data/album_data.gd")
+const LeaderboardDataScript = preload("res://scripts/data/leaderboard_data.gd")
 var book_button_scene: PackedScene = preload("res://scenes/book_button.tscn")
 const LeaderboardPopupScene: PackedScene = preload("res://scenes/leaderboard.tscn")
 
@@ -20,8 +21,11 @@ const LeaderboardPopupScene: PackedScene = preload("res://scenes/leaderboard.tsc
 @onready var right_button: TextureButton = $CanvasLayer/RightButton
 @onready var exit_popup: Control = $CanvasLayer/ExitConfirmPopup
 @onready var leaderboard_button: TextureButton = $CanvasLayer/LeaderboardButton
+@onready var my_rank_label: Label = $CanvasLayer/LeaderboardButton/MyRank
 
 var _leaderboard_popup: Control = null
+var _user_rank: int = 0
+var _leaderboard_data = null
 
 var bookshelf_list: Array = []
 var current_bookshelf_index: int = 0
@@ -34,6 +38,7 @@ const BOOKS_PER_ROW_LANDSCAPE: int = 4
 var _books_per_row: int = BOOKS_PER_ROW_PORTRAIT
 
 var _destroying: bool = false
+var _display_generation: int = 0
 
 var _swipe_start_pos: Vector2 = Vector2.ZERO
 var _swipe_min_distance: float = 50.0
@@ -53,12 +58,27 @@ func _ready() -> void:
 	DLCManager.album_pack_download_failed.connect(_on_album_pack_download_failed)
 	DLCManager.album_pack_download_progress.connect(_on_album_pack_download_progress)
 	GameManager.language_changed.connect(_on_language_changed)
+	GameManager.progress_changed.connect(_on_progress_changed)
 	_load_shelf()
 	if GameManager.pending_album_id != "":
 		AudioManager.play_bgm_for_album(GameManager.pending_album_id)
 		GameManager.pending_album_id = ""
 	else:
 		AudioManager.play_bgm("main_menu")
+	_update_my_rank_label()
+	_leaderboard_data = LeaderboardDataScript.new()
+	if TapTapManager.is_available() and TapTapManager.is_logged_in() and not TapTapManager.is_mock_mode():
+		TapTapManager.leaderboard_user_score.connect(_on_taptap_user_score_for_rank)
+		if TapTapManager._sdk_api_ready:
+			TapTapManager.load_current_user_score(LeaderboardDataScript.LEADERBOARD_ID, "PUBLIC")
+			_leaderboard_data.get_leaderboard(LeaderboardDataScript.TabType.GLOBAL)
+		else:
+			TapTapManager.sdk_api_ready.connect(func():
+				if not is_inside_tree():
+					return
+				TapTapManager.load_current_user_score(LeaderboardDataScript.LEADERBOARD_ID, "PUBLIC")
+				_leaderboard_data.get_leaderboard(LeaderboardDataScript.TabType.GLOBAL)
+			, CONNECT_ONE_SHOT)
 
 func _exit_tree() -> void:
 	_destroying = true
@@ -66,8 +86,13 @@ func _exit_tree() -> void:
 		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
 	if GameManager.language_changed.is_connected(_on_language_changed):
 		GameManager.language_changed.disconnect(_on_language_changed)
+	if GameManager.progress_changed.is_connected(_on_progress_changed):
+		GameManager.progress_changed.disconnect(_on_progress_changed)
 
 func _on_language_changed(_language: int) -> void:
+	_load_shelf()
+
+func _on_progress_changed() -> void:
 	_load_shelf()
 
 func _refresh_localized_text() -> void:
@@ -103,30 +128,21 @@ func _load_shelf() -> void:
 	_update_nav_buttons()
 	_display_albums()
 
-var _display_cancelled: bool = false
-
 func _display_albums() -> void:
-	_display_cancelled = true
+	_display_generation += 1
+	var gen = _display_generation
 	await get_tree().process_frame
-	_display_cancelled = false
-	if _destroying or not is_inside_tree():
+	if _destroying or not is_inside_tree() or gen != _display_generation:
 		return
-	var has_children = false
-	for row in _row_containers:
-		if row.get_child_count() > 0:
-			has_children = true
-			for child in row.get_children():
-				child.queue_free()
-	if has_children:
-		await _wait_for_free()
-	if _destroying or not is_inside_tree() or _display_cancelled:
+	_clear_all_book_buttons()
+	if _destroying or not is_inside_tree() or gen != _display_generation:
 		return
 
 	var album_index: int = 0
 	var animation_buttons: Array = []
 	var row_counter: int = 0
 	for album in current_albums:
-		if _display_cancelled:
+		if gen != _display_generation:
 			return
 		var row = _get_row_for_index(album_index)
 		if row == null:
@@ -142,14 +158,26 @@ func _display_albums() -> void:
 		row_counter += 1
 		if row_counter >= _books_per_row:
 			row_counter = 0
-			if _display_cancelled:
+			if gen != _display_generation:
 				return
 			await get_tree().process_frame
 
-	if _display_cancelled:
+	if gen != _display_generation:
 		return
 	_play_completion_animations(animation_buttons)
 	_update_items_visibility()
+
+func _clear_all_book_buttons() -> void:
+	for vbox in [p_vbox, l_vbox]:
+		if not is_instance_valid(vbox):
+			continue
+		for child in vbox.get_children():
+			if child is HBoxContainer:
+				for btn in child.get_children():
+					if is_instance_valid(btn):
+						btn.queue_free()
+	if is_inside_tree() and not _destroying:
+		await get_tree().process_frame
 
 func _update_items_visibility() -> void:
 	if _row_containers.size() < 5:
@@ -186,6 +214,8 @@ func _on_download_album_clicked(album_id: String) -> void:
 func _on_album_pack_loaded(album_id: String) -> void:
 	if is_inside_tree():
 		GameManager.invalidate_album_icon_cache(album_id)
+		GameManager.invalidate_completion_cache()
+		PuzzleData.invalidate_cache()
 		_load_shelf()
 
 func _on_album_pack_download_failed(album_id: String, error: String) -> void:
@@ -289,6 +319,15 @@ func _on_orientation_changed(new_orientation: int) -> void:
 func _apply_orientation(orientation: int) -> void:
 	if _destroying or not is_inside_tree():
 		return
+	_display_generation += 1
+	for vbox in [p_vbox, l_vbox]:
+		if not is_instance_valid(vbox):
+			continue
+		for child in vbox.get_children():
+			if child is HBoxContainer:
+				for btn in child.get_children():
+					if is_instance_valid(btn):
+						btn.queue_free()
 	if orientation == OrientationManager.Orientation.PORTRAIT:
 		portrait_ui.visible = true
 		landscape_ui.visible = false
@@ -324,3 +363,26 @@ func _update_nav_buttons() -> void:
 	var show_nav = bookshelf_list.size() > 1
 	left_button.visible = show_nav
 	right_button.visible = show_nav
+
+func _update_my_rank_label() -> void:
+	if my_rank_label == null:
+		return
+	if _user_rank > 0:
+		my_rank_label.text = "%d" % _user_rank
+		my_rank_label.visible = true
+	else:
+		my_rank_label.visible = false
+
+func _on_taptap_user_score_for_rank(score_json: String) -> void:
+	if score_json.is_empty():
+		return
+	var json = JSON.new()
+	if json.parse(score_json) != OK:
+		return
+	var data = json.data
+	if not data is Dictionary:
+		return
+	var rank_val = int(data.get("rank", "0"))
+	if rank_val > 0:
+		_user_rank = rank_val
+		_update_my_rank_label()

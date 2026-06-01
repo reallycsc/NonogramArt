@@ -11,7 +11,7 @@ const TAB_INACTIVE_OUTLINE_COLOR := Color(0, 0, 0, 0)
 const TAB_INACTIVE_OUTLINE_SIZE := 0
 
 @onready var dim_overlay: ColorRect = $DimOverlay
-@onready var panel: TextureRect = $PanelContainer
+@onready var panel: Panel = $PanelContainer
 @onready var close_button: TextureButton = $PanelContainer/CloseButton
 @onready var title_label: Label = $PanelContainer/TitleLabel
 @onready var tab_global: TextureButton = $PanelContainer/TabBar/GlobalTab
@@ -60,35 +60,73 @@ func _ready() -> void:
 		TapTapManager.leaderboard_user_score.connect(_on_taptap_user_score)
 		TapTapManager.leaderboard_result.connect(_on_taptap_leaderboard_result)
 
+	GameManager.progress_changed.connect(_on_local_progress_changed)
+	OrientationManager.orientation_changed.connect(_on_orientation_changed)
+
 
 func _exit_tree() -> void:
 	if _refresh_timer and is_instance_valid(_refresh_timer):
 		_refresh_timer.queue_free()
+	if GameManager.progress_changed.is_connected(_on_local_progress_changed):
+		GameManager.progress_changed.disconnect(_on_local_progress_changed)
+	if OrientationManager.orientation_changed.is_connected(_on_orientation_changed):
+		OrientationManager.orientation_changed.disconnect(_on_orientation_changed)
 
 
 func show_leaderboard() -> void:
 	if visible:
 		return
+	_apply_orientation_layout()
 	_select_tab(_current_tab)
 	_load_leaderboard()
+	var target_scale = _get_panel_scale()
 	visible = true
-	panel.scale = Vector2(0.8, 0.8)
+	panel.scale = target_scale * 0.8
 	panel.modulate.a = 0.0
 	dim_overlay.color = Color(0, 0, 0, 0.0)
 	var tween = create_tween()
 	tween.set_parallel(true)
 	tween.tween_property(dim_overlay, "color", Color(0, 0, 0, 0.8), 0.3)
-	tween.tween_property(panel, "scale", Vector2.ONE, 0.3).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
+	tween.tween_property(panel, "scale", target_scale, 0.3).set_trans(Tween.TRANS_BACK).set_ease(Tween.EASE_OUT)
 	tween.tween_property(panel, "modulate:a", 1.0, 0.2)
+
+
+func _get_panel_scale() -> Vector2:
+	var viewport_size = get_viewport().get_visible_rect().size
+	if viewport_size.x > viewport_size.y:
+		var scale_ratio = viewport_size.y / 1280.0
+		return Vector2(scale_ratio, scale_ratio)
+	return Vector2.ONE
+
+
+func _on_orientation_changed(_orientation: int) -> void:
+	if visible:
+		_apply_orientation_layout()
+
+
+func _apply_orientation_layout() -> void:
+	var viewport_size = get_viewport().get_visible_rect().size
+	var is_wide = viewport_size.x > viewport_size.y
+	var panel_h = panel.offset_bottom - panel.offset_top
+	if is_wide:
+		var scale_ratio = viewport_size.y / 1280.0
+		panel.scale = Vector2(scale_ratio, scale_ratio)
+		panel.pivot_offset = Vector2(panel.pivot_offset.x, panel_h / 2.0)
+	else:
+		panel.scale = Vector2.ONE
+		panel.pivot_offset = Vector2(310, 350)
+	panel.offset_top = -panel_h / 2.0
+	panel.offset_bottom = panel_h / 2.0
 
 
 func hide_leaderboard() -> void:
 	AudioManager.play_sfx("click")
 	if _refresh_timer and is_instance_valid(_refresh_timer):
 		_refresh_timer.stop()
+	var target_scale = _get_panel_scale() * 0.8
 	var tween = create_tween()
 	tween.set_parallel(true)
-	tween.tween_property(panel, "scale", Vector2(0.8, 0.8), 0.15).set_trans(Tween.TRANS_QUAD).set_ease(Tween.EASE_IN)
+	tween.tween_property(panel, "scale", target_scale, 0.15).set_trans(Tween.TRANS_QUAD).set_ease(Tween.EASE_IN)
 	tween.tween_property(panel, "modulate:a", 0.0, 0.15)
 	tween.tween_property(dim_overlay, "color", Color(0, 0, 0, 0.0), 0.15)
 	tween.chain().tween_callback(func():
@@ -117,7 +155,10 @@ func _select_tab(tab: int) -> void:
 	scroll.offset_top = SCROLL_TOP
 
 	var interval = _data.get_refresh_interval_seconds(tab)
-	refresh_hint.text = tr("排行榜每%d分钟更新一次") % (interval / 60)
+	if interval >= 60:
+		refresh_hint.text = tr("排行榜每%d分钟更新一次") % (interval / 60)
+	else:
+		refresh_hint.text = tr("排行榜每%d秒更新一次") % interval
 
 
 func _apply_tab_label_style(btn: TextureButton, active: bool) -> void:
@@ -171,9 +212,20 @@ func _load_leaderboard() -> void:
 	var data = _data.get_leaderboard(_current_tab)
 
 	if TapTapManager.is_available() and TapTapManager.is_logged_in() and not TapTapManager.is_mock_mode():
-		TapTapManager.load_current_user_score(LeaderboardDataScript.LEADERBOARD_ID, "PUBLIC")
+		var collection = "PUBLIC" if _current_tab == _data.TabType.GLOBAL else "FRIENDS"
+		TapTapManager.load_current_user_score(LeaderboardDataScript.LEADERBOARD_ID, collection)
 
-	_display_data(data)
+	if data.is_empty():
+		var hint = Label.new()
+		hint.name = "LoadingHint"
+		hint.set_anchors_preset(Control.PRESET_CENTER, true)
+		hint.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
+		hint.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
+		hint.text = tr("加载中...")
+		hint.add_theme_font_size_override("font_size", 24)
+		list.add_child(hint)
+	else:
+		_display_data(data)
 
 	_is_loading = false
 	_schedule_refresh()
@@ -220,6 +272,13 @@ func _on_auto_refresh() -> void:
 	_load_leaderboard()
 
 
+func _on_local_progress_changed() -> void:
+	LeaderboardDataScript.mark_dirty()
+	if is_inside_tree() and visible:
+		_data.invalidate_cache(_current_tab)
+		_load_leaderboard()
+
+
 func _on_close_pressed() -> void:
 	hide_leaderboard()
 
@@ -230,18 +289,42 @@ func _unhandled_input(event: InputEvent) -> void:
 		get_viewport().set_input_as_handled()
 
 
-func _on_taptap_scores_updated(_scores_json: String) -> void:
+func _on_taptap_scores_updated(scores_json: String) -> void:
 	if not is_inside_tree() or not visible:
 		return
-	_data.invalidate_cache(_current_tab)
-	var data = _data.get_leaderboard(_current_tab)
+	var data = _data._parse_taptap_scores(scores_json)
+	if not data.is_empty():
+		data.sort_custom(func(a, b): return a.score > b.score)
+		for i in range(data.size()):
+			data[i]["rank"] = i + 1
+		match _current_tab:
+			_data.TabType.GLOBAL:
+				LeaderboardDataScript._global_cache = data
+				LeaderboardDataScript._cache_timestamp["global"] = Time.get_unix_time_from_system()
+			_data.TabType.FRIENDS:
+				LeaderboardDataScript._friends_cache = data
+				LeaderboardDataScript._cache_timestamp["friends"] = Time.get_unix_time_from_system()
+	else:
+		data = _data.get_leaderboard(_current_tab)
 	for child in list.get_children():
 		list.remove_child(child)
 		child.queue_free()
 	if _my_rank_row and is_instance_valid(_my_rank_row):
 		_my_rank_row.queue_free()
 		_my_rank_row = null
-	_display_data(data)
+	if not data.is_empty():
+		_display_data(data)
+	else:
+		var hint = Label.new()
+		hint.name = "EmptyHint"
+		hint.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
+		hint.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
+		if _current_tab == _data.TabType.FRIENDS:
+			hint.text = tr("暂无好友排行数据\n好友在本游戏中提交分数后将显示在此")
+		else:
+			hint.text = tr("暂无排行数据")
+		hint.add_theme_font_size_override("font_size", 20)
+		list.add_child(hint)
 
 
 func _on_taptap_user_score(score_json: String) -> void:
@@ -254,12 +337,25 @@ func _on_taptap_user_score(score_json: String) -> void:
 	if not data is Dictionary:
 		return
 	var user = data.get("user", {})
+	var raw_score_display: String = data.get("scoreDisplay", str(data.get("score", "0")))
+	var numeric_display = raw_score_display
+	var regex = RegEx.new()
+	regex.compile("^\\d+")
+	var result = regex.search(raw_score_display)
+	if result:
+		numeric_display = result.get_string()
+	var avatar_url = ""
+	var avatar_data = user.get("avatar", "")
+	if avatar_data is Dictionary:
+		avatar_url = avatar_data.get("url", "")
+	elif avatar_data is String:
+		avatar_url = avatar_data
 	_my_score = {
 		"user_id": user.get("openid", ""),
 		"nickname": user.get("name", ""),
-		"avatar_url": user.get("avatar", ""),
+		"avatar_url": avatar_url,
 		"score": float(data.get("score", "0")),
-		"score_display": data.get("scoreDisplay", str(data.get("score", "0"))),
+		"score_display": numeric_display,
 		"rank": int(data.get("rank", "0")),
 		"is_me": true,
 	}
@@ -276,3 +372,14 @@ func _on_taptap_user_score(score_json: String) -> void:
 func _on_taptap_leaderboard_result(code: String, message: String) -> void:
 	if code != "0":
 		print("[Leaderboard] result code=%s msg=%s" % [code, message])
+		if code == "500101" and _current_tab == _data.TabType.FRIENDS:
+			for child in list.get_children():
+				list.remove_child(child)
+				child.queue_free()
+			var hint = Label.new()
+			hint.name = "AuthHint"
+			hint.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
+			hint.vertical_alignment = VERTICAL_ALIGNMENT_CENTER
+			hint.text = tr("需要重新登录以授权好友权限\n请退出后重新登录TapTap")
+			hint.add_theme_font_size_override("font_size", 20)
+			list.add_child(hint)

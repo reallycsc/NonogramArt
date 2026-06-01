@@ -1,0 +1,15 @@
+[configuration]
+
+entry_symbol = "gdextension_init"
+compatibility_minimum = 4.3
+reloadable = true
+
+[libraries]
+
+windows.debug.x86_64 = "res://addons/tap_tap_pc/tap_tap_pc.windows.template_debug.x86_64.dll"
+windows.release.x86_64 = "res://addons/tap_tap_pc/tap_tap_pc.windows.template_release.x86_64.dll"
+
+[dependencies]
+
+windows.debug.x86_64 = { "taptap_api.dll": "" }
+windows.release.x86_64 = { "taptap_api.dll": "" }

@@ -1,8 +1,18 @@
 {
     "logs": [
         {
-            "outputFile": "com.reallycsc.nonogramart.taptap.app-merged_res-19:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.reallycsc.nonogramart.taptap.app-merged_res-26:/values-night-v8/values-night-v8.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\95fb2b922cb275cdf0fa265366c79bc5\\transformed\\dirichlet_ad_4.2.5.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,173,238,295",
+                        "endColumns": "50,66,64,56,50",
+                        "endOffsets": "101,168,233,290,341"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\e2ddb2e99221c98c087551afc38499b9\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
@@ -11,13 +21,30 @@
                         "startOffsets": "55,125,209,293,389,491,593,687",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "346,416,500,584,680,782,884,978",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "411,495,579,675,777,879,973,1062"
                     }
                 }
             ]
         },
         {
-            "outputFile": "com.reallycsc.nonogramart.taptap.app-mergeReleaseResources-17:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.reallycsc.nonogramart.taptap.app-mergeReleaseResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\95fb2b922cb275cdf0fa265366c79bc5\\transformed\\dirichlet_ad_4.2.5.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,173,238,295",
+                        "endColumns": "50,66,64,56,50",
+                        "endOffsets": "101,168,233,290,341"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\8.11.1\\transforms\\e2ddb2e99221c98c087551afc38499b9\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
@@ -26,6 +53,13 @@
                         "startOffsets": "55,125,209,293,389,491,593,687",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "346,416,500,584,680,782,884,978",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "411,495,579,675,777,879,973,1062"
                     }
                 }
             ]

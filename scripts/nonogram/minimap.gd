@@ -195,3 +195,6 @@ func force_hide():
 	visible = false
 	modulate.a = 0.0
 	_current_alpha = 0.0
+
+func force_show():
+	_force_hide = false

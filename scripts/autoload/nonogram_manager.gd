@@ -15,6 +15,7 @@ var row_hints: Array = []
 var col_hints: Array = []
 var color_map: Dictionary = {}
 var life: int = 3
+const MAX_LIFE: int = 3
 
 func _ready():
 	pass
@@ -117,6 +118,11 @@ func check_and_handle_error(x: int, y: int, new_state: int) -> bool:
 			GameManager.nonogram_life_updated.emit(life, x, y)
 			return true
 	return false
+
+func add_life(amount: int = 3) -> void:
+	life += amount
+	life = clamp(life, 0, MAX_LIFE)
+	GameManager.nonogram_life_updated.emit(life, -1, -1)
 
 func finish_cell_for_error(x: int, y: int) -> CellState:
 	var cell_state = puzzle_data[x][y]

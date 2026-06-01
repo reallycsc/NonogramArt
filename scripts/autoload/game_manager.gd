@@ -6,6 +6,7 @@ signal picture_completed(picture_id: String)
 signal album_completed(album_id: String)
 signal progress_changed
 signal language_changed(language: int)
+signal cloud_sync_completed
 
 signal nonogram_cell_updated(x: int, y: int, state: int)
 signal nonogram_cell_finished(x: int, y: int)
@@ -44,11 +45,12 @@ var settings: Dictionary = {
 	"auto_rotate": true,
 }
 
-var test_mode: bool = true
+var test_mode: bool = false
 
 var privacy_agreed: bool = false
 var taptap_user_id: String = ""
 var taptap_archive_id: String = ""
+var cloud_sync_in_progress: bool = false
 
 var pending_bookshelf_id: String = ""
 var pending_album_id: String = ""
@@ -167,23 +169,25 @@ func _preload_album_icons(album_ids: Array) -> void:
 		var album = AlbumDataScript.get_album(album_id)
 		var icon_path = album.get("icon", "")
 		var tex: Texture2D = null
-		if current_language == Language.ENGLISH:
-			var en_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en.png"
-			if en_path != "" and ResourceLoader.exists(en_path):
-				tex = load(en_path)
-		if tex == null and icon_path != "" and ResourceLoader.exists(icon_path):
-			tex = load(icon_path)
+		if icon_path != "" and DLCManager.is_album_available(album_id) and ResourceLoader.exists(icon_path):
+			if current_language == Language.ENGLISH:
+				var en_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en.png"
+				if en_path != "" and ResourceLoader.exists(en_path):
+					tex = load(en_path)
+			if tex == null:
+				tex = load(icon_path)
 		_album_icon_cache[cache_key] = tex
 		if not _album_icon_grey_cache.has(cache_key):
 			var grey_tex: Texture2D = null
-			if current_language == Language.ENGLISH:
-				var en_grey_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en_grey.png"
-				if en_grey_path != "" and ResourceLoader.exists(en_grey_path):
-					grey_tex = load(en_grey_path)
-			if grey_tex == null:
-				var grey_path = icon_path.get_basename() + "_grey.png"
-				if grey_path != "" and ResourceLoader.exists(grey_path):
-					grey_tex = load(grey_path)
+			if icon_path != "" and DLCManager.is_album_available(album_id) and ResourceLoader.exists(icon_path):
+				if current_language == Language.ENGLISH:
+					var en_grey_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en_grey.png"
+					if en_grey_path != "" and ResourceLoader.exists(en_grey_path):
+						grey_tex = load(en_grey_path)
+				if grey_tex == null:
+					var grey_path = icon_path.get_basename() + "_grey.png"
+					if grey_path != "" and ResourceLoader.exists(grey_path):
+						grey_tex = load(grey_path)
 			_album_icon_grey_cache[cache_key] = grey_tex
 
 
@@ -201,12 +205,13 @@ func get_album_icon(album_id: String) -> Texture2D:
 	var album = AlbumDataScript.get_album(album_id)
 	var icon_path = album.get("icon", "")
 	var tex: Texture2D = null
-	if current_language == Language.ENGLISH:
-		var en_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en.png"
-		if en_path != "" and ResourceLoader.exists(en_path):
-			tex = load(en_path)
-	if tex == null and icon_path != "" and ResourceLoader.exists(icon_path):
-		tex = load(icon_path)
+	if icon_path != "" and DLCManager.is_album_available(album_id) and ResourceLoader.exists(icon_path):
+		if current_language == Language.ENGLISH:
+			var en_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en.png"
+			if en_path != "" and ResourceLoader.exists(en_path):
+				tex = load(en_path)
+		if tex == null:
+			tex = load(icon_path)
 	_album_icon_cache[cache_key] = tex
 	return tex
 
@@ -218,14 +223,15 @@ func get_album_icon_grey(album_id: String) -> Texture2D:
 	var album = AlbumDataScript.get_album(album_id)
 	var icon_path = album.get("icon", "")
 	var tex: Texture2D = null
-	if current_language == Language.ENGLISH:
-		var en_grey_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en_grey.png"
-		if en_grey_path != "" and ResourceLoader.exists(en_grey_path):
-			tex = load(en_grey_path)
-	if tex == null:
-		var grey_path = icon_path.get_basename() + "_grey.png"
-		if grey_path != "" and ResourceLoader.exists(grey_path):
-			tex = load(grey_path)
+	if icon_path != "" and DLCManager.is_album_available(album_id) and ResourceLoader.exists(icon_path):
+		if current_language == Language.ENGLISH:
+			var en_grey_path = icon_path.get_base_dir() + "/en/" + icon_path.get_file().get_basename() + "_en_grey.png"
+			if en_grey_path != "" and ResourceLoader.exists(en_grey_path):
+				tex = load(en_grey_path)
+		if tex == null:
+			var grey_path = icon_path.get_basename() + "_grey.png"
+			if grey_path != "" and ResourceLoader.exists(grey_path):
+				tex = load(grey_path)
 	_album_icon_grey_cache[cache_key] = tex
 	return tex
 
@@ -233,6 +239,8 @@ func get_album_icon_grey(album_id: String) -> Texture2D:
 func invalidate_album_icon_cache(album_id: String) -> void:
 	_album_icon_cache.erase(album_id)
 	_album_icon_grey_cache.erase(album_id)
+	_album_icon_cache.erase(album_id + "_en")
+	_album_icon_grey_cache.erase(album_id + "_en")
 
 
 func invalidate_all_album_icon_caches() -> void:
@@ -297,8 +305,11 @@ func _get_album_color_map() -> Dictionary:
 	}
 
 
-func _generate_album_icon(a_id: String, album_colors: Dictionary) -> ImageTexture:
+func _generate_album_icon(a_id: String, album_colors: Dictionary, grey: bool = false) -> ImageTexture:
 	var color = album_colors.get(a_id, Color(0.5, 0.5, 0.5))
+	if grey:
+		var grey_val = color.v * 0.5
+		color = Color(grey_val, grey_val, grey_val)
 	var size = 56
 	var radius = 22
 	var icon = Image.create(size, size, false, Image.FORMAT_RGBA8)
@@ -348,6 +359,14 @@ func _build_completion_cache_async() -> void:
 		var album_total: int = 0
 		var album_done: int = 0
 		var pictures = AlbumDataScript.load_pictures(album_id)
+		if pictures.is_empty():
+			_album_puzzle_counts[album_id] = 0
+			_album_done_counts[album_id] = 0
+			_album_completion_cache[album_id] = 0.0
+			batch_idx += 1
+			if batch_idx % 5 == 0:
+				await get_tree().process_frame
+			continue
 		for picture in pictures:
 			var pic_id = picture.get("id", "")
 			_picture_to_album_map[pic_id] = album_id
@@ -429,6 +448,11 @@ func _build_completion_cache() -> void:
 		var album_total: int = 0
 		var album_done: int = 0
 		var pictures = AlbumDataScript.load_pictures(album_id)
+		if pictures.is_empty():
+			_album_puzzle_counts[album_id] = 0
+			_album_done_counts[album_id] = 0
+			_album_completion_cache[album_id] = 0.0
+			continue
 		for picture in pictures:
 			var pic_id = picture.get("id", "")
 			_picture_to_album_map[pic_id] = album_id
@@ -815,6 +839,7 @@ func load_from_cloud_save(cloud_json: String) -> void:
 	taptap_user_id = data.get("taptap_user_id", taptap_user_id)
 	taptap_archive_id = data.get("taptap_archive_id", taptap_archive_id)
 	invalidate_completion_cache()
+	progress_changed.emit()
 	var file = FileAccess.open(_save_path, FileAccess.WRITE)
 	if file:
 		file.store_string(JSON.stringify(data, "\t"))

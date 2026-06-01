@@ -28,6 +28,7 @@ OrientationManager="*res://scripts/autoload/orientation_manager.gd"
 ToastManager="*res://scripts/autoload/toast_manager.gd"
 DLCManager="*res://scripts/autoload/dlc_manager.gd"
 TapTapManager="*res://scripts/autoload/tap_tap_manager.gd"
+AdManager="*res://scripts/autoload/ad_manager.gd"
 
 [display]
 

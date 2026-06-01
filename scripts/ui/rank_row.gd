@@ -18,8 +18,7 @@ var _http_request: HTTPRequest = null
 @onready var _background: TextureRect = $Background
 @onready var _rank_label: Label = $Background/RankLabel
 @onready var _avatar: TextureRect = $Background/HBox/Avatar
-@onready var _name_label: Label = $Background/HBox/Info/NameLabel
-@onready var _sub_label: Label = $Background/HBox/Info/SubLabel
+@onready var _name_label: Label = $Background/HBox/NameLabel
 @onready var _score_value: Label = $Background/HBox/Score/ScoreValue
 
 const AVATAR_SIZE := Vector2(56, 56)
@@ -44,8 +43,6 @@ func setup(data: Dictionary, p_is_regional: bool = false, p_use_me_bg: bool = fa
 		_score_value.text = _data.format_score(score)
 	else:
 		_score_value.text = str(int(score))
-
-	_sub_label.text = ""
 
 	_setup_background()
 	_setup_rank_display()
@@ -75,16 +72,14 @@ func _setup_background() -> void:
 
 
 func _setup_rank_display() -> void:
-	match rank:
-		1:
-			_rank_label.visible = false
-		2:
-			_rank_label.visible = false
-		3:
-			_rank_label.visible = false
-		_:
-			_rank_label.visible = true
-			_rank_label.text = str(rank)
+	if _use_me_bg:
+		_rank_label.visible = true
+		_rank_label.text = str(rank)
+	elif rank <= 3 and rank > 0:
+		_rank_label.visible = false
+	else:
+		_rank_label.visible = true
+		_rank_label.text = str(rank)
 
 
 func _load_avatar_from_url(url: String) -> void:
@@ -92,12 +87,14 @@ func _load_avatar_from_url(url: String) -> void:
 		_http_request = HTTPRequest.new()
 		_http_request.request_completed.connect(_on_avatar_loaded)
 		add_child(_http_request)
-	_setup_fallback_avatar(0)
+	_avatar.modulate.a = 0.0
 	_http_request.request(url)
 
 
 func _on_avatar_loaded(_result: int, _code: int, _headers: PackedStringArray, body: PackedByteArray) -> void:
 	if body.is_empty():
+		_setup_fallback_avatar(0)
+		_avatar.modulate.a = 1.0
 		return
 	var img = Image.new()
 	var err = img.load_png_from_buffer(body)
@@ -106,12 +103,15 @@ func _on_avatar_loaded(_result: int, _code: int, _headers: PackedStringArray, bo
 	if err != OK:
 		err = img.load_webp_from_buffer(body)
 	if err != OK:
+		_setup_fallback_avatar(0)
+		_avatar.modulate.a = 1.0
 		return
 	img.convert(Image.FORMAT_RGBA8)
 	img = _make_circular(img)
 	var tex = ImageTexture.create_from_image(img)
 	if _avatar and is_instance_valid(_avatar):
 		_avatar.texture = tex
+		_avatar.modulate.a = 1.0
 
 
 func _setup_fallback_avatar(avatar_index: int) -> void:

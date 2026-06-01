@@ -15,6 +15,14 @@ plugins {
 
 apply plugin: 'org.jetbrains.kotlin.android'
 
+repositories {
+    flatDir {
+        dirs 'src/main/libs'
+    }
+    google()
+    mavenCentral()
+}
+
 android {
     namespace 'com.reallycsc.nonogramart.taptap'
     compileSdk 34
@@ -59,6 +67,14 @@ dependencies {
     compileOnly 'com.taptap.sdk:tap-compliance:4.10.2'
     compileOnly 'com.taptap.sdk:tap-cloudsave:4.10.2'
     compileOnly 'com.taptap.sdk:tap-leaderboard-androidx:4.10.2'
+    compileOnly 'com.taptap.sdk:tap-relation-lite:4.10.2'
+    implementation(name: "dirichlet_ad_4.2.5.0", ext: "aar")
+    implementation 'com.squareup.okhttp3:okhttp:3.12.1'
+    implementation "com.android.support:appcompat-v7:28.0.0"
+    implementation "com.android.support:support-annotations:28.0.0"
+    implementation "com.android.support:support-v4:28.0.0"
+    implementation 'com.github.bumptech.glide:glide:4.9.0'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
     implementation 'androidx.core:core-ktx:1.12.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
 }
